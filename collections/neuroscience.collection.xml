@@ -1,18 +1,22 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
-  <col:metadata>
-    <md:uuid>44175f46-f8f3-41e4-ab0d-35c454db6db8</md:uuid>
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col01988</md:content-id>
     <md:title>Neuroscience</md:title>
     <md:slug>neuroscience</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">CC-BY-NC-SA 4.0</md:license>
-    <md:content-id>col01988</md:content-id>
     <md:language>en</md:language>
-  </col:metadata>
+    <md:uuid>44175f46-f8f3-41e4-ab0d-35c454db6db8</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </metadata>
   <col:content>
-
+    <col:subcollection>
+      <md:title>Hearing and Balance</md:title>
+      <col:content>
+        <col:module document="m00001"/>
+        <col:module document="m00002"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
