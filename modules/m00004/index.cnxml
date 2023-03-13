@@ -87,7 +87,69 @@
           <para id="para-00039">What happens as a child’s brain commits itself to a particular set of phonemes? Although it is not possible to study this at a cellular or molecular level in humans, work in nonhuman animal models has shed light on how experience could be reshaping how the auditory system processes sounds.</para>
           <para id="para-00040">The auditory cortex in rats, as in other species, is organized by frequency in a tonotopic map (Image 7.20; Image credit: Maps made based on data from Zhang, L., Bao, S. &amp; Merzenich, M. Persistent and specific influences of early acoustic environments on primary auditory cortex. Nat Neurosci 4, 1123–1130 (2001). https://doi.org/10.1038/nn745). This organization is seen throughout the classical auditory pathway, so a reasonable hypothesis would be that the cortical organization is inherited via topological connections from earlier stations. This does not mean that the map is not able to change: work from Michael Merzenich and his colleagues has shown that the map is plastic early in life, subject to alteration by experience (Zhang et al 2001). When a rat is raised in an environment dominated by tones of a single frequency, the map that results is dominated by that frequency. In other words, repeated exposure to 4 kHz tones results in more neurons over a larger area of cortex responding preferentially to that frequency. Similar effects are seen with other features like rhythm (Zhou et al 2008). However, the map is only plastic for a limited period during development. The same treatment has little effect on older animals. This closely resembles what is seen in humans: once a child’s brain has committed to a specific language’s phonetic map, it becomes much more difficult to change (Kuhl et al 2006; Bosseler et al 2013).</para>
         </note></section>
+        
+    <section class="section-summary" id="sect-00011">
+      <title>TOPIC Summary</title>
+      <para id="para-00041">The neural circuits of the auditory system process incoming stimuli to determine where sounds are coming from and what is making them. The locations of sound sources are determined early in the auditory pathway, primarily by comparing the relative timing and level of sounds arriving at the two ears. Neural circuits later in the auditory pathway are responsible for decoding information about what is being heard. Many complex sounds are perceived in terms of basic features of pitch, loudness, and amplitude, while other sounds like speech are perceived as discrete categories. In humans, the perception of phonetic speech categories emerges early in life as a consequence of experience.</para>
+    </section>
+
+    <section class="key-terms" id="sect-00012">
+      <title>Key Terms</title>
+      <para id="para-00042">articulator</para>
+      <para id="para-00043">azimuth</para>
+      <para id="para-00044">categorical perception</para>
+      <para id="para-00045">elevation</para>
+      <para id="para-00046">formant</para>
+      <para id="para-00047">fundamental frequency</para>
+      <para id="para-00048">harmonic series</para>
+      <para id="para-00049">intensity</para>
+      <para id="para-00050">interaural level difference</para>
+      <para id="para-00051">interaural time delay</para>
+      <para id="para-00052">larynx</para>
+      <para id="para-00053">loudness</para>
+      <para id="para-00054">operant conditioning</para>
+      <para id="para-00055">phase</para>
+      <para id="para-00056">phonation</para>
+      <para id="para-00057">phone</para>
+      <para id="para-00058">phoneme</para>
+      <para id="para-00059">place code</para>
+      <para id="para-00060">psychometric curve</para>
+      <para id="para-00061">spectrum</para>
+      <para id="para-00062">threshold plot</para>
+      <para id="para-00063">vowel</para>
+      <para id="para-00064">Weber-Fechner scaling</para>
+    </section>
+
+    <section class="references" id="sect-00013">
+      <title>References</title>
+      <para id="para-00065">Bao S, Chang EF, Teng C-L, Heiser MA, Merzenich MM (2013) Emergent categorical representation of natural, complex sounds resulting from the early post-natal sound environment. Neuroscience 248:30–42.</para>
+      <para id="para-00066">Bosseler AN, Taulu S, Pihko E, Mäkelä JP, Imada T, Ahonen A, Kuhl PK (2013) Theta brain rhythms index perceptual narrowing in infant speech perception. Front Psychol 4:690.</para>
+      <para id="para-00067">Demany L, Semal C (2008) The Role of Memory in Auditory Perception. In: Auditory Perception of Sound Sources (Yost WA, Popper AN, Fay RR, eds), pp 77–113. New York: Springer International Publishing.</para>
+      <para id="para-00068">Dreyer A, Delgutte B (2006) Phase locking of auditory-nerve fibers to the envelopes of high-frequency sounds: implications for sound localization. J Neurophysiol 96:2327–2341.</para>
+      <para id="para-00069">Holt LL, Lotto AJ (2010) Speech perception as categorization. Atten Percept Psychophys 72:1218–1227.</para>
+      <para id="para-00070">Jeffress LA (1948) A place theory of sound localization. J Comp Physiol Psychol 41:35–39.</para>
+      <para id="para-00071">Johnson K, Sherman VC, Sherman SG (2011). <emphasis effect="italics">Acoustic and Auditory Phonetics</emphasis>. John Wiley and Sons.</para>
+      <para id="para-00072">oris PX, Smith PH, Yin TC (1998) Coincidence detection in the auditory system: 50 years after Jeffress. Neuron 21:1235–1238.</para>
+      <para id="para-00073">Kolarik AJ, Moore BCJ, Zahorik P, Cirstea S, Pardhan S (2016) Auditory distance perception in humans: a review of cues, development, neuronal bases, and effects of sensory loss. Atten Percept Psychophys 78:373–395.</para>
+      <para id="para-00074">Kuhl PK, Stevens E, Hayashi A, Deguchi T, Kiritani S, Iverson P (2006) Infants show a facilitation effect for native language phonetic perception between 6 and 12 months. Dev Sci 9:F13–F21.</para>
+      <para id="para-00075">Lesica NA, Lingner A, Grothe B (2010) Population coding of interaural time differences in gerbils and barn owls. J Neurosci 30:11696–11702.</para>
+      <para id="para-00076">Liberman AM, Harris KS, Hoffman HS, Griffith BC (1957) The discrimination of speech sounds within and across phoneme boundaries. J Exp Psychol 54:358–368.</para>
+      <para id="para-00077">Liberman AM, Mattingly IG (1985) The motor theory of speech perception revised. Cognition 21:1–36.</para>
+      <para id="para-00078">McAdams S (2019) The Perceptual Representation of Timbre. In: Timbre: Acoustics, perception, and cognition (Siedenburg K, Saitis C, McAdams S, Popper AN, Fay RR, eds), pp 23–57. Cham: Springer International Publishing.</para>
+      <para id="para-00079">Nakamoto KT, Jones SJ, Palmer AR (2008) Descending projections from auditory cortex modulate sensitivity in the midbrain to cues for spatial position. J Neurophysiol 99:2347–2356.</para>
+      <para id="para-00080">Oldfield SR, Parker SP (1984) Acuity of sound localisation: a topography of auditory space. I. Normal hearing conditions. Perception 13:581–600.</para>
+      <para id="para-00081">Piske T, MacKay IR, Flege JE (2001) Factors affecting degree of foreign accent in an L2: A review. J Phon 29:191-215.</para>
+      <para id="para-00082">Plack CJ, Oxenham AJ (2005) The Psychophysics of Pitch. In: Pitch: Neural coding and perception (Plack CJ, Fay RR, Oxenham AJ, Popper AN, eds), pp 56–98. New York, NY: Springer New York.
+      </para>
+      <para id="para-00083">Scharf B (1978) Loudness. In: Carterette EC, Friedman MP (eds) Handbook of Perception, IV: Hearing. New York: Academic Press, pp. 187–242.</para>
+      <para id="para-00084">Schnupp JWH, Honey C, Willmore BDB (2013) Neural Correlates of Auditory Object Perception. In: Neural correlates of auditory cognition (Cohen YE, Popper AN, Fay RR, eds), pp 115–149. New York, NY: Springer New York.</para>
+      <para id="para-00085">Tsao F-M, Liu H-M, Kuhl PK (2004) Speech perception in infancy predicts language development in the second year of life: a longitudinal study. Child Dev 75:1067–1084.</para>
+      <para id="para-00086">Wang X (2013) The harmonic organization of auditory cortex. Front Syst Neurosci 7:114.</para>
+      <para id="para-00087">Werker JF, Tees R (1984) Phonemic and phonetic factors in adult cross-language speech perception. J Acoust Soc Am 75:1866–1878.</para>
+      <para id="para-00088">Winter IM (2005) The Neurophysiology of Pitch. In: Pitch: Neural coding and perception (Plack CJ, Fay RR, Oxenham AJ, Popper AN, eds), pp 99–146. New York, NY: Springer New York.</para>
+      <para id="para-00089">Zhang LI, Bao S, Merzenich MM (2001) Persistent and specific influences of early acoustic environments on primary auditory cortex. Nat Neurosci 4:1123–1130.</para>
+      <para id="para-00090">Zhou X, Merzenich MM (2008) Enduring effects of early structured noise exposure on temporal modulation in the primary auditory cortex. PNAS 105:4423–4428.</para>
+    </section>
   
-  
-      </content>
+  </content>
 </document>
