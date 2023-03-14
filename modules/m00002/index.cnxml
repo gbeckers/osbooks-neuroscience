@@ -48,40 +48,69 @@
       <para id="para-00017">The frequency of a wave is a measure of how rapidly the air at one location changes from compressed to rarefied and back (Image 7.26). Frequency is measured in Hertz (Hz), the number of cycles that occur each second. The frequency of a sound wave is perceived as pitch (see Section 7.3.2). Low-frequency waves sound deep and rich, whereas high-frequency waves are perceived as sharp and thin.</para>
       <para id="para-00018">The phase of a wave is a measure of time relative to the cycles of compression and rarefaction. Phase is not perceived directly, but it affects how different waves interact with each other.</para>
       <para id="para-00019">Almost any process that displaces air molecules will result in an acoustic wave. One of the most common sources of sound is <term id="term-00014">periodic</term> vibration. You can generate periodic motion by plucking or striking a string that is under tension (for example, on a guitar, piano, or harp). Pluck it right in the middle, and listen to the sound while watching the string. The vibration will probably be too fast for your eyes to track, so the string will appear wide in the middle and narrow at the ends, as illustrated in Image 7.26. As it vibrates, the string compresses the air while moving in one direction and rarefies it while moving in the other. The vibrations tend to occur at a specific frequency that depends on the mass of the string, its length, and how tightly it is tensioned. The motion of the string and the sound wave it produces are described by a simple mathematical function called a <term id="term-00015">sinusoid</term> (or sine wave) with a single frequency and amplitude. The form of this function and its relationship to the physical properties of the string will be covered in most elementary physics texts.</para>
-      <table summary=".." id="table-00001">
+      <table summary="Insert Alt Text" id="table-00001">
         <tgroup cols="3">
         <colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
         <colspec colnum="3" colname="c3"/>
-        <thead>
+          <tbody>
           <row>
-            <entry>Course</entry>
-            <entry>Semester</entry>
-            <entry>Grade</entry>
-          </row>
-        </thead>
-        <tbody>
-          <row>
-            <entry morerows="1">Biology</entry>
-            <entry>1</entry>
-            <entry>86%</entry>
+            <entry namest="c1" nameend="c2">Amplitude</entry>
+            <entry/>
           </row>
           <row>
+            <entry>dB SPL</entry>
+            <entry>Pa</entry>
+            <entry>Example</entry>
+          </row>
+          <row>
+            <entry>0</entry>
+            <entry>0.00002</entry>
+            <entry>Mosquito 3 m away in silent room (human hearing threshold)</entry>
+          </row>
+          <row>
+            <entry>10</entry>
+            <entry>0.000063</entry>
+            <entry>Calm breathing</entry>
+          </row>
+          <row>
+            <entry>30</entry>
+            <entry>0.00063</entry>
+            <entry>A quiet office with computer off</entry>
+          </row>
+          <row>
+            <entry>50</entry>
+            <entry>0.0063</entry>
+            <entry>Normal conversation 1 m away</entry>
+          </row>
+          <row>
+            <entry>70</entry>
+            <entry>0.063</entry>
+            <entry>Comfortable music listening level</entry>
+          </row>
+          <row>
+            <entry>90</entry>
+            <entry>0.63</entry>
+            <entry>Traffic on a busy roadway</entry>
+          </row>
+          <row>
+            <entry>100</entry>
             <entry>2</entry>
-            <entry>91%</entry>
+            <entry>Jackhammer 1 m away</entry>
           </row>
           <row>
-            <entry morerows="1">English</entry>
-            <entry>1</entry>
-            <entry>87%</entry>
+            <entry>120</entry>
+            <entry>20</entry>
+            <entry>Jet engine 100 m away (risk of instantaneous noise-induced hearing loss)</entry>
           </row>
           <row>
-            <entry>2</entry>
-            <entry>78%</entry>
+            <entry>170</entry>
+            <entry>6300</entry>
+            <entry>Firecracker 0.5 m away</entry>
           </row>
         </tbody>
         </tgroup>
-        <caption>Caption: Table with cells merged vertically</caption>
+        <caption>Properties of sound</caption>
         </table>
       <para id="para-00020">Now press the string down or pinch it at its midpoint before plucking it. The half that you pluck will vibrate twice as fast as the whole string did, producing a sound wave with twice the frequency. You might notice that the higher note sounds similar even though the frequency is higher. If you pinch the string three-quarters of the way and pluck the short part, the frequency will be four times as high, but the note will still sound similar. This is an illustration of how the perception of frequency is logarithmic, as we’ll discuss more later (see Section 7.3.2).</para>
       <para id="para-00021">What happens if you pluck the whole string, but nearer to one end? You might notice that the note sounds richer and more complex, and that the movement of the string looks more complicated, without one clear wide part in the middle. Just as white light is composed of electromagnetic waves with frequencies spanning from red to violet, sounds can be composed of multiple waves with different frequencies. When the guitar string is plucked nearer the end, it will vibrate at the frequency corresponding to the full length of the string but also at twice that frequency (corresponding to half the length), three times that frequency (corresponding to one third of the length), and so on. A series of integer multiples like this is called a harmonic series. The lower-frequency and higher-frequency sound waves add together to produce <term id="term-00016">complex harmonic motion</term>. The specific combination of frequencies in a complex sound is called its <term id="term-00017">spectrum</term>. Most simple and complex periodic sounds are perceived as tones with a defined pitch that corresponds to the lowest frequency in the harmonic series.</para>
