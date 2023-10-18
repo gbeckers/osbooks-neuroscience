@@ -6,19 +6,19 @@
     <md:uuid>f26e23e9-8c49-4a0d-a34a-f0a2986acd8d</md:uuid>
   </metadata>
   <content>
-    
+
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00002">By the end of this section, students will be able to:</para>
         <list id="list-00001">
-          <item>Objective 1: Identify the anatomical structures of the vestibular system.</item>
-          <item>Objective 2: Describe how linear and angular acceleration are transduced into neural signals.</item>
-          <item>Objective 3: Identify vestibular reflexes and the associated neural circuits.</item>
+          <item>Identify the anatomical structures of the vestibular system.</item>
+          <item>Describe how linear and angular acceleration are transduced into neural signals.</item>
+          <item>Identify vestibular reflexes and the associated neural circuits.</item>
         </list>
     </section>
 
     <para id="para-00001">The auditory system, responsible for the sense of hearing, is closely associated with the vestibular system, which is responsible for the sense of balance and for helping the brain to track the body’s movements in space. Both systems use mechanosensitive hair cells to transduce physical forces into neural signals, and the vestibular hair cells are located within the same organ as the cochlear hair cells. Both systems also send their input to the brain via cranial nerve VIII. However, central processing of vestibular inputs involves different pathways and brain areas, and the behavioral consequences are different as well.</para>
-      
+
     <section id="sect-00002"><title>Sensing angular and linear movements</title>
       <para id="para-00003">As animals move around in the world, they undergo many changes in position and orientation. These movements occur within the earth’s gravitational field, which exerts a force that must be resisted to avoid falling over. To understand how the vestibular system tracks these movements and forces, it is necessary to consider some elementary physics.</para>
       <para id="para-00004">Movements in space can be linear or angular (see Image 7.22). Linear movements are changes in the position of the animal’s center of mass. These can occur along any of the three dimensions of space, or some combination of directions. From the animal’s frame of reference, these are up and down, left and right, and forward and backwards. Angular movements are changes in the orientation of the animal around the center of mass. These can also occur along three dimensions: pitch, roll, and yaw. Pitch corresponds to nodding the head, yaw to shaking it from side to side (like indicating “no”), and roll to tipping it sideways (like getting water out of your ear). If the animal is at rest, any change in linear or angular position requires a change in linear or angular velocity. A change in velocity is called <term id="term-00001">acceleration</term>. According to Newton’s first law, acceleration is proportional to net force. The forces produced by acceleration are <term id="term-00002">dynamic</term>. Bodies are also subject to the <term id="term-00003">static</term> force produced by gravity. Much as the cochlea has evolved to sense the forces produced by acoustic pressure, the vestibular labyrinth has evolved to sense the forces produced by acceleration of the head and by the earth’s gravitational field.</para>
@@ -44,7 +44,7 @@
         </media>
       <caption>Crista ampullaris</caption>
       </figure></section>
-    
+
     <section id="sect-00003"><title>Vestibular control of gaze and balance</title>
       <para id="para-00009">Maintaining balance, especially in bipedal species like humans, requires rapid, reflexive muscular movements to keep the body’s center of mass in alignment with gravity. Furthermore, locomotory activities like running, walking, and flying cause displacements of the head, and animals need to correct for these movements to maintain a clear visual image. The vestibular system plays a critical role in both of these processes.</para>
       <para id="para-00010">The central concept in understanding how gaze and balance are maintained is <term id="term-00016">feedback</term>: movements that displace the body or the eyes from the desired position produce signals in the vestibular system that output to the specific muscles that generate a corrective or compensatory movement. The vestibular reflexes are some of the fastest in the body, and to achieve that speed, the underlying circuitry is relatively simple.</para>
@@ -64,12 +64,12 @@
       </figure>
       <para id="para-00013">For the VOR to maintain gaze, the angular distance of the eye movement needs to be matched to the angular displacement of the head. The scaling between the sensory input (head movement) and the motor output (eye movement) is called the <term id="term-00020">gain</term> of the reflex, and it depends on the distance of the object from the eyes. To illustrate, repeat the experiment in the previous paragraph, holding your finger still while rotating your head from side to side. Keep your focus on your finger, but notice how objects in the background do not remain steady. Now focus on the background, and notice how your finger now appears to move. This modulation in gain depends on descending input from the cerebellum to the vestibular nucleus. Purkinje neurons in the flocculus of the cerebellum integrate information from many sources, including optic flow from the superior colliculus, neck movements from proprioceptors, and motor commands from the cortex to predict how eye movements will affect the visual image. The output of these neurons can increase or decrease the gain of the vestibular nucleus neurons to appropriately scale eye movements. The cerebellum can learn to adjust its predictions when visual or vestibular inputs are perturbed, for example if the vestibular hair cells on one side of the head are damaged or if glasses are worn with prisms that distort or reverse the visual image (Blazquez et al 2004; Day and Fitzpatrick 2005).</para>
       <para id="para-00014">The other two major vestibular reflexes are the <term id="term-00021">vestibulocollic reflex</term> and the <term id="term-00022">vestibulospinal reflex</term>. The vestibulocollic reflex generates neck muscle contractions to stabilize the head’s position relative to the body, whereas the vestibulospinal reflex generates limb and core muscle movements to maintain balance. When the head and trunk tilt to one side, signals from the vestibular nucleus to motor neurons in the spinal cord cause the ipsilateral limbs to extend while the contralateral limbs contract, which has the net effect of pushing the body back towards the vertical. As with the VOR, the cerebellum is responsible for modulating the gain of the vestibulocollic and vestibulospinal reflexes during volitional movements.</para></section>
-  
+
       <section class="section-summary" id="sect-00004">
         <title>TOPIC Summary</title>
         <para id="para-00015">The vestibular system senses linear and angular movements of the head and its tilt relative to gravity. These forces are transduced to neural signals by hair cells within the semicircular canals and the otolith organs of the vestibular labyrinth. The vestibular nuclei are responsible for generating reflexes in the eye muscles that maintain gaze and for reflexes in the neck and body muscles that maintain head position and balance.</para>
       </section>
-  
+
       <section class="key-terms" id="sect-00005">
         <title>Key Terms</title>
         <para id="para-00016">abduct</para>
@@ -95,7 +95,7 @@
         <para id="para-00036">vestibulospinal reflex</para>
         <para id="para-00037">utricle</para>
       </section>
-  
+
       <section class="references" id="sect-00006">
         <title>References</title>
         <para id="para-00038">Blazquez PM, Hirata Y, Highstein SM (2004) The vestibulo-ocular reflex as a model system for motor learning: what is the role of the cerebellum? The Cerebellum 3:188–192.</para>
