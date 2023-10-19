@@ -119,29 +119,31 @@
 
     <section class="key-terms" id="sect-00012">
       <title>Key Terms</title>
-      <para id="para-00042">articulator</para>
-      <para id="para-00043">azimuth</para>
-      <para id="para-00044">categorical perception</para>
-      <para id="para-00045">elevation</para>
-      <para id="para-00046">formant</para>
-      <para id="para-00047">fundamental frequency</para>
-      <para id="para-00048">harmonic series</para>
-      <para id="para-00049">intensity</para>
-      <para id="para-00050">interaural level difference</para>
-      <para id="para-00051">interaural time delay</para>
-      <para id="para-00052">larynx</para>
-      <para id="para-00053">loudness</para>
-      <para id="para-00054">operant conditioning</para>
-      <para id="para-00055">phase</para>
-      <para id="para-00056">phonation</para>
-      <para id="para-00057">phone</para>
-      <para id="para-00058">phoneme</para>
-      <para id="para-00059">place code</para>
-      <para id="para-00060">psychometric curve</para>
-      <para id="para-00061">spectrum</para>
-      <para id="para-00062">threshold plot</para>
-      <para id="para-00063">vowel</para>
-      <para id="para-00064">Weber-Fechner scaling</para>
+      <list id="list-00002">
+        <item>articulator</item>
+        <item>azimuth</item>
+        <item>categorical perception</item>
+        <item>elevation</item>
+        <item>formant</item>
+        <item>fundamental frequency</item>
+        <item>harmonic series</item>
+        <item>intensity</item>
+        <item>interaural level difference</item>
+        <item>interaural time delay</item>
+        <item>larynx</item>
+        <item>loudness</item>
+        <item>operant conditioning</item>
+        <item>phase</item>
+        <item>phonation</item>
+        <item>phone</item>
+        <item>phoneme</item>
+        <item>place code</item>
+        <item>psychometric curve</item>
+        <item>spectrum</item>
+        <item>threshold plot</item>
+        <item>vowel</item>
+        <item>Weber-Fechner scaling</item>
+      </list>
     </section>
 
     <section class="references" id="sect-00013">

@@ -137,27 +137,29 @@
 
     <section class="key-terms" id="sect-00006">
        <title>Key Terms</title>
-       <para id="para-00032">amplitude</para>
-       <para id="para-00033">complex harmonic motion</para>
-       <para id="para-00034">cue</para>
-       <para id="para-00035">decibels</para>
-       <para id="para-00036">diffraction</para>
-       <para id="para-00037">echolocation</para>
-       <para id="para-00038">filtering</para>
-       <para id="para-00039">frequency</para>
-       <para id="para-00040">interference</para>
-       <para id="para-00041">periodic/aperiodic</para>
-       <para id="para-00042">pressure</para>
-       <para id="para-00043">rarefaction</para>
-       <para id="para-00044">receiver</para>
-       <para id="para-00045">reflection</para>
-       <para id="para-00046">resonance</para>
-       <para id="para-00047">reverberation</para>
-       <para id="para-00048">sender</para>
-       <para id="para-00049">signal</para>
-       <para id="para-00050">sinusoid</para>
-       <para id="para-00051">spectrum</para>
-       <para id="para-00052">speech</para>
+       <list id="list-00002">
+        <item>amplitude</item>
+        <item>complex harmonic motion</item>
+        <item>cue</item>
+        <item>decibels</item>
+        <item>diffraction</item>
+        <item>echolocation</item>
+        <item>filtering</item>
+        <item>frequency</item>
+        <item>interference</item>
+        <item>periodic/aperiodic</item>
+        <item>pressure</item>
+        <item>rarefaction</item>
+        <item>receiver</item>
+        <item>reflection</item>
+        <item>resonance</item>
+        <item>reverberation</item>
+        <item>sender</item>
+        <item>signal</item>
+        <item>sinusoid</item>
+        <item>spectrum</item>
+        <item>speech</item>
+       </list>
     </section>
 
     <section class="references" id="sect-00007">

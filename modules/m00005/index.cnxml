@@ -72,28 +72,30 @@
 
       <section class="key-terms" id="sect-00005">
         <title>Key Terms</title>
-        <para id="para-00016">abduct</para>
-        <para id="para-00017">acceleration</para>
-        <para id="para-00018">adduct</para>
-        <para id="para-00019">ampulla</para>
-        <para id="para-00020">ampullary crest</para>
-        <para id="para-00021">cupula</para>
-        <para id="para-00022">dynamic force</para>
-        <para id="para-00023">endolymph</para>
-        <para id="para-00024">feedback</para>
-        <para id="para-00025">gain</para>
-        <para id="para-00026">macula</para>
-        <para id="para-00027">otoconia</para>
-        <para id="para-00028">otolith organs</para>
-        <para id="para-00029">saccule</para>
-        <para id="para-00030">semicircular canals</para>
-        <para id="para-00031">static force</para>
-        <para id="para-00032">vestibular ganglion</para>
-        <para id="para-00033">vestibular nuclear complex</para>
-        <para id="para-00034">vestibulo-ocular reflex</para>
-        <para id="para-00035">vestibulocollic reflex</para>
-        <para id="para-00036">vestibulospinal reflex</para>
-        <para id="para-00037">utricle</para>
+        <list id="list-00002">
+          <item>abduct</item>
+          <item>acceleration</item>
+          <item>adduct</item>
+          <item>ampulla</item>
+          <item>ampullary crest</item>
+          <item>cupula</item>
+          <item>dynamic force</item>
+          <item>endolymph</item>
+          <item>feedback</item>
+          <item>gain</item>
+          <item>macula</item>
+          <item>otoconia</item>
+          <item>otolith organs</item>
+          <item>saccule</item>
+          <item>semicircular canals</item>
+          <item>static force</item>
+          <item>vestibular ganglion</item>
+          <item>vestibular nuclear complex</item>
+          <item>vestibulo-ocular reflex</item>
+          <item>vestibulocollic reflex</item>
+          <item>vestibulospinal reflex</item>
+          <item>utricle</item>
+        </list>
       </section>
 
       <section class="references" id="sect-00006">

@@ -163,43 +163,45 @@
 
     <section class="key-terms" id="sect-00019">
       <title>Key Terms</title>
-      <para id="para-00042">auditory cortex</para>
-      <para id="para-00043">auricles</para>
-      <para id="para-00044">basilar membrane</para>
-      <para id="para-00045">cochlea</para>
-      <para id="para-00046">cochlear nucleus</para>
-      <para id="para-00047">commissural connection</para>
-      <para id="para-00048">conductive hearing loss</para>
-      <para id="para-00049">endolymph</para>
-      <para id="para-00050">Eustachian tube</para>
-      <para id="para-00051">external ear</para>
-      <para id="para-00052">hair cell</para>
-      <para id="para-00053">impedance</para>
-      <para id="para-00054">incus</para>
-      <para id="para-00055">inferior colliculus</para>
-      <para id="para-00056">inner ear</para>
-      <para id="para-00057">inner hair cell</para>
-      <para id="para-00058">lateral lemniscus</para>
-      <para id="para-00059">lateral superior olive</para>
-      <para id="para-00060">malleus</para>
-      <para id="para-00061">medial superior olive</para>
-      <para id="para-00062">middle ear</para>
-      <para id="para-00063">organ of Corti</para>
-      <para id="para-00064">ototoxic</para>
-      <para id="para-00065">oval window</para>
-      <para id="para-00066">perilymph</para>
-      <para id="para-00067">positive feedback</para>
-      <para id="para-00068">round window</para>
-      <para id="para-00069">sensorineural hearing loss</para>
-      <para id="para-00070">stapedius</para>
-      <para id="para-00071">stapes</para>
-      <para id="para-00072">stereocilia</para>
-      <para id="para-00073">tectorial membrane</para>
-      <para id="para-00074">tensor tympani</para>
-      <para id="para-00075">thalamus</para>
-      <para id="para-00076">tonotopic organization</para>
-      <para id="para-00077">top-down</para>
-      <para id="para-00078">tympanic membrane</para>
+      <list id="list-00002">
+        <item>auditory cortex</item>
+        <item>auricles</item>
+        <item>basilar membrane</item>
+        <item>cochlea</item>
+        <item>cochlear nucleus</item>
+        <item>commissural connection</item>
+        <item>conductive hearing loss</item>
+        <item>endolymph</item>
+        <item>Eustachian tube</item>
+        <item>external ear</item>
+        <item>hair cell</item>
+        <item>impedance</item>
+        <item>incus</item>
+        <item>inferior colliculus</item>
+        <item>inner ear</item>
+        <item>inner hair cell</item>
+        <item>lateral lemniscus</item>
+        <item>lateral superior olive</item>
+        <item>malleus</item>
+        <item>medial superior olive</item>
+        <item>middle ear</item>
+        <item>organ of Corti</item>
+        <item>ototoxic</item>
+        <item>oval window</item>
+        <item>perilymph</item>
+        <item>positive feedback</item>
+        <item>round window</item>
+        <item>sensorineural hearing loss</item>
+        <item>stapedius</item>
+        <item>stapes</item>
+        <item>stereocilia</item>
+        <item>tectorial membrane</item>
+        <item>tensor tympani</item>
+        <item>thalamus</item>
+        <item>tonotopic organization</item>
+        <item>top-down</item>
+        <item>tympanic membrane</item>
+      </list>
     </section>
 
     <section class="references" id="sect-00020">
