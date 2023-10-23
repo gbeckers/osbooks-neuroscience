@@ -6,6 +6,24 @@
     <md:uuid>6059ea49-5bcd-4e70-a3fc-32532a4082a2</md:uuid>
   </metadata>
   <content>
+    <section class="learning-objectives" id="sect-00003">
+      <title>Learning Objectives</title>
+      <para id="para-00039">By the end of this section you should be able to</para>
+      <list id="list-00002">
+        <item>Describe several pain treatment strategies.</item>
+        <item>Define what a placebo is.</item>
+        <item>Differentiate between pain treatment modalities and their mechanisms of action.</item>
+      </list>
+    </section>
+    <section id="sect-00004">
+      <para id="para-00040">There are various ways to treat pain. For acute pain, people can use over-the-counter medication including acetaminophen, aspirin, and ibuprofen.  Physical therapy, massage, acupuncture, etc. are also popular, widely available pain relievers. In more severe cases, a prescription drug can be used, such as potent and effective opiate medication. Of course, though opioids are effective, they are also highly addictive, and users quickly develop tolerance, causing them to use more and more [Link to Ch 14 Psychopharmacology]. The recent opioid epidemic in the United States is a result of these properties of opioids, which lead people to overdose after consuming higher and higher doses.</para>
+      <para id="para-00041">In most cases, if the pain is due to infection of the tissue, or actual injury of the tissue, after the infection is treated or the injury is healed, the pain will be relieved. If pain is not relieved after healing, and chronic pain emerges, there are several treatments available beyond those typically used for acute pain. Opioids are one possibility, though the potential for addiction is high when taken chronically. For some people, an integrative biopsychosocial cognitive therapy can be helpful (Gatchel et al., 2007). Some non-invasive treatments are also potentially useful, such as <term id="term-00001">magnetic stimulation</term>, <term id="term-00002">transcranial electrical stimulation</term>, and <term id="term-00003">transcutaneous electrical nerve stimulation (TENS)</term>. If any of these treatments are not effective in relieving chronic pain, surgical intervention, or implantation of electrodes for electrical stimulation in peripheral nerve, spinal cord, or brain areas will serve as the last option. In this section, we will review these major approaches to pain management</para>
+<section id="sect-00005">
+  <title>Placebos</title>
+  <para id="para-00042">A</para>
+</section>
+
+    </section>
     <section class="key-terms" id="sect-00001">
       <title>Key Terms</title>
       <list id="list-00001">
@@ -26,26 +44,43 @@
     <section class="references" id="sect-00002">
       <title>References</title>
       <para id="para-00001">Atakan, Z. (2012). Cannabis, a complex plant: different compounds and different effects on individuals. <emphasis effect="italics">Therapeutic Advances in Psychopharmacology</emphasis>, <emphasis effect="italics">2</emphasis>(6), 241. https://doi.org/10.1177/2045125312457586</para>
-      <para id="para-00002">Bagley, E. E., &amp; Ingram, S. L. (2020). Endogenous opioid peptides in the descending pain modulatory circuit. <emphasis effect="italics">Neuropharmacology</emphasis>, 173. https://doi.org/10.1016/j.neuropharm.2020.108131</para>
-      <para id="para-00003">Bouchet, C. A., &amp; Ingram, S. L. (2020). Cannabinoids in the descending pain modulatory circuit: Role in inflammation. <emphasis effect="italics">Pharmacology and Therapeutics</emphasis>, 209. https://doi.org/10.1016/j.pharmthera.2020.107495</para>
-      <para id="para-00004">Caterina, M. J., Schumacher, M. A., Tominaga, M., Rosen, T. A., Levine, J. D., &amp; Julius, D. (1997). The capsaicin receptor: a heat-activated ion channel in the pain pathway. 
-        <emphasis effect="italics">Nature</emphasis> 389, 816–824. https://doi.org/10.1038/39807</para>
-      <para id="para-00005"/>
-      <para id="para-00006"/>
-      <para id="para-00007"/>
-      <para id="para-00008"/>
-      <para id="para-00009"/>
-      <para id="para-00010"/>
-      <para id="para-00011"/>
-      <para id="para-00012"/>
-      <para id="para-00013"/>
-      <para id="para-00014"/>
-      <para id="para-00015"/>
-      <para id="para-00016"/>
-      <para id="para-00017"/>
-      <para id="para-00018"/>
-      <para id="para-00019"/>
-      <para id="para-00020"/>
+      <para id="para-00002">Bagley, E. E., &amp; Ingram, S. L. (2020). Endogenous opioid peptides in the descending pain modulatory circuit. <emphasis effect="italics">Neuropharmacology</emphasis>, <emphasis effect="italics">173</emphasis>. https://doi.org/10.1016/j.neuropharm.2020.108131</para>
+      <para id="para-00003">Bouchet, C. A., &amp; Ingram, S. L. (2020). Cannabinoids in the descending pain modulatory circuit: Role in inflammation. <emphasis effect="italics">Pharmacology and Therapeutics</emphasis>, <emphasis effect="italics">209</emphasis>. https://doi.org/10.1016/j.pharmthera.2020.107495</para>
+      <para id="para-00004">Caterina, M. J., Schumacher, M. A., Tominaga, M., Rosen, T. A., Levine, J. D., &amp; Julius, D. (1997). The capsaicin receptor: a heat-activated ion channel in the pain pathway. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">389</emphasis>, 816–824. https://doi.org/10.1038/39807</para>
+      <para id="para-00005">Corder, G., Castro, D. C., Bruchas, M. R., &amp; Scherrer, G. (2018). Endogenous and exogenous opioids in pain. <emphasis effect="italics">Annual Review of Neuroscience</emphasis>, <emphasis effect="italics">41</emphasis>, 453–473. https://doi.org/10.1146/annurev-neuro-080317-061522</para>
+      <para id="para-00006">Finn, D. P., Haroutounian, S., Hohmann, A. G., Krane, E., Soliman, N., &amp; Rice, A. S. C. (2021). Cannabinoids, the endocannabinoid system, and pain: a review of preclinical studies. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">162</emphasis>, S5–S25. https://doi.org/10.1097/j.pain.0000000000002268</para>
+      <para id="para-00007">Fontaine, D. (2021). Spinal cord stimulation for neuropathic pain. <emphasis effect="italics">Revue Neurologique</emphasis>, <emphasis effect="italics">177</emphasis>(7), 838–842. https://doi.org/10.1016/j.neurol.2021.07.014</para>
+      <para id="para-00008">Gatchel, R. J., Peng, Y. B., Peters, M. L., Fuchs, P. N., &amp; Turk, D. C. (2007). The Biopsychosocial Approach to Chronic Pain: Scientific Advances and Future Directions. <emphasis effect="italics">Psychological Bulletin</emphasis>, <emphasis effect="italics">133</emphasis>(4), 581–624. https://doi.org/10.1037/0033-2909.133.4.581</para>
+      <para id="para-00009">Gatzinsky, K., Bergh, C., Liljegren, A., Silander, H., Samuelsson, J., Svanberg, T., &amp; Samuelsson, O. (2021). Repetitive transcranial magnetic stimulation of the primary motor cortex in management of chronic neuropathic pain: A systematic review. <emphasis effect="italics">Scandinavian Journal of Pain</emphasis>, <emphasis effect="italics">21</emphasis>(1), 8–21. https://doi.org/10.1515/sjpain-2020-0054</para>
+      <para id="para-00010">Hill, K. P., Palastro, M. D., Johnson, B., &amp; Ditre, J. W. (2017). Cannabis and Pain: A Clinical Review. <emphasis effect="italics">Cannabis and Cannabinoid Research</emphasis>, <emphasis effect="italics">2</emphasis>(1), 96–104. https://doi.org/10.1089/CAN.2017.0017</para>
+      <para id="para-00011">Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., &amp; Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. <emphasis effect="italics">Cognitive Therapy and Research</emphasis>, <emphasis effect="italics">36</emphasis>(5), 427–440. https://doi.org/10.1007/S10608-012-9476-1/TABLES/1</para>
+      <para id="para-00012">Hussein, A. E., Esfahani, D. R., Moisak, G. I., Rzaev, J. A., &amp; Slavin, K. v. (2018). Motor Cortex Stimulation for Deafferentation Pain. <emphasis effect="italics">Current Pain and Headache Reports</emphasis>, <emphasis effect="italics">22</emphasis>(6). https://doi.org/10.1007/s11916-018-0697-1</para>
+      <para id="para-00013">Klinger, R., Colloca, L., Bingel, U., &amp; Flor, H. (2014). Placebo analgesia: clinical applications. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">155</emphasis>(6), 1055–1058. https://doi.org/10.1016/J.PAIN.2013.12.007</para>
+      <para id="para-00014">Klinger, R., Stuhlreyer, J., Schwartz, M., Schmitz, J., &amp; Colloca, L. (2018). Clinical Use of Placebo Effects in Patients With Pain Disorders. <emphasis effect="italics">International Review of Neurobiology</emphasis>, <emphasis effect="italics">139</emphasis>, 107–128. https://doi.org/10.1016/BS.IRN.2018.07.015</para>
+      <para id="para-00015">Knotkova, H., Hamani, C., Sivanesan, E., le Beuffe, M. F. E., Moon, J. Y., Cohen, S. P., &amp; Huntoon, M. A. (2021). Neuromodulation for chronic pain. <emphasis effect="italics">The Lancet</emphasis>, <emphasis effect="italics">397</emphasis>(10289), 2111–2124. https://doi.org/10.1016/S0140-6736(21)00794-7</para>
+      <para id="para-00016">Lefaucheur, J. P. (2017). The complex relationship between pain and motor cortex. <emphasis effect="italics">Brain Stimulation</emphasis>, <emphasis effect="italics">10</emphasis>(2), 382. https://doi.org/10.1016/j.brs.2017.01.130</para>
+      <para id="para-00017">Lossignol, D. (2019). Cannabinoids: a new approach for pain control? <emphasis effect="italics">Current Opinion in Oncology</emphasis>, <emphasis effect="italics">31</emphasis>(4), 275–279. https://doi.org/10.1097/CCO.0000000000000523</para>
+      <para id="para-00018">McCracken, L. M., &amp; Turk, D. C. (2002). Behavioral and cognitive-behavioral treatment for chronic pain: outcome, predictors of outcome, and treatment process. <emphasis effect="italics">Spine</emphasis>, <emphasis effect="italics">27</emphasis>(22), 2564–2573. https://doi.org/10.1097/00007632-200211150-00033</para>
+      <para id="para-00019">Melzack, R. (2001). Pain and the Neuromatrix in the Brain. <emphasis effect="italics">Journal of Dental Education</emphasis>, <emphasis effect="italics">65</emphasis>(12), 1378–1382. https://doi.org/10.1002/j.0022-0337.2001.65.12.tb03497.x</para>
+      <para id="para-00020">Melzack, R. (2005). Evolution of the neuromatrix theory of pain. The Prithvi Raj Lecture: presented at the third World Congress of World Institute of Pain, Barcelona 2004. <emphasis effect="italics">Pain Practice</emphasis>, <emphasis effect="italics">5</emphasis>(2), 85–94. https://doi.org/10.1111/j.1533-2500.2005.05203.x</para>
+      <para id="para-00021">Mundt, J. M., Roditi, D., &amp; Robinson, M. E. (2017). A Comparison of Deceptive and Non-Deceptive Placebo Analgesia: Efficacy and Ethical Consequences. <emphasis effect="italics">Annals of Behavioral Medicine</emphasis>, <emphasis effect="italics">51</emphasis>(2), 307–315. https://doi.org/10.1007/s12160-016-9854-0 </para>
+      <para id="para-00022">Nüssel, M., Hamperl, M., Maslarova, A., Chaudhry, S. R., Köhn, J., Stadlbauer, A., Buchfelder, M., &amp; Kinfe, T. (2021). Burst Motor Cortex Stimulation Evokes Sustained Suppression of Thalamic Stroke Pain: A Narrative Review and Single-Case Overview. <emphasis effect="italics">Pain and Therapy</emphasis>, <emphasis effect="italics">10</emphasis>(1), 101–114. https://doi.org/10.1007/s40122-020-00221-0</para>
+      <para id="para-00023">Peng, Y. B., Ling, Q. D., Ruda, M. A., &amp; Kenshalo, D. R. (2003). Electrophysiological changes in adult rat dorsal horn neurons after neonatal peripheral inflammation. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">90</emphasis>(1), 73–80. https://doi.org/10.1152/jn.01019.2002</para>
+      <para id="para-00024">Ramos-Fresnedo, A., Perez-Vega, C., Domingo, R. A., Cheshire, W. P., Middlebrooks, E. H., &amp; Grewal, S. S. (2022). Motor Cortex Stimulation for Pain: A Narrative Review of Indications, Techniques, and Outcomes. <emphasis effect="italics">Neuromodulation : Journal of the International Neuromodulation Society</emphasis>, <emphasis effect="italics">25</emphasis>(2), 211–221. https://doi.org/10.1016/j.neurom.2021.10.025</para>
+      <para id="para-00025">Rock, A. K., Truong, H., Park, Y. L., &amp; Pilitsis, J. G. (2019). Spinal Cord Stimulation. <emphasis effect="italics">Neurosurgery Clinics of North America</emphasis>, <emphasis effect="italics">30</emphasis>(2), 169–194. https://doi.org/10.1016/j.nec.2018.12.003</para>
+      <para id="para-00026">Ruda, M. A., Ling, Q. D., Hohmann, A. G., Peng, Y. B., &amp; Tachibana, T. (2000). Altered nociceptive neuronal circuits after neonatal peripheral inflammation. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">289</emphasis>(5479), 628–630. https://doi.org/10.1126/science.289.5479.628</para>
+      <para id="para-00027">Samanta, A., Hughes, T. E. T., &amp; Moiseenkova-Bell, V. Y. (2018). Transient Receptor Potential (TRP) Channels. <emphasis effect="italics">Sub-Cellular Biochemistry</emphasis>, <emphasis effect="italics">87</emphasis>, 141. https://doi.org/10.1007/978-981-10-7757-9_6</para>
+      <para id="para-00028">Schafer, S. M., Geuter, S., &amp; Wager, T. D. (2018). Mechanisms of placebo analgesia: A dual-process model informed by insights from cross-species comparisons. <emphasis effect="italics">Progress in Neurobiology</emphasis>, <emphasis effect="italics">160</emphasis>, 101–122. https://doi.org/10.1016/J.PNEUROBIO.2017.10.008</para>
+      <para id="para-00029">Schmidt, G. L. (2019). The Use of Spinal Cord Stimulation/Neuromodulation in the Management of Chronic Pain. <emphasis effect="italics">Journal of the American Academy of Orthopaedic Surgeons</emphasis>, <emphasis effect="italics">27</emphasis>(9), E401–E407. https://doi.org/10.5435/JAAOS-D-17-00829 </para>
+      <para id="para-00030">Sdrulla, A. D., Guan, Y., &amp; Raja, S. N. (2018). Spinal Cord Stimulation: Clinical Efficacy and Potential Mechanisms. <emphasis effect="italics">Pain Practice</emphasis>, <emphasis effect="italics">18</emphasis>(8), 1048–1067. https://doi.org/10.1111/papr.12692</para>
+      <para id="para-00031">Senatus, P., Zurek, S., &amp; Deogaonkar, M. (2020). Deep Brain Stimulation and Motor Cortex Stimulation for Chronic Pain. <emphasis effect="italics">Neurology India</emphasis>, <emphasis effect="italics">68</emphasis>(8), S235–S240. https://doi.org/10.4103/0028-3886.302471</para>
+      <para id="para-00032">Stockings, E., Campbell, G., Hall, W. D., Nielsen, S., Zagic, D., Rahman, R., Murnion, B., Farrell, M., Weier, M., &amp; Degenhardt, L. (2018). Cannabis and cannabinoids for the treatment of people with chronic noncancer pain conditions: A systematic review and meta-analysis of controlled and observational studies. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">159</emphasis>(10), 1932–1954. https://doi.org/10.1097/j.pain.0000000000001293</para>
+      <para id="para-00033">Sun, L., Peng, C., Joosten, E., Cheung, C. W., Tan, F., Jiang, W., &amp; Shen, X. (2021). Spinal Cord Stimulation and Treatment of Peripheral or Central Neuropathic Pain: Mechanisms and Clinical Application. <emphasis effect="italics">Neural Plasticity</emphasis>, <emphasis effect="italics">2021</emphasis>. https://doi.org/10.1155/2021/5607898</para>
+      <para id="para-00034">Tan, L. L., &amp; Kuner, R. (2021). Neocortical circuits in pain and pain relief. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">22</emphasis>(8), 458–471. https://doi.org/10.1038/s41583-021-00468-2 </para>
+      <para id="para-00035">Vase, L., &amp; Wartolowska, K. (2019). Pain, placebo, and test of treatment efficacy: a narrative review. <emphasis effect="italics">British Journal of Anaesthesia</emphasis>, <emphasis effect="italics">123</emphasis>(2), e254–e262. https://doi.org/10.1016/J.BJA.2019.01.040 </para>
+      <para id="para-00036">Wager, T. D., &amp; Atlas, L. Y. (2015). The neuroscience of placebo effects: connecting context, learning and health. <emphasis effect="italics">Nature Publishing Group</emphasis>, <emphasis effect="italics">16</emphasis>, 403–418. https://doi.org/10.1038/nrn3976</para>
+      <para id="para-00037">Whiting, P. F., Wolff, R. F., Deshpande, S., di Nisio, M., Duffy, S., Hernandez, A. v., Keurentjes, J. C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M., &amp; Kleijnen, J. (2015). Cannabinoids for medical use: A systematic review and meta-analysis. <emphasis effect="italics">JAMA - Journal of the American Medical Association</emphasis>, <emphasis effect="italics">313</emphasis>(24), 2456–2473. https://doi.org/10.1001/jama.2015.6358</para>
+      <para id="para-00038">Zang, Y., Zhang, Y., Lai, X., Yang, Y., Guo, J., Gu, S., &amp; Zhu, Y. (2021). Repetitive Transcranial Magnetic Stimulation for Neuropathic Pain on the Non-Motor Cortex: An Evidence Mapping of Systematic Reviews. <emphasis effect="italics">Evidence-Based Complementary and Alternative Medicine: ECAM</emphasis>, <emphasis effect="italics">2021</emphasis>, 3671800. https://doi.org/10.1155/2021/3671800</para>
     </section>
   </content>
 </document>
