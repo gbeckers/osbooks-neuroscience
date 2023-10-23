@@ -1,11 +1,11 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
-  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <col:metadata>
     <md:title>Neuroscience</md:title>
     <md:slug>neuroscience</md:slug>
     <md:language>en</md:language>
     <md:uuid>44175f46-f8f3-41e4-ab0d-35c454db6db8</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
-  </metadata>
+  </col:metadata>
   <col:content>
     <col:subcollection>
       <md:title>Hearing and Balance</md:title>
@@ -15,6 +15,16 @@
         <col:module document="m00003"/>
         <col:module document="m00004"/>
         <col:module document="m00005"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Touch and Pain</md:title>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00010"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
       </col:content>
     </col:subcollection>
   </col:content>
