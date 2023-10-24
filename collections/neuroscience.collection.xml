@@ -8,6 +8,26 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
+      <md:title>Motor Control</md:title>
+      <col:content>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Neurophysiology</md:title>
+      <col:content>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
+        <col:module document="m00015"/>
+        <col:module document="m00016"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Hearing and Balance</md:title>
       <col:content>
         <col:module document="m00001"/>
