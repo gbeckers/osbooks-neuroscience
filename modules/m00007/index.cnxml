@@ -18,12 +18,12 @@
     <para id="para-00002">When you lift a hot pot of boiling water from the stove, not only do you feel the temperature but also vibration due to the boiling content. Further, you may also notice the texture of the handle. How does this happen? How can you sense so many properties at once? Among all five senses, the body sense (somatosensory system) starts with the largest variety of different unique receptors. Each receptor connects via an axon to the central nervous system to transmit information to our brain to enable perception. This section will review how these receptors transduce such a variety of skin signals into neural signals headed to the central nervous system.</para>
     <section id="sect-00002">
       <title>Peripheral receptors and functional modalities</title>
-      <para id="para-00003">Each somatosensation starts with the activation of one or more types of peripheral somatosensory receptors. Peripheral receptors include several major types, such as the <term id="term-00001">Merkel disk</term>, <term id="term-00002">Meissner’s corpuscle</term>, <term id="term-00003">Ruffini endings</term>, <term id="term-00004">Pacinian corpuscle</term>, <term id="term-00005">free nerve endings</term>, and <term id="term-00006">hair cells</term> (Image 9.01). These different sensory receptors enable us to feel touch, pressure, vibration, pain, and temperature. </para>
+      <para id="para-00003">Each somatosensation starts with the activation of one or more types of peripheral somatosensory receptors. Peripheral receptors include several major types, such as the <term id="term-00001">Merkel disk</term>, <term id="term-00002">Meissner’s corpuscle</term>, <term id="term-00003">Ruffini endings</term>, <term id="term-00004">Pacinian corpuscle</term>, <term id="term-00005">free nerve endings</term>, and <term id="term-00006">hair cells</term> (Image 9.01). These different sensory receptors enable us to feel touch, pressure, vibration, pain, and temperature.</para>
       <section id="sect-00003">
         <title>Touch receptors</title>
         <para id="para-00004">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle all serve to transduce features of touch sensation. These disks and corpuscles are specialized structures in the skin that are connected to axons that send touch information to the spinal cord. These terminal structures are the starting points of the somatosensory system, so they are also called "sensory receptors". Here the term "receptor" is different from the neurotransmitter receptor on the cell membrane (much smaller, one protein molecule). The sensory receptor is a much larger structure (composed of many proteins). Within these specialized endings sit mechanosensitive cation channels which activate in response to mechanical pull from sensations like touch, pressure, and vibration. These channels, also called <term id="term-00007">piezo channels</term>, are permeable to Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, and Mg<sup>2+</sup>, with a slight preference for Ca<sup>2+</sup>. Image 9.12 shows how these channels open in response to mechanical force. Their discovery led to a Nobel prize in 2021 for Dr. Ardem Patapoutian, the scientist who first described them (Coste et al., 2010). The influx of ions through these channels leads to the generation of action potentials which propagate via highly myelinated <term id="term-00008">Aβ fibers</term> to the spinal cord.</para>
-        <para id="para-00005">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle are each sensitive to different kinds of touch. The location and shape of each receptor structure supports these different sensitivities. Image 9.06 summarizes these key features of these 4 receptor types. </para>
-        <para id="para-00006">First, their different locations in the skin help determine how large or small their <term id="term-00009">receptive fields</term> are, which for touch receptors means the area of the skin in which touch can activate them. Merkel disks and Meissner’s corpuscles are located more superficially around the epidermis and therefore have a smaller and clearly-defined receptive field. Ruffini endings and Pacinian corpuscles are located more in the deeper part of the skin (with a larger, blurry receptive field), near where hair follicles are located. </para>
+        <para id="para-00005">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle are each sensitive to different kinds of touch. The location and shape of each receptor structure supports these different sensitivities. Image 9.06 summarizes these key features of these 4 receptor types.</para>
+        <para id="para-00006">First, their different locations in the skin help determine how large or small their <term id="term-00009">receptive fields</term> are, which for touch receptors means the area of the skin in which touch can activate them. Merkel disks and Meissner’s corpuscles are located more superficially around the epidermis and therefore have a smaller and clearly-defined receptive field. Ruffini endings and Pacinian corpuscles are located more in the deeper part of the skin (with a larger, blurry receptive field), near where hair follicles are located.</para>
         <para id="para-00007">Second, the shape and composition of each touch receptor help determine how long they respond to stimuli, dividing them into rapid adapting versus slowly adapting receptors. The slowly adapting receptors include Merkel disk and Ruffini endings. When a force or stimulus is applied in their receptive field, those receptors will be constantly activated and generate electrical activities (e.g., pressure). On the other hand, the rapidly adapting receptors such as Meissner’s corpuscle and Pacinian corpuscle only respond or generate electrical activities when there is a dynamic change of forces or stimuli, such as vibration (Johansson and Vallbo, 1983; Koerber and Mendell, 1988). These adaptation properties combine with the receptive field to give the unique sensitivity of each of these 4 receptor types to specific touch modalities described in Image 9.01.</para>
       </section>
       <section id="sect-00004">
@@ -46,6 +46,7 @@
       <para id="para-00013">As mentioned throughout the previous section, the different types of somatosensory receptors are connected to specialized axons with different diameters and myelination (Aβ, Aδ, C fibers, for example). Image 9.23 shows the pathways these fibers take from the receptors (e.g., in the skin) into the spinal cord. These first-order axons are also called <term id="term-00019">primary afferents </term>(Crawford and Caterina, 2020). The cell body of the primary afferent fiber is located in the <term id="term-00020">dorsal root ganglion</term> (<term id="term-00021">DRG</term>), from which a pseudo-unipolar neuron sends out a parent axon that splits off into a peripheral branch and a central branch (Lin and Chen, 2018; Haberberger et al., 2019). The peripheral branch is long and projects to the skin where it receives signals from a specific receptor, whereas the central branch is short and enters the nearby spinal cord through the <term id="term-00022">dorsal root.</term> The short branch ends with synapses onto the <term id="term-00023">spinal cord dorsal horn neurons</term> where neurotransmitters are released, or projects directly up the dorsal column of the spinal cord toward the brain. The spinal cord neurons also project up to various levels in the brain.</para>
       <para id="para-00014">While the primary afferents all follow a similar path to the spinal cord, they each propagate electrical signals along that path at different speeds. The A-fibers are a family of myelinated axons with different axonal diameters and extent of myelination. As we learned in [Link to Ch 2 Neuronal Physiology], the larger the diameter, the faster the conduction of the action potential. Image 9.27 (Image credit: Race car image by Morio - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22169642 Helicopter image by Sebastian Koppehel - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=91350504 Highway image by Rl91 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4591786 Walkers by Powerwalkingclub - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95373352) provides a visualization of how these afferents compare in myelination and conduction speed. From large to small, they follow the order: Aα (12-20µm, 72-120 m/s), Aβ(6-12µm, 36-72 m/s), Aδ (1-6µm, 4-36 m/s), and unmyelinated C-fibers (0.2-1.5µm, 0.4-2 m/s). It is the difference of a racing car (120 m/s = 268 miles/hr) versus a fast walking (2 m/s = 4.5 miles/hr). Due to the difference in electrical signal conduction speed, even though both C-fibers and Aδ-fibers contribute to pain perception, Aδ-fibers are involved in fast and pricking pain, whereas C-fibers are involved in more slow and dull pain (Hunt and Mantyh, 2001; Julius and Basbaum, 2001).</para>
     </section>
+
     <section class="section-summary" id="sect-00007">
       <title>Summary</title>
       <para id="para-00015">This section summarizes the neural structures in the peripheral sensory system as the starting point to receive, transduce, and propagate various modalities of somatosensory information to the central nervous system. Understanding various types of sensory receptors, their axon types, cell body location, and major neurotransmitters used will provide a solid foundation for understanding at the next level of neural transmission, the central nervous system.</para>
@@ -87,6 +88,62 @@
       <para id="para-00027">Lin, Y. T., &amp; Chen, J. C. (2018). Dorsal Root Ganglia Isolation and Primary Culture to Study Neurotransmitter Release. <emphasis effect="italics">Journal of Visualized Experiments : JoVE</emphasis>, <emphasis effect="italics">2018</emphasis>(140), 57569. https://doi.org/10.3791/57569 </para>
       <para id="para-00028">Proske, U. (1979). The golgi tendon organ. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">2</emphasis>(C), 7–8. https://doi.org/10.1016/0166-2236(79)90004-3 </para>
       <para id="para-00029">Samanta, A., Hughes, T. E. T., &amp; Moiseenkova-Bell, V. Y. (2018). Transient Receptor Potential (TRP) Channels. <emphasis effect="italics">Sub-Cellular Biochemistry</emphasis>, <emphasis effect="italics">87</emphasis>, 141. https://doi.org/10.1007/978-981-10-7757-9_6 </para>
+    </section>
+    <section class="multiple-choice" id="sect-00010"> 
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-09-01-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-09-01-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-09-01-008"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-09-01-009"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-09-01-010"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-09-01-011"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-09-01-012"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-09-01-012"/></para>
+        </problem>
+      </exercise>
+      </section>
+    <section class="fillin-blank" id="sect-00011"> 
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-09-01-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-09-01-002"/></para>
+        </problem>
+      </exercise>
     </section>
   </content>
 </document>

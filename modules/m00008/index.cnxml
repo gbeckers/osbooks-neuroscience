@@ -30,7 +30,7 @@
     <section id="sect-00004">
       <title>Psychological contribution to pain</title>
       <para id="para-00006">Pain involves not only physiological processes but also emotional responses, cognitive evaluations, and behavioral responses. Both physiological and psychological factors are integrated into the experience of pain and our emotional, cognitive, and behavioral responses to it (Gamsa, 1994; Baliki et al., 2006; Borsook and Becerra, 2009; Linton and Shaw, 2011; Bushnell et al., 2013; Gilam et al., 2020). These two factors are so intertwined that pain in the absence of injury, which is assumed to be purely psychological, activates similar brain pathways as pain originating in bodily damage. The feedback between psychological responses to pain and subsequent perception of pain is complex and extensive.</para>
-      <para id="para-00007"><term id="term-00006">Pain disorders</term> demonstrate the complex interchange between psychological responses and pain perception. Both physical pain from injury and pain that is psychological in origin can lead to pain disorders, or the experience of severe stress due to chronic, debilitating pain. The American Psychiatric Association (2022) recognizes this with two psychiatric diagnoses associated with pain in the <term id="term-00007">Diagnostic and Statistical Manual of Mental Disorders V-TR</term>: pain disorder associated with <term id="term-00008">psychological factors</term> either with or without a diagnosed <term id="term-00009">medical condition</term> (medical conditions such as rheumatoid arthritis, appendicitis, fractures, sprained ankle, infections, cancer, etc.). As these diagnostic categories imply, both psychological factors and a general medical condition have important roles in the onset, severity, exacerbation, and maintenance of pain. As an example, it has been found that pain (such as that from an injury or physical illness) attracts attention and that increased attention to pain also enhances the painfulness of nociceptive stimulation. This positive feedback loop (pain begets attention, which begets more pain) is attributed to the reduction of activation in key regions of the pain matrix, including the thalamus, insula, and parts of the anterior cingulate. Of course, psychological processes (such as distraction) can also reduce pain perception. The areas involved in distraction during the processing of nociceptive stimulation seem to be mediated by a prefrontal–cingulate top-down modulation of the brain stem structures. The inhibition of ascending nociceptive input comes from the powerful descending pain modulatory pathways originating in structures such as the amygdala, hypothalamus, insula, anterior cingulate cortex, periaqueductal grey, and rostroventral medulla. Projections from these higher structures contribute to descending inhibition of spinal cord dorsal horn neurons, reducing incoming transmission of pain information. </para>
+      <para id="para-00007"><term id="term-00006">Pain disorders</term> demonstrate the complex interchange between psychological responses and pain perception. Both physical pain from injury and pain that is psychological in origin can lead to pain disorders, or the experience of severe stress due to chronic, debilitating pain. The American Psychiatric Association (2022) recognizes this with two psychiatric diagnoses associated with pain in the <term id="term-00007">Diagnostic and Statistical Manual of Mental Disorders V-TR</term>: pain disorder associated with <term id="term-00008">psychological factors</term> either with or without a diagnosed <term id="term-00009">medical condition</term> (medical conditions such as rheumatoid arthritis, appendicitis, fractures, sprained ankle, infections, cancer, etc.). As these diagnostic categories imply, both psychological factors and a general medical condition have important roles in the onset, severity, exacerbation, and maintenance of pain. As an example, it has been found that pain (such as that from an injury or physical illness) attracts attention and that increased attention to pain also enhances the painfulness of nociceptive stimulation. This positive feedback loop (pain begets attention, which begets more pain) is attributed to the reduction of activation in key regions of the pain matrix, including the thalamus, insula, and parts of the anterior cingulate. Of course, psychological processes (such as distraction) can also reduce pain perception. The areas involved in distraction during the processing of nociceptive stimulation seem to be mediated by a prefrontal–cingulate top-down modulation of the brain stem structures. The inhibition of ascending nociceptive input comes from the powerful descending pain modulatory pathways originating in structures such as the amygdala, hypothalamus, insula, anterior cingulate cortex, periaqueductal grey, and rostroventral medulla. Projections from these higher structures contribute to descending inhibition of spinal cord dorsal horn neurons, reducing incoming transmission of pain information.</para>
     </section>
     <section id="sect-00005">
       <title>Limbic system contribution to emotional aspects of pain</title>
@@ -78,6 +78,51 @@
         <item>serotonin (5-HT)</item>
         <item>norepinephrine (NE)</item>
       </list>
+    </section>
+    <section class="references" id="sect-00010">
+      <title>References</title>
+      <para id="para-00022">temp</para>
+    </section>
+    <section class="multiple-choice" id="sect-00012">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00066"><link class="os-embed" url="#exercise/Neuro-09-03-022"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00023"><link class="os-embed" url="#exercise/Neuro-09-03-023"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00024"><link class="os-embed" url="#exercise/Neuro-09-03-024"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-09-03-025"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-09-03-026"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-09-03-027"/></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00013">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00028"><link class="os-embed" url="#exercise/Neuro-09-03-004"/></para>
+        </problem>
+      </exercise>
     </section>
   </content>
 </document>
