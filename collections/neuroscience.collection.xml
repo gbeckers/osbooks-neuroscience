@@ -8,15 +8,6 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Motor Control</md:title>
-      <col:content>
-        <col:module document="m00017"/>
-        <col:module document="m00018"/>
-        <col:module document="m00019"/>
-        <col:module document="m00020"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
       <md:title>Neurophysiology</md:title>
       <col:content>
         <col:module document="m00011"/>
@@ -45,6 +36,15 @@
         <col:module document="m00010"/>
         <col:module document="m00008"/>
         <col:module document="m00009"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Motor Control</md:title>
+      <col:content>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
       </col:content>
     </col:subcollection>
   </col:content>
