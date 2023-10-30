@@ -88,7 +88,7 @@
     </section>
     <section class="key-terms" id="sect-00008">
       <title>Key Terms</title>
-      <list id="list-00002">
+      <list display="inline" id="list-00002">
         <item>somatosensory receptors</item>
         <item>primary afferents</item>
         <item>free nerve endings</item>

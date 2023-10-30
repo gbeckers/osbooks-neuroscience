@@ -67,7 +67,7 @@
       </section>
       <section class="key-terms" id="sect-00005">
         <title>Key Terms</title>
-        <list id="list-00002">
+        <list display="inline" id="list-00002">
           <item>Rhythm</item>
           <item>Feedback</item>
           <item>Parallel processing</item>

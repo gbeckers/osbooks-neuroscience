@@ -97,7 +97,7 @@
     </section>
     <section class="key-terms" id="sect-00011">
       <title>Key Terms</title>
-      <list id="list-00002">
+      <list display="inline" id="list-00002">
         <item>Dorsal root</item>
         <item>dorsal root ganglion</item>
         <item>dorsal horn neuron</item>

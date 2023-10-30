@@ -77,7 +77,7 @@
   </section>
   <section class="key-terms" id="sect-00005">
   <title>Key Terms</title>
-  <list id="list-00003">
+  <list display="inline" id="list-00003">
     <item>Neurotransmitters</item>
     <item>Action potentials</item>
     <item>Chemical synapses</item>

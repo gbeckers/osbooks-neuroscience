@@ -137,7 +137,7 @@
 
     <section class="key-terms" id="sect-00006">
        <title>Key Terms</title>
-       <list id="list-00002">
+       <list display="inline" id="list-00002">
         <item>amplitude</item>
         <item>complex harmonic motion</item>
         <item>cue</item>

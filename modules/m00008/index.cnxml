@@ -62,7 +62,7 @@
           <image mime-type="png" src="../../media/Image-9.28_Local-mechanisms-of-itch.png"/>
         </media>
       </figure>
-      <para id="para-00017">Cowhage is a bean-like plant that provides another example of itch-inducing stimuli. The tiny needle-like spicules on the pods are the ones that cause itch from cowhage. Insertion of cowhage spicule(s) into the superficial skin is frequently applied as an itch model in research. The active component of cowhage, termed <term id="term-00016">mucunain</term>, is a novel cysteine protease (Reddy et al., 2008). By binding to the <term id="term-00017">protease-activated receptors (PAR)</term> a member of the G-protein coupled receptor family, it mobilizes Ca2+ ions and excites the C-fibers and Aδ-fibers nerve terminals. Both of these examples demonstrate our understanding of major itch mechanisms at the level of skin receptors.</para>
+      <para id="para-00017">Cowhage is a bean-like plant that provides another example of itch-inducing stimuli. The tiny needle-like spicules on the pods are the ones that cause itch from cowhage. Insertion of cowhage spicule(s) into the superficial skin is frequently applied as an itch model in research. The active component of cowhage, termed <term id="term-00016">mucunain</term>, is a novel cysteine protease (Reddy et al., 2008). By binding to the <term id="term-00017">protease-activated receptors (PAR)</term> a member of the G-protein coupled receptor family, it mobilizes Ca<sup>2+</sup> ions and excites the C-fibers and Aδ-fibers nerve terminals. Both of these examples demonstrate our understanding of major itch mechanisms at the level of skin receptors.</para>
       <para id="para-00018">How itch transmits and is processed within the central nervous system is unclear. The sensation of the itch is transmitted much slower than the sensation of touch and, though itch appears to use C-fibers (<term id="term-00018">pruriceptors</term>) and Aδ-fibers, it does not seem to be a subclassification of pain. There exist two lines of evidence that itch is different from pain. (1) Vigorous scratching produces mild pain and pain inhibits itch. (2) Opiates reduce pain and increase itch. This inhibitory relationship between pain and itch is evidence that itch is not a type of pain. In addition, molecules that induce pain do not elicit an itch sensation or vice versa (Lamotte et al., 2014). When primary afferent activity relaying itch reaches the spinal cord, it has been suggested that the spinal parabrachial pathway plays a critical role in itch processing that leads to itch-induced scratching behaviors (Bautista et al., 2014; Mu et al., 2017; Dong and Dong, 2018). Yet, we still understand very little about how it signals centrally.</para>
       <para id="para-00019">The treatment of minor itch includes: Applying cold compresses, using moisturizing lotions, taking lukewarm or oatmeal baths, using over-the-counter hydrocortisone cream or antihistamines, and avoiding scratching, wearing irritating fabrics, and exposure to high heat and humidity. For severe or chronic itch, prescribed medication, including antihistamines and topical steroids, or more rarely steroid pills and antibiotics, may also be needed.</para>
     </section>
@@ -73,7 +73,7 @@
     </section>
     <section class="key-terms" id="sect-00009">
       <title>Key Terms</title>
-      <list id="list-00002">
+      <list display="inline" id="list-00002">
         <item>Pain</item>
         <item>nociceptive pain</item>
         <item>neuropathic pain</item>

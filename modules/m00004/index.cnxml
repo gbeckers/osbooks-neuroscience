@@ -150,7 +150,7 @@
 
     <section class="key-terms" id="sect-00012">
       <title>Key Terms</title>
-      <list id="list-00002">
+      <list display="inline" id="list-00002">
         <item>articulator</item>
         <item>azimuth</item>
         <item>categorical perception</item>

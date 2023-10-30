@@ -72,7 +72,7 @@
 
       <section class="key-terms" id="sect-00005">
         <title>Key Terms</title>
-        <list id="list-00002">
+        <list display="inline" id="list-00002">
           <item>abduct</item>
           <item>acceleration</item>
           <item>adduct</item>

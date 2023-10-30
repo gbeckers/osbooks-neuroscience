@@ -163,7 +163,7 @@
 
     <section class="key-terms" id="sect-00019">
       <title>Key Terms</title>
-      <list id="list-00002">
+      <list display="inline" id="list-00002">
         <item>auditory cortex</item>
         <item>auricles</item>
         <item>basilar membrane</item>

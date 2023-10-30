@@ -113,7 +113,7 @@
     </section>
     <section class="key-terms" id="sect-00001">
       <title>Key Terms</title>
-      <list id="list-00001">
+      <list display="inline" id="list-00001">
         <item>Placebos</item>
         <item>opioids</item>
         <item>endorphins</item>
