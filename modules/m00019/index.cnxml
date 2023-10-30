@@ -7,5 +7,49 @@
   </metadata>
   <content>
     <para id="para-00001">placeholder</para>
+    <section class="section-summary" id="sect-00001">
+      <title>Summary</title>
+      <para id="para-00002">Distinguishing between upper and lower motoneurons (UMNs, LMNs) is important to divide the overall action of motor control into the conscious selection and patterning activity (upper) versus the implementation and minor adjustments to maintain bodily status quo (lower). We described how LMNs extend into the periphery to synapse with muscle fibers, and how larger LMNs synapse with more fibers than smaller, thus forming the larger and smaller motor units. Motor units activate connected muscles through neuromuscular junctions relatively simultaneously. Fibers synapsed upon typically pull in the same direction. </para>
+      <para id="para-00003">LMNs are activated from their central nervous system residence either at the brainstem or spinal cord, either via descending UMNs in the context of conscious intended actions or via reflex arcs creating quick local lower corrective actions while monitoring circumstances with sensory feedback. Within the spinal cord, LMNs are arranged at the ventral spinal grey in a pattern where medial LMNs connect to medial body parts. The more lateral the LMN residence, the more lateral the activated body part (e.g., finger movement most lateral in the cervical cord). Also within the spinal cord: reflex arc circuitry and circuitry supporting central pattern generation for simple levels of locomotion. </para>
+      <para id="para-00004">Spindle fibers and Golgi tendon organs are the two main sensory feedback systems for muscles. They cover stretch and muscle tension, respectively. Muscle spindles detect stretch via the longitudinal pull on intrafusal muscle fibers, which can be tightened by the gamma motoneuron system to maintain sensitivity at critical moments. Golgi tendon organs detect tension when muscles pull against a load, producing inward pressure by the collagen fibers constituting tendons. They can help ensure a soft touch when needed. Proprioceptive sensory systems also extend into skin vibration and stretch sensations contributing to more complex actions at the lower level.</para>
+    </section>
+      <section class="key-terms" id="sect-00002">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00001">
+        <item>acetylcholinesterase</item>
+        <item>alpha motoneurons</item>
+        <item>ballistic</item>
+        <item>central pattern generators (&amp; generation) collagen fibers (tendon components)</item>
+        <item>extrafusal muscle fibers</item>
+        <item>gamma motoneurons</item>
+        <item>Golgi tendon organs</item>
+        <item>hyperreflexia</item>
+        <item>intrafusal muscle fibers</item>
+        <item>junctional folds</item>
+        <item>“knee jerk” reflex</item>
+        <item>lower motor neurons (LMNs)</item>
+        <item>muscle spindles (spindle fibers)</item>
+        <item>Myasthenia Gravis</item>
+        <item>nicotinic receptors</item>
+        <item>proprioception</item>
+        <item>reflexes</item>
+        <item>size principle</item>
+        <item>somatotopically</item>
+        <item>upper motor neurons (UMNs)</item>
+      </list>
+      </section>
+      <section class="references" id="sect-00003">
+      <title>References</title>
+      <para id="para-00005">placeholder</para>
+      </section>
+      <section class="multiple-choice" id="sect-00004">
+      <title>Multiple Choice</title>
+      <para id="para-00006">placeholder</para>
+      </section>
+      <section class="fillin-blank" id="sect-00005">
+      <title>Fill in the Blank</title>
+      <para id="para-00007">placeholder</para>
+      </section>
+      
   </content>
 </document>
