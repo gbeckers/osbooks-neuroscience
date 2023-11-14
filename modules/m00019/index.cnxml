@@ -22,13 +22,13 @@
     <para id="para-00008">Neuroscientists divide the motor system into lower levels and upper levels for clinical purposes. The implementation of final contractions occurs at <emphasis effect="italics">lower</emphasis>, output levels, while the organization of what to do when (given current circumstances) occurs at <emphasis effect="italics">upper</emphasis> CNS levels privy to sensations and goals. Distinct body parts are organized in cortical regions described as <term id="term-00001">primary motor (M1)</term> which sends most of the motor commands into descending axon tracts that eventually inform the posterior spinal and brainstem regions and their reflex-related circuitry how we desire to behave. The M1 area is not the only region capable of engaging major movement decisions. Therefore, all neurons making up regions that typically reside in higher or more rostral locations and coordinate the decisions to move based on decision-making circuitry are called <term id="term-00002">upper motor neurons (UMNs)</term>. By contrast, all neurons that reside in more caudal brainstem or spinal regions and <emphasis effect="italics">project directly to synapse on muscles</emphasis> are referred to as <term id="term-00003">lower motor neurons (LMNs).</term> LMNs implement the contractions due to their contact with muscles, and UMNs essentially decide when to engage or which muscles to engage to accomplish an inspired goal.</para>
     <para id="para-00009">This section focuses on the LMN system, discussing the mechanisms associated with LMN activation of muscles. LMNs take care of lower implementation. They are defined as all motor neurons extending from the central nervous system (typically the brainstem and spinal cord) and directly connecting with effector muscles. In this section, we will be discussing how LMNs are organized, how their activity drives muscles, and what are the reflexive feedback mechanisms allowing for local control and reflexes. We will discuss the upper levels of control in the following section.</para>
 <section id="sect-00007"><title>LMN organization</title>
-<para id="para-00010">Spinal cord LMNs are responsible for most of our limb and trunk movements. Within the spine, local LMNs reside in the ventral (bottom or stomach-facing) portion of an H-like overall structure comprising the middle portion of the spine. The dorsal (upper or back-facing) portion of spinal grey contains intermediate neurons responsible for relaying sensory information (see Image 10.19).</para>
+<para id="para-00010">Spinal cord LMNs are responsible for most of our limb and trunk movements. Within the spine, local LMNs reside in the ventral (bottom or stomach-facing) portion of an H-like overall structure comprising the middle portion of the spine. The dorsal (upper or back-facing) portion of spinal grey contains intermediate neurons responsible for relaying sensory information (see <link target-id="Image-10.19"/>).</para>
 <figure id="Image-10.19">
   <media alt="Insert Alt Text">
     <image mime-type="png" src="../../media/Image-10.19_LMNs-in-the-spinal-cord.png"/>
   </media>
 </figure>
-  <para id="para-00011">Importantly, the ventral region of this spinal grey is organized <term id="term-00004">somatotopically</term> in relation to the outer body, so medially located LMNs control medial trunk musculature, and lateral LMNs near limbs control the limb joints progressively (shoulder → elbow → wrist → fingers most lateral). Moving our heads involve LMNs within various brainstem nuclei, which target our face, eyes, tongue, and other such movements via cranial nerves exiting specific skull foramen (special holes, see Image 10.18).
+  <para id="para-00011">Importantly, the ventral region of this spinal grey is organized <term id="term-00004">somatotopically</term> in relation to the outer body, so medially located LMNs control medial trunk musculature, and lateral LMNs near limbs control the limb joints progressively (shoulder → elbow → wrist → fingers most lateral). Moving our heads involve LMNs within various brainstem nuclei, which target our face, eyes, tongue, and other such movements via cranial nerves exiting specific skull foramen (special holes, see <link target-id="Image-10.18"/>).
 </para>
 <figure id="Image-10.18">
   <media alt="Insert Alt Text">
@@ -36,16 +36,22 @@
   </media>
 </figure></section>
 <section id="sect-00008"><title>LMNs activate the neuromuscular junction</title>
-<para id="para-00012">LMN synapses on muscle fibers occur through neuromuscular junctions (NMJs, Image 10.10). NMJs from the axon collaterals of a single LMN are activated simultaneously within muscle masses, larger motor units activating more, and smaller less, yielding differential force. Within the NMJ, activated LMN axon terminals release ACh across the synaptic gap and through a leaky surrounding protein matrix encompassing muscle cells called the basal laminae, and onto the postsynaptic surface of a muscle fiber (sarcomere arrangement, see Image 10.08 and <link url="https://openstax.org/r/Neuro10NMJ">this animation</link>). A motor unit, as was introduced in <link document="m00018">The physiological actions implementing movement – Contraction of muscles</link>, is a LMN and all the individual muscle fibers it synapses on. Smaller motor units activate fewer muscle fibers. They get activated in the early movement stages until more force becomes necessary for the current load. Then larger motor units are recruited.</para>
-<para id="para-00013">Skeletal muscle ACh receptors, called <term id="term-00005">nicotinic receptors</term>, are ionotropic. When ACh from the LMN presynaptic terminal binds to these nicotinic ACh receptors on muscles, it creates immediate depolarization. Bound and opened nicotinic channels transmit cations across the sarcolemma and depolarize the muscle fiber, triggering action potentials. These receptor constructs reside on top of waves or ridges in the postsynaptic membrane called <term id="term-00006">junctional folds</term>, placing the receptors near the source of ACh travelling across the synapse. ACh remains only briefly after release from motoneurons. Efficient enzymes called <term id="term-00007">acetylcholinesterase</term> residing in the basal laminae (within the synapse; see Image 10.10) quickly break it down into choline and the acetyl group, preventing perpetual stimulation disconnected from motoneuron activations (see <link document="">Neurochemistry</link>). More force (e.g., greater muscle contraction) can be coaxed from the activated muscle fibers if the LMN is driven to higher action potential frequencies. Resulting increased ACh will maintain and intensify the cycling and power stroking activity within the fibers.</para>
+<para id="para-00012">LMN synapses on muscle fibers occur through neuromuscular junctions (NMJs, <link target-id="Image-10.10"/>).</para>
+<figure id="Image-10.10">
+  <media alt="Insert Alt Text">
+    <image mime-type="png" src="../../media/Image-10.10_Neuromuscular-junction-mechanism.png"/>
+  </media>
+</figure>
+<para id="para-00014">NMJs from the axon collaterals of a single LMN are activated simultaneously within muscle masses, larger motor units activating more, and smaller less, yielding differential force. Within the NMJ, activated LMN axon terminals release ACh across the synaptic gap and through a leaky surrounding protein matrix encompassing muscle cells called the basal laminae, and onto the postsynaptic surface of a muscle fiber (sarcomere arrangement, see <link document="m00018" target-id="Image-10.08"/> and <link url="https://openstax.org/r/Neuro10NMJ">this animation</link>). A motor unit, as was introduced in <link document="m00018">The physiological actions implementing movement – Contraction of muscles</link>, is a LMN and all the individual muscle fibers it synapses on. Smaller motor units activate fewer muscle fibers. They get activated in the early movement stages until more force becomes necessary for the current load. Then larger motor units are recruited.</para>
+<para id="para-00013">Skeletal muscle ACh receptors, called <term id="term-00005">nicotinic receptors</term>, are ionotropic. When ACh from the LMN presynaptic terminal binds to these nicotinic ACh receptors on muscles, it creates immediate depolarization. Bound and opened nicotinic channels transmit cations across the sarcolemma and depolarize the muscle fiber, triggering action potentials. These receptor constructs reside on top of waves or ridges in the postsynaptic membrane called <term id="term-00006">junctional folds</term>, placing the receptors near the source of ACh travelling across the synapse. ACh remains only briefly after release from motoneurons. Efficient enzymes called <term id="term-00007">acetylcholinesterase</term> residing in the basal laminae (within the synapse; see <link target-id="Image-10.10"/>) quickly break it down into choline and the acetyl group, preventing perpetual stimulation disconnected from motoneuron activations (see <link document="">Neurochemistry</link>). More force (e.g., greater muscle contraction) can be coaxed from the activated muscle fibers if the LMN is driven to higher action potential frequencies. Resulting increased ACh will maintain and intensify the cycling and power stroking activity within the fibers.</para>
 </section>
-        <section class="section-summary" id="sect-00001">
+<section class="section-summary" id="sect-00001">
       <title>Summary</title>
       <para id="para-00002">Distinguishing between upper and lower motoneurons (UMNs, LMNs) is important to divide the overall action of motor control into the conscious selection and patterning activity (upper) versus the implementation and minor adjustments to maintain bodily status quo (lower). We described how LMNs extend into the periphery to synapse with muscle fibers, and how larger LMNs synapse with more fibers than smaller, thus forming the larger and smaller motor units. Motor units activate connected muscles through neuromuscular junctions relatively simultaneously. Fibers synapsed upon typically pull in the same direction. </para>
       <para id="para-00003">LMNs are activated from their central nervous system residence either at the brainstem or spinal cord, either via descending UMNs in the context of conscious intended actions or via reflex arcs creating quick local lower corrective actions while monitoring circumstances with sensory feedback. Within the spinal cord, LMNs are arranged at the ventral spinal grey in a pattern where medial LMNs connect to medial body parts. The more lateral the LMN residence, the more lateral the activated body part (e.g., finger movement most lateral in the cervical cord). Also within the spinal cord: reflex arc circuitry and circuitry supporting central pattern generation for simple levels of locomotion. </para>
       <para id="para-00004">Spindle fibers and Golgi tendon organs are the two main sensory feedback systems for muscles. They cover stretch and muscle tension, respectively. Muscle spindles detect stretch via the longitudinal pull on intrafusal muscle fibers, which can be tightened by the gamma motoneuron system to maintain sensitivity at critical moments. Golgi tendon organs detect tension when muscles pull against a load, producing inward pressure by the collagen fibers constituting tendons. They can help ensure a soft touch when needed. Proprioceptive sensory systems also extend into skin vibration and stretch sensations contributing to more complex actions at the lower level.</para>
-    </section>
-      <section class="key-terms" id="sect-00002">
+</section>
+<section class="key-terms" id="sect-00002">
       <title>Key Terms</title>
       <list display="inline" id="list-00001">
         <item>acetylcholinesterase</item>
@@ -69,19 +75,17 @@
         <item>somatotopically</item>
         <item>upper motor neurons (UMNs)</item>
       </list>
-      </section>
-      <section class="references" id="sect-00003">
+</section>
+<section class="references" id="sect-00003">
       <title>References</title>
       <para id="para-00005">placeholder</para>
-      </section>
-      <section class="multiple-choice" id="sect-00004">
+</section>
+<section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
       <para id="para-00006">placeholder</para>
-      </section>
-      <section class="fillin-blank" id="sect-00005">
+</section>
+<section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
-      <para id="para-00007">placeholder</para>
-      </section>
-      
+      <para id="para-00007">placeholder</para></section> 
   </content>
 </document>
