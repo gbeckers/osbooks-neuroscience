@@ -23,7 +23,7 @@
           </media>
      <para id="para-00004">Researchers have found that Tritonia swim away from danger with the help of a relatively simple neural circuit (Willows and Hoyle, 1969; Getting, 1983), consisting of sensory neurons, motor neurons, a partner neuron, and an inhibitory neuron.</para>
      <figure id="Image-2.16">
-      <media alt="Insert Alt Text">
+      <media alt="Top 1/3 of image: Drawing of a tritonia and a starfish. Bottom 2/3 of image: Top: drawings of tritonis at different phases of its escape swimming response. Middle: Diagram of the neural circuit mediating the swim response, showing which neurons are firing at each step.. Bottom:  Line diagrams representing firing of the different neurons of the swim circuit at each phase of the swim response.">
         <image mime-type="image/png" src="../../media/Image-2.16_The-swim-circuit-in-Tritonia-Diomedea.png"/>
       </media>
     <caption>Image credit: tritonia images by: Tamvacakis AN, Lillvis JL, Sakurai A and Katz PS (2022) The Consistency of Gastropod Identified Neurons Distinguishes Intra-Individual Plasticity From Inter-Individual Variability in Neural Circuits. Front. Behav. Neurosci. 16:855235. doi: 10.3389/fnbeh.2022.855235. CC BY 4.0</caption>
@@ -37,7 +37,7 @@
     <section id="sect-00003"><title>Studying neural circuits reveals important principles about how nervous systems generate behavior</title>
       <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of Tritonia we can glean a few key insights (<link target-id="Image-2.29"/>):     </para>
       <figure id="Image-2.29">
-        <media alt="Insert Alt Text">
+        <media alt="5 panels, top to bottom. 1) Diagram of one neuron sending output to 3 pathways. 2) Diagram of 3 neurons connected in a circuit. 3) Left: Diagram of a neuron with a line graph of repeating action potentials next to it. Right: Diagram of heart with a heart beat monitor next to it. 4) Cartoons of a scale tipped too far one way or the other (or balance in the middle). 5) Cartoon showing a neuron vs a battery and a cell phone vs a battery">
           <image mime-type="image/png" src="../../media/Image-2.29_5-principles-of-neural-networks.png"/>
         </media>
       </figure>
@@ -54,7 +54,7 @@
         <para id="para-00019">Many computational neuroscientists explore neural simulations simply to better understand the brain and to generate predictions which can then be tested experimentally. In addition, simulated neural networks have many practical applications. In fact, every time you ask Siri or Google to play some music, a simulated neural network is used to convert your spoken command into a text-based representation of your music choice that can then be played on your smartphone. Artificial neural networks have also become key technologies for processing images (that’s how you can search for ‘cute dogs’ in your photostream) and for making progress on self-driving cars.</para>
         <para id="para-00020">As computational neuroscientists become even more skilled at simulating neurons, they have begun exploring using their simulations to replace or repair parts of living nervous systems. For example, Rosa Chan at Hong Kong University is one member of a large team of collaborators who have been working to develop a neural prosthetic, a device that could replace or repair a part of the nervous system. In one set of studies, the researchers implanted a rat with electrodes to record some of the inputs and outputs to its hippocampus as it completed a memory task (Berger et al., 2011; Deadwyler et al., 2013). The researchers analyzed how the rat’s real hippocampus works, and used these recordings to fine-tune a simulated hippocampus, tweaking it so that when given the real inputs from the rat their simulation generated similar outputs. This “simulated hippocampus” is diagrammed in the top of <link target-id="Image-2.30"/>.</para>
         <figure id="Image-2.30">
-          <media alt="Insert Alt Text">
+          <media alt="Top half: Left: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the prosthetic. Center: Laptop with image of CA3 firing pattern on it. Right: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the hippocampus. Bottom half: Cartoon bar graph of Mean % correct (y-axis) for 3 different groups (control, hippocampus disrupted, hippocampus disrupted, stimulus replacement).">
             <image mime-type="image/png" src="../../media/Image-2.30_Simulated-hippocampus-and-performance-improvements.png"/>
           </media>
           <caption>Image credit: CA3 firing pattern image by Salz, D. M., Tiganj, Z., Khasnabish, S., Kohley, A., Sheehan, D., Howard, M. W., &amp; Eichenbaum, H. (2016). Time cells in hippocampal area CA3. Journal of Neuroscience, 36(28), 7476–7484. https://doi.org/10.1523/jneurosci.0087-16.2016</caption>

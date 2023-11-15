@@ -18,7 +18,7 @@
     </section>
   <para id="para-00002">In a chemistry lab at Harvard university, a team of researchers led by Adam Cohen is developing new ways to ‘listen in’ on the electrical signals in neurons (Kralj et al., 2012). One approach is the development of voltage-sensitive fluorescent proteins, genetically-engineered proteins that give off fluorescent light based on their electrical environment (<link target-id="Image-2.04.1"/>). When expressed in neurons, these proteins can translate the electrical signals in neurons into light that can be captured on a specialized camera. To test their work, the researchers carefully culture neurons, growing them in a dish where they can provide the nutrients the neurons need to survive plus the instructions for assembling the new voltage-sensitive proteins the lab has developed. One neuron is then placed under a fluorescent microscope equipped with a camera that can record 100,000 images per second. Adjusting the knobs on the microscope, the researchers bring a single neuron into focus. Then, they work intensely to keep the neuron healthy and the recording stable.</para>
   <figure id="Image-2.04.1">
-    <media alt="Insert Alt Text">
+    <media alt="Top half: Diagram of a multi-colored cue traveling from soma to axon terminals in a neuron being imaged on a screen from a microscope. Bottom half:  Diagram of a neuron with electrode placed in cell body (top ) or further down axon (bottom). Line graphs to the left show action potential appearance at different times relative to excitatory input.">
       <image mime-type="image/png" src="../../media/Image-2.04.1_Measuring-potentials.png"/>
     </media>
   </figure>
@@ -32,7 +32,7 @@
   <section id="sect-00002"><title>Fundamentals of electricity: Charge, current, conductance, and potential</title>
     <para id="para-00007">Electricity is the movement of charge. Charge is a fundamental property of sub-atomic particles: electrons have a negative charge; protons have a positive charge. For reasons even physicists don’t completely understand, charges exert force on one another: opposites attract and likes repel (<link target-id="Image-2.08"/>).</para>
     <figure id="Image-2.08">
-      <media alt="Insert Alt Text">
+      <media alt="Cartoon showing charge attraction/repulsion">
         <image mime-type="image/png" src="../../media/Image-2.08_Electrochemical-force.png"/>
       </media>
     </figure>
@@ -42,7 +42,7 @@
     <para id="para-00011">By acting as an insulator, cell membranes can hold electrostatic forces “in check”, holding ions in place even if electrostatic forces are pushing to move them. We call this pent-up energy electrical potential; it is a push or pressure just waiting to generate a current should a conductive pathway become available. In physics, the symbol for electrical potential is <m:math><m:mrow><m:mi>V</m:mi></m:mrow></m:math>, and it is measured in volts. You’ll often hear electrical potential referred to as voltage. Technically, this mixes up the unit (volt) with the concept (electrical potential), but the term has become so popular that we can accept voltage as a synonym for electrical potential.</para>
     <para id="para-00012">Current, conductance, and potential are inter-related: <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mi>G</m:mi><m:mo>⋅</m:mo><m:mi>V</m:mi></m:mrow></m:math> (<link target-id="Image-2.17"/>).</para>
     <figure id="Image-2.17">
-      <media alt="Insert Alt Text">
+      <media alt="2x3 diagram: Top: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Right shows no charge separation. Left shows net negative charge inside the cell. Middle: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Right shows no flow of ions. Left shows net positive ion flow into the cell. Bottom: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Right shows no flow of ions. Left shows net positive ion flow into the cell.">
         <image mime-type="image/png" src="../../media/Image-2.17_Ohm_s-law.png"/>
       </media>
     </figure>
@@ -52,7 +52,7 @@
     <para id="para-00014">Electrical signaling in neurons involves changes in current, conductance, and potential. The easiest of these to measure in neurons, though, is potential. Because of this, scientists first characterized and named the electrical signals in neurons in terms of electrical potential: the resting potential, excitatory and inhibitory post-synaptic potentials, and the action potential.</para>
     <para id="para-00015">We can measure a neuron’s membrane potential by connecting it to a voltmeter, a device for measuring electrical potential (<link target-id="Image-2.31"/>). All that is needed is a voltmeter and two wires, or electrodes. For neurons, this usually means placing one wire, called the recording electrode, inside the neuron, and a second wire, called a reference electrode, outside the neuron. The voltmeter measures the electrical potential between these two points, indicating the difference in charge across the neuron’s membrane, its membrane potential. For neurons, this is usually reported in millivolts (mV). A negative membrane potential (as a neuron has at rest) indicates the inside of the neuron has a net negative charge relative to the outside of the neuron. A positive membrane potential (as a neuron has at the peak of an action potential) indicates the neuron has a net positive charge relative to the outside. A membrane potential of 0 volts would indicate no imbalance of charge: the neuron is electrically neutral relative to the reference electrode.</para>
     <figure id="Image-2.31">
-      <media alt="Insert Alt Text">
+      <media alt="Top: Diagram of reference and recording electrodes placed outside and inside a cell membrane of a neuron in a dish. Bottom is a 2x2 display: 1) Left: Diagram of receptors in a cell membrane. Ions are present, not moving Right: Membrane potential diagram over time. Line is flat and negative. 2) Left: Diagram of receptors in a cell membrane. Positive ions are moving in the cell through an open channel. Right: Membrane potential diagram over time. Line is rising. 3) Left: Diagram of receptors in a cell membrane. Positive ions are moving out of the cell through an open channel. Right: Membrane potential diagram over time. Line is falling. 4) Left: Diagram of receptors in a cell membrane. Ions are present, not moving Right: Membrane potential diagram over time. Line is flat and negative.">
         <image mime-type="image/png" src="../../media/Image-2.31_Measuring-changes-in-neuronal-membrane-potential-with-a-voltmeter.png"/>
       </media>
     </figure>
@@ -64,7 +64,7 @@
   <section id="sect-00004"><title>Electrical currents in neurons are the movement of four electrolytes dissolved in your cellular fluids: Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>–</sup>, and Ca<sup>2+</sup></title>
     <para id="para-00020">What are the moving charges that generate electrical currents in neurons? They are trace minerals dissolved in your intracellular and extracellular fluids (<link target-id="Image-2.18"/>). Nearly all electrical signaling in neurons is due to the movement of just 4 minerals: sodium (chemical symbol Na<sup>+</sup>), potassium (chemical symbol K<sup>+</sup>), calcium (Ca<sup>2+</sup>) and chloride (Cl<sup>–</sup>). Notice the positive and negative symbols next to the chemical symbols. That is because each is not only a mineral but also an electrolyte, something that dissolves into water as an ion, a charge-carrying molecule. Because electrolytes dissolved in water carry a charge, their movement is an electrical current. It is the movement of Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>–</sup>, and Ca<sup>2+</sup> into and out of neurons that we observe as electrical signals in neurons.</para>
     <figure id="Image-2.18">
-      <media alt="Insert Alt Text">
+      <media alt="Top: Cartoons of ions. Bottom: Diagram of a cell membrane. Ions are shown inside and outside the cell.">
         <image mime-type="image/png" src="../../media/Image-2.18_Key-electrolytes-for-neuronal-signaling.png"/>
       </media>
     </figure>
@@ -73,7 +73,7 @@
   <section id="sect-00005"><title>Electrolytes are moved by electrostatic force and diffusion but their movement is blocked by the cell membrane</title>
   <para id="para-00022">What moves the molecules of electrolytes dissolved in your cellular fluids? Two things: electrostatic force and diffusion (<link target-id="Image-2.19"/>).</para>
   <figure id="Image-2.19">
-    <media alt="Insert Alt Text">
+    <media alt="Top: Diagram of spheres moving from more concentrated to less. Bottom: Diagram of a cell membrane. Ions are shown inside and outside the cell.  Arrows indicate direction of diffusive force">
       <image mime-type="image/png" src="../../media/Image-2.19_Diffusion.png"/>
     </media>
   </figure>
@@ -85,7 +85,7 @@
   <section id="sect-00006"><title>Ion pumps create concentration-gradient batteries, concentrating K<sup>+</sup> inside neurons and Na<sup>+</sup>, Ca<sup>2+</sup>, and Cl<sup>–</sup> outside</title>
   <para id="para-00027">For your cell phone to work, it needs a battery, something that can generate a steady electrical potential to push electrical currents through the circuits in your phone. Neurons also have batteries. They use ion pumps to create concentration gradients of the electrolytes found in your cellular fluids (<link target-id="Image-2.09"/>).</para>
   <figure id="Image-2.09">
-    <media alt="Insert Alt Text">
+    <media alt="Top: Diagram of a cell membrane. Ions are shown inside and outside the cell.  Ion pumps shown moving ions across the membrane. Arrows indicate direction of pumping. Bottom: Diagram of a cell membrane. Ions are shown inside and outside the cell.  Ca2+, Cl- and Na+/K+ pumps shown moving ions across the membrane. Arrows indicate direction of pumping.">
      <image mime-type="image/png" src="../../media/Image-2.09_Ion-pumps.png"/>
     </media>
   </figure>
@@ -93,7 +93,7 @@
   <para id="para-00029">Like Ca<sup>2+</sup>, Cl<sup>–</sup> and Na<sup>+</sup> are also pushed out by ion pumps. In neurons, Cl<sup>–</sup> is usually 20x more concentrated outside the cell membrane compared to inside, and Na<sup>+</sup> typically about 7x more concentrated. Thus, both Na<sup>+</sup> and Cl<sup>–</sup> have a pressure of diffusion to enter cells.</para>
   <para id="para-00030">K<sup>+</sup> stands out as the only major electrolyte pumped into cells. In neurons K<sup>+</sup> is usually ~25 times more concentrated in the intracellular fluid than in the extracellular fluid. This means that there is a constant pressure of diffusion for K<sup>+</sup> to leave cells, a negative current. <link target-id="Image-2.24"/> summarizes the concentration gradients pumps create for each of the electrolytes that play a key role in neural signaling.</para>
   <figure id="Image-2.24">
-    <media alt="Insert Alt Text">
+    <media alt="A table of information about ions and their properties in neurons">
      <image mime-type="image/png" src="../../media/Image-2.24_Electrolytes.png"/>
     </media>
   </figure>
@@ -103,13 +103,13 @@
   <section id="sect-00007"><title>Ion channels are selective but passive conductors; some ion channels are gated</title>
   <para id="para-00033">Look inside a laptop and you’ll see a tangle of wires, pathways of high conductance that allow electrical currents to flow. What are the ‘wires’ that carry electrical currents into and out of a neuron? It’s not the cell membrane, which has a low conductance. Instead, neurons (and all other cells) express ion channels (<link target-id="Image-2.20"/>). Ion channels are proteins that stick through the membrane. Each has a water-filled central pore through which specific ions can flow with high conductance. Ion channels allow currents of electrolytes to flow into and out of neurons.</para>
   <figure id="Image-2.20">
-    <media alt="Insert Alt Text">
+    <media alt="Top: Diagram of a cell membrane. Ions are shown inside and outside the cell.  Ion channels shown allowing ions across the membrane. Arrows indicate direction of diffusion.. Bottom: Diagram of a cell membrane. Ions are shown inside and outside the cell.  Leak, ligand-gated and voltage gated channels are shown.">
      <image mime-type="image/png" src="../../media/Image-2.20_Ion-channels.png"/>
     </media>
   </figure>
   <para id="para-00034">Unlike pumps, ion channels are passive. Any ion that fits through an ion channel is “free” to move through it in either direction. The channel does not add any “push” or use energy to direct the flow of ions. Instead, ion movement through channels is determined purely by the pressures operating on that ion (diffusion and electrostatic force). <link target-id="Image-2.23"/> gives a summary comparison between pumps and channels.</para>
   <figure id="Image-2.23">
-    <media alt="Insert Alt Text">
+    <media alt="Table comparing ion channels versus pumps">
      <image mime-type="image/png" src="../../media/Image-2.23_Pumps-vs-channels.png"/>
     </media>
   </figure>
@@ -121,7 +121,7 @@
   <para id="para-00038">Pumps create concentration gradients that act like chemical batteries, storing up pressures of diffusion for Na<sup>+</sup>, Ca<sup>2+</sup>, and Cl<sup>–</sup> to enter neurons and K<sup>+</sup> to leave. What happens when an ion channel is open, providing a pathway to release that pressure? We get a current, the flow of ions into or out of a neuron. This current charges the neuron, changing its membrane potential.</para>
   <para id="para-00039">Let’s think about this in detail (<link target-id="Image-2.21"/>).</para>
   <figure id="Image-2.21">
-    <media alt="Insert Alt Text">
+    <media alt="Top: Right: arrows show direction of electrostatic and diffusive force at rest, pushing into cell. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell. Middle: Right: arrows show direction of electrostatic and diffusive force with Na+ channels open; electrostatic forec is reduced. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell are moving in the cell. Bottom: Right: arrows show direction of electrostatic and diffusive force at equilibrium; electrostatic out balances diffusive in. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. No net movement shown.">
      <image mime-type="image/png" src="../../media/Image-2.21_Ion-concentration-batteries.png"/>
     </media>
   </figure>
