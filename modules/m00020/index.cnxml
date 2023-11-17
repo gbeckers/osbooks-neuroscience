@@ -10,15 +10,21 @@
       <title>Learning Objectives</title>
       <para id="para-00008">By the end of this section you should be able to</para>
         <list id="list-00002">
-          <item>Distinguish between upper and lower motoneurons and explaining the concept of a motor unit in this context.</item>
-          <item>Enumerate the components of the neuromuscular junction with roles for the basal laminae, junctional folds, acetylcholinesterase, and nicotinic receptors.</item>
-          <item>Explain the basis of classic Myasthenia Gravis and how it compromises muscle activity.</item>
-          <item>Explain the two processes by which force can be increased based on LMN activity and why the more complex “recruitment of more” follows the size principle to elevate force.</item>
-          <item>Describe special organizations and locations in the spinal cord supporting key LMN distributions in ventral grey in relation to limbs and body parts.</item>
-          <item>Describe what central pattern generation means and how this activity is somewhat like, yet somewhat different from reflex circuitry.</item>
-          <item>Explain the basis of proprioceptive feedback from spindle fibers and Golgi tendon organs and how those systems integrate into reflex control of movement by exerting lower-level control at the spinal level.</item>
-        </list>
+          <item>Compile a descriptive story regarding how the following UMN brain structures collaborate with distinct contributions to movement formulation and engagement: Prefrontal and premotor cortices; Cerebellum; Basal ganglia; and Primary Motor cortex (M1)</item>
+          <item>Enumerate the regions of control within the homunculus of M1 anatomically along the precentral gyrus.</item>
+          <item>Differentiate the complimentary contributions to background motor control from the basal ganglia and cerebellum in terms of muscle contribution selection and the smooth stopping and starting.</item>
+          <item>Understand the source, related circuitry, and outward expressions of the following disease states: Cerebellar Ataxia; Huntington’s disease; and Parkinson’s disease.</item>
+          <item>Describe how final movement selections are made in M1 according to the findings of Apostolos Georgopoulos and how that translates into a sort of democracy of movement trajectory determination.</item>
+         </list>
     </section>
+<para id="para-00001">In this section, we will explore the contributions of UMN systems to voluntary movements. Progressively, we will discuss ascending signals providing critical decision-making information to UMN areas, and descending implementation signals to the lower areas (brainstem and spinal cord). We’ll address three major cortical areas:</para>
+<list list-type="enumerated" id="list-00003"><item/>
+  <item>The <term id="term-00001">prefrontal cortices</term>, the most anterior of movement-related cortices where major executive decisions are made.</item>
+  <item>The collection of regions referred to as the <term id="term-00002">premotor cortices</term> (dorsal, ventral, cingulate, supplementary). These coordinate which muscles should be activated when new game plans are formulated, and receive feeds from posterior sensory cortices, the <term id="term-00003">basal ganglia</term>, and the <term id="term-00004">cerebellum</term> through the thalamic way station.</item>
+  <item>Finally, we will discuss the <term id="term-00005">primary motor cortex</term>, or <term id="term-00006">M1</term>. We will find that this area continues to compile inputs and formulate final detailed movement decisions prior to sending commands to the LMNs in the brainstem and spinal cord.</item>
+</list>
+<para id="para-00009">Our lower motor systems clearly need guidance if we are ever going to move how we want. In this section, we will learn how the upper motor structures are poised to deliberate, compose, compile, and then direct the lower motor neurons.</para>
+
 
   <section class="section-summary" id="sect-00001">
       <title>Summary</title>
