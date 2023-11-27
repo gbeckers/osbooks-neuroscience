@@ -45,9 +45,9 @@
           </media>
         <caption>Physical properties of acoustic waves</caption>
         </figure>
-      <para id="para-00017">The frequency of a wave is a measure of how rapidly the air at one location changes from compressed to rarefied and back (<link target-id="Image-7.26"></link>). Frequency is measured in Hertz (Hz), the number of cycles that occur each second. The frequency of a sound wave is perceived as pitch (see Section 7.3.2). Low-frequency waves sound deep and rich, whereas high-frequency waves are perceived as sharp and thin.</para>
+      <para id="para-00017">The frequency of a wave is a measure of how rapidly the air at one location changes from compressed to rarefied and back (<link target-id="Image-7.26"/>). Frequency is measured in Hertz (Hz), the number of cycles that occur each second. The frequency of a sound wave is perceived as pitch (see Section 7.3.2). Low-frequency waves sound deep and rich, whereas high-frequency waves are perceived as sharp and thin.</para>
       <para id="para-00018">The phase of a wave is a measure of time relative to the cycles of compression and rarefaction. Phase is not perceived directly, but it affects how different waves interact with each other.</para>
-      <para id="para-00019">Almost any process that displaces air molecules will result in an acoustic wave. One of the most common sources of sound is <term id="term-00014">periodic</term> vibration. You can generate periodic motion by plucking or striking a string that is under tension (for example, on a guitar, piano, or harp). Pluck it right in the middle, and listen to the sound while watching the string. The vibration will probably be too fast for your eyes to track, so the string will appear wide in the middle and narrow at the ends, as illustrated in <link target-id="Image-7.26"></link>. As it vibrates, the string compresses the air while moving in one direction and rarefies it while moving in the other. The vibrations tend to occur at a specific frequency that depends on the mass of the string, its length, and how tightly it is tensioned. The motion of the string and the sound wave it produces are described by a simple mathematical function called a <term id="term-00015">sinusoid</term> (or sine wave) with a single frequency and amplitude. The form of this function and its relationship to the physical properties of the string will be covered in most elementary physics texts.</para>
+      <para id="para-00019">Almost any process that displaces air molecules will result in an acoustic wave. One of the most common sources of sound is <term id="term-00014">periodic</term> vibration. You can generate periodic motion by plucking or striking a string that is under tension (for example, on a guitar, piano, or harp). Pluck it right in the middle, and listen to the sound while watching the string. The vibration will probably be too fast for your eyes to track, so the string will appear wide in the middle and narrow at the ends, as illustrated in <link target-id="Image-7.26"/>. As it vibrates, the string compresses the air while moving in one direction and rarefies it while moving in the other. The vibrations tend to occur at a specific frequency that depends on the mass of the string, its length, and how tightly it is tensioned. The motion of the string and the sound wave it produces are described by a simple mathematical function called a <term id="term-00015">sinusoid</term> (or sine wave) with a single frequency and amplitude. The form of this function and its relationship to the physical properties of the string will be covered in most elementary physics texts.</para>
       <table summary="Table of decibels created by several common sounds" id="table-00001">
         <tgroup cols="3">
         <colspec colnum="1" colname="c1"/>
@@ -176,6 +176,34 @@
       <para id="para-00059">Sayigh LS, Tyack PL, Wells RS, Solow AR, Scott MD, Irvine AB (1999) Individual recognition in wild bottlenose dolphins: a field test using playback experiments. Anim Behav 57:41–50.</para>
       <para id="para-00060">Seyfarth RM, Cheney D (1990) The assessment by vervet monkeys of their own and another species’ alarm calls. Anim Behav 40:754–764.</para>
       <para id="para-00061">Surlykke A, Ghose K, Moss CF (2009) Acoustic scanning of natural scenes by echolocation in the big brown bat, Eptesicus fuscus. J Exp Biol 212:1011–1020.</para>
+    </section>
+    <section class="multiple-choice" id="sect-00008"> 
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-07-01-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-07-01-008"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-07-01-009"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-07-01-010"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-07-01-011"/></para>
+        </problem>
+      </exercise>
     </section>
   </content>
 </document>
