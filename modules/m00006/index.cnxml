@@ -6,6 +6,13 @@
     <md:uuid>8d50329d-3bbb-4ce8-931d-0c5b3824a155</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="splorsh">
+      <title>FROGUE</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <note class="meet-author" id="note-00001">
       <title>Yuan B Peng, MD PhD</title>
       <para id="para-00001"><link url="https://openstax.org/r/Neuro9Author">Meet the author</link></para>

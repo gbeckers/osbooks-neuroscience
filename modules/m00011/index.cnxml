@@ -6,6 +6,13 @@
     <md:uuid>6046fa92-39ee-4def-ac47-c3b468794900</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="sploish">
+      <title>FROGUE</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <note class="meet-author" id="note-00001">
       <title>Robert J. Calin-Jageman</title>
       <para id="para-00001"><link url="https://openstax.org/r/Neuro2Author">Meet the author</link></para>
