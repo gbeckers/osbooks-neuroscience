@@ -92,11 +92,67 @@
   <para id="para-00028">All the cells in your body express ion pumps, specialized proteins that stick through the membrane. Pumps use the energy-molecule ATP to actively transport ions across the cell membrane, working against diffusion to concentrate ions inside or outside of the cell. These concentration gradients are chemical batteries, giving each ion a distinct “push” from diffusion. The bottom of <link target-id="Image-2.09"/> shows several of the most prominent ion pumps that help maintain the concentration gradients for the 4 major electrolytes. For example, one type of pump pushes Ca<sup>2+</sup> out of the cell. Once pushed outside the cell, Ca<sup>2+</sup> cannot directly re-enter (because the cell membrane acts like Gandalf). Thus, pumps cause calcium to become much more concentrated in the extracellular fluid than in the intracellular fluid. The specific concentration gradient can vary in different tissues, but in your brain most neurons have about 10,000x the concentration of Ca<sup>2+</sup> outside the cell membrane compared to inside (Erecińska and Silver, 1994). This represents a strong push of diffusion for Ca<sup>2+</sup> to enter cells, a positive current.</para>
   <para id="para-00029">Like Ca<sup>2+</sup>, Cl<sup>–</sup> and Na<sup>+</sup> are also pushed out by ion pumps. In neurons, Cl<sup>–</sup> is usually 20x more concentrated outside the cell membrane compared to inside, and Na<sup>+</sup> typically about 7x more concentrated. Thus, both Na<sup>+</sup> and Cl<sup>–</sup> have a pressure of diffusion to enter cells.</para>
   <para id="para-00030">K<sup>+</sup> stands out as the only major electrolyte pumped into cells. In neurons K<sup>+</sup> is usually ~25 times more concentrated in the intracellular fluid than in the extracellular fluid. This means that there is a constant pressure of diffusion for K<sup>+</sup> to leave cells, a negative current. <link target-id="Image-2.24"/> summarizes the concentration gradients pumps create for each of the electrolytes that play a key role in neural signaling.</para>
-  <figure id="Image-2.24">
-    <media alt="A table of information about ions and their properties in neurons">
-     <image mime-type="image/png" src="../../media/Image-2.24_Electrolytes.png"/>
-    </media>
-  </figure>
+  <table id="Image-2.24" summary="A table of information about ions and their properties in neurons">
+ <title>Report card</title>
+ <tgroup cols="7">
+ <colspec colnum="1" colname="c1" />
+ <colspec colnum="2" colname="c2" />
+ <colspec colnum="3" colname="c3" />
+ <colspec colnum="4" colname="c4" />
+ <colspec colnum="5" colname="c5" />
+ <colspec colnum="6" colname="c6" />
+ <colspec colnum="7" colname="c7" />
+ <thead>
+<row>
+ <entry>Name</entry>
+ <entry>Symbol</entry>
+ <entry>Typical intracellular concentration</entry>
+ <entry>Typical extracellular concentration</entry>
+ <entry>Typical concentration gradient (outside to in)</entry>
+ <entry>Equilibrium potential</entry>
+ <entry>Pressure of diffusion</entry>
+</row>
+ </thead>
+ <tbody>
+<row>
+ <entry>Sodium</entry>
+ <entry>Na<sup>+</sup></entry>
+ <entry>26</entry>
+ <entry>182</entry>
+ <entry>7 to 1</entry>
+ <entry>+52 mV</entry>
+ <entry>Pressure for Na<sup>+</sup> to enter, a positive current</entry>
+</row>
+<row>
+  <entry>Calcium</entry>
+  <entry>Ca<sup>2+</sup></entry>
+  <entry>0.0001</entry>
+  <entry>1</entry>
+  <entry>10,000 to 1</entry>
+  <entry>+124 mV</entry>
+  <entry>Pressure for Ca<sup>2+</sup> to enter, a positive current</entry>
+ </row>
+ <row>
+  <entry>Chloride</entry>
+  <entry>Cl<sup>–</sup></entry>
+  <entry>7.45</entry>
+  <entry>149</entry>
+  <entry>20 to 1</entry>
+  <entry>–81 mV</entry>
+  <entry>Pressure for Cl<sup>–</sup> to enter, a negative current</entry>
+ </row>
+ <row>
+  <entry>Potassium</entry>
+  <entry>K<sup>+</sup></entry>
+  <entry>85</entry>
+  <entry>3.4</entry>
+  <entry>1 to 25</entry>
+  <entry>–87 mV</entry>
+  <entry>Pressure for K<sup>+</sup> to leave, a negative current</entry>
+ </row>
+ </tbody>
+ </tgroup>
+</table>
   <para id="para-00031">Notice an interesting balancing act in the actions of the pumps. They import K<sup>+</sup> into the neuron, filling the neuron with positive charge. This is mostly offset, however, by the fact that the pumps expel Na<sup>+</sup> and Ca<sup>2+</sup> from the neuron, removing those positive charges. In fact, if we tally up all the Na<sup>+</sup> and Ca<sup>2+</sup> and Cl<sup>–</sup> outside the neuron against all the K<sup>+</sup> inside we end up very close to an even balance sheet in terms of both concentration and charge (though not quite even, as we’ll discuss in the section on the resting potential). Thus, pumps, on the whole, do not directly charge the membrane, and they do not upset the important balance of net electrolyte concentrations that all cells must maintain.</para>
   <para id="para-00032">What pumps do achieve is the build-up and maintenance of strong concentration pressures that the cell membrane can then hold in place: Na<sup>+</sup> and Ca<sup>2+</sup> are just raring to charge the neuron to a positive potential, K<sup>+</sup> and Cl<sup>–</sup> stand ready to charge the neuron to a negative potential. Note that K<sup>+</sup> and Cl<sup>–</sup> are both on “team negative” despite having different charges; this is because K<sup>+</sup> has a pressure to leave but Cl<sup>–</sup> has a concentration gradient to enter.</para>
   </section>
