@@ -93,7 +93,6 @@
   <para id="para-00029">Like Ca<sup>2+</sup>, Cl<sup>–</sup> and Na<sup>+</sup> are also pushed out by ion pumps. In neurons, Cl<sup>–</sup> is usually 20x more concentrated outside the cell membrane compared to inside, and Na<sup>+</sup> typically about 7x more concentrated. Thus, both Na<sup>+</sup> and Cl<sup>–</sup> have a pressure of diffusion to enter cells.</para>
   <para id="para-00030">K<sup>+</sup> stands out as the only major electrolyte pumped into cells. In neurons K<sup>+</sup> is usually ~25 times more concentrated in the intracellular fluid than in the extracellular fluid. This means that there is a constant pressure of diffusion for K<sup>+</sup> to leave cells, a negative current. <link target-id="Image-2.24"/> summarizes the concentration gradients pumps create for each of the electrolytes that play a key role in neural signaling.</para>
   <table id="Image-2.24" summary="A table of information about ions and their properties in neurons">
- <title>Report card</title>
  <tgroup cols="7">
  <colspec colnum="1" colname="c1" />
  <colspec colnum="2" colname="c2" />
