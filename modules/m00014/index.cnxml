@@ -163,11 +163,47 @@
     </media>
   </figure>
   <para id="para-00034">Unlike pumps, ion channels are passive. Any ion that fits through an ion channel is “free” to move through it in either direction. The channel does not add any “push” or use energy to direct the flow of ions. Instead, ion movement through channels is determined purely by the pressures operating on that ion (diffusion and electrostatic force). <link target-id="Image-2.23"/> gives a summary comparison between pumps and channels.</para>
-  <figure id="Image-2.23">
-    <media alt="Table comparing ion channels versus pumps">
-     <image mime-type="image/png" src="../../media/Image-2.23_Pumps-vs-channels.png"/>
-    </media>
-  </figure>
+  <table  id="Image-2.23" summary="Insert Alt Text">
+    <title>Optional Title</title>
+    <tgroup cols="3">
+    <thead>
+      <row>
+        <entry></entry>
+        <entry>Ion Pump</entry>
+        <entry>Ion Channel</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>Biomolecule</entry>
+        <entry>Protein</entry>
+        <entry>Protein</entry>
+      </row>
+      <row>
+        <entry>Selective</entry>
+        <entry>Yes, each type of pump binds to and moves only specific electrolytes</entry>
+        <entry>Yes, each type of channel has a selectivity filter that allows only specific electrolytes to pass</entry>
+      </row>
+      <row>
+        <entry>Uses ATP</entry>
+        <entry>Yes</entry>
+        <entry>No</entry>
+      </row>
+      <row>
+        <entry>Central pore</entry>
+        <entry>No</entry>
+        <entry>Yes</entry>
+      </row>
+      <row>
+        <entry>Ion movement</entry>
+        <entry>Active transport— moves ions against their concentration gradient</entry>
+        <entry>Passive channel— central pore allows ions to move based on the electrostatic pressure and diffusion</entry>
+      </row>
+    </tbody>
+    </tgroup>
+    <caption></caption>
+    </table>
+
   <para id="para-00035">Although ion channels are passive they are nevertheless selective. Some channels are conductive only to Na<sup>+</sup>; they are called Na<sup>+</sup> channels. Other channels are only conductive to K<sup>+</sup>; they’re called K<sup>+</sup> channels. As you can probably already guess, there are also Ca<sup>2+</sup> channels and Cl<sup>–</sup> channels.</para>
   <para id="para-00036"><link target-id="Image-2.20"/> shows 3 common types of channels in the bottom panel. Some ion channels, called leak channels, are simply a pore with a selectivity filter—they provide a constant selective conductance. Other ion channels are gated, meaning that they can switch from open (a conformation with a high conductance) to closed (a conformation with a low conductance).</para>
   <para id="para-00037">Gated channels don’t just open and close willy-nilly —they have sensors, specialized sections of their protein structure that determine when they open and when they close. For example, ligand-gated ion channels have sensors that bind to specific neurotransmitters, opening the channel only when the right transmitter is present. Voltage-gated ion channels have sensors that detect electrical events in a neuron, opening the channel only when the neuron reaches a specific membrane potential.  This is just the tip of the iceberg. Other chapters will introduce you to channels that respond to many different events from the outside world (light, physical pressure, chemicals, and more). For this chapter, we’ll focus in on 3 families of ion channels that are critical for neural signaling: 1) leak K<sup>+</sup> channels that produce the resting potential, 2) ligand-gated channels that produce EPSPs and IPSPs, and 2) voltage gated Na<sup>+</sup> and K<sup>+</sup> channels that produce the action potential.</para>
