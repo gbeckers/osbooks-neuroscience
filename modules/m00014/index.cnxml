@@ -164,7 +164,6 @@
   </figure>
   <para id="para-00034">Unlike pumps, ion channels are passive. Any ion that fits through an ion channel is “free” to move through it in either direction. The channel does not add any “push” or use energy to direct the flow of ions. Instead, ion movement through channels is determined purely by the pressures operating on that ion (diffusion and electrostatic force). <link target-id="Image-2.23"/> gives a summary comparison between pumps and channels.</para>
   <table  id="Image-2.23" summary="Insert Alt Text">
-    <title>Optional Title</title>
     <tgroup cols="3">
     <thead>
       <row>
@@ -211,11 +210,32 @@
   <section id="sect-00008"><title>Ionic Currents and Equilibrium Potentials</title>
   <para id="para-00038">Pumps create concentration gradients that act like chemical batteries, storing up pressures of diffusion for Na<sup>+</sup>, Ca<sup>2+</sup>, and Cl<sup>–</sup> to enter neurons and K<sup>+</sup> to leave. What happens when an ion channel is open, providing a pathway to release that pressure? We get a current, the flow of ions into or out of a neuron. This current charges the neuron, changing its membrane potential.</para>
   <para id="para-00039">Let’s think about this in detail (<link target-id="Image-2.21"/>).</para>
-  <figure id="Image-2.21">
-    <media alt="Top: Right: arrows show direction of electrostatic and diffusive force at rest, pushing into cell. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell. Middle: Right: arrows show direction of electrostatic and diffusive force with Na+ channels open; electrostatic forec is reduced. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell are moving in the cell. Bottom: Right: arrows show direction of electrostatic and diffusive force at equilibrium; electrostatic out balances diffusive in. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. No net movement shown.">
-     <image mime-type="image/png" src="../../media/Image-2.21_Ion-concentration-batteries.png"/>
-    </media>
-  </figure>
+  <table id="Image-2.21" summary="Insert Alt Text" frame="none" colsep="0" rowsep="0">
+    <tgroup cols="3">
+
+    <tbody>
+      <row>
+        <entry>  <media alt="Right: arrows show direction of electrostatic and diffusive force at rest, pushing into cell. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell.">
+          <image mime-type="image/jpeg" src="../../media/electrode-1.jpg"/>
+        </media></entry>
+        <entry>At rest, Na<sup>+</sup> is high outside the neuron. Both electrostatic and diffusive forces pull Na<sup>+</sup> in but it cannot flow with no channels open.</entry>
+      </row>
+      <row>
+        <entry>  <media alt="Right: arrows show direction of electrostatic and diffusive force with Na+ channels open; electrostatic forec is reduced. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. Many Na+ ions are outside the cell are moving in the cell.">
+          <image mime-type="image/png" src="../../media/electrode-2.jpg"/>
+        </media></entry>
+                <entry>Na<sup>+</sup> channels open. Electrostatic and diffusive forces pull Na<sup>+</sup> in the cell rapidly. This increases the membrane potential, weakening the elctrostatic attraction for Na<sup>+</sup>.</entry>
+      </row>
+      <row>
+        <entry>  <media alt="Right: arrows show direction of electrostatic and diffusive force at equilibrium; electrostatic out balances diffusive in. Left: Diagram of reference and recording electrodes placed outside and inside a cell membrane. Ions are shown inside and outside the cell. No net movement shown.">
+          <image mime-type="image/png" src="../../media/electrode-3.jpg"/>
+        </media></entry>
+        <entry>As the neuron's potential becomes more positive, electrostatic repulsion starts to push Na<sup>+</sup> out of the cell. At +52 mV, diffusion pushing Na<sup>+</sup> in the cell is equally opposed by electrostatic repulsion pushing Na<sup>+</sup> out.</entry>
+      </row>
+    </tbody>
+    </tgroup>
+    <caption></caption>
+    </table>
   <para id="para-00040">Imagine a neuron at rest (top of <link target-id="Image-2.21"/>). Its membrane potential is negative, around -65mV, meaning that it has an excess of unpaired negative charges in the intracellular fluid. Pumps have concentrated Na<sup>+</sup> outside the neuron, but it cannot re-enter directly through the membrane. What happens if Na<sup>+</sup> channels now open? Na<sup>+</sup> will come flowing in: it is pulled in both by the pressure of diffusion (going from the high concentration outside the neuron to the lower concentration inside) and by electrostatic force (positive Na<sup>+</sup> is attracted to the negative charge in the neuron). Each molecule of Na<sup>+</sup> that enters, though, offsets some of the neuron’s negative charge, so the membrane potential begins to rise (middle of <link target-id="Image-2.21"/>). If Na<sup>+</sup> channels stay open, the neuron will eventually become neutral (its membrane potential will rise to 0mV); this occurs when enough Na<sup>+</sup> has entered to fully offset all the negative charges that had given the neuron a negative resting potential. At this point, there is no longer any electrostatic pull for Na<sup>+</sup> to enter, but there is still a strong pressure of diffusion, so Na<sup>+</sup> will continue to enter, charging the neuron up to a positive potential. Will this continue forever? No: as the neuron becomes more positive it becomes increasingly repulsive to Na<sup>+</sup> (likes repel), and eventually this electrostatic force will be able to stand up to the pressure of diffusion, preventing any further increase in Na<sup>+</sup> (bottom of <link target-id="Image-2.21"/>). We call this the equilibrium potential. An ion’s equilibrium potential depends (mostly) on the concentration difference created by the pumps: the bigger the concentration difference the more charged the neuron has to become before electrostatic force can stand up to it. For Na<sup>+</sup> in a typical neuron, the equilibrium potential is about +52mV. That is: when Na<sup>+</sup> channels open in a resting neuron, Na<sup>+</sup> will rush in and keep rushing in until the neuron is charged up to +52mV, but at that point it will stop further charging the neuron even if the Na<sup>+</sup> channels remain open.</para>
   <para id="para-00041">When Na<sup>+</sup> enters the neuron through a Na<sup>+</sup> channel, is all the hard work of the pumps undone? To some extent, yes, but not by much. Amazingly, only a few thousand Na<sup>+</sup> molecules have to enter a neuron to charge it from rest to +52mV, a small fraction of all the Na<sup>+</sup> the pumps have pushed out of the neuron. This is because the neuron is small and the membrane is very thin: each ion inside a neuron has little space to spread out and is held tantalizingly close to opposite charges on the other side of the membrane. So, when Na<sup>+</sup> channels open, Na<sup>+</sup> rushes in to charge the neuron to the Na<sup>+</sup> equilibrium potential (around +52mV) but this “spends” relatively little of the concentration gradient pumps have worked so hard to create.</para>
   <para id="para-00042">What happens when there is a K<sup>+</sup> channel open? The pressure of diffusion is for K<sup>+</sup> to leave a neuron, and this departure is a negative current that builds a negative charge for the neuron. As the neuron becomes more and more negative, though, there is an increasing electrostatic attraction for K<sup>+</sup> to come back in (opposites attract), and eventually this electrostatic charge can stand up to the pressure of diffusion for K<sup>+</sup> to leave. In a typical neuron, the equilibrium potential for K<sup>+</sup> is around -87mV, meaning that when K<sup>+</sup> channels are open K<sup>+</sup> brings the neuron’s charge to a very negative potential. Again, though, only a small fraction of all the K<sup>+</sup> in the neuron has to leave to charge a neuron to this point.</para>
