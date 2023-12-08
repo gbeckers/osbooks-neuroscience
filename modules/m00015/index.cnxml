@@ -17,11 +17,52 @@
     </section>
     <para id="para-00001">Before we took our deep dive into bioelectricity, we marveled at a video that used voltage-sensitive dyes to let us “see” action potentials spreading rapidly through a neuron. We’re now ready to unravel this fascinating signal, to learn about the incredible interplay of pumps, channels, and ions that allow each of your 86 billion neurons to generate the constant barrage of electrical signals that make you who you are. We’ll start by exploring the resting potential, then we’ll examine how this rest is perturbed by EPSPs and IPSPs imposed by synaptic partners. Finally, we’ll dissect the action potential and its rapid spread throughout the axon to produce transmitter release.</para>
     <para id="para-00003"><link target-id="Image-2.25"/> gives a bird’s eye view of everything we’ll cover, breaking down the properties of the resting potential, post-synaptic potentials, and the action potential. Take a look at the table now if you want an overview to guide your reading, or dig into the details first and come back to the table to organize your thoughts at the end.</para>
-    <figure id="Image-2.25">
-      <media alt="Table describing properties of different electrical signals in neurons">
-        <image mime-type="image/png" src="../../media/Image-2.25_Types-of-electrical-signal.png"/>
-      </media>
-    </figure>
+
+    <table summary="Table describing properties of different electrical signals in neurons" id="Image-2.25">
+      <tgroup cols="5">
+      <thead>
+        <row>
+          <entry>Electrical signals in neurons</entry>
+          <entry>Description</entry>
+          <entry>Magnitude</entry>
+          <entry>Where</entry>
+          <entry>Key channels</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Resting potential</entry>
+          <entry>Overall negative membrane potential maintained throughout a neuron when it is not receiving signals or generating an action potential</entry>
+          <entry>Around –60 to –80 mV, depending on the neuron</entry>
+          <entry>Global: the whole neuron maintains a negative potential</entry>
+          <entry>Leak K<sup>+</sup> channels and Leak Na<sup>+</sup> channels</entry>
+        </row>
+        <row>
+          <entry>EPSP</entry>
+          <entry>Brief, transient local increase in membrane potential due to detection of transmitter from a partner neuron</entry>
+          <entry>a 1-2 mV <emphasis>increase</emphasis> in membrane potential</entry>
+          <entry>Local: occurs right at the synapse</entry>
+          <entry>Transmitter-gated Na<sup>+</sup> channels</entry>
+        </row>
+
+        <row>
+          <entry>IPSP</entry>
+          <entry>Brief, transient local decrease in membrane potential due to a detection of transmitter from a partner neuron</entry>
+          <entry>a 1-2 mV <emphasis>decrease</emphasis> in membrane potential</entry>
+          <entry>Local: occurs right at the synapse</entry>
+          <entry>Transmitter-gated Cl<sup>–</sup> channels</entry>
+        </row>
+
+        <row>
+          <entry>Action potential</entry>
+          <entry>Rapid flip in membrane potential from negative to positive and back that spreads rapidly through a neuron, triggering transmitter release at each of the neuron's synapses as it passes</entry>
+          <entry>Rapid increase in membrane potential to about +40mV (Rising Phase), then rapid decline to rest (Falling Phase) and even temporarily below 5-10 mV <emphasis>below</emphasis> typical rest (Undershoot)</entry>
+          <entry>Traveling: usually initiated at the first segment of the axon then travels through all brances of the axon</entry>
+          <entry>Inactivating voltage-gated Na<sup>+</sup> channels and non-inactivating voltage-gated K<sup>+</sup> channels</entry>
+        </row>
+      </tbody>
+      </tgroup>
+      </table>
     <section id="sect-00002"><title>The resting potential is produced by leak channels and concentration gradients</title>
     <para id="para-00004">The resting potential is an overall negative charge maintained by a neuron, typically around -65mV (though the exact value varies from neuron to neuron and can change). Neurons are sometimes said to “defend” their resting potential, meaning that after any stimulation they have a strong tendency to return quickly to rest. Neurons are not alone in having a resting potential—most of the cells in your body also maintain an overall weak negative charge.</para>
     <para id="para-00005">The resting membrane potential is primarily due to the concentration-gradient for K<sup>+</sup> (more inside than out) and special ion channels called leak K<sup>+</sup> channels. As their name suggests, leak K<sup>+</sup> channels are selective for K<sup>+</sup> and always open (<link target-id="Image-2.32"/>).
