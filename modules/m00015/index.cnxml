@@ -165,10 +165,10 @@
     </row>
   </thead>
   <tbody>
-    <row><entry namest="c1" nameend="c7">Channels</entry>
+    <row><entry namest="c1" nameend="c7" align="center"><emphasis>Channels</emphasis></entry>
     </row>
     <row>
-      <entry><emphasis>Leak K<sup>+</sup> channels</emphasis></entry>
+      <entry>Leak K<sup>+</sup> channels</entry>
       <entry>Weakly expressed throughout neuron</entry>
       <entry>Open</entry>
       <entry>Open</entry>
@@ -203,7 +203,7 @@
       <entry>Open</entry>
       <entry>Closed</entry>
     </row>
-    <row><entry namest="c1" nameend="c7"><emphasis>Membrane potential</emphasis></entry>
+    <row><entry namest="c1" nameend="c7" align="center"><emphasis>Membrane potential</emphasis></entry>
     </row>
     <row>
       <entry>Membrane potential</entry>
