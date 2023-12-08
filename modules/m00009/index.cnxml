@@ -36,7 +36,7 @@
           <colspec colnum="3" colname="c3"/>
           <colspec colnum="4" colname="c4"/>
           <tbody>
-          <row><entry namest="c1" nameend="c4"><emphasis>Classic endogenous (see Chapter 3)</emphasis></entry></row>
+          <row><entry namest="c1" nameend="c4" align="center"><emphasis>Classic endogenous (see Chapter 3)</emphasis></entry></row>
           <row>
             <entry><emphasis>Family</emphasis></entry>
             <entry><emphasis>Precursors</emphasis></entry>
@@ -69,7 +69,7 @@
             β-Neoendorphin</entry>
             <entry>κ-Opioid</entry>
           </row>
-          <row><entry namest="c1" nameend="c4"><emphasis>Exogenous opiate system drugs</emphasis></entry></row>
+          <row><entry namest="c1" nameend="c4" align="center"><emphasis>Exogenous opiate system drugs</emphasis></entry></row>
 
           <row>
             <entry><emphasis>Drug</emphasis></entry>
