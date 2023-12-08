@@ -144,11 +144,81 @@
 <para id="para-00033">Although the voltage-gated K<sup>+</sup> channels respond to excitation in the same way that Na<sup>+</sup> channels do, they are different in two key ways. First, the K<sup>+</sup> channels do not inactivate—they stay open as long as the neuron has a positive charge, working continuously to allow K<sup>+</sup> to depart to drive the neuron back down to its negative resting potential. A second distinctive feature is that the voltage-gated K<sup>+</sup> channels are slow—their voltage sensor takes longer to open and to close the channels than the sensor on the voltage-gated Na<sup>+</sup> channels. This “tardiness” is important, causing the K<sup>+</sup> channels to only begin opening just as the Na<sup>+</sup> channels are beginning to clog. This remarkable feat of timing makes the action potential extremely efficient, limiting the overlap between the increases in Na<sup>+</sup> and K<sup>+</sup> conductance that happen during the rising and falling phases. If the K<sup>+</sup> channels opened earlier, K<sup>+</sup> would be able to diffuse out of the neuron as quickly as the voltage-gated Na<sup>+</sup> channels were allowing Na<sup>+</sup> to diffuse in, an offsetting current that would produce no signal in the membrane potential!</para>
 <para id="para-00034">A second consequence of the slow operation of the voltage-gated K<sup>+</sup> channels is the undershoot (step 5 of <link target-id="Image-2.11"/>). Even after the neuron begins to return to a negative charge, it takes a few milliseconds for the K<sup>+</sup> channels to swivel closed. During this time, K<sup>+</sup> continues to be able to leave the neuron, making the neuron temporarily more negative than usual. This is what we observe as the undershoot phase (step 6). The enhanced negative charge of the undershoot phase helps to unclog the voltage-gated Na<sup>+</sup> channels, ending the refractory period (step 6). Ending the refractory period means the neuron is now capable of firing another action potential (the voltage-gated Na<sup>+</sup> channels have been reset), and yet the undershoot makes this a bit less likely than usual by keeping the neuron a bit further from threshold for a few milliseconds. Thus, the undershoot both prepares the neuron for sending the next message while also helping to ensure the neuron isn’t hyper-active. What a clever system!</para>
 <para id="para-00035"><link target-id="Image-2.26"/> provides another way of organizing all this information, providing an overview table of what is happening in each phase of the action potential.</para>
-    <figure id="Image-2.26">
-      <media alt="Table of channels and their status at different phases of the action potential">
-        <image mime-type="image/png" src="../../media/Image-2.26_Conductance-and-channels.png"/>
-      </media>
-    </figure>
+<table id="Image-2.26" summary="Table of channels and their status at different phases of the action potential">
+  <tgroup cols="7">
+  <colspec colnum="1" colname="c1" />
+  <colspec colnum="2" colname="c2" />
+  <colspec colnum="3" colname="c3" />
+  <colspec colnum="4" colname="c4" />
+  <colspec colnum="5" colname="c5" />
+  <colspec colnum="6" colname="c6" />
+  <colspec colnum="7" colname="c7" />
+  <thead>
+    <row>
+      <entry>Channel</entry>
+      <entry>Expression</entry>
+      <entry>Resting potential</entry>
+      <entry>Beginning of EPSP</entry>
+      <entry>Rising phase</entry>
+      <entry>Falling phase</entry>
+      <entry>Back to resting potential</entry>
+    </row>
+  </thead>
+  <tbody>
+    <row><entry namest="c1" nameend="c7">Channels</entry>
+    </row>
+    <row>
+      <entry><emphasis>Leak K<sup>+</sup> channels</emphasis></entry>
+      <entry>Weakly expressed throughout neuron</entry>
+      <entry>Open</entry>
+      <entry>Open</entry>
+      <entry>Open</entry>
+      <entry>Open</entry>
+      <entry>Open</entry>
+    </row>
+    <row>
+      <entry>Transmitter-gated Na<sup>+</sup> channels</entry>
+      <entry>Only expressed at synapses</entry>
+      <entry>Closed</entry>
+      <entry>Open</entry>
+      <entry>Closing</entry>
+      <entry>Closed</entry>
+      <entry>Closed</entry>
+    </row>
+    <row>
+      <entry>Inactivating voltage-gated Na<sup>+</sup> channels</entry>
+      <entry>Strongly expressed through axon</entry>
+      <entry>Closed</entry>
+      <entry>Closed</entry>
+      <entry>Opening</entry>
+      <entry>Inactivated</entry>
+      <entry>Closed</entry>
+    </row>
+    <row>
+      <entry>Non-inactivating voltage-gated K<sup>+</sup> channels</entry>
+      <entry>Strongly expressed through axon</entry>
+      <entry>Closed</entry>
+      <entry>Closed</entry>
+      <entry>Opening</entry>
+      <entry>Open</entry>
+      <entry>Closed</entry>
+    </row>
+    <row><entry namest="c1" nameend="c7"><emphasis>Membrane potential</emphasis></entry>
+    </row>
+    <row>
+      <entry>Membrane potential</entry>
+      <entry></entry>
+      <entry>Around –65 mV</entry>
+      <entry>Rises several mV, triggering voltage-gated Na<sup>+</sup> channels</entry>
+      <entry>Rises to around +40 mV</entry>
+      <entry>Falls, even more negative than rest</entry>
+      <entry>Around –65 mV</entry>
+    </row>
+    </tbody>
+  </tgroup>
+  <caption></caption>
+  </table>
+
 <para id="para-00036">We see that each action potential is a sequential opening of voltage-gated Na<sup>+</sup> channels and voltage-gated K<sup>+</sup> channels, progressing down an axon and into all its synaptic terminals. The rapid opening of the voltage-gated Na<sup>+</sup> channels allows the pressure of diffusion to rapidly push Na<sup>+</sup> into the neuron, driving it from its negative resting potential all the way up to a positive potential that then opens the next voltage-gated Na<sup>+</sup> channel and the next and the next, all the way down the axon. The voltage-gated Na<sup>+</sup> channels clog, however, stopping the rising phase, and just as this happens the voltage-gated K<sup>+</sup> channels finally open, allowing the pressure of diffusion to push K<sup>+</sup> out of the neuron, a negative current that rapidly brings the neuron back down to its negative resting potential and even temporarily making the neuron more negative than usual. Each action potential, then, lets a bit of Na<sup>+</sup> into the neuron and a bit of K<sup>+</sup> out, undoing some of the hard work of the ion pumps. It’s a surprisingly small amount of Na<sup>+</sup> and K<sup>+</sup> that actually shuffles around, producing only a fractional change in concentrations. Still, ion pumps have to continuously operate to undo the Na<sup>+</sup> entry and K<sup>+</sup> departure that occurs with each action potential, otherwise the pressures of diffusion would gradually dissolve away and action potentials could no longer be generated (see <link document="m00016">Our deep but still incomplete understanding of neural signaling</link> for an interesting example of how this can happen).</para>
     </section>
     <section id="sect-00005"><title>Action potential propagation is sped up by myelin</title>
