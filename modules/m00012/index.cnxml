@@ -18,8 +18,16 @@
     <para id="para-00002">The 86 billion neurons in your brain differ dramatically in size, shape, and gene expression (Herculano-Houzel, 2012). What they all have in common is a specialization for communication, allowing them to form complex networks. All day long, neurons chatter away in your nervous system. A typical neuron in your central nervous system is in direct communication with about 7,000 synaptic partners and can send up to 400 messages per second (Pakkenberg et al., 2003; Testa-Silva et al., 2014). The quantity and complexity of communication occurring in your nervous system is staggering.</para>
     <para id="para-00003">How do neurons communicate? It turns out they are bilingual (see <link target-id="Image-2.01"/>)—speaking in both chemical and electrical languages. Neurons speak to each other in an ancient chemical language, releasing chemical signals called neurotransmitters. These chemical messages are translated into an internal electrical language that influences the generation of action potentials, electrical waves that spread within a neuron at great speed. As they spread, action potentials are translated back into chemical messages that are released to partner neurons. Let’s take a tour of these two signaling systems.</para>
     <figure id="Image-2.01">
-      <media alt="Top: Diagram of 3 neurons, showing inhibitory neurotransmitter released by one and excitatory neurotransmitter being released by another. Bottom: Diagram of a synapse showing major key terms in a more zoomed out and zoomed in format.">
+      <media alt="Top: Diagram of 3 neurons, showing inhibitory neurotransmitter released by one and excitatory neurotransmitter being released by another. ">
         <image mime-type="image/png" src="../../media/Image-2.01_Neuronal-languages.png"/>
+      </media>
+      <caption><term id="term-00001">Action potentials</term> transfer information within a neuron. This electrical signal spreads through the neuron to trigger transmitter release to that neuron's synaptic partners.<newline/>
+      <term id="term-00002">Neurotransmitter</term> is released to transfer information between neurons. These signals excite or inhibit action potentials in the receiving neuron.</caption>
+    </figure>
+    <figure id="Image-2.01a">
+      <title>Closeup of chemical transmission</title>
+      <media alt="Diagram of a synapse showing major key terms in a more zoomed out and zoomed in format.">
+        <image mime-type="image/png" src="../../media/Image-2.01a_Closeup.png"/>
       </media>
     </figure>
     <section id="sect-00002"><title>Communication between neurons happens chemically, at synapses</title>
