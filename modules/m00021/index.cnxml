@@ -1,0 +1,24 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Building a nervous system</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Building a nervous system</md:title>
+    <md:content-id>m00021</md:content-id>
+    <md:uuid>4f269268-1ae8-45f1-abdb-fef881ba9696</md:uuid>
+  </metadata>
+  <content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section you should be able to:</para>
+        <list id="list-00001">
+          <item>Describe the similarities and differences between neurons, glia, and all eukaryotic cells.</item>
+          <item>Name and describe the functional specializations of a neuron.</item>
+          <item>Describe the different types of glia and their function.</item>
+        </list>
+    </section>
+      <para id="para-00002">Across the animal kingdom, nervous systems are constructed using the same basic cell types: neurons and in most cases glia. Although neurons and glia come in different shapes and sizes, they share the fundamental features of all eukaryotic cells. In this section, we will explore how nervous system cells are both similar and different from other cells.</para>
+   
+    <section id="sect-00002"><title>Brain cells are eukaryotic cells</title>
+    <para id="para-00003">The first cell is thought to have arisen on earth at least 3.8 billion years ago. Today we classify cellular life into three domains, Bacteria, Archaea and Eukarya. All cells on this planet contain a barrier to the outside world called a cell membrane and genetic material (DNA). However, unlike prokaryotic cells, which are members of the Bacteria and Archaea Domains, eukaryotic cells belong to the Eukarya Domain which has as its major cellular feature membrane-bound organelles. Membrane-bound organelles allow for functional compartmentalization and specialization. DNA is segregated in the nucleus where it is copied (via a process called replication) and/or converted into mRNA (messenger RNA). Once converted (transcribed) into mRNA, this material exits the nucleus. It is outside of the nucleus that the translation of mRNA to protein occurs in eukaryotic cells Image 1.01.</para>
+  </section>
+  </content>
+</document>
