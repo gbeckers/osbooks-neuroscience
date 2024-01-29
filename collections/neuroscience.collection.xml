@@ -61,16 +61,6 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Touch and Pain</md:title>
-      <col:content>
-        <col:module document="m00006"/>
-        <col:module document="m00007"/>
-        <col:module document="m00010"/>
-        <col:module document="m00008"/>
-        <col:module document="m00009"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
       <md:title>The Chemical Senses</md:title>
       <col:content>
         <col:module document="m00038"/>
@@ -79,6 +69,16 @@
         <col:module document="m00041"/>
         <col:module document="m00042"/>
         <col:module document="m00043"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Touch and Pain</md:title>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00010"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
