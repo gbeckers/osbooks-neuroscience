@@ -6,6 +6,30 @@
     <md:uuid>be308c74-7592-46df-a8c0-7cea647c4c11</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, students will be able to:</para>
+      <list id="list-00001">
+        <item>Identify the neurotransmitters produced from amino acids in the diet</item>
+        <item>Describe the similarities and differences in the ways these neurotransmitters are produced, inactivated, and utilized to control behavior</item>
+      </list>
+    </section>
+    <section id="sect-00002">
+      <title>Dopamine, norepinephrine, and epinephrine.</title>
+      <para id="para-00002">Dopamine (often abbreviated DA), norepinephrine (often abbreviated NE), and epinephrine are sequentially synthesized from the same dietary amino acid precursor, tyrosine. Norepinephrine and epinephrine are also sometimes called noradrenaline and adrenaline, and the neurons that produce them are sometimes called noradrenergic and adrenergic. Understanding the sequence of biochemical steps that lead to the production, storage, release, and receptor interactions of these three neurotransmitters has allowed neuropharmacologists to design drugs that can either enhance or inhibit specific processes to treat neurological and psychiatric diseases.</para>
+      <section id="sect-00003">
+        <title>Synthesis</title>
+        <para id="para-00003">Tyrosine is actively transported from the blood across the blood-brain barrier (Step 1 of <link target-id="Image-3.07.1"/>). Tyrosine is utilized by all the cells in the brain for a variety of purposes, not just for making these neurotransmitters. Dopamine, norepinephrine, and epinephrine neurons produce a series of enzymes that convert tyrosine into each of these neurotransmitters. The process begins inside the cytoplasm of the neuron with the conversion of tyrosine into <term id="term-00001">L-DOPA</term> by the addition of a hydroxy molecule to the benzene ring via the enzyme <term id="term-00002">tyrosine hydroxylase</term> (Step 2 of <link target-id="Image-3.07.1"/>). This enzyme requires the presence of iron ions to function properly. This enzyme does not work well in humans with severe <term id="term-00003">anemia</term> who have difficulty absorbing enough iron from their diet. Severe anemia is typically associated with feelings of depression and mental fatigue. These symptoms offer insight into the role of these neurotransmitters in normal brain function.</para>
+        <figure id="Image-3.07.1">
+          <media alt="Top: Diagram of a presynaptic terminal with an adjacent blood vessel. Inside the terminal, the enzymes and molecules described in the text are shown as a series of steps. Bottom: A diagram of the chemical transformation cascade from L-tyrosine to L-DOPA to dopamine to norepinephrine to epinephrine. Enzymes breaking down dopamine and norepinephrine are also shown as described in the main text.">
+            <image mime-type="image/png" src="../../media/Image-3.07.1_Dopamine-and-norepinephrine-synthesis.png"/>
+          </media>
+        </figure>
+<para id="para-00004">L-DOPA is converted into dopamine by the removal of a molecule of carbon dioxide via the enzyme <term id="term-00004">aromatic amino acid decarboxylase</term>, also called DOPA decarboxylase (Step 3 of <link target-id="Image-3.07.1"/>). This enzyme is extremely efficient, which may explain why brain levels of L-DOPA tend to be very low and why providing exogenous L-DOPA to patients who lack sufficient dopamine—such as in patients with Parkinson’s disease—leads to a dramatic increase in the production of dopamine. After synthesis, the dopamine is transported into a synaptic vesicle and stored until it is released from the axonal terminal (Step 4 of <link target-id="Image-3.07.1"/>).</para>
+<para id="para-00005">In norepinephrine and epinephrine neurons, once dopamine is transported into the vesicle, it can be converted to norepinephrine by the vesicular enzyme, <term id="term-00005">dopamine-beta-hydroxylase</term> (Step 5 of <link target-id="Image-3.07.1"/>). In addition to dopamine-beta-hydroxylase, the vesicles contain <term id="term-00006">copper</term>. Copper is required for dopamine-beta-hydroxylase to function appropriately.</para>
+<para id="para-00006">A very small group of neurons in the brainstem also express an enzyme, called <term id="term-00007">phenolethanolamine-N-methyltransferase</term>, that converts norepinephrine into the neurotransmitter epinephrine by adding a methyl group to the nitrogen atom (Step 6 of <link target-id="Image-3.07.1"/>). Epinephrine should be seen more as a hormone than intraneuronal signal. In addition to being released by neurons, it is also secreted by the medulla of the adrenal glands and does not enter the brain. It produces the peripheral manifestations of strong emotions such as fear or anger when it is released into the bloodstream.</para>
+      </section>
+    </section>
+    
   </content>
 </document>
