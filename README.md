@@ -17,13 +17,13 @@ Use this repository template to create an "osbooks" repository for a new book. I
 1. On GitHub, navigate to the main page of this repository (you're probably already here).
 2. Above the file list, click **Use this template**.![Screen Shot 2021-07-20 at 7 24 56 AM](https://user-images.githubusercontent.com/30244554/126341590-baae4973-d518-4106-b41c-5c94b5018eb4.png)
 
-3. In the _Owner_ drop-down menu, select **openstax**.
+3. In the _Owner_drop-down menu, select **openstax**.
 4. Name the Repository:
 
    - _osbooks-**book-name**_, if repo contains only one collection, or
    - _osbooks-**book-name**-bundle_, if repo contains more than one collection
 
-   Note: Repository names can be changed at a later time. _Description_ can be left blank.
+   Note: Repository names can be changed at a later time. _Description_can be left blank.
 
 5. Set repository visibility to **Private**.
 
