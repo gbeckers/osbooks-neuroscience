@@ -144,7 +144,78 @@
       </section>
       <section id="sect-00015">
         <title>Endorphins</title>
-        <para id="para-00037"/>
+        <para id="para-00037">Endorphins are one of 4 families of endogenous opioids (thus, their name): endorphins, enkephalins, dynorphins, and endomorphins. Three of the most studied are shown in the Table (<link target-id="Image-3.18"/>). </para>
+        <figure id="Image-3.18">
+          <media alt="Table of 3 major endogenous opioid families: endorphins, enkephalins and dynorphins. Their precursors, peptides and receptors are listed.">
+            <image mime-type="image/png" src="../../media/Image-3.18_Endogenous-opioids.png"/>
+          </media>
+        </figure>
+        <para id="para-00038">Each family has several opioid-like peptides within it. Endorphins have a diverse range of actions in the brain: they modulate the pain signals carried from the periphery to the higher centers of the brain, regulate numerous neuroendocrine or neuroimmune functions, and influence mood. Endorphins interact with families of various receptors. For example, when the “mu” opiate receptor is stimulated, it relieves pain and induces feelings of pleasure or euphoria. Endorphins are released in response to laughing, eating, intense exercising, listening to music, walking in the sunshine (it’s the UV light), having sex, and so on. The emotional experience is ephemeral because endorphins have a very short life span once released; they are quickly catabolized by peptidases.</para>
+      </section>
+
+        <note class="boxed-feature" id="note-00004">
+          <title>People behind the science: Candace Beebe Pert and endorphins</title>
+          <para id="para-00039">Candace Beebe Pert (June 26, 1946 – September 12, 2013, <!--<link target-id="Image-3.35"/>-->) was an American neuroscientist, pharmacologist, and my dear friend, who discovered the opiate receptor, the cellular binding site for endorphins in the brain. Candice told me that she sampled her own blood during her pregnancy to monitor changes in blood-borne endorphins. While the discovery of the elusive endorphin receptor earned the coveted Albert Lasker Award (often a precursor to the Nobel Prize), the prize was awarded to the head of the laboratory, Dr. Solomon H. Snyder, without citing Candace. She wrote a letter to the head of the Lasker Foundation, claiming that her exclusion was due in part to being a woman. Ultimately, Dr. Pert became Chief of the Section on Brain Biochemistry at the National Institute of Mental Health. Candace was as brilliant as she was passionate about advancing women in science.
+            <!-- <figure id="Image-3.35">
+              <media alt="Photograph of Dr. Pert, smiling in front of the exterior of a building with trees. Image credit: By Alamy - Original publication: unknownImmediate source: https://www.telegraph.co.uk/news/obituaries/medicine-obituaries/10486776/Candace-Pert-obituary.html, Fair use, https://en.wikipedia.org/w/index.php?curid=45673489">
+                <image mime-type="image/png" src="../../media/Image-3.35"/>
+              </media>
+            </figure> -->
+          </para>
+        </note>
+        <section id="sect-00016">
+          <title>Oxytocin</title>
+          <para id="para-00040">Oxytocin is a neuropeptide that is synthesized in magnocellular neurons in the paraventricular and supraoptic nuclei of the hypothalamus. It is synthesized as a large inactive precursor protein and progressively hydrolyzed into smaller fragments and stored in a vesicle. Oxytocin neurons send axons into the posterior pituitary gland as well as throughout the limbic system, olfactory bulb, nucleus accumbens (the brain’s principal pleasure center), brainstem (to regulate pain), and cortex (<link target-id="Image-3.19"/>). Oxytocin receptors are G-protein-linked and are found on the presynaptic and postsynaptic membranes. Oxytocin also acts partially on vasopressin receptors, which complicates understanding its functions. It also indirectly modulates neurogenesis (the birth of new neurons) and synaptic plasticity via these receptors.</para>
+          <para id="para-00041">Oxytocin has several behavioral functions. In highly social animals, oxytocin, supported by actions of the endocannabinoid system (discussed in <link document="">Neurotransmitters made from fats</link>), intensifies social attachment by conveying the social salience of environmental stimuli. Elevated levels of oxytocin via intranasal administration have been linked to a range of cognitive and behavioral effects including within-group conformity, trust, affiliation, and cooperation. Oxytocin also promotes aggression toward threatening out-group rivals and may underlie aspects of racism (Zhang et al.,2019). It appears to play a role in stimulating bonding between mother and child. Other studies have linked exposure to oxytocin with reduced social anxiety. Despite the many popular claims, there is no evidence that oxytocin has an aphrodisiac effect. Experiments with human couples sniffing oxytocin have not shown any increased tendency to fall in love.</para>
+          <figure id="Image-3.19">
+            <media alt="Diagram of the hypothalamus and pituitary. Neurons are shown in the PVN and SON, sending projections to the posterior pituitary to release oxytocin in the blood stream. They also send projections towards cortex and limbic system. An upper left zoom-out image shows the approximate location of these structures in the while human brain. Steps shown: 1) Oxytocin is expressed by magnocellular neurons in the PVN and SON. 2) Oxytocin protein is transported from the cell body to the axon terminals. 3) Oxytocin is released into the blood stream via axon terminals in the posterior pituitary. 4) Oxytocin is also released throughout the limbic system and cortex.">
+              <image mime-type="image/png" src="../../media/Image-3.19_Oxytocin-networks.png"/>
+            </media>
+          </figure>
+      </section>
+    </section>
+    <section id="sect-00017">
+      <title>Glutamate and GABA</title>
+      <para id="para-00042">These two amino acids are utilized by more neurons as a neurotransmitter than any other. Glutamate is the principal producer of excitation while GABA (gamma-amino butyric acid) is the principal producer of inhibition. The lifecycle of glutamate is shown in <link target-id="Image-3.12"/>. The lifecycle of GABA is shown in <link target-id="Image-3.14"/>. Because these lifecycles overlap substantially, we will discuss them in tandem.</para>
+      <figure id="Image-3.12">
+        <media alt="Diagram of a synapse showing glutamate life cycle steps as described by text on slide. A blood vessel is also shown, as is an astrocyte process adjacent to the synaptic cleft.">
+          <image mime-type="image/png" src="../../media/Image-3.12_Glutamate-lifecycle.png"/>
+        </media>
+      </figure>
+
+      <figure id="Image-3.14">
+        <media alt="Diagram of a synapse showing GABA life cycle steps as described by text on slide. A blood vessel is also shown, as is an astrocyte process adjacent to the synaptic cleft.">
+          <image mime-type="image/png" src="../../media/Image-3.14_GABA-lifecycle.png"/>
+        </media>
+      </figure>
+      <section id="sect-00018">
+        <title>Synthesis</title>
+        <para id="para-00043">The production of both neurotransmitters begins with the amino acid <term id="term-00019">glutamine</term> being transported across the blood brain barrier and requires the participation of an astrocyte (Step 1 in both <link target-id="Image-3.12"/> and <link target-id="Image-3.14"/>). Glutamine is then converted into glutamate by the enzyme glutaminase inside the cytoplasm of both types of neurons (Step 2 in <link target-id="Image-3.12"/>). It is then packaged into vesicles, if the neuron is glutamatergic (Step 3 in <link target-id="Image-3.12"/>). If the neuron is GABAergic, glutamate undergoes conversion into GABA by <term id="term-00020">glutamic acid decarboxylase</term>, which requires pyridoxal phosphate (the active form of vitamin B6) as a cofactor and removes a molecule of carbon dioxide (Step 2 in <link target-id="Image-3.14"/>). The newly synthesized GABA is then transported by the <term id="term-00021">vesicular GABA transporter</term> (VGAT) protein into synaptic vesicles (Step 3 in <link target-id="Image-3.14"/>). GABA and glutamate are stored in vesicles until released by their respective neuronal terminals following the arrival of an action potential (Step 4 in both <link target-id="Image-3.12"/> and <link target-id="Image-3.14"/>).</para>
+      </section>
+      <section id="sect-00019">
+        <title>Receptors</title>
+        <para id="para-00044">Glutamate signaling activates a family of receptors consisting of metabotropic glutamate receptors and ionotropic glutamate receptors (<link target-id="Image-3.28"/>). Three of these receptors are ligand-gated ionotropic channels: NMDA receptors, AMPA receptors, or kainate receptors. These glutamate receptors were named after the agonists that activate them: NMDA (N-methyl-d-aspartate), AMPA (α-amino-3-hydroxyl-5-methyl-4-isoxazole-propionate), and kainic acid. These ionotropic glutamate receptors are nonselective cation channels; they will allow the passage of Na+ and K+, and small amounts of Ca2+. AMPA, kainate, and NMDA receptor activation always produce excitatory postsynaptic responses.  All three of these ionotropic receptors are formed from the association of several protein subunits. The metabotropic glutamate receptor, in contrast, is formed from a single protein and functions as a G-protein linked receptor that provides a mechanism for glutamate to modulate cell excitability and synaptic transmission via second messenger signaling pathways.</para>
+        <figure id="Image-3.28">
+          <media alt="Three-part diagram. 1) Diagram of an ionotropic receptor in a cell membrane, binding glutamate and letting Na+ enter the cell. 2) Diagram of an ionotropic receptor in a cell membrane, binding glutamate and letting Na+ and Ca2+enter the cell. 3) Diagram of a G-protein coupled receptor in a cell membrane, binding glutamate, activating a G protein that then opens a nearby ion channel. Ions are shown as potentially flowing into or out of the cell.">
+            <image mime-type="image/png" src="../../media/Image-3.28_Glutamate-receptors.png"/>
+          </media>
+        </figure>
+        <para id="para-00045">GABA receptors are divided into GABA-A and GABA-B (<link target-id="Image-3.15"/>). Recently a GABA-C receptor was defined. Less is known about its function, but it appears, based on its sequence homology and structure, to have evolved from the nicotinic acetylcholine receptor (see <link document="">Section 3.3, Neurotransmitters made from fats</link>. GABA-A is a fast-acting ligand-gated ion channel/inotropic receptor. The binding of GABA opens an ion pore to allow negatively charged chloride ions to move across the cell membrane into the cell, increasing the resting negative potential inside the cell. This is also known as hyperpolarization. GABA-A receptors are located throughout the central nervous system with a high concentration in the limbic system and cortex.</para>
+        <para id="para-00046">The GABA-B receptor is a G-protein linked receptor that leads to the opening of potassium channels, allowing the efflux of positive ions down their concentration gradient leading to the hyperpolarization of the cell membrane. Adenylyl cyclase is also activated, which prevents calcium entry; this action inhibits presynaptic release of other neurotransmitters. GABA-B receptors are slow-acting synaptic inhibitors and are in cortex and thalamic efferent pathways.</para>
+        <figure id="Image-3.15">
+          <media alt="Two-part diagram. 1) Diagram of a cell membrane with an open ionotropic channel in it. Channel is bound to GABA. Cl- flows in. 2) Diagram of a cell membrane with a G-protein coupled channel in it. It is bound to GABA and the activated G protein is bound to a nearby ion channel. The ion channel is open in K+ is flowing out.">
+            <image mime-type="image/png" src="../../media/Image-3.15_GABA-receptors.png"/>
+          </media>
+        </figure>
+      </section>
+      <section id="sect-00020">
+        <title>Inactivation of glutamate and GABA</title>
+        <para id="para-00047">After interacting with their respective protein receptors in the synaptic space (Step 5 in both <link target-id="Image-3.12"/> and <link target-id="Image-3.14"/>), released glutamate needs to be inactivated quickly, otherwise it may overstimulate the post-synaptic neuron and cause local degeneration. Fortunately, there are highly efficient transporters, called <term id="term-00022">excitatory amino acid transporters</term> (EAAT), that remove the glutamate in the synapse into astrocytes. Inside astrocytes, glutamate is converted into glutamine before being released into the extracellular space via the sodium-coupled neutral amino acid transporter (SNAT) (Step 6 and 7 in <link target-id="Image-3.12"/>). The extracellular glutamine is now available for re-use by glutamate neurons.</para>
+        <para id="para-00048">Released GABA is inactivated by being transported into astrocytes via GABA Transporters (GAT) (Step 6 in <link target-id="Image-3.14"/>). Inside the astrocyte, the GABA will be enzymatically converted initially into glutamate, which can then enter the citric acid cycle, or be further converted into glutamine before being released into the extracellular space for reuse by nearby glutamate or GABA neurons (Step 7 in <link target-id="Image-3.14"/>).</para>
+      </section>
+      <section id="sect-00021">
+        <title>The functions of GABA and glutamate</title>
+        <para id="para-00049">GABA- and glutamate-releasing neurons are densely located throughout the brain. They tend to function competitively to induce a balance of excitation and inhibition. Neurons spontaneously fire off action potentials due to their tendency to constantly leak potassium ions. The brain takes advantage of this tendency and processes information primarily via the actions of GABA-induced inhibition.</para>
       </section>
     </section>
   </content>
