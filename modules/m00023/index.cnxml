@@ -6,6 +6,23 @@
     <md:uuid>ecda4f26-b8c3-4089-b508-c1752fff58e1</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00002">By the end of this section you should be able to</para>
+        <list id="list-00001">
+          <item>Lorem ipsum dolor sit amet.</item>
+          <item>Consectetur adipiscing elit.</item>
+        </list>
+    </section>
+    <para id="para-00001">The central nervous system (CNS) is made up of the brain and spinal cord. Unlike the PNS, the CNS is encased in bone (skull and vertebral column). In addition to the brain and spinal cord, the retina (the neural tissue of the eye) is also considered to be an extension of the CNS. This section will introduce the CNS with a focus on development. You will find a detailed discussion of the brain including anatomy and function in its own section <!-- Link to section 1.4>-->. This section will begin by introducing some basic terminology that will be useful to you throughout this text.</para>
+      <section id="sect-00002"><title>Anatomical orientation and planes of orientation</title>
+      <para id="para-00003">Specific terminology is applied to describing anatomical structures and orientation in the nervous system. Dorsal is an anatomical direction that refers to both the back of the spinal cord and to the top of the brain. The opposite of dorsal is ventral which means toward the bottom of the brain or the front of the spinal cord. Superior and inferior refer to above or below another structure. The bend in the human neuraxis causes a dissociation between the dorsal/ventral and superior/inferior directions. Anterior means toward the face and head, and posterior means toward the back or toward the feet. Rostral is toward the brain and or the top of the spinal cord while the opposite, caudal, is towards the back of the brain.  Medial means toward the middle or center while lateral means left or right of another structure (toward the outside) (Image 1.16).  Ipsilateral means the same side and contralateral means the opposite side.  For example, the right motor cortex controls the left side of the body and the left motor cortex controls the right side of the body (contralateral). </para>
+      <para id="para-00004">There are three planes for sectioning the brain for anatomical analysis: coronal sectioning (cutting the brain front to back); sagittal sectioning (cutting the brain left to right) and horizontal or axial sectioning (cutting the brain top to bottom) (Image 1.17).</para>
+    </section>
+      <section id="sect-00003"><title>Developmental perspective: Vertebrate nervous system development</title>
+      <para id="para-00005">Neurodevelopment is a complex and multi-step process that requires a tremendous amount of coordination. Turning on the right genes at the right time is crucial and any missed steps or abnormal development can have catastrophic consequences. 
+        The embryonic development of the vertebrate nervous system begins with the outer tissue of the embryo called the ectoderm. At about 3 weeks in development, the ectoderm begins to thicken and form a flat structure called the neural plate. During the 3rd and 4th week of development, the neural plate begins to invaginate into a groove that eventually closes to form a neural tube. In the initial stages of formation, the neural tube is made up of one layer of cells (epithelial), which serve as the progenitors (embryonic neural stem cells) of glia and neurons. The neural tube elongates to form the spinal cord while the anterior region enlarges and expands to form the brain. Three swellings or bulges eventually become apparent, which become the prosencephalon (forebrain), mesencephalon (midbrain) and rhombencephalon (hindbrain). As development progresses, the prosencephalon subdivides into telencephalon and diencephalon. The mesencephalon does not further subdivide. The rhombencephalon becomes the myelencephalon and the metencephalon. The spinal cord forms from the end of the neural tube next to the myelencephalon. By 11 weeks the shape of the human brain is similar to a brain at birth. In the sections that follow, we will discuss the adult structures that derive from the five embryonic regions above (Image 1.28). More details on development can be found later in this text <!--Link to Ch 5 Neurodevelopment -->. 
+        </para>
+    </section>
   </content>
 </document>
