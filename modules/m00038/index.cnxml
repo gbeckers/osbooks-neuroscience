@@ -1,11 +1,17 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00038</md:content-id>
     <md:uuid>ef1d0c81-be07-4abe-8256-44f461b9e384</md:uuid>
   </metadata>
-  <content>
-    <para id="para-00001">temp</para>
+  <content class="introduction">
+    <para id="para-00001">Your neuroscience study group is getting together to work on its end-of-course presentation and one of your group members has kindly brought some of their “famous” homemade chips and salsa for the group to enjoy. After a few hours of work, the group decides to break for a tasty snack. As each of the members bites into a chip loaded with salsa you hear in quick succession:</para>
+  <para id="para-00002">“Yuck, this tastes like soap!”<newline/>
+      “Ouch, this burns!”<newline/>
+      “Yum, this is the best salsa ever!”
+  </para>
+  <para id="para-00003">How could the same food produce such different responses among people? Why would the nervous systems of members of the same species produce such diametrically opposed responses?</para>
+<para id="para-00004">Chemicals are the building blocks of our world. From the sweet taste of an apple to the fresh smell of a newly cut lawn and even the burn of onion in our eyes, every substance we encounter requires us to interact with chemicals. The chemical senses allow us to build internal representations of the rich chemical environment that comprises our external world. Our repertoire of chemical senses directs us toward energy-providing food, alerts us to danger, and helps many animals find mates. While the anatomical, cellular, and molecular features of the chemical senses vary between systems and comparatively between organisms, each system serves a unique purpose in allowing animals to both interact and engage with the chemical environment surrounding them.</para>
   </content>
 </document>
