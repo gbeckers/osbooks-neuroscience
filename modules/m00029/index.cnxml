@@ -36,12 +36,12 @@
       <section id="sect-00005">
         <title>Receptors</title>
         <para id="para-00008">Neurotransmitters relay their messages by traveling between cells and attaching to specific receptors on target cells. When a neurotransmitter attaches to a receptor, it triggers an action in the target cells. Receptors, even for a single neurotransmitter, exist as many different types that are differentially distributed and produce unique post-synaptic effects. Norepinephrine binds to three main G-protein-linked receptors: alpha1, alpha-2, and beta receptors that are located throughout the brain. Epinephrine can also stimulate all the adrenergic receptors including alpha and beta subtypes.</para>
-        <para id="para-00070">Dopamine binds to five different types of receptors, labelled D1-D5.  Receptors have different, but often overlapping, functions. <!-- <link target-id="Image-3.25"/> --> shows two different dopamine receptors that act via G-protein-linked receptors: one activates the enzyme adenylyl cyclase while the other inactivates this enzyme.</para>
-        <!-- <figure id="Image-3.25">
+        <para id="para-00070">Dopamine binds to five different types of receptors, labelled D1-D5.  Receptors have different, but often overlapping, functions. <link target-id="Image-3.25"/> shows two different dopamine receptors that act via G-protein-linked receptors: one activates the enzyme adenylyl cyclase while the other inactivates this enzyme.</para>
+        <figure id="Image-3.25">
           <media alt="Diagram of a cell membrane with dopamine receptors embedded in it. D1 and D2-liek receptors are both shown, each with associated G-proteins. Adenyly cyclase is also shown in the membrane, with a + from D1 receptors and a - from D2 receptors. ATP and shown as being turned into cAMP by adenylyl cyclase.">
-            <image mime-type="image/png" src="../../media/Image-3.25"/>
+            <image mime-type="image/png" src="../../media/Image-3.25_Dopamine-receptors.png"/>
           </media>
-        </figure> -->
+        </figure>
         <para id="para-00009">Once again, notice that the function of any receptor depends upon which region of the brain the receptor is located and the nature of its second messenger, G-protein-linked systems. </para>
       </section>
       <section id="sect-00006">
@@ -97,13 +97,13 @@
       <section id="sect-00010">
         <title>Receptors</title>
         <para id="para-00025">Serotonin is one of the most ancient signaling molecules in nature. Bananas, single-celled paramecium, insects, and humans all synthesize it. The first primordial serotonin receptor is related to the rhodopsin protein found in the retina and may have first appeared almost one billion years ago; a time that likely predates the appearance of acetylcholine, dopamine, or norepinephrine. During this time, evolution greatly differentiated the serotonin receptors into a large and diverse group of proteins that are often less than 25% homologous with each other. This long evolutionary history underlies why serotonin plays a variety of roles throughout the brain, including behaviors such as aggression, appetite, sex, sleep, mood and cognitive function.</para>
-        <para id="para-00026">There are many different serotonin receptors in the brain and body (<!-- <link target-id="Image-3.21"/> -->). It is difficult to assign a specific function to each receptor; once again, it depends on where the receptor is located, and the nature of the biochemical mechanisms activated by the receptor.</para>
-        <!--
+        <para id="para-00026">There are many different serotonin receptors in the brain and body (<link target-id="Image-3.21"/>). It is difficult to assign a specific function to each receptor; once again, it depends on where the receptor is located, and the nature of the biochemical mechanisms activated by the receptor.</para>
+
         <figure id="Image-3.21">
           <media alt="Table showing 12 different types of serotonin receptors, their signaling mechanism, distribution in the brain, and general behavioral effects.">
-            <image mime-type="image/png" src="../../media/Image-3.2"/>
+            <image mime-type="image/png" src="../../media/Image-3.21_The-Distribution-and-Function-of-Serotonin-Receptors.png"/>
           </media>
-        </figure> -->
+        </figure>
         <para id="para-00027">Consider one serotonin receptor called <term id="term-00016">5HT-1A</term>. Studies of genetically altered mice and positron emission tomography studies on humans have been very useful in demonstrating the potential role of this receptor in the regulation of mood and anxiety. For example, mice and humans born with fewer serotonin type 5HT-1A receptors show more anxiety-like behavior (Olivier et al., 2001). Some of the newer anti-anxiety medications stimulate the 5HT-1A receptors. Interestingly, almost all the known hallucinogens stimulate at least two serotonin receptors, the 5HT-1A and 5HT-2A. More will be presented about anti-anxiety medications and hallucinogens in <link document="">Ch 14 Psychopharmacology</link>.</para>
       </section>
       <section id="sect-00011">
@@ -156,12 +156,12 @@
 
         <note class="boxed-feature" id="note-00004">
           <title>People behind the science: Candace Beebe Pert and endorphins</title>
-          <para id="para-00039">Candace Beebe Pert (June 26, 1946 – September 12, 2013, <!--<link target-id="Image-3.35"/>-->) was an American neuroscientist, pharmacologist, and my dear friend, who discovered the opiate receptor, the cellular binding site for endorphins in the brain. Candice told me that she sampled her own blood during her pregnancy to monitor changes in blood-borne endorphins. While the discovery of the elusive endorphin receptor earned the coveted Albert Lasker Award (often a precursor to the Nobel Prize), the prize was awarded to the head of the laboratory, Dr. Solomon H. Snyder, without citing Candace. She wrote a letter to the head of the Lasker Foundation, claiming that her exclusion was due in part to being a woman. Ultimately, Dr. Pert became Chief of the Section on Brain Biochemistry at the National Institute of Mental Health. Candace was as brilliant as she was passionate about advancing women in science.</para>
-            <!-- <figure id="Image-3.35">
+          <para id="para-00039">Candace Beebe Pert (June 26, 1946 – September 12, 2013, <link target-id="Image-3.35"/>) was an American neuroscientist, pharmacologist, and my dear friend, who discovered the opiate receptor, the cellular binding site for endorphins in the brain. Candice told me that she sampled her own blood during her pregnancy to monitor changes in blood-borne endorphins. While the discovery of the elusive endorphin receptor earned the coveted Albert Lasker Award (often a precursor to the Nobel Prize), the prize was awarded to the head of the laboratory, Dr. Solomon H. Snyder, without citing Candace. She wrote a letter to the head of the Lasker Foundation, claiming that her exclusion was due in part to being a woman. Ultimately, Dr. Pert became Chief of the Section on Brain Biochemistry at the National Institute of Mental Health. Candace was as brilliant as she was passionate about advancing women in science.</para>
+            <figure id="Image-3.35">
               <media alt="Photograph of Dr. Pert, smiling in front of the exterior of a building with trees. Image credit: By Alamy - Original publication: unknownImmediate source: https://www.telegraph.co.uk/news/obituaries/medicine-obituaries/10486776/Candace-Pert-obituary.html, Fair use, https://en.wikipedia.org/w/index.php?curid=45673489">
-                <image mime-type="image/png" src="../../media/Image-3.35"/>
+                <image mime-type="image/png" src="../../media/Image-3.35_-Dr-Candace-Pert.png"/>
               </media>
-            </figure> -->
+            </figure>
         </note>
         <section id="sect-00016">
           <title>Oxytocin</title>
@@ -230,27 +230,27 @@
     </section>
     <section id="sect-00022">
       <title>Histamine</title>
-      <para id="para-00052"><term id="term-00023">Histamine</term> neurons originate from the tuberomamillary nucleus of the posterior hypothalamus and send projections throughout the brain (<!-- <link target-id="Image-3.36"/> -->).</para>
+      <para id="para-00052"><term id="term-00023">Histamine</term> neurons originate from the tuberomamillary nucleus of the posterior hypothalamus and send projections throughout the brain (<link target-id="Image-3.36"/>).</para>
       
-      <!-- <figure id="Image-3.36">
+      <figure id="Image-3.36">
         <media alt="Diagram of a human brain with networks of histamine projections throughout the cortex. Cell bodies are in tuberomammillary nucleus of the hypothalamus.">
-          <image mime-type="image/png" src="../../media/Image-3.36"/>
+          <image mime-type="image/png" src="../../media/Image-3.36_Histamine-system-anatomy.png"/>
         </media>
-      </figure> -->
+      </figure>
       <para id="para-00053">Histamine influences arousal, control of pituitary hormone secretion, suppression of eating and cognitive functions. I have included a discussion of this neurotransmitter because it is the target of so many different over the counter medications that are commonly overused. </para>
       <section id="sect-00023">
         <title>Synthesis</title>
-        <para id="para-00054">Histamine is derived from the decarboxylation of the amino acid histidine, a reaction catalyzed by the enzyme <term id="term-00024">L-histidine decarboxylase</term> (step 1 and 2 in <!-- <link target-id="Image-3.16"/> -->). Once formed, histamine may be transported in vesicles by a plasma membrane monoamine transporter protein (step 3 in <!-- <link target-id="Image-3.36"/> -->). </para>
+        <para id="para-00054">Histamine is derived from the decarboxylation of the amino acid histidine, a reaction catalyzed by the enzyme <term id="term-00024">L-histidine decarboxylase</term> (step 1 and 2 in <link target-id="Image-3.16"/>). Once formed, histamine may be transported in vesicles by a plasma membrane monoamine transporter protein (step 3 in <link target-id="Image-3.36"/>). </para>
       </section>
       <section id="sect-00024">
         <title>Receptors</title>
-        <para id="para-00055">Histamine binds to G protein-coupled receptors, designated H1 through H4 (step 5 in <!-- <link target-id="Image-3.16"/> -->). The H1 and H2 receptors produce neuronal depolarization. The H3 receptor functions as an auto-receptor; it downregulates release of histamine, norepinephrine, acetylcholine, and serotonin (step 6 in <!-- <link target-id="Image-3.16"/> -->).</para>
-        <!-- 
+        <para id="para-00055">Histamine binds to G protein-coupled receptors, designated H1 through H4 (step 5 in <link target-id="Image-3.16"/>). The H1 and H2 receptors produce neuronal depolarization. The H3 receptor functions as an auto-receptor; it downregulates release of histamine, norepinephrine, acetylcholine, and serotonin (step 6 in <link target-id="Image-3.16"/>).</para>
+
         <figure id="Image-3.16">
           <media alt="Diagram of a synapse showing histamine life cycle steps as described by text on slide. A blood vessel is also shown. Steps shown: 1) Histidine is absorbed from food and is transported out of the blood, across the BBB, and into neurons. 2) Histidine decarboxylase converts histidine to histamine. 3) Histamine is transported into vesicles. 4) The arrival of the action potential causes neurotransmitter release in the synaptic cleft. 5) Histamine binds to metabotropic postsynaptic receptors, H1 and H2, leading to EPSPs. 6) Histamine binding to presynaptic metabotropic H3 signals to the presynaptic neuron to stop transmitter synthesis and/or release of acetylcholine, dopamine, norepinephrine and serotonin.">
-            <image mime-type="image/png" src="../../media/Image-3.16"/>
+            <image mime-type="image/png" src="../../media/Image-3.16_Histamine-life-cycle.png"/>
           </media>
-        </figure> -->
+        </figure>
       </section>
       <section id="sect-00025">
         <title>Inactivation</title>
