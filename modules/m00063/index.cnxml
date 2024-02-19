@@ -6,6 +6,12 @@
     <md:uuid>e69b9e79-a601-4465-92be-805c95507dd7</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section you should be able to</para>
+        <list id="list-00001">
+          <item>Lorem ipsum dolor sit amet.</item>
+          <item>Consectetur adipiscing elit.</item>
+        </list>
+    </section>  </content>
 </document>
