@@ -10,8 +10,15 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Identify the neurotransmitter systems that are impacted by benzodiazepines, SSRIs, ketamine, antipsychotics and psychostimulants.</item>
+          <item>Discuss how placebos might produce therapeutic effects in the absence of drug activity.</item>
         </list>
-    </section>  </content>
+    </section>
+    <para id="para-00002"><term id="term-00001">Psychotherapeutics</term> are drugs used primarily in a clinical context to treat mental illnesses (see <link document="m00048">The Neural Underpinnings of Emotion and Mood</link>). While these drugs on their own are not a cure, they can help to reduce symptoms or make non-pharmacological treatments, such as psychotherapy, more effective. Psychotherapeutics work through a variety of mechanisms, but in general, act to alter neurotransmitter signaling in brain circuits that underlie emotion and mood regulation. Image 14.18 shows some common psychotherapeutics in the 4 major categories we will discuss below.</para>
+    <figure id="Image-14.18">
+      <media alt="Insert Alt Text">
+        <image mime-type="image/png" src="../../media/Image-14.18_Commonly-prescribed-psychotherapeutic-drugs.png"/>
+      </media>
+    </figure>
+    </content>
 </document>
