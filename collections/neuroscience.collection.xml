@@ -91,6 +91,15 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Stress</md:title>
+      <col:content>
+        <col:module document="m00078"/>
+        <col:module document="m00079"/>
+        <col:module document="m00080"/>
+        <col:module document="m00081"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>The Neural Underpinnings of Emotion and Mood</md:title>
       <col:content>
         <col:module document="m00048"/>

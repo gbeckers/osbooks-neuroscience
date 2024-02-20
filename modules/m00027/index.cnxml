@@ -7,12 +7,10 @@
   </metadata>
 
   <content class="introduction">
-    <para id="para-00001">temp</para>
 
-  <content>
     <note class="meet-author" id="note-00001">
-      <title>Name of Author Goes Here</title>
-          <para id="para-00002"><link url="https://openstax.org/r/Neuro#Author">Meet the author</link></para>
+      <title>Gary L. Wenk, PhD</title>
+          <para id="para-00002"><link url="https://openstax.org/r/Neuro3Author">Meet the author</link></para>
     </note>
     <para id="para-00001">Neurochemistry is the study of all the chemical processes that occur within the brain. This chapter will focus on the production, storage, release, receptor actions and inactivation of a selection of chemicals that are most relevant to the study of behavioral neuroscience. The basis of consciousness, as far as is known today, depends primarily upon the communications between neurons. Neurons communicate with each other by releasing chemicals called neurotransmitters that allow one neuron to influence the behavior of other neurons. The human brain uses over 100 different neurotransmitters. Some neurotransmitters are released by many millions of neurons that impact function throughout the brain; in contrast, some neurotransmitters are released by only a few thousand neurons that have a very limited impact on only a few brain regions. <link target-id="Image-3.01"/> shows the distribution of some neurotransmitter systems that will be discussed below. Understanding the anatomy of these neurotransmitter systems is important because their anatomy defines their function.</para>
 
