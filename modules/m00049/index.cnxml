@@ -1,11 +1,17 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00049</md:content-id>
     <md:uuid>a3002796-295f-4d94-9c21-e63500362c00</md:uuid>
   </metadata>
-  <content>
-    <para id="para-00001">temp</para>
+  <content class="introduction">
+    <note class="meet-author" id="note-00001">
+      <title>Shivon A. Robinson, PhD</title>
+      <para id="para-00001"><link url="https://openstax.org/r/Neuro14Author">Meet the Author</link></para>
+    </note>
+  <para id="para-00002">What first comes to mind when you think of the word “drug”? Historically, drugs have been associated with medicine - substances that help prevent, treat, or cure disease. However, even life-saving medicines can be dangerous if used incorrectly. Furthermore, not all drugs are used for medicinal or therapeutic purposes. Many drugs are used recreationally or to deliberately alter one's mood or state of consciousness. Certain drugs with addictive properties, such as cocaine and heroin, are considered controlled substances and are strictly regulated by the government. However, many commonly used legal psychoactive drugs, including nicotine and alcohol, also pose a high risk for addiction. Caffeine, a drug you likely encounter every day, is one of the most widely used psychoactive drugs in the world.  As you can imagine, the term “drug” can take on many different connotations depending on the context.</para>
+
+<para id="para-00003">In this chapter, we will broadly define a drug as any non-food chemical substance, be it naturally derived or synthetic, with the ability to alter an organism’s physiology or behavior. You will be introduced to the basics of <term id="term-00001">Psychopharmacology</term>, which is the study of how drugs affect mood, cognition, and behavior. We will also explore concepts relevant to the field of <term id="term-00002">Neuropsychopharmacology</term>, an interdisciplinary research area that combines the principles of psychopharmacology and neuroscience to examine the underlying neurobiological mechanisms that contribute to drug-induced changes in physiology and behavior.</para>
   </content>
 </document>
