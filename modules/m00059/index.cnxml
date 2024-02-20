@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Neural control of drinking behavior</title>
+  <title>Neural Control of Drinking Behavior</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Neural control of drinking behavior</md:title>
+    <md:title>Neural Control of Drinking Behavior</md:title>
     <md:content-id>m00059</md:content-id>
     <md:uuid>dcc659b3-1ca6-46dc-8f91-b3c5ec391720</md:uuid>
   </metadata>
@@ -10,8 +10,71 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Describe the reasons why animals need to maintain homeostasis for water.</item>
+          <item>Describe the neural components of homeostatic systems that regulate water balance and drinking behavio.</item>
         </list>
-    </section>  </content>
+    </section>
+    <para id="para-00002">Consider how interesting (or uninteresting) water is as a stimulus. Colorless, odorless, tasteless… By definition, water is about as neutral a stimulus as one can imagine. Most of the time, we don’t think of water as rewarding. We often walk past drinking fountains and water coolers without feeling like we are missing a valuable opportunity. However, when we don’t have enough water in our bodies, drinking water becomes <emphasis effect="italics">highly</emphasis> rewarding. The feeling of being thirsty is very unpleasant and the longer we go without water, the more extraordinary lengths we will go to take a drink. </para>
+
+    <para id="para-00003">Mammals are composed mostly of water. Over half of a human’s body weight is water, with approximately 65% located within the body cells, 28% in the extracellular fluid, and 7% in the blood. Maintaining an appropriate amount of water in our cells and surrounding fluids is critical for maintaining the structural integrity of cells and for providing an aqueous environment for the solutes (nutrients, ions, and biomolecules) that make life possible.</para>
+    
+    <para id="para-00004">Water enters and leaves cells by the process of <term id="term-00001">osmosis</term>—the diffusion of water across a membrane from regions of low solute concentration to regions of high solute concentration (<link target-id="Image-16.13"/>). The unit of measurement of solute concentration within a solution is <term id="term-00002">osmolarity</term>, the number of moles of solute per liter of solution. Mammalian cells have an osmolarity of approximately 300 mOsm/L. If cells are surrounded by a solution of equal osmolarity, the environment is said to be <term id="term-00003">isotonic</term>, and there is no net water flow in or out of the cell. However, if the cell is surrounded by a solution that has a higher solute concentration, the environment is <term id="term-00004">hypertonic</term>. In these conditions, water will flow from inside the cell to the extracellular fluid, causing the cell to shrink. In contrast, if the cell is surrounded by a solution that has a lower solute concentration, the environment is <term id="term-00005">hypotonic</term>, and there is net movement of water from outside the cell to the cytoplasm. This state can cause the cell to swell up and even burst. Therefore, osmotic homeostasis systems must ensure that the blood and extracellular solutions are stably maintained at 300 mOsm/L.</para>
+    <figure id="Image-16.13">
+      <media alt="Diagrams of red blood cell responses to hypotonic, isotonic and hypertonic solutions. Hypotonic: low solute concentration, water moves in cell, swollen red blood cell. Isotonic: normal solute concentration, normal red blood cell. Hypertonic: high solute concentration, water moves out of cell, shrunken (crenated) red blood cell.">
+        <image mime-type="image/png" src="../../media/Image-16.13_Osmolarity-and-tonicity.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00005">To maintain osmotic homeostasis, animals must measure the osmolarity of the blood and ensure that the amount of water lost over time is equal to the amount of water gained over time. Our bodies constantly lose water over time due to evaporation and the need to urinate metabolic waste products. Although animals can generate some water molecules on their own via the process of cellular respiration, most mammals obtain water primarily by ingesting liquids. When the osmolarity of the blood becomes too low, homeostatic systems motivate us to excrete more water in the urine (having to pee!). When the osmolarity of the blood becomes too high, homeostatic systems motivate us to consume water—a process we describe as being thirsty.</para>
+    <section id="sect-00002"><title>Osmotic homeostasis systems</title>
+    <para id="para-00006">Mammals sense blood osmolarity within a brain structure called the <term id="term-00006">subfornical organ (SFO)</term> (<link target-id="Image-16.14"/>). Some SFO neurons increase action potential frequency when the blood becomes hypertonic, while others increase neural activity when the blood becomes hypotonic. These two populations of neurons within the SFO project to other hypothalamic populations including the <term id="term-00007">organ vasculosum of the lateral terminalis</term> (OVLT). Together, the SFO and OVLT control the neural response to osmotic change.</para>
+    <figure id="Image-16.14">
+      <media alt="Flowchart of regulation of water intake as detailed in main text.">
+        <image mime-type="image/png" src="../../media/Image-16.14_Neural-regulation-of-water-intake.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00007">For example, if you ingest food that is high in solutes (such as a handful of salty crackers), the solutes become absorbed by the bloodstream and can increase the hypertonicity of blood. Likewise, if you have not consumed water in a relatively long time (multiple hours), the blood also risks becoming hypertonic. In response to hypertonic conditions, the SFO and OVLT activate effector systems to increase the amount of water within the blood (<link target-id="Image-16.14"/>). One method of increasing water is to motivate an animal to drink by creating the sensation of thirst—an unpleasant condition in which the tongue dries and the act of swallowing liquids becomes highly rewarding. Thirst is a complex motivational state mediated by multiple downstream areas, including regions of the cerebral cortex and limbic areas. How neurons in these structures collectively coordinate the aversive feeling of being thirsty is an active area of investigation.</para>
+    
+    <para id="para-00008">In addition to causing changes in behavior, the SFO and OVLT can cause a physiological response that results in less water loss in the urine (<link target-id="Image-16.14"/>). In response to hypertonic states, the SFO and OVLT cause an increase in the release of <term id="term-00008">antidiuretic hormone (ADH)</term> from the pituitary gland. This hormone primarily acts on cells within the kidney to release less water into the urine. This regulation of urine water content is why the color of urine can change depending on hydration state—the more water you drink, the less ADH is released from the pituitary, and the clearer your urine will become! Dysregulation of the ADH system (for example, mutations in the gene that encodes ADH or the ADH receptors in the kidney) disrupt osmotic homeostasis by causing abnormal water loss and urine formation by the kidneys. This disorder, called diabetes insipidus, can cause severe dehydration and constant thirst if untreated.</para>
+    
+    <para id="para-00009">Interestingly, regulation of osmotic balance has a <term id="term-00009">feed-forward mechanism</term>, in which a homeostatic response occurs before there is actually a change in the system (see feature box on Studying feed-forward mechanisms in thirst). For example, if you feel thirsty and drink a large glass of water, sensors on the tongue detect the ingestion of water and cause a change in SFO neural activity before the water is actually absorbed into the bloodstream from the digestive tract. This mechanism allows you to feel satiated immediately when taking a large drink of water—otherwise, you would have to wait several minutes to feel the effect. In this way, homeostasis can be maintained faster than normal digestive processes would otherwise allow.</para>
+    <note class="in-the-lab" id="note-00001">
+    <para id="para-00010">Studying feed-forward mechanisms in thirst</para>
+    
+    <para id="para-00011">Neuroscientists have studied the effect of environmental stimuli on activity in SFO neurons using fiber photometry, a form of calcium imaging. SFO neurons can be made to express a transgene, GCaMP, that fluoresces proportionally to Ca<sup>2+</sup> release inside the cell. This Ca<sup>2+</sup> signal is a reflection of neural activity <link document="">Methods: In vivo calcium imaging</link>. An optical fiber is placed directly above SFO neurons to measure changes in SFO activity in freely moving, behaving mice (<link target-id="Image-16.28"/>).</para>
+    <figure id="Image-16.28">
+      <media alt="Three-part diagram. 1) Diagram showing that an optical fiber implant allows measurement of GCaMP Ca2+ fluorescence signal in in the SFO of awake mice. SFO is shown in coronal brain slice, at midline just ventral to the septum and lateral ventricles. 2) Diagram of mouse with fiber implant approaching food and water. GCaMP Ca2+ fluorescence signal in the SFO of awake mice was measured in response to drinking (cold and room temperature) and eating. 3) Line graph showing that SFO activity was decreased by drinking and increased by eating. Cold water decreased SFO activity more than room temperature water.">
+        <image mime-type="image/png" src="../../media/Image-16.28_SFO-activity-is-regulated-by-ingestion-of-food-and-water.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00012">A recent study (Zimmerman et al., 2016) showed that SFO neurons increase or decrease activity immediately when mice are allowed to ingest certain substances, much faster than digestive processes. For example, in thirsty mice, when SFO activity is already relatively high, SFO activity decreases immediately when mice are allowed to drink water. In fact, SFO activity decreases even more if the water is cold. This result might explain why drinking cold water is so much more satiating when we are thirsty compared with water served at room temperature. In contrast, SFO activity increases immediately when mice consume solid chow, likely a mechanism to anticipate the need for water before the food is actually absorbed by the digestive track into the bloodstream. Taken together, these feed-forward mechanisms allow an animal to minimize changes to homeostasis and avoid large deviations from a set point during ingestion of food and liquids during a meal.</para></note></section>
+    <section class="section-summary" id="sect-00003"><title>Summary</title>
+      <para id="para-00013">Homeostasis for water ensures that our cells and organ systems maintain a precise osmotic balance. Neurons in the SFO and OVLT sense a change in plasma osmolarity in adjacent blood vessels. If the plasma osmloarity becomes too hypertonic, the SFO and OVLT excite downstream neural populations that cause feelings of thirst and the motivation to drink. The SFO and OVLT also causes an increase in the release of antidiuretic hormone from the pituitary gland, causing the kidney to release less water into the urine.
+      </para> </section>
+      <section class="key-terms" id="sect-00004"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>osmosis</item>
+      <item>osmolarity</item>
+      <item>isotonic</item>
+      <item>hypertonic</item>
+      <item>hypotonic</item>
+      <item>subfornical organ (SFO)</item>
+      <item>organ vasculosum of the lateral terminalis (OVLT)</item>
+      <item>antidiuretic hormone (ADH)</item>
+      <item>feed-forward mechanism</item>
+      </list> </section>
+      <section class="references" id="sect-00005"><title>References</title> 
+        <para id="para-00014">Augustine, V., Lee, S., &amp; Oka, Y. (2020). Neural control and modulation of thirst, sodium appetite, and hunger. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">180</emphasis>, 25–32.</para>
+        <para id="para-00015">Gizowski, C., &amp; Bourque, C. W. (2018). The neural basis of homeostatic and anticipatory thirst. <emphasis effect="italics">Nature Reviews Nephrology</emphasis>, <emphasis effect="italics">14</emphasis>, 11–25.</para>
+        <para id="para-00016">Ichiki, T., Augustine, V., &amp; Oka, Y. (2019). Neural populations for maintaining body fluid balance. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis effect="italics">57</emphasis>, 134–140.</para>
+        <para id="para-00017">Zimmerman, C. A., Lin, Y.-C., Leib, D. E., Guo, L., Huey, E. L., Daly, G. E., Chen, Y., &amp; Knight, Z. A. (2016). Thirst neurons anticipate the homeostatic consequences of eating and drinking.</para>
+        <para id="para-00018">Zimmerman, C. A., Leib, D. E., &amp; Knight, Z. A. (2017). Neural circuits underlying thirst and fluid homeostasis. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">18</emphasis>, 459–469.</para>        
+       </section>
+      
+      <section class="multiple-choice" id="sect-00006"><title>Multiple Choice</title> <para id="para-00019">...</para> </section>
+      <section class="fillin-blank" id="sect-00007"><title>Fill in the Blank</title> <para id="para-00020">...</para> </section>
+      
+  
+  </content>
 </document>
