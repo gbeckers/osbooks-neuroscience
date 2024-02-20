@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>What Is Stress?</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>What Is Stress?</md:title>
+    <md:content-id>m00079</md:content-id>
+    <md:uuid>f6a53693-c98f-4735-839e-4ce8009ad3ee</md:uuid>
+  </metadata>
+  <content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, students will be able to:</para>
+      <list id="list-00001">
+        <item>Define the concept of stress, a stressor, the stress response and describe the valence and nature of the stress response</item>
+        <item>Understand how stress research is carried out in both humans and animal models</item>
+      </list>
+    </section>
+    <para id="para-00002">Although colloquially we have an idea of what <term id="term-00001">stress</term> is, the aim of this section is to define and understand stress from a biomedical perspective. We will distinguish between stress, a <term id="term-00002">stressor</term>, the <term id="term-00003">stress response</term>, and the point at which we are ‘stressed out.’ We will learn about the different types of stressors and the nature and valence of the response. An interesting point to consider as you read ahead: is stress always bad?</para>
+    <section id="sect-00002">
+      <title>Definition of stress</title>
+      <para id="para-00003">Most of us will never encounter a mountain lion, but we have all experienced stressful situations or the feeling of being ‘stressed out’. Take a moment to think about a stressful situation you have experienced. How did it make you feel (physically, emotionally, cognitively)? (<link target-id="Image-12.13"/>). Because stress is ‘personal’ (i.e., a subjective experience), it can mean different things to different people. In order to study it from a biological perspective, however, we need a scientifically tractable definition to start from.</para>
+      <figure id="Image-12.13">
+        <media alt="A word cloud showing common word responses of UC Berkeley students to “What does stress mean to you?” The five largest words are School, cortisol, anxiety, work, sleep.">
+          <image mime-type="image/png" src="../../media/Image-12.13_Stress-associations.png"/>
+        </media>
+      </figure>
+
+      <section id="sect-00003">
+        <title>Biomedical perspective</title>
+        <para id="para-00004">Hans Selye - the founder of the field of stress research - defined stress from a physiological viewpoint as “the nonspecific response of the body to any demand made upon it.” According to Selye, “anything that speeds up the intensity of life, causes a temporary increase in stress” (Selye, 1974). To fully understand this definition, we need to first define the concept of <term id="term-00004">allostasis</term>. Allostasis means “achieving stability through change.” It includes the mechanisms that maintain life-sustaining functions for example, body temperature, blood sugar levels, fluid balance, etc. which must be kept within a pre-set range (see <link document="">Ch 16 Homeostasis</link>), in addition to processes that promote adaptation to challenge and expand our survival or coping capabilities. A classic example is fat accumulation in a bear preparing for hibernation. Fat accumulation is an anticipatory change that prepares the bear for survival during winter. Here, allostatic mechanisms accommodate this change, i.e., an expanded physiological state to promote survival.</para>
+        <para id="para-00005">Based on Selye´s definition, any stimulus that speeds up the intensity of life (be it good or bad, pleasurable, or painful, real or implied), and perturbs the physiological and psychological integrity of an organism is defined as a stressor. Interestingly, these can be deviations in variable, and even opposite directions: exposure to extreme heat or cold, starvation or obesity, injury, and threat to one’s well-being like encountering a predator. Stress is the body’s stereotyped physiological response to that stimulus. It is an evolutionarily conserved response and essential for survival. The stress response is orchestrated across all cells and tissues of the body to mobilize energy to support vital functions which are necessary to survive the immediate threat. For example, pumping glucose and oxygen to the heart, skeletal muscles and brain, and away from functions that are not pertinent to the immediate survival (e.g., digestion and reproduction).</para>
+        <para id="para-00006">Now that we’ve shifted our focus to the physiological response that occurs after exposure to a stressor, we notice that regardless of the specific stressor that initiated it, the broad physiological response will largely be the same. For example in our mountain lion scenario, both the students (i.e., potential prey), as well as the mountain lion itself, experience a stress reaction during the encounter. It is important to note that a similar physiological cascade of events can be initiated by an internal cue, in the absence of a physical threat. One can be sitting in a room, thinking about a fearful situation, and this may be sufficient to mount a full physiological response. Over decades of research, accumulating data has started to bridge our understanding of the physiological and psychological realms of stress, to create a unified picture. You will soon learn how the psychological appraisal of a situation influences the physiology of the stress response.</para>
+        <para id="para-00007">Now, most of us have probably experienced the feeling of being ‘stressed out’, the point at which a stressor becomes too much (i.e., it lasts too long, is too intense, or too much for a certain person to deal with) and leads to detrimental effects on the body. The term ‘stressed out’ was coined by another of the founders of the field of stress research, Bruce McEwen, to mean only the negative aspects of the response. We will revisit this idea of being ‘stressed out’ - a concept termed allostatic (over)load or toxic stress - in <link document="">section 12.5</link>.</para>
+      </section>
+      <section id="sect-00004">
+        <title>The stress response (aka the ‘fight-or-flight’ response)</title>
+        <para id="para-00008"/>
+      </section>
+    </section>
+  </content>
+</document>
