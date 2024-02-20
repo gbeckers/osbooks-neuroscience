@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Neural control of feeding behavior</title>
+  <title>Neural Control of Feeding Behavior</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Neural control of feeding behavior</md:title>
+    <md:title>Neural Control of Feeding Behavior</md:title>
     <md:content-id>m00058</md:content-id>
     <md:uuid>4c472871-1830-407b-9a74-8b5df95ee292</md:uuid>
   </metadata>
@@ -10,8 +10,157 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Describe the reasons why animals need to maintain homeostasis for calories and energy balance.</item>
+          <item>Describe the neural components of homeostatic systems that regulate hunger and satiety.</item>
         </list>
-    </section>  </content>
+    </section>
+    <para id="para-00002">People typically celebrate major milestones (e.g., birthdays, promotions) or holidays (e.g., Thanksgiving, Independence Day), with a large, delicious meal. Think about the last time you gathered with friends or family for such an event. In the morning and early afternoon, you might only have had a light breakfast or lunch in anticipation of all the good food to come. By the time dinner starts, you are hungry and can’t wait to eat. This hunger is palpable—your stomach might gurgle and feel “empty,” and you think about food more and more. Perhaps you even start to feel “hangry”—emotionally upset because of your growing appetite. Once you finally start eating, your hunger dissipates, and you enjoy the meal. However, in the moments to come, another interesting process starts to occur—you eat so much that, not only are you satiated, you start to feel full. In fact, on holidays like Thanksgiving, people typically overeat to the point that they feel uncomfortably full and can’t eat another bite.</para>
+
+    <para id="para-00003">This process of transitioning from a hungry state to a full state presents an interesting neurobiological question. At one moment in time, food is rewarding, and you are highly motivated to eat. But then, just 20-30 minutes later over the course of a meal, food no longer seems rewarding to consume—in fact, it becomes aversive. When you feel full, you wouldn’t consume even the most delicious dish. How does the nervous system change the rewarding and aversive properties of food? How does the brain ensure that you consume enough food but not too much such that it overwhelms the digestive system?</para>
+    
+    <para id="para-00004">Eating food is ultimately about maintaining an optimal caloric intake. All animals need to consume calories for energy and nutrition—and the only way to acquire calories is to seek food. Therefore, energy homeostasis requires that an animal’s nervous system sense its caloric need and produce an appropriate motivational state to consume food, what we call being hungry or full. If we don’t consume sufficient calories, we might become undernourished and lose weight to an unhealthy degree. In contrast, if we consume too much food, we store excess calories as body fat that could cause further health problems. Fortunately, our energy homeostasis systems work so well that the average person doesn’t fluctuate in body weight more than 1-2 pounds over the course of a year. Like all homeostatic processes, various populations of cells serve as sensors, control centers, and effectors for driving and halting food intake to maintain energy homeostasis.</para>
+    <section id="sect-00002">
+    <title>Hormonal and neuronal sensors of caloric intake</title>
+    <figure id="Image-16.10">
+      <media alt="Diagram of human torso with brain and gastrointestinal tract shown. Satiety signals listed: stomach expands, amylin (pancreas), CCK and PYY (small intestines, leptin (fat). Hunger signals listed: stomach shrinks, ghrelin (stomach).">
+        <image mime-type="image/png" src="../../media/Image-16.10_Hormonal-indication-of-food-intake.png"/>
+      </media>
+    </figure>
+  
+    <para id="para-00005">The nervous system measures caloric need using neural and hormonal mechanisms (<link target-id="Image-16.10"/>). The initial ingestion of food is sensed by the degree to which the stomach expands. The stomach is composed of elastic smooth muscle fibers that can stretch upon the ingestion of foods and liquids. Sensory fibers from the vagus nerve (the 10th cranial nerve) surrounding the stomach increase activity the more the stomach is stretched (<link target-id="Image-16.20"/>). Therefore, relatively high activity in these fibers indicate that the stomach is becoming more full, while relatively low activity in these fibers indicate that the stomach is empty. The amount of activity in these neurons indicates the degree to which an animal should feel full. (This is why drinking a large amount of water can temporarily make you feel full—the stomach is stretched in response to the water even though there are no calories). (See <link target-id="stretcheffect">Studying the effect of digestive organ stretch on neural activity</link>.)</para>
+    <figure id="Image-16.20">
+      <media alt="Two diagrams of human torso with brain and stomach connected by vagus nerve in the brain stem. 1) Empty stomach, vagus nerve is silent. 2) Full stomach. Stretch of the stomach muscles causes sensory fibers of the vagus nerve to fire.">
+        <image mime-type="image/png" src="../../media/Image-16.20_Stomach-fullness-as-a-satiety-signal.png"/>
+      </media>
+    </figure>    
+    <para id="para-00006">Caloric need is also sensed by cells throughout the digestive tract that release a variety of hormones to indicate that an animal has recently ingested food. Many of these hormones are <term id="term-00001">anorexigenic</term>, meaning that they ultimately cause a reduction in feeding. For example, in response to food passing from the stomach into the gut, specialized cells in the pancreas release <term id="term-00002">amylin</term>. Cells in the intestines release <term id="term-00003">cholecystokinin (CCK)</term> and <term id="term-00004">peptide YY (PYY)</term>. Levels of these hormones correlate with the amount of food recently consumed—they are relatively low just before a meal and relatively high during and just after a meal (<link target-id="Image-16.21"/>). The presence of these hormones in the bloodstream indicate that an animal has just consumed a meal and ultimately cause an animal to feel satiated. In contrast, prior to a meal, cells in the stomach release the <term id="term-00005">orexigenic</term> hormone <term id="term-00006">ghrelin</term> (<link target-id="Image-16.21"/>). Elevated ghrelin levels indicate an absence of food and cause an animal to feel hungry.</para>
+    <figure id="Image-16.21">
+      <media alt="Two graphs. One showing that blood amylin peaks right after a meal. Blood ghrelin, in contrast, peaks right before a meal, declining rapidly after eating. Second graph shows that blood leptin responds more gradually, increasing over the course of the day as meals are consumed.">
+        <image mime-type="image/png" src="../../media/Image-16.21_Variation-in-blood-hormones-after-a-meal.png"/>
+      </media>
+    <caption>Ghrelin and leptin data based on findings of: Cummings DE, Purnell JQ, Frayo RS, Schmidova K, Wisse BE, Weigle DS. A preprandial rise in plasma ghrelin levels suggests a role in meal initiation in humans. Diabetes. 2001 Aug;50(8):1714-9. doi: 10.2337/diabetes.50.8.1714. PMID: 11473029. Amylin data based on: Kruger DF, Gatcomb PM, Owen SK. Clinical Implications of Amylin and Amylin Deficiency. The Diabetes Educator. 1999;25(3):389-397. doi:10.1177/014572179902500310</caption>
+    </figure>
+    
+    <para id="para-00007">Food intake is also regulated in a more long-term manner through the release of the hormone <term id="term-00007">leptin</term> (<link target-id="Image-16.21"/>). Leptin is released by adipocytes in white adipose tissue (WAT) in proportion to their size. Therefore, an animal with relatively low body fat will not release as much leptin as compared to levels if the same animal gains weight and accumulates more body fat. The larger the fat mass, the more leptin is released, which ultimately causes an animal to feel less hungry.</para>
+    
+    <para id="para-00008">Therefore, if you have not eaten recently and are just about to start a meal, your stomach is likely to be in a contracted state, your blood concentration of ghrelin is relatively high, and your blood concentration of amylin, CCK, and PYY is relatively low. As you eat a meal, your stomach expands, ghrelin levels decrease, and concentration of amylin, CCK, and PYY increase. These signals are ultimately integrated within the brain.</para>
+    <note class="in-the-lab" id="stretcheffect">
+    <title>Studying the effect of digestive organ stretch on neural activity</title>
+    <para id="para-00009">When you eat a meal, your stomach expands, holding and mixing the ingested food with enzymes and acids for 2-4 hours before slowly releasing it into the intestines. This stretch of the stomach is sensed by specialized nerve endings from the vagus nerve that transmit information to the brain about an increase in stomach volume. In fact, vagal nerve endings also sense stretch of the intestines as digested food passes through.</para>
+    
+    <para id="para-00010">In the lab, it is possible to study the effects of stomach and intestinal stretch on neural activity by artificially inflating the stomach or intestines of an anesthetized laboratory animal with a small balloon (<link target-id="Image-16.27"/>). A sterile latex balloon is inserted into the stomach or intestines and inflated to a precise volume via a small catheter. Scientists can then inflate or deflate the balloon while simultaneously measuring neural activity in peripheral or central neuron populations.</para>
+    <figure id="Image-16.27">
+      <media alt="Three-part image. 1) Diagram of a stomach expanding due to gastric balloon inflation, which can be used to induce stomach stretch in rodents. 2) Diagram representing Ca2+ imaging in vagal nerve ganglia of anesthetized mice. Immunofluorescent images show example of Ca2+-dependent signal in individual cells during stomach stretch and food injection (which overlap). A heat map plot shows Ca2+ signal over time of 617 individual neurons, revealing that stomach stretch causes activation of a subset of neurons in the vagus nerve. 3)  Diagram representing Ca2+ imaging in NTS of anesthetized mice. Immunofluorescent images show example of Ca2+-dependent signal in individual cells during stomach (more during stretch than baseline). A heat map plot shows Ca2+ signal of 1133 individual neurons, revealing that stomach stretch causes activation of a subset of neurons in the NTS with greater activation as stretch magnitude increases.">
+        <image mime-type="image/png" src="../../media/Image-16.27_Neural-activation-by-stomach-stretch.png"/>
+      </media>
+    <caption>Vagus nerve Ca2+ imaging data reprinted from: Williams EK, Chang RB, Strochlic DE, Umans BD, Lowell BB, Liberles SD. Sensory Neurons that Detect Stretch and Nutrients in the Digestive System. Cell. 2016 Jun 30;166(1):209-21. doi: 10.1016/j.cell.2016.05.011. Epub 2016 May 26. PMID: 27238020; PMCID: PMC4930427. (C) 2016 with permission from Elsevier. NTS Ca2+ imaging data from: Ran, C., Boettcher, J.C., Kaye, J.A. et al. A brainstem map for visceral sensations. Nature 609, 320–326 (2022). https://doi.org/10.1038/s41586-022-05139-5 CC BY 4.0</caption>
+    </figure>
+    
+    <para id="para-00011">Using this technique, recent studies have identified the exact neural populations that sense stomach and intestinal stretch using calcium imaging (see <link document="">Methods: In vivo calcium imaging</link>. For example, a recent experiment (Williams et al., 2016) increased stomach or intestinal volume while measuring neural activity in different populations of vagus nerve sensory neurons (<link target-id="Image-16.27"/>). A small subset of vagus nerve neurons that express a distinct genetic marker, <emphasis effect="italics">Glp1r</emphasis>, were found to innervate the stomach and intestines. Consistently, these neurons increased neural activity during artificial inflation of the stomach and intestines. Interestingly, other populations that expressed other genetic markers were found to innervate other peripheral organs.</para>
+    
+    <para id="para-00012"><emphasis effect="italics">Glp1r</emphasis>-expressing vagus neurons synapse onto neurons in the nucleus tractus solitarius (NTS). Another experiment (Ran et al., 2022) measured activity in the NTS during stomach and intestinal stretch, finding that NTS neurons are topographically organized based on the region being stretched. NTS neurons that increase activity in response to stomach stretch are located more dorsolaterally, while NTS neurons that increase activity in response to intestinal stretch are located more medially.</para>
+    
+    <para id="para-00013">Taken together, these studies identified a genetically-defined anatomical pathway from the digestive tract to the brain that signals stomach and intestinal volume within the NTS. Future research will identify how this increase in volume along the digestive tract ultimately causes satiety and the perception of feeling full.</para></note></section>
+    <section id="sect-00003">
+    <title>Central integration and regulation of food intake</title>
+    <para id="para-00014">Neural and hormonal signals from the digestive tract and adipose tissue are integrated in the central nervous system. Although there are multiple parts of the brain that regulate food intake, the two areas that seem to directly detect neural and hormonal signals from the periphery are the hypothalamus and brainstem.</para>
+    
+    <para id="para-00015">The hypothalamus has several groups of neurons located along <term id="term-00008">circumventricular organs</term>, areas where the blood brain barrier is relatively diminished such that hormones and other substances can easily pass from the blood to the extracellular environment (<link target-id="Image-16.22"/>). These regions include the organ vasculosum of the lateral terminalis (OVLT), the median eminence, the neurohypophysis in the pituitary, the subfornical organ (SFO), the pineal gland, and the subcommissural organ. These brain regions play roles in multiple homeostatic processes.</para>
+    <figure id="Image-16.22">
+      <media alt="Diagram of sagittal section of human brain at midline showing location of circumventricular organs. Organ vasculosum of the lateral terminalis is on superior side of hypothalamus. Median eminence is on inferior side of hypothalamus. Neurophysis sits in the pituitary, extending beneath the medial eminence. Subfornical organ in just anterior to the thalamus, superior to the hypothalamus. Subcommissural organ is dorsal to the superior end of the brainstem. Pineal gland extends dorsal to the subcommissural organ.">
+        <image mime-type="image/png" src="../../media/Image-16.22_Circumventricular-organs.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00016">In the case of caloric regulation, neurons in a region of the hypothalamus called the <term id="term-00009">arcuate nucleus</term>, which sits adjacent to the median eminence, have receptors for hormones that regulate feeding. The arcuate nucleus can be subdivided into two antagonistic populations of neurons: those that express the neuropeptide <term id="term-00010">agouti-related peptide (AgRP)</term> and those that express <term id="term-00011">pro-opiomelanocortin (POMC)</term> (<link target-id="Image-16.25"/>).</para>
+    <figure id="Image-16.25">
+      <media alt="Green fluorescent tracers reveal POMC and AgRP cell bodies and axons in the arcuate nucleus, which look like clusters of green fibers just lateral to the 3rd ventricle in coronal sections of mouse brain.">
+        <image mime-type="image/png" src="../../media/Image-16.25_Arcuate-nucleus-neuron-tracing.png"/>
+      </media>
+    <caption>Source: POMC-Cre anterograde tracing. AgRP-IRES-Cre anterograde tracing. Allen Brain Atlas.</caption>
+    </figure>
+    
+    <para id="para-00017">AgRP neurons increase activity in response to orexigenic hormones, such as ghrelin, and are inhibited by anorexigenic hormones. In contrast, POMC neurons increase activity in response to anorexigenic hormones and are inhibited by orexigenic hormones (<link target-id="Image-16.23"/>). Therefore, AgRP and POMC neurons are like two sides of a balance beam—the relative activity within AgRP and POMC neurons correspond with the homeostatic feeding state of an animal, with AgRP neurons preferentially activated the longer an animal goes without feeding, and POMC neurons activated when an animal consumes a meal (see feature box on studying the regulation of food intake by the hypothalamus).</para>
+    <figure id="Image-16.23">
+      <media alt="Top is a diagram of the human brain, sagittally at midline. It shows the location of the arcuate nucleus in the hypothalamus, contacting the medial eminence. Bottom is a pair of diagrams, each showing a blood vessel, POMC neuron and AgRP neuron. Left diagram shows long after last meal, orexigenic hormones are high and AgRP neuron is firing. Right diagram shows right after a meal, orexigenic hormones are low and POMC neuron is firing.">
+        <image mime-type="image/png" src="../../media/Image-16.23_Hunger-signaling-in-the-brain.png"/>
+      </media>
+    </figure>    
+    <para id="para-00018">AgRP and POMC neurons therefore serve as control centers that integrate neural and hormonal information from the body about feeding. They also integrate information from other sources—for example, sensory information from visual, olfactory, and even auditory stimuli that can inform animals of feeding opportunities. AgRP and POMC neurons, in turn, affect several downstream populations of neurons that ultimately control hunger and satiety (<link target-id="Image-16.11"/>). Some downstream areas directly generate the emotional states of being hungry or full. Some downstream areas inhibit competing behaviors such as pain, itch, sex, and sleep to ensure that animals prioritize food seeking depending on homeostatic need.</para>
+    <figure id="Image-16.11">
+      <media alt="Flowchart of central regulation of caloric balance. Caloric need -> digestive hormones->Ghrelin->AgRP/POMC neurons->hunger circuits->Feel hungry: eat->negative feedback to caloric need. Recent meal->digestive hormones->Amylin/CCK/PYY/Leptin->AgRP/POMC neurons->satiety circuits->Feel full: stop eating->negative feedback to recent meal.">
+        <image mime-type="image/png" src="../../media/Image-16.11_Central-regulation-of-food-intake-by-the-hypothalamus.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00019">Feeding is also directly regulated by neurons in the brainstem (<link target-id="Image-16.12"/>). These neurons seem to function in satiety and the feeling of being unpleasantly full after a meal. For example, when the stomach becomes relatively full and enlarged, neurons from the vagus nerve transmit this information to a population of neurons in the brainstem called the nucleus tractus solitarius (NTS). Increased stomach stretch causes increased NTS neural activity (see feature box on studying the effect of digestive organ stretch on neural activity). These neurons also have receptors for several anorexigenic hormones, including amylin, CCK, and PYY. The NTS sends axonal projections to other areas of the brain, especially parts of the limbic system (such as the amygdala) that seem to mediate feelings of satiety and the uncomfortable aspects of feeling full.</para>
+    <figure id="Image-16.12">
+      <media alt="Left shows flowchart of brainstem regulation of satiety as described in the main text. Right shows diagram of vagus nerve connecting stomach to nucleus tractus solitarius in the brainstem, which then sends projections to limbic system. Full stomach induces vagus nerve firing.">
+        <image mime-type="image/png" src="../../media/Image-16.12_Central-regulation-of-food-intake-by-the-brainstem.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00020">Dysfunction of hypothalamic and brainstem populations, as well as their upstream and downstream connections, can lead to food intake disorders including obesity and eating disorders (see next section).</para>
+    <note class="in-the-lab" id="note-00001">
+    <title>Studying the regulation of food intake by the hypothalamus</title>
+    
+    <para id="para-00021">How do neuroscientists study the neurobiology of homeostasis, such as the neural regulation of feeding behavior? Many food intake studies are performed in human subjects. However, these studies are limited by the fact that it is impossible to study specific cell types in a living person. To study and perform experiments to elucidate the neural basis of feeding, many neuroscientists turn to rodent models, especially mice. Because mice have homologous brain structures as humans, it is possible to perform experiments that are impossible in humans.</para>
+    
+    <para id="para-00022">For example, in recent years, most of our understanding of the role of AgRP and POMC neurons has come from studies in mice. Using techniques like optogenetics (see <link document="">Methods: Optogenetics</link>) and chemogenetics (see <link document="">Methods: Chemogenetics</link>), it has been possible to artificially stimulate each individual population of neurons and observe behavior (<link target-id="Image-16.24"/>). For example, stimulating AgRP neurons using optogenetic activation of channelrhodopsin-2 causes a rapid behavioral response in animals in which animals consume much more food than normal (Aponte et al., 2011). In contrast, stimulating POMC neurons causes a reduction in feeding.</para>
+    <figure id="Image-16.24">
+      <media alt="A diagram of an optogenetic probe shining blue light on the arcuate nucleus is shown with 2 different experimental designs. Top design shows a ChR2-expessing AgRP neuron firing action potentials in response to 1h of blue light. A bar graph shows that activating AgRP neurons in the arcuate nucleus (light on) led to voracious feeding, which stops when the light is off. Bottom shows a ChR2-expessing POMC neuron firing action potentials in response to 24h of blue light. A bar graph shows that activating POMC neurons in the arcuate nucleus (light on) decreases feeding behavior compared to light off condition.">
+        <image mime-type="image/png" src="../../media/Image-16.24_Optogenetic-activation-of-AgRP-and-POMC-neurons.png"/>
+      </media>
+    <caption>Based on data from: Aponte, Y., Atasoy, D. &amp; Sternson, S. AGRP neurons are sufficient to orchestrate feeding behavior rapidly and without training. Nat Neurosci 14, 351–355 (2011). https://doi.org/10.1038/nn.2739</caption>
+    </figure>
+    
+    <para id="para-00023">By expressing a fluorescent reporter molecule in AgRP or POMC neurons, it is possible to visualize where each of the axons travel throughout the brain. Current research is aimed at identifying the role of each downstream projection to more fully dissect how AgRP and POMC neurons orchestrate a behavioral state of hunger or satiety.</para></note></section>
+    <section id="sect-00004">
+    <title>Food intake disorders</title>
+    <para id="para-00024">Dysregulation of the hormones and neurons that regulate food intake can cause severe problems in body weight regulation leading to obesity or various eating disorders. Because modern day society is very different from natural conditions faced by animals in the wild, humans encounter environmental stimuli (a surplus of highly palatable and calorically-dense food, extreme societal pressure to maintain a certain body weight, etc.) that contribute to food intake disorders that are often difficult to reproduce in animal models of disease.</para>
+    
+    <para id="para-00025"><term id="term-00012">Obesity</term> is a complex and multifactorial disorder characterized by an excessive accumulation of body fat. The neurobiology of obesity is complex, with many potential underlying causes. Obesity is ultimately caused by consuming too many calories relative to metabolic activity and caloric expenditure.</para>
+    
+    <para id="para-00026">Why don’t homeostatic systems prevent obesity? Consuming high calorie foods and gaining body weight likely causes dysregulation of the hormones and neurons that regulate food intake in the hypothalamus. For example, individuals with obesity often exhibit a state of leptin resistance, in which neurons in the hypothalamus downregulate leptin receptors and become insensitive to the satiety hormone. This leptin resistance results in increased appetite and decreased energy expenditure. Additionally, chronic overconsumption of high-calorie, high-fat foods can cause changes in the reward pathways of the brain, resulting in a decrease in the perceived pleasure of healthier, lower calorie foods.</para>
+    
+    <para id="para-00027">Like obesity, <term id="term-00013">eating disorders</term> are complex psychiatric conditions characterized by altered eating behavior. These disorders often manifest with excessive and unrealistic body image perception. For example, <term id="term-00014">anorexia nervosa</term> is a disorder in which an unwarranted fear of gaining weight causes an individual to engage in too much fasting or exercising such that they manifest an abnormally low body weight. <term id="term-00015">Bulimia nervosa</term> is characterized by bouts of overeating followed by self-induced vomiting or extreme exercise to avoid absorbing calories.</para>
+    
+    <para id="para-00028">Because eating disorders are intertwined with body image perception, these disorders do not seem to be caused by dysfunction of the neural systems and circuits that maintain caloric homeostasis. Indeed, individuals with food disorders are often very hungry and intentionally suppress the homeostatic motivation to consume food to correct for low body weights. Therefore, brain regions implicated in the pathophysiology of eating disorders seem to be located in areas that regulate cognition and perception, such as the cerebral cortex. The insular cortex regulates the conscious perception of taste, hunger, and satiety, and likely contributes to the etiology of eating disorders. Additionally, the prefrontal cortex is involved in executive functions such as decision making and impulse control. Neurons in the prefrontal cortex likely suppress homeostatic signals from the hypothalamus and brainstem to cause dysregulated food intake.</para>
+    </section>
+
+
+    <section class="section-summary" id="sect-00005"><title>Summary</title>
+      <para id="para-00029">Energy homeostasis ensures that animals consume enough calories for their daily metabolic needs without overwhelming their digestive systems with too much food. Feeding behavior is regulated by hormonal and neuronal systems in the peripheral and central nervous systems. A variety of hormones released by the digestive track including amylin, CCK, and PYY, as well as hormones released by fat cells, such as leptin, inform the brain about the course of a meal and energy reserves. Additionally, stomach volume is sensed by the vagus nerve. Various populations of neurons in the brain ultimately regulate feelings of hunger and satiety. Just before a meal, AgRP neurons initiate a behavioral state of feeling hungry and an animal is motivated to seek food. During and after a meal, POMC neurons and brainstem satiety centers, like the NTS, progressively cause a behavioral state of feeling full. Taken together, the neural populations that regulate food intake cause motivation to seek food such that an animal consumes enough calories throughout the day but not so much that it continuously overeats. Dysfunction of energy homeostatic systems can cause an imbalance that leads to obesity or malnourishment.
+      </para> </section>
+      <section class="key-terms" id="sect-00006"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>anorexigenic</item>
+      <item>amylin</item>
+      <item>cholecystokinin (CCK)</item>
+      <item>peptide YY (PYY)</item>
+      <item>orexigenic</item>
+      <item>ghrelin</item>
+      <item>leptin</item>
+      <item>circumventricular organs</item>
+      <item>arcuate nucleus</item>
+      <item>agouti-related peptide (AgRP)</item>
+      <item>pro-opiomelanocortin (POMC)</item>
+      <item>obesity</item>
+      <item>eating disorders</item>
+      <item>anorexia nervosa</item>
+      <item>bulimia nervosa
+      </item>
+      </list> </section>
+      <section class="references" id="sect-00007"><title>References</title> 
+        <para id="para-00030">Alcantra, I. C., Tapia, A. P. M., Aponte, Y., &amp; Krashes, M. J. (2022). Acts of appetite: neural circuits governing the appetitive, consummatory, and terminating phases of feeding. <emphasis effect="italics">Nature Metabolism</emphasis>, <emphasis effect="italics">4</emphasis>, 836–847.</para>
+        <para id="para-00031">Aponte, Y., Atasoy, D., &amp; Sternson, S. M. (2011). AGRP neurons are sufficient to orchestrate feeding behavior rapidly and without training. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">14</emphasis>, 351–355.</para>
+        <para id="para-00032">Ran, C., Boettcher, J. C., Kaye, J. A., Gallori, C. E., &amp; Liberles, S. D. (2022). A brainstem map for visceral sensations. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">609</emphasis>, 320–326.</para>
+        <para id="para-00033">Williams, E. K., Chang, R. B., Strochlic, D. E., Umans, B. D., Lowell, B. B., &amp; Liberles, S. D. (2016). Sensory neurons that detect stretch and nutrients in the digestive system. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">166</emphasis>, 209–221.</para>
+        <para id="para-00034">Zimmerman, C. A., &amp; Knight, Z. A. (2020). Layers of signals that regulate appetite. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis effect="italics">64</emphasis>, 79–88.</para>
+        
+       </section>
+      
+      <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title> <para id="para-00035">...</para> </section>
+      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title> <para id="para-00036">...</para> </section>
+      
+  </content>
 </document>
