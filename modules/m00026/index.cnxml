@@ -6,6 +6,13 @@
     <md:uuid>1f87177e-6c91-4767-99c3-01a37328ae0a</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="fig-00001">
+      <title>Optional Title</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <note class="meet-author" id="note-00001">
       <title>Irina Calin-Jageman, PhD</title>
       <para id="para-00001">Meet the author</para>

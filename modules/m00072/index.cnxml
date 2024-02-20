@@ -1,10 +1,31 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00072</md:content-id>
     <md:uuid>08e01ac1-d405-4ead-8ed6-a3bef7299ebb</md:uuid>
   </metadata>
-  <content><para id="para-00001">test</para>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <title>Optional Title</title>
+    <media alt="Insert Alt Text">
+      <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+    </media>
+    <caption>Insert Caption Here</caption>
+  </figure>
+  <note class="meet-author" id="note-00001">
+    <title>S. D. Bilbo, PhD</title>
+    <para id="para-00001"><link url="https://openstax.org/r/Neuro17Author">Meet the Author</link></para>
+  </note>
+
+<para id="para-00002">Your immune system helps you think. Remember the last time you had a cold or the flu? You probably felt pretty lousy - chills, fever, body aches, fatigue? Maybe you even felt a little depressed. It would be easy to blame the bug for these miserable symptoms, but what if I told you that your own body is making you feel this way? It turns out, the constellation of symptoms that most of us experience when we get sick is technically known as "sickness behaviors" and are caused by our own bodies.</para>
+
+<para id="para-00003">Rather than being harmful side effects of an infection - for instance with an influenza virus or a rhinovirus (which causes the common cold) - sickness behaviors are carefully organized and orchestrated responses from your own immune system. How does this happen? For centuries of neuroscience research, it was believed that the immune and nervous system operated completely independently. Recent knowledge shows us it is very much the opposite - our immune systems have evolved sophisticated mechanisms to talk to our nervous systems, and vice versa, and to thereby change our behavior, which you will learn about in this chapter. We will discuss the many ways that these systems communicate and the implications for how our brains work, in both healthy conditions and during illness or injury.</para>
+
+<para id="para-00004">But why would our immune system need a way to change our behavior? Many research studies in species ranging from honeybees to mice to humans have now demonstrated that a change in behavior during an illness or infection - often referred to as a shift in motivational priorities - is helpful to our bodies in overcoming that illness. Think about it - if you are fighting an infection like the flu, your body is working hard and spending significant metabolic energy to do so. Does it make sense to keep running around town, going to school or work, playing sports or attending parties with friends? Or does it make better sense to rest and isolate until the infection clears? Put another way, which circumstance sounds easier for your hard-working immune system to manage? The latter, of course. If you rest your body, that frees up metabolic resources for your immune system to fight. Our immune systems therefore evolved efficient mechanisms to impact our nervous systems and alter behavior. </para>
+
+<para id="para-00005">This crosstalk between the immune and nervous systems doesn't only happen when we are sick, however. It turns out our immune system has an impact on our behavior nearly all the time, particularly when we are stressed, when we encounter new (potentially dangerous) situations, or even when we are feeling romantic. There are multiple protein signals which make up the messengers of the immune system and these messengers impact our emotions, our mood, and our thinking abilities. These systems are like chatty teenagers, more-or-less constantly updating one another of their activities. This communication can be helpful and adaptive. However, there are times when the immune system fails to turn off its activity properly, and this can lead to neurological problems and pathology. There is growing evidence that immune cells that reside within the brain (in particular, one cell type called microglia) are important in neurological disorders that appear early in life, such as autism spectrum disorder and schizophrenia, as well as in degenerative disorders that occur at the other end of the lifespan, including Alzheimer’s disease. Many researchers now seek to understand why and how this switch occurs between adaptation and pathology in neuroimmune function, thus transitioning from health to disease.   </para>
+
+<para id="para-00006">In this chapter, we begin with a brief overview of the immune system and examine many of the signaling pathways between the nervous and immune systems throughout the body. We will examine changes in behavior during illness or in response to stressors as some of the strongest (and earliest) evidence that the nervous and immune systems powerfully impact each other. We end by discussing some of the ways that immune cells can alter neuronal structure and function in the brain, during health as well as disease, and therefore mood and cognition. Neuroimmunology is one of the youngest areas of neuroscience, and also one of the most exciting and fastest growing!</para>
+</content>
 </document>

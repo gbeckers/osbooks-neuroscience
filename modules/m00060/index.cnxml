@@ -6,6 +6,13 @@
     <md:uuid>a12279f5-29bd-4687-bb27-b06c3000fc6f</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="fig-00001">
+      <title>Optional Title</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <para id="para-00001">temp</para>
   </content>
 </document>

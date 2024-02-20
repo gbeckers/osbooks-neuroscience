@@ -6,6 +6,13 @@
     <md:uuid>ef1d0c81-be07-4abe-8256-44f461b9e384</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="fig-00001">
+      <title>Optional Title</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <note class="meet-author" id="note-00001">
       <title>Cecil J. Saunders and Joseph D. Zak</title>
       <para id="para-00001"><link url="https://openstax.org/r/Neuro8Author">Meet the author</link></para>
