@@ -46,7 +46,6 @@
     
     <para id="para-00008">A computer fan is an example of a unidirectional homeostatic system, a feedback mechanism in which a factor is regulated in only one direction—in this case, whether the computer becomes too hot (but not if the computer becomes too cold). In contrast, bidirectional homeostatic systems regulate deviations from a set point in two directions. For example, consider a home thermostat system that maintains an optimal temperature range so that a home does not become too hot or too cold (<link target-id="Image-16.17"/>). An increase in temperature is sensed by a thermometer inside the home and is relayed to the control system, the thermostat. The thermostat then causes an effector system, an air conditioner, to blow cool air into the home to decrease the temperature. If the home becomes too cold, this decrease is also detected by a thermometer and relayed to a thermostat. The thermostat responds to this change by turning on the home furnace to increase heat. Therefore, the home thermostat system functions as a bidirectional homeostatic system to keep the temperature within a narrow range.</para>
     <figure id="Image-16.17">
-      <title>Optional Title</title>
       <media alt="Diagram of a bidirectional negative feedback system as described in the main text.">
         <image mime-type="image/png" src="../../media/Image-16.17_Bidirectional-negative-feedback-loop.png"/>
       </media>
