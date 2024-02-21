@@ -131,6 +131,16 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Neuroimmunology</md:title>
+      <col:content>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+        <col:module document="m00077"/>
+        <col:module document="m00082"/>
+        <col:module document="m00083"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Learning and Memory</md:title>
       <col:content>
         <col:module document="m00060"/>
@@ -150,16 +160,6 @@
         <col:module document="m00069"/>
         <col:module document="m00070"/>
         <col:module document="m00071"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Neuroimmunology</md:title>
-      <col:content>
-        <col:module document="m00072"/>
-        <col:module document="m00073"/>
-        <col:module document="m00077"/>
-        <col:module document="m00082"/>
-        <col:module document="m00083"/>
       </col:content>
     </col:subcollection>
   </col:content>
