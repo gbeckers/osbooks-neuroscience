@@ -90,7 +90,7 @@
 
     <section class="section-summary" id="sect-00007"><title>Summary</title>
       <para id="para-00021">Up until the early 1970’s there was only speculation that the neural mechanism of memory might be a change in the strength of previously-active synapses. Empirical support for this notion came from Bliss and Lomo’s groundbreaking discovery that high frequency stimulation of the presynaptic input to the dentate gyrus led to a long-lasting increase in the postsynaptic response, a phenomenon known as LTP. We now know that the mechanism of this increased postsynaptic response comes from changes in the sensitivity of the postsynaptic membrane to transmitter release. This increased sensitivity arises from AMPA receptors being added to the postsynaptic membrane through activation of the CAMKII pathway. Synapses can also be weakened through LTD via mechanisms similar to LTP.
-      </para> </section>
+</para> </section>
       <section class="key-terms" id="sect-00008"><title>Key Terms</title> <list display="inline" id="list-00002">
       <item>long-term potentiation</item>
       <item>long-term depression</item>

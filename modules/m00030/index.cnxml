@@ -69,7 +69,7 @@
     </section>
     <section id="sect-00010">
       <title>Acetylcholine</title>
-      <para id="para-00013">This section will describe the lifecycle and functions of acetylcholine. </para>
+      <para id="para-00013">This section will describe the lifecycle and functions of acetylcholine.</para>
       <section id="sect-00011">
         <title>Synthesis</title>
         <para id="para-00014"><term id="term-00012">Acetylcholine</term> (commonly abbreviated ACh) is made by transferring a molecule of acetic acid on to a molecule of choline that is derived from the fatty acid lecithin (steps 1 and 2 in <link target-id="Image-3.05"/>). This conversion occurs via the action of an enzyme called <term id="term-00013">choline acetyltransferase</term> (Picciotto et al., 2012). The acetyl is derived from a molecule of sugar, usually glucose, that is initially modified inside the mitochondria. The brain needs sugar (usually in the form of glucose) to function normally. Once inside the brain, only a very small percentage of the dietary sugar is used to produce acetylcholine. The brain typically has a constant and ample supply of choline. Choline can be easily obtained from the diet, such as from eggs and baked goods. Despite this fact, many health foods stores sell choline powder to gullible customers, claiming that consuming more choline will somehow enable their brains to make more acetylcholine. Given the vital role of acetylcholine in learning and memory, this is an appealing claim. Regrettably, it has no basis in fact. For adults, the brain responds only to deficits in choline, not surpluses, in the diet. It has a ready source of choline in the diet or stored in the liver and, in fact, never develops a deficit in choline, even in patients with Alzheimer’s disease. Thus, consuming extra choline does not induce your brain to make more acetylcholine. Instead, it only results in a gaseous by-product that you exhale and that smells like rotting fish. Rather than enhancing your cognitive abilities, choline supplements merely generate a terrible case of bad breath.</para>
@@ -84,7 +84,7 @@
       <section id="sect-00012">
         <title>Inactivation of Acetylcholine</title>
         <para id="para-00016">Released acetylcholine molecules are quickly inactivated by the enzyme <term id="term-00018">acetylcholinesterase</term> (step 7 in <link target-id="Image-3.05"/>). Acetylcholinesterase has one of the fastest reaction rates of any of our enzymes, breaking up each molecule in about 80 microseconds (Taylor, 1991). Acetylcholinesterase breaks the acetylcholine into a molecule of acetate and choline. About forty percent of the choline will be reabsorbed into the axon terminal by specialized transport proteins and reused to produce more acetylcholine (step 8 in <link target-id="Image-3.05"/>). The remaining choline molecules and acetate will diffuse into the extracellular space and ultimately be removed from the brain. Knowledge about the chemistry and function of acetylcholinesterase led to the development of drugs that inhibit the enzyme acetylcholinesterase and greatly increase the amount of acetylcholine in the synapse. Today, acetylcholinesterase inhibitors are common treatments for Alzheimer’s disease. In theory, the drugs should compensate for the loss of acetylcholine neurons in these patients; in practice, the drugs provide little clinical benefit because too few healthy acetylcholine neurons are still present in the brain. 
-          </para>
+</para>
       </section>
       <section id="sect-00013">
         <title>Receptors</title>
@@ -121,7 +121,7 @@
     </section>
     <section class="section-summary" id="sect-00016">
       <title>TOPIC Summary</title>
-      <para id="para-00024">Fatty acids obtained from either the diet or pieces of neural membrane are modified into neurotransmitters. In contrast to the amino acid-derived neurotransmitters, two of the fatty acid-derived neurotransmitters discussed are not stored in vesicles; they are produced and immediately released only when needed. Their diffuse distribution underlies the large variety of functions that are assigned to them, including the control of mood, learning and memory and pain.  Dysfunction of acetylcholine is well known and studied. In contrast, much less is known about the functions of the endocannabinoid system. </para>
+      <para id="para-00024">Fatty acids obtained from either the diet or pieces of neural membrane are modified into neurotransmitters. In contrast to the amino acid-derived neurotransmitters, two of the fatty acid-derived neurotransmitters discussed are not stored in vesicles; they are produced and immediately released only when needed. Their diffuse distribution underlies the large variety of functions that are assigned to them, including the control of mood, learning and memory and pain.  Dysfunction of acetylcholine is well known and studied. In contrast, much less is known about the functions of the endocannabinoid system.</para>
 
     </section>
     <section class="key-terms" id="sect-00017">

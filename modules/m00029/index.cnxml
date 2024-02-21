@@ -42,7 +42,7 @@
             <image mime-type="image/png" src="../../media/Image-3.25_Dopamine-receptors.png"/>
           </media>
         </figure>
-        <para id="para-00009">Once again, notice that the function of any receptor depends upon which region of the brain the receptor is located and the nature of its second messenger, G-protein-linked systems. </para>
+        <para id="para-00009">Once again, notice that the function of any receptor depends upon which region of the brain the receptor is located and the nature of its second messenger, G-protein-linked systems.</para>
       </section>
       <section id="sect-00006">
         <title>Inactivation of dopamine, norepinephrine, and epinephrine</title>
@@ -68,7 +68,7 @@
           </media>
         </figure>
         <para id="para-00017">One major dopamine pathway originates within the substantia nigra, or dark substance, so called because this region concentrates iron into neuromelanin. The oxidation of iron in the neuromelanin (you know this process as rusting) contributes a significant degree to the vulnerability of dopamine neurons to oxygen.  Dopamine-containing neurons may be vulnerable to the presence of oxygen due to its original role in plants as an antioxidant; the dopamine molecule may sacrifice its molecular integrity during oxidative stress. Due to the presence of various toxins, mostly insecticides, in our environment and the oxygen that we require for mitochondrial oxidative metabolism, these neurons are gradually lost with aging. In the US today, the greatest risk for developing Parkinson’s disease is growing up in a rural environment around pesticides (Tanner et al., 2011).</para>
-        <para id="para-00018">Another pair of dopamine pathways originates in a region of the midbrain near the substantia nigra and ascends upward into the brain. One pathway projects to the limbic system, brain regions that are associated with the control of emotion. The other dopamine pathway projects to the frontal lobes and may play a critical role in the generation of pleasure and consciousness. For more than 50 years, scientists have speculated that both too little and too much activity in these pathways underlies the symptoms associated with psychosis <link document="">Ch 19 Attention and Executive Function</link>. Currently, though, dysfunction of dopamine neurons is no longer considered the direct cause of psychosis. Instead, some recent studies suggest that dysfunction of glutamate NMDA receptors also play a role (Dong et al., 2023). </para>
+        <para id="para-00018">Another pair of dopamine pathways originates in a region of the midbrain near the substantia nigra and ascends upward into the brain. One pathway projects to the limbic system, brain regions that are associated with the control of emotion. The other dopamine pathway projects to the frontal lobes and may play a critical role in the generation of pleasure and consciousness. For more than 50 years, scientists have speculated that both too little and too much activity in these pathways underlies the symptoms associated with psychosis <link document="">Ch 19 Attention and Executive Function</link>. Currently, though, dysfunction of dopamine neurons is no longer considered the direct cause of psychosis. Instead, some recent studies suggest that dysfunction of glutamate NMDA receptors also play a role (Dong et al., 2023).</para>
         <para id="para-00019">Generally, in a normal healthy person, the production of dopamine and norepinephrine is not easily affected by dietary supplements but can be negatively affected by a lack of nutrients. The reason is that the first enzyme in the production of dopamine and norepinephrine, tyrosine hydroxylase, is a rate-limiting step in the synthesis pathway. For example, consuming more tyrosine will not induce this enzyme to produce more dopamine.</para>
 
         <note class="boxed-feature" id="note-00001">
@@ -122,7 +122,7 @@
 
         <para id="para-00031">These neurons project their axons to every part of the brain, and some of these axons form synaptic connections with small blood vessels. Serotonin controls the availability of blood to regions of the brain associated with its function. Another group of serotonin neurons project down-ward into the spinal cord to provide control over the autonomic nervous system and incoming pain signals.</para>
         <para id="para-00032">If you were able to insert a recording device into the major raphe nuclei and “listen” to the activity of your serotonin neurons, you would discover that they have a regular, slow spontaneous level of activity that varies little while you are awake. When you fall asleep, the activity of these neurons slows. When you start to dream, these neurons temporarily cease their activity (see <link document="">Ch 15 Biological rhythms and sleep</link>).
-        </para>
+ </para>
 
         <note class="boxed-feature" id="note-00003">
           <title>Neurochemistry in the news: getting a good sleep with serotonin</title>
@@ -145,7 +145,7 @@
       </section>
       <section id="sect-00015">
         <title>Endorphins</title>
-        <para id="para-00037">Endorphins are one of 4 families of endogenous opioids (thus, their name): endorphins, enkephalins, dynorphins, and endomorphins. Three of the most studied are shown in the Table (<link target-id="Image-3.18"/>). </para>
+        <para id="para-00037">Endorphins are one of 4 families of endogenous opioids (thus, their name): endorphins, enkephalins, dynorphins, and endomorphins. Three of the most studied are shown in the Table (<link target-id="Image-3.18"/>).</para>
         <figure id="Image-3.18">
           <media alt="Table of 3 major endogenous opioid families: endorphins, enkephalins and dynorphins. Their precursors, peptides and receptors are listed.">
             <image mime-type="image/png" src="../../media/Image-3.18_Endogenous-opioids.png"/>
@@ -237,10 +237,10 @@
           <image mime-type="image/png" src="../../media/Image-3.36_Histamine-system-anatomy.png"/>
         </media>
       </figure>
-      <para id="para-00053">Histamine influences arousal, control of pituitary hormone secretion, suppression of eating and cognitive functions. I have included a discussion of this neurotransmitter because it is the target of so many different over the counter medications that are commonly overused. </para>
+      <para id="para-00053">Histamine influences arousal, control of pituitary hormone secretion, suppression of eating and cognitive functions. I have included a discussion of this neurotransmitter because it is the target of so many different over the counter medications that are commonly overused.</para>
       <section id="sect-00023">
         <title>Synthesis</title>
-        <para id="para-00054">Histamine is derived from the decarboxylation of the amino acid histidine, a reaction catalyzed by the enzyme <term id="term-00024">L-histidine decarboxylase</term> (step 1 and 2 in <link target-id="Image-3.16"/>). Once formed, histamine may be transported in vesicles by a plasma membrane monoamine transporter protein (step 3 in <link target-id="Image-3.36"/>). </para>
+        <para id="para-00054">Histamine is derived from the decarboxylation of the amino acid histidine, a reaction catalyzed by the enzyme <term id="term-00024">L-histidine decarboxylase</term> (step 1 and 2 in <link target-id="Image-3.16"/>). Once formed, histamine may be transported in vesicles by a plasma membrane monoamine transporter protein (step 3 in <link target-id="Image-3.36"/>).</para>
       </section>
       <section id="sect-00024">
         <title>Receptors</title>
