@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How do clinical disorders affect attentional function?</title>
+  <title>How Do Clinical Disorders Affect Attentional Function?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How do clinical disorders affect attentional function?</md:title>
+    <md:title>How Do Clinical Disorders Affect Attentional Function?</md:title>
     <md:content-id>m00070</md:content-id>
     <md:uuid>706dcc9b-1006-44db-b1d6-6d20f4737973</md:uuid>
   </metadata>
@@ -13,5 +13,36 @@
           <item>Lorem ipsum dolor sit amet.</item>
           <item>Consectetur adipiscing elit.</item>
         </list>
-    </section>  </content>
+    </section>
+  
+    <section class="section-summary" id="sect-00002"><title>Summary</title>
+      <para id="para-00002">A variety of clinical disorders have informed our understanding of the neural basis of attention, including spatial neglect and ADHD. The former provides key insights into the ways in which the brain constructs spatial representations of the world and deploys attentional resources. The latter provides a window into the tight coupling between attentional operations and executive function, which we'll discuss in the next section.
+      </para> </section>
+      <section class="key-terms" id="sect-00003"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>Spatial neglect</item>
+      <item>contralesional</item>
+      <item>ipsilesional</item>
+      <item>extinction</item>
+      <item>double simultaneous stimulation</item>
+      <item>line bisection task</item>
+      <item>line cancellation task</item>
+      <item>hemianopia</item>
+      <item>anosagnosia</item>
+      <item>representational neglect</item>
+      <item>double dissociation</item>
+      <item>object-based neglect</item>
+      <item>prism adaptation</item>
+      <item>caloric vestibular stimulation</item>
+      <item>nystagmus</item>
+      <item>transcranial magnetic stimulation</item>
+      <item>hemispheric rivalry hypothesis</item>
+      <item>attention deficit hyperactivity disorder</item>
+      </list> </section>
+      <section class="references" id="sect-00004"><title>References</title> 
+      <para id="para-00003">..</para>
+       </section>
+      
+      <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> <para id="para-00004">...</para> </section>
+      <section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title> <para id="para-00005">...</para> </section>
+        </content>
 </document>

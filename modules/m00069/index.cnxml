@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>What is the relationship between attention and eye movements?</title>
+  <title>What is the Relationship between Attention and Eye Movements?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>What is the relationship between attention and eye movements?</md:title>
+    <md:title>What is the Relationship between Attention and Eye Movements?</md:title>
     <md:content-id>m00069</md:content-id>
     <md:uuid>ab18e4a4-5dd9-4931-8df0-c91c4a21c672</md:uuid>
   </metadata>
@@ -13,5 +13,21 @@
           <item>Lorem ipsum dolor sit amet.</item>
           <item>Consectetur adipiscing elit.</item>
         </list>
-    </section>  </content>
+    </section>
+  
+    <section class="section-summary" id="sect-00002"><title>Summary</title>
+      <para id="para-00002">There is considerable evidence to support the idea that shifts of attention, even when made covertly, engage some of the same perceptual and control systems involved in eye movements. This has led a number of researchers to argue for a premotor theory of attention, in which covert attentional orienting results from planned, but unexecuted saccades. Microstimulation studies in animals show that weak electrical currents applied to a key aspect of the dorsal attentional network -- the frontal eye field -- result in improved behavioral performance and enhanced neural processing in posterior brain regions, consistent with this premotor theory of attention.
+      </para> </section>
+      <section class="key-terms" id="sect-00003"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>Saccade</item>
+      <item>premotor theory of attention</item>
+      <item>motor field</item>
+      </list> </section>
+      <section class="references" id="sect-00004"><title>References</title> 
+      <para id="para-00003">...</para>
+       </section>
+      
+      <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> <para id="para-00004">...</para> </section>
+      <section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title> <para id="para-00005">...</para> </section>
+        </content>
 </document>

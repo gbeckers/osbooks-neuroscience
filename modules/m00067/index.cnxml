@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How is attention implemented in the brain?</title>
+  <title>How is Attention Implemented in the Brain?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How is attention implemented in the brain?</md:title>
+    <md:title>How is Attention Implemented in the Brain?</md:title>
     <md:content-id>m00067</md:content-id>
     <md:uuid>92eb18bb-cf66-4a66-9a97-ead874e59d5e</md:uuid>
   </metadata>
@@ -13,5 +13,29 @@
           <item>Lorem ipsum dolor sit amet.</item>
           <item>Consectetur adipiscing elit.</item>
         </list>
-    </section>  </content>
+    </section>
+  
+  
+    <section class="section-summary" id="sect-00002"><title>Summary</title>
+      <para id="para-00002">Attentional mechanisms exist across much of the brain, including brain stem and subcortical structures involved in general arousal, cortical networks for voluntary and reflexive shifts of attention in the dorsal and ventral attention networks, respectively, and the consequences of attentional selection on sensory processing systems as early as the lateral geniculate nucleus and stretching into later, higher-level visual processing regions.
+      </para> </section>
+      <section class="key-terms" id="sect-00003"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>Ascending reticular activation system</item>
+      <item>superior colliculus</item>
+      <item>progressive supranuclear palsy</item>
+      <item>pulvinar</item>
+      <item>default mode network</item>
+      <item>dorsal attentional network</item>
+      <item>ventral attentional network</item>
+      <item>fusiform face area</item>
+      <item>parahippocampal place area
+      </item>
+      </list> </section>
+      <section class="references" id="sect-00004"><title>References</title> 
+        <para id="para-00003">...</para>
+       </section>
+      
+      <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> <para id="para-00004">...</para> </section>
+      <section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title> <para id="para-00005">...</para> </section>
+      </content>
 </document>
