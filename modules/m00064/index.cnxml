@@ -19,13 +19,7 @@
     <title>Long-term potentiation and depression</title>
     <para id="para-00003">There are two types of long-term synaptic plasticity: <term id="term-00001">long-term potentiation (LTP)</term> and <term id="term-00002">long-term depression (LTD)</term>. LTP refers to a long-term increase in synaptic strength, where LTD refers to a long-term decrease in synaptic strength. Both types of plasticity are equally important for dynamically adjusting synaptic strength based on synaptic activity.</para>
     
-    <para id="para-00004">Our current understanding of the molecular mechanism of memory has its foundation in ideas first proposed over 70 years ago. In 1949, Dr. Donald Hebb suggested that memory might rely on simultaneous activity of the presynaptic and postsynaptic neuron, in other words “neurons that fire together, wire together” (<link target-id="Image-18.14"/>).</para>
-    <figure id="Image-18.14">
-      <media alt="Photo of Donald Hebb, 1904-1985">
-        <image mime-type="image/png" src="../../media/Image-18.14_Donald-Hebb.png"/>
-      </media>
-    <caption> Image from: https://en.wikipedia.org/wiki/Donald_O._Hebb#/media/File:Donald_Hebb.gif</caption>
-    </figure>
+    <para id="para-00004">Our current understanding of the molecular mechanism of memory has its foundation in ideas first proposed over 70 years ago. In 1949, Dr. Donald Hebb suggested that memory might rely on simultaneous activity of the presynaptic and postsynaptic neuron, in other words “neurons that fire together, wire together”.</para>
     
     <para id="para-00005">It wasn’t until 1973 that an experiment was done to test Hebb’s postulate. The Norwegian scientists, Drs. Bliss and Lomo, conducted an experiment where they recorded from and stimulated the hippocampus. To understand the experiment that Bliss and Lomo performed, we must first learn more about the unique circuitry of the hippocampus. The hippocampus is organized in a vastly different way than other brain structures. While different regions of the neocortex are reciprocally connected, receiving and sending input to the same brain areas (Felleman &amp; Van Essen, 1991), regions of the hippocampus are connected through a series of excitatory glutamatergic pathways known as the <term id="term-00003">trisynaptic loop</term> (<link target-id="Image-18.29"/>).</para>
     <figure id="Image-18.29">

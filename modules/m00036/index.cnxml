@@ -87,8 +87,20 @@
   <para id="para-00038">Workman, A. D., Charvet, C. J., Clancy, B., Darlington, R. B., &amp; Finlay, B. L. (2013). Modeling transformations of neurodevelopmental sequences across mammalian species. <emphasis effect="italics">J Neurosci</emphasis>, <emphasis effect="italics">33</emphasis>, 7368–7383. https://doi.org/10.1523/JNEUROSCI.5746-12.2013</para>
   </section>
 
-<section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title> <para id="para-00039">...</para> </section>
-<section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title> <para id="para-00040">...</para> </section>
+  <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
+    <exercise id="exer-00001">
+        <problem id="prob-00001">
+    <para id="para-00010"><link class="os-embed" url="#exercise/Neuro-04-05-001"/></para></problem></exercise>
+    <exercise id="exer-00002">
+      <problem id="prob-00002">
+  <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-04-05-002"/></para></problem></exercise>
+     </section>
+    <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+    <exercise id="exer-00003">
+        <problem id="prob-00003">
+    <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-04-05-003"/></para></problem></exercise>
+    </section>
+    
 
   </content>
 </document>
