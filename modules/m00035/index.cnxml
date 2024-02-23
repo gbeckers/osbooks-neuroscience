@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How do connections change across species?</title>
+  <title>How Do Brains Vary in Size?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How do connections change across species?</md:title>
+    <md:title>How Do Brains Vary in Size?</md:title>
     <md:content-id>m00035</md:content-id>
     <md:uuid>4b6d3230-efa7-4ea7-b084-51a2c04e5db0</md:uuid>
   </metadata>
@@ -59,10 +59,10 @@
     
     <para id="para-00015">There are certain limitations imposed by diffusion MRI tractography that have precluded its use at the level of detail needed to map some connections in the developing and adult brain. First, scans capture information at millimeters resolution (i.e., macroscale) and therefore average biological information that spans micro- and cellular scales. This means large amounts of critical biological information is lost. Another major issue is that the pathway reconstructions from diffusion MRI are not always accurate. In many cases, there is much uncertainty in what the correct pathway reconstructions are in the human brain. There is a lack of alternative methods to evaluate the accuracy of neuroimaging techniques in humans. Therefore, scientists use the principle of conservation from model systems to make inferences about human pathway reconstructions.  There are a number of cases where reconstructed fibers from diffusion MR tractography in the human brain appear very improbable (based on what we know about model systems). Overcoming these issues is an active area of research.</para>
     
-    <para id="para-00016">Despite these limitations, diffusion MR tractography has yielded some interesting findings. For example, tractography studies have shown that some pathways connecting cortical areas are enlarged in humans relative to other species. For example, the arcuate fasciculus, which is a pathway that connects the lateral frontal and temporal lobe, is very large in humans compared to nonhuman primates.  The arcuate fasciculus is of particular interest because it is a pathway thought to be associated with language comprehension (mediated by the parietal and temporal lobes) and production (mediated by lateral frontal cortical areas). Tractography studies have revealed a disproportionately expanded arcuate fasciculus in humans compared with both chimpanzees and macaques (Rilling et al., 2008). These observations have been used to argue that the expansion of the arcuate fasciculus may be linked to language in humans. While it is clear that the arcuate fasciculus is big in big-brained primates such as humans, it is still possible that the arcuate fasciculus has an allometry. That is, the arcuate fasciculus may become bigger in big brained species. The tractography has yet to be validated and we have very few tools available to ensure the accuracy of these projection reconstructions in humans versus great apes. </para>
+    <para id="para-00016">Despite these limitations, diffusion MR tractography has yielded some interesting findings. For example, tractography studies have shown that some pathways connecting cortical areas are enlarged in humans relative to other species. For example, the arcuate fasciculus, which is a pathway that connects the lateral frontal and temporal lobe, is very large in humans compared to nonhuman primates.  The arcuate fasciculus is of particular interest because it is a pathway thought to be associated with language comprehension (mediated by the parietal and temporal lobes) and production (mediated by lateral frontal cortical areas). Tractography studies have revealed a disproportionately expanded arcuate fasciculus in humans compared with both chimpanzees and macaques (Rilling et al., 2008). These observations have been used to argue that the expansion of the arcuate fasciculus may be linked to language in humans. While it is clear that the arcuate fasciculus is big in big-brained primates such as humans, it is still possible that the arcuate fasciculus has an allometry. That is, the arcuate fasciculus may become bigger in big brained species. The tractography has yet to be validated and we have very few tools available to ensure the accuracy of these projection reconstructions in humans versus great apes.</para>
     </section>
     <section class="section-summary" id="sect-00004"> <title>Summary</title> <para id="para-00017">We discussed methods used to study brain pathways. Some of these (e.g., tracers) are powerful tools for use with non-human model systems whereas others (e.g., diffusion imaging) are appropriate for use in humans. The map of human brain pathways remains a work-in-progress with many uncertainties still to resolve.  Due to the inherent limitations of methods for studying human brain connectivity, we use the principle of conservation to make inferences about connectivity profiles in humans. We rely on features that are constant across diverse mammalian species to extrapolate what the map of human brain pathways should look like. Yet, not everything should be the same across mammals. Some pathways should be specific to humans, and we have yet to identify many of the pathway types that are unique to humans. Some researchers have turned to integration of large-scale maps from neuroimaging with genetics to identify how pathways have evolved across species and to enhance the tractography in humans (Charvet et al., 2022). This is an area of active research. 
-    </para>
+ </para>
   </section>
 <section class="key-terms" id="sect-00005"> <title>Key Terms</title> <list display="inline" id="list-00002"><item>Neuroimaging</item><item>tract-tracers</item><item>diffusible dyes</item><item>resting states fMRI</item><item>diffusion MR imaging 
 </item></list></section>
@@ -80,7 +80,34 @@
   <para id="para-00028">Wedeen, V.J., Hagmann, P., Tseng, W.Y.I., Reese, T.G., &amp; Weisskoff, R.M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. <emphasis effect="italics">Magn Reson Med</emphasis>, <emphasis effect="italics">54</emphasis>, 1377–1386.</para>
   </section>
 
-<section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title> <para id="para-00029">...</para> </section>
-<section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title> <para id="para-00030">...</para> </section>
+  <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
+    <exercise id="exer-00001">
+        <problem id="prob-00001">
+    <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-04-04-001"/></para></problem></exercise>
+        <exercise id="exer-00002">
+      <problem id="prob-00002">
+  <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-04-04-002"/></para></problem></exercise>
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+<para id="para-00031"><link class="os-embed" url="#exercise/Neuro-04-04-003"/></para></problem></exercise>
+<exercise id="exer-00004">
+  <problem id="prob-00004">
+<para id="para-00032"><link class="os-embed" url="#exercise/Neuro-04-04-004"/></para></problem></exercise>
+<exercise id="exer-00005">
+  <problem id="prob-00005">
+<para id="para-00033"><link class="os-embed" url="#exercise/Neuro-04-04-005"/></para></problem></exercise>
+<exercise id="exer-00006">
+  <problem id="prob-00006">
+<para id="para-00034"><link class="os-embed" url="#exercise/Neuro-04-04-006"/></para></problem></exercise>
+<exercise id="exer-00007">
+  <problem id="prob-00007">
+<para id="para-00035"><link class="os-embed" url="#exercise/Neuro-04-04-007"/></para></problem></exercise>
+     </section>
+    <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+      <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-04-008"/></para></problem></exercise>
+    </section>
+    
   </content>
 </document>

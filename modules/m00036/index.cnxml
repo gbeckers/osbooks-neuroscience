@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How can model species help us make inferences about human neurobiology?</title>
+  <title>How Can Model Species Help Us Make Inferences about Human Neurobiology?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How can model species help us make inferences about human neurobiology?</md:title>
+    <md:title>How Can Model Species Help Us Make Inferences about Human Neurobiology?</md:title>
     <md:content-id>m00036</md:content-id>
     <md:uuid>d69cc97d-4560-42fe-8592-286685786f5c</md:uuid>
   </metadata>
@@ -40,14 +40,14 @@
     <para id="para-00008">Similar experiments to the one diagrammed in mice have been performed in macaques and other primates. These experiments revealed wide conservation in the inside-out pattern of neurogenesis across mammals. Early in development, recently generated neurons preferentially populate lower/inner layers of the cortex. Later born neurons preferentially populate the outer layers. Conservation of this pattern actually goes beyond just primates and rodents. The inside-out sequence of cell birth specification has been observed in every mammalian isocortex studied (primates, rodents, marsupial mammals; Clancy et al., 2001). Because we can’t inject pregnant humans or their fetuses with tracers, we use observations such as these from model systems to make inferences about human brain development.</para>
     
     <para id="para-00009"><term id="term-00004">Synaptogenesis</term>: Synaptogenesis (i.e., the production of synapses) is yet another process that researchers have relied on model systems, particularly macaques and cats, to understand better in humans. In macaques and cats, synaptogenesis occurs as neurogenesis wanes. The number of synapses peaks in early infancy and subsequently declines in early adulthood. Many researchers believe that this surge in synapse numbers early in infancy provides an important critical period where young individuals can learn and adapt to their postnatal environment. Human synaptogenesis is, to a large extent, inferred from model systems.</para>
-    
-    <para id="para-00010">Feature Box 4.5.A: Visualizing synapses</para>
-    <para id="para-00011">Our understanding of the timing of synaptogenesis has been driven by electron microscopy (see <link document="" target-id="">Methods: Transmission electron microscopy</link>. Synapses are tiny, far too small to see with conventional light-based microscopes. Electron microscopy, in contrast, has sufficient resolution to visualize individual synapses across different cells in postmortem fixed tissue and has been used to quantify the number of synapses in a particular volume of tissue. Electron microscopy is well suited for model systems but less so for humans because of the way we need to preserve tissue. Our understanding of the timing of synaptogenesis is therefore largely derived from studies in macaques and cats. Human synaptogenesis is inferred from these model systems (Huttenlocher et al., 1997).</para>
+    <note class="boxed-feature" id="note-00001">
+    <title>Visualizing synapses</title>
+    <para id="para-00011">Our understanding of the timing of synaptogenesis has been driven by electron microscopy (see <link document="">Methods: Transmission electron microscopy</link>. Synapses are tiny, far too small to see with conventional light-based microscopes. Electron microscopy, in contrast, has sufficient resolution to visualize individual synapses across different cells in postmortem fixed tissue and has been used to quantify the number of synapses in a particular volume of tissue. Electron microscopy is well suited for model systems but less so for humans because of the way we need to preserve tissue. Our understanding of the timing of synaptogenesis is therefore largely derived from studies in macaques and cats. Human synaptogenesis is inferred from these model systems (Huttenlocher et al., 1997).</para></note>
     
     <para id="para-00012">In this section, we have considered two basic developmental processes (neurogenesis and synaptogenesis) in humans and model systems to show how we can learn about the human brain from model systems. Obviously, not every developmental process is similar across humans and other species. For example, the overall duration of brain development is extended in humans compared with macaques (Clancy et al., 2001; Charvet and Finlay, 2018). The longer overall duration in neurogenesis, synapse development and myelination may be contributing factors to the evolution of the human brain structure and function. We can determine what is unique from a structural perspective in humans compared to other species, but we can’t explain the reasons why those differences exist. For example, humans and other non-human primates may differ in their length of gestation, but we can't necessarily conclude that this is the reason why humans have some structural difference relative to non-human primates. We next discuss how we can use closely related species to learn basic concepts in neurobiology.</para>
     </section>
     <section id="sect-00003">
-    <title>4.5.2: Studying closely related species to make inferences about the neural basis of social bonds</title>
+    <title>Studying closely related species to make inferences about the neural basis of social bonds</title>
     <para id="para-00013">Thus far, we have focused on looking for <emphasis effect="italics">similarities</emphasis> between species to allow us to investigate the neural bases of behavior and extrapolate to difficult-to-study species like humans. Investigating <emphasis effect="italics">differences</emphasis> between closely related species is also a useful approach to understand the neural basis of behaviors. In species that are close in phylogenetic proximity, one would expect relatively few differences in brain and behavior. These relatively few differences across closely related species permit pinpointing what neural structures form the basis of select behaviors. We discuss an example where phylogenetic proximity has been used to make inferences about the neurobiological basis of <term id="term-00005">social bonds</term>.</para>
     
     <para id="para-00014">Throughout their lives, humans form selective attachments to family, friends, and romantic partners, which are critical for both mental and physical well-being. The pair bonding of Microtine rodents such as prairie and meadow voles show variation that mirrors the variation in pair bonding in humans (see <link document="">Sexual Behavior and Development</link>>. Some vole species, such as prairie voles, are monogamous with males and females forming stable pairs. Other vole species, such as meadow voles, are polygamous with males and females forming multiple pairs. That is, individuals will copulate with multiple partners. These differences in affiliative behavior can be measured with a partner preference assay. In short, a male vole is given a choice of where to spend his time: with a female with whom he previously mated or with a new female. Pair-bonded prairie voles will spend the majority of their time with their partner when given the opportunity to do so, while meadow voles show no preference toward either an established partner or a novel opposite-sex partner. The diverse pair bonding behaviors across vole species mirrors the diverse behaviors we see among humans with some humans engaging in monogamous relationships whereas others form polygamous relationships.</para>
@@ -87,8 +87,20 @@
   <para id="para-00038">Workman, A. D., Charvet, C. J., Clancy, B., Darlington, R. B., &amp; Finlay, B. L. (2013). Modeling transformations of neurodevelopmental sequences across mammalian species. <emphasis effect="italics">J Neurosci</emphasis>, <emphasis effect="italics">33</emphasis>, 7368–7383. https://doi.org/10.1523/JNEUROSCI.5746-12.2013</para>
   </section>
 
-<section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title> <para id="para-00039">...</para> </section>
-<section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title> <para id="para-00040">...</para> </section>
+  <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
+    <exercise id="exer-00001">
+        <problem id="prob-00001">
+    <para id="para-00010"><link class="os-embed" url="#exercise/Neuro-04-05-001"/></para></problem></exercise>
+    <exercise id="exer-00002">
+      <problem id="prob-00002">
+  <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-04-05-002"/></para></problem></exercise>
+     </section>
+    <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+    <exercise id="exer-00003">
+        <problem id="prob-00003">
+    <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-04-05-003"/></para></problem></exercise>
+    </section>
+    
 
   </content>
 </document>

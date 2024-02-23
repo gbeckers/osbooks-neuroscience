@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Neural circuits</title>
+  <title>Neural Circuits</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Neural circuits</md:title>
+    <md:title>Neural Circuits</md:title>
     <md:content-id>m00013</md:content-id>
     <md:uuid>8b9eb82a-0fd7-4cf7-8c5f-da4f6193118f</md:uuid>
   </metadata>
@@ -35,7 +35,7 @@
       <para id="para-00009">Even though the Tritonia swim circuit is simple, it can still malfunction. If the connection to the inhibitory neuron is weakened, there will not be enough inhibition to pause activity in the circuit, and instead the circuit will produce constant activity that could lock up the back muscles, freezing the Tritonia in an arched position that will make it into an easy dinner. Too much inhibition is also problematic. If the inhibitory neuron releases too much neurotransmitter, the circuit would pause for too long, letting the animal drop back down to the ocean floor before it has managed to get away from the sea star. Generating the swim rhythm that keeps a Tritonia safe requires just the right balance between excitation and inhibition to keep the circuit moderately but not excessively activated (Katz and Frost, 1997; Calin-Jageman et al., 2007).</para>        
     </section>
     <section id="sect-00003"><title>Studying neural circuits reveals important principles about how nervous systems generate behavior</title>
-      <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of Tritonia we can glean a few key insights (<link target-id="Image-2.29"/>):     </para>
+      <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of Tritonia we can glean a few key insights (<link target-id="Image-2.29"/>):</para>
       <figure id="Image-2.29">
         <media alt="5 panels, top to bottom. 1) Diagram of one neuron sending output to 3 pathways. 2) Diagram of 3 neurons connected in a circuit. 3) Left: Diagram of a neuron with a line graph of repeating action potentials next to it. Right: Diagram of heart with a heart beat monitor next to it. 4) Cartoons of a scale tipped too far one way or the other (or balance in the middle). 5) Cartoon showing a neuron vs a battery and a cell phone vs a battery">
           <image mime-type="image/png" src="../../media/Image-2.29_5-principles-of-neural-networks.png"/>
@@ -92,7 +92,7 @@
         <para id="para-00032">Hoppe T (1998) An evaluation of the role of synaptic depression at afferent synapses in habituation of the escape swim response of Tritonia diomedea.</para>
         <para id="para-00033">Katz PS, Frost WN (1997) Removal of Spike Frequency Adaptation via Neuromodulation Intrinsic to the Tritonia Escape Swim Central Pattern Generator. J Neurosci 17:7703–7713 Available at: https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.17-20-07703.1997.</para>
        <para id="para-00034">Willows AOD, Hoyle G (1969) Neuronal Network Triggering a Fixed Action Pattern. Science (80- ) 166:1549–1551 Available at: https://www.science.org/doi/10.1126/science.166.3912.1549.
-         </para>
+</para>
       </section>
       <section class="multiple-choice" id="sect-00007"> 
         <title>Multiple Choice</title>

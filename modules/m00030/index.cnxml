@@ -1,11 +1,183 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Neurotransmitters made from fats</title>
+  <title>Neurotransmitters Made from Fats</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Neurotransmitters made from fats</md:title>
+    <md:title>Neurotransmitters Made from Fats</md:title>
     <md:content-id>m00030</md:content-id>
     <md:uuid>ef2462f9-e378-41fb-aff3-3ce7134e33d2</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, students will be able to:</para>
+      <list id="list-00001">
+        <item>Describe how fat-derived neurotransmitters are produced and inactivated</item>
+        <item>Define the function of each neurotransmitter discussed</item>
+      </list>
+    </section>
+    <para id="para-00002">The brain contains two important families of neurotransmitters that are physiologically active lipid compounds called either endocannabinoids or prostaglandins. They use related enzymatic systems for their production and inactivation. A third neurotransmitter, acetylcholine, is made from molecules of fat and acetate. Together, these three neurotransmitters influence mood, thinking and the experience of pain. This section will also introduce neurosteroids, a unique class of steroids that are synthesized in the brain and can rapidly modulate neuronal activity.</para>
+    <section id="sect-00002">
+      <title>Endocannabinoids</title>
+      <para id="para-00003">This section will describe the lifecycle and functions of endocannabinoids.</para>
+      <section id="sect-00003">
+        <title>Synthesis</title>
+        <para id="para-00004">The two currently best studied endocannabinoid neurotransmitters (there are at least seven) are <term id="term-00001">anandamide</term> and <term id="term-00002">2-AG</term> (2-arachidonoyl-glycerol); 2-AG occurs at much higher levels in the brain than anandamide (Lu and Mackie, 2016). The production, synthesis and release of anandamide and 2-AG occur independently within the cell, suggesting that 2-AG and anandamide can be recruited differentially from the same postsynaptic neuron depending on the type of presynaptic signaling. The synthesis of both endocannabinoid neurotransmitters begins with phospholipid components of the neural membrane (<link target-id="Image-3.11"/>). <term id="term-00003">Diacylglycerol</term> (DAG) is produced first followed by enzymatic conversion into 2-AG via the enzyme <term id="term-00004">diacylglycerol lipase</term> (DAGL). A different membrane phospholipid is converted into <term id="term-00005">N-arachidonoyl phosphatidylethanolamine</term> (NAPE) which is then enzymatically converted into anandamide by the enzyme <term id="term-00006">phospholipase D</term> (PLD).</para>
+
+        <figure id="Image-3.11">
+          <media alt="Chemical synthesis diagram showing NAPE leading to anandamide and DAG leading to 2-AG. Both products are converted to arachidonic acid by FAAH, which then becomes prostaglandin G2 then prostaglandin H2 (via COX-1 and COX-2 enzymes).">
+            <image mime-type="image/png" src="../../media/Image-3.11_Synthesis-of-arachidonic-acid-and-prostaglandins.png"/>
+          </media>
+        </figure>
+        <para id="para-00005">Unlike the other neurotransmitters discussed thus far, these two endocannabinoids are not stored in synaptic vesicles. The depolarization of a postsynaptic neuron leads to Ca2+ influx through voltage-gated channels and causes the enzymatic de novo generation and the release of endocannabinoids such as anandamide. Once produced they are released to flow in reverse direction (<term id="term-00007">retrograde neurotransmission</term>) across the synapse to find their receptors on the pre-synaptic side of the synapse (<link target-id="Image-3.10"/>).</para>
+
+        <figure id="Image-3.10">
+          <media alt="Diagram of a synapse showing a retrograde neurotransmitter being release through the postsynaptic membrane to bind a presynaptic receptor in response to post-synaptic neurotransmitter binding.">
+            <image mime-type="image/png" src="../../media/Image-3.10_Retrograde-neurotransmission.png"/>
+          </media>
+        </figure>
+      </section>
+      <section id="sect-00004">
+        <title>Receptors</title>
+        <para id="para-00006">Two different types of endocannabinoid receptors are located throughout the brain and body. Anandamide binds best to CB1 receptors, while 2-AG binds best with the CB2 receptors (<link target-id="Image-3.27"/>).</para>
+        
+        <figure id="Image-3.27">
+          <media alt="Diagram of a synapse showing endocannabinoid life cycle steps. 1) Neurotransmitter release activates the postsynaptic cell. 2) Postsynaptic activation activates DLGα and PLD to synthesize 2-AG and anandamide from their precursors DAG and NAPE, respectively. 3) 2-AG and anandamide diffuse through the cell membrane and across the synaptic cleft to activate CB1 receptors. 4) CB1 activation inhibits presynaptic neurotransmitter release, Ca2+ influx and cAMP production and promotes K+ efflux.">
+            <image mime-type="image/png" src="../../media/Image-3.27_Function-of-endocannabinoid-receptors.png"/>
+          </media>
+        </figure>
+        <para id="para-00007">The type 1 receptors are densely distributed in several brain regions; the type 2 receptor is found at much lower levels in the brain. The type 1 receptor is among the most abundant G protein–coupled receptors in the brain. Anandamide and 2-AG also prevent the release of both glutamate and GABA, thus altering the balance of excitation and inhibition throughout the brain.</para>
+      </section>
+      <section id="sect-00005">
+        <title>Inactivation of endocannabinoids </title>
+        <para id="para-00008">Anandamide is inactivated by either reuptake or catabolism by the enzyme <term id="term-00008">fatty acid amide hydrolase</term> (FAAH). 2-AG is inactivated by either reuptake or sequential catabolism by both FAAH and <term id="term-00009">monoacylglycerol lipase</term> (MAGL). The major product of this catabolism is arachidonic acid, which can be used to produce prostaglandins (see next section).</para>
+      </section>
+      <section id="sect-00006">
+        <title>The functions of endocannabinoids</title>
+        <para id="para-00009">At the synaptic level, anandamide and 2-AG act retrogradely on pre-synaptic receptors to inhibit the release of a variety of neurotransmitters by altering the function of potassium and voltage-gated calcium channels. At the systems level, endocannabinoids influence appetite, mood, stress reduction, and the brain’s inflammatory response.  The endocannabinoids enhance goal-seeking behaviors by augmenting the actions of dopamine within the brain’s pleasure centers in the ventral forebrain.</para>
+      </section>
+    </section>
+    <section id="sect-00007">
+      <title>Prostaglandins</title>
+      <para id="para-00010">This section will describe the lifecycle and functions of prostaglandins.</para>
+      <section id="sect-00008">
+        <title>Synthesis</title>
+        <para id="para-00011">Prostaglandins are synthesized from the fatty acid <term id="term-00010">arachidonic acid</term> via the enzyme <term id="term-00011">cyclooxygenase</term> (COX). Every prostaglandin contains 20 carbon atoms that includes a single 5-carbon ring. They are found throughout the body and brain. Like the endocannabinoids, prostaglandins are not stored in vesicles; they are produced on demand when they are needed and then released into the extracellular space via a specific protein transporter. Prostaglandins are not reused by the neurons. Prostaglandins are oxidized by NAD+-dependent 15-hydroxyprostaglandin dehydrogenase and then reduced by NADPH/NADH dependent delta13-15-ketoprostaglandin reductase.</para>
+      </section>
+      <section id="sect-00009">
+        <title>Functions of prostaglandins</title>
+        <para id="para-00012">The variety of prostaglandins that exist and their wide distribution in the brain underlies their variety of functions. Glia release prostaglandins to activate pro-inflammatory cascades. Some prostaglandins are neuroprotective from the effects of hypoxia or ischemia. The sexual differentiation of the brain may depend on the actions of prostaglandins. Acutely, fever-producing agents induce the production of prostaglandins in the hypothalamus, altering body temperature regulation. In contrast, chronic inflammatory processes associated with prostaglandins may underlie the development of depression (Regulska et al., 2021). Generally, the level of most prostaglandins is kept quite low in the brain.</para>
+      </section>
+    </section>
+    <section id="sect-00010">
+      <title>Acetylcholine</title>
+      <para id="para-00013">This section will describe the lifecycle and functions of acetylcholine.</para>
+      <section id="sect-00011">
+        <title>Synthesis</title>
+        <para id="para-00014"><term id="term-00012">Acetylcholine</term> (commonly abbreviated ACh) is made by transferring a molecule of acetic acid on to a molecule of choline that is derived from the fatty acid lecithin (steps 1 and 2 in <link target-id="Image-3.05"/>). This conversion occurs via the action of an enzyme called <term id="term-00013">choline acetyltransferase</term> (Picciotto et al., 2012). The acetyl is derived from a molecule of sugar, usually glucose, that is initially modified inside the mitochondria. The brain needs sugar (usually in the form of glucose) to function normally. Once inside the brain, only a very small percentage of the dietary sugar is used to produce acetylcholine. The brain typically has a constant and ample supply of choline. Choline can be easily obtained from the diet, such as from eggs and baked goods. Despite this fact, many health foods stores sell choline powder to gullible customers, claiming that consuming more choline will somehow enable their brains to make more acetylcholine. Given the vital role of acetylcholine in learning and memory, this is an appealing claim. Regrettably, it has no basis in fact. For adults, the brain responds only to deficits in choline, not surpluses, in the diet. It has a ready source of choline in the diet or stored in the liver and, in fact, never develops a deficit in choline, even in patients with Alzheimer’s disease. Thus, consuming extra choline does not induce your brain to make more acetylcholine. Instead, it only results in a gaseous by-product that you exhale and that smells like rotting fish. Rather than enhancing your cognitive abilities, choline supplements merely generate a terrible case of bad breath.</para>
+        <para id="para-00015">Once acetylcholine is produced, it is transported into synaptic vesicles (step 3 in <link target-id="Image-3.05"/>). The vesicles containing acetylcholine fuse with the presynaptic membrane of the axon terminal in response to an action potential (step 4 in <link target-id="Image-3.05"/>). Each vesicle releases about 10,000 acetylcholine molecules into the synapse. Some of these acetylcholine molecules will bind to protein receptors on the surface of the nearby neuron (step 5 in<link target-id="Image-3.05"/>). Ultimately, all of them are inactivated by an enzyme.</para>
+
+        <figure id="Image-3.05">
+          <media alt="Diagram of a synapse showing acetylcholine life cycle steps as described by main text. A blood vessel is also shown. Step 6, not described in text, is ACh autoreceptors signal to the presynaptic neuron to shutdown ACh synthesis and release.">
+            <image mime-type="image/png" src="../../media/Image-3.05_Acetylcholine-lifecycle.png"/>
+          </media>
+        </figure>
+      </section>
+      <section id="sect-00012">
+        <title>Inactivation of Acetylcholine</title>
+        <para id="para-00016">Released acetylcholine molecules are quickly inactivated by the enzyme <term id="term-00018">acetylcholinesterase</term> (step 7 in <link target-id="Image-3.05"/>). Acetylcholinesterase has one of the fastest reaction rates of any of our enzymes, breaking up each molecule in about 80 microseconds (Taylor, 1991). Acetylcholinesterase breaks the acetylcholine into a molecule of acetate and choline. About forty percent of the choline will be reabsorbed into the axon terminal by specialized transport proteins and reused to produce more acetylcholine (step 8 in <link target-id="Image-3.05"/>). The remaining choline molecules and acetate will diffuse into the extracellular space and ultimately be removed from the brain. Knowledge about the chemistry and function of acetylcholinesterase led to the development of drugs that inhibit the enzyme acetylcholinesterase and greatly increase the amount of acetylcholine in the synapse. Today, acetylcholinesterase inhibitors are common treatments for Alzheimer’s disease. In theory, the drugs should compensate for the loss of acetylcholine neurons in these patients; in practice, the drugs provide little clinical benefit because too few healthy acetylcholine neurons are still present in the brain. 
+</para>
+      </section>
+      <section id="sect-00013">
+        <title>Receptors</title>
+        <para id="para-00017">Once released into the synapse, the neurotransmitter acetylcholine can act on two quite different protein receptors that have been designated, as have most receptors, according to the compounds that were originally used to study them—in this case, muscarine and nicotine (<link target-id="Image-3.24"/>).</para>
+
+        <figure id="Image-3.24">
+          <media alt="Two-part diagram. 1) Diagram of a cell membrane with ionotropic receptors in it. ACh is shown binding to a closed receptor, leading to an open receptor. Na+ is shown flowing through the open receptor into the cell. 2) Diagram of a cell membrane with G protein coupled receptor in it. It is binding to ACh. The activated G protein is opening a nearby ion channel and ions are shown moving in or out of the cell.">
+            <image mime-type="image/png" src="../../media/Image-3.24_ACh-channels.png"/>
+          </media>
+        </figure>
+        <para id="para-00018">Most of the acetylcholine receptors in the brain are the muscarinic subtype, whereas less than 10% are nicotinic. They differ in size, structure, and mechanism of action; yet they both respond to acetylcholine. <term id="term-00014">Nicotinic acetylcholine receptors</term> are simple ligand-gated fast-opening ion channels that are also responsive to nicotine. Most of the nicotine receptors in the body live in the neuromuscular junction (see <link document="">Ch 10 Motor Control</link>). Nicotine receptors allow the passage of sodium, potassium or calcium ions and typically produce depolarization. <term id="term-00015">Muscarinic acetylcholine receptors</term> are G-protein-linked receptors that activate other ionic channels via a second messenger cascade. These receptors are responsive to muscarine and can produce either depolarization or hyperpolarization depending on the nature of the ionic channel linked to the G-protein complex.</para>
+      </section>
+      <section id="sect-00014">
+        <title>The functions of acetylcholine</title>
+        <para id="para-00019">Within the human brain are numerous acetylcholine pathways that influence the function of the cortex, hippocampus, and many other subcortical regions (<link target-id="Image-3.37"/>).</para>
+
+        <figure id="Image-3.37">
+          <media alt="Diagram of a human brain with networks of acetylcholine projections throughout the cortex. Cell bodies are concentrated in the basal forebrain.">
+            <image mime-type="image/png" src="../../media/Image-3.37_Acetylcholine-system-anatomy.png"/>
+          </media>
+        </figure>
+        <para id="para-00020"/>
+
+        <para id="para-00021">Within these various regions, the actions of acetylcholine enable you to learn and remember, to regulate your attention and mood, and to control how well you can move. Thus, anything that affects the function of acetylcholine neurons has the potential to affect all these brain functions. Sometimes we can learn much about the role of a particular neurotransmitter system by investigating what happens when it is injured or diseased. In the brains of people with <term id="term-00016">Alzheimer’s disease</term>, for example, acetylcholine neurons that project into the hippocampus and cortex degenerate. The loss of normal acetylcholine function in the cortex may be why patients with Alzheimer’s disease have difficulty paying attention to their environment. The loss of acetylcholine projections into the hippocampus may underlie the profoundly debilitating memory loss that is the hallmark of this disease (see <link document="">Ch 18 Learning and Memory</link>).</para>
+      </section>
+      <note class="boxed-feature" id="note-00001">
+        <title>History of Neuroscience: Otto Loewi and dreams of neuroscience</title>
+        <para id="para-00022">In 1902, a young German scientist named Otto Loewi at University College London began working with Henry Dale on how neurons communicate with each other. Loewi began thinking about ways that he might prove, or disprove, the chemical transmission hypothesis. According to Loewi, the idea of a viable experiment came to him in a dream a couple days after Easter Sunday in 1921. Unfortunately, his notes that night were illegible. Fortunately, the following night he had the dream again and he rushed off to the lab to test his ideas. Loewi determined that a substance was released by the vagus nerve that could communicate with other nervous tissues. Several years later this substance was isolated by Dale, who named it acetylcholine. Loewi and Dale shared the Nobel Prize for Physiology or Medicine in 1936 for their work on chemical neurotransmission.</para>
+      </note>
+    </section>
+    <section id="sect-00015">
+      <title>Neurosteroids</title>
+      <para id="para-00023"><term id="term-00017">Neurosteroids</term> are produced from their precursor steroids by astrocytes and neurons (Maguire and Mennerick, 2024). Dietary cholesterol is converted into pregnenolone, an intermediate necessary for the synthesis of neurosteroids. Pregnenolone is then enzymatically converted into progesterone. Overall, neurosteroids are not themselves active at typical intracellular steroid receptors. They modulate brain excitability primarily by interaction with neuronal membrane receptors and ion channels. For example, progesterone is converted into allopregnanolone, which can enhance the function of GABA receptors and reduce seizure activity, anxiety and stress. Many neurosteroids are broad-spectrum anticonvulsant agents. In contrast, another neurosteroid, pregnenolone sulfate, is a negative GABA receptor modulator and tends to activate general brain activity and induce seizures. Neurosteroids are found at high levels in the cortex, hippocampus, and amygdala. Within these brain regions, neurosteroid synthetic enzymes are localized to glutamatergic principal neurons. Given their role in the control of neuronal excitability, neurosteroid analogs are now being considered for treatment of epilepsy, anxiety, depression, and stress-sensitive conditions.</para>
+    </section>
+    <section class="section-summary" id="sect-00016">
+      <title>TOPIC Summary</title>
+      <para id="para-00024">Fatty acids obtained from either the diet or pieces of neural membrane are modified into neurotransmitters. In contrast to the amino acid-derived neurotransmitters, two of the fatty acid-derived neurotransmitters discussed are not stored in vesicles; they are produced and immediately released only when needed. Their diffuse distribution underlies the large variety of functions that are assigned to them, including the control of mood, learning and memory and pain.  Dysfunction of acetylcholine is well known and studied. In contrast, much less is known about the functions of the endocannabinoid system.</para>
+
+    </section>
+    <section class="key-terms" id="sect-00017">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Anandamide</item>
+<item>2-AG</item>
+<item>diacylglycerol</item>
+<item>diacylglycerol lipase</item>
+<item>N-arachidonoyl phosphatidylethanolamine</item>
+<item>phospholipase D</item>
+<item>retrograde neurotransmission</item>
+<item>fatty acid amide hydrolase</item>
+<item>monoacylglycerol lipase</item>
+<item>arachidonic acid</item>
+<item>cyclooxygenase</item>
+<item>acetylcholinesterase</item>
+<item>muscarinic acetylcholine receptors</item>
+<item>nicotinic acetylcholine receptors</item>
+<item>Alzheimer’s disease</item>
+<item>neurosteroids</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00018">
+      <title>References</title>
+      <para id="para-00025">Nestler, E., Hyman, S.H., &amp; Malenka, R. (2020). <emphasis effect="italics">Molecular neuropharmacology: A foundation for clinical neuroscience</emphasis> (4th ed.). McGraw-Hill.</para>
+<para id="para-00026">Wenk, G.L. (2019). <emphasis effect="italics">Your brain on food: How chemicals control your thoughts and feelings</emphasis> (3rd ed.). Oxford University Press.</para>
+<para id="para-00027">Maguire, J.L., &amp; Mennerick, S. (2024). Neurosteroids: Mechanistic considerations and clinical prospects. <emphasis effect="italics">Neuropsychopharmacol</emphasis>, <emphasis effect="italics">49</emphasis>, 73–82. https://doi.org/10.1038/s41386-023-01626-z</para>
+<para id="para-00028">Lu, H.C., &amp; Mackie, K. (2016). An introduction to the endogenous cannabinoid system. <emphasis effect="italics">Biol Psychiatry</emphasis>, <emphasis effect="italics">79</emphasis>(7):516-25. https://doi.org/10.1016/j.biopsych.2015.07.028.</para>
+<para id="para-00029">Picciotto, M.R., Higley, M.J., &amp; Mineur, Y.S. (2012). Acetylcholine as a neuromodulator: cholinergic signaling shapes nervous system function and behavior. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">76</emphasis>(1), 116-129. https://doi.org/10.1016/j.neuron.2012.08.036</para>
+<para id="para-00030">Taylor, P. (1991). The Cholinesterases. <emphasis effect="italics">Journal of Biological Chemistry</emphasis>, <emphasis effect="italics">266</emphasis>, 4025-4028.</para>
+<para id="para-00031">Regulska, M., Szuster-Głuszczak, M., Trojan, E., Leśkiewicz, M., &amp; Basta-Kaim, A. (2021). The emerging role of the double-edged impact of arachidonic acid-derived eicosanoids in the neuroinflammatory background of depression. <emphasis effect="italics">Curr Neuropharmacol</emphasis>, <emphasis effect="italics">19</emphasis>(2):278-293. https://doi.org/10.2174/1570159X18666200807144530.</para>
+    </section>
+
+    <section class="multiple-choice" id="sect-00019"> 
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-03-03-029"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-03-03-030"/></para>
+        </problem>
+      </exercise>
+      </section>
+
+      <section class="fillin-blank" id="sect-00020"> 
+        <title>Fill in the Blank</title>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-03-03-006"/></para>
+          </problem>
+        </exercise>
+        </section>
   </content>
 </document>

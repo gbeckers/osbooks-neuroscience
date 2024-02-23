@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+    <md:content-id>m00078</md:content-id>
+    <md:uuid>e3fe9b70-e23d-4b48-af4a-c9fcd1fa2e63</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure class="splash" id="Image-12.12">
+      <media alt="Photograph of a mountain lion on a rocky ledge. Text says “A mountain lion was spotted in the Berkeley Hills above UC Berkeley campus.">
+        <image mime-type="image/jpg" src="../../media/Image-12.12_Mountain-lion.png"/>
+      </media>
+      <caption>(credit: National Park Service/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+
+    <note class="meet-author" id="note-00001">
+      <title>Sandra E. Muroy, PhD; MeeJung Ko, PhD; Yanabah Jaques, BSc; Daniela Kaufer, PhD</title>
+          <para id="para-00001"><link url="https://openstax.org/r/Neuro#Author">Meet the authors</link></para>
+    </note>
+
+    <para id="para-00002">Picture the following scenario (<link target-id="Image-12.12"/>). Two students are jogging at dusk along a fire trail in the Berkeley hills. As they approach a small grove of trees, they spot a mountain lion lurking in the shadows. The students freeze. They can feel their hearts pounding, their breath quickening, their muscles are tense, their palms sweaty. All they can see is the mountain lion as it crouches and prepares to attack. The students turn towards the mountain lion, waving their arms and creating noise in an attempt to ward it off. They hurl strewn rocks until the mountain lion finally retreats.</para>
+    <para id="para-00003">Weeks later, one of the students keeps remembering the encounter and experiencing distress, is having trouble sleeping and no longer wants to jog in the hills. The other does not show signs of distress after the initial shock.</para>
+    <para id="para-00004">Encountering a mountain lion ready to attack would be a very stressful event for most people. A pounding heart, shallow breathing and sweaty palms are all part of the body’s response to stress - an adaptive response which ensures our survival by preparing us to fight, flee or freeze in the face of threat. In the aftermath of this stressful encounter, why does one student experience lasting effects while the other has none?</para>
+    <para id="para-00005">In this chapter you will learn about stress and the stress response, the mechanisms regulating it, how stress affects brain circuits and behavior, and what sets up the variability between people in how they respond to stress.</para>
+  </content>
+</document>

@@ -1,11 +1,144 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>General neurochemistry principles</title>
+  <title>General Neurochemistry Principles</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>General neurochemistry principles</md:title>
+    <md:title>General Neurochemistry Principles</md:title>
     <md:content-id>m00028</md:content-id>
     <md:uuid>05131495-bc65-4ba7-9c31-5f274659afae</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, students will be able to:</para>
+      <list id="list-00001">
+        <item>Explain the basic mechanisms that neurons use to produce and release neurotransmitters</item>
+        <item>Describe the ways that neurotransmitters interact with receptors</item>
+      </list>
+    </section>
+    <para id="para-00002">In the following sections, you will learn general principles about brain chemistry. Neurons access nutrients from the diet, or from their own neuronal membranes, to produce the <term id="term-00001">neurotransmitters</term> that underlie behavior. These nutrients, including amino acids, fatty acids or sugar molecules, are taken inside a neuron or glial cell where they are acted upon by enzymes to produce a neurotransmitter that is stored in a vesicle and later released in response to specific intracellular signals. Neurons release the most recently produced neurotransmitter molecules first, thus guaranteeing that the communication between neurons is successful.</para>
+    <section id="sect-00002">
+      <title>How do neurons produce neurotransmitters?</title>
+      <para id="para-00003">Neurotransmitters are produced inside neurons. Their production depends upon the neuron obtaining an adequate supply of precursors from the blood. This is not as easy as it sounds. The production of neurotransmitters requires a variety of amino acids, sugar, fats, vitamins, and minerals. These nutrients float around in the blood after each meal. Every cell in the body competes with the brain for access to these nutrients. The brain is at a distinct disadvantage because it sits behind a firewall called the <term id="term-00002">blood-brain barrier</term> <link document="">Ch 1 Cells and Structure of the Nervous System</link>. However, fortunately, the blood-brain barrier possesses a variety of specialized transporting mechanisms that can actively transfer nutrients into the brain (Step 1 in <link target-id="Image-3.02"/>). Once a nutrient crosses the blood-brain barrier it is usually transported to neurons with the assistance of <term id="term-00003">astrocytes</term>.</para>
+      <figure id="Image-3.02">
+        <media alt="Diagram of a synapse showing neurotransmitter life cycle steps as described in main text. A blood vessel is also shown, as is an astrocyte process adjacent to the synaptic cleft.">
+          <image mime-type="image/png" src="../../media/Image-3.02_Neurotransmitter-lifecycle.png"/>
+        </media>
+      </figure>
+
+      <para id="para-00004">After an amino acid, fatty acid or sugar molecule is inside a neuron, it is generally acted upon by synthesizing <term id="term-00004">enzymes</term> (Step 2 in <link target-id="Image-3.02"/>). Enzymes are proteins that help build, breakdown or otherwise modify substances in our cells. The action of many of these enzymes uses metal ions as co-factors to assist with the conversion process. For example, neurons in the substantia nigra contain iron, neurons in the hippocampus contain zinc, neurons in the locus coeruleus contain copper, and neurons in the red nucleus contain cobalt. The presence of these metals is critical for normal neurotransmitter metabolism.</para>
+      <para id="para-00005">Brains demonstrate a degree of energy efficiency in terms of which of these transmitters it utilizes most extensively. For example, <term id="term-00005">GABA</term> and <term id="term-00006">glutamate</term> are simple amino acids and are the most abundant neurotransmitters in the human brain. They require only single-step enzymatic modification. Four amine neurotransmitters (<term id="term-00007">dopamine</term>, <term id="term-00008">norepinephrine</term>, <term id="term-00009">epinephrine</term>, and <term id="term-00010">serotonin</term>) require enzymatic modification of dietary amino acids to produce and inactivate. The brain contains 1000-fold fewer of these amine-releasing neurons, as compared to glutamate and GABA, probably because they require more energy to function. Finally, the other, far less abundant neurotransmitters, such as the <term id="term-00011">neuropeptides</term> (which are a string of amino acids) require a considerable amount of energy by the neuron to produce and inactivate. Neuropeptides occur roughly one-million-fold lower concentration in the brain than glutamate and GABA.  These neurotransmitters, as well as the fat-derived neurotransmitters <term id="term-00012">endocannabinoids</term> and <term id="term-00013">prostaglandins</term>, all utilize the DNA in the nucleus to produce the necessary enzymes and precursors. The endogenous levels of these two fat-derived are kept quite low and are produced only when needed.</para>
+    </section>
+
+    <section id="sect-00003">
+      <title>How are neurotransmitters stored and released?</title>
+      <para id="para-00006">
+        Once synthesized, most neurotransmitter molecules are then actively transported into <term id="term-00014">synaptic vesicles</term> (step 3 <link target-id="Image-3.02"/>); these are very tiny spheres clustered at the presynaptic terminal with hollow centers into which approximately 10,000 molecules of a typical neurotransmitter can be stored for later release from a neuron. Neurons pay attention to the shelf life of their neurotransmitters; they prefer to release the most recently produced neurotransmitter molecules first. This means that the freshest products are released first, thus guaranteeing that the communication between neurons is successful. Many neurons produce two (and rarely three) different neurotransmitters; each is stored inside different vesicles and are released independently of each other.
+</para>
+      <para id="para-00007">
+        The arrival of the action potential at the end of the axon opens a group of voltage-dependent <term id="term-00015">calcium channels</term> that allows the entry of calcium ions <link document="">Ch 2 Neuronal Physiology</link>. The elevated intracellular concentration of calcium ions initiates the next step in the communication of one neuron with the next: A synaptic vesicle either merges into its cell wall (both are made of lipids so imagine two soap bubbles coming together), or opens a small pore into the neuronal membrane, and releases the neurotransmitter into the small space between neurons, called a <term id="term-00016">synaptic cleft</term> (step 4 <link target-id="Image-3.02"/>). <link target-id="Image-3.03"/> shows the process of vesicle fusion in more detail. The junction at which two neurons communicate via the release of a neurotransmitter molecule is called a <term id="term-00017">synapse</term>. Because the synapse is such a small space, the concentration of neurotransmitter molecules in the synapse following release becomes very high for a brief period.</para>
+      <figure id="Image-3.03">
+        <media alt="Four step diagram. 1) A diagram of a vesicle filled with neurotransmitter adjacent to a presynaptic membrane. Docking proteins are shown on the vesicle and membrane. 2) Vesicle shown close to membrane, docking proteins touching. 3) Ca2+ ions shown interacting with docking proteins and membrane getting closer to vesicle. 4) Vesicle has fused with membrane and neurotransmitter and diffusing out of the vesicle into the synaptic cleft space.">
+          <image mime-type="image/png" src="../../media/Image-3.03_Vesicle-fusion.png"/>
+        </media>
+      </figure>
+    </section>
+    <section id="sect-00004">
+      <title>Post-synaptic actions of neurotransmitters</title>
+      <para id="para-00008">Once released into the synapse, neurotransmitter molecules briefly interact or bind with a protein, called a <term id="term-00018">receptor</term>, that is (usually) located on the surface of the neuron on the other side of the synapse (step 5 in <link target-id="Image-3.02"/>). These receptors are divided into two general types: either ionotropic or metabotropic receptors (<link target-id="Image-3.31"/>). <term id="term-00019">Ionotropic receptors</term> are transmembrane molecules that can “open” or “close” a channel that would allow smaller particles to travel in and out of the cell. Ionotropic receptors allow different kinds of ions to travel in and out of the cell. Ionotropic receptors are not opened (or closed) all the time. They are generally closed until another small molecule (called a ligand — in our case, a neurotransmitter) binds to the receptor. As soon as the ligand binds to the receptor (step 1 in the left side of <link target-id="Image-3.31"/>), the receptor changes conformation (the protein that makes up the channel changes shape), and, as they do so, they create a small opening that is big enough for ions to travel through (step 2 in the left side of <link target-id="Image-3.31"/>). Therefore, ionotropic receptors are called “ligand-gated transmembrane ion channels”. The abrupt change in concentration of these ions induces secondary biochemical processes which may have either short-term or long-term consequences on the post-synaptic neuron’s behavior.</para> 
+<para id="para-00009">
+Metabotropic receptors do not have a “channel” that opens or closes. Instead, they are linked to another small chemical called a “G-protein.” As soon as a ligand binds the metabotropic receptor (step 1 in the right side of <link target-id="Image-3.31"/>), the receptor “activates” the G-protein (it basically changes the G-protein shape). Once activated, the G-protein itself goes on and activates another molecule (step 2 in the right side of <link target-id="Image-3.31"/>). This new molecule is called a “<term id="term-00020">secondary messenger</term>.” A secondary messenger is a chemical whose function is to go and activate other particles. So far, this process is common to all metabotropic receptors. What happens from there on is different for every metabotropic receptor. In some cases, the secondary messenger travel until it binds to and opens ion channels located somewhere else on the membrane (step 3 in the right side of <link target-id="Image-3.31"/>). In some cases, the secondary messenger will go and activate other intermediate molecules inside the cell. The important thing to remember is that metabotropic receptors do not have ion channels, and binding of a ligand may or may not result in the opening of ion channels at different sites on the membrane. But they will always activate a G-protein that will in turn activate secondary messengers. <term id="term-00021">G-protein coupled receptors</term> are a large group of evolutionarily related proteins that are very common in the brain and body; over eight hundred human genes are devoted to producing these proteins.
+</para>
+<figure id="Image-3.31">
+  <media alt="Left side: Diagram of ligand-gated ion channel in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby opening the receptor channel and allowing ions to flow across the membrane. Right side: Diagram of G protein coupled receptor in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby activating a G protein (effector protein) and secondary messangers, which then open a separate ion channel. Ions flow through the ion channel.">
+    <image mime-type="image/png" src="../../media/Image-3.31_Metabotropic-vs-ionotropic-receptors.png"/>
+  </media>
+</figure>
+<para id="para-00010">Despite many safeguards, the synaptic communication processes described above often fail because the vesicles are empty or do not fuse properly, or the neurotransmitters are oxidized and therefore inactive (Linden, 2007). Neural systems have a built-in redundancy that allows them to compensate for failures in single neurons. Brains try to be energy efficient and not waste neurotransmitters. Many, but not all, neurotransmitters, or components of them after enzymatic inactivation, are re-absorbed by the axon terminal and re-used.  Finally, although neurons utilize components of the diet to produce neurotransmitters, the production of neurotransmitters is rarely significantly enhanced by dietary supplements.</para>
+    </section>
+    <section id="sect-00005">
+      <title>Ending neurotransmitter action</title>
+      <para id="para-00011">After most neurotransmitters are released into the synaptic cleft they need to be inactivated. The primary mechanism for inactivation is <term id="term-00022">reuptake</term> (step 7 in <link target-id="Image-3.02"/>). Reuptake is the reabsorption of a neurotransmitter via a protein transporter located on the (pre-synaptic) membrane of the axon terminal. Reuptake allows for the recycling of neurotransmitters. Because neurotransmitter molecules are large and hydrophilic, they cannot simply diffuse through the membrane; this is why specific transporter proteins are necessary.</para>
+      <para id="para-00012">Neurons benefit from feedback on how much neurotransmitter they are releasing at their axonal terminals. This feedback is provided by a special type of protein receptor called an <term id="term-00023">autoreceptor</term> (step 6 in <link target-id="Image-3.02"/>). Autoreceptors are located on the membranes of nerve cells. They may be located on the cell body or the axonal terminal. These receptors are only sensitive to the neurotransmitters released by the neuron on which the autoreceptor sits. Activation of an autoreceptor usually leads to a reduction in the rate of release of the cell's neurotransmitter.</para>
+    </section>
+    <section class="section-summary" id="sect-00006">
+      <title>TOPIC Summary</title>
+      <note class="meet-author" id="note-00001">
+        <title>Name of Author Goes Here</title>
+            <para id="para-00013"><link url="https://openstax.org/r/Neuro#Author">Meet the author</link></para>
+      </note>
+      <para id="para-00031">
+          The brain obtains lipids, amino acids, and sugars from the metabolism of fats, proteins, and carbohydrates from the diet. Neurons modify these precursor molecules enzymatically into neurotransmitters, store them inside small lipid-walled vesicles and maintain them until the neuron determines that they should be released. The arrival of an action potential induces the neuron to release its neurotransmitter(s) into the synaptic cleft so that it can interact with specialized receptor proteins floating on the surface of a nearby neuron. The production, storage, release and inactivation of neurotransmitter molecules require the contribution of many genes and proteins, and lots of energy. However, these neurotransmitters are the only way that the majority of neurons in the brain can communicate with each other.
+</para>
+    </section>
+
+    <section class="key-terms" id="sect-00007">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+<item>blood-brain barrier</item>
+<item>astrocytes</item>
+<item>enzymes</item>
+<item>GABA</item>
+<item>glutamate</item>
+<item>dopamine</item>
+<item>norepinephrine</item>
+<item>epinephrine</item>
+<item>serotonin</item>
+<item>neuropeptides</item>
+<item>endocannabinoids</item>
+<item>prostaglandins</item>
+<item>synaptic vesicles</item>
+<item>calcium channels</item>
+<item>synaptic cleft</item>
+<item>synapse</item>
+<item>receptor</item>
+<item>ionotropic receptor</item>
+<item>secondary messenger</item>
+<item>G-protein coupled receptor</item>
+<item>reuptake</item>
+<item>autoreceptor</item>
+       </list>
+    </section>
+
+    <section class="references" id="sect-00008">
+      <title>References</title>
+      <para id="para-00014">Brady, S.T., Siegel, G.J., Albers, R.W., &amp; Price, D.L. (2011). <emphasis effect="italics">Basic Neurochemistry: Molecular, Cellular and Medical Aspects</emphasis>, (8th Ed). Academic Press.</para>
+<para id="para-00015">Coleman, W. (2023). <emphasis effect="italics">Handbook of Neurochemistry</emphasis>. American Medical Publishers.</para>
+<para id="para-00016">Wenk, G.L. (2017). <emphasis effect="italics">The Brain: What Everyone Needs to Know</emphasis>. Oxford University Press.</para>
+    </section>
+
+    <section class="multiple-choice" id="sect-00009"> 
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00017"><link class="os-embed" url="#exercise/Neuro-03-01-007"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00018"><link class="os-embed" url="#exercise/Neuro-03-01-008"/></para>
+        </problem>
+      </exercise>
+
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00019"><link class="os-embed" url="#exercise/Neuro-03-01-009"/></para>
+        </problem>
+      </exercise>
+      </section>
+
+      <section class="fillin-blank" id="sect-00010"> 
+        <title>Fill in the Blank</title>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+            <para id="para-00020"><link class="os-embed" url="#exercise/Neuro-03-01-001"/></para>
+          </problem>
+        </exercise>
+
+        <exercise id="exer-00005">
+          <problem id="prob-00005">
+            <para id="para-00021"><link class="os-embed" url="#exercise/Neuro-03-01-002"/></para>
+          </problem>
+        </exercise>
+        </section>
   </content>
 </document>

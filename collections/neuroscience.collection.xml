@@ -91,6 +91,15 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Stress</md:title>
+      <col:content>
+        <col:module document="m00078"/>
+        <col:module document="m00079"/>
+        <col:module document="m00080"/>
+        <col:module document="m00081"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>The Neural Underpinnings of Emotion and Mood</md:title>
       <col:content>
         <col:module document="m00048"/>
@@ -122,6 +131,16 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Neuroimmunology</md:title>
+      <col:content>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+        <col:module document="m00077"/>
+        <col:module document="m00082"/>
+        <col:module document="m00083"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Learning and Memory</md:title>
       <col:content>
         <col:module document="m00060"/>
@@ -132,7 +151,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Attention &amp; Executive Function</md:title>
+      <md:title>Attention and Executive Function</md:title>
       <col:content>
         <col:module document="m00065"/>
         <col:module document="m00066"/>
