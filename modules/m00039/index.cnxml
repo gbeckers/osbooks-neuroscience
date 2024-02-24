@@ -109,7 +109,15 @@
         
        </section>
       
-      <section class="multiple-choice" id="sect-00013"><title>Multiple Choice</title> <para id="para-00029">...</para> </section>
-      <section class="fillin-blank" id="sect-00014"><title>Fill in the Blank</title> <para id="para-00030">...</para> </section>
+       <section class="multiple-choice" id="sect-00013"><title>Multiple Choice</title>
+        <exercise id="exer-00001">
+            <problem id="prob-00001">
+        <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-08-01-001"/></para></problem></exercise>
+         </section>
+        <section class="fillin-blank" id="sect-00014"><title>Fill in the Blank</title>
+        <exercise id="exer-00002">
+            <problem id="prob-00002">
+        <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-08-01-002"/></para></problem></exercise>
+        </section>
   </content>
 </document>
