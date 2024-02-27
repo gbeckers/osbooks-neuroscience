@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:null="http://katalysteducation.org/cmlnle/1.0">
   <title>What Is Stress?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>What Is Stress?</md:title>
@@ -108,11 +108,139 @@
           <media alt="Photo collage to represent social isolation, digital-world related stress, societal stressors (racism, inequality, poverty, etc.), bullying.">
             <image mime-type="image/png" src="../../media/Image-12.01.3_Examples-of-social-stressors.png"/>
           </media>
-          <caption>(credit:  social isolation: By Stephen Kelly - Lunch Guest, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=37495859
-            societal stressors: By Wilfredor - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=86334505 Bullying: public doman, https://www.techexplorist.com/face-to-face-bullying-common-cyberbullying-among-teenagers/6459/ digital world related stress: public domain, https://medicalxpress.com/news/2021-09-people-stress-sensitive-message-tone.html)
+          <caption>(credit: social isoloation: "Lunch Guest" by Stephen Kelly/Wikimedia Commons, CC BY 2.0; 
+            societal stressors: "Homeless on Paulista Avenue" by Wilfredo Rafael Rodriguez Hernandez/Wikimedia Commons, public domain; digital world related stress: https://medicalxpress.com/news/2021-09-people-stress-sensitive-message-tone.html, public domain; bullying: https://www.techexplorist.com/face-to-face-bullying-common-cyberbullying-among-teenagers/6459/, public domain)
             </caption>
         </figure>
       </section>
     </section>
+    <section id="sect-00010">
+      <title>Valence of the stress response</title>
+      <para id="para-00019">We now know that the stress response is critical to survival but it has also garnered the reputation of being detrimental to health and wellbeing. This brings up the question of valence: is stress always a bad thing?</para>
+      <section id="sect-00011">
+        <title>Inverted-U nature of the stress response</title>
+        <para id="para-00020">It turns out that some amount of stress is actually good and can enhance performance in the same domains where too much stress is detrimental (memory and executive function, for example). This type of relationship where increasing amounts of some factor (stress in our case) results first in an increase and then a decrease of a second factor (performance for example) is referred to as an inverted-U relationship (Yerkes-Dodson law; <link url="https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law">https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law</link>). <link target-id="Image-12.03"/> shows a typical <term id="term-00018">inverted-U curve</term> with increasing stress (stress/stimulation) on the x-axis and some measure of behavioral performance (e.g., memory function, decision-making, learning, playing an instrument, etc.) on the y-axis.</para>
+
+        <figure id="Image-12.03">
+          <media alt="A line graph with y axis “behavioral performance” from low to high and x-axis “stress/stimulation” from too little to too much. An inverted U curve is plotted. At too little stress, symptoms listed are impaired attention, boredom, confusion, apathy. In the middle, at the peak of the U, is eustress with symptoms focused attention, emotional regulation, rational thinking. At too much stress is distress, with symptoms of impaired memory, burn out, impaired executive functions.">
+            <image mime-type="image/png" src="../../media/Image-12.03_Inverted-U-nature-of-the-stress-response.png"/>
+          </media>
+        </figure>
+
+<para id="para-00021">Notice that there is a point on the curve where performance reaches a peak, where attention gets very focused, rational thinking sharpens and emotional regulation is at its best - an optimal level of stress. This region of <term id="term-00019">positive stress</term> or <term id="term-00020">eustress</term> is defined as stress that is perceived as within an individual’s coping abilities, motivates and focuses energy, may feel exciting, improves performance (Lazarus, 1998), and can protect against future stressors (a phenomenon termed ‘stress inoculation’).</para>
+
+<para id="para-00022">Think about the functions that support the stress response: the sharpening of attention and focus, the increased energy supply in the bloodstream, and something that we didn’t discuss but is also important, the mobilization of immune cells ready to protect against damage. This physiological state means that you’re prepared and ready to tackle a challenge. For example, an upcoming final exam. You need to be focused, energized and cannot afford to get sick. Interestingly, viewing a challenge, for example, a slew of final exams or a tough new project at school or work as a positive thing can result in eustress. The key is not the stressor itself but how we perceive it. If we see it as an opportunity to learn new skills and showcase our abilities, we will feel energized and motivated to tackle it. On the other hand, if we perceive this as an obstacle or something beyond our coping capacity, we will not feel these positive effects of eustress and instead will likely feel signs of distress. Thus, the mindset with which we approach stress can have a significant impact on the outcome.</para>
+
+<para id="para-00023">Finally, reframing stress-induced physiological reactions like a ‘racing’ heart as helpful and adaptive versus harmful has been shown to result in improved cognitive and physiological outcomes during/after a stressor (Jamieson et al., 2012). We will learn more about how stress perception, appraisal and reframing of stress-induced arousal can lead to positive outcomes in <link document="">section 12.4</link>.</para>
+      </section>
+      <section id="sect-00012">
+        <title>Detrimental effects of stress exposure</title>
+        <para id="para-00024">When there is too little or too much stress (<term id="term-00021">negative stress</term> or <term id="term-00022">distress</term>), performance is decreased. With too little stress or stimulation, there might be impaired attention, boredom or even apathy. With too much stress (chronic or traumatic stress exposure), performance declines even further, resulting in impaired memory and executive functions or even burnout. Eventually, this could lead to the development of psychiatric disorders, for example, anxiety, depression, posttraumatic stress disorder (PTSD) or other stress-related pathologies (see <link document="">Ch 13 Emotion &amp; Mood</link>).</para>
+
+<para id="para-00025">An important question, then, is when exactly does stress become detrimental? There is no exact answer because it differs from person to person based on an individual’s genetics, epigenetics, life history, capabilities/resources at the moment the stressor occurs, appraisal of the situation and other factors. All of these vary amongst individuals (interindividual variability) and some factors will vary even for the same person at different times (intraindividual variability). You will learn more about this topic in <link document="">Section 12.4</link>.</para>
+      </section>
+    </section>
+    <note class="in-the-wild" id="note-00001">
+      <title>Status and stress in wild baboons</title>
+      <para id="para-00026">The work of primatologist and neuroscientist Robert Sapolsky examined the effects of stress and social hierarchy on the health and social behavior of a troop of wild baboons in Africa. He found that higher-ranking males had lower levels of stress (lower baseline levels of the stress hormone cortisol) when compared to lower-ranking males, differences that were largely due to better access to resources (food, mates). However, and particularly interesting, was the fact that stress levels were not wholly determined by social rank. For example, an individual´s perception of their social standing and ability to cope with disruptions also had a bearing: higher-ranking baboons could experience stress (significant spikes in cortisol levels) if they were constantly challenged within the troop´s social hierarchy. </para>
+      <para id="para-00027">Sapolsky also found that chronic exposure to stress had negative effects on the health of the baboons. Lower-ranking baboons exposed to chronic stressors (social subordination, lack of access to resources and constant social threat) had compromised immune function, increased rates of illness and were more vulnerable to cardiovascular disease and diabetes.
+      </para>
+      <para id="para-00028">His work served to establish the link between social status, stress and health outcomes which has tremendous impact for understanding the role of socioeconomic status and stress-related health outcomes in humans (e.g., the detrimental impact of poverty on health).</para>
+    </note>
+    <section id="sect-00013">
+      <title>Neuroscience across Species: Methods to study stress</title>
+      <para id="para-00029">To understand the nature, dynamics and outcomes of the stress response, we carry out research in humans and in a variety of animal models, which we will discuss in this section.</para>
+  
+        <section id="sect-00014">
+        <title>Human research on stress</title>
+        <para id="para-00030">Research on the effects of stress in humans is largely correlational - that is, an investigator studies the relationship between two variables (for example, exposure to a traumatic stressor and the development of PTSD), as opposed to actually manipulating one of the variables. In these correlational designs, study participants are typically individuals with extreme exposure to stress or trauma (e.g., individuals that were in a severe car accident, experienced sexual abuse, participated in combat, experienced childhood maltreatment). Researchers use a cross-sectional study design, comparing those who experienced the extreme stressor(s) to a control group with similar demographics in order to understand the effects of stress exposure on different outcome variables. When studying stress-related pathologies, like anxiety, depression or PTSD, study participants will be individuals that meet the clinical criteria for diagnosis of those disorders and controls will be age and sex matched people who do not meet diagnostic criteria.</para>
+        <para id="para-00031">We can also study stress in humans in a laboratory setting where subjects are exposed to a stressful setting, and consequently, a stress response is induced. This design allows for better control over timing. This type of study is not correlational in nature as it involves manipulation of one of the variables, i.e., the stressor. For example, you can induce stress and then measure the dynamics of stress hormone concentration rising, and then resolving to baseline. The most common protocols are tasks that involve public speaking or scenarios that involve unpleasant social interactions. For example, a scenario using a virtual ball game where the study participant is purposely excluded (the ball is not passed to them). A widely used human laboratory stressor which reliably induces a stress response was developed at the University of Trier (Germany). It’s called the Trier Social Stress Test (TSST). It combines elements of anticipatory stress, public speaking and performing mental mathematics before a panel of judges (<link target-id="Image-12.14"/>).</para>
+
+        <figure id="Image-12.14">
+          <media alt="Cartoon of a person sitting in front of a panel of displeased-looking people with a camera, a representation of the TSST, a psychosocial human laboratory stressor that reliably elicits a stress response.">
+            <image mime-type="image/png" src="../../media/Image-12.14_Trier-social-stress-test.png"/>
+          </media>
+          <caption>John Coetzee/Wikimedia Commons, CC BY-SA 3.0</caption>
+        </figure>
+
+        <para id="para-00032">The TSST has been used in dozens of studies. It was used to: 1) map the magnitude and duration of neuronal and hormonal aspects of stress responses, 2) identify between-subject variability in the response, and 3) understand resilience and vulnerability to stress upon first exposure and repeated exposure.</para>
+    </section>
+    <section id="sect-00015">
+      <title>Animal models of stress</title>
+      <para id="para-00033">Animal models enable us to study the molecular, cellular and physiological mechanisms underlying the body’s response to stress. The stress response is conserved throughout evolution, and a similar response can be measured across taxa. This similarity across species has enabled the development of a variety of different <term id="term-00023">animal models</term> (monkeys, apes, chinchillas, mice, rats, fruit-flies, zebrafish) to examine stress-related effects through laboratory interventions and field studies. Lab studies take advantage of the fact that variables like timing and severity of the stressor, as well as environmental conditions (nutrition, type of housing, temperature, humidity, light-dark cycle, etc.) can be controlled. Other advantages to using lab-based models is that the responses to stress can frequently be measured before and after a stressor in the same animal, and genetics and life history of individual animals are controlled for. Most stressors currently in use are social/psychological in nature and reflect the types of stressors most relevant to humans. Rodents are a widely used animal model and the following sections will focus on them. <link target-id="Image-12.26"/> diagrams some of the common stress models in rodents that we will discuss below. </para>
+
+      <figure id="Image-12.26">
+        <media alt="Cartoons of common stress models. Social stress: isolation (mouse in a cage alone) and social defeat (smaller mouse fighting larger mouse then sitting in a cage right next to the bigger mouse. Psychological stressors: restraint (mouse in a close fitting clear tube). Physical stressors: Tail shock (mouse in a tube getting a shock), forced swim (mouse swimming in a cylinder half filled with water).">
+          <image mime-type="image/png" src="../../media/Image-12.26_Stressor-models-in-rodents.png"/>
+        </media>
+      </figure>
+      <section id="sect-00016">
+        <title>Social stress models</title>
+        <para id="para-00034"><emphasis effect="italics">Social isolation:</emphasis> Like humans, rodents are social animals. Thus, social access or social interactions can be manipulated to activate a stress response. Social isolation is a moderate to severe stressor. It can be applied chronically, for example having a mouse live alone in a cage for a certain period of time (months) or grow up in cages where they’re isolated from one another during a developmental period like childhood. Social isolation can also be an effective stressor acutely, e.g., removing a mouse from their home cage for ~24 hours can induce a stress response. Maternal separation is a specific type of social isolation during the developmental period that aims to model early-life adversity or neglect and how that influences stress responsivity throughout life.</para>
+        <para id="para-00035"><emphasis effect="italics">Social defeat:</emphasis> Frequently implemented using a resident-intruder test, social defeat is a severe stressor which uses physical conflict between a smaller mouse (resident) and an older, aggressive, dominant, male mouse (intruder) in order to generate a stress response. After a brief physical confrontation, the smaller mouse is placed in a protective cage where they can still see and smell the intruder mouse, which serves as a further psychological stressor. This interaction repeats for 10-30 days. Social defeat has been used as a model for bullying and depression in humans.</para>
+      </section>
+      <section id="sect-00017">
+        <title>Psychological stress models	</title>
+        <para id="para-00036"><emphasis effect="italics">Immobilization/restraint:</emphasis> In this widely used laboratory stressor, animals are placed in a restraining tube or bag so that they cannot move. It doesn’t physically hurt them but rather serves as a psychological stressor since it prevents any movement or escape. Immobilization can be short (e.g., one 3-hour long session) or longer-term (e.g., 3 hours/day for 28 days) and can thus be used to model both acute and chronic stress. It can also be made more severe/traumatic if it is paired with exposure to predator odor, for example, fox urine or a collar worn by a cat.</para>
+      </section>
+      <section id="sect-00018">
+        <title>Physical stress models </title>
+        <para id="para-00037"><emphasis effect="italics">Tail shock:</emphasis> As the name implies, tail shock stress uses an electrical shock administered to the rodent’s tail. Tail shock is generally used in studies aiming to investigate stress-induced anxiety/depression.</para>
+        <para id="para-00038">,<emphasis effect="italics">Forced swim:</emphasis> Rats or mice are made to swim in a tall cylinder without the possibility of escape for a set duration of time. This stressor can be both a source of stress and an assay for stress-induced changes in behavior that may be relevant to features of depression. During forced swim, an animal will initially try to escape (show a burst of activity) and then become immobile, i.e., make only movements necessary to keep its head above water. Increased immobility is interpreted as a sign of behavioral despair or helplessness.</para>
+      </section>
+      <section id="sect-00019">
+        <title>Validity of animal models for human disease</title>
+        <para id="para-00039">When establishing or utilizing an animal model for the purpose of developing insight relevant to human physiology, we need to ensure that the animal system is a valid model for the human system. Comparing animal models to humans can be especially challenging when we are interested in things like thoughts and feelings (i.e. more abstract functions of the brain). For example, we can determine that a person is depressed by asking them detailed questions and they can report back how/what they are feeling. This is, of course, impossible in a mouse (or other animal). Thus, we need to consider ways to ‘interrogate’ the mouse’s behavior and figure out what aspects are meaningful or mimic the human disorder.</para>
+        <para id="para-00040">When modeling diseases in non-human animals, there are three criteria that must be taken into account for validation: 1) face validity (is the observable behavioral outcome similar to human symptoms; the behavior needs to be a good analog of the human behavior, not necessarily the same behavior), 2) construct validity (does the underlying mechanism reflect the cause of the disease in humans), and 3) predictive validity (are the same treatments effective). To learn more about how we assess animal models of stress-induced depression, see the Feature box on “How do we model depression?”</para>
+      </section>
+    </section>
+  </section>
+  <note class="boxed-feature" id="note-00002">
+    <title>How do we model depression?</title>
+    <para id="para-00041">To model stress-related pathologies, such as anxiety or depression in rodents, selected stressors are generally either psychological or social. In addition, we need behavioral assays that can capture and allow us to quantify different aspects or symptoms of the disorder. Social defeat stress (SDS) is a relevant social/psychological stressor which reliably elicits depressive-like symptoms in rodents.</para>
+    <para id="para-00042">What does depression look like when you’re a mouse? <link target-id="Image-12.27"/> shows several common assays we use for behaviors that we interpret as relevant to core features of depression.</para>
+
+    <figure id="Image-12.27">
+      <media alt="Diagram of behavioral assays for depression. In the sucrose preference test, loss of preference for sugar water versus regular water is interpreted as a sign of anhedonia. Mouse is shown with 2 water bottles to choose from. In the tail suspension test, time spent immobile is interpreted as a sign of behavioral despair. Mouse is shown suspended by its tail from a rod. In the forced swim test, time spent immobile is interpreted as a sign of behavioral despair. Mouse is shown swimming in a cylinder half filled with water.">
+        <image mime-type="image/png" src="../../media/Image-12.27_Depression-assays-in-rodents.png"/>
+      </media>
+    </figure>
+
+    <para id="para-00043">In the sucrose preference test, we measure whether a mouse has lost its preference for sweets (a rewarding treat). Rodents tend to prefer a sweet solution over plain water. Decreased preference for the sucrose solution indicates a loss of interest in pleasurable, rewarding stimuli. This mimics anhedonia - a decreased ability to experience pleasure from activities usually found enjoyable - which is a core symptom of depression in humans.</para>
+    <para id="para-00044">Two additional assays that measure the core depressive-like symptom of behavioral despair in rodents are the forced swim test (FST) and tail suspension test (TST). These 2 tests were both originally developed as screening tools for antidepressant drugs. As described above, the FST measures time spent immobile as an indicator of behavioral despair. In the tail suspension test, a rodent is hung from a tube by its tail 10 cm above the cage floor for a brief period of time. After an initial struggle, the rodent will exhibit periods of immobility which are thought to reflect lack of active escape behavior. In both tests, increased immobility is interpreted as a sign of behavioral despair. Antidepressants shorten this immobility period, showing the key criterion of predictive validity. Notice that the FST and TST are stressors themselves. Thus, you can both induce stress and measure the behavioral response which make them convenient tools for quickly screening drugs. The FST in particular has excellent capacity to detect effective treatments. However, to model a disease, a panel of behavioral assays that measure different aspects of the disorder and capture the widest range of human symptoms should always be utilized. Can you think of any potential limitations in using tests like the FST or TST? How else could one interpret ‘immobility’ in these tests?</para>
+  </note>
+  <section class="section-summary" id="sect-00020">
+    <title>Summary</title>
+    <para id="para-00045"><link url="https://openstax.org/r/Neuro12Summary">Author's summary</link></para>
+    <para id="para-00046">The stress response is a non-specific physiological reaction to any event (stressor) that takes an organism out of homeostatic range. It is necessary for survival and to adapt to challenges. Stressors are classified by type, severity, and duration. The stress response follows an inverted-U pattern: too little or too much stress is deleterious to behavioral performance but there is an optimal level that is beneficial. Research on stress seeks to understand the mechanisms underlying both pathological and salutary effects of stress in humans and is carried out using humans and animal models.</para>
+  </section>
+
+<section class="key-terms" id="sect-00021">
+  <title>Key Terms</title>
+  <list display="inline" id="list-00003">
+<item>Stress</item>
+<item>stressor</item>
+<item>stress response</item>
+<item>allostasis</item>
+<item>stressor type (physical, psychological, social)</item>
+<item>stressor duration (acute, subchronic, chronic)</item>
+<item>stressor severity (mild, moderate, severe/traumatic)</item>
+<item>inverted-U curve</item>
+<item>eustress</item>
+<item>distress</item>
+<item>animal model</item>
+  </list>
+</section>
+
+<section class="references" id="sect-00022">
+  <title>References</title>
+  <para id="para-00047">Dickerson SS, &amp; Kemeny ME. (2004). Acute stressors and cortisol responses: A theoretical integration and synthesis of laboratory research. <emphasis effect="italics">Psychol Bull</emphasis>, <emphasis effect="italics">130</emphasis>, 355-391.</para>
+<para id="para-00048">Jamieson JP, Nock MK, &amp; Mendes WB. (2012). Mind over matter: Reappraising arousal improves cardiovascular and cognitive responses to stress. <emphasis effect="italics">Journal of Experimental Psychology: General</emphasis>, <emphasis effect="italics">141</emphasis>, 417-422.</para>
+<para id="para-00049">Lazarus RS. (1998). From psychological stress to the emotions: A history of changing outlooks. <emphasis effect="italics">Personality: Critical Concepts in Psychology</emphasis>, <emphasis effect="italics">4</emphasis>.</para>
+<para id="para-00050">Roelofs K. (2017). Freeze for action: Neurobiological mechanisms in animal and human freezing. <emphasis effect="italics">Philosophical Transactions of the Royal Society B: Biological Sciences</emphasis>, <emphasis effect="italics">372</emphasis>:20160206.</para>
+<para id="para-00051">Selye H. (1974). <emphasis effect="italics">Stress without distress</emphasis> (1st ed.). Lippincott.</para>
+</section>
+
+
   </content>
 </document>
