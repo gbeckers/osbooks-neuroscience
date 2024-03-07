@@ -65,19 +65,19 @@
     </figure>
 
     </section>
-    <note class="boxed-feature" id="sect-00005">
+    <section id="sect-00005">
     <title>People behind the science: The discovery of olfactory sensory neuron genetics</title>
     <para id="para-00014">We now know that the genes that encode the olfactory receptor proteins are the largest class of G-protein coupled receptors, including hundreds of unique protein types in humans, and over a thousand in rodents! However, the identity and function of these proteins were once a mystery in the field of biology. In 1991, Dr. Linda Buck, then a postdoctoral fellow, was working in the Laboratory of Dr. Richard Axel at New York’s Columbia University. With the help of a then newly developed technology called polymerase chain reaction, she not only solved the mystery of how many receptor types there are in the olfactory system but also demonstrated that they came from a previously unknown superfamily of G-protein coupled receptors (Buck and Axel, 1991). Her discovery revealed the molecular diversity that underlies the peripheral olfactory system and the incredible wiring logic by which the system assembles during development.</para>
     
     <para id="para-00015">This revelation was not only foundational for understanding the olfactory system but also had far-reaching implications across biological domains to fields including drug discovery, gene regulation, and the wiring logic of the brain. In 2004, Drs. Buck and Axel were awarded the Nobel Prize in Physiology or Medicine for their discovery.</para>
-    </note>
-    <note class="developmental-perspective" id="note-00001">
+    </section>
+    <section id="oo-00001">
     <title>OSNs are renewed throughout life</title>
     <para id="para-00016">A special feature of the olfactory system is that, unlike other senses including vision and hearing, olfactory sensory cells are constantly regenerating. In fact, even without specific or acute damage, olfactory sensory cells are constantly turning over. It is speculated that, because the nose draws in numerous potentially damaging agents from the environment (dust, germs, pollution, etc.), frequent turnover of the sensory cells is a mechanism to ensure that the system remains in good working condition.</para>
     
     <para id="para-00017">In the olfactory epithelium, stem cells line the nasal passages and give rise to newly generated sensory neurons that incorporate with the existing circuitry. As you will read below, sensory neurons of a common subtype must find a highly targeted and specific region of the brain to terminate. Exactly how newly regenerated sensory neurons find their way to the olfactory bulb is still a mystery, but some work tells us that the expression of receptor proteins outside of the sensory cilia may play an important role.</para>
     
-    <para id="para-00018">Unfortunately, as we age our body begins to lose its ability to regenerate sensory neurons. This ability is impacted by inflammation, disease, and injury, all of which accumulate as we get older. Because sensory neurons do not replenish with the same regularity, many people begin to lose their sense of smell in old age. In a later section, we will discuss how some well-known diseases affect our sense of smell.</para></note></section>
+    <para id="para-00018">Unfortunately, as we age our body begins to lose its ability to regenerate sensory neurons. This ability is impacted by inflammation, disease, and injury, all of which accumulate as we get older. Because sensory neurons do not replenish with the same regularity, many people begin to lose their sense of smell in old age. In a later section, we will discuss how some well-known diseases affect our sense of smell.</para></section></section>
     <section id="sect-00006">
     <title>Olfactory bulb circuitry</title>
     <para id="para-00019">The <term id="term-00010">olfactory bulb</term> is responsible for the first stages of processing electrical signals as they arrive from the nose. Before arriving in the olfactory bulb, the axons of all sensory neurons that express the same type of receptor protein converge. Once in the bulb, the axons then form a spherical structure of nerve endings, dendrites, and synapses called a <term id="term-00011">glomerulus</term>. Because each glomerulus receives input from only a single type of olfactory sensory neuron, the input to these structures is receptor type specific. A depiction of this concept can be seen in <link target-id="Image-8.21"/>, as neurons of the same color all sending projections that converge in a glomerulus together (green neurons forming green glomerulus, blue neurons forming blue glomerulus). Each odorant activates a subset of olfactory sensory neuron types; therefore, many glomeruli are activated at the same time by a given odor. We can think of this as similar to how letters in the alphabet group together to form words. In this case, each letter represents an activated glomerulus, and their grouping as a word represents the perception of an odor. Importantly, words can be simple or complex depending on the number of letters they contain, just as an odor depending on the number of activated glomeruli.</para>
@@ -141,9 +141,9 @@
     
     <para id="para-00036">The vomeronasal organ is divided into two halves, one on each side of the nasal septum. Like the olfactory epithelium, it contains basal cells, supporting cells, and sensory neurons. The sensory neurons of the vomeronasal organ contain G-protein coupled receptors that are sensitive to specific social compounds depending on the type of receptor protein that they express. The sensory cells of the vomeronasal organ project axons to the dorsal posterior portion of the olfactory bulb where an accessory subdivision is found (<term id="term-00021">accessory olfactory bulb</term>) (<link target-id="Image-8.17"/>). The accessory olfactory bulb contains many of the same cell types as the main olfactory bulb; however, the circuit organization is somewhat different.</para>
     
-    <note class="in-the-lab" id="note-00002"> <title>Sex as a biological variable: Social odor detection in humans</title>
+    <section id="oo-00002"> <title>Neuroscience in the lab. Sex as a biological variable: Social odor detection in humans</title>
     
-    <para id="para-00037">It is quite intuitive how our sense of smell influences our food preferences or even the type of perfume that we like. But can our sense of smell also influence how we interact with other people, and does olfaction play a role in human mate selection as it does in many animal species? A Swiss biologist named Claus Wedekind set out to answer this question in an experiment known as the “sweaty T-shirt study.” In his study, men were asked to wear a t-shirt for two days without bathing. Then, women participants were asked to sniff a hole in a box containing each shirt and rate the shirts as more or less appealing. When the genetic makeup of the men and women was compared, it was revealed that women selected t-shirts from men who had the most divergent genetic sequence for a set of genes called the major histocompatibility complex (MHC) <link document="m00072">Neuroimmunology</link>. MHC genes are part of the adaptive immune system, and in effect, women were selecting men in a way that might boost the fitness of their potential offspring by conferring greater immune selectivity. Although the exact mechanism is still a mystery, MHC genes are speculated to be linked to a body scent that can be detected by the opposite sex, even if subconsciously. Though it might be tempting to think this effect relies on pheromones and the vomeronasal organ, the vomeronasal organ is often absent from the nasal passages in humans. And if one is present, it likely only exists as a vestigial organ. In the case of humans, social odors are detected by the main olfactory system.</para></note>
+    <para id="para-00037">It is quite intuitive how our sense of smell influences our food preferences or even the type of perfume that we like. But can our sense of smell also influence how we interact with other people, and does olfaction play a role in human mate selection as it does in many animal species? A Swiss biologist named Claus Wedekind set out to answer this question in an experiment known as the “sweaty T-shirt study.” In his study, men were asked to wear a t-shirt for two days without bathing. Then, women participants were asked to sniff a hole in a box containing each shirt and rate the shirts as more or less appealing. When the genetic makeup of the men and women was compared, it was revealed that women selected t-shirts from men who had the most divergent genetic sequence for a set of genes called the major histocompatibility complex (MHC) <link document="m00072">Neuroimmunology</link>. MHC genes are part of the adaptive immune system, and in effect, women were selecting men in a way that might boost the fitness of their potential offspring by conferring greater immune selectivity. Although the exact mechanism is still a mystery, MHC genes are speculated to be linked to a body scent that can be detected by the opposite sex, even if subconsciously. Though it might be tempting to think this effect relies on pheromones and the vomeronasal organ, the vomeronasal organ is often absent from the nasal passages in humans. And if one is present, it likely only exists as a vestigial organ. In the case of humans, social odors are detected by the main olfactory system.</para></section>
     </section>
     <section id="sect-00014"><title>The olfactory system and disease</title>
     <para id="para-00038">You might not think that the inability to smell would impact your day-to-day life; however, you would be woefully wrong. Do you remember the jellybean experiment? This would become your reality for every meal. Food would lack depth and your favorite meal would become uninteresting. Earlier, we learned about several animal behaviors that strongly rely on olfaction: navigation, nutrient sensing, and mate selection. Without the ability to smell, an animal’s survival would be at risk. People with the inability to smell are also at a survival disadvantage. People with <term id="term-00022">anosmia</term>, the inability to smell, face a lifetime mortality rate four times higher than the average person (Pinto et al., 2014). These differences arise through difficulties in detecting hazardous circumstances like natural gas leaks, fires, chemical vapors, and decayed food. Unfortunately, for humans, there are several circumstances through which we may lose the ability to smell. These include normal aging, damage from a head injury, and disease. Below, we will discuss two causes of anosmia: neurodegenerative disease and Covid-19.</para>
@@ -216,7 +216,52 @@
 <para id="para-00060">Liu A, Savya S, &amp; Urban NN. (2016). Early odorant exposure increases the number of mitral and tufted cells associated with a single glomerulus. <emphasis effect="italics">J Neurosci</emphasis>, <emphasis effect="italics">36</emphasis>(46), 11646-53.</para>
        </section>
       
-      <section class="multiple-choice" id="sect-00020"><title>Multiple Choice</title> <para id="para-00061">...</para> </section>
-      <section class="fillin-blank" id="sect-00021"><title>Fill in the Blank</title> <para id="para-00062">...</para> </section>
+      <section class="multiple-choice" id="sect-00020"><title>Multiple Choice</title> 
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+      <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-08-03-001"/></para></problem></exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+    <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-08-03-002"/></para></problem></exercise>
+    <exercise id="exer-00003">
+      <problem id="prob-00003">
+  <para id="para-00063"><link class="os-embed" url="#exercise/Neuro-08-03-003"/></para></problem></exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+<para id="para-00064"><link class="os-embed" url="#exercise/Neuro-08-03-004"/></para></problem></exercise>
+<exercise id="exer-00005">
+  <problem id="prob-00005">
+<para id="para-00065"><link class="os-embed" url="#exercise/Neuro-08-03-005"/></para></problem></exercise>
+<exercise id="exer-00006">
+  <problem id="prob-00006">
+<para id="para-00066"><link class="os-embed" url="#exercise/Neuro-08-03-006"/></para></problem></exercise>
+<exercise id="exer-00007">
+  <problem id="prob-00007">
+<para id="para-00067"><link class="os-embed" url="#exercise/Neuro-08-03-007"/></para></problem></exercise>
+<exercise id="exer-00008">
+  <problem id="prob-00008">
+<para id="para-00068"><link class="os-embed" url="#exercise/Neuro-08-03-008"/></para></problem></exercise>
+<exercise id="exer-00009">
+  <problem id="prob-00009">
+<para id="para-00069"><link class="os-embed" url="#exercise/Neuro-08-03-009"/></para></problem></exercise>
+<exercise id="exer-00010">
+  <problem id="prob-00010">
+<para id="para-00070"><link class="os-embed" url="#exercise/Neuro-08-03-010"/></para></problem></exercise>
+<exercise id="exer-00011">
+  <problem id="prob-00011">
+<para id="para-00071"><link class="os-embed" url="#exercise/Neuro-08-03-011"/></para></problem></exercise>
+<exercise id="exer-00012">
+  <problem id="prob-00012">
+<para id="para-00072"><link class="os-embed" url="#exercise/Neuro-08-03-012"/></para></problem></exercise>
+      </section>
+      <section class="fillin-blank" id="sect-00021"><title>Fill in the Blank</title>
+      
+        <exercise id="exer-00013">
+          <problem id="prob-00013">
+      <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-08-03-013"/></para></problem></exercise>
+      <exercise id="exer-00014">
+        <problem id="prob-00014">
+    <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-08-03-014"/></para></problem></exercise>
+      </section>
   </content>
 </document>
