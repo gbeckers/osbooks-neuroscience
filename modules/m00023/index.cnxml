@@ -36,7 +36,7 @@
 <section id="sect-00003">
   <title>Developmental perspective: Vertebrate nervous system development</title>
     <para id="para-00005">Neurodevelopment is a complex and multi-step process that requires a tremendous amount of coordination. Turning on the right genes at the right time is crucial and any missed steps or abnormal development can have catastrophic consequences. 
-        The embryonic development of the vertebrate nervous system begins with the outer tissue of the embryo called the <term id="term-00021">ectoderm</term>. At about 3 weeks in development, the ectoderm begins to thicken and form a flat structure called the <term id="term-00022">neural plate</term>. During the 3rd and 4th week of development, the neural plate begins to invaginate into a groove that eventually closes to form a <term id="term-00023">neural tube</term>. In the initial stages of formation, the neural tube is made up of one layer of cells (epithelial), which serve as the progenitors (embryonic neural stem cells) of glia and neurons. The neural tube elongates to form the spinal cord while the anterior region enlarges and expands to form the brain. Three swellings or bulges eventually become apparent, which become the <term id="term-00024">prosencephalon (forebrain)</term>, <term id="term-00025">mesencephalon (midbrain)</term> and <term id="term-00026">rhombencephalon (hindbrain)</term>. As development progresses, the prosencephalon subdivides into <term id="term-00027">telencephalon</term> and <term id="term-00028">diencephalon</term>. The mesencephalon does not further subdivide. The rhombencephalon becomes the <term id="term-00029">myelencephalon</term> and the <term id="term-00030">metencephalon</term>. The spinal cord forms from the end of the neural tube next to the myelencephalon. By 11 weeks the shape of the human brain is similar to a brain at birth. In the sections that follow, we will discuss the adult structures that derive from the five embryonic regions above (<link target-id="Image-1.28"/>). More details on development can be found later in this text <link document=""></link>. 
+        The embryonic development of the vertebrate nervous system begins with the outer tissue of the embryo called the <term id="term-00021">ectoderm</term>. At about 3 weeks in development, the ectoderm begins to thicken and form a flat structure called the <term id="term-00022">neural plate</term>. During the 3rd and 4th week of development, the neural plate begins to invaginate into a groove that eventually closes to form a <term id="term-00023">neural tube</term>. In the initial stages of formation, the neural tube is made up of one layer of cells (epithelial), which serve as the progenitors (embryonic neural stem cells) of glia and neurons. The neural tube elongates to form the spinal cord while the anterior region enlarges and expands to form the brain. Three swellings or bulges eventually become apparent, which become the <term id="term-00024">prosencephalon (forebrain)</term>, <term id="term-00025">mesencephalon (midbrain)</term> and <term id="term-00026">rhombencephalon (hindbrain)</term>. As development progresses, the prosencephalon subdivides into <term id="term-00027">telencephalon</term> and <term id="term-00028">diencephalon</term>. The mesencephalon does not further subdivide. The rhombencephalon becomes the <term id="term-00029">myelencephalon</term> and the <term id="term-00030">metencephalon</term>. The spinal cord forms from the end of the neural tube next to the myelencephalon. By 11 weeks the shape of the human brain is similar to a brain at birth. In the sections that follow, we will discuss the adult structures that derive from the five embryonic regions above (<link target-id="Image-1.28"/>). More details on development can be found later in this text <link document=""/>. 
     </para>
 <figure id="Image-1.28">
   <media alt="Diagram showing overview of neurodevelopmental steps from formation of neural plate through adult brain. The neural plate is diagrammed as midline tissue that starts flat then invaginates and closes to form the neural tube. Next, the neural tube is shown differentiating into forebrain, midbrain and hindbrain with those divisions further dividing into the 5 major divisions listed in the main text. A sagittal view of the neural tube at this phase shows it starting to curl over on the anterior end to form the brain. The 5 major divisions are shown preserved in the adult brain.">
@@ -109,5 +109,39 @@
         <item>ascending and descending tracts</item>
       </list>
     </section>
+
+<section class="multiple-choice" id="sect-00011">
+  <title>Multiple Choice</title>
+<exercise id="exer-00001"><problem id="prob-00001">
+  <para id="para-00014"><link class="os-embed" url="#exercise/Neuro-01-03-001"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002"><problem id="prob-00002">
+  <para id="para-00015"><link class="os-embed" url="#exercise/Neuro-01-03-002"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003"><problem id="prob-00003">
+  <para id="para-00016"><link class="os-embed" url="#exercise/Neuro-01-03-003"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004"><problem id="prob-00004">
+  <para id="para-00017"><link class="os-embed" url="#exercise/Neuro-01-03-004"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005"><problem id="prob-00005">
+  <para id="para-00018"><link class="os-embed" url="#exercise/Neuro-01-03-005"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="fillin-blank" id="sect-00012">
+  <title>Fill in the Blank</title>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+  <para id="para-00019"><link class="os-embed" url="#exercise/Neuro-01-03-006"/></para>
+</problem>
+</exercise>
+</section>
+
   </content>
 </document>
