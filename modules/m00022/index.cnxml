@@ -6,6 +6,188 @@
     <md:uuid>1b00fcb9-5b9f-456e-916c-6fb3d8db726f</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00002">By the end of this section, students will be able to:</para>
+        <list id="list-00001">
+          <item>Compare the general designs of animal nervous systems.</item>
+          <item>Describe the divisions of the human nervous system and its basic anatomical organization.</item>
+          <item>Describe the basic organization of a simple neural circuit.</item>
+        </list>
+    </section>
+    
+    <para id="para-00001">The ways in which nervous systems across the animal kingdom are organized are both different and extremely similar. The section below will highlight some of the differences between vertebrates and invertebrates, for example, and then shift to a more detailed discussion of vertebrate organization. All vertebrate (mammals, birds, reptiles, amphibians and fish) brains have the same basic number of brain divisions. This section will focus on understanding this basic organizational theme, with a focus on the human nervous system.</para>
+
+  <section id="sect-00002"><title>Neuroscience across species: neural nets, ganglia and centralized brains</title>
+  <para id="para-00003">All multicellular organisms with the exception of sponges have neurons and nervous systems, albeit varying in structure and complexity. Large differences are observed between animals with or without a backbone (vertebrates vs. invertebrates). Two general principles in nervous system organization across the animal kingdom include: 
+    <term id="term-00002">neural nets</term> and <term id="term-00003">ganglia</term> (<link target-id="Image-1.26"/>). </para>
+<figure id="Image-1.26">
+  <media alt="Three illustrations. 1) The nerve net of a hydra, which resembles a fish net surrounding the body. The hydra is plant like, with a trunk and tentacle like extensions at the top of the trunk.  2) The nervous system of a planarian, or flatworm. The flatworm has centralized ganglia, or brains, around each eye in the anterior end, and two nerve cords that run along the sides of the body. Transverse nerves connect the nerve cords together. 3) The nervous system of a human, which consists of a central nervous system composed of the brain and spinal cord, and a peripheral nervous system composed of the nerves running into the rest of the body. Image credit: Image credits: Image modified (cropped, text added) from OpenStax Biology 2e, sect 35.1: Neurons and glial cells; credit Human, modification of work by NIH.">
+    <image mime-type="image/png" src="../../media/Image-1.26_Diversity-of-the-nervous-system.png"/>
+  </media>
+</figure>
+<para id="para-00004">Cnidaria (includes hydra, corals, jellyfish, and anemones) have neural nets. These are the simplest, and considered evolutionarily the oldest, form of nervous system organization. We can describe them as mesh-like systems of separate, yet interconnected neurons (not clustered into nerves or centralized). Nerve nets can be diffuse or can be connected to each other via long nerve cords, as in the case of flatworms. Nerves are defined as bundles of fibers (axons) that transmit information.</para>
+<para id="para-00005"><term id="term-00001">Nerve cords</term> can be arranged in a ladder-like conformation and connected to ganglia. Ganglia are structures that contain collections of neuronal cell bodies and are found in animals above the level of the phylum Cnidaria, such as flatworms. Many invertebrates actually have more than one ganglia, each with specific functions, such as control of different muscles or, in the case of earthworms, different body segments. Often there is a cerebral ganglion which serves a more coordinative role. In contrast, vertebrates have a spinal cord encased in vertebral bones. The spinal cord runs along their back and most of the nervous system that is important for complex behavior is centralized and concentrated in a brain located in the head.</para></section>
+<section id="sect-00003"><title>Animal symmetry</title><para id="para-00006">Humans and many other animals, including other vertebrates and some invertebrates, have bilateral body plans meaning that the left and right sides of the body are mirror images. Other animals like jellyfish and sea stars are arranged centrally around a gastrointestinal core. This is called radial symmetry. While bilateral organisms often have one nerve cord and centralized ganglia or a brain that controls both sides of the body, radially symmetrical organisms lack a central brain and have radial nerves (sea star) or nerve nets (hydra) (<link target-id="Image-1.26"/> and <link target-id="Image-1.27"/>).</para>
+<figure id="Image-1.27">
+  <media alt="Illustrations of organisms showing bilateral symmetry (fruit fly, axolotl, planarian, human) with a vertical line symmetrically bisecting their bodies and organisms showing radial symmetry (jellyfish, starfish) with lines of symmetry radiating from a central point in the middle of the body.">
+    <image mime-type="image/png" src="../../media/Image-1.27_Radial-vs-bilateral-symmetry.png"/>
+  </media>
+</figure></section>
+<section id="sect-00004"><title>Centralization and cephalization</title>
+  <para id="para-00007">Nervous systems of animals with bilateral symmetry exhibit centralization and cephalization. Centralization refers to a nervous system organization where neurons are consolidated into specific areas of integration rather than just being randomly arranged throughout the body. Cephalization refers to the concentration of the nervous system at the anterior part of the body or the head. Flatworms, considered one of the simplest organisms with bilateral symmetry, exhibit both centralization and cephalization, having ganglia at the anterior end of their body (<link target-id="Image-1.26"/>). All vertebrate nervous systems contain a central nervous system, CNS (brain and spinal cord) and a peripheral nervous system, PNS (peripheral motor and sensory nerves).</para></section>
+<section id="sect-00005"><title>The basic organization and structure of the vertebrate nervous system</title>
+  <para id="para-00008">The human nervous system shares the same basic plan found in all vertebrates and we humans are not unique in our brain organization. The human brain is a vertebrate brain and basically a large primate brain. Our nervous system can be divided according to anatomical structures and/or functional regions. This section will introduce the CNS and PNS and highlight some important features of the two systems (<link target-id="Image-1.10"/>).</para>
+<figure id="Image-1.10">
+  <media alt="Alt text: Diagrams of the central nervous system of a human, rodent and fish, all of which show a brain with spinal cord descending from the back of the brain. A diagram of the peripheral spinal nerves of a human is also shown to represent the peripheral nervous system which is composed of the neurons and glia outside the central nervous system.">
+    <image mime-type="image/png" src="../../media/Image-1.10_Vertebrate-nervous-system-general-structure.png"/>
+  </media>
+</figure></section>
+<section id="sect-00006"><title>CNS and PNS</title>
+  <para id="para-00009">The human nervous system, like other vertebrate nervous systems, is organized into the central nervous system (CNS), which is composed of the brain and spinal cord, and peripheral nervous system (PNS), which includes all <term id="term-00004">nerves</term> and ganglia outside of the spinal cord and brain. Groups of neurons are segregated into <term id="term-00005">nuclei</term> in the CNS and <term id="term-00006">ganglia</term> in the PNS. Axon bundles are called <term id="term-00007">nerves</term> in the PNS and <term id="term-00008">tracts</term> in the CNS (<link target-id="Image-1.11"/>). Ascending tracts take information to the brain and descending tracts away from the brain. Vertebrate nervous systems are highly centralized with higher neural functions like memory, learning, perception and movement carried out within the brain. The spinal cord sends sensory information to the brain and conveys motor commands from the brain to the entire body. In addition, there are circuits found in the spinal cord that perform local processing and allow for simple behaviors such as reflexes to occur without the direct involvement of the brain. The spinal cord also contains central pattern generator circuitry that allows for rhythmic behavior such as walking <link document="m00017">Motor Control</link>. The PNS is responsible for carrying messages between the CNS and all body parts, including muscles, organs, and the body periphery in general. A more detailed discussion of the CNS and PNS can be found below.</para>
+  <figure id="Image-1.11">
+  <media alt="Three part diagram. 1) Diagram of a human brain and spinal cord, with cross sections shown with gray matter and white matter labeled. In the brain, gray matter is exterior and white matter is interior. In the spinal cord, this arrangement is switched. 2) Tracts and nerves: diagram showing directional arrows to represent ascending tracts or bundles of axons (into the brain) and descending tracts (away from the brain) in the CNS plus a diagram of human spinal nerves (which are bundles of axons). 3) Nuclei and ganglia: Diagram of sensory ganglia in the dorsal spinal nerve as a bulge in the nerves leaving a cross-section of spinal cord; this is an example of peripheral collection of cell bodies or ganglia. Diagram of human hypothalamus with many circles show to represent clusters of cell bodies known as nuclei in the CNS.">
+    <image mime-type="image/png" src="../../media/Image-1.11_Nervous-system-basics.png"/>
+  </media>
+</figure></section>
+<section id="sect-00007"><title>Gray and white matter</title>
+  <para id="para-00010">The nervous system is made up of <term id="term-00009">gray</term> and <term id="term-00010">white matter</term> (<link target-id="Image-1.11"/>). This terminology refers to gross histological distinctions. Gray matter named for its pinkish-gray color has a high concentration of neuronal cell bodies, dendrites and axons that are not myelinated, while the white matter is composed of axon fibers covered in myelin, giving it its whitish color. Gray matter is found in the outermost layer of the brain and centrally within the spinal cord. White matter is in the deeper tissues of the brain and surrounds the gray matter in the spinal cord.</para></section>
+  <section id="sect-00008"><title>Meninges</title>
+    <para id="para-00011">The CNS is covered in bone. A skull encases the brain while the spinal cord is housed in a collection of 33 small bones called vertebrae. Between the boney layer and the nervous tissue of the CNS, there are layers of cushiony tissue called the <term id="term-00011">meninges</term>. The three layers of the meninges are <term id="term-00012">dura mater</term>, <term id="term-00013">arachnoid</term> and <term id="term-00014">pia mater</term>. The dura mater layer is found directly against the skull and vertebrae, and is the thickest of the three meninges. (<link target-id="Image-1.14.2"/>)</para>
+  <figure id="Image-1.14.2">
+  <media alt="Diagram of the meninges with pia mater closely following the contours of the human brain. Exterior to that is subarachnoid space filled with blood vessels, enclosed above by arachnoid mater. Dura mater is the thickest layer, abutting the arachnoid mater interior and skull to the exterior. A zoom in shows the arachnoid space draining via arachnoid villus into a venous sinus.">
+    <image mime-type="image/png" src="../../media/Image-1.14.2_Meninges.png"/>
+  </media>
+</figure></section>
+<section id="sect-00009"><title>Ventricles</title>
+  <para id="para-00012">Ventricles are interconnected cavities or open spaces located in the brain and spinal cord that contain <term id="term-00015">cerebrospinal fluid (CSF)</term>. They serve two main functions: 1) to cushion the brain and 2) to allow exchange of materials between the brain and blood vessels. CSF is produced by the choroid plexus, a tissue rich in blood vessels found in the lining of the ventricles. It is a clear liquid, essentially filtered blood. Spinal taps are medical procedures to remove a small amount of CSF to test for medical conditions or infections in the brain. The ventricular system is composed of 4 <term id="term-00016">ventricles</term> and an <term id="term-00017">aqueduct</term> (<link target-id="Image-1.14.1"/>). Think of the ventricles as being similar to the great lakes: independent bodies of water but connected by rivers (aqueduct). The 2 large <term id="term-00018">lateral ventricles</term> in each cerebral hemisphere (left and right) connect to a <term id="term-00019">third ventricle</term> (in the diencephalon) which opens into the <term id="term-00020">cerebral aqueduct</term> (in the midbrain) and a <term id="term-00021">fourth ventricle</term> (in the hindbrain). The fourth ventricle extends to the <term id="term-00022">central canal</term> which is filled with CSF and runs across the spinal cord. CSF fills the ventricular system and circulates over the brain and spinal cord. It flows through the subarachnoid space and exits through the <term id="term-00023">arachnoid villi</term> into <term id="term-00024">venous sinuses</term>, a group of blood channels found throughout the brain. Eventually CSF is reabsorbed into the circulatory system. CSF is also found surrounding the brain below the arachnoid membrane called the subarachnoid space. (<link target-id="Image-1.14.1"/>)
+</para>
+<figure id="Image-1.14.1">
+  <media alt="Diagrams of the ventricular system with one-way, directional flow of CSF shown. Flow goes from bilateral lateral ventricles into central third ventricle into central fourth ventricle then central canal of the spinal cord. Emptying through dural venous sinuses stated but not shown.">
+    <image mime-type="image/png" src="../../media/Image-1.14.1_CSF.png"/>
+  </media>
+</figure></section>
+<section id="sect-00010"><title>Vascular system of the brain</title>
+  <para id="para-00013">The human brain requires a disproportionate amount of energy in the form of ATP to function properly. ATP production requires oxygen, which is supplied by a constantly circulating blood supply. As a result, the brain has a complex system of blood vessels. Three main arteries (<term id="term-00025">anterior, middle and posterior cerebral</term>) are the main suppliers of blood to the cerebral hemispheres. The anterior and middle arteries arise from the carotid arteries on the left and right sides of the neck. The <term id="term-00026">vertebral arteries</term> run through the spinal column in the neck to provide blood to the brain and spinal cord, and give rise to the <term id="term-00027">basilar artery</term>. There are many vessels and capillaries that branch off from the main arteries delivering nutrients and removing waste (<link target-id="Image-1.47"/>). The endothelial cells that form the walls of brain capillaries are extremely well connected to each other and form the blood-brain barrier (BBB), which we discussed in the previous section (<link target-id=""/>). This serves as a layer of protection not found in other organs that prevents the flow of some substances like toxins or drugs and also protects against infections.
+</para>
+<figure id="Image-1.47">
+  <media alt="Top show illustration of human head and torso with heart and major vessels heading towards brain. Vertebral arteries ascend into brain from the midline and join to form the basilar artery just beneath the brain while carotid arteries enter laterally. Cerebral arteries are shown branching from the center of the brain towards the sides. Bottom illustrations show lateral midline and surface views with major blood vessels labeled. Middle cerebral artery is only visible along the middle lateral surface of the brain. Carotid artery enters bottom of brain ventrally while basilar artery enters dorsally at midline. Posterior cerebral arteries spread from ventral midline of brain towards back of brain. Anterior cerebral artery spreads from ventral midline to front of brain. Image credit: Torso has labels added, original by Laboratoires Servier - Smart Servier website: Cardiovascular system, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=127936249">
+    <image mime-type="image/png" src="../../media/Image-1.47_Brain-vasculature.png"/>
+  </media>
+</figure></section>
+<section id="sect-00011"><title>Neural circuits</title>
+  <para id="para-00014">Neurons do not function independently. Rather, neurons are organized into simple or complex functional arrangements called <term id="term-00028">neural circuits</term>. A neural circuit represents a group of neurons connected by synapses that process specific types of information. Circuits range from very simple to exceptionally complex. One of the big challenges in modern neuroscience is to understand the complex ways in which circuits are built and function. Large scientific efforts are focusing on the enormous task of building detailed maps of brain circuitry. In this section, we will explore the basic building blocks and functionality of a simple circuit and introduce you to the research focused on more complex circuitry.</para>
+</section>
+<section id="sect-00012">
+<title>Basic building blocks of neural circuits</title>
+<para id="para-00015">While neural circuits vary in function, anatomic arrangements and complexity, we can establish some basic principles. As introduced in <link document="m00021">Building a nervous system</link>, afferent (sensory) neurons carry information about the inside of the body and external environment to the brain or spinal cord while efferent (motor) neurons carry information from other neurons away from the brain/spinal cord or specific circuit. Interneurons serve as a bridge between other neurons and are found in the CNS. They are local circuit neurons that make intra-circuit connections and can act as regulators or adjustors to the circuit. (<link target-id="Image-1.51"/>)</para>
+<figure id="Image-1.51">
+  <media alt="Alt text: Diagram of a cross-section of spinal cord. Incoming, sensory (afferent) neuron is shown with input terminal in a piece of skin, cell body in dorsal root ganglia and axon terminals synapsing on interneuron and efferent motor neuron in the ventral gray matter of the cord. Efferent motor neuron with cell body in the ventral gray matter sends an axon out to a skeletal muscle.">
+    <image mime-type="image/png" src="../../media/Image-1.51_Afferent,-efferent-and-interneurons.png"/>
+  </media>
+</figure>
+</section>
+<section id="sect-00013"><title>Simple human circuit example</title>
+<para id="para-00016">A <term id="term-00029">reflex arc</term> is a simple neuronal circuit that controls a reflex beginning with a sensory neuron at a receptor (for example, pain receptors on a finger) and ending with a motor neuron at an effector, like a muscle. Reflex arcs are important for the generation of fast reactions to external stimuli such as accidentally placing your finger into an open flame or on a hot surface. Reflex actions are essential to the survival of organisms. To prevent bodily damage, a movement or response that is almost instantaneous and involuntary is required.</para>
+<para id="para-00017">In a reflex arc, the sensory neurons do not pass information directly to the brain but rather information travels to the spinal cord, which, in turn, causes direct activation of spinal motor neurons. These neurons can then activate muscles that allow your hand to move away from the hot surface. Of course, information about such an event must eventually get to the brain to allow learning and future avoidance. Another example of a simple human circuit is the knee-jerk reflex (<link target-id="Image-1.31"/>), which allows for involuntary movement of the leg in response to a sharp tap to the tendon below the knee cap. The knee-jerk reflex is an example of a reflex pathway that is both excitatory and inhibitory (once the extensor muscle on the thigh contracts, the flexor muscle on the back of the thigh must relax). Stimulation of stretch receptors via the tap leads to afferent sensory neuron(s) activation, which in turn synapses either onto interneurons or directly onto efferent motor neurons that cause contraction of the extensor muscles. The interneuron serves to inhibit the motor neurons that connect to flexor muscles which keeps the flexor muscle relaxed. This combined action leads to leg extension (<link target-id="Image-1.31"/>). This reflex prevents knee collapse in the event of a sudden leg bend.</para>
+<figure id="Image-1.31">
+  <media alt="Diagram of a cross-section of spinal cord with input/output connected to a cartoon of a person sitting in a chair with feet on the floor. Incoming, sensory (afferent) neuron is shown with input terminal in the person’s quadricep, cell body in dorsal root ganglia and axon terminals synapsing on an efferent motor neuron in the ventral gray matter of the cord that sends an axon out to a skeletal muscle in the quadriceps. The knee-jerk reflex described in the main text is implied by a hammer on the patella and outline of a leg swinging out.">
+    <image mime-type="image/png" src="../../media/Image-1.31_Simple-circuit-example.png"/>
+  </media>
+</figure></section>
+<section id="sect-00014">
+<note class="boxed-feature" id="note-00001">
+  <title>Mapping complex brain circuits</title>
+  <para id="para-00018">A major goal in Neuroscience is the mapping of complex neural circuits in the human brain. Because the human brain is exceptionally complex with its 86 billion neurons, each communicating with hundreds or even thousands of other neurons, this is an extremely difficult endeavor. Scientists hope to one day complete the task of mapping the human brain connectome (a comprehensive map of neuronal connections in the brain akin to a wiring diagram). In the meantime, neuroscientists have been using simple animals like worms and flies to develop wiring maps that can provide clues to how brains work in general. Presently, two comprehensive wiring diagrams have been published: the roundworm (C. elegans) nervous system which a very small number of neurons (302 neurons and 7000 connections) and most recently the entire brain of a fruit fly larva (D. melanogaster), comprising 3016 neurons and 548,000 connections.</para>
+  <para id="para-00019">There are several large, international, ongoing human mapping projects. These include the Human Connectome Project started in 2009 whose aim was to build a healthy human brain connectome and develop connectomes related to human disease. Building onto the Human Connectome Project, the BRAIN Initiative was started in 2013 with the aim of producing a dynamic picture of the brain which would map individual brain cells and the circuits that they take part in both time and space. The goal with such large projects and initiatives is to provide a deeper understanding of brain function and as a result develop new treatments for brain disorders. In 2021, the BRAIN initiative unveiled a detailed atlas of a small brain region, the mammalian primary motor cortex, derived from studies in mice, monkeys and humans.</para>
+</note>
+</section>
+<section class="section-summary" id="sect-00015">
+  <title>Summary</title>
+  <para id="para-00020">Nervous systems vary across the animal kingdom in design and complexity. From neural nets to ganglia to centralized brains, there is a great deal of diversity. At the same time, due to evolution, all nervous systems share fundamental similarities. The human nervous system is a typical vertebrate system divided into a peripheral and central nervous system. Both are composed of white (myelinated axons) and gray matter (neuron cell bodies, dendrites and unmyelinated axons). Neurons do not operate in isolation but rather interact with each other in neural circuits that can vary in complexity. Neuroscientists have been working to understand the neural circuitry found in nervous systems by developing wiring maps or connectomes. There are several large circuit mapping projects underway seeking to map the human brain.</para>
+</section>
+<section class="key-terms" id="sect-00017">
+  <title>Key Terms</title>
+  <list display="inline" id="list-00002">
+<item>neural nets</item>
+<item>ganglia</item>
+<item>bilateral</item>
+<item>radial symmetry</item>
+<item>centralization</item>
+<item>cephalization</item>
+<item>central nervous system (CNS)</item>
+<item>peripheral nervous system (PNS)</item>
+<item>nerves</item>
+<item>nuclei</item>
+<item>tracts</item>
+<item>gray matter</item>
+<item>white matter</item>
+<item>meninges</item>
+<item>dura mater</item>
+<item>arachnoid</item>
+<item>pia mater</item>
+<item>cerebrospinal fluid</item>
+<item>lateral ventricles</item>
+<item>third and fourth ventricles</item>
+<item>central canal</item>
+<item>cerebral aqueduct</item>
+<item>arachnoid villi</item>
+<item>venous sinuses</item>
+<item>anterior cerebral</item>
+<item>middle, cerebral and posterior cerebral arteries</item>
+<item>basilar artery</item>
+<item>vertebral artery</item>
+<item>blood-brain barrier</item>
+<item>neural circuit</item>
+  </list>
+</section>
+
+<section class="multiple-choice" id="sect-00018">
+  <title>Multiple Choice</title>
+<exercise id="exer-00001"><problem id="prob-00001">
+  <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-01-02-001"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002"><problem id="prob-00002">
+  <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-01-02-002"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003"><problem id="prob-00003">
+  <para id="para-00028"><link class="os-embed" url="#exercise/Neuro-01-02-003"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004"><problem id="prob-00004">
+  <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-01-02-004"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005"><problem id="prob-00005">
+  <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-01-02-005"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006"><problem id="prob-00006">
+  <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-01-02-006"/></para>
+</problem>
+</exercise>
+</section>
+
+
+<section class="fillin-blank" id="sect-00019">
+  <title>Fill in the Blank</title>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00032"><link class="os-embed" url="#exercise/Neuro-01-02-007"/></para>
+</problem>
+</exercise>
+</section>
+
+  <section class="references" id="sect-00016">
+    <title>References</title>
+    
+    <para id="para-00021">Cook, S.J., Jarrell, T.A., Brittin, C.A., Wang, Y., Bloniarz, A.E., Yakovlev, M.A., Nguyen, K.C.Q., Tang, L.T.-H., Bayer, E.A., Duerr, J.S., Bülow, H.E., Hobert, O., Hall, D.H., &amp; Emmons, S.W. (2019). Whole-animal connectomes of both <emphasis effect="italics">Caenorhabditis elegans</emphasis> sexes. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">571</emphasis>, 63–71.</para>
+    <para id="para-00022">Martinez, P., &amp; Sprecher, S.G. (2020). Of Circuits and Brains: The Origin and Diversification of Neural Architectures. <emphasis effect="italics">Front Ecol Evol</emphasis>, <emphasis effect="italics">8</emphasis>, 82.</para>
+    <para id="para-00023">Moreno-Camacho, C.A., Montoya-Torres, J.R., Jaegler, A., &amp; Gondran, N. (2019). Sustainability metrics for real case applications of the supply chain network design problem: A systematic literature review. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">231</emphasis>, 600–618.</para>
+    <para id="para-00024">Winding, M., et al. (2023). The connectome of an insect brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">379</emphasis>, eadd9330.</para>
+    <para id="para-00025">NIH. (2021). NIH BRAIN Initiative Unveils Detailed Atlas of the Mammalian Primary Motor Cortex. National Institutes of Health (NIH). Available at: https://www.nih.gov/news-events/news-releases/nih-brain-initiative-unveils-detailed-atlas-mammalian-primary-motor-cortex.</para>
+  </section>
   </content>
 </document>

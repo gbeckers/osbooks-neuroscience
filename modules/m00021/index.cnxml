@@ -1,27 +1,219 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Building A Nervous System</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:null="http://katalysteducation.org/cxlxt/1.0">
+  <title>Building a Nervous System</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Building A Nervous System</md:title>
+    <md:title>Building a Nervous System</md:title>
     <md:content-id>m00021</md:content-id>
     <md:uuid>4f269268-1ae8-45f1-abdb-fef881ba9696</md:uuid>
   </metadata>
   <content>
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
-      <para id="para-00001">By the end of this section you should be able to:</para>
+      <para id="para-00001">By the end of this section, students will be able to:</para>
         <list id="list-00001">
           <item>Describe the similarities and differences between neurons, glia, and all eukaryotic cells.</item>
           <item>Name and describe the functional specializations of a neuron.</item>
           <item>Describe the different types of glia and their function.</item>
         </list>
     </section>
-      <para id="para-00002">Across the animal kingdom, nervous systems are constructed using the same basic cell types: neurons and in most cases glia. Although neurons and glia come in different shapes and sizes, they share the fundamental features of all eukaryotic cells. In this section, we will explore how nervous system cells are both similar and different from other cells.</para>
+    
+      <para id="para-00002">Across the animal kingdom, nervous systems are constructed using the same basic cell types: <term id="term-00004">neurons</term> and in most cases <term id="term-00005">glia</term>. Although neurons and glia come in different shapes and sizes, they share the fundamental features of all eukaryotic cells. In this section, we will explore how nervous system cells are both similar and different from other cells.</para>
    
     <section id="sect-00002"><title>Brain cells are eukaryotic cells</title>
-    <para id="para-00003">The first cell is thought to have arisen on earth at least 3.8 billion years ago. Today we classify cellular life into three domains, Bacteria, Archaea and Eukarya. All cells on this planet contain a barrier to the outside world called a cell membrane and genetic material (DNA). However, unlike prokaryotic cells, which are members of the Bacteria and Archaea Domains, eukaryotic cells belong to the Eukarya Domain which has as its major cellular feature membrane-bound organelles. Membrane-bound organelles allow for functional compartmentalization and specialization. DNA is segregated in the nucleus where it is copied (via a process called replication) and/or converted into mRNA (messenger RNA). Once converted (transcribed) into mRNA, this material exits the nucleus. It is outside of the nucleus that the translation of mRNA to protein occurs in eukaryotic cells Image 1.01.</para>
-  </section>
-  
-    
+    <para id="para-00003">The first cell is thought to have arisen on earth at least 3.8 billion years ago. Today we classify cellular life into three domains, Bacteria, Archaea and Eukarya. All cells on this planet contain a barrier to the outside world called a cell membrane and genetic material (<term id="term-00006">DNA</term>). However, unlike prokaryotic cells, which are members of the Bacteria and Archaea Domains, eukaryotic cells belong to the Eukarya Domain which has as its major cellular feature membrane-bound organelles. Membrane-bound organelles allow for functional compartmentalization and specialization. DNA is segregated in the nucleus where it is copied (via a process called replication) and/or converted into mRNA (messenger RNA). Once converted (transcribed) into mRNA, this material exits the nucleus. It is outside of the nucleus that the translation of mRNA to protein occurs in eukaryotic cells <link target-id="Image-1.01"/>.</para>
+  <figure id="Image-1.01">
+  <media alt="Diagram of intracellular compartment showing steps of transduction and translation described in the main text.">
+    <image mime-type="image/png" src="../../media/Image-1.01_Central-dogma.png"/>
+  </media>
+</figure>
+    <para id="para-00004">Brain cells, neurons and glia, also adhere to the characteristics specified above and are fundamentally just eukaryotic cells. However, neurons have additional features that make them uniquely specialized for communication, a feature which defines nervous systems. Before we get into the specifics of neurons and glia, let us establish a few fundamentals of eukaryotic cells.</para>
+    <para id="para-00005"><title>Introduction to the central dogma: cell identity is determined by gene expression</title></para>
+    <para id="para-00006">The human body is thought to consist of trillions of cells. Because a single fertilized egg gives rise to all the cells in the adult body, every cell within an organism contains basically the same unique DNA genome. Yet, the human body is not made of identical cells. Depending on the organ system, cells differ in their shape, size, function, and modes of interaction. What makes a heart or liver cell different from a brain cell is not the DNA contained in its nucleus, which is identical in both. Rather, the difference is due to the selective process of transcription of DNA into RNA. Which parts of the DNA are read, and by extension which parts of the DNA are excluded, is the first step in making proteins. The chosen regions of DNA are transcribed into mRNA and translated into specific proteins.</para>
+    <para id="para-00007">One way to envision the genome is as a comprehensive cookbook containing all the written instructions of life and found in every cell. However, only certain recipes (DNA parts called genes) are chosen to ultimately be cooked (proteins) in different kitchens (different cells). Cell identity therefore arises from cell-specific gene choices. This is called gene regulation and is controlled by both intrinsic (within cells) and extrinsic factors (the environment that the cell matures in). For example, a neuron may require a specific channel protein that allows electrical communication while a pancreatic cell requires the expression of an insulin gene to regulate glucose levels in our body. Furthermore, different types of neurons found in different brain regions require different proteins to produce unique chemical messages known as <term id="term-00001">neurotransmitters</term> (e.g. dopamine versus acetylcholine). Proteins do all the work in our cells. This information flow of DNA to RNA to protein is called the central dogma Image 1.01. The central dogma is universal and is a feature of all living cells on our planet: DNA is transcribed into RNA which can be translated into proteins. The process of translation is facilitated by <term id="term-00002">ribosomes</term> which are large macromolecular complexes found floating inside cells or attached to organelles like the <term id="term-00003">endoplasmic reticulum</term> (see below). </para></section>
+  <section id="sect-00003"><title>Organelles: carry out functions of cells</title>
+  <para id="para-00008">Brain cells, like all eukaryotic cells contain a complement of organelles necessary for the proper cell function. This includes a nucleus (houses the DNA), endoplasmic reticulum, Golgi apparatus, lysosomes, mitochondria and a few others (<link target-id="Image-1.02"/>). Cells store genetic material in their nucleus, transport materials across the cell membrane and within the cell, produce energy in the form of ATP, breakdown and build macromolecules, and communicate and interact with other cells. Organelles serve in these multiple functional roles. Of notable importance are the mitochondria, which facilitate most of the processes of cellular respiration that produce ATP. While the human brain only takes up about 2% of body mass, it uses about ~25% of daily energy production. Neurons can have up to 2 million mitochondria each and thus have the capability to produce a large amount of ATP. This high ATP demand is needed for the basic function of neurons and the communication between neurons <link document="m00011">Neurophysiology</link>.
+  </para>
+ <figure id="Image-1.02">
+  <media alt="Diagram of a typical eukaryotic cell showing the organelles: mitochondrion, lysosome, plasma membrane, DNA, nucleus, ribosome, endoplasmic reticulum, Golgi apparatus.">
+    <image mime-type="image/png" src="../../media/Image-1.02_Eukaryotic-cell.png"/>
+  </media>
+</figure></section>
+<section id="sect-00004"><title>Neurons</title>
+<para id="para-00009">The human brain is made up of ~86 billion neurons. Neurons are highly specialized for communication that occurs via electrical and chemical signals. With some exceptions, neurons have special structural features that branch from the cell body (soma), called axons and dendrites. (<link target-id="Image-1.50"/>). Functionally, neurons receive and integrate signals, and send information in both electrical and chemical forms. Neurons communicate with their partners at regions called synapses.</para>
+<figure id="Image-1.50">
+  <media alt="Diagram of two neurons, with the axon terminal of one synapsing on the dendrites of another. Dendrites and a single axon extend form the soma of each neuron. Direction of communication is shown as from dendrites towards axon.">
+    <image mime-type="image/png" src="../../media/Image-1.50_Basic-neuronal-structure.png"/>
+  </media>
+</figure>
+<para id="para-00010">Neurons come in many shapes and sizes. When asked to describe a neuron, most students would draw a multipolar neuron containing one axon and several dendrites branching from the cell body (for example a motor neuron). This is the classic depiction found in the popular press and many biology texts. However, the nervous system contains other neuronal varieties, including bipolar neurons (two processes jetting off from the cell body; one dendrite and one axon; olfactory (smell) neuron being an example) and unipolar neurons (a single process from the cell body; dendrite and axon are continuous; often used for sending sensory information) (<link target-id="Image-1.07"/>). Neuronal shape can inform function. For example, bipolar neurons are uniquely suited for providing a pathway between input and outputs in the visual system. Therefore, neuron structure informs function.</para>
+<figure id="Image-1.07">
+  <media alt="Diagrams of multipolar, bipolar and unipolar neurons which match the descriptions in the main text in terms of morphology. Two neurons of each type are shown to emphasize heterogeneity within type.">
+    <image mime-type="image/png" src="../../media/Image-1.07_Neuron-heterogeneity.png"/>
+  </media>
+</figure>
+<para id="para-00011">Neuroscientists have used many lenses for classifying neurons, grouping them by size, shape, or the connections they make (e.g. whether those connections have predominantly inhibitory or excitatory effects). For example, afferent neurons (e.g., sensory neurons) carry messages towards the central nervous system (CNS). Efferent neurons (e.g., motor neurons) carry messages away from the CNS. Interneurons allow communication within the nervous system and are located between sensory and motor neurons. Classification of neurons remains difficult, though in part because they are so dynamic. Huge efforts are underway to catalog all the different types of neurons in the brain</para>
+<para id="para-00012">Whatever their morphology or function, neurons have all the typical eukaryotic organelles (Image 1.02), all of which are found in the cell body, called the soma (<link target-id="Image-1.05"/>). Below, we will discuss in more detail the unique cellular features of neurons, using a common multipolar neuron depiction to help visualize them.</para>
+<figure id="Image-1.05">
+  <media alt="Diagram of a multipolar neuron showing the organelles in the soma and the dendrites, axon and soma as described in the main text.">
+    <image mime-type="image/png" src="../../media/Image-1.05_Parts-of-a-neuron.png"/>
+  </media>
+</figure></section>
+<section id="sect-00005"><title>Dendrites</title>
+<para id="para-00013">Dendrites are branches/processes that extend from the cell bodies (or soma) of most neurons. The word dendrite comes from Greek and means tree. We often talk about neurons having tree-like branching, arborization (also a tree analogy). (Image 1.49). Functionally, dendrites are specialized for receiving information at a synapse and transferring that information toward the cell body. Dendritic branching can be extensive or can be more minimal depending on the type of neuron. In some animal nervous systems, dendrites are studded with bumps called dendritic spines, which provide specialized compartmentalization for synapses and, among other functions, seem to be important in learning and memory (<link target-id="Image-1.49"/>).</para>
+<figure id="Image-1.49">
+  <media alt="Microscopy images of several dendrites covered in spines. Spines are different shapes and sizes. Image credit: Platholi J, Herold KF, Hemmings HC Jr, Halpain S (2014) Isoflurane Reversibly Destabilizes Hippocampal Dendritic Spines by an Actin-Dependent Mechanism. PLoS ONE 9(7): e102978. https://doi.org/10.1371/journal.pone.0102978. CC BY 4.0.">
+    <image mime-type="image/png" src="../../media/Image-1.49_Dendritic-spines.png"/>
+  </media>
+</figure></section>
+<section id="sect-00006"><title>Axons</title>
+<para id="para-00014">A neuron can have thousands of dendrites, but only one axon. An axon is a branch that like dendrites, emerges from the soma or cell body of the neuron. At the point of connection with the soma, the axon region is called the axon hillock. (Image 1.05).  Functionally, axons are specialized for sending information. Some cells, such as those in the retina, lack axons or have axons that are very hard to identify. An axon emerging from the soma can branch out at its terminal end to communicate with multiple cell partners. These branches are called axon collaterals and at the ends of these collaterals are axon terminals. Axons can vary in length depending on their location. For example, axons extending from the spinal cord to your toes are very long in comparison to axons found within the brain.  Axons can be surrounded by a fatty substance called myelin, which helps insulate axons and allows more efficient/faster sending of signals over long distances in the body. Multiple sclerosis (MS) is an autoimmune disease where an individual’s immune system attacks myelin, causing neuronal communication slow-down and disruption. This leads to severe motor problems in the affected individual.</para>
+<para id="para-00015">Not all axons in our nervous system are myelinated, especially those that travel shorter distances. Interestingly, there are many types of animals including some vertebrates that do not have myelin at all. Other biological adaptations, such as larger diameters of axons, are used in these cases to create efficient communication.</para></section>
+<section id="sect-00007"><title>The Synapse</title><para id="para-00016">The synapse is the place where one neuron communicates with its partner. Neurons do not touch other neurons/cells directly, but rather interact via the space between them called a synaptic cleft. Neurons can form synapses not only with glands (neuroglandular junctions) and other neurons but also with muscles (neuromuscular junctions). (<link target-id="Image-1.08"/>).</para>
+<figure id="Image-1.08">
+  <media alt="Diagrams of a multipolar neuron synapsing on: 1) another neuron’s dendrites, 2) muscle fibers (neuromuscular junction) or 3) glandular cells that are secreting proteins (neuroglandular synapse).">
+    <image mime-type="image/png" src="../../media/Image-1.08_Types-of-synapses.png"/>
+  </media>
+</figure>
+<para id="para-00017">In the case of neuronal synapses, axons can synapse with dendrites (axo-dendritic), axons (axo-axonic) or with the soma (axo-somatic). The number of synapses that one neuron can participate in varies from tens to thousands. In chemical synapses, the presynaptic side of the synapse sends chemical signals (neurotransmitters) from one neuron to the postsynaptic side (membrane of the receiving cell). Most synapses are chemical synapses, but another type of synapse exists: the electrical synapse. It allows communication via channel proteins that physically connect adjacent cells and no neurotransmitter is utilized.<link document="m00011">Neurophysiology</link>.</para></section>
+  <section id="sect-00008"><title>Glia</title><para id="para-00018">The name glia comes from the Greek word for ‘nerve glue’. Historically, these cells were first identified as connective cells that “glued” neurons together. However, over many years of research, glia have emerged as key players of the nervous system with a variety of sophisticated functions and not just nerve glue. Glia are non-neuronal cells in the nervous system that make up ~30-60% of the total brain mass. They are found in both the central and peripheral nervous systems. In many parts of the nervous system, they outnumber neurons. Glia are not thought to generate electrical signals, but function  to support neuronal signaling (regulate the spread of signals in the brain). They can function to guide developing neurons to their proper destination. They can provide nutrients and other chemicals to the neurons that they surround. There is a rich and evolving literature around the interesting roles that glia play in the nervous system, but we will limit ourselves to a general overview. Below we will discuss the major types of glia (astrocytes; microglia; oligodendrocytes and Schwann cells) (<link target-id="Image-1.04"/>).</para>
+ <figure id="Image-1.04">
+  <media alt="Diagrams of an example astrocyte, microglia, oligodendrocyte and Schwann cell. Summaries of the functions described in the main text are also provided.">
+    <image mime-type="image/png" src="../../media/Image-1.04_Types-of-glia.png"/>
+  </media>
+</figure></section>
+  <section id="sect-00009"><title>Astrocytes</title>
+    <para id="para-00019">Astrocytes have a characteristic star shape and represent the most abundant fraction of glial cell type in the adult human brain. Astrocytes have many functions that include, but are not limited to, the maintenance of the blood brain barrier. The blood brain barrier (BBB) is a structure that filters chemicals and pathogens entering the brain. For example, the larger and less water soluble a molecule is, the less likely it is to cross this barrier. (<link target-id="Image-1.40"/>) In addition, these glial cells provide neurons with metabolic and structural support and help modulate neuronal function in some cases. One very important role for astrocytes involves recycling neurotransmitters by reuptake back into neurons (<link target-id="Image-1.40"/>). Dysfunction of astrocytes has been associated with pathological conditions including epilepsy, brain tumors and neurodegenerative diseases like Alzheimer’s disease.</para>
+  <figure id="Image-1.40">
+  <media alt="2 part diagram. Part 1: Diagram of an astrocyte wrapping around a synapse to isolate the synapse and regulate neurotransmitter levels. Part 2: Diagram of an astrocyte wrapping around a blood vessel. The contact point between astrocyte and blood vessel is labeled “end-feet.” A zoom-in of the end-feet shows endothelial cell tight junctions and astrocyte processes between those cells/junctions and the brain. Large, charged or lipid insoluble molecules are shown being kept out of the brain while small, uncharged and lipid soluble molecules are more likely to cross the blood brain barrier.">
+    <image mime-type="image/png" src="../../media/Image-1.40_Astrocytic-barrier-functions.png"/>
+  </media>
+</figure></section>
+<section id="sect-00010"><title>Microglia</title><para id="para-00020">Microglia serve in an immunological role in the nervous system and act like phagocytic cells. Phagocytes are cells that ingest foreign particles from bacteria, for example.<link document="m00072">Neuroimmunology</link> Microglia are named for being very small. They destroy invaders that get through the blood brain barrier and then clear out damaged neurons and unused synapses and thus play an important role in synaptic pruning and elimination of extra synapses during brain development. Improper synaptic pruning may be involved in neuropsychiatric disorders such as autism and schizophrenia (Image 1.04).
+</para></section>
+<section id="sect-00011"><title>Oligodendrocytes</title>
+  <para id="para-00021">Myelin is the insulating axon wrapping made up of lipid and protein, and oligodendrocytes are the myelinating cells of the central nervous system. (Image 1.04) Each oligodendrocyte provides myelin for several neurons. The axon of one neuron can be myelinated by multiple oligodendrocytes. As you will see in later chapters, myelin wrapped around axons is necessary for rapid communication in the nervous system.<link document="m00011">Neurophysiology</link></para>
+</section>
+    <section id="sect-00012"><title>Schwann Cells</title>
+      <para id="para-00022">Schwann cells are the main glial cells of the peripheral nervous system and serve similar functions to oligodendrocytes. Unlike oligodendrocytes, one Schwann cell provides a portion of the myelin for the axon of a single neuron (Image 1.04).</para></section>
+      <section id="sect-00013"><title>History of Neuroscience: Visualizing Brain Cells: from Cajal to Brainbow</title><para id="para-00023">Throughout this section, we have discussed the cellular components of the nervous system and the unique specializations that allow neurons to communicate with each other. In the late 1880s, a debate brewed in the field of neuroscience. Without sophisticated tools and relying on simply observing the human brain, it was almost impossible to ascertain the components of the human brain. Camillo Golgi, a prominent scientist of his time and the inventor of the Golgi stain (see below), championed a brain model where the building material of the brain was a single, dense, intricate, and continuous network akin to a material like gauze or cheesecloth. This was called the reticular theory. On the other side of the debate was another Spanish scientist, Ramon y Cajal. Based on his findings, Cajal championed the Neuron Doctrine—the idea that the brain was composed of individual, unconnected cells. Ultimately, Cajal’s theory proved to be correct. Our ability to visualize the brain has advanced and deepened our understanding of Neuroscience. Beginning with the Golgi stain, this section will outline some common approaches to visualizing brain cells (<link target-id="Image-1.06.1"/>).</para>
+  <figure id="Image-1.06.1">
+  <media alt="Examples of a Golgi stained neuron, immunofluorescent staining in brain tissue and brainbow labeling in brain tissue. Summaries of the methods from the main text are provided. Image credit: Golgi: By MethoxyRoxy - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1325286. Immunofluorescent: By Wei-Chung Allen Lee, Hayden Huang, Guoping Feng, Joshua R. Sanes, Emery N. Brown, Peter T. So, Elly Nedivi - Dynamic Remodeling of Dendritic Arbors in GABAergic Interneurons of Adult Visual Cortex. Lee WCA, Huang H, Feng G, Sanes JR, Brown EN, et al. PLoS Biology Vol. 4, No. 2, e29. doi:10.1371/journal.pbio.0040029, Figure 6f, slightly altered (plus scalebar, minus letter &quot;f&quot;.), CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=3482256. Brainbow: By Jeff W. Lichtman and Joshua R. Sanes - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577038/, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=25703326">
+    <image mime-type="image/png" src="../../media/Image-1.06.1_Example-neuronal-stains.png"/>
+  </media>
+</figure></section>
+<section id="sect-00014"><title>Chemical Stains: Focus on the Golgi Stain</title><para id="para-00024">The driver of scientific progress is often fueled by technical discoveries (a new instrument, a new technique) that allow scientists to visualize, analyze or probe. The Golgi stain (silver nitrate) was first discovered by Camillo Golgi as a way to visualize neurons in postmortem tissue. Its improvement and application to brain tissue by Ramon y Cajal in the late 1880s opened the door to our ability to see brain cells as individual entities for the first time. A unique feature of this technique is that, if applied to a forest of neurons, only a few random cells will become stained and stand out when visualized under a microscope. The reason for this selectivity is still unknown to this day. The neurons that do get stained become visible in a very complete way, allowing visualization of cell bodies/soma, dendrites, and axons (<link target-id="Image-1.06.1"/>).</para>
+<para id="para-00025">Cajal’s work revolutionized the field of neuroscience. For the first time, it was clear that neurons were separated from other individual cells and that they were morphologically distinct in different brain regions. He used Golgi’s own methods to refute Golgi’s belief that brain cells were a continuous cellular web. Through his careful work, Cajal gained many additional insights, including the fact that neurons were polarized (receiving information on their dendrites and cell bodies and sending information via axons). The Golgi stain continues to be a valuable tool for modern day neuroscientists. In addition to the Golgi stain, we have a number of chemical stains that can be used to visualize neural tissue including but not limited to Nissl and H&amp;E (Hematoxylin and Eosin) staining for cell bodies and nuclei and Luxol fast blue for myelin.</para></section>
+<section id="sect-00015"><title>Immunofluorescence</title><para id="para-00026">All the chemical stains mentioned above allow a scientist to visualize parts of a neuron such as a nucleus, cell body or processes. However, as we learned in the first section of this chapter, the types of genes expressed within a cell dictate its function. If a scientist is interested in determining the distribution of a specific protein (like an enzyme that produces a certain type of neurotransmitter) or the presence of myelin proteins), a more specific method of visualization is necessary. Immunofluorescence is a technique that uses antibodies (designed against a specific protein of interest) equipped with fluorescent tags (which come in many different colors) to localize and visualize a protein of interest using a fluorescent microscope (<link target-id="Image-1.06.1"/>) <link document=""/>.  There are well established antibodies that can be used as neuronal cell markers that allow scientists to distinguish neurons from glia, visualize synaptic connections, measure protein expression levels in different neurons, etc. We have the technology to generate antibodies to almost any protein that we are interested in studying, giving scientists a large toolkit to answer basic questions in neuroscience.</para></section>
+<section id="sect-00016"><title>GFP Labeling/Brainbow</title><para id="para-00027">Following its discovery in the 1960s, <term id="term-00007">green fluorescent protein (GFP)</term> has been used to label cells, organelles and specific proteins. Because we know the exact DNA sequence that codes for the green fluorescent protein and because all living cells on this planet use the same genetic code (see central dogma above), we can insert the GFP DNA directly or attach it to any sequence that we may want to express in a cell. Once that DNA is taken up and expressed, the cell will glow green wherever the protein is found in the cell. The GFP DNA can be introduced into cells grown in culture or brain slices using specialized delivery tools like viruses. The GFP DNA can also be genetically engineered into gametes (reproductive cell of an animal or plant) prior to fertilization, which leads to GFP transgenic mice allowing visualization of specific regions in the brain throughout the lifetime of an animal. Beyond just green, genetic manipulations of the GFP gene have been developed to introduce the genetic machinery to randomly mix colors (such as green, cyan and yellow fluorescent proteins) in individual neurons thereby creating a palette of different color combinations and shades, allowing visualization of whole neuronal circuits. This process produces a Brainbow, where each individual neuron stands out due to a different shade of color. (<link target-id="Image-1.06.1"/>)</para></section>
+<section id="sect-00017"><note class="in-the-lab" id="note-00001">
+  <title>Counting Neurons</title>
+  <para id="para-00028">As you read this textbook, perhaps you will be inspired to check on a number or an idea and wonder where exactly does the textbook knowledge come from. Dr. Suzana Herculano-Houzel is a scientist who did just that. When she began her scientific career in the 1990s, she kept finding the following fact: “the human brain has 100 billion neurons”. She wondered where this number came from and when she could not find a definitive study to cite, she embarked on a journey that has defined her career. Dr. Herculano-Houzel devised a way to easily and quickly count cells in any brain by first liquifying the brain, taking a small amount of this liquid, staining the nuclei and counting these under a microscope. From these experiments she determined that the human brain has 86 billion neurons and not 100 billion like most textbooks stated.</para>
+  <para id="para-00029">Dr. Herculano-Houzel has since examined the brains of other primates, mammals and birds, and learned some remarkable things. <link document="m00031">Comparative Neuroscience</link> She concluded that the human brain is not larger than expected for its body size and is not unusual in the number of neurons one would expect for a primate brain of its size. Our brain costs as much energy as you would expect for the 86 billion neurons that the standard human body must sustain. All primates like us have small sized neurons compared to other creatures (e.g. elephants). However, primates have more neurons in the cerebral cortex (see <link document="m00025">The Peripheral Nervous System: PNS</link>) than most other mammals. Among all animals, we humans have the largest number of neurons in the cerebral cortex (16 billion) (<link target-id="Image-1.41"/>). The cerebral cortex (see <link document="m00024">The Brain: Structure and Function</link>) is central to many of the most interesting brain functions like memory, problem solving, reasoning and emotions. Perhaps the scaled-up number of neurons in this region of our brain contributes to all the incredible and remarkable features that make us human.</para>
+</note>
+<figure id="Image-1.41">
+  <media alt="Photograph of woman speaking at a microphone (Suzanne Hurculano-Houzel). A bar graph is also shown with number of cerebral cortex neurons in 6 species. Most to least number: Human, gorilla, chimpanzee, elephant, rhesus monkey, marmoset. Image credit: Graph By Peter Aldhous - Peter Aldhous (2015) &quot;Does brain size matter? An extra from People are animals, too&quot; Mosaic, Wellcome Trust. https://mosaicscience.com/extra/does-brain-size-matter, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=51813388 Photo By Fronteiras do Pensamento – Suzana Herculano-Houzel no Fronteiras do Pensamento Porto Alegre 2015, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=55889103">
+    <image mime-type="image/png" src="../../media/Image-1.41_Neuron-numbers-across-species.png"/>
+  </media>
+</figure></section>
+<section class="section-summary" id="sect-00018">
+  <title>Summary</title>
+  <para id="para-00030">The basic cellular building blocks of the nervous system are neurons and glia. While sharing all features of eukaryotic cells, including membrane bound organelles and the central dogma, neurons and glia differ in some important ways that allow them to serve the functions of the nervous system. Neurons are specialized for communication via chemical and electrical signals with other cells. Glia serve in a number of support roles that are vital for neurons, including signaling. Our ability to visualize these cells and their architecture has revolutionized modern neuroscience.</para>
+</section>
+<section class="key-terms" id="sect-00019">
+  <title>Key Terms</title>
+  <list display="inline" id="list-00002">
+    <item>neurons</item>
+    <item>glia</item>
+    <item>DNA</item>
+    <item>RNA</item>
+    <item>nucleus</item>
+    <item>neurogenesis</item>
+    <item>ribosomes</item>
+    <item>endoplasmic reticulum</item>
+    <item>golgi apparatus</item>
+    <item>lysosome</item>
+    <item>mitochondria</item>
+    <item>soma</item>
+    <item>neurotransmitters</item>
+    <item>astrocytes</item>
+    <item>microglia</item>
+    <item>phagocytes</item>
+    <item>oligodendrocytes</item>
+    <item>schwann cell</item>
+    <item>myelin</item>
+    <item>synapse</item>
+    <item>afferent</item>
+    <item>efferent</item>
+    <item>interneurons</item>
+    <item>dendritic spines</item>
+    <item>axon hillock</item>
+    <item>axon collaterals</item>
+    <item>axon terminals</item>
+    <item>synaptic cleft</item>
+    <item>neuroglandular junction</item>
+    <item>neuromuscular junction</item>
+    <item>GFP</item>
+    <item>immunofluorescence</item>
+    <item>golgi stain</item>
+  </list>
+</section>
+
+<section class="multiple-choice" id="sect-00021">
+  <title>Multiple Choice</title>
+<exercise id="exer-00001"><problem id="prob-00001">
+  <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-01-01-001"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002"><problem id="prob-00002">
+  <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-01-01-002"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003"><problem id="prob-00003">
+  <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-01-01-003"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004"><problem id="prob-00004">
+  <para id="para-00047"><link class="os-embed" url="#exercise/Neuro-01-01-004"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005"><problem id="prob-00005">
+  <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-01-01-005"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006"><problem id="prob-00006">
+  <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-01-01-006"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="fillin-blank" id="sect-00022">
+  <title>Fill in the Blank</title>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00050"><link class="os-embed" url="#exercise/Neuro-01-01-007"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+  <problem id="prob-00008">
+  <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-01-01-008"/></para>
+  </problem>
+  </exercise>
+</section>
+
+<section class="references" id="sect-00020">
+  <title>References</title>
+  <para id="para-00031">Blackburn, D., Sargsyan, S., Monk, P.N., &amp; Shaw, P.J. (2009). Astrocyte function and role in motor neuron disease: A future therapeutic target? <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">57</emphasis>, 1251–1264.</para>
+  <para id="para-00032">Delgado-García, J.M. (2015). Cajal and the Conceptual Weakness of Neural Sciences. <emphasis effect="italics">Front Neuroanat</emphasis>, <emphasis effect="italics">9</emphasis>, 128.</para>
+  <para id="para-00033">Dossi, E., Vasile, F., &amp; Rouach, N. (2018). Human astrocytes in the diseased brain. <emphasis effect="italics">Brain Research Bulletin</emphasis>, <emphasis effect="italics">136</emphasis>, 139–156.</para>
+  <para id="para-00034">Drachman, D.A. (2005). Do we have brain to spare? <emphasis effect="italics">Neurology</emphasis>, <emphasis effect="italics">64</emphasis>, 2004–2005.</para>
+  <para id="para-00035">Herculano-Houzel, S. (2009). The human brain in numbers: a linearly scaled-up primate brain. <emphasis effect="italics">Frontiers in Human Neuroscience</emphasis>, <emphasis effect="italics">3</emphasis>, 31.</para>
+  <para id="para-00036">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">109</emphasis> Suppl 1, 10661–10668.</para>
+  <para id="para-00037">Herculano-Houzel, S. (2021). Neuroscience explains exactly why we should be grateful for…our brains. Fast Company. Available at: https://www.fastcompany.com/90698752/neuroscience-explains-exactly-why-we-should-be-grateful-for-our-brains.</para>
+  <para id="para-00038">Jäkel, S., &amp; Dimou, L. (2017). Glial Cells and Their Function in the Adult Brain: A Journey through the History of Their Ablation. <emphasis effect="italics">Front Cell Neurosci</emphasis>, <emphasis effect="italics">11</emphasis>, 24.</para>
+  <para id="para-00039">Kann, O., &amp; Kovács, R. (2007). Mitochondria and neuronal activity. <emphasis effect="italics">American Journal of Physiology-Cell Physiology</emphasis>, <emphasis effect="italics">292</emphasis>, C641–C657.</para>
+  <para id="para-00040">Kettenmann, H., &amp; Ransom, B.R. (2013). <emphasis effect="italics">Neuroglia</emphasis> (3rd ed.). Oxford; New York: Oxford University Press.</para>
+  <para id="para-00041">Kwon, D. (2021). Could Mitochondria Be the Key to a Healthy Brain? Scientific American. Available at: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/.</para>
+  <para id="para-00042">Siegel, J. (2023). Scientists unveil first complete cellular map of adult mouse brain. Available at: https://alleninstitute.org/news/scientists-unveil-first-complete-cellular-map-of-adult-mouse-brain/</para>
+  <para id="para-00043">Vanderbilt University Research News. (2017). Sorry, Grumpy Cat—Study finds dogs are brainier than cats. Available at: https://news.vanderbilt.edu/2017/11/29/grumpy-cat-study-dogs/</para>
+</section>
   </content>
-  
 </document>
