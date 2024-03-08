@@ -102,7 +102,7 @@
 </figure></section>
 <section id="sect-00014"><title>Chemical Stains: Focus on the Golgi Stain</title><para id="para-00024">The driver of scientific progress is often fueled by technical discoveries (a new instrument, a new technique) that allow scientists to visualize, analyze or probe. The Golgi stain (silver nitrate) was first discovered by Camillo Golgi as a way to visualize neurons in postmortem tissue. Its improvement and application to brain tissue by Ramon y Cajal in the late 1880s opened the door to our ability to see brain cells as individual entities for the first time. A unique feature of this technique is that, if applied to a forest of neurons, only a few random cells will become stained and stand out when visualized under a microscope. The reason for this selectivity is still unknown to this day. The neurons that do get stained become visible in a very complete way, allowing visualization of cell bodies/soma, dendrites, and axons (<link target-id="Image-1.06.1"/>).</para>
 <para id="para-00025">Cajal’s work revolutionized the field of neuroscience. For the first time, it was clear that neurons were separated from other individual cells and that they were morphologically distinct in different brain regions. He used Golgi’s own methods to refute Golgi’s belief that brain cells were a continuous cellular web. Through his careful work, Cajal gained many additional insights, including the fact that neurons were polarized (receiving information on their dendrites and cell bodies and sending information via axons). The Golgi stain continues to be a valuable tool for modern day neuroscientists. In addition to the Golgi stain, we have a number of chemical stains that can be used to visualize neural tissue including but not limited to Nissl and H&amp;E (Hematoxylin and Eosin) staining for cell bodies and nuclei and Luxol fast blue for myelin.</para></section>
-<section id="sect-00015"><title>Immunofluorescence</title><para id="para-00026">All the chemical stains mentioned above allow a scientist to visualize parts of a neuron such as a nucleus, cell body or processes. However, as we learned in the first section of this chapter, the types of genes expressed within a cell dictate its function. If a scientist is interested in determining the distribution of a specific protein (like an enzyme that produces a certain type of neurotransmitter) or the presence of myelin proteins), a more specific method of visualization is necessary. Immunofluorescence is a technique that uses antibodies (designed against a specific protein of interest) equipped with fluorescent tags (which come in many different colors) to localize and visualize a protein of interest using a fluorescent microscope (<link target-id="Image-1.06.1"/>) <link document=""></link>.  There are well established antibodies that can be used as neuronal cell markers that allow scientists to distinguish neurons from glia, visualize synaptic connections, measure protein expression levels in different neurons, etc. We have the technology to generate antibodies to almost any protein that we are interested in studying, giving scientists a large toolkit to answer basic questions in neuroscience.</para></section>
+<section id="sect-00015"><title>Immunofluorescence</title><para id="para-00026">All the chemical stains mentioned above allow a scientist to visualize parts of a neuron such as a nucleus, cell body or processes. However, as we learned in the first section of this chapter, the types of genes expressed within a cell dictate its function. If a scientist is interested in determining the distribution of a specific protein (like an enzyme that produces a certain type of neurotransmitter) or the presence of myelin proteins), a more specific method of visualization is necessary. Immunofluorescence is a technique that uses antibodies (designed against a specific protein of interest) equipped with fluorescent tags (which come in many different colors) to localize and visualize a protein of interest using a fluorescent microscope (<link target-id="Image-1.06.1"/>) <link document=""/>.  There are well established antibodies that can be used as neuronal cell markers that allow scientists to distinguish neurons from glia, visualize synaptic connections, measure protein expression levels in different neurons, etc. We have the technology to generate antibodies to almost any protein that we are interested in studying, giving scientists a large toolkit to answer basic questions in neuroscience.</para></section>
 <section id="sect-00016"><title>GFP Labeling/Brainbow</title><para id="para-00027">Following its discovery in the 1960s, <term id="term-00007">green fluorescent protein (GFP)</term> has been used to label cells, organelles and specific proteins. Because we know the exact DNA sequence that codes for the green fluorescent protein and because all living cells on this planet use the same genetic code (see central dogma above), we can insert the GFP DNA directly or attach it to any sequence that we may want to express in a cell. Once that DNA is taken up and expressed, the cell will glow green wherever the protein is found in the cell. The GFP DNA can be introduced into cells grown in culture or brain slices using specialized delivery tools like viruses. The GFP DNA can also be genetically engineered into gametes (reproductive cell of an animal or plant) prior to fertilization, which leads to GFP transgenic mice allowing visualization of specific regions in the brain throughout the lifetime of an animal. Beyond just green, genetic manipulations of the GFP gene have been developed to introduce the genetic machinery to randomly mix colors (such as green, cyan and yellow fluorescent proteins) in individual neurons thereby creating a palette of different color combinations and shades, allowing visualization of whole neuronal circuits. This process produces a Brainbow, where each individual neuron stands out due to a different shade of color. (<link target-id="Image-1.06.1"/>)</para></section>
 <section id="sect-00017"><note class="in-the-lab" id="note-00001">
   <title>Counting Neurons</title>
@@ -156,6 +156,49 @@
     <item>golgi stain</item>
   </list>
 </section>
+
+<section class="multiple-choice" id="sect-00021">
+  <title>Multiple Choice</title>
+<exercise id="exer-00001"><problem id="prob-00001">
+  <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-01-01-001"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002"><problem id="prob-00002">
+  <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-01-01-002"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003"><problem id="prob-00003">
+  <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-01-01-003"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004"><problem id="prob-00004">
+  <para id="para-00047"><link class="os-embed" url="#exercise/Neuro-01-01-004"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005"><problem id="prob-00005">
+  <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-01-01-005"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006"><problem id="prob-00006">
+  <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-01-01-006"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="fillin-blank" id="sect-00022">
+  <title>Fill in the Blank</title>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00050"><link class="os-embed" url="#exercise/Neuro-01-01-007"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+  <problem id="prob-00008">
+  <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-01-01-008"/></para>
+  </problem>
+  </exercise>
+</section>
+
 <section class="references" id="sect-00020">
   <title>References</title>
   <para id="para-00031">Blackburn, D., Sargsyan, S., Monk, P.N., &amp; Shaw, P.J. (2009). Astrocyte function and role in motor neuron disease: A future therapeutic target? <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">57</emphasis>, 1251–1264.</para>
