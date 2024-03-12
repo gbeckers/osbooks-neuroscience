@@ -119,7 +119,7 @@
       <para id="para-00019">We now know that the stress response is critical to survival but it has also garnered the reputation of being detrimental to health and wellbeing. This brings up the question of valence: is stress always a bad thing?</para>
       <section id="sect-00011">
         <title>Inverted-U nature of the stress response</title>
-        <para id="para-00020">It turns out that some amount of stress is actually good and can enhance performance in the same domains where too much stress is detrimental (memory and executive function, for example). This type of relationship where increasing amounts of some factor (stress in our case) results first in an increase and then a decrease of a second factor (performance for example) is referred to as an inverted-U relationship (Yerkes-Dodson law; <link url="https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law">https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law</link>). <link target-id="Image-12.03"/> shows a typical <term id="term-00018">inverted-U curve</term> with increasing stress (stress/stimulation) on the x-axis and some measure of behavioral performance (e.g., memory function, decision-making, learning, playing an instrument, etc.) on the y-axis.</para>
+        <para id="para-00020">It turns out that some amount of stress is actually good and can enhance performance in the same domains where too much stress is detrimental (memory and executive function, for example). This type of relationship where increasing amounts of some factor (stress in our case) results first in an increase and then a decrease of a second factor (performance for example) is referred to as an inverted-U relationship (<link url="https://openstax.org/r/Neuro12YerkesDodson">Yerkes-Dodson law</link>). <link target-id="Image-12.03"/> shows a typical <term id="term-00018">inverted-U curve</term> with increasing stress (stress/stimulation) on the x-axis and some measure of behavioral performance (e.g., memory function, decision-making, learning, playing an instrument, etc.) on the y-axis.</para>
 
         <figure id="Image-12.03">
           <media alt="A line graph with y axis “behavioral performance” from low to high and x-axis “stress/stimulation” from too little to too much. An inverted U curve is plotted. At too little stress, symptoms listed are impaired attention, boredom, confusion, apathy. In the middle, at the peak of the U, is eustress with symptoms focused attention, emotional regulation, rational thinking. At too much stress is distress, with symptoms of impaired memory, burn out, impaired executive functions.">
@@ -241,6 +241,58 @@
 <para id="para-00051">Selye, H. (1974). <emphasis effect="italics">Stress without distress</emphasis> (1st ed.). Lippincott.</para>
 </section>
 
+<section class="multiple-choice" id="sect-00023"> 
+  <title>Multiple Choice</title>
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+      <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-12-01-001"/></para>
+    </problem>
+  </exercise>
 
+  <exercise id="exer-00002">
+    <problem id="prob-00002">
+      <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-12-01-002"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+      <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-12-01-003"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+      <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-12-01-004"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00005">
+    <problem id="prob-00005">
+      <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-12-01-005"/></para>
+    </problem>
+  </exercise>
+
+  <exercise id="exer-00006">
+    <problem id="prob-00006">
+      <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-12-01-006"/></para>
+    </problem>
+  </exercise>
+  </section>
+
+  <section class="fillin-blank" id="sect-00024"> 
+    <title>Fill in the Blank</title>
+    <exercise id="exer-00007">
+      <problem id="prob-00007">
+        <para id="para-00058"><link class="os-embed" url="#exercise/Neuro-12-01-007"/></para>
+      </problem>
+    </exercise>
+
+    <exercise id="exer-00008">
+      <problem id="prob-00008">
+        <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-12-01-008"/></para>
+      </problem>
+    </exercise>
+    </section>
   </content>
 </document>
