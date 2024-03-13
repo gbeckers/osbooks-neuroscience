@@ -232,7 +232,13 @@
 
         <exercise id="exer-00005">
           <problem id="prob-00005">
-            <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-12-02-005"/></para>
+            <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-12-02-006"/></para>
+          </problem>
+        </exercise>
+
+        <exercise id="exer-00007">
+          <problem id="prob-00007">
+            <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-12-02-007"/></para>
           </problem>
         </exercise>
         </section>
