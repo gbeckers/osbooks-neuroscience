@@ -221,11 +221,69 @@
       </section>
       <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
-      <para id="para-00006">placeholder</para>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00006"><link class="os-embed" url="#exercise/Neuro-10-03-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-10-03-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00072"><link class="os-embed" url="#exercise/Neuro-10-03-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-10-03-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-10-03-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00075"><link class="os-embed" url="#exercise/Neuro-10-03-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00076"><link class="os-embed" url="#exercise/Neuro-10-03-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00077"><link class="os-embed" url="#exercise/Neuro-10-03-008"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00078"><link class="os-embed" url="#exercise/Neuro-10-03-009"/></para>
+        </problem>
+      </exercise>
       </section>
       <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
-      <para id="para-00007">placeholder</para>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00079"><link class="os-embed" url="#exercise/Neuro-10-03-010"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00011">
+        <problem id="prob-00011">
+        <para id="para-00080"><link class="os-embed" url="#exercise/Neuro-10-03-011"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00012">
+        <problem id="prob-00012">
+        <para id="para-00081"><link class="os-embed" url="#exercise/Neuro-10-03-012"/></para>
+        </problem>
+      </exercise>
       </section>
       
   </content>

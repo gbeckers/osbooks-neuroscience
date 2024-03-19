@@ -61,7 +61,7 @@
   <title>Differentiating the muscle fiber types</title>
   <para id="para-00019">Your author has found himself attempting to quickly make it to a classroom after miscalculating the length of a casual walk. Along the way, his stride speed increases and the fear of being late might cause a burst of effort into a sprint on rare occasions when he pushes the last moment. Different muscle fibers are likely involved between these stages. Specialized myofiber types contain combinations of mainly myosin types along with levels of mitochondria and other components that render distinct properties in energy availability and contraction speed. Most of the time, each motor unit (LMN and connected fibers) connects to similar muscle fiber types so that these can be engaged differentially, though any damage and regrowth might disrupt this pattern over time. Several characteristics differentiate muscle fiber types, applying their characteristics into a rationale for a pattern of recruitment reserving large motor unit or specific contraction bursts for last. There are 3 main types of muscle fibers: one slow-twitch (Type I) and two fast-twitch (Type IIA and Type IIX). Several key differences between them are summarized in <link target-id="Image-10.27"/>. Type I and Type IIA are the first recruited types of muscle fibers while Type IIX is reserved for later activation, when greater forces are needed.</para>
 
-  <table summary="Insert Alt Text"  id="Image-10.27">
+  <table summary="Insert Alt Text" id="Image-10.27">
     <tgroup cols="6">
     <thead>
       <row>
@@ -99,7 +99,7 @@
         <entry>Strong bursts</entry>
       </row>    </tbody>
     </tgroup>
-    <caption></caption>
+    <caption/>
     </table>
   <para id="para-00020"><term id="term-00015">Type I (slow)</term> and <term id="term-00016">Type IIA (fast)</term> muscle fibers each receive a much greater supply of blood capillaries, providing more oxygen and other energy-producing supplies to support contraction. These muscle fibers, known as myosin heavy chain, are typically recruited first in general run-of-the-mill movement because the energy stores are unlikely to be depleted.  Slow fibers (Type I) contain slightly different myosin heads yielding slower cycling. They contract more slowly and are primarily emphasized for use when speed is not important. Faster Type II fibers contain faster cycling myosin heads and are typically smaller and tend to use a combination of blood supply and glycogen to energize contractions (blood-derived energy staving off fatigue).  Both these Type I (slow) and IIA (fast) fibers also contain myoglobin along with iron and take on a red appearance, so they are designated as the red fibers.</para>
   <para id="para-00021">Type IIX fibers are designated “white” due to their relative lack of capillary supply. These fibers build up stores of glycogen that are broken down to make ATP and provide rapid bursts of contractile energy. Type IIX fibers are typically recruited last for final bursts of movement, as once their stores of energy are used up, they remain fatigued until energy levels are restored.</para>
@@ -165,11 +165,50 @@
       </section>
       <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
-      <para id="para-00004">placeholder</para>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-10-01-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-10-01-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-10-01-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-10-01-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-10-01-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-10-01-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-10-01-007"/></para>
+        </problem>
+      </exercise>
       </section>
+
       <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
-      <para id="para-00005">placeholder</para>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-10-01-008"/></para>
+        </problem>
+      </exercise>
       </section>
       
   </content>
