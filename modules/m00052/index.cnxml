@@ -152,8 +152,33 @@
         
        </section>
       
-      <section class="multiple-choice" id="sect-00012"><title>Multiple Choice</title> <para id="para-00039">...</para> </section>
-      <section class="fillin-blank" id="sect-00013"><title>Fill in the Blank</title> <para id="para-00040">...</para> </section>
+      <section class="multiple-choice" id="sect-00012"><title>Multiple Choice</title> 
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-14-03-001"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-14-03-002"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-14-03-003"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+            <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-14-03-004"/></para>
+          </problem>
+        </exercise> </section>
+      <section class="fillin-blank" id="sect-00013"><title>Fill in the Blank</title> 
+        <exercise id="exer-00005">
+          <problem id="prob-00005">
+            <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-14-03-005"/></para>
+          </problem>
+        </exercise> </section>
       
     </content>
 </document>

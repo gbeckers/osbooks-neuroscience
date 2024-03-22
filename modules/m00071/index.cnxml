@@ -149,26 +149,26 @@
                </section>
       
       <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> 
-        <exercise>
-          <problem>
-            <para><link class="os-embed" url="#exercise/Neuro-19-06-001"/></para>
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-19-06-001"/></para>
           </problem>
         </exercise>
-        <exercise>
-          <problem>
-            <para><link class="os-embed" url="#exercise/Neuro-19-06-002"/></para>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-19-06-002"/></para>
           </problem>
         </exercise>
-        <exercise>
-          <problem>
-            <para><link class="os-embed" url="#exercise/Neuro-19-06-003"/></para>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00077"><link class="os-embed" url="#exercise/Neuro-19-06-003"/></para>
           </problem>
         </exercise>
        </section>
       <section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title> 
-        <exercise>
-          <problem>
-            <para><link class="os-embed" url="#exercise/Neuro-19-06-004"/></para>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+            <para id="para-00078"><link class="os-embed" url="#exercise/Neuro-19-06-004"/></para>
           </problem>
         </exercise> </section>
         </content>
