@@ -1,11 +1,40 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Interindividual Variability and Resilience in Response to Stress</title>
+  <title>Synapse formation and maturation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Interindividual Variability and Resilience in Response to Stress</md:title>
+    <md:title>Synapse formation and maturation</md:title>
     <md:content-id>m00075</md:content-id>
-    <md:uuid>05ccea16-0394-4be6-9b77-b6d75a7adb33</md:uuid>
+    <md:uuid>c88c1779-acd3-4b45-8e68-a7d4dcfb709e</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">test</para>
+    <section class="multiple-choice" id="sect-00001"><title>Multiple Choice</title>
+      <exercise id="exer-00001">
+          <problem id="prob-00001">
+      <para id="para-00002"><link class="os-embed" url="#exercise/Neuro-05-03-001"/></para></problem></exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+    <para id="para-00003"><link class="os-embed" url="#exercise/Neuro-05-03-002"/></para></problem></exercise>
+    <exercise id="exer-00003">
+      <problem id="prob-00003">
+  <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-05-03-003"/></para></problem></exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+<para id="para-00005"><link class="os-embed" url="#exercise/Neuro-05-03-004"/></para></problem></exercise>
+<exercise id="exer-00005">
+  <problem id="prob-00005">
+<para id="para-00006"><link class="os-embed" url="#exercise/Neuro-05-03-005"/></para></problem></exercise>
+<exercise id="exer-00006">
+  <problem id="prob-00006">
+<para id="para-00007"><link class="os-embed" url="#exercise/Neuro-05-03-006"/></para></problem></exercise>
+<exercise id="exer-00007">
+  <problem id="prob-00007">
+<para id="para-00008"><link class="os-embed" url="#exercise/Neuro-05-03-007"/></para></problem></exercise>
+      
+       </section>
+      <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+        <exercise id="exer-00008">
+          <problem id="prob-00008">
+      <para id="para-00009"><link class="os-embed" url="#exercise/Neuro-05-03-008"/></para></problem></exercise>
+      </section>
   </content>
 </document>
