@@ -5,6 +5,11 @@
     <md:content-id>m00086</md:content-id>
     <md:uuid>c92be9e9-08e6-47c0-ab33-fa687c94d8ca</md:uuid>
   </metadata>
-  <content><para id="para-00001"/>
+  <content><note class="meet-author" id="note-00001">
+    <title>Briana E. Pinales, Victoria L. Castro PhD, and Anita M. Quintana PhD</title>
+    <para id="para-00002"><link url="https://openstax.org/r/Neuro5Author">Meet the author</link></para>
+  </note>
+  <para id="para-00001">Our nervous system is the body’s command center. It is a well-tuned communication system that transmits signals at the speed of 220 miles/hour to coordinate the body’s organs, movements, and sensations. The nervous system connects our 12 body systems and uses a central processing unit, the brain, to coordinate the proper function of the entire human body. The brain has a unique architecture that is partitioned into different regions, totaling billions of neurons, that if put end to end, would total 37 miles. But how does such a complex system emerge? Will an understanding of how the nervous system is built aid in our ability to treat common and rare brain disorders?</para>
+  <para id="para-00003">In this chapter, we will learn about the early formation of the central nervous system (CNS). We will discuss cell-to-cell communication and movements that ultimately produce an intricate structure with region-specific functions. These structures continue to develop postnatally and are highly influenced by environmental factors/experience, ultimately shaping how we interact with and perceive the world. Throughout the chapter we will provide examples, using clinical case studies and disease discussions, to understand the critical importance of genetics and environment in shaping normal brain development.</para>
   </content>
 </document>
