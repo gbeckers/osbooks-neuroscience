@@ -133,11 +133,7 @@
        </section>
     <section class="multiple-choice" id="sect-00012">
       <title>Multiple Choice</title>
-      <exercise id="exer-00001">
-        <problem id="prob-00001">
-          <para id="para-00066"><link class="os-embed" url="#exercise/Neuro-09-03-022"/></para>
-        </problem>
-      </exercise>
+
       <exercise id="exer-00002">
         <problem id="prob-00002">
           <para id="para-00023"><link class="os-embed" url="#exercise/Neuro-09-03-023"/></para>
@@ -161,6 +157,11 @@
       <exercise id="exer-00006">
         <problem id="prob-00006">
           <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-09-03-027"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-0000d">
+        <problem id="prob-0000d">
+          <para id="para-0006d"><link class="os-embed" url="#exercise/Neuro-09-03-028"/></para>
         </problem>
       </exercise>
     </section>

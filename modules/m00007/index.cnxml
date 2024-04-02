@@ -134,11 +134,7 @@
         <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-09-01-006"/></para>
         </problem>
       </exercise>
-      <exercise id="exer-00002">
-        <problem id="prob-00002">
-        <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-09-01-007"/></para>
-        </problem>
-      </exercise>
+    
       <exercise id="exer-00003">
         <problem id="prob-00003">
         <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-09-01-008"/></para>
@@ -167,6 +163,11 @@
       <exercise id="exer-00008">
         <problem id="prob-00008">
         <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-09-01-013"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-0000b">
+        <problem id="prob-0000b">
+        <para id="para-0003b"><link class="os-embed" url="#exercise/Neuro-09-01-014"/></para>
         </problem>
       </exercise>
       </section>
