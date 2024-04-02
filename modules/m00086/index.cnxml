@@ -1,11 +1,19 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml"  class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
     <md:content-id>m00086</md:content-id>
     <md:uuid>c92be9e9-08e6-47c0-ab33-fa687c94d8ca</md:uuid>
   </metadata>
-  <content><note class="meet-author" id="note-00001">
+  <content class="introduction">
+    <figure class="splash" id="splosh">
+      <title>FROGUE</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
+    <note class="meet-author" id="note-00001">
     <title>Briana E. Pinales, Victoria L. Castro PhD, and Anita M. Quintana PhD</title>
     <para id="para-00002"><link url="https://openstax.org/r/Neuro5Author">Meet the author</link></para>
   </note>
