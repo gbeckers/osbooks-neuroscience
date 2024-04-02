@@ -162,7 +162,7 @@
           <image mime-type="image/png" src="../../media/Image-9.17_Deep-brain-stimulation-for-pain.png"/>
         </media>
       </figure>
-      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="">Methods</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
+      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="">Methods: rTMS</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
       <figure id="Image-9.21">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.21_Repetitive-transcranial-magnetic-stimulation-for-pain.png"/>
@@ -248,7 +248,7 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-005"/></para>
+          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-006"/></para>
         </problem>
       </exercise>
     </section>
