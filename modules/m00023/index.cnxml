@@ -22,9 +22,9 @@
         <title>Anatomical orientation and planes of orientation</title>
       <para id="para-00003">Specific terminology is applied to describing anatomical structures and orientation in the nervous system. <term id="term-00005">Dorsal</term> is an anatomical direction that refers to both the back of the spinal cord and to the top of the brain. The opposite of dorsal is <term id="term-00006">ventral</term> which means toward the bottom of the brain or the front of the spinal cord. <term id="term-00007">Superior</term> and <term id="term-00008">inferior</term> refer to above or below another structure. The bend in the human <term id="term-00009">neuraxis</term> causes a dissociation between the dorsal/ventral and superior/inferior directions. <term id="term-00010">Anterior</term> means toward the face and head, and <term id="term-00011">posterior</term> means toward the back or toward the feet. <term id="term-00012">Rostral</term> is toward the brain and or the top of the spinal cord while the opposite, <term id="term-00013">caudal</term>, is towards the back of the brain. <term id="term-00014">Medial</term> means toward the middle or center while <term id="term-00015">lateral</term> means left or right of another structure (toward the outside) (<link target-id="Image-1.16"/>).  <term id="term-00016">Ipsilateral</term> means the same side and <term id="term-00017">contralateral</term> means the opposite side.  For example, the right motor cortex controls the left side of the body and the left motor cortex controls the right side of the body (contralateral). </para>
     <figure id="Image-1.16">
-  <media alt="Diagram of major anatomical directions shown on a human body and brain, as described in main text. The brain in particular highlights the bend in the neuraxis which causes the dissociation between the dorsal/ventral and superior/inferior directions.">
+  <media alt="Diagram of major anatomical directions shown on a human body and brain, as described in main text. The brain in particular highlights the bend in the neuraxis.">
     <image mime-type="image/png" src="../../media/Image-1.16_Anatomical-orientation.png"/>
-  </media>
+  </media><caption>The bend in the human neuraxis causes a dissociation between dorsal/ventral and superior/inferior directions.</caption>
 </figure>
       <para id="para-00004">There are three planes for sectioning the brain for anatomical analysis: <term id="term-00018">coronal</term> sectioning (cutting the brain front to back); <term id="term-00019">sagittal</term> sectioning (cutting the brain left to right) and <term id="term-00020">horizontal</term> or axial sectioning (cutting the brain top to bottom) (<link target-id="Image-1.17"/>).</para>
 <figure id="Image-1.17">
@@ -65,7 +65,7 @@
 <figure id="Image-1.52">
   <media alt="Diagram of a section of spinal cord with dorsal and ventral roots (sensory and motor axons). The dorsal (sensory) and ventral (motor) grey matter are highlighted, as is the mixed spinal nerve that results from merging of dorsal and ventral horns in the periphery.">
     <image mime-type="image/png" src="../../media/Image-1.52_Spinal-cord-organization.png"/>
-  </media>
+  </media><caption>The spinal cord houses myelinated white matter tracts (funiculi), and sensory and motor neuron cell bodies.</caption>
 </figure>
 <para id="para-00012">The white matter consists of myelinated nerve tracks that travel up and down the spinal cord. (<link target-id="Image-1.53"/>).  Along the spinal cord, the 31 pairs of spinal nerves emerge at regular intervals laterally serving each side of the body. There are two distinct nerve bundles, roots that branch off. The <term id="term-00003">dorsal roots</term> contain sensory neurons that project from the body to the spinal cord whose cell bodies are organized in a ganglion called the dorsal root ganglion which is adjacent to the spinal cord. The <term id="term-00004">ventral roots</term> house motor neurons that leave the spinal cord and project to muscles (<link target-id="Image-1.52"/>).</para>
 </section>
