@@ -59,9 +59,9 @@
     
     <para id="para-00013">A key organizing principle of the olfactory system is the molecular logic by which the cilia of olfactory sensory neurons express olfactory receptor proteins. The genome of most animals encodes hundreds of olfactory receptors, each of which has a unique binding site that will recognize only a narrow range of chemical shapes. Though there are hundreds of receptor genes, only a single type is expressed on the cilia of each sensory neuron. Although each sensory neuron may express thousands of receptor proteins, each of them will be exactly alike (<link target-id="Image-8.25"/>).</para>
     <figure id="Image-8.25">
-      <media alt="A diagram of olfactory neurons each expressing one receptor protein. There are hundreds of unique olfactory receptor genes but an individual olfactory sensory neuron only expresses 1 receptor gene.">
+      <media alt="A diagram of olfactory neurons each expressing one receptor protein.">
         <image mime-type="image/png" src="../../media/Image-8.25_One-receptor-type-per-neuron-in-the-olfactory-system.png"/>
-      </media>
+      </media><caption>There are hundreds of unique olfactory receptor genes but an individual olfactory sensory neuron only expresses 1 receptor gene.</caption>
     </figure>
 
     </section>
