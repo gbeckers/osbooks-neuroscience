@@ -84,6 +84,39 @@
             <image mime-type="image/png" src="../../media/Image-9.06_Mechanoreceptor-receptive-fields-and-adaptation.png"/>
           </media>
         </figure>
+
+        <table summary="Insert Alt Text" id="table-00002">
+          <title>Optional Title</title>
+          <tgroup cols="5">
+          <thead>
+            <row>
+              <entry/>
+              <entry>Merkel disk</entry>
+              <entry>Meissner's Corpuscle</entry>
+              <entry>Ruffini ending</entry>
+              <entry>Pacinian corpuscle</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><emphasis>Skin location</emphasis></entry>
+              <entry>Superficial</entry>
+              <entry>Superficial</entry>
+              <entry>Deep</entry>
+              <entry>Deep</entry>
+
+            </row>
+            <row>
+              <entry>Adaptation</entry>
+              <entry>Slow</entry>
+              <entry>Rapid</entry>
+              <entry>Slow</entry>
+              <entry>Rapid</entry>
+            </row>
+          </tbody>
+          </tgroup>
+          <caption/>
+          </table>
         <para id="para-00006">First, their different locations in the skin help determine how large or small their <term id="term-00009">receptive fields</term> are, which for touch receptors means the area of the skin in which touch can activate them. Merkel disks and Meissner’s corpuscles are located more superficially around the epidermis and therefore have a smaller and clearly-defined receptive field. Ruffini endings and Pacinian corpuscles are located more in the deeper part of the skin (with a larger, blurry receptive field), near where hair follicles are located.</para>
         <para id="para-00007">Second, the shape and composition of each touch receptor help determine how long they respond to stimuli, dividing them into rapid adapting versus slowly adapting receptors. The slowly adapting receptors include Merkel disk and Ruffini endings. When a force or stimulus is applied in their receptive field, those receptors will be constantly activated and generate electrical activities (e.g., pressure). On the other hand, the rapidly adapting receptors such as Meissner’s corpuscle and Pacinian corpuscle only respond or generate electrical activities when there is a dynamic change of forces or stimuli, such as vibration (Johansson and Vallbo, 1983; Koerber and Mendell, 1988). These adaptation properties combine with the receptive field to give the unique sensitivity of each of these 4 receptor types to specific touch modalities described in <link target-id="Image-9.01"/>.</para>
       </section>
@@ -96,13 +129,54 @@
             <image mime-type="image/png" src="../../media/Image-9.03_Local-mechanisms-of-nociception.png"/>
           </media>
         </figure>
-        <para id="para-00010">Other free nerve endings contain <term id="term-00014">transient receptor potential (TRP)</term> channels, which are temperature-sensitive mechanoreceptors. TRP channels open in response to temperature and come in a variety of types, each one sensitive to a different temperature. <link target-id="Image-9.11"/> reviews the temperature sensitivities of several kinds of TRPs, as well as the general mechanism by which temperature causes them to open, allowing in positive ions. One notable example of a TRP channel is the capsaicin receptor. <term id="term-00015">Capsaicin</term> is the key chemical ingredient in hot chili peppers. When it binds to the capsaicin receptors, it activates a TRP channel (Samanta et al., 2018) that allows calcium ions to flow into the cell, leading to depolarization (Caterina et al., 1997; Julius, 2013). This is the same channel activated by hot temperatures, which is why a spicy pepper feels hot . A similar, but separate TRP channel activates in response to cold temperatures, as well as chemicals in foods that feel cold, like mint. Activation of TRP channels, therefore, transmit information about temperature, and also are part of our experience of temperature sensations associated with a number of chemicals (see <link document="m00038">Chemical Senses</link>).</para>
-        <figure id="Image-9.11">
+        <para id="para-00010">Other free nerve endings contain <term id="term-00014">transient receptor potential (TRP)</term> channels, which are temperature-sensitive mechanoreceptors. TRP channels open in response to temperature and come in a variety of types, each one sensitive to a different temperature. <link target-id="Image-9.11.2"/> reviews the temperature sensitivities of several kinds of TRPs, as well as the general mechanism by which temperature causes them to open, allowing in positive ions. One notable example of a TRP channel is the capsaicin receptor. <term id="term-00015">Capsaicin</term> is the key chemical ingredient in hot chili peppers. When it binds to the capsaicin receptors, it activates a TRP channel (Samanta et al., 2018) that allows calcium ions to flow into the cell, leading to depolarization (Caterina et al., 1997; Julius, 2013). This is the same channel activated by hot temperatures, which is why a spicy pepper feels hot . A similar, but separate TRP channel activates in response to cold temperatures, as well as chemicals in foods that feel cold, like mint. Activation of TRP channels, therefore, transmit information about temperature, and also are part of our experience of temperature sensations associated with a number of chemicals (see <link document="m00038">Chemical Senses</link>).</para>
+
+        <note class="boxed-feature" id="note-00003"><title>Scientist Spotlight: Dr. David Julius</title>
+          <figure id="Image-9.11.1">
+            <media alt="A photo of Dr. David Julius">
+              <image mime-type="image/png" src="../../media/Image-9.11.1.png"/>
+            </media>
+          </figure>
+          <para id="para-00041">David Julius, PhD, professor and chair of the Department of Physiology at UC San Francisco, received the 2021 Nobel Prize in Physiology or Medicine (jointly). His work focused on how our bodies sense heat, cold, and chemical irritants, leading to new insights about the fundamental nature of pain and new targets for pain therapy.</para>
+        </note>
+
+        <figure id="Image-9.11.2"><title>The TRP Ion Channels</title>
           <media alt="Insert Alt Text">
-            <image mime-type="image/png" src="../../media/Image-9.11_Nobel-prize-for-temperature-sensation.png"/>
-          </media>
+            <image mime-type="image/png" src="../../media/Image-9.11.2.png"/>
+          </media><caption>Our ability to sense heat and cold is crucial for survival. In our daily lives, we perceive millions of sensations that are processed through intricate molecular pathways. Dr. Julius has used distinctive molecules from the natural world – including toxins from tarantulas, coral snakes, and capsaicin, the molecule that produces the “heat” in chili peppers – to understand how signals responsible for temperature and pain sensation are transmitted by transient receptor potential (TRP) channels that activate across different temperature ranges.</caption>
+        </figure>
+
+        <figure id="Image-9.11.3"><title>Sensing Noxious Stimuli: Nociception</title>
+          <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/Image-9.11.3.png"/>
+          </media><caption>Nociception is the process whereby primary afferent nerve fibers of the somatosensory system detect noxious mechanical, thermal, or chemical stimuli that give rise to pain sensations. Sensitization of a specialized group of somatosensory neurons in the skin  when injury or inflammation occurs triggers an activation of TRP ion channels.  Once activated, these potentiate the transmission of signals to secondary neurons in the spinal cord and then to the brain, eliciting perception of acute discomfort or pain.</caption>
         </figure>
       </section>
+      <table summary="potential applications of TRP channels" colsep="0" frame="none" rowsep="0" id="table-00003">
+        <title>Applications of TRPs</title>
+        <tgroup cols="2">
+ 
+        <tbody>
+          <row>
+            <entry><media alt="icon of a drug pill">
+              <image mime-type="image/png" src="../../media/icon1.png"/>
+            </media></entry>
+            <entry><media alt="icon of a smokestack">
+              <image mime-type="image/png" src="../../media/icon2.png"/>
+            </media></entry>
+            <entry><media alt="icon of a person's head in silhouette">
+              <image mime-type="image/png" src="../../media/icon3.png"/>
+            </media></entry>
+          </row>
+          <row>
+            <entry>TRP channels are potential targets for a new generation of painkillers / analgesic drugs.</entry>
+            <entry>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.</entry>
+            <entry>Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.</entry>
+          </row>
+        </tbody>
+        </tgroup>
+        <caption/>
+        </table>
       <section id="sect-00005">
         <title>Hair follicle mechanosensation</title>
         <para id="para-00011">Throughout our body, the skin can be divided into hairy and glabrous skin (mainly on the palms and soles). In the hairy skin, an axonal terminal wraps around the bottom of the hair, the hair follicle, in the dermis. The reason why we can feel a breeze blowing across our faces is that all those tiny hairs (vellus hair, or peach fuzz) are bent by the airflow. The force is transduced to the hair follicles in the skin, causing the slightest displacement (in terms of nanometers). The follicle displacement causes a stretch of the axonal membrane wrapped around the follicle. There are many mechanosensitive Na<sup>+</sup> channels in this wrapping axon, which open in response to this stretch. That is how we can feel the movement of hair. If the hair is pulled too hard, it can generate pain.</para>
