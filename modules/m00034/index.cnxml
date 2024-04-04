@@ -25,9 +25,9 @@
     
     <para id="para-00005">Brain region volumes vary across species. <link target-id="Image-4.19"/> depicts brains of mice, rhesus macaques and humans.</para>
     <figure id="Image-4.19">
-      <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) An inset shows these three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
+      <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) These three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
         <image mime-type="image/png" src="../../media/Image-4.19_Brain-regions-vary-allometrically.png"/>
-      </media>
+      </media><caption>A greater relative contribution of cortex to total brain mass is seen in monkeys and humans compared to mice, reflecting the positive allometry of the cortex.</caption>
     </figure>
     
     <para id="para-00006">As can be seen from the to-scale images in the lower right, these brains have very different total sizes. When the size of the brains is equalized, one noticeable observation is that larger brains are preferentially composed of the cerebral cortex. This observation is true when we consider humans, but it also holds when we consider other mammals. Brain allometry means that, as overall brains vary in size, some brain regions come to occupy a relatively large proportion of the brain while other brain regions occupy a relatively small proportion of the brain. A formal way to describe proportional changes in the relative size of brain parts is to say that brain regions vary <term id="term-00002">allometrically</term> (Stephan et al., 1981; Reep et al., 2007; Yopak et al., 2010; Bush and Allman, 2004).</para>
