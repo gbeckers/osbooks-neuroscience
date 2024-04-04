@@ -98,12 +98,95 @@
         <title>Receptors</title>
         <para id="para-00025">Serotonin is one of the most ancient signaling molecules in nature. Bananas, single-celled paramecium, insects, and humans all synthesize it. The first primordial serotonin receptor is related to the rhodopsin protein found in the retina and may have first appeared almost one billion years ago; a time that likely predates the appearance of acetylcholine, dopamine, or norepinephrine. During this time, evolution greatly differentiated the serotonin receptors into a large and diverse group of proteins that are often less than 25% homologous with each other. This long evolutionary history underlies why serotonin plays a variety of roles throughout the brain, including behaviors such as aggression, appetite, sex, sleep, mood and cognitive function.</para>
         <para id="para-00026">There are many different serotonin receptors in the brain and body (<link target-id="Image-3.21"/>). It is difficult to assign a specific function to each receptor; once again, it depends on where the receptor is located, and the nature of the biochemical mechanisms activated by the receptor.</para>
+        <table id="Image-3.21" summary="Table showing 12 different types of serotonin receptors, their signaling mechanism, distribution in the brain, and general behavioral effects.">
+          <tgroup cols="4">
+          <thead>
+            <row>
+              <entry>Receptor<newline/>Subtypes</entry>
+              <entry>Signaling<newline/>Mechanism</entry>
+              <entry>Distribution</entry>
+              <entry>Effects</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>5-HT<sub>1A</sub></entry>
+              <entry>Gi,↓cAMP</entry>
+              <entry>Raphe nuclei, hippocampus</entry>
+              <entry>Regulates sleep, feeding, and anxiety</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>1B</sub></entry>
+              <entry>Gi,↓cAMP</entry>
+              <entry>Substantia nigra, globus pallidus, basal ganglia</entry>
+              <entry>Neronal inhibition, behavioral changes</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>1D</sub></entry>
+              <entry>Gi,↓cAMP</entry>
+              <entry>Brain</entry>
+              <entry>Vasoconstriction</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>1E</sub></entry>
+              <entry>Gi,↓cAMP</entry>
+              <entry>Cortex, hippocampus</entry>
+              <entry>Memory</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>1F</sub></entry>
+              <entry>Gi,↓cAMP</entry>
+              <entry>Globus pallidus, putamen</entry>
+              <entry>Anxiety, vasoconstriction</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>2A</sub></entry>
+              <entry>Gq,↑IP<sub>3</sub></entry>
+              <entry>Platelets, cerebral cortex</entry>
+              <entry>Cellular excitation, muscle contraction</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>2B</sub></entry>
+              <entry>Gq,↑IP<sub>3</sub></entry>
+              <entry>Stomach</entry>
+              <entry>Appetite</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>2C</sub></entry>
+              <entry>Gq,↑IP<sub>3</sub></entry>
+              <entry>Hippocampus, substantia nigra</entry>
+              <entry>Anxiety</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>3</sub></entry>
+              <entry>Na<sup>+</sup>-K<sup>+</sup> ion channel</entry>
+              <entry>Area postrema, enteric nerves</entry>
+              <entry>Vomiting</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>4</sub></entry>
+              <entry>Gs,↑cAMP<sub>3</sub></entry>
+              <entry>Cortex, smooth muscle</entry>
+              <entry>Gut motility</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>5A,B</sub></entry>
+              <entry>Brain</entry>
+              <entry>Gs,↓cAMP</entry>
+              <entry>Locomotion, sleep</entry>
+            </row>
+            <row>
+              <entry>5-HT<sub>6</sub></entry>
+              <entry>Gs,↑cAMP</entry>
+              <entry>Brain</entry>
+              <entry>Cognition, learning</entry>
+            </row>
 
-        <figure id="Image-3.21">
-          <media alt="Table showing 12 different types of serotonin receptors, their signaling mechanism, distribution in the brain, and general behavioral effects.">
-            <image mime-type="image/png" src="../../media/Image-3.21_The-Distribution-and-Function-of-Serotonin-Receptors.png"/>
-          </media>
-        </figure>
+          </tbody>
+          </tgroup>
+          <caption></caption>
+          </table>
+   
         <para id="para-00027">Consider one serotonin receptor called <term id="term-00016">5HT-1A</term>. Studies of genetically altered mice and positron emission tomography studies on humans have been very useful in demonstrating the potential role of this receptor in the regulation of mood and anxiety. For example, mice and humans born with fewer serotonin type 5HT-1A receptors show more anxiety-like behavior (Olivier et al., 2001). Some of the newer anti-anxiety medications stimulate the 5HT-1A receptors. Interestingly, almost all the known hallucinogens stimulate at least two serotonin receptors, the 5HT-1A and 5HT-2A. More will be presented about anti-anxiety medications and hallucinogens in <link document="m00049">Psychopharmacology</link>.</para>
       </section>
       <section id="sect-00011">
