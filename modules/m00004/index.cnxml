@@ -127,7 +127,6 @@
             <media alt="Top: Spectrogram shows dark colors on grey background with Y axis = frequency and x-axis = time. Clusters of dark colors show sound patterns at different frequencies for a song sparrow's tones, chirp and trill. Bottom: Spectrogram shows dark colors on grey background with Y axis = frequency and x-axis = time. Clusters of dark colors show sound patterns at different frequencies for a human saying 'it is interesting to contemplate a tangled bank'">
               <image mime-type="image/png" src="../../media/Image-7.18_Spectrogram-birdsong-human-speech.png"/>
             </media>
-          <caption>Spectrogram of human speech</caption>
           </figure>
         </note></section>
 
