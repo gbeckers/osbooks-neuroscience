@@ -229,11 +229,47 @@
       <section id="sect-00015">
         <title>Endorphins</title>
         <para id="para-00037">Endorphins are one of 4 families of endogenous opioids (thus, their name): endorphins, enkephalins, dynorphins, and endomorphins. Three of the most studied are shown in the Table (<link target-id="Image-3.18"/>).</para>
-        <figure id="Image-3.18">
-          <media alt="Table of 3 major endogenous opioid families: endorphins, enkephalins and dynorphins. Their precursors, peptides and receptors are listed.">
-            <image mime-type="image/png" src="../../media/Image-3.18_Endogenous-opioids.png"/>
-          </media>
-        </figure>
+        <table id="Image-3.18" summary="Table of 3 major endogenous opioid families: endorphins, enkephalins and dynorphins. Their precursors, peptides and receptors are listed.">
+          <tgroup cols="4">
+          <thead>
+            <row>
+              <entry>Family</entry>
+              <entry>Precursors</entry>
+              <entry>Peptides</entry>
+              <entry>Receptors</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Endorphins</entry>
+              <entry>Proopiomelanocortin<newline/>(POMC)</entry>
+              <entry>α-Endorphin<newline/>
+                β-Endorphin<newline/>
+                γ-Endorphin</entry>
+              <entry>μ-Opioid</entry>
+            </row>
+            <row>
+              <entry>Enkephalins</entry>
+              <entry>Proenkephalin<newline/>(PENK)</entry>
+              <entry>Met-Enkephalin<newline/>
+              Leu-Enkephalin</entry>
+              <entry>Δ-Opioid<newline/>
+              μ-Opioid</entry>
+            </row>
+            <row>
+              <entry>Dynorphins</entry>
+              <entry>Prodynorphins<newline/>(PDYN)</entry>
+              <entry>Dynorphin A<newline/>
+                Dynorphin B<newline/>
+                α-Neoendorphin<newline/>
+                β-Neoendorphin</entry>
+              <entry>κ-Opioid</entry>
+            </row>          
+</tbody>
+          </tgroup>
+          <caption></caption>
+          </table>
+       
         <para id="para-00038">Each family has several opioid-like peptides within it. Endorphins have a diverse range of actions in the brain: they modulate the pain signals carried from the periphery to the higher centers of the brain, regulate numerous neuroendocrine or neuroimmune functions, and influence mood. Endorphins interact with families of various receptors. For example, when the “mu” opiate receptor is stimulated, it relieves pain and induces feelings of pleasure or euphoria. Endorphins are released in response to laughing, eating, intense exercising, listening to music, walking in the sunshine (it’s the UV light), having sex, and so on. The emotional experience is ephemeral because endorphins have a very short life span once released; they are quickly catabolized by peptidases.</para>
       </section>
 
