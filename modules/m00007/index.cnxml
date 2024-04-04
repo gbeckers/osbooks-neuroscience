@@ -48,12 +48,34 @@
             <image mime-type="image/png" src="../../media/Image-9.12.3.png"/>
           </media><caption>PIEZO1 and PIEZO2 are both <term id="term-00024">mechanically-activated cation channels</term>. Based on protein structure, it was predicted that the 'blades' of the PIEZO channels undergo a lever-like flattening motion upon application of mechanical stress. This opens up their central pore, allowing an influx on positive charge. The exact mechanism by which mechanical force leads to the central pore opening is not fully understood.</caption>
         </figure>
-        <figure id="Image-9.12.4">
+
+        <table summary="Table enumerates relevance of PIEZO channels in six elements of physiology and medicine." id="table-00001">
           <title>Relevance of PIEZO Channels in Physiology and Medicine</title>
-          <media alt="Insert Alt Text">
-            <image mime-type="image/png" src="../../media/Image-9.12.4.png"/>
-          </media><caption>Since their discovery, PIEZO1 and PIEZO2 have been proven to be critical mechanosensors throughout the human body, contributing to multiple important physiological processes. </caption>
-        </figure>
+          <tgroup cols="6">
+          <thead>
+            <row>
+              <entry>Lungs</entry>
+              <entry>Blood pressure</entry>
+              <entry>Vascular cells</entry>
+              <entry>Bladder</entry>
+              <entry>Malaria</entry>
+              <entry>Immune cells</entry>
+            </row>
+          </thead>
+          <tbody>
+
+            <row>
+              <entry>PIEZO2 acts as an airway stretch sensor in respiratory tissue and is critical for normal breathing.</entry>
+              <entry>Both PIEZO1 and PIEZO2 act as  baroreceptors and are essential in blood pressure regulation.</entry>
+              <entry>PIEZO1 is an important sensor of shear stress in vasculature and required for embryonic vascular development.</entry>
+              <entry>PIEZO2 is a sensor for stretch in the bladder urothelium and innervating sensory neurons. </entry>
+              <entry>Polymorphisms and mutations in PIEZO1 have been shown to protect against symptoms of malaria.</entry>
+              <entry>PIEZO1 regulates  macrophage phagocytic activity and thereby facilitates erythrocyte turnover.</entry>
+            </row>
+          </tbody>
+          </tgroup>
+          <caption>Since their discovery, PIEZO1 and PIEZO2 have been proven to be critical mechanosensors throughout the human body, contributing to multiple important physiological processes.</caption>
+          </table>
 
 
         <para id="para-00005">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle are each sensitive to different kinds of touch. The location and shape of each receptor structure supports these different sensitivities. <link target-id="Image-9.06"/> summarizes these key features of these 4 receptor types.</para>
