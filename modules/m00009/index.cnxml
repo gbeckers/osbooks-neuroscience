@@ -116,7 +116,7 @@
       <figure id="Image-9.18">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.18_Cannabinoid-receptor-distribution.png"/>
-        </media>
+        </media><caption>Binding of CB1 receptor averaged over 35 men shows high binding in many brain regions, including basal ganglia and cingulate gyrus.</caption>
       </figure>
       <para id="para-00050">CB1-R modulates pain signaling in several regions in the peripheral and central nervous system, including the primary afferent terminals, the dorsal root ganglion (DRG), the dorsal horn of the spinal cord, the periaqueductal gray matter, the ventral posterolateral thalamus, and cortical regions associated with central pain processing, including the anterior cingulate cortex, amygdala and prefrontal cortex (Hill et al., 2017). <link target-id="Image-9.16"/> shows how CB receptor activation inhibits presynaptic release, a reminder of processes we learned about in <link document="m00027">Basic Neurochemistry</link>. Through activation of the G-protein mechanism, CB1-Rs modulate the activity of a number of ion channels via inhibiting presynaptic voltage-dependent Ca<sup>2+</sup> channels to reduce synaptic vesicle release, and also opening inwardly rectifying K<sup>+</sup> channels to hyperpolarize the presynaptic terminal.</para>
       <figure id="Image-9.16">
@@ -147,7 +147,7 @@
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.19_Transcutaneous-electrical-nerve-stimulation-for-pain.png"/>
         </media>
-        <caption>Image credit: Image from: By Wisser68 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
+        <caption>In transcutaneous electrical nerve stimulation, electrodes are placed on the skin and small electrical pulses are delivered to relieve pain. Image credit: Image from: By Wisser68 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
       </figure>
       <para id="para-00061"><term id="term-00018">Spinal cord stimulation</term> (<term id="term-00019">SCS</term>) emerged as a direct clinical application of the gate control theory of Melzack and Wall published in 1965. It was designed to be effective in suppressing pain of a nociceptive nature (both acute and chronic), and has been in use since the early 1970s. It is now one of the mainstream treatments of neuropathic pain. This technique is based on the original idea that antidromic (against the action potential propagation direction) stimulation of the large fibers in the dorsal columns may activate the proposed gating mechanisms in the dorsal horn. It is also called dorsal column stimulation because of this focus on stimulating dorsal pathways. <link target-id="Image-9.13"/> shows an example of this kind of electrode placement. The frequency is usually 60–100 Hz, and the pulse width is between 100 and 500 μsec. The effective amplitude varies but should be set to produce comfortable paresthesias, usually in the range of 2–6 V for "constant-voltage" systems (Sdrulla et al., 2018; Rock et al., 2019; Schmidt, 2019; Fontaine, 2021; Sun et al., 2021).</para>
       <figure id="Image-9.13">
@@ -160,13 +160,13 @@
       <figure id="Image-9.17">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.17_Deep-brain-stimulation-for-pain.png"/>
-        </media>
+        </media><caption>Two common sites for deep brain stimulation to relieve chronic pain are the sensory nuclei of the thalamus and the periaqueductal gray.</caption>
       </figure>
       <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="">Methods: rTMS</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
       <figure id="Image-9.21">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.21_Repetitive-transcranial-magnetic-stimulation-for-pain.png"/>
-        </media>
+        </media><caption>In repetitive transcranial magnetic stimulation, an electromagnetic coil generates a magnetic field that changes electrical activity of cortical neurons. This can relieve chronic pain in some conditions.</caption>
       </figure>
     </section>
     <section class="section-summary" id="sect-00011">
