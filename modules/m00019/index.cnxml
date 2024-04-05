@@ -26,13 +26,13 @@
       <figure id="Image-10.19">
         <media alt="Insert Alt Text">
           <image mime-type="png" src="../../media/Image-10.19_LMNs-in-the-spinal-cord.png"/>
-        </media>
+        </media><caption>The lower motor neuron cell bodies are arranged somatotopically in the ventral grey matter of the spinal cord. More medial LMN cell bodies send axons to more medial/proximal muscles.</caption>
       </figure>
     <para id="para-00051">Moving our heads involve LMNs within various brainstem nuclei, which target our face, eyes, tongue, and other such movements via cranial nerves exiting specific skull foramen (special holes, see <link target-id="Image-10.18"/>).</para>
     <figure id="Image-10.18">
       <media alt="Insert Alt Text">
         <image mime-type="png" src="../../media/Image-10.18_Cranial-nerves.png"/>
-      </media>
+      </media><caption>Lower motor neurons (LMN) axons from brainstem nuclei  exit from the brain as part of the cranial nerves. Cranial nerves innervate the face, head and neck.</caption>
     </figure></section>
 <section id="sect-00008"><title>LMNs activate the neuromuscular junction</title>
   <para id="para-00011">LMN synapses on muscle fibers occur through neuromuscular junctions (NMJs, <link document="m00018" target-id="Image-10.10"/>). NMJs from the axon collaterals of a single LMN are activated simultaneously within muscle masses, larger motor units activating more, and smaller less, yielding differential force. Within the NMJ, activated LMN axon terminals release ACh across the synaptic gap and through a leaky surrounding protein matrix encompassing muscle cells called the basal laminae, and onto the postsynaptic surface of a muscle fiber (sarcomere arrangement, see <link document="m00018" target-id="Image-10.08"/> and <link url="https://openstax.org/r/Neuro10NMJ">this animation</link>). A motor unit, as was introduced in <link document="m00018">The physiological actions implementing movement – Contraction of muscles</link>, is a LMN and all the individual muscle fibers it synapses on. Smaller motor units activate fewer muscle fibers. They get activated in the early movement stages until more force becomes necessary for the current load. Then larger motor units are recruited.</para>
