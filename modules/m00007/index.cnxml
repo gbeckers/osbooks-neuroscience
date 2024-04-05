@@ -85,7 +85,7 @@
           </media>
         </figure>
 
-        <table summary="Insert Alt Text" id="table-00002">
+        <table summary="Skin location and adaptation for each of the four touch receptors." id="table-00002">
           <title>Optional Title</title>
           <tgroup cols="5">
           <thead>
@@ -107,7 +107,7 @@
 
             </row>
             <row>
-              <entry>Adaptation</entry>
+              <entry><emphasis>Adaptation</emphasis></entry>
               <entry>Slow</entry>
               <entry>Rapid</entry>
               <entry>Slow</entry>
