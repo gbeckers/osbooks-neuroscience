@@ -39,7 +39,7 @@
     <figure id="Image-17.13">
       <media alt="Diagram of 3 cells, each with a receptor on its surface binding to a unique microbe. The receptors are identical across the 3 cells but the 3 microbes are each different. Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.">
         <image mime-type="image/png" src="../../media/Image-17.13_Pathogen-associated-molecular-patterns.png"/>
-      </media>
+      </media><caption>Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.</caption>
     </figure>    
     <para id="para-00007">How each of these cellular components of the innate immune system functions once they detect these PAMPs is diagrammed in <link target-id="Image-17.30"/>, using the case of a penetrating skin wound that introduces some bacterial pathogens as an example. We will discuss what each cell type does in more detail below.</para>
     <figure id="Image-17.30">
@@ -122,7 +122,7 @@
     <figure id="Image-17.23">
       <media alt="A diagram of cross-section of blood vessel and blood brain barrier. T cells, macrophages and monocytes are shown trapped within the blood vessel, comprised of endothelial cells with tight junctions between then. Astrocyte endfeet wrap the endothelial cells. Microglia and neurons are shown within the brain tissue.">
         <image mime-type="image/png" src="../../media/Image-17.23_Blood-brain-barrier.png"/>
-      </media>
+      </media><caption>The BBB prevents immune cells and pathogens from entering the brain under most circumstances.</caption>
     </figure>    
     <para id="para-00029">The BBB consists of closely joined endothelial cells, astrocytes, and other cells, which form a tight barrier between the brain and everything else. This barrier exists for good reason - the cells within the brain, namely neurons, are delicate, and once damaged, are difficult or impossible to repair. The blood can carry numerous pathogens that could damage these delicate neurons. There is also limited space within the skull, so if immune cells reacting to a pathogen entered the brain and launched a large immune response, any swelling associated with inflammation could be fatal. Most of the time, the BBB prevents the peripheral immune cells like macrophages and lymphocytes from entering the brain, thereby reducing the chance of an inflammatory event.</para>
     
@@ -131,7 +131,7 @@
       <media alt="Fluorescent image of green microglial cells, which have a small, central cell body with many branch-like processes extending out from it in all directions.">
         <image mime-type="image/png" src="../../media/Image-17.33_Microglial-morphology.png"/>
       </media>
-    <caption>Microglia in mouse retina image by NIH Image Gallery from Bethesda, Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
+    <caption>Microglia have elaborate processes that they use to scan the environment. Image credit: NIH Image Gallery from Bethesda, Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
     </figure>
     
     <para id="para-00031">A second major reason the brain and immune systems were believed to be separate for so long is that MHC expression is very low under homeostatic conditions within the CNS, and for a long time, was not thought to be expressed at all. We now understand that the primary immune cells (and APCs) of the brain, microglia, are capable of upregulating MHC I and II, but that they only do so in the case of immune activation, e.g. due to injury or infection.</para>
