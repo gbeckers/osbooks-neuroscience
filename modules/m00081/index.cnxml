@@ -25,7 +25,7 @@
       <figure id="Image-12.15">
         <media alt="Line graph of levels of stress (y-axis) versus time (x-axis). Aline is shown curving up and down but each time is curves back down, it does not return to the initial level. The results in the curve wiggles upward, with each increase returning to a higher new set point. The increase in set point from the beginning is labeled allostatic load. Every increase is labeled allostasis and the return back down is labeled homeostatic recovery.">
           <image mime-type="image/png" src="../../media/Image-12.15_Allostatic-overload.png"/>
-        </media>
+        </media><caption>Allostatic load is the difference between new and old set points that arises due to a cumulative burden of adaptation to stress.</caption>
       </figure>
       <para id="para-00006">Types of allostatic (over)load include: <list list-type="enumerated" number-style="arabic" id="list-00002">
         <item>Frequent activation of allostatic systems: e.g., repeated hits from multiple stressors resulting in overexposure to stress hormones.</item>
@@ -79,7 +79,7 @@
         <figure id="Image-12.36">
           <media alt="Four diagrams to represent microglial functions: scanning (processes moving around), synaptic interactions (processes touching dendritic spines), phagocytosis (a process engulfing debris, pathogens, foreign material etc.), secrete cytokines, chemokines and growth factors (proteins secreted from cell).">
             <image mime-type="image/png" src="../../media/Image-12.36_Microglial-functions.png"/>
-          </media>
+          </media><caption>Through several cellular functions, microglia regulate injury/illness response, healthy brain function and neurodevelopment.</caption>
         </figure>
         <para id="para-00021">Homeostatic or surveilling microglia exhibit a highly branched morphology with a small cell body and unique transcriptional signature. This phenotype is suppressed when disruptions to CNS homeostasis occur (for example, during infection or aging). At the same time, microglia undergo changes in morphology, transcription and proinflammatory mediator profile (a spectrum of different functional states grouped under the umbrella term ‘activation’) which at the extreme becomes a phenotype characteristic of neurodegeneration. One of these activation states, termed ‘primed’, is seen in microglia under neuroinflammatory conditions like stress and aging. Microglia can also proliferate, increasing their numbers in response to homeostatic disruptions. Below, we will discuss more specifically the role of microglia in stress-related pathology with a focus on mood and cognitive dysfunction/neurodegenerative disorders.</para>
         <section id="sect-00010">
