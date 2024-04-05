@@ -152,27 +152,21 @@
           </media><caption>Nociception is the process whereby primary afferent nerve fibers of the somatosensory system detect noxious mechanical, thermal, or chemical stimuli that give rise to pain sensations. Sensitization of a specialized group of somatosensory neurons in the skin  when injury or inflammation occurs triggers an activation of TRP ion channels.  Once activated, these potentiate the transmission of signals to secondary neurons in the spinal cord and then to the brain, eliciting perception of acute discomfort or pain.</caption>
         </figure>
       </section>
-      <table summary="potential applications of TRP channels" colsep="0" frame="none" rowsep="0" id="table-00003">
-        <title>Applications of TRPs</title>
-        <tgroup cols="2">
- 
-        <tbody>
-
-          <row>
-            <entry><media alt="icon of a drug pill">
-              <image mime-type="image/png" src="../../media/icon1.png" width="50"/>
-            </media>TRP channels are potential targets for a new generation of painkillers / analgesic drugs.</entry>
-            <entry><media alt="icon of a smokestack">
-              <image mime-type="image/png" src="../../media/icon2.png" width="50"/>
-            </media>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.</entry>
-            <entry><media alt="icon of a person's head in silhouette">
-              <image mime-type="image/png" src="../../media/icon3.png" width="50"/>
-            </media>Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.</entry>
-          </row>
-        </tbody>
-        </tgroup>
-        <caption/>
-        </table>
+      <para id="para-00042"><title>Applications of TRPs</title>
+      
+        <media alt="icon of a drug pill">
+          <image mime-type="image/png" src="../../media/icon1.png" width="20"/>
+        </media>
+        TRP channels are potential targets for a new generation of painkillers / analgesic drugs.<newline/>
+        <media alt="icon of a smokestack">
+          <image mime-type="image/png" src="../../media/icon2.png" width="20"/>
+        </media>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.<newline/>
+        <media alt="icon of a person's head in silhouette">
+          <image mime-type="image/png" src="../../media/icon3.png" width="20"/>
+        </media>
+        Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.
+      </para>
+    
       <section id="sect-00005">
         <title>Hair follicle mechanosensation</title>
         <para id="para-00011">Throughout our body, the skin can be divided into hairy and glabrous skin (mainly on the palms and soles). In the hairy skin, an axonal terminal wraps around the bottom of the hair, the hair follicle, in the dermis. The reason why we can feel a breeze blowing across our faces is that all those tiny hairs (vellus hair, or peach fuzz) are bent by the airflow. The force is transduced to the hair follicles in the skin, causing the slightest displacement (in terms of nanometers). The follicle displacement causes a stretch of the axonal membrane wrapped around the follicle. There are many mechanosensitive Na<sup>+</sup> channels in this wrapping axon, which open in response to this stretch. That is how we can feel the movement of hair. If the hair is pulled too hard, it can generate pain.</para>
