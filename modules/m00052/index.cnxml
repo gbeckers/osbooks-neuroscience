@@ -21,7 +21,7 @@
       <figure id="Image-14.03">
         <media alt="Diagrams of sagittal views of human and rodent brain showing similar connections of VTA (in the brainstem) to NAc (in frontal lobe) and to PFC (in frontal lobe).">
           <image mime-type="image/png" src="../../media/Image-14.03_Dopaminergic-pathways.png"/>
-        </media>
+        </media><caption>Dopaminergic pathways from the VTA project to PFC and NAc in both humans and rodents. </caption>
       </figure>
       
       <para id="para-00004">The mesolimbic pathway is composed of dopaminergic neurons that innervate cells in the <term id="term-00005">nucleus accumbens (NAc)</term>, a region of the brain highly implicated in motivation and goal-directed behavior. The impact of rewarding stimuli on dopamine signaling in the NAc was first established using <term id="term-00006">microdialysis</term>, a sampling technique in which extracellular fluid is continuously collected from a probe inserted into brain tissue. The collected fluid, also known as dialysate, can then be analyzed to determine the concentration of specific neurotransmitters at different time intervals. Early microdialysis studies in rats demonstrated increased dopamine release in the NAc in response to several different types of psychoactive drugs (Di Chiara &amp; Imperato, 1988). Similarly, positron emission tomography (PET) studies in humans show that rapid increases in dopamine concentration in the NAc are associated with the reinforcing effects of psychoactive drugs (Volkow et al., 1999).</para>
@@ -48,20 +48,81 @@
       <section id="sect-00003">
       <title>Commonly used psychoactive drugs</title>
       <para id="para-00011">In the United States, certain psychoactive drugs are regulated by the FDA and the Drug Enforcement Agency (DEA). These drugs are categorized into one of five schedules based on accepted medical use and potential for addiction (<link target-id="Image-14.19"/>). Schedule I drugs are characterized as having the highest risk for physical and psychological dependence and no accepted medical use, whereas Schedule V drugs have the lowest potential for dependence, although these assessments do not always coincide with current scientific knowledge.</para>
-      <figure id="Image-14.19">
-        <media alt="Insert Alt Text">
-          <image mime-type="image/png" src="../../media/Image-14.19_Drug-schedule-table.png"/>
-        </media>
-      <caption>Insert Caption Here</caption>
-      </figure>
- 
+      <table id="Image-14.19" summary="Current scheduling system for psychoactive drugs in the United States.">
+        <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Schedule</entry>
+            <entry>Description</entry>
+            <entry>Example</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Schedule 1</entry>
+            <entry>No currently accepted medical use in the US, lack of accepted safety, high potential for psychological and physical dependence</entry>
+            <entry>Heroin, LSD, marijuana, ecstasy</entry>
+          </row>
+          <row>
+            <entry>Schedule 2</entry>
+            <entry>High potential for psychological and physical dependence</entry>
+            <entry>Cocaine, oxycodone, fentanyl, methamphetamine</entry>
+          </row>
+          <row>
+            <entry>Schedule 3</entry>
+            <entry>Moderate to low potential for psychological and physical dependence</entry>
+            <entry>Buprenorphine, ketamine, anabolic steroids</entry>
+          </row>
+          <row>
+            <entry>Schedule 4</entry>
+            <entry>Low potential for psychological and physical dependence</entry>
+            <entry>Alprazolam (Xanax), zolpidem (Ambien), diazepam (Valium)</entry>
+          </row>
+          <row>
+            <entry>Schedule 5</entry>
+            <entry>Lower potential for psychological and physical dependence than Schedule 4</entry>
+            <entry>cough medicines with low doses of codeine (Robitussin AC)</entry>
+          </row>
+        </tbody>
+        </tgroup>
+        </table>
+
       <para id="para-00012">The most commonly used psychoactive drugs fall into four main categories, as shown in <link target-id="Image-14.17"/>.</para>
-      <figure id="Image-14.17">
-        <media alt="Insert Alt Text">
-          <image mime-type="image/png" src="../../media/Image-14.17_Commonly-used-addictive-drugs.png"/>
-        </media>
-      <caption>Insert Caption Here</caption>
-      </figure>
+
+      <table id="Image-14.17" summary="The most commonly used psychoactive drugs.">
+        <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Category</entry>
+            <entry>Effect</entry>
+            <entry>Examples</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Stimulant</entry>
+            <entry>Increases CNS activity</entry>
+            <entry>Amphetamine, cocaine, nicotine</entry>
+           </row>
+           <row>
+            <entry>Depressant</entry>
+            <entry>Decreases CNS activity</entry>
+            <entry>Alcohol, Benzodiazepines</entry>
+           </row>
+           <row>
+            <entry>Opioid</entry>
+            <entry>Pain relief, sedation, euphoria</entry>
+            <entry>Fentanyl, heroin, morphine</entry>
+           </row>
+           <row>
+            <entry>Hallucinogen</entry>
+            <entry>Altered sensory perception</entry>
+            <entry>Ketamine, LSD, psilocybin</entry>
+           </row>
+          </tbody>
+      </tgroup>
+    </table>
+
       
       <para id="para-00013"><term id="term-00011">Stimulants</term> increase levels of physiological or central nervous system activity in the body, whereas <term id="term-00012">depressants</term> reduce CNS activity. <term id="term-00013">Hallucinogens</term> are drugs that can alter your perceptions or produce changes in cognition, emotion, and consciousness to a degree that is not typically experienced with other drug categories. The term <term id="term-00014">narcotics</term>, which comes from the Greek word for “stupor”, was originally used to describe any psychoactive compound with sleep-inducing properties. Nowadays, the term refers specifically to opium derivatives and synthetics. Virtually all psychoactive drugs either stimulate dopamine release or enhance dopamine receptor activity in the NAc, resulting in increased dopamine signaling within the reward pathway. <link target-id="Image-14.04"/> shows the actions of several common classes of psychoactive drugs on the mesolimbic dopaminergic system, many of which we will describe further in the sections that follow.</para>
       

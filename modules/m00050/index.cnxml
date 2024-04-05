@@ -52,7 +52,7 @@
   <figure id="Image-14.01">
     <media alt="Insert Alt Text">
       <image mime-type="image/png" src="../../media/Image-14.01_Plasma-concentration-over-time.png"/>
-    </media>
+    </media><caption>Each curve shows the plasma concentration of a drug over time, revealing different absorption rates. Only the middle (blue) curve shows plasma concentrations within the therapeutic range without inducing toxic effects.</caption>
   </figure>
   </section>
   </section>
@@ -106,7 +106,7 @@
   <figure id="Image-14.09">
     <media alt="Diagram of a GABA-A receptor in a cell membrane, showing how sedatives (benzodiazepine, alcohol) bind at different sites than GABA to help open the ion pore.">
       <image mime-type="image/png" src="../../media/Image-14.09_GABA-Areceptor-agonists.png"/>
-    </media>
+    </media><caption>Many sedatives work by binding to and activating GABA-A receptors.</caption>
   </figure>
 </section>
   </section>

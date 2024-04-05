@@ -15,11 +15,62 @@
         </list>
     </section>
     <para id="para-00002"><term id="term-00001">Psychotherapeutics</term> are drugs used primarily in a clinical context to treat mental illnesses (see <link document="m00048">The Neural Underpinnings of Emotion and Mood</link>). While these drugs on their own are not a cure, they can help to reduce symptoms or make non-pharmacological treatments, such as psychotherapy, more effective. Psychotherapeutics work through a variety of mechanisms, but in general, act to alter neurotransmitter signaling in brain circuits that underlie emotion and mood regulation. <link target-id="Image-14.18"/> shows some common psychotherapeutics in the 4 major categories we will discuss below.</para>
-    <figure id="Image-14.18">
-      <media alt="Insert Alt Text">
-        <image mime-type="image/png" src="../../media/Image-14.18_Commonly-prescribed-psychotherapeutic-drugs.png"/>
-      </media>
-    </figure>
+    <table  id="Image-14.18" summary="Pyschotherapeutics in the Anxiolytic, antidepressant, antipsychotic, and psychostimulant categories.">
+      <tgroup cols="4">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <colspec colnum="4" colname="c4"/>
+      <thead>
+        <row>
+          <entry>Category</entry>
+          <entry>Example</entry>
+          <entry>Drug class</entry>
+          <entry>Common use</entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>Anxiolytic</entry>
+          <entry>Alprazolam (Xanax)<newline/>
+          Lorazepam (Ativan)</entry>
+          <entry>Benzodiazepine</entry>
+          <entry>Generalized anxiety disorder, post-traumatic stress disorder, panic disorder</entry>
+        </row>
+        <row>
+          <entry morerows="1">Anti-depressant</entry>
+          <entry>Citalopram (Celexa)<newline/>
+          Fluoxetine (Prozac)</entry>
+          <entry>Selective serotonin reuptake inhibitor</entry>
+          <entry morerows="1">Depression, post traumatic stress disorder, panic disorder</entry>
+
+        </row>
+        <row><entry>Esketamine (Spravato)</entry>
+          <entry>Psychedelic</entry>
+        </row>
+        <row>
+          <entry morerows="1">Anti-psychotic</entry>
+          <entry>Chlorpromazine (Thorazine)<newline/>
+          Fluphenazine (Prolixin)</entry>
+          <entry>Conventional</entry>
+          <entry morerows="1">Schizophrenia</entry>
+        </row>
+        <row>
+          <entry>Clozapine (Clozaril)<newline/>
+          Risperidone (Risperdal)</entry>
+          <entry>Atypical</entry>
+        </row>
+        <row>
+          <entry>Psycho-stimulant</entry>
+          <entry>Methylphenidate (Ritalin)<newline/>
+          Amphetamine (Adderall)</entry>
+          <entry>Stimulant</entry>
+          <entry>Attention-deficit/hyperactivity disorder (ADHD)</entry>
+        </row>
+      </tbody>
+      </tgroup>
+      </table>
+
     <section id="sect-00002"><title>Treatment of anxiety</title>
       <para id="para-00003">Anxiety disorders are one of the most prevalent forms of mental illness. Approximately 31% of American adults will be diagnosed with an anxiety disorder at some point in their lifetime (Harvard Medical School, 2007). Although most people experience some degree of anxiety from time to time, anxiety disorders are characterized by a constant anticipation of threat that is severe enough to disrupt daily functioning. There are several types of anxiety disorders, but they fall broadly into three main categories: generalized anxiety disorder (GAD), panic disorder, and phobia-related disorders. GAD is associated with persistent feelings of excessive dread or worry. Panic disorders are characterized by recurring panic attacks, which are sudden periods of autonomic hyperactivity (i.e. increased heart rate, sweating, shortness of breath) that can occur without any clear stimulus or trigger. Lastly, phobia-related disorders involve irrational or excessive worry about encountering a specific object or situation.</para>
       
@@ -69,7 +120,7 @@
       <figure id="Image-14.13">
         <media alt="Graph of depression rating (y-axis) versus day after ketamine treatment. The curve drops from high to low within 1 d of ketamine.">
           <image mime-type="image/png" src="../../media/Image-14.13_Ketamine-effects-on-depression.png"/>
-        </media>
+        </media><caption>A single administration of ketamine can lead to reduced depressive symptoms within 1 day.</caption>
       </figure>
       </section>
       <section id="sect-00015">
