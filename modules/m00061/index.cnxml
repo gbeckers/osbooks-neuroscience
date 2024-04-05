@@ -48,7 +48,7 @@
   <media alt="hoto of Henry Molaison as a young man (1926-2008). Photo of postmortem coronal brain slice from HM, showing loss of tissue where hippocampus should be.">
     <image mime-type="image/png" src="../../media/Image-18.16_H.M..png"/>
   </media>
-<caption>HM portrait: Fair use, https://en.wikipedia.org/w/index.php?curid=25399602. HM brain: Annese, J., Schenker-Ahmed, N., Bartsch, H. et al. Postmortem examination of patient H.M.’s brain based on histological sectioning and digital 3D reconstruction. Nat Commun 5, 3122 (2014). https://doi.org/10.1038/ncomms4122. CC-NC-ND 3.0</caption>
+<caption>Images of H.M.'s brain show large portions of the hippocampus is missing. Counterstaining of the sections in boxes on the top are shown on the bottom. Image credits: HM portrait: https://en.wikipedia.org/w/index.php?curid=25399602. HM brain: Annese, J., Schenker-Ahmed, N., Bartsch, H. et al. Postmortem examination of patient H.M.’s brain based on histological sectioning and digital 3D reconstruction. Nat Commun 5, 3122 (2014). https://doi.org/10.1038/ncomms4122. CC-NC-ND 3.0</caption>
 </figure>
 
 <para id="para-00010">The first person to study Molaison was Brenda Milner, a graduate student at McGill University who was in the process of completing her doctoral work under the mentorship of Donald Hebb, who will appear again later in this chapter in <link document="m00064">Synaptic Mechanisms of Long-Term Memory</link>. When Milner heard about Molaison’s unexpected memory loss following the surgery, she traveled to Hartford to conduct testing to understand the nature of the memory deficit. Milner and her colleagues, most notably, her former student, Susan Corkin, continued to study Molaison’s memory deficits for the next five decades and even examined his brain in detail after his death.</para>
@@ -59,7 +59,7 @@
 <figure id="Image-18.34">
   <media alt="Diagram of a human brain showing the location of major systems associated with memory. Striatum in middle of brain: procedural memory. Amygdala in temporal lobe: emotion association. Hippocampus in temporal lobe: Episodic memory.">
     <image mime-type="image/png" src="../../media/Image-18.34_Major-parallel-pathways-for-long-term-memory-consolidation.png"/>
-  </media>
+  </media><caption>Memory is processed and stored into long-term memories by different brain systems depending on the type of memory.</caption>
 </figure>
 
 <para id="para-00014">Broadly, the hippocampus and related structures support <term id="term-00010">episodic memory</term>, the ability to recall specific experiences including the time and place of their occurrence. The striatum supports <term id="term-00011">procedural memory</term>, which results from the formation of an association between a stimulus and a response (see <link document="m00062">Implicit Memories: Associative vs. Nonassociative Learning</link>). The amygdala supports the formation of an association between a neutral stimulus and an emotional state (for example, fear).</para>
@@ -112,7 +112,7 @@
   <media alt="EG tracings showing that Interictal epileptiform discharges (IED) show up via EEG as a generalized 3 Hz signal.">
     <image mime-type="image/png" src="../../media/Image-18.18_Seizures.png"/>
   </media>
-<caption>EEG traces by Bromfield EB, Cavazos JE, Sirven JI, editors. - https://www.ncbi.nlm.nih.gov/books/NBK2511/figure/A157/?report=objectonlyAn Introduction to Epilepsy [Internet]. American Epilepsy Society; 2006.All content of An Introduction to Epilepsy, except where otherwise noted, is licensed under a Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57797002</caption>
+<caption>Interictal epileptiform discharges (IED) show up via EEG as a generalized 3 Hz signal. Image credits: EEG traces by Bromfield EB, Cavazos JE, Sirven JI, editors. - https://www.ncbi.nlm.nih.gov/books/NBK2511/figure/A157/?report=objectonly An Introduction to Epilepsy [Internet]. American Epilepsy Society; 2006. CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=57797002</caption>
 </figure>
 
 <para id="para-00031">Just because these seizures do not turn into obvious motor convulsions does not mean that they have no effect on behavior. One study (Kleen et al 2013) investigated the impact of IEDs on short-term memory in a group of patients implanted with depth electrodes in their hippocampus in order to preoperatively localize the seizures. They found that IEDs that occurred at the time of memory maintenance or retrieval significantly decreased task choice accuracy, suggesting that IEDs can contribute to cognitive impairment in epilepsy. It therefore seems likely that undetected IEDs are contributing to memory impairments in patients’ daily lives.</para>
