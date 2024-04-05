@@ -157,21 +157,17 @@
         <tgroup cols="2">
  
         <tbody>
+
           <row>
             <entry><media alt="icon of a drug pill">
-              <image mime-type="image/png" src="../../media/icon1.png"/>
-            </media></entry>
+              <image mime-type="image/png" src="../../media/icon1.png" width="50"/>
+            </media>TRP channels are potential targets for a new generation of painkillers / analgesic drugs.</entry>
             <entry><media alt="icon of a smokestack">
-              <image mime-type="image/png" src="../../media/icon2.png"/>
-            </media></entry>
+              <image mime-type="image/png" src="../../media/icon2.png" width="50"/>
+            </media>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.</entry>
             <entry><media alt="icon of a person's head in silhouette">
-              <image mime-type="image/png" src="../../media/icon3.png"/>
-            </media></entry>
-          </row>
-          <row>
-            <entry>TRP channels are potential targets for a new generation of painkillers / analgesic drugs.</entry>
-            <entry>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.</entry>
-            <entry>Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.</entry>
+              <image mime-type="image/png" src="../../media/icon3.png" width="50"/>
+            </media>Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.</entry>
           </row>
         </tbody>
         </tgroup>
