@@ -98,7 +98,7 @@
             <para id="para-00023">Exposure to intense noise can also produce a hearing disorder called tinnitus, a perception of a tone or buzzing sound in the absence of an external stimulus. Although the mechanisms of hearing-loss-related tinnitus remain unclear, one hypothesis is that the illusory tones are the result of overcompensation by central brain areas for regions of the organ of Corti where hearing loss has occurred (Knipper et al 2021).</para>
           </note>
 
-          <note class="in-the-lab" id="note-00002">
+          <note class="inthe-lab" id="note-00002">
             <title>Cochlear implants</title>
             <para id="para-00024">Most cases of deafness are caused by conductive hearing loss, by sensorineural damage to hair cells, or by a combination of the two. What if it were possible to bypass these parts of the ear and directly stimulate the afferent auditory nerve fibers? In recent decades, the technology to do just that has restored hearing for hundreds of thousands of individuals, including some who were unable to hear from birth.</para>
             <para id="para-00025">A cochlear implant consists of two main parts (<link target-id="Image-7.14"/>). A thin array of electrodes is surgically implanted in the cochlear partition, close to the afferent terminals of the auditory nerve. When an electrical pulse is delivered to one of these electrodes, it depolarizes the axons directly, causing them to generate action potentials that travel into the brain. Electrodes near the base of the cochlea activate the axons associated with high frequencies, while electrodes near the apex activate the axons associated with low frequencies.</para>
@@ -237,7 +237,7 @@
       <para id="para-00107">Zeng F-G (2020) Tinnitus and hyperacusis: Central noise, gain and variance. Curr Opin Physiol 18:123–129.</para>
       <para id="para-00108">Zheng J, Shen W, He DZ, Long KB, Madison LD, Dallos P (2000) Prestin is the motor protein of cochlear outer hair cells. Nature 405:149–155.</para>
     </section>
-    <section class="multiple-choice" id="sect-00021"> 
+    <section class="multiple-choice" id="sect-00021">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
@@ -293,7 +293,7 @@
         </problem>
       </exercise>
     </section>
-    <section class="fillin-blank" id="sect-00022"> 
+    <section class="fillin-blank" id="sect-00022">
       <title>Fill in the Blank</title>
       <exercise id="exer-00010">
         <problem id="prob-00010">
