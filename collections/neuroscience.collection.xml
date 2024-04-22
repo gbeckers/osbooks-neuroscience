@@ -8,7 +8,7 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Structure and function of the nervous system: cells and anatomy</md:title>
+      <md:title>Structure and Function of the Nervous System: Cells and Anatomy</md:title>
       <col:content>
         <col:module document="m00026"/>
         <col:module document="m00021"/>
@@ -39,7 +39,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Comparative neuroscience</md:title>
+      <md:title>Comparative Neuroscience</md:title>
       <col:content>
         <col:module document="m00031"/>
         <col:module document="m00032"/>
@@ -48,6 +48,28 @@
         <col:module document="m00035"/>
         <col:module document="m00036"/>
         <col:module document="m00037"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Neurodevelopment</md:title>
+      <col:content>
+        <col:module document="m00086"/>
+        <col:module document="m00085"/>
+        <col:module document="m00074"/>
+        <col:module document="m00075"/>
+        <col:module document="m00076"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vision</md:title>
+      <col:content>
+        <col:module document="m00087"/>
+        <col:module document="m00088"/>
+        <col:module document="m00089"/>
+        <col:module document="m00090"/>
+        <col:module document="m00091"/>
+        <col:module document="m00092"/>
+        <col:module document="m00093"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -132,6 +154,16 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Neuroimmunology</md:title>
+      <col:content>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+        <col:module document="m00077"/>
+        <col:module document="m00082"/>
+        <col:module document="m00083"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Learning and Memory</md:title>
       <col:content>
         <col:module document="m00060"/>
@@ -142,7 +174,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Attention &amp; Executive Function</md:title>
+      <md:title>Attention and Executive Function</md:title>
       <col:content>
         <col:module document="m00065"/>
         <col:module document="m00066"/>
@@ -151,16 +183,6 @@
         <col:module document="m00069"/>
         <col:module document="m00070"/>
         <col:module document="m00071"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Neuroimmunology</md:title>
-      <col:content>
-        <col:module document="m00072"/>
-        <col:module document="m00073"/>
-        <col:module document="m00077"/>
-        <col:module document="m00082"/>
-        <col:module document="m00083"/>
       </col:content>
     </col:subcollection>
   </col:content>

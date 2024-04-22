@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How do brains vary in size?</title>
+  <title>How Do Brains Vary in Size?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How do brains vary in size?</md:title>
+    <md:title>How Do Brains Vary in Size?</md:title>
     <md:content-id>m00034</md:content-id>
     <md:uuid>bc95e916-283f-4369-a340-ddc202a4ee17</md:uuid>
   </metadata>
@@ -25,9 +25,9 @@
     
     <para id="para-00005">Brain region volumes vary across species. <link target-id="Image-4.19"/> depicts brains of mice, rhesus macaques and humans.</para>
     <figure id="Image-4.19">
-      <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) An inset shows these three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
+      <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) These three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
         <image mime-type="image/png" src="../../media/Image-4.19_Brain-regions-vary-allometrically.png"/>
-      </media>
+      </media><caption>A greater relative contribution of cortex to total brain mass is seen in monkeys and humans compared to mice, reflecting the positive allometry of the cortex.</caption>
     </figure>
     
     <para id="para-00006">As can be seen from the to-scale images in the lower right, these brains have very different total sizes. When the size of the brains is equalized, one noticeable observation is that larger brains are preferentially composed of the cerebral cortex. This observation is true when we consider humans, but it also holds when we consider other mammals. Brain allometry means that, as overall brains vary in size, some brain regions come to occupy a relatively large proportion of the brain while other brain regions occupy a relatively small proportion of the brain. A formal way to describe proportional changes in the relative size of brain parts is to say that brain regions vary <term id="term-00002">allometrically</term> (Stephan et al., 1981; Reep et al., 2007; Yopak et al., 2010; Bush and Allman, 2004).</para>
@@ -58,7 +58,7 @@
 
     <section class="section-summary" id="sect-00005">
       <title>Summary</title>
-      <para id="para-00015">The size of the brain and its parts are relatively large in humans compared with other species. Cross-species comparisons across diverse species show that brain regions sometimes vary allometrically (Barton and Harvey, 2000), but grade shifts are also possible, revealing regions that are larger (or smaller) than allometry would predict.  Sensory and motor specializations carve out cortical territories, revealing how brain region sizes can predict behavioral functionality. </para>
+      <para id="para-00015">The size of the brain and its parts are relatively large in humans compared with other species. Cross-species comparisons across diverse species show that brain regions sometimes vary allometrically (Barton and Harvey, 2000), but grade shifts are also possible, revealing regions that are larger (or smaller) than allometry would predict.  Sensory and motor specializations carve out cortical territories, revealing how brain region sizes can predict behavioral functionality.</para>
     </section>
     <section class="key-terms" id="sect-00006">
       <title>Key Terms</title>
@@ -91,5 +91,25 @@
       <para id="para-00035">Strait, D.L., &amp; Kraus, N. (2014). Biological impact of auditory expertise across the life span: musicians as a model of auditory learning. <emphasis effect="italics">Hear Res</emphasis>, <emphasis effect="italics">308</emphasis>, 109–121. doi: 10.1016/j.heares.2013.08.004.</para>
       
     </section>
+    <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title>
+      <exercise id="exer-00001">
+          <problem id="prob-00001">
+      <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-03-001"/></para></problem></exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+    <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-04-03-002"/></para></problem></exercise>
+    <exercise id="exer-00003">
+      <problem id="prob-00003">
+  <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-04-03-003"/></para></problem></exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+<para id="para-00039"><link class="os-embed" url="#exercise/Neuro-04-03-004"/></para></problem></exercise>
+       </section>
+      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title>
+      <exercise id="exer-00005">
+          <problem id="prob-00005">
+      <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-04-03-005"/></para></problem></exercise>
+      </section>
+      
   </content>
 </document>

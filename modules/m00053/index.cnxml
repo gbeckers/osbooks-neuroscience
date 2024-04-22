@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Neurobiology of addiction</title>
+  <title>Neurobiology of Addiction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Neurobiology of addiction</md:title>
+    <md:title>Neurobiology of Addiction</md:title>
     <md:content-id>m00053</md:content-id>
     <md:uuid>fda441ef-65ed-4f68-8ec0-58153005d56f</md:uuid>
   </metadata>
@@ -25,7 +25,7 @@
     
     <para id="para-00004">The binge/intoxication stage is associated with the initial euphoric effects elicited by many psychoactive drugs, which serve as a powerful reinforcer for continued drug use. In contrast, the withdrawal/negative affect stage is characterized by reduced positive associations with the drug. Prolonged drug use can lead to <term id="term-00002">tolerance</term>, or decreased drug effectiveness over time, in addition to diminished interest or motivation for non-drug-related rewards. Drug cessation may result in <term id="term-00003">withdrawal</term>, a constellation of highly aversive physical (i.e. sweating, vomiting, diarrhea, seizures), and psychological (i.e. anxiety, depression) symptoms. Whereas physical symptoms typically subside within a week or so, the psychological aspects of withdrawal can continue for months or longer. At this stage, drug use is typically motivated by a desire to avoid withdrawal symptoms as opposed to seeking euphoric effects. The preoccupation/anticipation stage occurs during periods of abstinence when individuals experience strong cravings for the drug and become engrossed with seeking out and obtaining the drug. Thus, one of the most challenging aspects of treating SUDs is the risk of <term id="term-00004">chronic relapse</term> or a repeated pattern of returning to drug use after a period of abstinence. The proposed neurobiological mechanisms that contribute to these distinct stages are described below.</para>
     <section id="sect-00003">
-    <title>14.4.1.1: Binge/Intoxication</title>
+    <title>Binge/Intoxication</title>
     <para id="para-00005">As discussed earlier in the chapter, almost all psychoactive drugs enhance activity in the mesocorticolimbic dopamine system. Importantly, these drug-induced increases in dopamine signaling often occur faster and to a larger and more prolonged extent compared to natural stimuli (<link target-id="Image-14.25"/>). This extra strong stimulation of the mesolimbic dopamine system is thought to induce neuroplastic changes, such as increased dendritic spines or insertion of receptors into the synapse, within the larger basal ganglia system which regulates complex processes including motivation, decision-making, and emotions. The activation of brain circuits that mediate reward-based learning ultimately increases the incentive salience, or motivational drive, for the drug and drug-associated environmental cues (i.e. specific people, places, or items that have previously been paired with drug use).</para>
     <figure id="Image-14.25">
       <media alt="Left is an illustration of a metal probe targeting the NAc of a rodent who is being given food or injected with something. The tube samples NAc dialysate (extracellular fluid). Right is a graph of % of basal DA release (y-axis) versus hours after feeding or drug. Amphetamine curve shows much higher peak and longer recover than food.">
@@ -39,7 +39,7 @@
     <figure id="Image-14.06">
       <media alt="A graph of drug effect (y-axis) versus drug dose (x-axis). Curves for first exposure and after repeated exposure both rise with increased dose, but the repeated-use curve is shifted to the right compared to the first-exposure curve.">
         <image mime-type="image/png" src="../../media/Image-14.06_Tolerance.png"/>
-      </media>
+      </media><caption>Repeated use of a drug can lead to a shift in response, such that more drug is needed to achieve the same effect.</caption>
     </figure>
     
     <para id="para-00007">Tolerance can arise through several different mechanisms. Drug-induced changes in metabolism, such as elevated liver enzyme activity, can lead to faster degradation and clearance of the drug, resulting in reduced bioavailability. Alternatively, tolerance may be caused by changes in cellular responses to the drug following repeated exposure. For example, whereas initial drug use enhances dopamine release, chronic drug exposure reduces dopamine release and downregulates the expression of dopamine receptors within the dopamine reward pathway (Volkow et al., 1997; Martinez et al., 2004) (<link target-id="Image-14.08"/>). With less neurotransmitter and receptor availability comes less receptor binding and signaling, ultimately leading to reduced drug effects.</para>
@@ -47,20 +47,20 @@
       <media alt="Example human brain PET scans show more DA D2 receptor binding in control versus addicted brains. This demonstrates reduced expression of D2 dopamine receptors within the basal ganglia of participants with cocaine use disorder compared to controls.">
         <image mime-type="image/png" src="../../media/Image-14.08_Dopamine-(DA)-D2-receptor-binding.png"/>
       </media>
-    <caption>Copyright © 1993 Wiley-Liss, Inc. Image reused with permission: Volkow, N.D., Fowler, J.S., Wang, G.-J., Hitzemann, R., Logan, J., Schlyer, D.J., Dewey, S.L. and Wolf, A.P. (1993), Decreased dopamine D2 receptor availability is associated with reduced frontal metabolism in cocaine abusers. Synapse, 14: 169-177. https://doi.org/10.1002/syn.890140210.</caption>
+    <caption>Position emission topography (PET) scan studies demonstrate reduced expression of D2 dopamine receptors within the basal ganglia of participants with cocaine use disorder compared to controls. Image credit: 1993 Wiley-Liss, Inc. Image reused with permission: Volkow, N.D., Fowler, J.S., Wang, G.-J., Hitzemann, R., Logan, J., Schlyer, D.J., Dewey, S.L. and Wolf, A.P. (1993), Decreased dopamine D2 receptor availability is associated with reduced frontal metabolism in cocaine abusers. Synapse, 14: 169-177. https://doi.org/10.1002/syn.890140210.</caption>
     </figure>
     
     <para id="para-00008">Tolerance can also manifest from conditioned behavioral responses to environmental cues associated with drug use (Siegel, 1999). Drug users who were presented with drug preparation materials and asked to self-inject experienced significantly fewer physiological responses to the drug compared to drug users who received a passive infusion of the drug (Ehran et al., 1992). This finding suggests that the mere anticipation of drug administration may be sufficient to induce compensatory physiological mechanisms that weaken the drug’s effects. While drug dependence is highly associated with SUDs, it does not necessarily equate to addiction. For instance, a person who drinks caffeinated beverages daily may become dependent on caffeine and experience withdrawal symptoms (e.g. headache, fatigue, irritability) if they skip a day, but it is highly unlikely that they would develop the pathological behaviors that characterize SUDs.</para>
     
-    <para id="para-00009">The negative psychological symptoms associated with chronic drug use and withdrawal are mediated by increased activation of brain stress systems and impaired functioning of reward circuits. While the mechanisms underlying these effects are not well understood, they are thought to be caused by drug-induced neuroadaptations that sensitize circuits involved in stress response. Several rodent studies have demonstrated that withdrawal from chronic drug exposure increases stress hormone activity in the extended amygdala, an anatomical region including the amygdala and bed nucleus of the stria terminalis (BNST) that is highly implicated in both stress response and emotional processing (Koob, 2008) <link document="">Stress</link>. On the other hand, the blockade of stress hormone signaling prevents the manifestation of anxiety-like behavior following drug cessation. Collectively, these mechanisms are believed to contribute to the aversive psychological components of drug withdrawal that act as a negative reinforcement for continued drug use.</para>
+    <para id="para-00009">The negative psychological symptoms associated with chronic drug use and withdrawal are mediated by increased activation of brain stress systems and impaired functioning of reward circuits. While the mechanisms underlying these effects are not well understood, they are thought to be caused by drug-induced neuroadaptations that sensitize circuits involved in stress response. Several rodent studies have demonstrated that withdrawal from chronic drug exposure increases stress hormone activity in the extended amygdala, an anatomical region including the amygdala and bed nucleus of the stria terminalis (BNST) that is highly implicated in both stress response and emotional processing (Koob, 2008) (see <link document="m00078">Stress</link>). On the other hand, the blockade of stress hormone signaling prevents the manifestation of anxiety-like behavior following drug cessation. Collectively, these mechanisms are believed to contribute to the aversive psychological components of drug withdrawal that act as a negative reinforcement for continued drug use.</para>
     </section>
     <section id="sect-00005">
-    <title>14.4.1.3: Preoccupation/Anticipation</title>
+    <title>Preoccupation/Anticipation</title>
     <para id="para-00010">Increased preoccupation, or fixation on seeking out and obtaining drugs, may be caused by drug-induced alterations in neuronal processes within the hippocampus and prefrontal cortex (PFC). Neuroimaging studies in humans have demonstrated increased hippocampal activation during cue-elicited craving (Volkow, Fowler, &amp; Wang, 2004). Furthermore, individuals diagnosed with a SUD exhibit abnormal activity in the PFC and impaired performance in cognitive tasks that are dependent on the PFC (Bolla et al., 2003). As proposed by the incentive-sensitization theory of addiction, drug-induced dysregulation of reward-based learning pathways may cause drugs and drug-associated cues to become hyper-salient, leading to intense cravings during abstinence. This, coupled with impaired impulse control and self-regulation mechanisms, may explain why factors such as environmental cues or stress can reinstate uncontrollable drug-seeking behavior in individuals who are in recovery.</para></section>
-    <note class="across-species" id="note-00001">
-    <title>Intravenous self-administration</title>
+    <section id="sect-00012">
+    <title>Neuroscience across species: Intravenous self-administration</title>
     
-    <para id="para-00011">The brain reward system is remarkably conserved across species <link document="m00031">Comparative Neuroscience</link>. Rodents, in particular, share many of the same brain regions, neurotransmitters, receptors, and genes found in humans. Furthermore, rodents exhibit similar behavioral and neurobiological responses to psychoactive drugs, making them an excellent translational model for investigating the neural mechanisms underlying the different stages of addiction.</para>
+    <para id="para-00011">The brain reward system is remarkably conserved across species (see <link document="m00031">Comparative Neuroscience</link>). Rodents, in particular, share many of the same brain regions, neurotransmitters, receptors, and genes found in humans. Furthermore, rodents exhibit similar behavioral and neurobiological responses to psychoactive drugs, making them an excellent translational model for investigating the neural mechanisms underlying the different stages of addiction.</para>
     
     <para id="para-00012"><term id="term-00006">Intravenous self-administration (IVSA)</term> is considered the gold standard for studying drug-seeking behavior in an animal model (<link target-id="Image-14.07"/>). Using IVSA, researchers can examine the variables that contribute to different levels of responding to a drug reward. In this procedure, a catheter is surgically implanted into the jugular vein of a mouse or rat. The catheter is connected to a syringe containing the drug of interest. The rodent is then trained in an operant chamber to press a lever to receive an intravenous delivery of the drug. Often drug delivery is paired with an auditory or visual cue, such as a tone or light.</para>
     <figure id="Image-14.07">
@@ -70,7 +70,7 @@
     </figure>    
     <para id="para-00013">To investigate how much effort an animal will exert to receive the drug, the experimenter can manipulate the ratio schedule, which is the number of lever presses required to receive the drug reward. In a fixed ratio schedule, the animal must perform a predetermined number of lever presses to receive a single delivery of the drug. For example, in a fixed ratio 1 schedule (FR1), the animal receives one delivery for each lever press within a session, whereas a fixed ratio 5 schedule (FR5) requires the animal to perform at least 5 lever presses to receive a single dose. In contrast, a <term id="term-00007">progressive ratio schedule</term> requires escalating responses for a single delivery within a session. In this scenario, the animal may initially only need to lever press a few times to receive one delivery, but over time may need to lever press over a hundred times to receive the same reward. The highest ratio schedule achieved within a certain time period before the animal stops responding is referred to as the <term id="term-00008">breakpoint</term>. A high breakpoint is indicative of increased motivational desire or “wanting” of the drug.</para>
     
-    <para id="para-00014">During <term id="term-00009">extinction</term>, the drug and drug-associated cues are removed, or the chamber context is changed (different wall pattern, floor texture, odor, etc.). Over time, the lack of reinforcement leads to a reduction in lever pressing. However, drug-seeking behavior (i.e. lever pressing) can be quickly restored by either exposing the animal to a drug-associated context or cue, a stressor (i.e. footshock), or an injection of the drug itself before testing. This phenomenon is referred to as <term id="term-00010">reinstatement</term> and closely mimics relapse behavior in humans. The top of <link target-id="Image-14.07"/> shows this experimental paradigm coupled with cue-induced reinstatement while the bottom shows context-induced reinstatement. Note in both cases that bar pressing increases during self-administration when lever pressing is reinforced by drug infusions, decreases during extinction when the drug and associated cue or context is removed, and increases again when either the drug-associated cue or context is returned in the absence of reinforcement from drug infusions.</para></note>
+    <para id="para-00014">During <term id="term-00009">extinction</term>, the drug and drug-associated cues are removed, or the chamber context is changed (different wall pattern, floor texture, odor, etc.). Over time, the lack of reinforcement leads to a reduction in lever pressing. However, drug-seeking behavior (i.e. lever pressing) can be quickly restored by either exposing the animal to a drug-associated context or cue, a stressor (i.e. footshock), or an injection of the drug itself before testing. This phenomenon is referred to as <term id="term-00010">reinstatement</term> and closely mimics relapse behavior in humans. The top of <link target-id="Image-14.07"/> shows this experimental paradigm coupled with cue-induced reinstatement while the bottom shows context-induced reinstatement. Note in both cases that bar pressing increases during self-administration when lever pressing is reinforced by drug infusions, decreases during extinction when the drug and associated cue or context is removed, and increases again when either the drug-associated cue or context is returned in the absence of reinforcement from drug infusions.</para></section>
     <note class="boxed-feature" id="note-00002">
     <title>History of neuroscience: Opioid crisis</title>
     <para id="para-00015">In 2017, the opioid crisis was declared a public health emergency in the United States. The history of this epidemic is often characterized by three distinct waves of opioid-related overdose deaths, with the first wave beginning in the 1990s. This first wave can be traced to a change in how pain was treated medically. In 1996, the American Pain Society instituted pain as the fifth vital sign (in addition to body temperature, heart rate, respiration rate, and blood pressure). Consequently, healthcare institutions revised their guidelines to prioritize pain assessment and management. Around the same time, the pharmaceutical company Purdue Pharmaceutical released OxyContin, a sustained-release opioid painkiller. OxyContin was aggressively marketed to physicians and pain management professionals as a non-addictive opioid, even though these claims were never substantiated with clinical evidence. This marketing campaign led to the overprescription of opioids and the subsequent rise in prescription opioid overdoses between the late 1990s to 2010.</para>
@@ -85,7 +85,7 @@
     
     <para id="para-00019">Many psychosocial and environmental variables can serve as protective factors by either reducing the likelihood that the individual develops an addiction in the first place or enhancing access to treatment in the case they are diagnosed with a SUD.  Protective factors include supportive social structures, participation in community-based initiatives, treatment availability, and access, educational campaigns, beneficial economic conditions, and insurance coverage to name a few.</para>
     </section>
-    <note class="boxed-feature" id="note-00003">
+    <section id="sect-00013">
     <title>People behind the science: Dr. Yasmin Hurd</title>
     <para id="para-00020">The past few decades have witnessed a significant shift in policies surrounding the medical and recreational use of cannabis at the state level. With the increased prevalence of cannabis products across the country, concerns have been raised about the potentially harmful long-term effects of cannabis use. Dr. Yasmin Hurd, a neuroscientist at the Icahn School of Medicine at Mount Sinai (<link target-id="Image-14.24"/>), is well known for her contributions to enhancing our understanding of the neurodevelopmental effects of early-life THC (the active ingredient in cannabis) exposure. Her laboratory uses both preclinical (involving animal models) and clinical studies to better understand the neurobiological mechanisms that underlie addiction and other neuropsychiatric disorders. This approach to science is known as <term id="term-00012">translational research</term> since the goal is to convert basic science findings into information that can ultimately benefit humans.</para>
     <figure id="Image-14.24">
@@ -97,16 +97,16 @@
     
     <para id="para-00021">In an innovative study combining both animal and human research, Dr. Hurd and her colleagues investigated postmortem fetal brain samples that had either been exposed to cannabis during gestation or had no prenatal exposure (DiNieri et al., 2011). They found that gestational exposure to cannabis was associated with decreased dopamine receptor expression in the nucleus accumbens (NAc), a brain region highly implicated in reward processing.</para>
     
-    <para id="para-00022">To further examine the effects of cannabis on the developing brain, Dr. Hurd’s research team developed a rodent model in which pregnant rats were treated with daily intravenous injections of either THC or an inactive solution throughout gestation. To control for the potential effects of drug exposure on maternal behavior, offspring of THC-exposed rats were fostered by rats that had no drug exposure. Brain samples were collected on postnatal day 2 (a developmental period comparable to the second trimester of a human pregnancy) and at 8 weeks, which is considered young adulthood in rodents. Similar to the human fetal brain samples, rats prenatally exposed to THC exhibited reduced dopamine receptor expression in the NAc compared to non-exposed controls shortly after birth. Strikingly, this effect was still observed at the 8-week time point. Furthermore, adult rats who had previously been exposed to THC demonstrated increased sensitivity to opioid rewards. Taken together, these findings suggest that early-life THC exposure has long-lasting effects on dopamine receptor function within the mesocorticolimbic pathway, which may increase vulnerability to the reinforcing effects of psychoactive drugs later in life.</para></note>
+    <para id="para-00022">To further examine the effects of cannabis on the developing brain, Dr. Hurd’s research team developed a rodent model in which pregnant rats were treated with daily intravenous injections of either THC or an inactive solution throughout gestation. To control for the potential effects of drug exposure on maternal behavior, offspring of THC-exposed rats were fostered by rats that had no drug exposure. Brain samples were collected on postnatal day 2 (a developmental period comparable to the second trimester of a human pregnancy) and at 8 weeks, which is considered young adulthood in rodents. Similar to the human fetal brain samples, rats prenatally exposed to THC exhibited reduced dopamine receptor expression in the NAc compared to non-exposed controls shortly after birth. Strikingly, this effect was still observed at the 8-week time point. Furthermore, adult rats who had previously been exposed to THC demonstrated increased sensitivity to opioid rewards. Taken together, these findings suggest that early-life THC exposure has long-lasting effects on dopamine receptor function within the mesocorticolimbic pathway, which may increase vulnerability to the reinforcing effects of psychoactive drugs later in life.</para></section>
     
-    <note class="boxed-feature" id="note-00004">
+    <section id="sect-00014">
     <title>Living field of neuroscience: Is addiction a brain disease?</title>
     <para id="para-00023">The <term id="term-00013">brain disease model of addiction</term> characterizes addiction as a chronic and relapsing condition that arises from drug-induced neuroplastic changes in the reward and mood circuits of the brain. Sensitization of brain reward systems causes drugs and drug-associated stimuli to become compulsively “wanted”, leading to a persistent craving. Over time, the development of tolerance and recruitment of “anti-reward” brain systems reduces the amount of pleasure gained from the drug and increases negative affect in the absence of the drug. Collectively, these neuroadaptations are thought to underlie behavioral shifts from constrained to compulsive drug use which can overcome the will to abstain from drug use.</para>
     
     <para id="para-00024">The brain disease model has been influential in the development of evidence-based treatments for addiction, such as medication for reducing craving and withdrawal, and cognitive behavioral therapies for improving self-regulation. Classifying addiction as a disease has helped inform public health policy, such as the Mental Health Parity and Addiction Equity Act of 2008, which required that health insurance plans provide the same level of benefits for SUD treatment as other medical illnesses. Additionally, proponents argue that the brain disease model helps to reduce the stigmatization of addiction as a moral failing, which in turn reduces barriers to seeking out treatment.</para>
     
     <para id="para-00025">Although the brain disease model has grown in popularity over the last few decades, several issues have been raised regarding this theory. Opponents of the brain disease model argue that it overemphasizes biological processes while downplaying the influence of societal, psychosocial and environmental factors. There are concerns that this may lead to an over-reliance on biomedical approaches at the expense of more holistic public health strategies. Furthermore, some argue that labeling addiction as a disease diminishes personal agency and motivation to change behaviors. Alternative theories propose that rather than a pathological state, addiction is a natural learned response to rewarding environmental stimuli that can be overcome by behavioral and cognitive modifications.</para>
-    </note>
+    </section>
 
   <section class="section-summary" id="sect-00007"><title>Summary</title>
     <para id="para-00026">There are many different reasons why an individual may initiate drug use. However, a single or even a few exposures to a drug rarely result in a SUD. The transition from controlled to compulsive drug use is likely mediated by drug-induced neuroplastic changes in brain reward and stress response circuits that enhance incentive salience for drug-related cues and generate negative emotional states in the absence of the drug. Although the neurobiological framework for studying addiction has helped to advance our understanding of the biological mechanisms that mediate drug-seeking behavior, it is important to also consider the societal, social, psychological, and environmental factors that contribute to the overall risk of developing a SUD.</para> </section>
@@ -141,8 +141,43 @@
       <para id="para-00039">Wise, R. A., &amp; Koob, G. F. (2014). The development and maintenance of drug addiction. <emphasis effect="italics">Neuropsychopharmacology</emphasis>, <emphasis effect="italics">39</emphasis>(2), 254-262.</para>      
      </section>
     
-    <section class="multiple-choice" id="sect-00010"><title>Multiple Choice</title> <para id="para-00040">...</para> </section>
-    <section class="fillin-blank" id="sect-00011"><title>Fill in the Blank</title> <para id="para-00041">...</para> </section>
+    <section class="multiple-choice" id="sect-00010"><title>Multiple Choice</title> 
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-14-04-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-14-04-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-14-04-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-14-04-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-14-04-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-14-04-006"/></para>
+        </problem>
+      </exercise> </section>
+    <section class="fillin-blank" id="sect-00011"><title>Fill in the Blank</title>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-14-04-007"/></para>
+        </problem>
+      </exercise> </section>
     
   </content>
 </document>

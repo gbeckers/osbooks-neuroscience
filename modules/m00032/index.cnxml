@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>How do we choose a model system?</title>
+  <title>How Do We Choose A Model System?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>How do we choose a model system?</md:title>
+    <md:title>How Do We Choose A Model System?</md:title>
     <md:content-id>m00032</md:content-id>
     <md:uuid>670e6eb7-2836-4c4b-9252-e1c8621a0464</md:uuid>
   </metadata>
@@ -25,10 +25,10 @@
       
       <para id="para-00006">There are many other examples that illustrate the importance of letting behavior guide the choice of a model system. While researchers may each have a preferred model for studying their particular question, the integration of information across model systems provides a comprehensive understanding of the neurobiological mechanisms of a behavior.</para>
       
-      <para id="para-00007">In addition to having the behavior drive model selection, there are practical concerns associated with model species. In many cases, scientists are concerned about how easily the model organism can breed and be housed in a laboratory. While experiments in the wild can be informative, laboratory environments provide much greater control over what animals experience and how data are collected. Mice are by far the most commonly used laboratory species in biomedical research because they are somewhat similar to humans, and because they are readily (and cheaply) maintained in a controlled lab setting (deSousa et al., 2023). They are also tractable because scientists can obtain a large number of animals for study. Other model systems include rats, voles, opossums, cats, macaques, and marmosets. Each of these organisms have practical drawbacks and benefits in their use. </para>
+      <para id="para-00007">In addition to having the behavior drive model selection, there are practical concerns associated with model species. In many cases, scientists are concerned about how easily the model organism can breed and be housed in a laboratory. While experiments in the wild can be informative, laboratory environments provide much greater control over what animals experience and how data are collected. Mice are by far the most commonly used laboratory species in biomedical research because they are somewhat similar to humans, and because they are readily (and cheaply) maintained in a controlled lab setting (deSousa et al., 2023). They are also tractable because scientists can obtain a large number of animals for study. Other model systems include rats, voles, opossums, cats, macaques, and marmosets. Each of these organisms have practical drawbacks and benefits in their use.</para>
     </section>
     <section id="sect-00003"><title>History and regulation of animal research</title>
-  <para id="para-00008">Humans have been using animal models for centuries. For example, researchers in ancient Greece dissected animals with a goal of better understanding human anatomy. This is because there were taboos of studying human anatomy. Prominent physicians also performed surgeries on live animals, called vivisections, to learn about living anatomy in ways they could not in humans. </para>
+  <para id="para-00008">Humans have been using animal models for centuries. For example, researchers in ancient Greece dissected animals with a goal of better understanding human anatomy. This is because there were taboos of studying human anatomy. Prominent physicians also performed surgeries on live animals, called vivisections, to learn about living anatomy in ways they could not in humans.</para>
 
 <para id="para-00009">Today, researchers must follow strict guidelines to perform research on animals. Any research on animals must first be approved by an Institutional <term id="term-00002">animal care and use committee (IACUC)</term> at the researcher’s home institution. The IACUC is composed of scientists, as well as members of the general public. The first step in the process is for a researcher to write a proposal that articulates the necessity of using animals in research and explains the benefit to society. The IACUC reviews this proposal and evaluates whether the proposed study is sufficiently justified to warrant the use of animals in a research study. A major focus for the IACUC is to ensure the animal does not feel pain, and that measures are used to minimize pain. In addition, the IACUC considers how many animals the researcher proposes to use to make sure they are not proposing either more or less than are needed to yield reliable results.</para>
 
@@ -54,6 +54,30 @@
   <para id="para-00021">Striedter, G.F. (2005). <emphasis effect="italics">Principles of brain evolution</emphasis>. Sinauer Associates.</para>
   <para id="para-00022">Striedter, G.F. (2016). <emphasis effect="italics">Neurobiology: a functional approach</emphasis>. Oxford University Press.</para>
   
+</section>
+<section class="multiple-choice" id="sect-00007"> 
+  <title>Multiple Choice</title>
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+      <para id="para-00023"><link class="os-embed" url="#exercise/Neuro-04-01-001"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00002">
+    <problem id="prob-00002">
+      <para id="para-00024"><link class="os-embed" url="#exercise/Neuro-04-01-002"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+      <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-04-01-003"/></para>
+    </problem>
+  </exercise></section>
+<section class="fillin-blank" id="sect-00008"> 
+  <title>Fill in the Blank</title>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+<para id="para-00026"><link class="os-embed" url="#exercise/Neuro-04-01-004"/></para>    </problem>
+  </exercise>
 </section>
   </content>
 </document>

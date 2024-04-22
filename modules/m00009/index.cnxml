@@ -24,7 +24,7 @@
     </section>
     <section id="sect-00004">
       <title>Over-the-counter treatments, physical therapy, and massage </title>
-      <para id="para-00044">The easiest and most common starting point to treat pain is over-the-counter (<term id="term-00004">OTC</term>) drugs, which mostly work by reducing inflammation. Aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Motrin), and acetaminophen (Tylenol) work by blocking the production of inflammatory molecules, which in turn reduces pain, inflammation, and fever. While the inflammatory response is critical to fighting pathogens and stimulating tissue healing (see <link document="">Neuroimmunology</link>), it can also go overboard, lasting too long (chronic pain) or being too intense (excessively high fever). Anti-inflammatory NSAIDS can therefore be an effective and beneficial tool that reduces pain while facilitating recovery. <term id="term-00005">Physical therapy</term> and <term id="term-00006">massage</term> (e.g., physical manipulation of the area, ultrasound therapy, thermal therapy, dry needling, etc.) can work by relaxing and/or strengthening muscles that modulate sources of pain. In addition, traditional Chinese <term id="term-00007">acupuncture</term> is an alternative option. It involves the insertion of extremely fine needles into the skin at specific "acupoints." This may relieve pain by releasing endorphins, or through activation of the Gate Control theory.</para>
+      <para id="para-00044">The easiest and most common starting point to treat pain is over-the-counter (<term id="term-00004">OTC</term>) drugs, which mostly work by reducing inflammation. Aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Motrin), and acetaminophen (Tylenol) work by blocking the production of inflammatory molecules, which in turn reduces pain, inflammation, and fever. While the inflammatory response is critical to fighting pathogens and stimulating tissue healing (see <link document="m00072">Neuroimmunology</link>), it can also go overboard, lasting too long (chronic pain) or being too intense (excessively high fever). Anti-inflammatory NSAIDS can therefore be an effective and beneficial tool that reduces pain while facilitating recovery. <term id="term-00005">Physical therapy</term> and <term id="term-00006">massage</term> (e.g., physical manipulation of the area, ultrasound therapy, thermal therapy, dry needling, etc.) can work by relaxing and/or strengthening muscles that modulate sources of pain. In addition, traditional Chinese <term id="term-00007">acupuncture</term> is an alternative option. It involves the insertion of extremely fine needles into the skin at specific "acupoints." This may relieve pain by releasing endorphins, or through activation of the Gate Control theory.</para>
     </section>
     <section id="sect-00006">
       <title>Opioids and endorphins</title>
@@ -116,7 +116,7 @@
       <figure id="Image-9.18">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.18_Cannabinoid-receptor-distribution.png"/>
-        </media>
+        </media><caption>Binding of CB1 receptor averaged over 35 men shows high binding in many brain regions, including basal ganglia and cingulate gyrus.</caption>
       </figure>
       <para id="para-00050">CB1-R modulates pain signaling in several regions in the peripheral and central nervous system, including the primary afferent terminals, the dorsal root ganglion (DRG), the dorsal horn of the spinal cord, the periaqueductal gray matter, the ventral posterolateral thalamus, and cortical regions associated with central pain processing, including the anterior cingulate cortex, amygdala and prefrontal cortex (Hill et al., 2017). <link target-id="Image-9.16"/> shows how CB receptor activation inhibits presynaptic release, a reminder of processes we learned about in <link document="m00027">Basic Neurochemistry</link>. Through activation of the G-protein mechanism, CB1-Rs modulate the activity of a number of ion channels via inhibiting presynaptic voltage-dependent Ca<sup>2+</sup> channels to reduce synaptic vesicle release, and also opening inwardly rectifying K<sup>+</sup> channels to hyperpolarize the presynaptic terminal.</para>
       <figure id="Image-9.16">
@@ -128,7 +128,7 @@
     </section>
     <section id="sect-00008">
       <title>Capsaicin</title>
-      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main active ingredient of the hot chili pepper. We first introduced the capsaicin receptor in Somatosensory Receptors, when we learned about its role in activating temperature sensitive TRP channels. TRP channels belong to a superfamily of 28 cation permeable channels and each one is sensitive to a specific range of temperatures (Samanta et al., 2018). Many of them also activate in response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997) (see <link document="m00007" target-id="Image-9.11"/>). This transient receptor potential vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it is mainly presented in the C-fibers and Aδ fibers.</para>
+      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main active ingredient of the hot chili pepper. We first introduced the capsaicin receptor in Somatosensory Receptors, when we learned about its role in activating temperature sensitive TRP channels. TRP channels belong to a superfamily of 28 cation permeable channels and each one is sensitive to a specific range of temperatures (Samanta et al., 2018). Many of them also activate in response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997) (see <link document="m00007" target-id="Image-9.11.1"/>). This transient receptor potential vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it is mainly presented in the C-fibers and Aδ fibers.</para>
       <para id="para-00053">TRPV1 channels are non-selective cation channels that are permeable to Ca<sup>2+</sup>, Na<sup>+</sup>, and K<sup>+</sup>, meaning they net depolarize a cell. Activation of enough TRPV1 channels can ultimately result in action potential generation, leading to nociception. Interestingly, although the sensation associated with capsaicin in the short term is pain, in the long term, repeatedly treated tissue can become desensitized to subsequent noxious stimuli. Excessive Ca<sup>2+</sup> influx leads to excitotoxicity (literally death from too much excitation) that causes nerve degeneration and loss of pain sensation. It has been found that baby rats treated with capsaicin lose their nociceptive behavior after they grow up (Ruda et al., 2000; Peng et al., 2003). This property has been explored for analgesic purposes (try to find capzasin cream over the counter in any pharmacy). This is also why people can build up a tolerance to spicy foods by eating them repeatedly.</para>
     </section>
     <section id="sect-00009">
@@ -147,7 +147,7 @@
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.19_Transcutaneous-electrical-nerve-stimulation-for-pain.png"/>
         </media>
-        <caption>Image credit: Image from: By Wisser68 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
+        <caption>In transcutaneous electrical nerve stimulation, electrodes are placed on the skin and small electrical pulses are delivered to relieve pain. Image credit: Image from: By Wisser68 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
       </figure>
       <para id="para-00061"><term id="term-00018">Spinal cord stimulation</term> (<term id="term-00019">SCS</term>) emerged as a direct clinical application of the gate control theory of Melzack and Wall published in 1965. It was designed to be effective in suppressing pain of a nociceptive nature (both acute and chronic), and has been in use since the early 1970s. It is now one of the mainstream treatments of neuropathic pain. This technique is based on the original idea that antidromic (against the action potential propagation direction) stimulation of the large fibers in the dorsal columns may activate the proposed gating mechanisms in the dorsal horn. It is also called dorsal column stimulation because of this focus on stimulating dorsal pathways. <link target-id="Image-9.13"/> shows an example of this kind of electrode placement. The frequency is usually 60–100 Hz, and the pulse width is between 100 and 500 μsec. The effective amplitude varies but should be set to produce comfortable paresthesias, usually in the range of 2–6 V for "constant-voltage" systems (Sdrulla et al., 2018; Rock et al., 2019; Schmidt, 2019; Fontaine, 2021; Sun et al., 2021).</para>
       <figure id="Image-9.13">
@@ -160,13 +160,13 @@
       <figure id="Image-9.17">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.17_Deep-brain-stimulation-for-pain.png"/>
-        </media>
+        </media><caption>Two common sites for deep brain stimulation to relieve chronic pain are the sensory nuclei of the thalamus and the periaqueductal gray.</caption>
       </figure>
-      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="">Methods</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
+      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="">Methods: rTMS</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
       <figure id="Image-9.21">
         <media alt="Insert Alt Text">
           <image mime-type="image/png" src="../../media/Image-9.21_Repetitive-transcranial-magnetic-stimulation-for-pain.png"/>
-        </media>
+        </media><caption>In repetitive transcranial magnetic stimulation, an electromagnetic coil generates a magnetic field that changes electrical activity of cortical neurons. This can relieve chronic pain in some conditions.</caption>
       </figure>
     </section>
     <section class="section-summary" id="sect-00011">
@@ -233,11 +233,7 @@
     </section>
     <section class="multiple-choice" id="sect-00012">
       <title>Multiple Choice</title>
-      <exercise id="exer-00001">
-        <problem id="prob-00001">
-          <para id="para-00066"><link class="os-embed" url="#exercise/Neuro-09-04-028"/></para>
-        </problem>
-      </exercise>
+  
       <exercise id="exer-00002">
         <problem id="prob-00002">
           <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-09-04-029"/></para>
@@ -248,7 +244,7 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-005"/></para>
+          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-006"/></para>
         </problem>
       </exercise>
     </section>

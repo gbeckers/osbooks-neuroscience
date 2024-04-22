@@ -6,6 +6,13 @@
     <md:uuid>b0d7ce1d-32a5-4d9d-8a86-0b156060bec2</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure class="splash" id="splosh">
+      <title>FROGUE</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
     <note class="meet-author" id="note-00001">
       <title>Christine J. Charvet</title>
       <para id="para-00002"><link url="https://openstax.org/r/Neuro4Author">Meet the author</link></para>

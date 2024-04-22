@@ -110,7 +110,7 @@
         <image mime-type="image/png" src="../../media/Image-2.06_Temporal-and-spatial-summation.png"/>
       </media>
     </figure>
-<para id="para-00020">At the top of the figure we see a neuron receive an EPSP from a partner neuron (E1) that is subthreshold, meaning it is too small to take it to threshold. This partner neuron can try again later (second arrow labeled E1), but the result is the same: poor E1 is being ignored by its synaptic partner! Things change, though, if E1 fires action potentials more rapidly (bottom left of <link target-id="Image-2.06"/>), delivering the second EPSP before the first one has fully faded. In this case, a second round of Na<sup>+</sup> or Ca<sup>2+</sup> can enter before the postsynaptic neuron has returned to rest from the first EPSP, and this overlap brings the neuron much closer to threshold. We call this temporal summation because it adds up EPSPs from the same partner that occur close together in time. Neurons can only fire so fast, though. A far more effective way to get a partner neuron to threshold is to team up with its other inputs. As shown in the middle part of <link target-id="Image-2.06"/>, if a neuron receives EPSPs from two different partners (E1 and E2) at the same time this creates a bigger EPSP than either could produce on its own. We call this spatial summation because it sums inputs from multiple locations across a neuron’s dendritic tree. Of course, neurons aren’t just tallying the “yes” votes of EPSPs: IPSPs also factor in, summing with ongoing EPSPs to pull the neuron away from threshold (bottom right of <link target-id="Image-2.06"/>). Synaptic summation is just the simple addition and subtraction of charges, and yet it is what underlies the incredible ability of neurons to synthesize and integrate information. </para>
+<para id="para-00020">At the top of the figure we see a neuron receive an EPSP from a partner neuron (E1) that is subthreshold, meaning it is too small to take it to threshold. This partner neuron can try again later (second arrow labeled E1), but the result is the same: poor E1 is being ignored by its synaptic partner! Things change, though, if E1 fires action potentials more rapidly (bottom left of <link target-id="Image-2.06"/>), delivering the second EPSP before the first one has fully faded. In this case, a second round of Na<sup>+</sup> or Ca<sup>2+</sup> can enter before the postsynaptic neuron has returned to rest from the first EPSP, and this overlap brings the neuron much closer to threshold. We call this temporal summation because it adds up EPSPs from the same partner that occur close together in time. Neurons can only fire so fast, though. A far more effective way to get a partner neuron to threshold is to team up with its other inputs. As shown in the middle part of <link target-id="Image-2.06"/>, if a neuron receives EPSPs from two different partners (E1 and E2) at the same time this creates a bigger EPSP than either could produce on its own. We call this spatial summation because it sums inputs from multiple locations across a neuron’s dendritic tree. Of course, neurons aren’t just tallying the “yes” votes of EPSPs: IPSPs also factor in, summing with ongoing EPSPs to pull the neuron away from threshold (bottom right of <link target-id="Image-2.06"/>). Synaptic summation is just the simple addition and subtraction of charges, and yet it is what underlies the incredible ability of neurons to synthesize and integrate information.</para>
 <para id="para-00021">The key point for synaptic summation is the axon hillock (also called the initial segment). The hillock is the very first part of the axon where action potentials are initiated, so this is where the sum of current EPSPs and IPSPs can tip a neuron past threshold. It’s worth reflecting again that most EPSPs and IPSPs make a very small impact on the axon hillock relative to its threshold: : it is estimated that it would typically about the summation of about 100 EPSPs to trigger an action potential in a resting human cortical neuron (Eyal et al., 2018). That sounds like a lot, but keep in mind that a typical cortical neuron has about 7,000 synaptic contacts! Thus, receiving 100 excitatory messages at about the same time is a fairly common occurrence, though not so common that your cortical neurons are relentlessly activated.</para>
     </section>
     <section id="sect-00004"><title>The action potential is produced by sequential opening of voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels.</title>
@@ -121,19 +121,19 @@
       </media>
     </figure>
 
-<para id="para-00023">We start with a neuron at its typical negative resting potential (step 1) that then receives excitation strong enough to bring the neuron to threshold (step 2). Once at threshold, the action potential is initiated, starting in the cell body or right where an axon branches off from the cell body, a point called the initial segment or axon hillock (these terms are interchangeable). We observe the action potential as a rapid and dramatic rise and fall of electrical potential (step 3). During the rising phase (step 3), the neuron’s membrane potential flips from negative all the way up to a positive potential of around 40mV (though this varies from neuron to neuron). In a typical cortical neuron this upward climb in potential takes only about 0.5ms. This is followed immediately by the falling phase, when the neuron’s membrane potential descends just as quickly, falling back down to a negative potential and becoming even more negative than during the typical resting potential, often reaching about -85mV. The descent “below” rest is called the undershoot (step 4), and it takes a typical cortical neuron about 4-5 ms to gradually return to the typical resting potential (step 5). Critically, this same rise, fall, and undershoot then occurs a bit further down the axon, then even further down, and so on. As the action potential propagates down the axon, it triggers transmitter release at each presynaptic membrane it passes. </para>
-<para id="para-00024">The action potential is due to the operation of two specialized ion channels that are relatively unique to neurons: inactivating voltage-gated Na<sup>+</sup> channels and non-inactivating voltage-gated K<sup>+</sup> channels. </para>
-<para id="para-00025">Inactivating voltage-gated Na<sup>+</sup> ion channels are highly expressed in neurons, and are often inserted in the cell membrane specifically within the initial-segment and axon. Scientists classify these channels as voltage-gated because they have a sensor that holds them closed when a neuron is near its negative resting potential, but that pulls them open when a neuron’s membrane potential rises to threshold. A better name, though, would be excitation-sensing because it is excitation (EPSPs) from partner neurons that makes a neuron’s membrane potential positive enough to begin opening these channels. This gating of the voltage-gated Na<sup>+</sup> channels is what we observe as the threshold for an action potential. </para>
+<para id="para-00023">We start with a neuron at its typical negative resting potential (step 1) that then receives excitation strong enough to bring the neuron to threshold (step 2). Once at threshold, the action potential is initiated, starting in the cell body or right where an axon branches off from the cell body, a point called the initial segment or axon hillock (these terms are interchangeable). We observe the action potential as a rapid and dramatic rise and fall of electrical potential (step 3). During the rising phase (step 3), the neuron’s membrane potential flips from negative all the way up to a positive potential of around 40mV (though this varies from neuron to neuron). In a typical cortical neuron this upward climb in potential takes only about 0.5ms. This is followed immediately by the falling phase, when the neuron’s membrane potential descends just as quickly, falling back down to a negative potential and becoming even more negative than during the typical resting potential, often reaching about -85mV. The descent “below” rest is called the undershoot (step 4), and it takes a typical cortical neuron about 4-5 ms to gradually return to the typical resting potential (step 5). Critically, this same rise, fall, and undershoot then occurs a bit further down the axon, then even further down, and so on. As the action potential propagates down the axon, it triggers transmitter release at each presynaptic membrane it passes.</para>
+<para id="para-00024">The action potential is due to the operation of two specialized ion channels that are relatively unique to neurons: inactivating voltage-gated Na<sup>+</sup> channels and non-inactivating voltage-gated K<sup>+</sup> channels.</para>
+<para id="para-00025">Inactivating voltage-gated Na<sup>+</sup> ion channels are highly expressed in neurons, and are often inserted in the cell membrane specifically within the initial-segment and axon. Scientists classify these channels as voltage-gated because they have a sensor that holds them closed when a neuron is near its negative resting potential, but that pulls them open when a neuron’s membrane potential rises to threshold. A better name, though, would be excitation-sensing because it is excitation (EPSPs) from partner neurons that makes a neuron’s membrane potential positive enough to begin opening these channels. This gating of the voltage-gated Na<sup>+</sup> channels is what we observe as the threshold for an action potential.</para>
 <para id="para-00026"><link target-id="Image-2.12"/> shows how the inactivating voltage-gated Na<sup>+</sup> channels produce the rising phase and propagation of the action potential.</para>
     <figure id="Image-2.12">
       <media alt="Top: Diagram of a neuron with axon, action potential diagrammed as traveling from soma down axon. Bottom: Diagram of axon segment, with voltage-gated Na+ channel shown, and sodium movement represented.">
         <image mime-type="image/png" src="../../media/Image-2.12_Action-potential-propagation.png"/>
       </media>
     </figure>
-<para id="para-00027">When threshold is reached, these channels open (step 1), producing a sharp increase in conductance for Na<sup>+</sup>: there are now many pathways available for diffusion to push Na<sup>+</sup> into a neuron (recall that pumps have concentrated Na<sup>+</sup> outside the neuron, so the pressure of diffusion is for Na<sup>+</sup> to enter, see <link document="m00014" target-id="Image-2.24"/>). The result is a rapid influx of Na<sup>+</sup> that quickly pulls the neuron’s membrane potential all the way up to a positive membrane potential. This is what we observe as the rising phase of an action potential. </para>
-<para id="para-00028">The rising phase of the action potential propagates down the axons because the opening of one voltage-gated Na<sup>+</sup> channel produces a chain reaction (step 2 in <link target-id="Image-2.12"/>). The first voltage-gated Na<sup>+</sup> channel to open allows Na<sup>+</sup> to enter, causing an increase in membrane potential—the very thing that can trigger the opening of more voltage-gated Na<sup>+</sup> channels!  This positive-feedback loop, where each Na<sup>+</sup> channel that opens can help trigger additional openings causes the action potential to propagate down the axons, triggering transmitter release at all that neuron’s pre-synaptic terminals along the way. </para>
-<para id="para-00029">Although the rising phase on an action potential propagates through the axon, it is very brief, followed very quickly by a plunge back down to a negative potential. One factor limiting the rising phase is the inactivation of the voltage-gated Na<sup>+</sup> channels. Each channel has a “tail” of positively charged amino acids on the intracellular side of the membrane. When these channels open and drive a neuron to a positive potential, the tail is repelled, and this repulsion actually pushes it into the channel, clogging it! Even though the voltage-sensor is still pulling the channel open (because the neuron has a positive membrane potential), the inactivating tails temporarily eliminates the Na<sup>+</sup> conductance through these channels (step 3 of <link target-id="Image-2.12"/>). </para>
-<para id="para-00030">The clogging of the inactivating voltage-gated Na<sup>+</sup> channels is reversible. When a neuron returns to a negative resting potential, that negative charge attracts the positive charges in the inactivating tails, pulling them out of the Na<sup>+</sup> channels so that they can work again. This amazing system helps prevent excessive activity in the nervous system: once a neuron generates an action potential, it cannot generate another until it returns to rest and the majority of its voltage-gated Na<sup>+</sup> channels are unclogged. We observe this as a brief refractory period that occurs immediately after each action potential (recall, again, step 4 of <link target-id="Image-2.04.2"/>). </para>
+<para id="para-00027">When threshold is reached, these channels open (step 1), producing a sharp increase in conductance for Na<sup>+</sup>: there are now many pathways available for diffusion to push Na<sup>+</sup> into a neuron (recall that pumps have concentrated Na<sup>+</sup> outside the neuron, so the pressure of diffusion is for Na<sup>+</sup> to enter, see <link document="m00014" target-id="Image-2.24"/>). The result is a rapid influx of Na<sup>+</sup> that quickly pulls the neuron’s membrane potential all the way up to a positive membrane potential. This is what we observe as the rising phase of an action potential.</para>
+<para id="para-00028">The rising phase of the action potential propagates down the axons because the opening of one voltage-gated Na<sup>+</sup> channel produces a chain reaction (step 2 in <link target-id="Image-2.12"/>). The first voltage-gated Na<sup>+</sup> channel to open allows Na<sup>+</sup> to enter, causing an increase in membrane potential—the very thing that can trigger the opening of more voltage-gated Na<sup>+</sup> channels!  This positive-feedback loop, where each Na<sup>+</sup> channel that opens can help trigger additional openings causes the action potential to propagate down the axons, triggering transmitter release at all that neuron’s pre-synaptic terminals along the way.</para>
+<para id="para-00029">Although the rising phase on an action potential propagates through the axon, it is very brief, followed very quickly by a plunge back down to a negative potential. One factor limiting the rising phase is the inactivation of the voltage-gated Na<sup>+</sup> channels. Each channel has a “tail” of positively charged amino acids on the intracellular side of the membrane. When these channels open and drive a neuron to a positive potential, the tail is repelled, and this repulsion actually pushes it into the channel, clogging it! Even though the voltage-sensor is still pulling the channel open (because the neuron has a positive membrane potential), the inactivating tails temporarily eliminates the Na<sup>+</sup> conductance through these channels (step 3 of <link target-id="Image-2.12"/>).</para>
+<para id="para-00030">The clogging of the inactivating voltage-gated Na<sup>+</sup> channels is reversible. When a neuron returns to a negative resting potential, that negative charge attracts the positive charges in the inactivating tails, pulling them out of the Na<sup>+</sup> channels so that they can work again. This amazing system helps prevent excessive activity in the nervous system: once a neuron generates an action potential, it cannot generate another until it returns to rest and the majority of its voltage-gated Na<sup>+</sup> channels are unclogged. We observe this as a brief refractory period that occurs immediately after each action potential (recall, again, step 4 of <link target-id="Image-2.04.2"/>).</para>
 <para id="para-00031"><link target-id="Image-2.11"/> recaps these steps in the action potential, showing how a neuron goes from rest (step 1) to the rising phase (step 2) as the inactivating voltage-gated Na<sup>+</sup> channels open, but then clog (step 3). With the clogging of the voltage-gated Na<sup>+</sup> channels, Na<sup>+</sup> can no longer enter the neuron. This means the leak K<sup>+</sup> channels can now begin restoring the resting potential, allowing K<sup>+</sup> to leave (it is more concentrated outside than in, and during the rising phase is also repulsed by the neuron) to bring the membrane potential back down to a negative potential. We observe this as the falling phase of the action potential.</para>
     <figure id="Image-2.11">
       <media alt="Middle: Line graph of action potential phases; membrane potential (y-axis) and time (x-axis). Steps shown surrounding middle: 1) Diagram of axon segment, with voltage-gated Na+ channels and voltage-gated K+ channels shown. Channels closed.. 2) Diagram of axon segment, with voltage-gated Na+ channels and voltage-gated K+ channels shown. Na+ channel is open and Na+ flows in. 3) Diagram of axon segment, with voltage-gated Na+ channels and voltage-gated K+ channels shown. Na+ channel is closed by inactivation gate. K+ channel is open and K+ flows out. 4) Diagram of axon segment, with voltage-gated Na+ channels and voltage-gated K+ channels shown. Na+ channel is closed by voltage-sensitive gate. K+ channel is open and K+ flows out. ">
@@ -146,13 +146,13 @@
 <para id="para-00035"><link target-id="Image-2.26"/> provides another way of organizing all this information, providing an overview table of what is happening in each phase of the action potential.</para>
 <table id="Image-2.26" summary="Table of channels and their status at different phases of the action potential">
   <tgroup cols="7">
-  <colspec colnum="1" colname="c1" />
-  <colspec colnum="2" colname="c2" />
-  <colspec colnum="3" colname="c3" />
-  <colspec colnum="4" colname="c4" />
-  <colspec colnum="5" colname="c5" />
-  <colspec colnum="6" colname="c6" />
-  <colspec colnum="7" colname="c7" />
+  <colspec colnum="1" colname="c1"/>
+  <colspec colnum="2" colname="c2"/>
+  <colspec colnum="3" colname="c3"/>
+  <colspec colnum="4" colname="c4"/>
+  <colspec colnum="5" colname="c5"/>
+  <colspec colnum="6" colname="c6"/>
+  <colspec colnum="7" colname="c7"/>
   <thead>
     <row>
       <entry>Channel</entry>
@@ -207,7 +207,7 @@
     </row>
     <row>
       <entry>Membrane potential</entry>
-      <entry></entry>
+      <entry/>
       <entry>Around –65 mV</entry>
       <entry>Rises several mV, triggering voltage-gated Na<sup>+</sup> channels</entry>
       <entry>Rises to around +40 mV</entry>
@@ -216,21 +216,21 @@
     </row>
     </tbody>
   </tgroup>
-  <caption></caption>
+  <caption/>
   </table>
 
 <para id="para-00036">We see that each action potential is a sequential opening of voltage-gated Na<sup>+</sup> channels and voltage-gated K<sup>+</sup> channels, progressing down an axon and into all its synaptic terminals. The rapid opening of the voltage-gated Na<sup>+</sup> channels allows the pressure of diffusion to rapidly push Na<sup>+</sup> into the neuron, driving it from its negative resting potential all the way up to a positive potential that then opens the next voltage-gated Na<sup>+</sup> channel and the next and the next, all the way down the axon. The voltage-gated Na<sup>+</sup> channels clog, however, stopping the rising phase, and just as this happens the voltage-gated K<sup>+</sup> channels finally open, allowing the pressure of diffusion to push K<sup>+</sup> out of the neuron, a negative current that rapidly brings the neuron back down to its negative resting potential and even temporarily making the neuron more negative than usual. Each action potential, then, lets a bit of Na<sup>+</sup> into the neuron and a bit of K<sup>+</sup> out, undoing some of the hard work of the ion pumps. It’s a surprisingly small amount of Na<sup>+</sup> and K<sup>+</sup> that actually shuffles around, producing only a fractional change in concentrations. Still, ion pumps have to continuously operate to undo the Na<sup>+</sup> entry and K<sup>+</sup> departure that occurs with each action potential, otherwise the pressures of diffusion would gradually dissolve away and action potentials could no longer be generated (see <link document="m00016">Our deep but still incomplete understanding of neural signaling</link> for an interesting example of how this can happen).</para>
     </section>
     <section id="sect-00005"><title>Action potential propagation is sped up by myelin</title>
       <para id="para-00037">When you connect a battery to a wire, it pushes current directly through the circuit. As long as the wire is properly insulated, almost no current leaks out as it travels, so you don’t need additional batteries along the length of the wire, and current covers the distance of the circuit at very close to the speed of light. That’s why flipping a light switch instantly turns on your lights, even though the power station might be located several miles away.</para>
-      <para id="para-00038">As we have seen, that’s not exactly how an action potential propagates. Instead, neuronal axons are “leaky”, expressing leak K<sup>+</sup> channels. This means that when the first segment of an axon experiences the rising phase, the Na<sup>+</sup> that rushes in can quickly be offset by K<sup>+</sup> rushing out. Due to this leak, the action potential is regenerated down the length of the axon, with each segment undergoing the precise opening and closing of voltage-gated channels that triggers the next segment, and so on. This takes time, and it means that the action potential does not travel down the axon at anything near the speed of light. </para>
+      <para id="para-00038">As we have seen, that’s not exactly how an action potential propagates. Instead, neuronal axons are “leaky”, expressing leak K<sup>+</sup> channels. This means that when the first segment of an axon experiences the rising phase, the Na<sup>+</sup> that rushes in can quickly be offset by K<sup>+</sup> rushing out. Due to this leak, the action potential is regenerated down the length of the axon, with each segment undergoing the precise opening and closing of voltage-gated channels that triggers the next segment, and so on. This takes time, and it means that the action potential does not travel down the axon at anything near the speed of light.</para>
       <para id="para-00039">Many animals, including all mammals, have evolved ways to speed up action potential propagation by having support cells wrap axons in myelin, a fatty substance that insulates the axon, greatly limiting the operation of the leak channels (<link target-id="Image-2.22"/>).</para>
       <figure id="Image-2.22">
         <media alt="Top: Diagram of a myelinated axon with zoom in on nodes between myelin and cross-section showing voltage gated Na+ channels in that gap. Middle: Diagram of unmyelinated neuron showing action potential traveling 0.5 to 10 m/s. Bottom: Diagram of myelinated neuron showing action potential traveling up to 150 m/s">
           <image mime-type="image/png" src="../../media/Image-2.22_Saltatory-conduction.png"/>
         </media>
       </figure>
-      <para id="para-00040">A segment of axon wrapped in myelin works more like the wires we’re used to dealing with in electronics: a current applied to one end can spread rapidly, at almost the speed of light, with fairly little leakage. That’s a great speedup in the spread of an action potential. Unfortunately, myelin isn’t perfect, and there is still some leakage, so it can only effectively deliver currents over relatively short distances, around 1mm. Because of this, myelin is wrapped around axons in bands and between these bands are nodes of Ranvier, bare patches of axon crowded with voltage-gated channels that can regenerate the action potential and push current through the next band of myelin. The mix of relatively slow regeneration (at each node of Ranvier) and exceptionally fast current spread (through each segment of myelin) is called saltatory conduction, and it lets action potentials travel fast, at speeds of up to 150 meters per second (333 miles per hour). That’s very slow compared to the currents in your cell phone, which approach the speed of light (almost 300 million meters per second or 670 million miles per hour). But it’s still much faster than action potentials can travel in bare, unmyelinated neurons, which typically ranges between 0.5 to 10 meters per second (1 to 22 miles per hour). </para>
+      <para id="para-00040">A segment of axon wrapped in myelin works more like the wires we’re used to dealing with in electronics: a current applied to one end can spread rapidly, at almost the speed of light, with fairly little leakage. That’s a great speedup in the spread of an action potential. Unfortunately, myelin isn’t perfect, and there is still some leakage, so it can only effectively deliver currents over relatively short distances, around 1mm. Because of this, myelin is wrapped around axons in bands and between these bands are nodes of Ranvier, bare patches of axon crowded with voltage-gated channels that can regenerate the action potential and push current through the next band of myelin. The mix of relatively slow regeneration (at each node of Ranvier) and exceptionally fast current spread (through each segment of myelin) is called saltatory conduction, and it lets action potentials travel fast, at speeds of up to 150 meters per second (333 miles per hour). That’s very slow compared to the currents in your cell phone, which approach the speed of light (almost 300 million meters per second or 670 million miles per hour). But it’s still much faster than action potentials can travel in bare, unmyelinated neurons, which typically ranges between 0.5 to 10 meters per second (1 to 22 miles per hour).</para>
       <para id="para-00041">Wrapping axons in myelin requires support cells and energy, so not all axons in the CNS are myelinated. But most tracts, where axons from many neurons carry information over long distances feature almost exclusively myelinated axons. The high density of fatty myelin in these tracts is what gives white matter its distinctive appearance (see <link document="m00026">Structure and Function of the Nervous System</link>).</para>
     </section>
     <section class="section-summary" id="sect-00006">
@@ -265,11 +265,72 @@
     </section>
     <section class="multiple-choice" id="sect-00009"> 
       <title>Multiple Choice</title>
-<para id="para-00046">placeholder</para>
-    </section>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-02-04-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00047"><link class="os-embed" url="#exercise/Neuro-02-04-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-02-04-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-02-04-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-02-04-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-02-04-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-02-04-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-02-04-008"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-02-04-009"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-02-04-010"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00011">
+        <problem id="prob-00011">
+          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-02-04-011"/></para>
+        </problem>
+      </exercise>    </section>
     <section class="fillin-blank" id="sect-00010"> 
       <title>Fill in the Blank</title>
-      <para id="para-00047">placeholder</para>
-    </section>
+      <exercise id="exer-00012">
+        <problem id="prob-00012">
+          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-02-04-012"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00013">
+        <problem id="prob-00013">
+          <para id="para-00058"><link class="os-embed" url="#exercise/Neuro-02-04-013"/></para>
+        </problem>
+      </exercise>    </section>
   </content>
 </document>

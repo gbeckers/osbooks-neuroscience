@@ -39,7 +39,7 @@
     <figure id="Image-17.13">
       <media alt="Diagram of 3 cells, each with a receptor on its surface binding to a unique microbe. The receptors are identical across the 3 cells but the 3 microbes are each different. Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.">
         <image mime-type="image/png" src="../../media/Image-17.13_Pathogen-associated-molecular-patterns.png"/>
-      </media>
+      </media><caption>Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.</caption>
     </figure>    
     <para id="para-00007">How each of these cellular components of the innate immune system functions once they detect these PAMPs is diagrammed in <link target-id="Image-17.30"/>, using the case of a penetrating skin wound that introduces some bacterial pathogens as an example. We will discuss what each cell type does in more detail below.</para>
     <figure id="Image-17.30">
@@ -54,7 +54,7 @@
     
     <para id="para-00010">A final cell type within the innate immune system important for our study of neuroimmunology is the <term id="term-00011">monocyte</term>, which is a cousin of the macrophage. Monocytes circulate freely within the blood and lymphatic system (e.g. lymph nodes) where they constantly scan for any sign of trouble. Once a pathogen or chemotactic signal (basically a “come help” signal) from another immune cell is detected, monocytes can extravasate (crawl) into tissues like the skin or adipose and thereby become macrophages (or “tissue-resident” monocytes).</para>
     
-    <para id="para-00011">Innate immune responses are rapid and stereotyped, meaning that they occur with the same time course and magnitude each time and somewhat regardless of the specific pathogen detected. One major consequence of the innate immune cell response is inflammation. Inflammation is the term we use to describe how tissues become red, swollen and hot after an injury or pathogen exposure of some kind. When inflammation happens in tissues in your body, it is also often painful <link document="m00006">Touch and Pain</link>.</para>
+    <para id="para-00011">Innate immune responses are rapid and stereotyped, meaning that they occur with the same time course and magnitude each time and somewhat regardless of the specific pathogen detected. One major consequence of the innate immune cell response is inflammation. Inflammation is the term we use to describe how tissues become red, swollen and hot after an injury or pathogen exposure of some kind. When inflammation happens in tissues in your body, it is also often painful (see <link document="m00006">Touch and Pain</link>).</para>
     
     <para id="para-00012">Inflammation is quite a buzz word these days as it is implicated in many different diseases ranging from heart disease to depression to Alzheimer’s disease (<link target-id="Image-17.22"/>). There is good reason for this attention, as inflammatory processes that last too long, especially within the brain, can be very harmful. It is important to remember however that inflammation is classically defined in immunology by heat, swelling, pain, and importantly, repair. Thus, inflammation is helpful when properly controlled and only becomes harmful when it fails to resolve, which is a theme that we will visit repeatedly throughout this chapter.</para>
     <figure id="Image-17.22">
@@ -114,35 +114,34 @@
     </figure>
     
     <para id="para-00026">For the purposes of this chapter, the important thing about cytokines is that they have neuromodulatory (i.e. “neuron modulating”) properties within the brain during infectious and inflammatory processes by acting directly on neurons and glia. For example, one well characterized PAMP used widely in neuroimmunology research is <term id="term-00019">lipopolysaccharide</term>, or <term id="term-00020">LPS</term>, which is the cell wall component of bacteria that induces a robust immune response if injected into experimental animals (or humans!). LPS induces a suite of changes in physiology, including white blood cell (e.g. monocytes, T cells, B cells) replication (proliferation), <term id="term-00021">fever</term>, and cytokine production. Cytokines released in response to LPS signal to the brain to induce rapid changes in behavior, including fatigue, loss of interest in eating and normal behaviors, e.g. social interactions, and maybe even a form of depression (called anhedonia). These behavioral changes are not caused by the pathogens themselves, but rather by cytokine signaling in the brain. They are widely regarded as adaptive because they help you to rapidly shift motivation to prioritize rest and recovery and help to overcome illness more quickly. We will learn more about these roles of cytokines in the next section. Cytokines are also constitutively expressed in healthy brain tissue and regulate such homeostatic mechanisms and behaviors as sleep, metabolism, and even cognition. Cytokine receptors in mammals have been characterized throughout the central nervous system (CNS), with high concentrations within brain regions important for these functions, including the hypothalamus, hippocampus, striatum, amygdala, and thalamus (Hopkins and Rothwell, 1995; Rothwell and Hopkins, 1995).</para></section></section>
-    <note class="boxed-feature" id="note-00001">
+    <section id="sect-00011">
     <title>History of Neuroscience: Immune privilege within the brain</title>
     <para id="para-00027">Everything we have discussed so far has focused on processes initiated by immune cells in the body. For the vast majority of history of research on the immune system and the CNS, these systems were thought to be completely separate, both physically and functionally. Thus, the brain was viewed as “privileged” i.e. separate from the impacts of the immune system. Scientists would specialize in the study of one or the other, and nary a thought would be given to the one not chosen. Even today this is somewhat the case, although it is slowly changing as new knowledge about the interconnectedness of these systems emerges. These stubborn beliefs formed for good reason. Physicians have noted for hundreds of years that tissue grafts (think organ transplants like kidneys or hearts) into the body will quickly be rejected and the tissue will die unless the immune system is powerfully suppressed – as noted above this is because any cells not possessing an MHC I complex consistent with “self” will be recognized as dangerous and quickly thrown out. But this is not the case within the brain - tissue grafts into the brain can live for a long time before they are eventually discovered and rejected (Medawar, 1948). Researchers at the time concluded that this meant the brain did not have any immune system components, and that peripheral immune components could not enter the brain. And they had several supporting observations to support that incorrect belief.</para>
     
-    <para id="para-00028">One major reason that early researchers thought the brain and immune systems did not interact is that there is a powerful barrier between the CNS and the rest of the body, called the <term id="term-00022">blood-brain-barrier (BBB)</term>, which keeps most immune cells out of the brain (<link target-id="Image-17.23"/>) <link document="m00026">Structure and Function of the Nervous System</link>.</para>
+    <para id="para-00028">One major reason that early researchers thought the brain and immune systems did not interact is that there is a powerful barrier between the CNS and the rest of the body, called the <term id="term-00022">blood-brain-barrier (BBB)</term>, which keeps most immune cells out of the brain (<link target-id="Image-17.23"/>) (see <link document="m00026">Structure and Function of the Nervous System</link>).</para>
     <figure id="Image-17.23">
       <media alt="A diagram of cross-section of blood vessel and blood brain barrier. T cells, macrophages and monocytes are shown trapped within the blood vessel, comprised of endothelial cells with tight junctions between then. Astrocyte endfeet wrap the endothelial cells. Microglia and neurons are shown within the brain tissue.">
         <image mime-type="image/png" src="../../media/Image-17.23_Blood-brain-barrier.png"/>
-      </media>
+      </media><caption>The BBB prevents immune cells and pathogens from entering the brain under most circumstances.</caption>
     </figure>    
     <para id="para-00029">The BBB consists of closely joined endothelial cells, astrocytes, and other cells, which form a tight barrier between the brain and everything else. This barrier exists for good reason - the cells within the brain, namely neurons, are delicate, and once damaged, are difficult or impossible to repair. The blood can carry numerous pathogens that could damage these delicate neurons. There is also limited space within the skull, so if immune cells reacting to a pathogen entered the brain and launched a large immune response, any swelling associated with inflammation could be fatal. Most of the time, the BBB prevents the peripheral immune cells like macrophages and lymphocytes from entering the brain, thereby reducing the chance of an inflammatory event.</para>
     
-    <para id="para-00030">Though peripheral immune cells are mostly kept out of the brain, we now know that the brain is not completely without immune cells. Most prominently, it has resident immune cells: microglia. They make up ~10-15% of the cells in the brain, depending on brain region. They are so named because they have small cell bodies (relative to much larger neurons), but they are mighty in function. They have many elaborate processes that they use to continually scan and survey the brain tissue (<link target-id="Image-17.33"/>). They play essential roles in brain development, homeostasis, pathogen defense, and are increasingly implicated in brain pathology as well. For example, complement proteins can “tag” certain synapses for removal by microglia. This process is a part of normal development but may also have relevance in some neurodevelopmental disorders when proper synaptic “pruning” by microglia becomes disrupted. For instance, there is interesting recent evidence linking complement proteins within the brain to the neurodevelopmental disorder schizophrenia, which has long been recognized as a disorder of excessive synaptic pruning, potentially by microglia <link document="">Neurodevelopment</link>. We will learn much more about microglia and their functions in the brain in <link document="m00082">How Does the Brain Talk to the Immune System?</link>. In addition to microglia in the brain, there is some evidence that monocytes can cross into the brain in some circumstances, for instance in response to stressors or certain injuries, where they can contribute to behavioral changes, including anxiety. We discuss this in greater detail in subsequent sections as well.</para>
+    <para id="para-00030">Though peripheral immune cells are mostly kept out of the brain, we now know that the brain is not completely without immune cells. Most prominently, it has resident immune cells: microglia. They make up ~10-15% of the cells in the brain, depending on brain region. They are so named because they have small cell bodies (relative to much larger neurons), but they are mighty in function. They have many elaborate processes that they use to continually scan and survey the brain tissue (<link target-id="Image-17.33"/>). They play essential roles in brain development, homeostasis, pathogen defense, and are increasingly implicated in brain pathology as well. For example, complement proteins can “tag” certain synapses for removal by microglia. This process is a part of normal development but may also have relevance in some neurodevelopmental disorders when proper synaptic “pruning” by microglia becomes disrupted. For instance, there is interesting recent evidence linking complement proteins within the brain to the neurodevelopmental disorder schizophrenia, which has long been recognized as a disorder of excessive synaptic pruning, potentially by microglia (see <link document="m00086">Neurodevelopment</link>). We will learn much more about microglia and their functions in the brain in <link document="m00082">How Does the Brain Talk to the Immune System?</link>. In addition to microglia in the brain, there is some evidence that monocytes can cross into the brain in some circumstances, for instance in response to stressors or certain injuries, where they can contribute to behavioral changes, including anxiety. We discuss this in greater detail in subsequent sections as well.</para>
     <figure id="Image-17.33">
       <media alt="Fluorescent image of green microglial cells, which have a small, central cell body with many branch-like processes extending out from it in all directions.">
         <image mime-type="image/png" src="../../media/Image-17.33_Microglial-morphology.png"/>
       </media>
-    <caption>Microglia in mouse retina image by NIH Image Gallery from Bethesda, Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
+    <caption>Microglia have elaborate processes that they use to scan the environment. Image credit: NIH Image Gallery from Bethesda, Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
     </figure>
     
     <para id="para-00031">A second major reason the brain and immune systems were believed to be separate for so long is that MHC expression is very low under homeostatic conditions within the CNS, and for a long time, was not thought to be expressed at all. We now understand that the primary immune cells (and APCs) of the brain, microglia, are capable of upregulating MHC I and II, but that they only do so in the case of immune activation, e.g. due to injury or infection.</para>
     
-    <para id="para-00032">A third reason that early neuroanatomists believed that the immune and nervous systems were separate was the belief that the brain has no means of responding to presented antigens because it lacks a <term id="term-00023">lymphatic system</term>, along with the fact that very few lymphocytes (T cells and B cells) exist within the brain. Microglia upregulating MHC is all well and good, but who are they presenting antigen “to” if there are no T cells? (Remember that T cells use MHC on the surface of cells to recognize their antigen match and generate an immune response). This question also puzzled early researchers in neuroimmunology. Once again, we have new information from only the last several years - there is in fact an elaborate lymphatic system that runs throughout the brain (Iliff et al., 2015; Louveau et al., 2015), sort of like a drainage system that runs alongside blood vessels in the brain, and there are T cells that regularly patrol this lymphatic drainage system along with the <term id="term-00024">meninges</term> of the brain - the weblike casing between the brain itself and the skull. And, these T cells seem to talk to neurons (Alves de Lima et al., 2020) and other immune cells like microglia within these border regions of the brain. Indeed, they are even critical for normal cognition. Mice that completely lack T cells show impaired learning and memory abilities, even if the rest of their immune system is intact. Normal learning and memory can be restored by transplanting normal T cells back into the bloodstream of the mice (Kipnis et al., 2012), which then make their way back into the meninges enwrapping the brain. The exact function of these T cells once they make it back into the brain is not entirely known, but it is clear that having a healthy immune system is important for many aspects of health and behavior beyond fighting infections.</para></note>
-
+    <para id="para-00032">A third reason that early neuroanatomists believed that the immune and nervous systems were separate was the belief that the brain has no means of responding to presented antigens because it lacks a <term id="term-00023">lymphatic system</term>, along with the fact that very few lymphocytes (T cells and B cells) exist within the brain. Microglia upregulating MHC is all well and good, but who are they presenting antigen “to” if there are no T cells? (Remember that T cells use MHC on the surface of cells to recognize their antigen match and generate an immune response). This question also puzzled early researchers in neuroimmunology. Once again, we have new information from only the last several years - there is in fact an elaborate lymphatic system that runs throughout the brain (Iliff et al., 2015; Louveau et al., 2015), sort of like a drainage system that runs alongside blood vessels in the brain, and there are T cells that regularly patrol this lymphatic drainage system along with the <term id="term-00024">meninges</term> of the brain - the weblike casing between the brain itself and the skull. And, these T cells seem to talk to neurons (Alves de Lima et al., 2020) and other immune cells like microglia within these border regions of the brain. Indeed, they are even critical for normal cognition. Mice that completely lack T cells show impaired learning and memory abilities, even if the rest of their immune system is intact. Normal learning and memory can be restored by transplanting normal T cells back into the bloodstream of the mice (Kipnis et al., 2012), which then make their way back into the meninges enwrapping the brain. The exact function of these T cells once they make it back into the brain is not entirely known, but it is clear that having a healthy immune system is important for many aspects of health and behavior beyond fighting infections.</para></section>
 
   <section class="section-summary" id="sect-00006"><title>Summary</title>
     <para id="para-00013"><link url="https://openstax.org/r/Neuro17Summary">Author's summary</link></para>
     <para id="para-00033">The immune system is broadly divided into innate and adaptive responses. Innate responses are rapid, non-specific, and stereotyped, meaning that they occur in more or less the same pattern and intensity each time a pathogen or antigen is encountered. Adaptive responses are specific to the antigen encountered, ramp up slowly, and build long-term memory for specific pathogens. The immune system uses a diverse army of signaling molecules called cytokines and chemokines to communicate among its distinct cell types, as well as with the nervous and endocrine systems. The brain was once thought to be completely separate from the immune system, but we now know that it has its own resident immune cells- microglia- and likely is more exposed to peripheral immune cells than originally thought.
-    </para> </section>
+ </para> </section>
     <section class="key-terms" id="sect-00007"><title>Key Terms</title> <list display="inline" id="list-00003">
     <item>Innate immune system</item>
     <item>adaptive immune system</item>
@@ -186,8 +185,66 @@
       <para id="para-00047">Rymešová, D., Králová, T., Promerová, M., Bryja, J., Tomášek, O., Svobodová, J., Šmilauer, P., Šálek, M., &amp; Albrecht, T. (2017). Mate choice for major histocompatibility complex complementarity in a strictly monogamous bird, the grey partridge (Perdix perdix). <emphasis effect="italics">Frontiers in Zoology</emphasis>, <emphasis effect="italics">14</emphasis>:9.</para>     
      </section>
     
-    <section class="multiple-choice" id="sect-00009"><title>Multiple Choice</title> <para id="para-00048">...</para> </section>
-    <section class="fillin-blank" id="sect-00010"><title>Fill in the Blank</title> <para id="para-00049">...</para> </section>
+    <section class="multiple-choice" id="sect-00009"><title>Multiple Choice</title> 
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-17-01-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-17-01-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-17-01-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-17-01-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-17-01-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-17-01-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-17-01-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-17-01-008"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-17-01-009"/></para>
+        </problem>
+      </exercise>
+  
+    </section>
+    <section class="fillin-blank" id="sect-00010"><title>Fill in the Blank</title> 
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-17-01-010"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-0009283">
+        <problem id="prob-0002347">
+        <para id="para-00s356"><link class="os-embed" url="#exercise/Neuro-17-01-011"/></para>
+        </problem>
+      </exercise>  
+    </section>
     
 
   </content>

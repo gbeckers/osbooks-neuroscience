@@ -18,7 +18,7 @@
           <item>Characterize muscle cramps and their sources and illustrating how rigor mortis are set in following death in the context of the molecular components of the muscle.</item>
         </list>
     </section>
-    <para id="para-00001">Disagreement among experts about what constitutes a single muscle leaves a lack of consensus about how many there are. Skeletal muscles can exist in a variety of shapes and sizes, producing diverse quotes of total numbers across the literature. Those advocating higher numbers point to increased movement versatility in select regions where simple opposing pairs can’t define the movement (face, tongue). A <emphasis effect="italics">rough</emphasis> approximation would be 640 total muscles arranged in antagonistic pairs with one muscle bending a limb joint and the other involved in its extension. Each muscle is composed of many muscle cells (fibers) capable of contraction with diverse outcomes depending on their attachments. In this section we will examine the structure of muscle fibers and consider the mechanisms that control them. </para>
+    <para id="para-00001">Disagreement among experts about what constitutes a single muscle leaves a lack of consensus about how many there are. Skeletal muscles can exist in a variety of shapes and sizes, producing diverse quotes of total numbers across the literature. Those advocating higher numbers point to increased movement versatility in select regions where simple opposing pairs can’t define the movement (face, tongue). A <emphasis effect="italics">rough</emphasis> approximation would be 640 total muscles arranged in antagonistic pairs with one muscle bending a limb joint and the other involved in its extension. Each muscle is composed of many muscle cells (fibers) capable of contraction with diverse outcomes depending on their attachments. In this section we will examine the structure of muscle fibers and consider the mechanisms that control them.</para>
 <section id="sect-00007"><title>What constitutes muscle cells and their contractile elements?</title>
   <para id="para-00007">To reach our goal here, it is important to envision the whole and the functional system we’re discussing. Neural signals need to be sent from their sources in the spinal cord or brainstem out to merge with sets of skeletal muscles where these neurons release neurotransmitter and engage contractions. Neurotransmitter release happens at the terminals of these motoneurons, where it then binds to receptors at distinct locations constituting “the muscle.” This binding initiates a cascade of events that leads to muscle contraction, garnering different amounts of force as needed for actions. This phenomenon involves the actions of several players whose names and roles will now be more specifically delineated. Knowing the players will help to understand how the team wins desired actions with intelligent sophistication.</para>
   <para id="para-00008">The individual muscle cell is called a muscle fiber, or myofiber. Myofibers arrange themselves in parallel to add cooperative force, or in series (connected end-to-end) to provide length so contraction velocity can build, by accumulating themselves between tendon attachments. <link target-id="Image-10.08"/> shows how a muscle mass is composed of multiple muscle fibers (arranged in parallel or series).</para>
@@ -47,10 +47,10 @@
   <figure id="Image-10.20">
     <media alt="Insert Alt Text">
       <image mime-type="png" src="../../media/Image-10.20_Neuromuscular-junction.png"/>
-    </media>
+    </media><caption>Axons of LMNs terminate on muscle fibers in a special synapse called the neuromuscular junction.</caption>
   </figure>
   <para id="para-00017">The postsynaptic side of these junctions expresses nicotinic ACh receptors, which gate sodium and therefore initiate depolarization when they open. By comparison to CNS neurons which receive thousands of excitatory inputs requiring summation to reach action potential, motoneurons synapse only once with muscle fibers. Thus, both the selection of <emphasis effect="italics">that</emphasis> fiber contraction and some control over the contractile force, derives from the bolus of acetylcholine (ACh) released upon the fiber. Motoneurons must therefore release large amounts of acetylcholine to ensure enough stimulation of the fiber and cause contraction. Most movement events need to be quick and snappy, and cannot wait for prolonged summation to occur, such as escape from predators.</para>
-  <para id="para-00018"><link target-id="Image-10.10"/> shows how initial sodium influx from ACh receptor activation triggers an action potential in the skeletal muscle. Depolarization of the muscle fiber membrane (<term id="term-00013">sarcolemma</term>) leads to muscle action potentials that are perpetuated across the fiber via voltage-gated sodium channels, much like an action potential travels down an axon (see <link document="">Neuronal Physiology</link>). These sodium-based depolarization waves flash across the muscle fiber membrane and cause calcium release from internal stores in the <term id="term-00014">sarcoplasmic reticulum</term>. This calcium initiates contraction by starting the cycle described above.</para>
+  <para id="para-00018"><link target-id="Image-10.10"/> shows how initial sodium influx from ACh receptor activation triggers an action potential in the skeletal muscle. Depolarization of the muscle fiber membrane (<term id="term-00013">sarcolemma</term>) leads to muscle action potentials that are perpetuated across the fiber via voltage-gated sodium channels, much like an action potential travels down an axon (see <link document="m00011">Neurophysiology</link>). These sodium-based depolarization waves flash across the muscle fiber membrane and cause calcium release from internal stores in the <term id="term-00014">sarcoplasmic reticulum</term>. This calcium initiates contraction by starting the cycle described above.</para>
   <figure id="Image-10.10">
     <media alt="Insert Alt Text">
       <image mime-type="png" src="../../media/Image-10.10_Neuromuscular-junction-mechanism.png"/>
@@ -61,7 +61,7 @@
   <title>Differentiating the muscle fiber types</title>
   <para id="para-00019">Your author has found himself attempting to quickly make it to a classroom after miscalculating the length of a casual walk. Along the way, his stride speed increases and the fear of being late might cause a burst of effort into a sprint on rare occasions when he pushes the last moment. Different muscle fibers are likely involved between these stages. Specialized myofiber types contain combinations of mainly myosin types along with levels of mitochondria and other components that render distinct properties in energy availability and contraction speed. Most of the time, each motor unit (LMN and connected fibers) connects to similar muscle fiber types so that these can be engaged differentially, though any damage and regrowth might disrupt this pattern over time. Several characteristics differentiate muscle fiber types, applying their characteristics into a rationale for a pattern of recruitment reserving large motor unit or specific contraction bursts for last. There are 3 main types of muscle fibers: one slow-twitch (Type I) and two fast-twitch (Type IIA and Type IIX). Several key differences between them are summarized in <link target-id="Image-10.27"/>. Type I and Type IIA are the first recruited types of muscle fibers while Type IIX is reserved for later activation, when greater forces are needed.</para>
 
-  <table summary="Insert Alt Text"  id="Image-10.27">
+  <table summary="Insert Alt Text" id="Image-10.27">
     <tgroup cols="6">
     <thead>
       <row>
@@ -99,7 +99,7 @@
         <entry>Strong bursts</entry>
       </row>    </tbody>
     </tgroup>
-    <caption></caption>
+    <caption/>
     </table>
   <para id="para-00020"><term id="term-00015">Type I (slow)</term> and <term id="term-00016">Type IIA (fast)</term> muscle fibers each receive a much greater supply of blood capillaries, providing more oxygen and other energy-producing supplies to support contraction. These muscle fibers, known as myosin heavy chain, are typically recruited first in general run-of-the-mill movement because the energy stores are unlikely to be depleted.  Slow fibers (Type I) contain slightly different myosin heads yielding slower cycling. They contract more slowly and are primarily emphasized for use when speed is not important. Faster Type II fibers contain faster cycling myosin heads and are typically smaller and tend to use a combination of blood supply and glycogen to energize contractions (blood-derived energy staving off fatigue).  Both these Type I (slow) and IIA (fast) fibers also contain myoglobin along with iron and take on a red appearance, so they are designated as the red fibers.</para>
   <para id="para-00021">Type IIX fibers are designated “white” due to their relative lack of capillary supply. These fibers build up stores of glycogen that are broken down to make ATP and provide rapid bursts of contractile energy. Type IIX fibers are typically recruited last for final bursts of movement, as once their stores of energy are used up, they remain fatigued until energy levels are restored.</para>
@@ -109,7 +109,7 @@
 <figure id="Image-10.25">
   <media alt="Insert Alt Text">
     <image mime-type="png" src="../../media/Image-10.25_Motor-unit.png"/>
-  </media>
+  </media><caption>A motor unit is an alpha motor neuron and all the muscle fibers it synapses on.</caption>
 </figure>
 <para id="para-00023">To coordinate movement, muscles are activated in pairs of antagonists that pull in opposite directions (flexors or extensors in limbs). Thus, there are ways to coordinate movements by, for example, swinging an arm outward with an extensor and stopping that motion with the opposing flexor. Stiffening any joint requires simultaneously contracting both antagonists surrounding a joint or body part.</para></section>
 <section id="sect-00011"><title>Mechanisms of force generation</title>
@@ -165,11 +165,50 @@
       </section>
       <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
-      <para id="para-00004">placeholder</para>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-10-01-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-10-01-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-10-01-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-10-01-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-10-01-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-10-01-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-10-01-007"/></para>
+        </problem>
+      </exercise>
       </section>
+
       <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
-      <para id="para-00005">placeholder</para>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-10-01-008"/></para>
+        </problem>
+      </exercise>
       </section>
       
   </content>

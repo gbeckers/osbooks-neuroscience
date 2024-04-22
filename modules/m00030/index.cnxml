@@ -32,7 +32,7 @@
         <figure id="Image-3.10">
           <media alt="Diagram of a synapse showing a retrograde neurotransmitter being release through the postsynaptic membrane to bind a presynaptic receptor in response to post-synaptic neurotransmitter binding.">
             <image mime-type="image/png" src="../../media/Image-3.10_Retrograde-neurotransmission.png"/>
-          </media>
+          </media><caption>Retrograde neurotransmitters are not packaged in vesicles. Instead, they are released by the postsynaptic cell and signal on receptors on the presynaptic cell.</caption>
         </figure>
       </section>
       <section id="sect-00004">
@@ -69,11 +69,11 @@
     </section>
     <section id="sect-00010">
       <title>Acetylcholine</title>
-      <para id="para-00013">This section will describe the lifecycle and functions of acetylcholine. </para>
+      <para id="para-00013">This section will describe the lifecycle and functions of acetylcholine.</para>
       <section id="sect-00011">
         <title>Synthesis</title>
         <para id="para-00014"><term id="term-00012">Acetylcholine</term> (commonly abbreviated ACh) is made by transferring a molecule of acetic acid on to a molecule of choline that is derived from the fatty acid lecithin (steps 1 and 2 in <link target-id="Image-3.05"/>). This conversion occurs via the action of an enzyme called <term id="term-00013">choline acetyltransferase</term> (Picciotto et al., 2012). The acetyl is derived from a molecule of sugar, usually glucose, that is initially modified inside the mitochondria. The brain needs sugar (usually in the form of glucose) to function normally. Once inside the brain, only a very small percentage of the dietary sugar is used to produce acetylcholine. The brain typically has a constant and ample supply of choline. Choline can be easily obtained from the diet, such as from eggs and baked goods. Despite this fact, many health foods stores sell choline powder to gullible customers, claiming that consuming more choline will somehow enable their brains to make more acetylcholine. Given the vital role of acetylcholine in learning and memory, this is an appealing claim. Regrettably, it has no basis in fact. For adults, the brain responds only to deficits in choline, not surpluses, in the diet. It has a ready source of choline in the diet or stored in the liver and, in fact, never develops a deficit in choline, even in patients with Alzheimer’s disease. Thus, consuming extra choline does not induce your brain to make more acetylcholine. Instead, it only results in a gaseous by-product that you exhale and that smells like rotting fish. Rather than enhancing your cognitive abilities, choline supplements merely generate a terrible case of bad breath.</para>
-        <para id="para-00015">Once acetylcholine is produced, it is transported into synaptic vesicles (step 3 in <link target-id="Image-3.05"/>). The vesicles containing acetylcholine fuse with the presynaptic membrane of the axon terminal in response to an action potential (step 4 in <link target-id="Image-3.05"/>). Each vesicle releases about 10,000 acetylcholine molecules into the synapse. Some of these acetylcholine molecules will bind to protein receptors on the surface of the nearby neuron (step 5 in<link target-id="Image-3.05"/>). Ultimately, all of them are inactivated by an enzyme.</para>
+        <para id="para-00015">Once acetylcholine is produced, it is transported into synaptic vesicles (step 3 in <link target-id="Image-3.05"/>). The vesicles containing acetylcholine fuse with the presynaptic membrane of the axon terminal in response to an action potential (step 4 in <link target-id="Image-3.05"/>). Each vesicle releases about 10,000 acetylcholine molecules into the synapse. Some of these acetylcholine molecules will bind to protein receptors on the surface of the nearby neuron (step 5 in <link target-id="Image-3.05"/>). Ultimately, all of them are inactivated by an enzyme.</para>
 
         <figure id="Image-3.05">
           <media alt="Diagram of a synapse showing acetylcholine life cycle steps as described by main text. A blood vessel is also shown. Step 6, not described in text, is ACh autoreceptors signal to the presynaptic neuron to shutdown ACh synthesis and release.">
@@ -84,7 +84,7 @@
       <section id="sect-00012">
         <title>Inactivation of Acetylcholine</title>
         <para id="para-00016">Released acetylcholine molecules are quickly inactivated by the enzyme <term id="term-00018">acetylcholinesterase</term> (step 7 in <link target-id="Image-3.05"/>). Acetylcholinesterase has one of the fastest reaction rates of any of our enzymes, breaking up each molecule in about 80 microseconds (Taylor, 1991). Acetylcholinesterase breaks the acetylcholine into a molecule of acetate and choline. About forty percent of the choline will be reabsorbed into the axon terminal by specialized transport proteins and reused to produce more acetylcholine (step 8 in <link target-id="Image-3.05"/>). The remaining choline molecules and acetate will diffuse into the extracellular space and ultimately be removed from the brain. Knowledge about the chemistry and function of acetylcholinesterase led to the development of drugs that inhibit the enzyme acetylcholinesterase and greatly increase the amount of acetylcholine in the synapse. Today, acetylcholinesterase inhibitors are common treatments for Alzheimer’s disease. In theory, the drugs should compensate for the loss of acetylcholine neurons in these patients; in practice, the drugs provide little clinical benefit because too few healthy acetylcholine neurons are still present in the brain. 
-          </para>
+</para>
       </section>
       <section id="sect-00013">
         <title>Receptors</title>
@@ -95,7 +95,7 @@
             <image mime-type="image/png" src="../../media/Image-3.24_ACh-channels.png"/>
           </media>
         </figure>
-        <para id="para-00018">Most of the acetylcholine receptors in the brain are the muscarinic subtype, whereas less than 10% are nicotinic. They differ in size, structure, and mechanism of action; yet they both respond to acetylcholine. <term id="term-00014">Nicotinic acetylcholine receptors</term> are simple ligand-gated fast-opening ion channels that are also responsive to nicotine. Most of the nicotine receptors in the body live in the neuromuscular junction (see <link document="">Ch 10 Motor Control</link>). Nicotine receptors allow the passage of sodium, potassium or calcium ions and typically produce depolarization. <term id="term-00015">Muscarinic acetylcholine receptors</term> are G-protein-linked receptors that activate other ionic channels via a second messenger cascade. These receptors are responsive to muscarine and can produce either depolarization or hyperpolarization depending on the nature of the ionic channel linked to the G-protein complex.</para>
+        <para id="para-00018">Most of the acetylcholine receptors in the brain are the muscarinic subtype, whereas less than 10% are nicotinic. They differ in size, structure, and mechanism of action; yet they both respond to acetylcholine. <term id="term-00014">Nicotinic acetylcholine receptors</term> are simple ligand-gated fast-opening ion channels that are also responsive to nicotine. Most of the nicotine receptors in the body live in the neuromuscular junction (see <link document="m00017">Motor Control</link>). Nicotine receptors allow the passage of sodium, potassium or calcium ions and typically produce depolarization. <term id="term-00015">Muscarinic acetylcholine receptors</term> are G-protein-linked receptors that activate other ionic channels via a second messenger cascade. These receptors are responsive to muscarine and can produce either depolarization or hyperpolarization depending on the nature of the ionic channel linked to the G-protein complex.</para>
       </section>
       <section id="sect-00014">
         <title>The functions of acetylcholine</title>
@@ -108,7 +108,7 @@
         </figure>
         <para id="para-00020"/>
 
-        <para id="para-00021">Within these various regions, the actions of acetylcholine enable you to learn and remember, to regulate your attention and mood, and to control how well you can move. Thus, anything that affects the function of acetylcholine neurons has the potential to affect all these brain functions. Sometimes we can learn much about the role of a particular neurotransmitter system by investigating what happens when it is injured or diseased. In the brains of people with <term id="term-00016">Alzheimer’s disease</term>, for example, acetylcholine neurons that project into the hippocampus and cortex degenerate. The loss of normal acetylcholine function in the cortex may be why patients with Alzheimer’s disease have difficulty paying attention to their environment. The loss of acetylcholine projections into the hippocampus may underlie the profoundly debilitating memory loss that is the hallmark of this disease (see <link document="">Ch 18 Learning and Memory</link>).</para>
+        <para id="para-00021">Within these various regions, the actions of acetylcholine enable you to learn and remember, to regulate your attention and mood, and to control how well you can move. Thus, anything that affects the function of acetylcholine neurons has the potential to affect all these brain functions. Sometimes we can learn much about the role of a particular neurotransmitter system by investigating what happens when it is injured or diseased. In the brains of people with <term id="term-00016">Alzheimer’s disease</term>, for example, acetylcholine neurons that project into the hippocampus and cortex degenerate. The loss of normal acetylcholine function in the cortex may be why patients with Alzheimer’s disease have difficulty paying attention to their environment. The loss of acetylcholine projections into the hippocampus may underlie the profoundly debilitating memory loss that is the hallmark of this disease (see <link document="m00060">Learning and Memory</link>).</para>
       </section>
       </section>
       <section id="sect-00021">
@@ -121,7 +121,7 @@
     </section>
     <section class="section-summary" id="sect-00016">
       <title>TOPIC Summary</title>
-      <para id="para-00024">Fatty acids obtained from either the diet or pieces of neural membrane are modified into neurotransmitters. In contrast to the amino acid-derived neurotransmitters, two of the fatty acid-derived neurotransmitters discussed are not stored in vesicles; they are produced and immediately released only when needed. Their diffuse distribution underlies the large variety of functions that are assigned to them, including the control of mood, learning and memory and pain.  Dysfunction of acetylcholine is well known and studied. In contrast, much less is known about the functions of the endocannabinoid system. </para>
+      <para id="para-00024">Fatty acids obtained from either the diet or pieces of neural membrane are modified into neurotransmitters. In contrast to the amino acid-derived neurotransmitters, two of the fatty acid-derived neurotransmitters discussed are not stored in vesicles; they are produced and immediately released only when needed. Their diffuse distribution underlies the large variety of functions that are assigned to them, including the control of mood, learning and memory and pain.  Dysfunction of acetylcholine is well known and studied. In contrast, much less is known about the functions of the endocannabinoid system.</para>
 
     </section>
     <section class="key-terms" id="sect-00017">

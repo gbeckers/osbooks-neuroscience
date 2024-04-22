@@ -52,7 +52,7 @@
         </media>
         <caption>Image credit: Tsukamoto Y and Omi N (2017) Classification of Mouse Retinal Bipolar Cells: Type-Specific Connectivity with Special Reference to Rod-Driven AII Amacrine Pathways. Front. Neuroanat. 11:92. doi: 10.3389/fnana.2017.00092. CC BY 4.0.</caption>
       </figure>
-      <para id="para-00009">If you find communication between neurons fascinating, you’re not alone and you’re also in luck. When you get to the chapter on Summary<link document="m00027">Basic Neurochemistry</link>, you’ll read more about chemical communication between neurons.</para>
+      <para id="para-00009">If you find communication between neurons fascinating, you’re not alone and you’re also in luck. When you get to the chapter on <link document="m00027">Basic Neurochemistry</link>, you’ll read more about chemical communication between neurons.</para>
   </section>
   <section id="sect-00003"><title>Information spreads within a neuron electrically</title>
   <para id="para-00010">Neurons are specialized not only for communicating with each other, but also for generating internal electrical signals (<link target-id="Image-2.14"/>). Like almost all cells, neurons maintain an overall negative charge called a resting potential. In addition, neurons are electrically excitable; generating action potentials that sweep through a neuron at speeds up to 60 meters per second (134 miles per hour; Todnem et al., 1989). Each action potential is translated back into chemical messages released to partner neurons.</para>
@@ -114,9 +114,45 @@
   </section>
   <section class="multiple-choice" id="sect-00007">
   <title>Multiple Choice</title>
-    <para id="para-00024">placeholder</para> </section>
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+      <para id="para-00024"><link class="os-embed" url="#exercise/Neuro-02-01-001"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00002">
+    <problem id="prob-00002">
+      <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-02-01-002"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+      <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-02-01-003"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+      <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-02-01-004"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00005">
+    <problem id="prob-00005">
+      <para id="para-00028"><link class="os-embed" url="#exercise/Neuro-02-01-005"/></para>
+    </problem>
+  </exercise>
+
+
+</section>
   <section class="fillin-blank" id="sect-00008">
   <title>Fill in the Blank</title>
-    <para id="para-00025">placeholder</para> </section>
+  <exercise id="exer-00006">
+    <problem id="prob-00006">
+      <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-02-01-006"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00007">
+    <problem id="prob-00007">
+      <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-02-01-007"/></para>
+    </problem>
+  </exercise></section>
 </content>
 </document>

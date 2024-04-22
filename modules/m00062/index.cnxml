@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Implicit memories: associative vs. nonassociative learning</title>
+  <title>Implicit Memories: Associative vs. Nonassociative Learning</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Implicit memories: associative vs. nonassociative learning</md:title>
+    <md:title>Implicit Memories: Associative vs. Nonassociative Learning</md:title>
     <md:content-id>m00062</md:content-id>
     <md:uuid>6cb7d2da-44dc-4404-97cf-286bb10483bc</md:uuid>
   </metadata>
@@ -10,8 +10,168 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Describe two kinds of nonassociative learning.</item>
+          <item>Explain a typical classical conditioning experiment.</item>
+          <item>Describe the conditioned fear paradigm.</item>
+          <item>Explain a typical operant conditioning experiment.</item>
         </list>
-    </section>  </content>
+    </section>
+    <para id="para-00002">As we learned in <link document="m00061">Memory is Classified Based on Time Course and Type of Information Stored</link>, long-term memories can be categorized as implicit or explicit. In this section, we will dive more deeply into how implicit memories are formed. In the next section, we will cover explicit memory formation.</para>
+
+    <para id="para-00003">Implicit memory can be divided into associative and nonassociative categories. These categories are distinguished by the number of stimuli involved in learning. Nonassociative learning (and therefore non-associative memory) involves learning information about one stimulus. Conversely, associative learning (generating associative memories) refers to a type of learning in which the relationship between two stimuli is learned.</para>
+    <section id="sect-00002">
+    <title>Nonassociative learning	</title>
+    <para id="para-00004">Nonassociative learning involves the presentation of a single stimulus either once or multiple times. There are two main types of nonassociative learning: <term id="term-00001">habituation</term> and <term id="term-00002">sensitization</term> (<link target-id="Image-18.32"/>). Habituation refers to a diminished response to a stimulus that has been presented multiple times. An example would be someone who moves to a busy city from a small town. At first, the traffic noise may keep the person awake at night. However, after a few days, the person no longer notices the noise and can fall asleep easily. Sensitization refers to an exaggerated response to a stimulus after it is presented multiple times. In order for sensitization to occur, the stimulus must be intense and/or unpleasant. An example of sensitization would be the repeated loud ringing of a phone getting more and more annoying as time passes.</para>
+    <figure id="Image-18.32">
+      <media alt="Top shows comparisons of response magnitude to a stimulus for habituation versus sensitization. Response diminishes with repeated exposure in habituation and increases in response to sensitization. Sensitizing stimulus is represented as being greater magnitude and less frequent than habituation stimulus. Example habituation: being unable to sleep through noise then not noticing the noise. Example sensitization: finding a ring tone unpleasant at first then later finding it very annoying. Bottom shows a chart comparing stimulus quality (habituation = mild, sensitization = noxious), stimulus frequency (habituation = repeated, sensitization = greater than or equal to 1), response (habituation = decreases, sensitization = increases).">
+        <image mime-type="image/png" src="../../media/Image-18.32_Habituation-and-sensitization.png"/>
+      </media>
+    </figure>
+    <section id="sect-00011">
+    <title>Neuroscience across species: Mechanisms of sensitization in a sea slug</title>
+    <para id="para-00005">Non-associative learning is a relatively simple form of learning and much of what we know about the central circuits supporting it first came from study of an organism called <term id="term-00003">Aplysia</term> (<link target-id="Image-18.06"/>). Aplysia, also known as sea slugs, have only ~10,000 neurons in their nervous system. This relatively simple nervous system enabled researchers like Nobel prize winner Dr. Eric Kandel to study nonassociative learning and determine the specific circuit mechanisms that mediate it.</para>
+    <figure id="Image-18.06">
+      <media alt="Photo of Aplysia Californica releasing ink. It is a beige, slug-like creature with a frill along its dorsal surface and several protrusions from its face.">
+        <image mime-type="image/png" src="../../media/Image-18.06_Aplysia.png"/>
+      </media>
+    <caption><emphasis effect="italics">Aplysia Californica</emphasis> releasing ink. Study of aplysia has helped us understand the neural mechanisms of non-associative learning. Image credit: Genny Anderson - http://marinebio.net/marinescience/03ecology/tptre.htm, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=264835</caption>
+    </figure>
+    <para id="para-00006">To study non-associative learning, Kandel took advantage of a defensive reflex that Aplysia show called the gill and siphon withdrawal reflex. The gill of Aplysia is a delicate tissue through which they exchange oxygen and is located on the ventral side of the animal. The siphon is a small tube, extending from the ventral side of the animal out the caudal side, and is used to flow water through the animal as it moves. When the siphon is touched, this causes the gill to retract, a reflex meant to protect the delicate gill from whatever unknown threat may be approaching from behind. This reflex can undergo both forms of plasticity: habituation and sensitization. In the case of habituation, repeatedly touching the siphon eventually results in a weaker response. To observe sensitization, researchers paired a touch of the siphon with a shock to the tail. After repeated pairings (or even after just one pairing with a particularly large shock), a touch to the siphon elicits an exaggerated gill withdrawal response. Kandel and colleagues studied these changes in reflexes to show that they relied on central changes in synaptic strength and not, for example, changes in muscle fatigue or sensory receptor sensitivity.</para>
+    
+    <para id="para-00007"><link target-id="Image-18.07"/> shows some of the underlying mechanism for how sensitization happens and provides an example of how Aplysia helped us define a simple learning circuit. Underlying this exaggerated response is a larger amplitude EPSP in the gill withdrawal motor neuron compared to the EPSP seen before sensitization. This larger EPSP results from increased neurotransmitter release from the presynaptic neuron, which in the case of the gill withdrawal reflex is the siphon sensory neuron.</para>
+    <figure id="Image-18.07">
+      <media alt="Top shows the basic neuronal connections for the sensitization circuit as described in the main text. A separate diagram also shows an aplysia with neuronal circuitry in anatomical position. Sensory neurons connect to siphon on the dorsal side and to tail on the posterior end. Gill is innervated by motor neuron on the ventral side. Bottom shows the steps of sensitization as described in the main text, focusing on the synapse of the siphon sensory neuron with gill motor neuron, including the serotonergic interneuron that synapses on the siphon sensory neuron presynaptic terminal. This synaptic level view is accompanied by a diagram showing how the before sensitization, a small EPSP in the motor neuron causes small gill contraction and after, a large EPSP causes a bigger gill contraction.">
+        <image mime-type="image/png" src="../../media/Image-18.07_Aplysia-sensitization.png"/>
+      </media>
+    </figure>    
+    <para id="para-00008">Let’s walk through how this change occurs. The siphon has sensory neurons which connect directly to the gill motor neurons. At baseline, a touch of the siphon releases neurotransmitter on the gill motor neuron, exciting the gill motor neuron (an EPSP) and causing it to fire. The gill muscle contracts, and the gill withdraws. The synapse between the siphon sensory neuron and the gill motor neuron is not isolated, however. It receives other inputs, the most important for us here is from a serotonergic interneuron. That serotonergic interneuron releases serotonin on to receptors on the presynaptic siphon sensory terminal. The serotonergic neuron gets its input indirectly from tail sensory neurons. When the tail is shocked, that serotonergic neuron releases serotonin on the siphon sensory presynaptic terminal. The downstream G protein signaling cascades following serotonin receptor activation change the siphon sensory presynaptic terminal such that it will now release more neurotransmitter in response to single siphon axon action potential. The next touch of the siphon now releases more neurotransmitter, causing a larger EPSP in the motor neuron, more motor neuron action potentials and greater gill muscle contraction. The end result is the same siphon touch results in more gill withdrawal after sensitization by tail shock than it did before. You can read more about Eric Kandel’s discoveries at <link url="https://openstax.org/r/Neuro18slugs">The Lasker Foundation</link>.</para>
+  </section></section>
+    <section id="sect-00003">
+    <title>Associative learning</title>
+    <para id="para-00009">Unlike habituation and sensitization, where response to a single stimulus changes as a result of experience, in associative learning, a relationship between two stimuli is learned by presenting the stimuli close together in time. There are 2 main types of associative learning: classical conditioning and operant conditioning.</para>
+    <section id="sect-00004">
+    <title>Classical conditioning</title>
+    <para id="para-00010">Dr. Ivan Pavlov is a central figure in the history of associative learning. Pavlov was a Russian physiologist who won the Nobel prize in Physiology or Medicine in 1904 for his discoveries about the physiology of digestion. However, he is best known for discovering <term id="term-00004">classical conditioning</term>, a field that even bears his name as it is sometimes called “Pavlovian conditioning”. His discovery was purely accidental while he was studying the gastric system of dogs. He was interested in the amount of saliva dogs produced when presented with food vs. non-food items and discovered, not surprisingly, that dogs salivated when food was placed in front of them. However, he also made a curious observation: the dogs began salivating before the food was presented in response, for example, to hearing the footsteps of the research assistants coming down the hall to bring the food. These auditory stimuli now elicited salivation after being reliably paired with food presentation. He then tested other signals, including a ringing of a bell, to signal that the food was on its way and observed that no matter what the signal, the dogs would salivate in anticipation of the food, suggesting that they had learned the association between the food and the signal.</para>
+    
+    <para id="para-00011"><link target-id="Image-18.21"/> describes the process that Pavlov was uncovering in his work and that we now call classical conditioning. The food is referred to as the <term id="term-00005">unconditioned stimulus</term>, and salivation as the <term id="term-00006">unconditioned response</term>. These are physiological responses that are not learned but are innate. <term id="term-00007">Conditioned stimuli</term>, like Pavlov’s bell, are stimuli that signal and thus come to be associated with the unconditioned stimulus. <term id="term-00008">Conditioned responses</term> are the responses that are triggered by the conditioned stimulus after learning. In the case of the dogs, the conditioned response was salivation but only when it occurred after the conditioned stimulus. Thus, the conditioned response and unconditioned response are often the same physiological responses (salivation in this case) and are distinguished only by the timing of their occurrence, with conditioned responses happening after the conditioned stimulus but before the unconditioned stimulus is present.</para>
+    <figure id="Image-18.21">
+      <media alt="An illustration of the process of Pavlovian conditioning as described in the main text, showing a dog salivating (unconditioned and conditioned response), a bell (conditioned stimulus) and a raw steak (unconditioned stimulus). Before conditioning, the steak causes salivation, and the bell does nothing. During conditions, the bell is rung when steak is presented (and the dog salivates). After conditioning the bell alone causes salivation.">
+        <image mime-type="image/png" src="../../media/Image-18.21_Classical-conditioning.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00012">While Pavlov’s work was transformative for the study of learning, the brain mechanisms remained a mystery at the time. In particular, the effort to localize memory to a specific part of the brain, much like speech can be localized to Broca’s area, has occupied researchers for decades and continues to be a focus of research today. This memory trace in the brain is sometimes referred to as an <term id="term-00009">engram</term>. Dr. Karl Lashley, for example, launched numerous studies in the early 1900s where he made extensive cortical lesions in rats, looking for which area held the engram (<link target-id="Image-18.09"/>). After repeatedly observing no behavioral deficit, Lashley concluded in frustration that the memory engram could not be found. In Lashley’s words: “I sometimes feel, in reviewing the evidence on the localization of the memory trace, that the necessary conclusion is that learning is just not possible”.</para>
+    <figure id="Image-18.09">
+      <media alt="Photo of Karl Lashley (1890-1958).">
+        <image mime-type="image/png" src="../../media/Image-18.09_Karl-Lashley.png"/>
+      </media>
+    <caption>Image from: https://en.wikipedia.org/wiki/File:Photo_of_Karl_Lashley.jpg.</caption>
+    </figure>
+    
+    <para id="para-00013">About one hundred years after Pavlov won the Nobel prize, however, Pavlov’s scientific “great-grandson”, Dr. Richard Thompson, discovered a specific brain region underlying a specific form of Pavlovian conditioning. Instead of salivating dogs, Thompson used blinking rabbits. He developed a paradigm, rabbit eyeblink conditioning, in which an airpuff to the eye (the unconditioned stimulus) triggers a reflexive eyeblink, the unconditioned response. If the airpuff is preceded by a tone, the conditioned stimulus, the rabbit eventually starts blinking to the tone, thus emitting a conditioned response. Instead of looking in the cortex like Lashley did, Thompson set out to discover the memory engram in subcortical structures. Thompson and his doctoral student, David McCormick, published a paper demonstrating that they had indeed localized the memory engram. Lesions of the ipsilateral dentate-interpositus nuclei of the cerebellum completely eliminated the learned eyeblink response (McCormick &amp; Thompson 1984). Importantly, the lesioned rabbits were still able to produce an eyeblink in response to the puff of air, indicating that the motor capacity persisted, but that ability to learn the association did not. Consequently, this particular type of associative learning is supported by the cerebellum. However, other types of associative learning, such as conditioned fear, rely on a different network of brain regions.</para>
+    </section>
+    <section id="sect-00012">
+    <title>Neuroscience in the lab: Fear learning as a special case of classical conditioning</title>
+    <para id="para-00014">Many forms of fear learning are forms of classical conditioning. Fear memory is an umbrella term for a number of paradigms in which there is association formed between a threatening stimulus and a neutral stimulus. Research with human subjects can rely on self-report to examine fear. However, how do we study fear using animal subjects? Although it is not possible to directly measure fear in experimental animals, we can rely on species-typical defense behaviors to give us a clue about what brain circuitry gives rise to the perception of threats and avoidance of danger. The visual systems of predators that hunt rodents are exquisitely sensitive to movement. Thus, one species-typical behavior of mice is to freeze to avoid predation. Researchers capitalize on the tendency of rodents to freeze when they feel threatened as a way to indirectly measure the animals’ emotional state.</para>
+    
+    <para id="para-00015"><link target-id="Image-18.28"/> shows two typical fear conditioning paradigms, both of which involve delivering a foot shock as the unconditioned stimulus in association with differing neutral stimuli. In both cases, freezing behavior is used to measure fear elicited by the formerly neutral stimuli. In cued fear conditioning, the shock is paired with a tone, which then becomes the conditioned stimulus. Similar to eyeblink conditioning described above, the previously-neutral tone comes to elicit the conditioned response, freezing. In contextual fear conditioning, the shock is delivered without a tone. As a result, the environment where the shock was delivered serves as the conditioned stimulus. The next time a rodent is placed in the shock context, it will freeze, reflecting that it learned and remembered the association of the context with unpleasant footshock. There is general consensus that all types of fear conditioning depend on the <term id="term-00010">amygdala</term>, while contextual fear conditioning also relies on the <term id="term-00011">hippocampus</term> (Izquierdo et al 2016).</para>
+    <figure id="Image-18.28">
+      <media alt="Diagrams of process for cued and contextual fear conditioning, both taking place with a mouse in a small box and metal grid floor. Cued: 1) Rodents acclimate to a chamber for several minutes. 2) A mild shock is applied through the floor grid at the same time as a tone is played over a speaker. 3) After a delay, the mouse is returned to a different chamber (no metal grid floor). Freezing behavior in response to the tone is used as a measure of memory. Contextual: 1) Rodents acclimate to a chamber for several minutes. 2) A mild shock is applied through the floor grid. 3) After a delay, the mouse is returned to the chamber, Freezing behavior is used as a measure of memory for the context.">
+        <image mime-type="image/png" src="../../media/Image-18.28_Fear-conditioning.png"/>
+      </media>
+    </figure>
+  </section>
+    <note class="boxed-feature" id="note-00003">
+    <title>People Behind the Science: Steve Ramirez (inducing false memories)</title>
+    <para id="para-00016">Dr. Steve Ramirez, an assistant professor of Neuroscience at Boston University, is best known for his discovery alongside his colleague Dr. Xu Liu that memories can be engineered (i.e. artificially created). To do this, they first had to capture a memory in the brain by tagging neurons in the dentate gyrus subregion of the hippocampus that were active during memory formation. Using a combination of genetic and optogenetic tools, they tagged neurons that were active during fear conditioning with Channelrhodpsin-2 (see <link document="">Methods: Optogenetics</link>), which allowed them to activate this same set of neurons in a different environment. Contextual fear conditioning is quite specific. If a mouse undergoes contextual fear conditioning in one environment, it will only freeze in the shock context and not in a “safe” context where it has never been shocked. Liu and Ramirez found that when they reactivated the group of neurons in the “safe” context, the mice froze as if they were in the fear context (Liu et al 2012). Thus, each memory activates a specific set of hippocampal neurons and can be recalled when that set of neurons is reactivated. They concluded that this set of neurons that are activated by a memory are the neural substrate for a memory engram. Dr. Ramirez has the goal of applying these findings to therapeutic interventions for disorders such as depression and post-traumatic stress disorder.</para></note>
+    </section>
+    <section id="sect-00005">
+    <title>Operant conditioning</title>
+    <para id="para-00017">Unlike classical conditioning, which requires the association between the conditioned and unconditioned stimuli, <term id="term-00012">operant conditioning</term> requires the association of a voluntary behavior with a consequence. The most well-known experimental example of operant conditioning is training a rat to press a lever to get a food pellet. However, you might be more familiar with the same type of operant behavior when you train your pet dog to do tricks using positive reinforcement. Every time your dog does something that is desirable, you give him a treat (a reinforcement), making it more likely that the behavior will occur again. <term id="term-00013">Punishments</term>, conversely, are actions that decrease the likelihood that the behavior will occur again. Punishments are often confused with <term id="term-00014">negative reinforcement</term>, which is the <emphasis effect="italics">removal</emphasis> of an undesirable stimulus and has the consequence of making a behavior <emphasis effect="italics">more likely</emphasis> to occur. A common example of negative reinforcement is the use of alcohol to alleviate nervousness in a social situation. The alcohol mitigates the nervous feelings, thus making it more likely that the person will drink alcohol the next time they encounter a social situation. There can also be positive punishment in which something is added to the environment to decrease the behavior. For example, giving students extra homework when they fail to complete the assigned work. <link target-id="Image-18.22"/> diagrams the different forms of operant conditioning and their effect on behavior.</para>
+    <figure id="Image-18.22">
+      <media alt="Hierarchical structure of types of operant conditioning. Reinforcement is composed of positive stimulus presented or negative stimulus removed, both of which cause behavior increases. Punishment is composed of positive stimulus removed or negative stimulus presente, both of which cause behavior decreases.">
+        <image mime-type="image/png" src="../../media/Image-18.22_Operant-conditioning.png"/>
+      </media>
+    </figure>
+    
+    <para id="para-00018">A number of brain regions contribute to operant conditioning. One important brain region is the basal ganglia, especially the caudate and putamen, collectively known as the striatum (see <link document="m00017">Motor Control</link>). The striatum receives input from many cortical regions, most importantly to the motor cortex, and sends projections via the globus pallidus and substantia nigra to the thalamus, and ultimately back to those same cortical regions. This cortical-striatal system is thought to be critical for making associations between stimulus and response. In addition, the medial prefrontal cortex, amygdala, and the mesolimbic dopamine system (i.e. “reward pathway”) all contribute to producing goal-directed behaviors and stimulus-response behaviors (Rudy, 2008).</para></section>
+
+    <section class="section-summary" id="sect-00006"><title>Summary</title>
+      <para id="para-00019">Implicit memories are memories that are formed without our conscious awareness. Implicit memories can be categorized into associative memories, including classical and operant conditioning, and nonassociative memories, including habitation and sensitization. In classical conditioning, two previously unrelated stimuli (one neutral, one inherently meaningful) are associated with one another, such that the previously neutral stimulus evokes the same species-typical response that the inherently meaningful one does. In operant conditioning, a stimulus is associated with a response, making responses that follow reward more likely to happen in the future and responses that follow punishment less likely to happen in the future. This type of learning is supported primarily by the cortical-striatal system, aided by structures such as the medial prefrontal cortex, amygdala, and mesolimbic dopamine system.
+</para> </section>
+      <section class="key-terms" id="sect-00007"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>Habituation</item>
+      <item>sensitization</item>
+      <item>Aplysia</item>
+      <item>classical conditioning</item>
+      <item>unconditioned stimulus</item>
+      <item>unconditioned response</item>
+      <item>conditioned stimulus</item>
+      <item>conditioned response</item>
+      <item>engram</item>
+      <item>amygdala</item>
+      <item>hippocampus</item>
+      <item>operant conditioning</item>
+      <item>positive/negative reinforcement</item>
+      <item>punishment</item>
+      </list> </section>
+      <section class="references" id="sect-00008"><title>References</title> 
+        <para id="para-00020">Izquierdo, I., Furini, C. R., &amp; Myskiw, J. C. (2016). Fear Memory. <emphasis effect="italics">Physiological Reviews</emphasis>, <emphasis effect="italics">96</emphasis>(2), 695-750. https://doi.org/10.1152/physrev.00018.2015</para>
+        <para id="para-00021">Liu, X., Ramirez, S., Pang, P. T., Puryear, C. B., Govindarajan, A., Deisseroth, K., &amp; Tonegawa, S. (2012). Optogenetic stimulation of a hippocampal engram activates fear memory recall. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">484</emphasis>(7394), 381-385. https://doi.org/10.1038/nature11028</para>
+        <para id="para-00022">McCormick, D. A., &amp; Thompson, R. F. (1984). Cerebellum: essential involvement in the classically conditioned eyelid response. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">223</emphasis>(4633), 296-299. https://doi.org/10.1126/science.6701513</para>
+        <para id="para-00023">Rudy, J. W. (2008). The neurobiology of learning and memory. Sinauer Associates, Sunderland, Massachusetts.</para>
+        <para id="para-00024">Staddon, J. E., &amp; Cerutti, D. T. (2003). Operant conditioning. <emphasis effect="italics">Annual Review of Psychology</emphasis>, <emphasis effect="italics">54</emphasis>, 115-144. https://doi.org/10.1146/annurev.psych.54.101601.145124</para>
+        <para id="para-00025">VanElzakker, M. B., Dahlgren, M. K., Davis, F. C., Dubois, S., &amp; Shin, L. M. (2014). From Pavlov to PTSD: the extinction of conditioned fear in rodents, humans, and anxiety disorders. <emphasis effect="italics">Neurobiology of Learning and Memory</emphasis>, <emphasis effect="italics">113</emphasis>, 3-18. https://doi.org/10.1016/j.nlm.2013.11.014</para>        
+       </section>
+      
+      <section class="multiple-choice" id="sect-00009"><title>Multiple Choice</title> 
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+          <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-18-02-001"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+          <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-18-02-002"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+          <para id="para-00028"><link class="os-embed" url="#exercise/Neuro-18-02-003"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+          <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-18-02-004"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00005">
+          <problem id="prob-00005">
+          <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-18-02-005"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00006">
+          <problem id="prob-00006">
+          <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-18-02-006"/></para>
+          </problem>
+        </exercise>
+      </section>
+      <section class="fillin-blank" id="sect-00010"><title>Fill in the Blank</title>
+        <exercise id="exer-00007">
+          <problem id="prob-00007">
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-18-02-007"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00008">
+          <problem id="prob-00008">
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-18-02-008"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00009">
+          <problem id="prob-00009">
+          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-18-02-009"/></para>
+          </problem>
+        </exercise></section>
+      
+  </content>
 </document>

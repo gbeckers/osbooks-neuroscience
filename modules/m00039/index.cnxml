@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>The chemical senses are several distinct neural sub-types</title>
+  <title>The Chemical Senses Are Several Distinct Neural Sub-Types</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>The chemical senses are several distinct neural sub-types</md:title>
+    <md:title>The Chemical Senses Are Several Distinct Neural Sub-Types</md:title>
     <md:content-id>m00039</md:content-id>
     <md:uuid>e4b4988e-58b4-4a2e-8383-1fb22b526b8d</md:uuid>
   </metadata>
@@ -21,7 +21,7 @@
     <title>Taste-mediated behaviors</title>
     <para id="para-00004">The primary role of the sense of <term id="term-00004">gustation</term> is to determine the chemical composition of substances we are about to ingest. The gustatory system is capable of detecting only a few specific types of molecules when in high concentration at close proximity with receptor cells, and it triggers only a handful of sensations or modalities (Sweet, Umami, Salty, Sour, Bitter, etc.). While this is relatively few modalities compared to olfaction, gustation is essential for survival. It is the final mechanism by which animals decide if materials are full of life-giving nutrients or life-threatening poisons.</para>
     <section id="sect-00003"><title>Acquiring molecules essential for life</title>
-    <para id="para-00005">All animals consume food for energy and to obtain the chemical building blocks used to construct and repair their bodies. In humans and most other species, there are several broad classes of molecules that must be identified by the organism and ingested. Specifically, the detection of carbohydrates and/or protein (strings of amino acids) in food are critically important for most animals. Many animals also require a source of essential fatty acids that they cannot synthesize <emphasis effect="italics">de novo</emphasis>, as well as external sources of salts to help maintain healthy fluid balance. The ability of animals to perceive carbohydrates, amino acids, fatty acids, and salts in food is largely mediated by the gustatory system. Each of these molecules plays an indispensable role in the fundamental physiological and metabolic processes of animals and must be acquired through ingesting food. Thus, one of the most important roles the gustatory system plays in animal behavior is to allow an animal to determine the nutritive value of a particular food before it is ingested and mediate decisions about which food sources to pursue. For humans, the positive hedonic experience provided by consuming sweet, umami, fatty, and salty foods drives food choices that exacerbate some of the most prevalent diseases in the developed world <link document="">Homeostasis</link>. Therefore, understanding how the gustatory system and brain work in concert to decide which foods an animal seeks out is of primary importance to understanding animal behaviors and managing human diseases.</para>
+    <para id="para-00005">All animals consume food for energy and to obtain the chemical building blocks used to construct and repair their bodies. In humans and most other species, there are several broad classes of molecules that must be identified by the organism and ingested. Specifically, the detection of carbohydrates and/or protein (strings of amino acids) in food are critically important for most animals. Many animals also require a source of essential fatty acids that they cannot synthesize <emphasis effect="italics">de novo</emphasis>, as well as external sources of salts to help maintain healthy fluid balance. The ability of animals to perceive carbohydrates, amino acids, fatty acids, and salts in food is largely mediated by the gustatory system. Each of these molecules plays an indispensable role in the fundamental physiological and metabolic processes of animals and must be acquired through ingesting food. Thus, one of the most important roles the gustatory system plays in animal behavior is to allow an animal to determine the nutritive value of a particular food before it is ingested and mediate decisions about which food sources to pursue. For humans, the positive hedonic experience provided by consuming sweet, umami, fatty, and salty foods drives food choices that exacerbate some of the most prevalent diseases in the developed world (see <link document="m00054">Homeostasis</link>). Therefore, understanding how the gustatory system and brain work in concert to decide which foods an animal seeks out is of primary importance to understanding animal behaviors and managing human diseases.</para>
     </section>
     <section id="sect-00004">
     <title>Rejection of potentially toxic or poisonous chemicals</title>
@@ -31,7 +31,7 @@
     <para id="para-00007">Another example of a taste that potentially signals danger is bitterness. Humans perceive several classes of molecules as being bitter. These molecules are usually found in plants and are likely to have physiological or psychoactive effects on animals. Analogous to “acquiring a taste” for fermented foods, many humans also acquire a taste for bitter compounds that alter their physiology; alcohol, caffeine, nicotine, and cocaine are all perceived as being intensely bitter, but humans commonly will learn to tolerate the bitter taste of these drugs in pursuit of the psychoactive effects. Conversely, the bitter taste of many pharmaceuticals can cause individuals to avoid ingesting therapeutic drugs, and some green vegetables that have health benefits are also avoided because of their bitter taste. Despite these last two examples, perceiving compounds as bitter likely warns of a substance that could detrimentally alter an animal's health.</para>
     
     
-    <para id="para-00008">The primary behavior mediated by the gustatory system is the acceptance or rejection of particular foods. However, it is the integration of these signals with olfactory signals and even the somatosensory system (see <link document="">Section 8.4</link>) by the brain that creates the sensation we refer to as “taste” or more precisely flavor.</para>
+    <para id="para-00008">The primary behavior mediated by the gustatory system is the acceptance or rejection of particular foods. However, it is the integration of these signals with olfactory signals and even the somatosensory system (see <link document="m00040">Chemethesis, Spices, and Solitary Chemosensory Cells</link>) by the brain that creates the sensation we refer to as “taste” or more precisely flavor.</para>
     </section>
     <section id="sect-00005">
     <title>Olfactory-mediated behaviors</title>
@@ -51,7 +51,7 @@
     </section></section>
     <section id="sect-00009">
     <title>Chemesthesis-related behaviors</title>
-    <para id="para-00013">Many of the culinary ingredients we call spices contain chemicals that stimulate the somatosensory system to produce warming and cooling sensations. The technical term for the chemical stimulation of the somatosensory system is <term id="term-00009">chemesthesis</term>. Many plants produce chemicals that simulate thermal stimuli to alter the behavior of predatory animals. However, because our brains integrate chemesthetic with olfactory and gustatory signals to produce the perception of flavor, human beings cultivate these plants to use as flavor enhancers. The sense of chemesthesis is essential to describing the distinct culinary traditions around the world, but increasingly research indicates that the sense of chemesthesis is important for monitoring parts the body for growing bacteria (See <link document="">Section 8.4.</link>).</para>
+    <para id="para-00013">Many of the culinary ingredients we call spices contain chemicals that stimulate the somatosensory system to produce warming and cooling sensations. The technical term for the chemical stimulation of the somatosensory system is <term id="term-00009">chemesthesis</term>. Many plants produce chemicals that simulate thermal stimuli to alter the behavior of predatory animals. However, because our brains integrate chemesthetic with olfactory and gustatory signals to produce the perception of flavor, human beings cultivate these plants to use as flavor enhancers. The sense of chemesthesis is essential to describing the distinct culinary traditions around the world, but increasingly research indicates that the sense of chemesthesis is important for monitoring parts the body for growing bacteria (see <link document="m00042">Chemesthesis, Spices, and Solitary Chemosensory Cells</link>).</para>
     
     <note class="boxed-feature" id="note-00001"> <title>The Jelly Bean Experiment: How can you tell the difference between Taste and Smell?</title> 
     
@@ -88,7 +88,7 @@
       <para id="para-00024"><link url="https://openstax.org/r/Neuro8Summary">Author's summary</link></para>
 
       <para id="para-00025">All animals rely on the chemical senses for their ability to survive and proliferate. Gustation alerts us to toxic or hazardous compounds in our foods, while at the same time evaluating their nutritional content. Olfaction works in concert with taste to help us locate and recognize food sources. Olfaction also alerts animals to the presence of both predators and potential mates, increasing survival and reproductive opportunities. Our sense of smell also serves to alert us to dangers in the environment like smoke from a fire. Our brain integrates signals from these and other sensory systems to produce the multi-modal perceptions we describe as flavor.
-      </para> </section>
+</para> </section>
       <section class="key-terms" id="sect-00011"><title>Key Terms</title> <list display="inline" id="list-00007">
       <item>Signal integration</item>
       <item>smell</item>
@@ -109,7 +109,15 @@
         
        </section>
       
-      <section class="multiple-choice" id="sect-00013"><title>Multiple Choice</title> <para id="para-00029">...</para> </section>
-      <section class="fillin-blank" id="sect-00014"><title>Fill in the Blank</title> <para id="para-00030">...</para> </section>
+       <section class="multiple-choice" id="sect-00013"><title>Multiple Choice</title>
+        <exercise id="exer-00001">
+            <problem id="prob-00001">
+        <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-08-01-001"/></para></problem></exercise>
+         </section>
+        <section class="fillin-blank" id="sect-00014"><title>Fill in the Blank</title>
+        <exercise id="exer-00002">
+            <problem id="prob-00002">
+        <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-08-01-002"/></para></problem></exercise>
+        </section>
   </content>
 </document>

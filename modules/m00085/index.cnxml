@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Gastrulation and formation of the neural tube (neurulation)</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Gastrulation and formation of the neural tube (neurulation)</md:title>
+    <md:content-id>m00085</md:content-id>
+    <md:uuid>332fc47f-992a-4f30-891c-dc2f3b05d75c</md:uuid>
+  </metadata>
+  <content><section class="learning-objectives" id="sect-00002">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section you should be able to</para>
+      <list id="list-00001">
+        <item>Describe major structural brain defects and their causes.</item>
+        <item>Describe basic principles of gastrulation and neurulation.</item>
+      </list>
+  </section>
+<para id="para-00014">Our entire CNS begins from a simple sheet of cells. During development, these cells expand to create the highly patterned and functional units of our brain and spinal cord, giving us the capacity to sense and respond to the environment. In this section, we will introduce you to some of the earliest steps of development. These steps create the foundation for more advanced sculpting of the brain and spinal cord.</para>
+
+<section id="sect-00003"><title>Why is brain development important?</title>
+  <para id="para-00015">CNS abnormalities that cause functional impairment or suffering occur with a frequency of approximately 0.1-0.2% of all live births (Cater et al., 2020). <term id="term-00001">Congenital</term> (those that occur at birth) defects can occur due to environmental toxins (<term id="term-00002">teratogens</term>), as well as other prenatal experiences, such as poor maternal diet, maternal stressors, or genetic mutations. Abnormal brain development that impairs quality of life can also occur postnatally due to the presence or absence of environmental stimuli. For example, a lack of or poor environmental influences postnatally can severely impair cognition years later (Ornoy, 2006). These types of detrimental changes in brain function result because both the prenatal and the postnatal brain have a tremendous ability to sense and respond to the environment by reorganizing its structure, function, or connections. Simply put, the brain is very sensitive to environmental stimulation both pre- and postnatally. The fact that early life experience and brain development can lead to functional deficits well into adulthood underscores a need for research into how the brain develops, how genetics modulates pre-and postnatal development, and how the environment positively or negatively affects overall brain development and function.</para></section>
+
+  <section id="sect-00004"><title>How does development begin?</title>
+  <para id="para-00016">Development of the nervous system requires specific patterning events in the early embryo. These events are summarized in <link target-id="Image-5.14"/>, which we will elaborate on throughout the sections of this chapter. These events organize the fertilized egg and partition specific units for brain development. Thus, to understand brain development in detail, we must first begin by understanding the mechanisms in place that set up the original partitions.</para>
+  <figure id="Image-5.14"> <media alt="Flowchart with 3 sequential steps. 1) Gastrulation (process of producing 3 germ layers). 2) Neurulation (ectoderm tissue becomes neural tissue). 3) Maturation (early brain subdivisions mature into adult subdivisions)"> <image mime-type="image/png" src="../../media/Image-5.14_Overview-of-early-neurodevelopment.png"/> </media></figure>
+
+  <section id="sect-00005"><title>Gastrulation</title>
+  <para id="para-00017">Development of the nervous system begins with the process of <term id="term-00003">gastrulation</term>, one of the earliest developmental events in the embryo. The goal of gastrulation is to start the subdivision and specialization of cells in the developing embryo. When complete, gastrulation results in the production of 3 primary <term id="term-00004">germ layers</term>. The creation of germ layers can be thought of as the earliest step towards successfully partitioning an organism. Each of the 3 germ layers are made of cells that will give rise to specific tissue types depending on their location.</para>
+
+  <para id="para-00018">Gastrulation begins several days after the fertilization of an egg in species like mice and humans. In those intervening days after fertilization (but before gastrulation), the egg undergoes several rounds of <term id="term-00005">cleavage</term> (cell division) events to produce a sphere of cells called the <term id="term-00006">blastocyst</term>. The sphere of cells surrounds a fluid-filled cavity called the <term id="term-00007">blastocoel</term> (step 1 in <link target-id="Image-5.25"/>). Reorganization of the blastula will produce two early layers of cells, the <term id="term-00008">inner cell mass</term> and the outer trophoblast layer (step 2 in <link target-id="Image-5.25"/>). The trophoblast layer will become the mammalian placenta. Through cellular movements, migration, and invagination, the cells of the inner cell mass will produce the 3 germ layers (step 2 in <link target-id="Image-5.25"/>).</para>
+
+  <para id="para-00019">Gastrulation begins after the formation of the <term id="term-00009">primitive streak</term>, which is a long groove that forms across the developing embryo. At the anterior region of the primitive streak is the <term id="term-00010">node</term> (De Robertis, 2006). This node represents the organizing center of gastrulation and is the site where invagination of cells begins. <link target-id="Image-5.25"/> step 3 demonstrates an example of early invagination. After the cellular movements are complete, the gastrula contains 3 germ layers: the endoderm, mesoderm, and ectoderm (<link target-id="Image-5.25"/>). They are named based on where they are located within the developing embryo: the endoderm is the innermost layer, the mesoderm is in the middle layer, and the ectoderm is the outermost layer. The CNS is produced from the ectoderm, although all layers communicate with one another to coordinate development.</para>
+  <figure id="Image-5.25"> <media alt="Diagram of the steps of gastrulation. 1) During early development, a fertilized egg divides (cleaves) many times. 2) A hollow ball of cells forms, called the blastula. As the blastula matures, it forms a mass of cells on one side and is now called the blastocyst. 3) The inner mass cells differentiate in to the 3 embryonic lineages and rearrange to form the gastrula. 4) The nervous system starts to form from a subset of ectodermal cells. Steps are described more thoroughly in the main text."> <image mime-type="image/png" src="../../media/Image-5.25_Gastrulation.png"/> </media></figure>
+
+  <note class="across-species" id="note-00001"><title>Compare and contrast: gastrulation in other species</title>
+  <para id="para-00020">Gastrulation is highly conserved across species. However, some anatomical names and regions differ. Many of the cellular movements and signaling events that regulate gastrulation were originally identified in other embryos such as amphibians. In some species such as frogs and zebrafish, the egg is externally fertilized, and the events of gastrulation occur external to the mother. Despite differences in species and location, similar structures arise and organize gastrulation in amphibians and other species. For example, the mammalian blastocyst is akin to a structure called the blastula, which contains a primitive streak-like structure called the blastopore. The dorsal end of the blastopore is an organizing center called the <term id="term-00011">blastopore lip</term>, equivalent to the node. Observable comparisons can be viewed in <link target-id="Image-5.01"/> of mouse (mammalian) and zebrafish development.</para>
+  <figure id="Image-5.01"> <media alt="Two-part diagram showing parallel steps in embryonic development for mouse and zebrafish. For mouse: Embryonic development in placental mammals, such as mice, begins with a single cell that expands and implants in the uterus. After implantation, the embryo undergoes gastrulation, during which differentiating cell layers form. Egg-laying species such as zebrafish, also start as 1 cell, but are attached to a large yolk sac that provides nutrients. Egg-laying species embryos also undergo gastrulation. Relevant details of steps are described in the main text."> <image mime-type="image/png" src="../../media/Image-5.01_Prenatal-development-across-species.png"/> </media></figure>
+
+  <para id="para-00021">The early embryo in both species undergoes cleavage events, rapidly increasing the number of cells. In zebrafish, the cells are located above a large extra embryonic structure called the yolk sac. The human yolk sac is essential for the early production of blood and germ cells. For example, it is the site of production of microglia, the immune cells in the brain (see <link document="m00072">Neuroimmunology</link>). In humans, gastrulation occurs in the 3rd week of development and begins with the formation of the primitive streak. In mice, the blastocyst is formed by embryonic (E) day 3 and gastrulation begins at embryonic day 6.5. This is equivalent to approximately 6 hours post fertilization in zebrafish. In both species, the end of gastrulation produces the gastrula, which contains three complete germ layers (<link target-id="Image-5.25"/>). Gastrulation in chick embryos is very similar to the process in humans. The epiblast layer will produce the 3 germ layers and cells will migrate through the primitive streak as in higher vertebrates. The movements are organized at Hensen’s node which is the equivalent of the node in mammals.</para>
+  </note></section>
+  <section id="sect-00006"><title>Neurulation</title>
+  <para id="para-00022">Completion of gastrulation lays the foundation for a process called <term id="term-00012">neurulation</term>, which will generate the early brain and spinal cord tissues via the formation of a structure called the <term id="term-00013">neural tube</term> (summarized in <link target-id="Image-5.06"/>). Of the 3 germ layers, the ectoderm, or outer layer, will generate cells that become neural tissue or epidermis: two vastly different tissues. To make neural tissue (instead of epidermis), a portion of the ectoderm called the <term id="term-00014">neural plate</term> must undergo <term id="term-00015">neural induction</term>.</para>
+
+  <para id="para-00023">The neural plate is a single layer of cells located in a small, central region of the ectoderm (<link target-id="Image-5.06"/>, step 1). It is induced to become neural tissue by the expression of molecules we call <term id="term-00016">neural inducers</term>. These are secreted factors that direct the surrounding tissues through neurulation (Harland and Gerhart, 1997). One example of a neural inducer is <term id="term-00017">noggin</term> (Valenzuela et al., 1995). Localized expression of noggin induces the neural plate to invaginate (step 2 of <link target-id="Image-5.06"/>). Invagination can be described as the process of folding cells inward, to produce a small cavity. In step 2 of <link target-id="Image-5.06"/>, the cells of the neural plate that are pushing down into the tissue beneath them are migrating and growing towards cells that are secreting noggin (and other factors). This migration of neural plate cells into the underlying tissue results in the formation of the <term id="term-00018">neural groove</term> (<link target-id="Image-5.06"/>, step 2), a center region that is surrounded by indentations that form the <term id="term-00019">neural folds</term>. Ultimately by cellular movements, the two neural folds connect producing a neural tube that sits ventral to the outer epidermis (<link target-id="Image-5.06"/> steps 3 and 4). The inner region of the newly closed neural tube develops into the central canal of the spinal cord and what will eventually form the <term id="term-00020">ventricles</term> of the brain.</para>
+  <figure id="Image-5.06"> <media alt="Diagrams of the steps of neurulation from the main text, shown as cross-section of developing neural tube. Neural plate starts out as flat section of tissue, dorsal midline, with epidermis on each side. Endoderm is the ventral side of tissue. Mesoderm is in the middle. Notochord is a circular structure just under the neural plate at midline. Over the steps, neural plate invaginates in and closes dorsally to make a tube, with other structures in similar relative places. Step 5 (not in text): Cells within the neural tube are highlighted as the neural precursors that give rise to the central nervous system."> <image mime-type="image/png" src="../../media/Image-5.06_Neurulation.png"/> </media></figure>
+
+  <section id="sect-00007">
+  <title>Environment and Bidirectional communication: Neural tube defects and folic acid</title>
+  <para id="para-00024">Neurulation is a critical step in early brain development and if this process does not occur properly a class of disorders called neural tube defects arise. The most common neural tube defects are the result of abnormal neural tube closure, which can be affected by environmental and genetic influences. These defects fall into different classes based on type and severity. In the severest forms such as <term id="term-00021">anencephaly</term>, the neural tube does not close at the anterior end and causes missing regions of the skull and brain. Other examples include <term id="term-00022">encephalocele</term>, when the brain protrudes through the skull, and <term id="term-00023">hydrocephalus</term>, which is characterized by an accumulation of cerebrospinal fluid in the brain. Spina bifida is one of the most well-known examples of a neural tube defect and occurs when the posterior end of the neural tube does not close fully. Spina bifida can range in severity, causing either a complete opening along the <term id="term-00024">vertebrae</term> of the back or a minor separation in the bones of the vertebrae (<link target-id="Image-5.29"/>).</para>
+  <figure id="Image-5.29"> <media alt="Left is a diagram of the dorsal view of a neural tube of an unaffected tube and a tube exhibiting spina bifida. The spina bifida tube has an opening at the caudal end of the tube that is absent in the unaffected tube. Right is a lateral view of adult spinal cord showing the variations in severity of spina bifida. In unaffected spine, neural pathways stay inside the spinal cord and vertebrae are in place. Variations of spina bifida shown include: missing vertebrae but nerves in place, missing vertebrae and some nerves looping out from the spinal cord dorsally, missing vertebrae and all nerves looping dorsally outside the spinal cord."> <image mime-type="image/png" src="../../media/Image-5.29_Defects-of-neurulation.png"/> </media></figure>
+
+  <para id="para-00025">Interestingly, the different types of neural tube defects observed occur at the extreme ends of the neural tube (not in the middle) as a result of how the neural tube closes. The neural tube begins closure in the middle and slowly closes on either end. Spina bifida is localized to the posterior regions of the neural tube, while anencephaly, encephalocele, and hydrocephalus occur in the anterior regions of the neural tube.</para>
+
+  <para id="para-00026">It is predicted that approximately 70% of neural tube defects occur due to genetic factors. There have been over 240 genes associated with neural tube defects (Harris and Juriloff, 2010), which strongly supports the link between genetic predisposition and neural tube abnormalities. However, genetics do not solely determine the presence of neural tube defects, as a huge proportion of neural tube defects can be prevented with the nutritional supplementation of folic acid in the mother’s diet. Folic acid is a water-soluble B-vitamin and deficiencies in folic acid have been associated with an increased risk of neural tube defects (Wallingford et al., 2013). Many foods including orange juice and some cereal grains are fortified with folic acid. The addition of folic acid to specific food products of general consumption has had an immediate impact on the prevalence of neural tube defects. Despite the efficacy of folic acid supplementation, it is still unclear how folic acid directly prevents neural tube defects.</para>
+  </section></section>
+  <note class="inthe-lab" id="note-00002"><title>Identifying Neural Inducers</title>
+  <para id="para-00027">In 1924, Hans Spemann and Hilde Mangold performed <term id="term-00025">transplantation assays</term> using newts. They demonstrated that creation of a neural tube is controlled by a regional organizing center, or a small cluster of cells that direct the surrounding cells to form neural ectoderm and subsequently, the CNS (Spemann and Mangold, 2001). The design of this renowned study is diagrammed in <link target-id="Image-5.03"/>. In Step 1, they removed the dorsal blastopore lip (the organizing center) from a pigmented newt. The blastopore lip is normally located on the dorsal side of the embryo and in this case, because it is from a pigmented newt, will generate pigmented cells. In Step 2, they transplanted the pigmented blastopore lip on the ventral region of a non-pigmented host newt. During normal development, the ventral side of the embryo is usually restricted to epidermal tissue while the dorsal region produces nervous tissue.</para>
+
+  <para id="para-00028">Upon transplantation of the pigmented dorsal blastopore lip, a complete secondary body axis was produced on the ventral side of the non-pigmented embryo. Interestingly, the secondary body axis was primarily produced from the non-pigmented host. As shown in Step 3, the ventral body included a complete secondary body axis with brain and spinal cord, as well as non-neural structures. The major conclusion from this experiment was that the host’s (non-pigmented) ventral ectoderm, which usually would only form epidermal tissue, was induced to form neural tissue. These data suggest that the dorsal blastopore lip forms an organizer, which is termed the <term id="term-00026">Spemann-Mangold organizer</term> and emphasizes the presence of a neural inducer.</para>
+  <figure id="Image-5.03">
+    <media alt=" Diagram of the steps described in the main text for the transplantation assay of Spemann-Mangold. The pigmented newt donor is shown as the source of the secondary blastopore lip and a non-pigmented host embryo receives it on the ventral side. The final result is a two-bodied newt, fused at the ventral side, each with a head, body and tail. One newt is fully nonpigmented and the other is mostly nonpigmented but with spots of pigment.">
+      <image mime-type="image/png" src="../../media/Image-5.03_Spemann-Mangold-organizer-experiment.png"/>
+    </media>
+  </figure></note></section>
+  <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+      <para id="para-00029"><link url="https://openstax.org/r/Neuro5Summary">Author's summary</link></para>
+  </section>
+
+
+  <section class="key-terms" id="sect-00010">
+    <title>Key Terms</title>
+    <list display="inline" id="list-00002"><item>Congenital</item>
+      <item>teratogens</item>
+      <item>gastrulation</item>
+      <item>germ layers</item>
+      <item>cleavage</item>
+      <item>blastocyst</item>
+      <item>blastocoel</item>
+      <item>inner cell mass</item>
+      <item>trophoblast</item>
+      <item>primitive streak</item>
+      <item>node</item>
+      <item>blastopore lip</item>
+      <item>neurulation</item>
+      <item>neural tube</item>
+      <item>neural plate</item>
+      <item>neural induction/inducers</item>
+      <item>noggin</item>
+      <item>neural groove</item>
+      <item>neural folds</item>
+      <item>ventricles</item>
+      <item>anencephaly</item>
+      <item>encephalocele</item>
+      <item>hydrocephalus</item>
+      <item>vertebrae</item>
+      <item>transplantation assays</item>
+      <item>Spemann-Mangold organizer</item></list>
+  </section>
+  <section class="references" id="sect-00011">
+    <title>References</title>
+    <para id="para-00030">Cater, S. W., Boyd, B. K., &amp; Ghate, S. V. (2020). <emphasis effect="italics">Abnormalities of the fetal central nervous system: Prenatal US diagnosis with postnatal correlation</emphasis>. <emphasis effect="italics">RadioGraphics</emphasis>, <emphasis effect="italics">40</emphasis>(1458–1472).</para>
+    <para id="para-00031">De Robertis, E. M. (2006). <emphasis effect="italics">Spemann’s organizer and self-regulation in amphibian embryos</emphasis>. <emphasis effect="italics">Nature Reviews Molecular Cell Biology</emphasis>, <emphasis effect="italics">7</emphasis>(296–302).</para>
+    <para id="para-00032">Harland, R., &amp; Gerhart, J. (1997). <emphasis effect="italics">Formation and function of Spemann’s organizer</emphasis>. <emphasis effect="italics">Annual Review of Cell and Developmental Biology</emphasis>, <emphasis effect="italics">13</emphasis>(611–667).</para>
+    <para id="para-00033">Harris, M. J., &amp; Juriloff, D. M. (2010). <emphasis effect="italics">An update to the list of mouse mutants with neural tube closure defects and advances toward a complete genetic perspective of neural tube closure</emphasis>. <emphasis effect="italics">Birth Defects Research Part A: Clinical and Molecular Teratology</emphasis>, <emphasis effect="italics">88</emphasis>(653–669).</para>
+    <para id="para-00034">Ornoy, A. (2006). <emphasis effect="italics">Neuroteratogens in man: An overview with special emphasis on the teratogenicity of antiepileptic drugs in pregnancy</emphasis>. <emphasis effect="italics">Reproductive Toxicology</emphasis>, <emphasis effect="italics">22</emphasis>(214–226).</para>
+    <para id="para-00035">Spemann, H., &amp; Mangold, H. (1924). Über Induktion von Embryonalanlagen durch Implantation artfremder Organisatoren. <emphasis effect="italics">Archiv für Mikroskopische Anatomie und Entwicklungsmechanik</emphasis>, 599–638.</para>
+    <para id="para-00036">Valenzuela, D. M., Economides, A. N., Rojas, E., Lamb, T. M., Nuñez, L., Jones, P., Lp, N. Y., Espinosa, R., Brannan, C. I., &amp; Gilbert, D. J. (1995). <emphasis effect="italics">Identification of mammalian noggin and its expression in the adult nervous system</emphasis>. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">15</emphasis>(6077–6084).</para>
+    <para id="para-00037">Wallingford, J. B., Niswander, L. A., Shaw, G. M., &amp; Finnell, R. H. (2013). <emphasis effect="italics">The continuing challenge of understanding and preventing neural tube defects</emphasis>. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">339</emphasis>, 1222002.</para>
+      </section>
+
+    <section class="multiple-choice" id="sect-00001"><title>Multiple Choice</title>
+      <exercise id="exer-00001">
+          <problem id="prob-00001">
+      <para id="para-00002"><link class="os-embed" url="#exercise/Neuro-05-01-001"/></para></problem></exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+    <para id="para-00003"><link class="os-embed" url="#exercise/Neuro-05-01-002"/></para></problem></exercise>
+    <exercise id="exer-00003">
+      <problem id="prob-00003">
+  <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-05-01-003"/></para></problem></exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+<para id="para-00005"><link class="os-embed" url="#exercise/Neuro-05-01-004"/></para></problem></exercise>
+<exercise id="exer-00005">
+  <problem id="prob-00005">
+<para id="para-00006"><link class="os-embed" url="#exercise/Neuro-05-01-005"/></para></problem></exercise>
+<exercise id="exer-00006">
+  <problem id="prob-00006">
+<para id="para-00007"><link class="os-embed" url="#exercise/Neuro-05-01-006"/></para></problem></exercise>
+<exercise id="exer-00007">
+  <problem id="prob-00007">
+<para id="para-00008"><link class="os-embed" url="#exercise/Neuro-05-01-007"/></para></problem></exercise>
+<exercise id="exer-00008">
+  <problem id="prob-00008">
+<para id="para-00009"><link class="os-embed" url="#exercise/Neuro-05-01-008"/></para></problem></exercise>
+<exercise id="exer-00009">
+  <problem id="prob-00009">
+<para id="para-00010"><link class="os-embed" url="#exercise/Neuro-05-01-009"/></para></problem></exercise>
+
+       </section>
+      <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+        <exercise id="exer-00010">
+          <problem id="prob-00010">
+      <para id="para-00011"><link class="os-embed" url="#exercise/Neuro-05-01-010"/></para></problem></exercise>
+      <exercise id="exer-00011">
+        <problem id="prob-00011">
+    <para id="para-00012"><link class="os-embed" url="#exercise/Neuro-05-01-011"/></para></problem></exercise>
+    <exercise id="exer-00012">
+      <problem id="prob-00012">
+  <para id="para-00013"><link class="os-embed" url="#exercise/Neuro-05-01-012"/></para></problem></exercise>
+
+      </section>
+  </content>
+</document>

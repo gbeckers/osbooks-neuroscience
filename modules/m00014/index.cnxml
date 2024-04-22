@@ -57,7 +57,7 @@
       </media>
     </figure>
     <para id="para-00016">In some ways, neurophysiology, the recording of electrical signals from neurons, is no different than when a mechanic checks the charge on your car’s battery. There are some huge technical difficulties, though, including the challenge of trying to place the tip of an electrode inside a microscopic neuron (!). The methods section in this book explains some of the specialized equipment that is used to make neurophysiology possible (see <link document="">Electrophysiology</link>).</para>
-    <para id="para-00017">If you get your car battery checked at an auto shop,, you will observe a stable potential (unless something has gone very wrong). In contrast, membrane potential in neurons is highly dynamic: it is negative at rest (Part A in <link target-id="Image-2.31"/>), becomes slightly more positive during an EPSP, becomes slightly more negative during an IPSP, and flips to positive and back to negative during action potentials. Because of this, we graph membrane potential as a function of time. When a neuron’s membrane potential increases, it means a current has flowed that either brought positive charge into the neuron or that removed negative charge (Part B in <link target-id="Image-2.31"/>). When a neuron’s membrane potential decreases, a current has flowed that either brought negative charge into the neuron or removed positive charge (Part C in <link target-id="Image-2.31"/>). When a neuron has a stable membrane potential, there is no net current, maintaining the neuron’s current charge (Part D in <link target-id="Image-2.31"/>). The currents that flow in neurons are typically quite small and are usually reported in nanoAmps (nA).</para>
+    <para id="para-00017">If you get your car battery checked at an auto shop, you will observe a stable potential (unless something has gone very wrong). In contrast, membrane potential in neurons is highly dynamic: it is negative at rest (Part A in <link target-id="Image-2.31"/>), becomes slightly more positive during an EPSP, becomes slightly more negative during an IPSP, and flips to positive and back to negative during action potentials. Because of this, we graph membrane potential as a function of time. When a neuron’s membrane potential increases, it means a current has flowed that either brought positive charge into the neuron or that removed negative charge (Part B in <link target-id="Image-2.31"/>). When a neuron’s membrane potential decreases, a current has flowed that either brought negative charge into the neuron or removed positive charge (Part C in <link target-id="Image-2.31"/>). When a neuron has a stable membrane potential, there is no net current, maintaining the neuron’s current charge (Part D in <link target-id="Image-2.31"/>). The currents that flow in neurons are typically quite small and are usually reported in nanoAmps (nA).</para>
     <para id="para-00018">Another complexity of neural electricity is that membrane potential varies over the length of a neuron’s dendrites and axons. EPSPs and IPSPs alter membrane potential right at the synapse. Action potentials travel down the axon, with one segment flipping to a positive potential and then the next and then the next. Thus, we have to keep track of not only how membrane potential changes over time but also where membrane potential is changing.</para>
     <para id="para-00019">Voltage-sensitive dyes enable us to measure potential along an entire neuron at once, so we can see the locations of different signals and how they spread (<link target-id="Image-2.04.1"/>). In contrast, a voltmeter can only measure membrane potential at the exact location of the recording electrode. Because of this, the first recordings of action potentials captured only the up and down of electrical potential at a single point, showing up as a “spike” in the membrane potential recording. The spread of an action potential had to be deduced from systematically moving the electrode along the length of the axon. When you see an action potential “spike” from a voltmeter, try to keep in mind that it is just a limited view of what is actually an electrical wave that spreads through the axon.</para>
   </section>
@@ -94,13 +94,13 @@
   <para id="para-00030">K<sup>+</sup> stands out as the only major electrolyte pumped into cells. In neurons K<sup>+</sup> is usually ~25 times more concentrated in the intracellular fluid than in the extracellular fluid. This means that there is a constant pressure of diffusion for K<sup>+</sup> to leave cells, a negative current. <link target-id="Image-2.24"/> summarizes the concentration gradients pumps create for each of the electrolytes that play a key role in neural signaling.</para>
   <table id="Image-2.24" summary="A table of information about ions and their properties in neurons">
  <tgroup cols="7">
- <colspec colnum="1" colname="c1" />
- <colspec colnum="2" colname="c2" />
- <colspec colnum="3" colname="c3" />
- <colspec colnum="4" colname="c4" />
- <colspec colnum="5" colname="c5" />
- <colspec colnum="6" colname="c6" />
- <colspec colnum="7" colname="c7" />
+ <colspec colnum="1" colname="c1"/>
+ <colspec colnum="2" colname="c2"/>
+ <colspec colnum="3" colname="c3"/>
+ <colspec colnum="4" colname="c4"/>
+ <colspec colnum="5" colname="c5"/>
+ <colspec colnum="6" colname="c6"/>
+ <colspec colnum="7" colname="c7"/>
  <thead>
 <row>
  <entry>Name</entry>
@@ -163,11 +163,11 @@
     </media>
   </figure>
   <para id="para-00034">Unlike pumps, ion channels are passive. Any ion that fits through an ion channel is “free” to move through it in either direction. The channel does not add any “push” or use energy to direct the flow of ions. Instead, ion movement through channels is determined purely by the pressures operating on that ion (diffusion and electrostatic force). <link target-id="Image-2.23"/> gives a summary comparison between pumps and channels.</para>
-  <table  id="Image-2.23" summary="Insert Alt Text">
+  <table id="Image-2.23" summary="Insert Alt Text">
     <tgroup cols="3">
     <thead>
       <row>
-        <entry></entry>
+        <entry/>
         <entry>Ion Pump</entry>
         <entry>Ion Channel</entry>
       </row>
@@ -200,7 +200,7 @@
       </row>
     </tbody>
     </tgroup>
-    <caption></caption>
+    <caption/>
     </table>
 
   <para id="para-00035">Although ion channels are passive they are nevertheless selective. Some channels are conductive only to Na<sup>+</sup>; they are called Na<sup>+</sup> channels. Other channels are only conductive to K<sup>+</sup>; they’re called K<sup>+</sup> channels. As you can probably already guess, there are also Ca<sup>2+</sup> channels and Cl<sup>–</sup> channels.</para>
@@ -234,7 +234,7 @@
       </row>
     </tbody>
     </tgroup>
-    <caption></caption>
+    <caption/>
     </table>
   <para id="para-00040">Imagine a neuron at rest (top of <link target-id="Image-2.21"/>). Its membrane potential is negative, around -65mV, meaning that it has an excess of unpaired negative charges in the intracellular fluid. Pumps have concentrated Na<sup>+</sup> outside the neuron, but it cannot re-enter directly through the membrane. What happens if Na<sup>+</sup> channels now open? Na<sup>+</sup> will come flowing in: it is pulled in both by the pressure of diffusion (going from the high concentration outside the neuron to the lower concentration inside) and by electrostatic force (positive Na<sup>+</sup> is attracted to the negative charge in the neuron). Each molecule of Na<sup>+</sup> that enters, though, offsets some of the neuron’s negative charge, so the membrane potential begins to rise (middle of <link target-id="Image-2.21"/>). If Na<sup>+</sup> channels stay open, the neuron will eventually become neutral (its membrane potential will rise to 0mV); this occurs when enough Na<sup>+</sup> has entered to fully offset all the negative charges that had given the neuron a negative resting potential. At this point, there is no longer any electrostatic pull for Na<sup>+</sup> to enter, but there is still a strong pressure of diffusion, so Na<sup>+</sup> will continue to enter, charging the neuron up to a positive potential. Will this continue forever? No: as the neuron becomes more positive it becomes increasingly repulsive to Na<sup>+</sup> (likes repel), and eventually this electrostatic force will be able to stand up to the pressure of diffusion, preventing any further increase in Na<sup>+</sup> (bottom of <link target-id="Image-2.21"/>). We call this the equilibrium potential. An ion’s equilibrium potential depends (mostly) on the concentration difference created by the pumps: the bigger the concentration difference the more charged the neuron has to become before electrostatic force can stand up to it. For Na<sup>+</sup> in a typical neuron, the equilibrium potential is about +52mV. That is: when Na<sup>+</sup> channels open in a resting neuron, Na<sup>+</sup> will rush in and keep rushing in until the neuron is charged up to +52mV, but at that point it will stop further charging the neuron even if the Na<sup>+</sup> channels remain open.</para>
   <para id="para-00041">When Na<sup>+</sup> enters the neuron through a Na<sup>+</sup> channel, is all the hard work of the pumps undone? To some extent, yes, but not by much. Amazingly, only a few thousand Na<sup>+</sup> molecules have to enter a neuron to charge it from rest to +52mV, a small fraction of all the Na<sup>+</sup> the pumps have pushed out of the neuron. This is because the neuron is small and the membrane is very thin: each ion inside a neuron has little space to spread out and is held tantalizingly close to opposite charges on the other side of the membrane. So, when Na<sup>+</sup> channels open, Na<sup>+</sup> rushes in to charge the neuron to the Na<sup>+</sup> equilibrium potential (around +52mV) but this “spends” relatively little of the concentration gradient pumps have worked so hard to create.</para>
@@ -278,16 +278,37 @@
 <section class="references" id="sect-00011">
   <title>References</title>
   <para id="para-00045">Erecińska M, Silver IA (1994) Ions and energy in mammalian brain. <emphasis effect="italics">Prog Neurobiol 43</emphasis>:37–71.
- </para>
+</para>
   <para id="para-00046">Kralj JM, Douglass AD, Hochbaum DR, Maclaurin D, Cohen AE (2012) Optical recording of action potentials in mammalian neurons using a microbial rhodopsin. <emphasis effect="italics">Methods 9</emphasis>:90–95 Available at: http://www.nature.com/articles/nmeth.1782.</para>
 </section>
 <section class="multiple-choice" id="sect-00012"> 
   <title>Multiple Choice</title>
-  <para id="para-00047">placeholder</para>
-</section>
+  <exercise id="exer-00001">
+    <problem id="prob-00001">
+      <para id="para-00047"><link class="os-embed" url="#exercise/Neuro-02-03-001"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00002">
+    <problem id="prob-00002">
+      <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-02-03-002"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00003">
+    <problem id="prob-00003">
+      <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-02-03-003"/></para>
+    </problem>
+  </exercise>
+  <exercise id="exer-00004">
+    <problem id="prob-00004">
+      <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-02-03-004"/></para>
+    </problem>
+  </exercise></section>
 <section class="fillin-blank" id="sect-00013"> 
   <title>Fill in the Blank</title>
-  <para id="para-00048">placeholder</para>
-</section>
+  <exercise id="exer-00005">
+    <problem id="prob-00005">
+      <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-02-03-005"/></para>
+    </problem>
+  </exercise></section>
 </content>
 </document>

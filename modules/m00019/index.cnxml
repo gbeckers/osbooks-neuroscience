@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Eliciting contractions from lower levels – Lower motoneurons and reflex arcs</title>
+  <title>Eliciting Contractions from Lower Levels – Lower Motoneurons and Reflex Arcs</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Eliciting contractions from lower levels – Lower motoneurons and reflex arcs</md:title>
+    <md:title>Eliciting Contractions from Lower Levels – Lower Motoneurons and Reflex Arcs</md:title>
     <md:content-id>m00019</md:content-id>
     <md:uuid>ddf69593-6832-418b-a21a-182fac2f070b</md:uuid>
   </metadata>
@@ -26,17 +26,17 @@
       <figure id="Image-10.19">
         <media alt="Insert Alt Text">
           <image mime-type="png" src="../../media/Image-10.19_LMNs-in-the-spinal-cord.png"/>
-        </media>
+        </media><caption>The lower motor neuron cell bodies are arranged somatotopically in the ventral grey matter of the spinal cord. More medial LMN cell bodies send axons to more medial/proximal muscles.</caption>
       </figure>
     <para id="para-00051">Moving our heads involve LMNs within various brainstem nuclei, which target our face, eyes, tongue, and other such movements via cranial nerves exiting specific skull foramen (special holes, see <link target-id="Image-10.18"/>).</para>
     <figure id="Image-10.18">
       <media alt="Insert Alt Text">
         <image mime-type="png" src="../../media/Image-10.18_Cranial-nerves.png"/>
-      </media>
+      </media><caption>Lower motor neurons (LMN) axons from brainstem nuclei  exit from the brain as part of the cranial nerves. Cranial nerves innervate the face, head and neck.</caption>
     </figure></section>
 <section id="sect-00008"><title>LMNs activate the neuromuscular junction</title>
   <para id="para-00011">LMN synapses on muscle fibers occur through neuromuscular junctions (NMJs, <link document="m00018" target-id="Image-10.10"/>). NMJs from the axon collaterals of a single LMN are activated simultaneously within muscle masses, larger motor units activating more, and smaller less, yielding differential force. Within the NMJ, activated LMN axon terminals release ACh across the synaptic gap and through a leaky surrounding protein matrix encompassing muscle cells called the basal laminae, and onto the postsynaptic surface of a muscle fiber (sarcomere arrangement, see <link document="m00018" target-id="Image-10.08"/> and <link url="https://openstax.org/r/Neuro10NMJ">this animation</link>). A motor unit, as was introduced in <link document="m00018">The physiological actions implementing movement – Contraction of muscles</link>, is a LMN and all the individual muscle fibers it synapses on. Smaller motor units activate fewer muscle fibers. They get activated in the early movement stages until more force becomes necessary for the current load. Then larger motor units are recruited.</para>
-  <para id="para-00012">Skeletal muscle ACh receptors, called <term id="term-00007">nicotinic receptors</term>, are ionotropic. When ACh from the LMN presynaptic terminal binds to these nicotinic ACh receptors on muscles, it creates immediate depolarization. Bound and opened nicotinic channels transmit cations across the sarcolemma and depolarize the muscle fiber, triggering action potentials. These receptor constructs reside on top of waves or ridges in the postsynaptic membrane called <term id="term-00008">junctional folds</term>, placing the receptors near the source of ACh travelling across the synapse. ACh remains only briefly after release from motoneurons. Efficient enzymes called <term id="term-00009">acetylcholinesterase</term> residing in the basal laminae (within the synapse; see <link document="m00018" target-id="Image-10.10"/>) quickly break it down into choline and the acetyl group, preventing perpetual stimulation disconnected from motoneuron activations (see Summary<link document="m00027">Basic Neurochemistry</link>). More force (e.g., greater muscle contraction) can be coaxed from the activated muscle fibers if the LMN is driven to higher action potential frequencies. Resulting increased ACh will maintain and intensify the cycling and power stroking activity within the fibers.</para>
+  <para id="para-00012">Skeletal muscle ACh receptors, called <term id="term-00007">nicotinic receptors</term>, are ionotropic. When ACh from the LMN presynaptic terminal binds to these nicotinic ACh receptors on muscles, it creates immediate depolarization. Bound and opened nicotinic channels transmit cations across the sarcolemma and depolarize the muscle fiber, triggering action potentials. These receptor constructs reside on top of waves or ridges in the postsynaptic membrane called <term id="term-00008">junctional folds</term>, placing the receptors near the source of ACh travelling across the synapse. ACh remains only briefly after release from motoneurons. Efficient enzymes called <term id="term-00009">acetylcholinesterase</term> residing in the basal laminae (within the synapse; see <link document="m00018" target-id="Image-10.10"/>) quickly break it down into choline and the acetyl group, preventing perpetual stimulation disconnected from motoneuron activations (see <link document="m00027">Basic Neurochemistry</link>). More force (e.g., greater muscle contraction) can be coaxed from the activated muscle fibers if the LMN is driven to higher action potential frequencies. Resulting increased ACh will maintain and intensify the cycling and power stroking activity within the fibers.</para>
     <section id="sect-00009"><title>Problems from Myasthenia Gravis</title>
       <para id="para-00013">The autoimmune disease <term id="term-00010">Myasthenia Gravis</term> significantly interferes with ACh effectiveness in generating muscle action potentials. In its classic form, disruptive antibodies are produced that destroy nicotinic receptors by binding-up their protein components. This diminishes the numbers of binding receptors, so the typical release from one LMN action potential becomes inadequate. This loss of ACh effectiveness delays muscle contraction and disrupts the coordination between contractions triggering actions. The end result is slow/jerky movement or sometimes no movement when patients attempt to move. These negative effects of myasthenia gravis highlight the importance of single LMN synapses per each muscle fiber. Each muscle fiber containing only one neuromuscular junction usually maintains control over when muscles contract. Losing this control also means muscles won’t always activate properly when needed.</para></section>
     <section id="sect-00010"><title>Lower motor neurons as motor units and force selection</title>
@@ -65,7 +65,7 @@
     </figure>
     <para id="para-00023">Proprioception via muscle spindles relies on <term id="term-00020">intrafusal</term> muscle fibers, which are different than the force producing and contracting muscle fibers (discussed in the previous section about contraction strategy) that we can now call <term id="term-00021">extrafusal</term> fibers by comparison. Both intrafusal and extrafusal fibers extend in parallel from one tendon to the other. However, they each have different functions and connect to unique classes of LMNs. Extrafusal fibers engage movement/contraction—they are the muscle fibers that generate force. Intrafusal fibers, in contrast, host spindle fiber stretch receptor mechanisms.</para>
     <para id="para-00024">Spindles, which include the specialized sensory fibers wrapping around the middle of intrafusal fibers, are key to sensing stretch. When intrafusal fibers are pulled lengthwise, mechanical receptors open within spindles to elicit depolarization, activating their attached sensory fibers (Hunt, 1990).</para>
-    <para id="para-00025">Stretch response-based <term id="term-00022">reflexes</term> are plentiful within the spinal cord architecture. When a larger muscle is stretched rapidly and unexpectedly, a reflex mechanism involving feedback from the spinal cord snaps the limb back into place. The <term id="term-00023">knee-jerk reflex</term> is prominent among such stretch reflexes (see <link document="">Structure and Function of the Nervous System</link>, shown in <link document="" target-id=""/>). Many of you have probably experienced your doctor producing this during routine check-ups. To elicit this reflex, a clinician hits just below your kneecap with a rubber hammer, impacting the tendon of your leg extender muscle, causing an unexpected stretch. This extensor stretch excites the spindle sensory fiber, which synapses on and excites alpha motor neurons in the spinal cord, which in turn activates leg extensor contractions. Your leg kicks outward. Doctor: Beware!</para>
+    <para id="para-00025">Stretch response-based <term id="term-00022">reflexes</term> are plentiful within the spinal cord architecture. When a larger muscle is stretched rapidly and unexpectedly, a reflex mechanism involving feedback from the spinal cord snaps the limb back into place. The <term id="term-00023">knee-jerk reflex</term> is prominent among such stretch reflexes (see <link document="m00026">Structure and Function of the Nervous System</link>, shown in <link document="m00022" target-id="Image-1.31"/>). Many of you have probably experienced your doctor producing this during routine check-ups. To elicit this reflex, a clinician hits just below your kneecap with a rubber hammer, impacting the tendon of your leg extender muscle, causing an unexpected stretch. This extensor stretch excites the spindle sensory fiber, which synapses on and excites alpha motor neurons in the spinal cord, which in turn activates leg extensor contractions. Your leg kicks outward. Doctor: Beware!</para>
     <para id="para-00026">You might wonder why we need this reflex. We don't usually hit ourselves in the knee. But imagine yourself on a lurching boat. Your legs attempt to keep you upright, but you can't keep up with the timing of the waves and create anticipatory movements. Luckily, the knee-jerk reflex responds to waves which might make you fall backward, tightening the extensor muscle and pulling your body forward rather automatically. If you spend time on ships where your muscles do this regularly, you develop <emphasis effect="italics">sea legs</emphasis> (muscular thighs), unaware of the extra exercise while just standing there.</para>
     <para id="para-00027">Though reflexes are somewhat self-contained at the spinal cord level, they also rely on upper motor system input for regulation of their strength. This dependence is quite evident when descending UMN control is absent, as in "spinal" injuries severing the descending systems at the brainstem level. Patients with such injuries show large increases in the intensity of reflexes. This <term id="term-00024">hyperreflexia</term> indicates that descending control interacts intimately with reflex circuitry, usually to keep the degree of reflex responses circumscribed to desired levels but also because UMNs often activate general limb motion through synapsing on spinal reflex circuitry (Frigon and Rossignol, 2008; Adams and Hicks, 2005).</para>
   </section>
@@ -91,8 +91,8 @@
 
 <section class="section-summary" id="sect-00001">
       <title>Summary</title>
-      <para id="para-00002">Distinguishing between upper and lower motoneurons (UMNs, LMNs) is important to divide the overall action of motor control into the conscious selection and patterning activity (upper) versus the implementation and minor adjustments to maintain bodily status quo (lower). We described how LMNs extend into the periphery to synapse with muscle fibers, and how larger LMNs synapse with more fibers than smaller, thus forming the larger and smaller motor units. Motor units activate connected muscles through neuromuscular junctions relatively simultaneously. Fibers synapsed upon typically pull in the same direction. </para>
-      <para id="para-00003">LMNs are activated from their central nervous system residence either at the brainstem or spinal cord, either via descending UMNs in the context of conscious intended actions or via reflex arcs creating quick local lower corrective actions while monitoring circumstances with sensory feedback. Within the spinal cord, LMNs are arranged at the ventral spinal grey in a pattern where medial LMNs connect to medial body parts. The more lateral the LMN residence, the more lateral the activated body part (e.g., finger movement most lateral in the cervical cord). Also within the spinal cord: reflex arc circuitry and circuitry supporting central pattern generation for simple levels of locomotion. </para>
+      <para id="para-00002">Distinguishing between upper and lower motoneurons (UMNs, LMNs) is important to divide the overall action of motor control into the conscious selection and patterning activity (upper) versus the implementation and minor adjustments to maintain bodily status quo (lower). We described how LMNs extend into the periphery to synapse with muscle fibers, and how larger LMNs synapse with more fibers than smaller, thus forming the larger and smaller motor units. Motor units activate connected muscles through neuromuscular junctions relatively simultaneously. Fibers synapsed upon typically pull in the same direction.</para>
+      <para id="para-00003">LMNs are activated from their central nervous system residence either at the brainstem or spinal cord, either via descending UMNs in the context of conscious intended actions or via reflex arcs creating quick local lower corrective actions while monitoring circumstances with sensory feedback. Within the spinal cord, LMNs are arranged at the ventral spinal grey in a pattern where medial LMNs connect to medial body parts. The more lateral the LMN residence, the more lateral the activated body part (e.g., finger movement most lateral in the cervical cord). Also within the spinal cord: reflex arc circuitry and circuitry supporting central pattern generation for simple levels of locomotion.</para>
       <para id="para-00004">Spindle fibers and Golgi tendon organs are the two main sensory feedback systems for muscles. They cover stretch and muscle tension, respectively. Muscle spindles detect stretch via the longitudinal pull on intrafusal muscle fibers, which can be tightened by the gamma motoneuron system to maintain sensitivity at critical moments. Golgi tendon organs detect tension when muscles pull against a load, producing inward pressure by the collagen fibers constituting tendons. They can help ensure a soft touch when needed. Proprioceptive sensory systems also extend into skin vibration and stretch sensations contributing to more complex actions at the lower level.</para>
 </section>
 <section class="key-terms" id="sect-00002">
@@ -158,14 +158,64 @@
         Towe AL (1973) Somatosensory Cortex: Descending influences on ascending systems. In: Iggo A (ed) Somatosensory System. <emphasis effect="italics">Handbook of Sensory Physiology, Vol 2.</emphasis> Belin, Heidelberg: Springer. https://doi.org/10.1007/978-3-642-65438-1_18</para>
         <para id="para-00037">
         Zimny ML, DePaolo C, Dabezies E (1989) Mechano-receptors in the flexor tendons of the hand. <emphasis effect="italics">Journal of Hand Surgery (European) 14</emphasis>(2): 229-231. https://doi.org/10.1016%2F0266-7681_89_90134-4
-        </para>
+ </para>
 </section>
 <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
-      <para id="para-00006">placeholder</para>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+        <para id="para-00006"><link class="os-embed" url="#exercise/Neuro-10-02-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-10-02-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00008"><link class="os-embed" url="#exercise/Neuro-10-02-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-10-02-004"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-10-02-005"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-10-02-006"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-10-02-007"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-10-02-008"/></para>
+        </problem>
+      </exercise>
 </section>
+
 <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
-      <para id="para-00007">placeholder</para></section> 
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-10-02-009"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-10-02-010"/></para>
+        </problem>
+      </exercise>
+</section> 
   </content>
 </document>

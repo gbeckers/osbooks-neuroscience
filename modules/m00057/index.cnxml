@@ -21,11 +21,10 @@
       <media alt="hotos of endotherms (bird, cat, dog) and ectotherms (frog, axolotl, chameleon). Endotherms, like mammals and birds, create heat via metabolism. Ectotherms, like lizards and amphibians, must get heat primarily from their environment.">
         <image mime-type="image/png" src="../../media/Image-16.19_Endotherms-vs-ectotherms.png"/>
       </media>
-    <caption>Cardinal By Jocelyn Anderson - Imported from 500px (archived version) by the Archive Team. (detail page), CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=71588300, Frog By Jacob W. Frank - NPGallery, Public Domain, https://commons.wikimedia.org/w/index.php?curid=105409865, Axolotl By Tinwe from Pixabay - https://pixabay.com/photos/axolotl-leucistique-male-ambystoma-2193331/, CC0, https://commons.wikimedia.org/w/index.php?curid=93523985, Chameleon reproduced with permission from Dr. Tyler Dause and Dr. Emma Thompson. His life was shorter than it should have been and we memorialize him here. Cat reproduced with permission from Elizabeth Kirby. His name is Bobo and he is a good kitty. Dog reproduced with permission from Bryon Smith. She goes by “Bunny Dog” and we miss her.</caption>
+    <caption>Cardinal By Jocelyn Anderson - Imported from 500px (archived version) by the Archive Team. (detail page), CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=71588300, Frog By Jacob W. Frank - NPGallery, Public Domain, https://commons.wikimedia.org/w/index.php?curid=105409865, Axolotl By Tinwe from Pixabay - https://pixabay.com/photos/axolotl-leucistique-male-ambystoma-2193331/, CC0, https://commons.wikimedia.org/w/index.php?curid=93523985, CChameleon reproduced with permission from Dr. Tyler Dause and Dr. Emma Thompson. Cat reproduced with permission from Elizabeth Kirby. Dog reproduced with permission from Bryon Smith.</caption>
     </figure>
     
     <para id="para-00004">Body temperatures also increase in response to increases in physical activity, such as going for a run or lifting weights. During strenuous physical activity, the body must respond to increases in core body temperatures via changes in physiology and behavior to release excess heat and cool down.</para>
-    
     
     <para id="para-00005">Regulation of core body temperature is highly important for survival. Maintaining core body temperatures within a narrow range is necessary for the structural integrity of cells and optimal biochemical dynamics throughout the body. All animals employ homeostatic mechanisms to ensure that their core body temperatures do not rise or fall outside an optimal range. Mammals have evolved the ability to sense temperature both throughout their outer body surfaces and within their inner core and, when necessary, engage in a variety of physiological and behavioral mechanisms to restore homeostasis.</para>
     <section id="sect-00002">
@@ -37,11 +36,11 @@
       <media alt="TRP ion channels open in response to different ranges of temperature (and some chemicals from plants). Display showing the temperature ranges that activate temperature-sensitive channels (TRPs). Channels in order of lowest temperature of activation: Cold range: TRP1A, TRMP8, TRPM3. Hot range: TRPV4, TRPV3, TRPV1, TRPV2. Photo of mint plant and chili peppers also shown on cold and hot sides, respectively.">
         <image mime-type="image/png" src="../../media/Image-16.07_TRP-ion-channels-that-regulate-body-temperature.png"/>
       </media>
-    <caption>Mint: By Arjot - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92119526. Chili: By Kmtextor - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83424742</caption>
+    <caption>TRP ion channels open in response to different ranges of temperature (and some chemicals from plants). Image credit: Mint: By Arjot - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=92119526. Chili: By Kmtextor - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=83424742</caption>
     </figure>    
     <para id="para-00008">Once open, these ion channels allow positively charged cations to pass through the membrane and cause depolarization within neurons. For example, the TRPV1 ion channel opens at temperatures around 42 °C. Therefore, neurons that express TRPV1 alert the nervous system that a nearby stimulus is above a core body temperature of 37 °C. In contrast, the TRPM8 ion channel opens in response to temperatures at and below 22 °C, indicating the presence of a stimulus much cooler than core body temperature. Multiple TRP channels have been discovered that exhibit their own temperature ranges for activation, and the combination of these thermoTRPs allow the nervous system to determine environmental and internal temperatures.</para>
     
-    <para id="para-00009">Amazingly, many of these TRP channels can also open upon exposure to certain chemical compounds that are naturally produced by plants (see <link document="m00038">The Chemical Senses</link>). For example, TRPV1 channels open in response to capsaicin, a chemical naturally produced by chili peppers. Because neurons that express TRPV1 cannot distinguish between a naturally warm stimulus and capsaicin, foods with chili peppers cause the sensation of heat whether they are actually warm or not. Likewise, TRPM8 channels open in response to menthol, a chemical produced naturally in mint leaves. Therefore, foods and products (such as mouthwashes) containing menthol feel cold even if they are at room temperature.  </para>
+    <para id="para-00009">Amazingly, many of these TRP channels can also open upon exposure to certain chemical compounds that are naturally produced by plants (see <link document="m00038">The Chemical Senses</link>). For example, TRPV1 channels open in response to capsaicin, a chemical naturally produced by chili peppers. Because neurons that express TRPV1 cannot distinguish between a naturally warm stimulus and capsaicin, foods with chili peppers cause the sensation of heat whether they are actually warm or not. Likewise, TRPM8 channels open in response to menthol, a chemical produced naturally in mint leaves. Therefore, foods and products (such as mouthwashes) containing menthol feel cold even if they are at room temperature.</para>
     </section>
     <section id="sect-00003"><title>Neural systems that sense and control thermoregulation</title>
     <para id="para-00010">Temperature in mammals seems to be sensed via two independent systems. One system senses changes in temperature along the external surface of the body (such as the skin and mouth) and functions primarily in the conscious detection of hot or cold stimuli from the environment. The other system senses changes in core body temperature and functions primarily in regulating the temperature of the internal environment.</para>
@@ -49,10 +48,9 @@
     <para id="para-00011">Temperature at the body surface is measured by specialized neurons in the dorsal root ganglia (for the lower body) or trigeminal ganglia (for the head). These neurons send sensory projections to the body surface that express thermoTRP ion channels in the skin (<link target-id="Image-16.08"/>). When specific thermoTRP ion channels open in response to environmental temperatures, the neurons that express them increase action potential firing frequency, ultimately releasing excitatory neurotransmitter onto neurons in the spinal cord. This information is relayed to the somatosensory cortex for the conscious perception of temperature. Using these neural circuits, animals can detect changes in temperature at specific body locations. For example, picking up a hot mug of coffee or a cold glass of water causes the perception of temperature change specifically on the hand. If you step into a warm shower or jump into a cold lake, peripheral sensors will indicate a change in environmental temperature from all over the body surface.</para>
     <figure id="Image-16.08">
       <media alt="Peripheral nerve endings with thermosensitive channels send information to the spinal cord and then to the brain. Diagram of a sensory neuron with thermosensitive nerve ending in a block of skin sending input to a spinal cord neuron, which in turn connects to a neuron in the middle of the brain, which then sends a connection out to the lateral surface of the brain.">
-        <image mime-type="image/png" src="../../media/Image-16.08._Sensation-of-body-temperature-in-the-skin.png"/>
-      </media>
+        <image mime-type="image/png" src="../../media/Image-16.08_Sensation-of-body-temperature-in-the-skin.png"/>
+      </media><caption>Peripheral nerve endings with thermosensitive channels send information to the spinal cord and then to the brain.</caption>
     </figure>
-    
     <para id="para-00012">Core body temperature, the temperature of the internal environment of an animal, is measured directly in the brain by neurons in a region of the hypothalamus called the <term id="term-00004">pre-optic area (POA)</term> (<link target-id="Image-16.09"/>). The POA is sensitive to the temperature of the blood that flows within the blood vessels surrounding these neurons. Because blood travels throughout the internal organs before reaching the POA, the blood temperature within the POA is likely to be indicative of the overall body temperature. Some POA neurons increase action potential frequency in response to relatively warm core body temperatures—the warmer the blood, the greater the action potential frequency. A separate group of POA neurons increase activation in response to colder core body temperatures.</para>
     <figure id="Image-16.09">
       <media alt="Left shows flowchart of feedback when body temperature is too cold. Right shows flowchart of feedback when body temperature is too hot. Feedback is described in detail in the main text. Photo of penguins huddling shown with behavioral changes to cold temperatures. Photo of dog panting shown with behavioral changes to hot temperatures. Diagrams of POA, adipose tissue and a blood vessel also shown to emphasize the roles of these structures.">
@@ -73,7 +71,7 @@
     <title>Investigating allostasis of body temperature during illness</title>
     <para id="para-00017">During viral or bacterial infection, mammals exhibit a temporary increase in core body temperature (a fever) to try to destroy the foreign pathogens. This period of allostasis can last hours or days depending on the severity of the infection. Do the same neurons that play a role in temperature homeostasis also increase body temperature during illness?</para>
     
-    <para id="para-00018">A recent study (Osterhout et al., 2022) identified neurons active during infection. To cause an infection, mice were injected with a compound called lipopolysaccharide (LPS) that mimics a bacterial infection (<link target-id="Image-16.26"/>). <link document="">Neuroimmunology</link> Neurons in a brain region called the ventral medial preoptic area (VMPO), a division of the POA, increased activity during the infection. These neurons were found to send axonal projections to other POA neurons that normally cause an increase in warmth to maintain homeostasis. Amazingly, stimulation of the VMPO neurons activated by LPS using a form of excitatory chemogenetics <link document="">Methods: Chemogenetics</link> caused an increase in body temperature, while ablating these neurons greatly reduced body temperature during infection. Therefore, these VMPO neurons are thought to be specialized to detect infection and are sufficient and necessary to generate fever by projecting to the POA neurons that normally increase body temperature.</para>
+    <para id="para-00018">A recent study (Osterhout et al., 2022) identified neurons active during infection. To cause an infection, mice were injected with a compound called lipopolysaccharide (LPS) that mimics a bacterial infection (<link target-id="Image-16.26"/>) (see <link document="m00072">Neuroimmunology</link>). Neurons in a brain region called the ventral medial preoptic area (VMPO), a division of the POA, increased activity during the infection. These neurons were found to send axonal projections to other POA neurons that normally cause an increase in warmth to maintain homeostasis. Amazingly, stimulation of the VMPO neurons activated by LPS using a form of excitatory chemogenetics (see <link document="">Methods: Chemogenetics</link>) caused an increase in body temperature, while ablating these neurons greatly reduced body temperature during infection. Therefore, these VMPO neurons are thought to be specialized to detect infection and are sufficient and necessary to generate fever by projecting to the POA neurons that normally increase body temperature.</para>
     <figure id="Image-16.26">
       <media alt="Three-part diagram. 1) Left shows diagram showing mice were injected with LPS to mimic a bacterial infection and cause fever. Right shows coronal brain slice of mouse, with VMPO highlighted in the ventral area near the 3rd ventricle. Mice injected with LPS showed greater activation of VMPO neurons than vehicle-injected mice. 2) Left shows diagram showing mice expressing excitatory chemogenetic DREADD receptors in VMPO neurons were injected with CNO to induce VMPO neuron firing. Brain slice with VMPO highlighted is shown, similar to part 1. Right shows bar graph revealing that VMPO activation with CNO led to an increase in body temperature. 3) Left shows diagram showing mice with VMPO lesions were injected with LPS. Right shows bar graph revealing LPS causes increased body temperature in sham mice. Mice with VMPO lesions do not show LPS-induced body temperature increases.">
         <image mime-type="image/png" src="../../media/Image-16.26_VMPO-activity-regulates-body-temperature.png"/>
@@ -87,7 +85,7 @@
     
     <section class="section-summary" id="sect-00005"><title>Summary</title>
       <para id="para-00020">Regulation of core body temperature is important for survival to ensure that cells and organ systems are neither too hot nor too cold. Temperature can be sensed throughout the skin via thermosensitive ion channels, expressed in neurons that ultimately inform the brain about changes in body temperature throughout the body. Core body temperature is also sensed directly in the preoptic area (POA) of the hypothalamus. The POA serves as both a sensory and control center that employs several physiological and behavioral effector mechanisms to regulate homeostasis of body temperature. If too cold, an animal might increase sympathetic nervous system activity to increase metabolism and constrict blood vessels while simultaneously altering behavior to seek warmth. If too warm, an animal might decrease sympathetic tone, engage in behaviors such as panting or sweating, and seek cooler environments.
-      </para> </section>
+</para> </section>
       <section class="key-terms" id="sect-00006"><title>Key Terms</title> <list display="inline" id="list-00002">
       <item>endotherms</item>
       <item>ectotherms</item>
@@ -103,8 +101,28 @@
         <para id="para-00025">Tan, C. L., &amp; Knight, Z. A. (2018). Regulation of body temperature by the nervous system. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">98</emphasis>, 31–48.</para>        
        </section>
       
-      <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title> <para id="para-00026">...</para> </section>
-      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title> <para id="para-00027">...</para> </section>
+      <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title> 
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-16-03-001"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-16-03-002"/></para>
+          </problem>
+        </exercise> </section>
+      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00028"><link class="os-embed" url="#exercise/Neuro-16-03-003"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00004">
+          <problem id="prob-00004">
+            <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-16-03-004"/></para>
+          </problem>
+        </exercise> </section>
 
     </content>
 </document>

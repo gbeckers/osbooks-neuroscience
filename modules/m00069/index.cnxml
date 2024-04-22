@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>What is the relationship between attention and eye movements?</title>
+  <title>What is the Relationship between Attention and Eye Movements?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>What is the relationship between attention and eye movements?</md:title>
+    <md:title>What is the Relationship between Attention and Eye Movements?</md:title>
     <md:content-id>m00069</md:content-id>
     <md:uuid>ab18e4a4-5dd9-4931-8df0-c91c4a21c672</md:uuid>
   </metadata>
@@ -10,8 +10,77 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Articulate the connections between planned eye movements and covert orienting according to the premotor theory of attention.</item>
+          <item>Evaluate the contribution of brain regions involved in programming eye movement to covert selective attention.</item>
         </list>
-    </section>  </content>
+    </section>
+    <para id="para-00018">Earlier, we distinguished between overt attention, which involves performing a rapid eye movement from one point of fixation to another (a <term id="term-00001">saccade</term>) in order to bring information into central vision, and covert attention, which involves shifting the focus of your attention mentally without eye movements. The existence of these two separate methods of deploying attention might suggest that eye movements and covert attentional shifts are distinct processes. However, several researchers have suggested that eye movements and covert attentional shifts are tightly linked. In fact, the <term id="term-00002">premotor theory of attention</term> argues that covert attentional shifts are nothing more than planned, but unexecuted, eye movements. In this section, we'll discuss the major theory behind that line of reasoning and review experimental evidence for how the brain systems involved in programming saccades may also play a critical role in covert attentional orienting.</para>
+    <section id="sect-00007">
+    <title>The premotor theory of attention</title>
+    <para id="para-00019">The relationship between eye movements and covert attention have been the subject of debate for decades (for recent reviews, see Craighero &amp; Rizzolatti, 2005; Hunt et al., 2019). One suggestion is that covert attentional shifts are, quite simply, planned eye movements that are never executed. An early version of this argument was labelled the oculomotor readiness hypothesis (Klein, 1980), but more recent formulations have been dubbed the premotor theory of attention (Rizzolatti et al., 1987). As mentioned, the central premise of this theory is that attentional shifts are subthreshold eye movements and, by extension, that the neural systems involved in programming saccades are responsible for covert shifts of attention.</para>
+    <para id="para-00020">	Rizzolatti and colleagues (1987) provided early behavioral support for this theory. In their study, participants covertly attended to a location on either the left or right side of a computer screen. As in other covert attention studies, when the target appeared at an attended location, participants responded faster compared to when it was presented at an unattended location. However, there was an interesting twist in their results. If the target appeared at an uncued location farther in the same direction as the attended location, there was less of a penalty than when it appeared at an uncued location on the opposite side of the screen - even if both unattended locations were equidistant from the original attended location. They argued that shifting attention to an unattended location on the opposite side of the screen as the original cue required planning an entirely new eye movement, and therefore there was a larger cost in those situations compared to an unattended location in the same direction of the original cue, which only required a modification of the existing planned eye movement.</para>
+    </section>
+    <section id="sect-00008"><title>Neuroscience across species: Non-human primates: Frontal eye field stimulation</title>
+    <para id="para-00021">In addition to behavioral experiments linking covert attention and eye movements, neurophysiological studies also provide strong support for the premotor theory of attention. Recall that the dorsal attentional network (<link document="m00067" target-id="Image-19.08"/>) is responsible for voluntary shifts of attention (including covert shifts of attention), and that one of the key regions in the dorsal network is the frontal eye field (FEF), which is located near the junction of the precentral gyrus and the middle frontal gyrus. As the name implies, the FEFs are critical for planning and executing saccadic eye movements. Electrical stimulation of the FEF elicits eye movements (Bruce et al., 1985), and damage disrupts such movements (e.g., Braun et al., 1992). It is not surprising, therefore, that proponents of the premotor theory of attention have speculated that the FEF plays an important role in covert attentional orienting.</para>
+    <para id="para-00022">In an ingenious set of experiments, Tirin Moore and his colleagues examined this issue by stimulating neurons in the FEF and then observing the effects of that stimulation on performance in an attention task (Moore &amp; Fallah, 2001). When you stimulate neurons in the FEF, they produce eye movements to a specific location in space. That location is referred to as the <term id="term-00003">motor field</term> of the neuron. Moore &amp; Fallah mapped out the motor field of individual FEF neurons in a macaque using suprathreshold stimulation (i.e., electrical current strong enough to produce an eye movement). <link target-id="Image-19.16"/> shows the design of their experiment, which was performed in monkeys.</para>
+    <figure id="Image-19.16">
+      <media alt="Left: Diagram of monkey in experiment described in main text. The monkey is trained to focus on the fixation cross in the middle and then responds when a specific target dims slightly. FEF neurons are stimulated while a target in the motor field of that FEF neuron dims. The stimulation is just below the strength needed to cause a saccade (subthreshold). Right: Line graph showing that the monkey is able to detect smaller changes in luminance when the FEF is stimulated, consistent with a covert shift of attention to the target location.">
+        <image mime-type="image/png" src="../../media/Image-19.16_Frontal-eye-field-stimulation.png"/>
+      </media>
+    <caption>Data based on findings of: Moore &amp; Fallah. 2001. Control of eye movements and spatial attention. PNAS, 98: 1273-1276</caption>
+    </figure>
+    
+    <para id="para-00023">Once the researchers determined the motor field of a neuron, they then trained the animal to covertly attend to a spatial location inside of that motor field. The animal’s task was to respond when a light in the attended location dimmed slightly (the researchers measured the minimum amount of dimming that the animal could reliably detect). On some trials, the researchers delivered subthreshold stimulation to the FEF neurons (i.e., stimulation below the threshold necessary to elicit a saccade). They found that over the course of several blocks of trials, the animal was able to detect more subtle changes in luminance when the FEF was stimulated compared to the control condition (i.e., no stimulation). Critically, the improved performance only occurred for targets that appeared in the motor field of the neuron and not for targets that appeared at other locations on the screen. This suggests that activation of the FEF elicited a covert orienting response to the motor field of the neuron, consistent with the premotor theory of attention.</para>
+    <para id="para-00024"> Converging support for the premotor theory of attention comes from a range of studies, including reversible inactivation (Bollimunti et al., 2018), fMRI (Nobre et al., 2000), and noninvasive brain stimulation studies involving both TMS (Morishima et al., 2009; Fernandéz et al., 2022) and non-invasive brain stimulation (Kanai et al., 2012). Nevertheless, there is still debate within the neuroscientific community over the value of the theory in terms of a general explanation of the connection between covert attention and eye movements (for recent critical reviews, see Hunt et al., 2019 and Smith &amp; Schenk, 2012), with some researchers arguing that attention and eye movements are fundamentally independent systems that complement one another, depending on the complexities of our natural environment.</para></section>
+    <note class="boxed-feature" id="note-00002">
+    <title>People behind the science: Spotlight on Tirin Moore</title>
+    <para id="para-00025">Tirin Moore (<link target-id="Image-19.17"/>) is a professor of neurobiology at the Stanford University School of Medicine and an investigator of the Howard Hughes Medical Institute. In his career, he has pioneered study of the relationship between FEF activation and covert selective attention (Moore &amp; Armstrong, 2003; Moore &amp; Fallah, 2001), earning him honors such as induction into the National Academy of Medicine and the National Academy of Sciences. One of his early, groundbreaking findings was that stimulating the frontal eye field, even at lower levels that do not cause eye movements, induces covert attentional shifts. His subsequent work has elegantly demonstrated the tight coupling between attentional control, eye movement, and working memory systems in the prefrontal cortex.</para>
+    <figure id="Image-19.17">
+      <media alt="Photo of Tirin Moore">
+        <image mime-type="image/png" src="../../media/Image-19.17_Dr.-Tirin-Moore.png"/>
+      </media>
+    <caption>Photo provided courtesy of Dr. Tirin Moore</caption>
+    </figure></note>
+    <section class="section-summary" id="sect-00002"><title>Summary</title>
+      <para id="para-00002">There is considerable evidence to support the idea that shifts of attention, even when made covertly, engage some of the same perceptual and control systems involved in eye movements. This has led a number of researchers to argue for a premotor theory of attention, in which covert attentional orienting results from planned, but unexecuted saccades. Microstimulation studies in animals show that weak electrical currents applied to a key aspect of the dorsal attentional network -- the frontal eye field -- result in improved behavioral performance and enhanced neural processing in posterior brain regions, consistent with this premotor theory of attention.
+</para> </section>
+      <section class="key-terms" id="sect-00003"><title>Key Terms</title> <list display="inline" id="list-00002">
+      <item>Saccade</item>
+      <item>premotor theory of attention</item>
+      <item>motor field</item>
+      </list> </section>
+      <section class="references" id="sect-00004"><title>References</title> 
+        <para id="para-00003">Bollimunta, A., Bogadhi, A. R., &amp; Krauzlis, R. J. (2018). Comparing frontal eye field and superior colliculus contributions to covert spatial attention. <emphasis effect="italics">Nat Commun</emphasis>, <emphasis effect="italics">9</emphasis>:3553.</para>
+        <para id="para-00006">Braun, D., Weber, H., Mergner, T., &amp; Schulte-Mönting, J. (1992). Saccadic reaction times in patients with frontal and parietal lesions. <emphasis effect="italics">Brain</emphasis>, <emphasis effect="italics">115</emphasis> (Pt 5), 1359–1386.</para>
+        <para id="para-00007">Bruce, C. J., Goldberg, M. E., Bushnell, M. C., &amp; Stanton, G. B. (1985). Primate frontal eye fields. II. Physiological and anatomical correlates of electrically evoked eye movements. <emphasis effect="italics">J Neurophysiol</emphasis>, <emphasis effect="italics">54</emphasis>(3), 714–734.</para>
+        <para id="para-00008">Craighero, L., &amp; Rizzolatti, G. (2005). The premotor theory of attention. In L. Itti, G. Rees, &amp; J. K. Tsotsos (Eds.), <emphasis effect="italics">Neurobiology of attention</emphasis> (pp. 181-186). Cambridge, MA: Academic Press.</para>
+        <para id="para-00009">Fernández, A., Hanning, N. M., &amp; Carrasco, M. (2023). Transcranial magnetic stimulation to frontal but not occipital cortex disrupts endogenous attention. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">120</emphasis>:e2219635120.</para>
+        <para id="para-00010">Gan, T., Huang, Y., Hao, X., Hu, L., Zheng, Y., &amp; Yang, Z. (2022). Anodal tDCS over the left frontal eye field improves sustained visual search performance. <emphasis effect="italics">Perception</emphasis>, <emphasis effect="italics">51</emphasis>, 263–275.</para>
+        <para id="para-00011">Hunt, A. R., Reuther, J., Hilchey, M. D., &amp; Klein, R. M. (2019). The relationship between spatial attention and eye movements. <emphasis effect="italics">Curr Top Behav Neurosci</emphasis>, <emphasis effect="italics">41</emphasis>, 255–278.</para>
+        <para id="para-00012">Klein, R. M. (1980). Does oculomotor readiness mediate cognitive control of visual attention? In R. Nickerson (Ed.), <emphasis effect="italics">Attention and performance VIII</emphasis> (pp. 259-276). Cambridge, MA: Academic Press.</para>
+        <para id="para-00013">Moore, T., &amp; Fallah, M. (2001). Control of eye movements and spatial attention. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">98</emphasis>, 1273–1276.</para>
+        <para id="para-00014">Moore, T., &amp; Armstrong, K. M. (2003). Selective gating of visual signals by microstimulation of frontal cortex. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">421</emphasis>, 370–373.</para>
+        <para id="para-00015">Morishima, Y., Akaishi, R., Yamada, Y., Okuda, J., Toma, K., &amp; Sakai, K. (2009). Task-specific signal transmission from prefrontal cortex in visual selective attention. <emphasis effect="italics">Nat Neurosci</emphasis>, <emphasis effect="italics">12</emphasis>, 85–91.</para>
+        <para id="para-00016">Nobre, A. C., Gitelman, D. R., Dias, E. C., &amp; Mesulam, M. M. (2000). Covert visual spatial orienting and saccades: Overlapping neural systems. <emphasis effect="italics">Neuroimage</emphasis>, <emphasis effect="italics">11</emphasis>, 210–216.</para>
+        <para id="para-00017">Rizzolatti, G., Riggio, L., Dascola, I., &amp; Umiltá, C. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. <emphasis effect="italics">Neuropsychologia</emphasis>, <emphasis effect="italics">25</emphasis>(1), 31–40.</para>
+               </section>
+      
+      <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title>
+        <exercise id="exer-00001">
+          <problem id="prob-00001">
+            <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-19-04-001"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+            <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-19-04-002"/></para>
+          </problem>
+        </exercise>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+            <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-19-04-003"/></para>
+          </problem>
+        </exercise> </section>
+      
+        </content>
 </document>

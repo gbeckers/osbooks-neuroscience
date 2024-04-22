@@ -6,6 +6,230 @@
     <md:uuid>60946ef2-4573-4522-8b07-7d5025e2b001</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00002">By the end of this section, students will be able to:</para>
+        <list id="list-00001">
+          <item>Connect the embryological divisions of the brain to their adult derivatives.</item>
+          <item>Describe and explain the basic structure and function of the cerebrum, limbic system, basal ganglia, the diencephalon, brainstem and cerebellum.</item>
+        </list>
+    </section>
+    
+    <para id="para-00001">As described earlier, during the development of the central nervous system at about 50 days post conception, 5 major embryonic divisions can be observed: the telencephalon and diencephalon (forebrain); mesencephalon (midbrain); metencephalon and myelencephalon (hindbrain). The section below will describe the adult brain in its general structure and function organized from the 5 embryonic origins (<link target-id="Image-1.57"/> , also see <link document="m00023" target-id="Image-1.28"/>).</para>
+  <figure id="Image-1.57">
+  <media alt="Flow chart showing brain regions assigned to different embryonic origins. Telencephalon: cerebral hemispheres, subcortical nuclei (hippocampus, basal ganglia, amygdala). Diencephalon: thalamus, hypothalamus, posterior pituitary. Mesencephalon: tectum, tegmentum. Metencephalon: cerebellum, pons. Myelencephalon: medulla.">
+    <image mime-type="image/png" src="../../media/Image-1.57_Overview-of-brain-regions.png"/>
+  </media>
+</figure>
+<para id="para-00003">As you read through this section, you will encounter descriptions of specific brain regions being responsible for specific functions. For example, every student who has taken introductory psychology or biology may tell you that they learned that the amygdala is responsible for emotional memory and the cerebellum for movement coordination. Assigning behavior to specific structure(s) is only a small picture of how behavior emerges from neural function. We must be cautious about assuming that structures are responsible for certain functions only. The brain has great potential for flexibility and parts of the brain can switch functions. For example, individuals blinded early in life may exhibit enhancement of other senses like hearing and touch. In these individuals, the visual cortex, which is normally responsible for vision, switches function and responds to touch, for example. As you continue your studies in neuroscience, you will begin to understand more nuance and complexity in correlating brain structure and function. For now, this section will introduce some canonical and sweeping generalities about brain function.</para>
+<section id="sect-00002"><title>Cerebrum and cerebral cortex</title><para id="para-00004"/>
+<para id="para-00005">The telencephalon becomes the cerebrum, the largest part of the brain, divided into two halves, or hemispheres, and makes up about three fourths of the total brain volume (<link document="m00023" target-id="Image-1.28"/> and <link target-id="Image-1.37"/>). In the human nervous system, the left hemisphere controls the right half of the body, and the right hemisphere controls the left side of the body. The right and left <term id="term-00001">cerebral hemispheres</term> are connected by a thick fiber bundle (collection of axons) called the <term id="term-00002">corpus callosum</term>. This allows information to pass from one side to the other side of the brain. The cerebrum includes the <term id="term-00003">cerebral cortex</term> and <term id="term-00004">cerebral nuclei</term> (clusters of neurons). In many animals, the cortex is smooth. However, in larger brains like ours, the cortex is wrinkled and thin (on average about 2.5 mm). It is folded, allowing for an increase in its surface area thus maximizing the amount of cortex in the brain. This folding leads to the formation of ridges or bumps called <term id="term-00005">gyri</term> (gyrus is the singular) and grooves called <term id="term-00006">sulci</term> (singular is sulcus). The deeper grooves of the brain are called <term id="term-00007">fissures</term> (<link target-id="Image-1.37"/>). The two hemispheres are divided by the 
+  <term id="term-00008">longitudinal fissure</term>. The two lateral ventricles (see <link document="m00024">The Brain: Structure and Function</link>) are located in the cerebrum.</para>
+<figure id="Image-1.37">
+  <media alt="Diagram of coronal section of human brain and a lateral surface view. The major anatomical features are labeled as described in the main text.">
+    <image mime-type="image/png" src="../../media/Image-1.37_Basic-cortical-features.png"/>
+  </media>
+</figure>
+<para id="para-00006">The cerebral cortex is packed with neurons, about 16 billion of the total 86 billion neurons in the human brain, and is composed mostly of gray matter. In humans, the cerebral cortex houses most higher brain functions and complex cognition. This includes reasoning, language, consciousness, perception, emotion, personality, decision-making, and memory. Neurons in the cortex are typically arranged in six layers. Each layer contains unique neuron types and architecture. The cortex is divided into specific functional areas: sensory, association and motor areas. The sensory areas receive sensory information from touch, sight, hearing, smell and taste. The association areas help integrate sensory information to give meaning to the incoming information. Finally, the motor areas initiate and regulate voluntary movement.
+</para>
+</section>
+<section id="sect-00003">
+<title>Lobes of the cerebral cortex</title>
+<para id="para-00007">Different areas in the cerebral cortex are associated with specific functions.  Each hemisphere’s cerebral cortex is divided into four lobes: <term id="term-00009">frontal</term>, <term id="term-00010">temporal</term>, <term id="term-00011">parietal</term>, and <term id="term-00012">occipital</term> (<link target-id="Image-1.21"/>). Each of these four lobes is involved in a number of functions. This section highlights the major functions but is not necessarily comprehensive. </para>
+<figure id="Image-1.21">
+  <media alt="Diagrams of human brain shown as lateral surface, dorsal surface and midsagittal slice views. The major regions/lobes described in the main text are labeled.">
+    <image mime-type="image/png" src="../../media/Image-1.21_Lobes-of-the-cortex.png"/>
+  </media>
+</figure>
+<para id="para-00008">The largest of the four lobes is the frontal lobe. It also contains the olfactory bulb, which is key for our sense of smell. Towards the posterior end of the frontal lobe are the premotor and motor regions that help plan and carry out movement throughout the body.  The primary <term id="term-00013">motor cortex</term> sends axons through the brain and into the spinal cord via a descending tract (corticospinal tract). Once these axons reach the <term id="term-00014">brain stem</term> (the stalk of the brain that joins with the spinal cord, see <link document="m00023">The Central Nervous System: CNS</link>), they crossover so that movement on the left side of the body is controlled by the right side of the brain and vice versa. The <term id="term-00015">prefrontal cortex</term> of the frontal lobe is crucial for personality; higher level-cognition and decision making, problem solving, attention and also some memory functions.</para>
+<para id="para-00009">The frontal and parietal lobes are separated by a 
+  <term id="term-00016">central sulcus</term> (<link target-id="Image-1.37"/>) The parietal lobe is important for somatic sensation integration. The somatosensory cortex, which is found in the anterior part of the parietal lobe, receives information about touch on all areas of our body. In addition, the parietal lobe has a role in our ability to know the location of our body is space, also known as <term id="term-00017">proprioception</term>.</para>
+<para id="para-00010">The occipital lobe is located posterior and inferior to the parietal lobe and primarily functions in vision processing. It contains a primary visual cortex and other areas necessary for visual processing of color, movement and patterns.</para>
+<para id="para-00011">The temporal lobe is the second largest in size following the frontal lobe. It is located underneath the frontal and parietal lobes and is key for language, memory, hearing and face perception. It is divided from the other lobes by a lateral sulcus called the <term id="term-00018">Sylvian fissure</term>. (<link target-id="Image-1.37"/>)</para>
+</section>
+<section id="sect-00004"><title>Hemispheres</title>
+  <para id="para-00012">In addition to the cortex which covers the cerebral hemispheres, the inner core of the cerebral hemispheres is composed of white matter. The cerebral hemispheres are largely redundant in function with a few small exceptions. For example, in most humans the left hemisphere controls language and speech while the right interprets spatial, visual information and face recognition (see <link document="">Language</link> and <link document="">Vision</link>). The left and right hemispheres are divided by a deep longitudinal fissure and are connected by axonal tracts called <term id="term-00019">cerebral commissures</term>. Tracts that cross the midline of the brain are called commissures. As mentioned above, the largest of these is the corpus callosum, which connects the two hemispheres and allows information to be passed between sides (<link target-id="Image-1.21"/>). If the corpus callosum is damaged or purposely severed (rare approach to treat epilepsy), it leads to a condition called split-brain syndrome. This is characterized by some neurological abnormalities related to communication between the two sides of the brain. For example, a split-brain patient may not be able to read a specific word when it is presented to the right hemisphere but can identify the drawing that goes with that word.</para></section>
+<section id="sect-00005"><title>Limbic System and Basal Ganglia</title>
+  <para id="para-00013">Underneath the cerebral cortex are a group of specialized brain areas called subcortical structures or nuclei. Two major subcortical structure systems are the limbic system and the basal ganglia, which also derive from the telencephalon.</para></section>
+<section id="sect-00006"><title>Limbic System</title>
+  <para id="para-00014">The Limbic system is a collection of structures that border the brainstem and are located under the cerebral cortex (<link target-id="Image-1.22"/>). The word limbic is derived from the Latin “limbus,” which means border. The limbic system is an anatomical concept and continues to be somewhat controversial when it comes to brain anatomy. Neuroscientists can’t fully agree on a set of criteria for regions that count as part of the limbic system. This is an important lesson. Not even anatomy is set in stone.</para>
+<figure id="Image-1.22">
+  <media alt="Top diagram of human brain showing curved structures of the limbic system in the locations described in the main text. Bottom diagram shows 3D human brain illustration with the bilateral hippocampi highlighted under the cortex, adjacent to the brain stem; Image credit: 3D Images are generated by Life Science Databases(LSDB). - from Anatomography, website maintained by Life Science Databases(LSDB).You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7887124.">
+    <image mime-type="image/png" src="../../media/Image-1.22_Limbic-system.png"/>
+  </media>
+</figure>
+<para id="para-00015">Traditionally, the limbic system is defined as a connected set of structures that is involved in emotion, aggression, appetites and sexual behavior. While still up for debate, it is generally agreed that the limbic system includes the <term id="term-00020">hippocampus</term>, <term id="term-00021">amygdala</term>, and the <term id="term-00022">cingulate gyrus</term>. The cingulate gyrus is part of the cortex and sits right above the corpus callosum and is very important for emotional and cognitive functions. The amygdala is especially important for fear emotions and fear memory. The hippocampus is associated with memory and specifically the ability to form long term memories. Additional regional structures of the limbic system may include the <term id="term-00023">fornix</term> (connects hippocampus to hypothalamus), <term id="term-00024">septum</term> (often linked to emotion) and <term id="term-00025">olfactory bulb</term> (important for our sense of smell).</para>
+</section>
+<section id="sect-00007"><title>Basal Ganglia</title>
+  <para id="para-00016"><term id="term-00026">Basal ganglia (nuclei)</term> are a group of structures that play an important role in controlled and coordinated movements (<link target-id="Image-1.54"/>). This includes initiating and facilitating movement while also inhibiting unwanted movement. In addition, some regions of the basal ganglia are also important in motivation, reward and addiction. The basal ganglia system can be subdivided into the <term id="term-00027">caudate nucleus</term> and <term id="term-00028">putamen</term> (collectively called the <term id="term-00029">striatum</term>), <term id="term-00030">globus pallidus</term> and <term id="term-00031">subthalamic nucleus</term>. The striatum receives commands from the cortex and passes them along to the other regions of the basal ganglia.</para>
+<figure id="Image-1.54">
+  <media alt="Top diagram of human brain showing curved structures of the basal ganglia underneath the cortex, lateral to the brainstem. Bottom diagram shows 3D human brain illustration with the horn-shaped bilateral striatum highlighted under the cortex, adjacent to the brain stem; Image credit: 3D Images are generated by Life Science Databases(LSDB). - from Anatomography, website maintained by Life Science Databases(LSDB).You can get and edit this image through URL below. 次のアドレスからこのファイルで使用している画像を取得・編集できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7928108.">
+    <image mime-type="image/png" src="../../media/Image-1.54_Basal-ganglia.png"/>
+  </media>
+</figure>
+<para id="para-00017">Eventually basal ganglia information goes to the thalamus which relays information back to the cortex. Damage to the basal ganglia causes movement dysfunctions and is associated with neurodegenerative diseases like Parkinson’s and Huntington’s diseases.</para>
+</section>
+<section id="sect-00008"><title>Diencephalon</title>
+  <para id="para-00018">The diencephalon is made up of the <term id="term-00032">thalamus</term> and <term id="term-00033">hypothalamus</term>, located inferior to the cerebrum and next to the third ventricle. The thalamus provides a relay station for sensory information coming in from the spinal cord and PNS and heading to the cortex. The hypothalamus is important for homeostasis control of basic functions (<link target-id="Image-1.23"/>).
+</para>
+<figure id="Image-1.23">
+  <media alt="Diagram of midsagittal view of human brain with thalamus and hypothalamus highlighted in the center of the brain, between brain stem and higher cortical areas. A 3D human brain illustration also shown with bilateral thalamus highlighted, sitting just on top of the brain stem, close to midline. Image credit: 3D thalamus images are generated by Life Science Databases(LSDB). - from Anatomography, website maintained by Life Science Databases(LSDB).You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7845016.">
+    <image mime-type="image/png" src="../../media/Image-1.23_Diencephalon.png"/>
+  </media>
+</figure></section>
+<section id="sect-00009"><title>Thalamus</title>
+  <para id="para-00019">The thalamus is an oval structure, made of two symmetrical parts, one in each hemisphere. It is the sensory relay station and gateway to and from the cerebral cortex. All sensory information goes through the thalamus with the exception of olfaction (smell). The thalamus is composed of many nuclei that receive sensory information from the body and sorts, processes, and directs the information to the appropriate cortical sensory areas. As an example of one thalamic nucleus, the lateral geniculate nucleus (LGN) receives visual information from the retina via the optic nerve (see cranial nerves) and sends it to the primary visual cortex found in the occipital lobe (see <link document="">Vision</link>). The thalamus not only sends information to the cortex but also receives information from the cortex for control and regulation (often associated with motor commands). 
+</para></section>
+<section id="sect-00010"><title>Hypothalamus</title><para id="para-00020">The hypothalamus is located ventral to the thalamus. Like the thalamus, it contains several nuclei. It is responsible for regulation of hormones and maintenance of homeostatic mechanisms such as those that keep our bodies at the right temperature and having the right levels of sugar. The hypothalamus regulates the release of hormones from the pituitary gland and thus plays a direct role in connecting the nervous system to the endocrine (hormonal) system of the body. Overall, the hypothalamus is important for many vital functions including: thermoregulation, sex, thirst, hunger, sleep. It is a key regulator of the autonomic nervous system (see <link document="m00025">The Peripheral Nervous System: PNS</link> below).</para></section>
+<section id="sect-00011"><title>Brain Stem</title>
+  <para id="para-00021">The brainstem connects the cerebrum to the spinal cord and also to the cerebellum. It is composed of the midbrain and the hindbrain. The hindbrain is further divided into the <term id="term-00034">pons</term> and <term id="term-00035">medulla</term>. The fourth ventricle is found at the caudal region of the pons and the dorsal region of the medulla. The brainstem is crucial for vital functions which are discussed below. Stretching from the midbrain to the medulla and into the spinal cord is a network of nuclei and neurons called the <term id="term-00036">reticular formation</term>. These diffusely distributed neurons function in several physiological states such as arousal, consciousness, sleep-wake cycles, heart and respiratory control, and even some pathways involved in pain (<link target-id="Image-1.24"/>).</para>
+<figure id="Image-1.24">
+  <media alt="Top diagram of midsagittal view of human brain with brainstem highlighted. From rostral to caudal, areas highlighted: Midbrain (tegmentum ventral, tectum dorsal), within midbrain red nucleus, ventral tegmental area and substantia nigra, pons, medulla with reticular formation. Bottom diagram shows 3D human brain illustration with the brainstem highlighted under the cortex; Image credit: 3D Images are generated by Life Science Databases(LSDB). - from Anatomography[1] website maintained by Life Science Databases(LSDB).You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7788515.">
+    <image mime-type="image/png" src="../../media/Image-1.24_Brainstem.png"/>
+  </media>
+</figure></section>
+<section id="sect-00012"><title>Midbrain</title><para id="para-00022">The midbrain has its embryonic origins in the mesencephalon. It is located anterior to and above the pons, and has both sensory and motor components. The midbrain is involved in auditory and visual sensory processing. The top of the midbrain is the <term id="term-00037">tectum</term> (from the Latin word roof) and the bottom is the <term id="term-00038">tegmentum</term> (from the Latin word floor) with the cerebral aqueduct passing right through its center. Other regions in the midbrain include the <term id="term-00039">substantia nigra</term> and the <term id="term-00040">ventral tegmental area (VTA)</term>. The substantia nigra (one on each side of the brain stem) are considered to be part of the basal ganglia circuitry (<link document="m00025">The Peripheral Nervous System: PNS</link>) and are named from the Latin for ‘black substance’ due to the pigment that is found naturally in neurons in this region. The substantia nigra is rich in dopamine neurons and extremely important for motor control. Damage to the substantia nigra (death of dopamine neurons in this region) is associated with Parkinson’s disease, a neurodegenerative movement disorder. Adjacent to the substantia nigra is the <term id="term-00041">red nucleus</term> which also plays a role in motor coordination. The VTA is found adjacent to the substantia nigra and also houses dopamine neurons. This region is part of the reward circuitry in the brain. </para></section>
+<section id="sect-00013"><title>Pons</title>
+  <para id="para-00023">The pons and cerebellum originate from the embryonic metencephalon. The pons is superior to the medulla oblongata (see below). It contains many tracts and nuclei and provides a connection between the cerebellum and the medulla.  The word pons is derived from the Latin word for ‘bridge’ and is so named because of the transverse fibers that appeared as a bridge between the cerebellar hemispheres. Due to its many nuclei and tracts, the pons is associated with many different functions. For example, the pons is important for the regulation of sleep and basic bodily functions such as breathing. The pons is associated with 4 of the 12 pairs of cranial nerves and is important, for example for facial expressions, chewing and control of eye movement.</para></section>
+<section id="sect-00014"><title>Medulla oblongata</title>
+  <para id="para-00024">The medulla oblongata derives from the myelencephalon. The medulla is possibly the most important part of our brain as it is essential in the control of vital body functions like breathing, heart rate and blood pressure. Additional functions include swallowing, vomiting, and digestion. The medulla originates from the myelencephalon and contains a number of nuclei in addition to ascending and descending tracts of the spinal cord. Like the pons, it is also associated with cranial nerves (4 of them). These are key for gag reflexes and muscle control that allows for the turning of the head, speaking and swallowing. Of note is the <term id="term-00042">vagus nerve</term> (10th cranial nerve), which is one of the most important nerves in our body. It is a main component of the parasympathetic system and provides sensory and motor circuitry connecting the brain to the neck, lungs, heart and gut. The vagus nerve provides an important back and forth connection between the CNS and the enteric nervous system (the brain-gut axis). It can relay signals from the microbiota (collection of bacteria) in our gut to our brain. Some research suggests that disruption of the microbiota-gut-brain axis may play a role in depression and other psychiatric disorders. Interestingly, the vagus nerve has been studied as a target for treating these types of disorders. Stimulation of the vagus nerve is an approved treatment for hard-to-treat depression in some special cases. </para></section>
+  <section id="sect-00015"><title>Cerebellum</title>
+    <para id="para-00025">The cerebellum (aka little brain) is a structure that originates in the metencephalon and functions in motor coordination and some forms of simple learning. Like the cerebrum, the cerebellum is also divided into two hemispheres. The cerebellum is divided via a midline connector called the <term id="term-00043">vermis</term> (meaning worm in Latin). While the cortex gives motor commands, the cerebellum coordinates smooth/timely movement and fine-tunes and adjusts movement based on incoming sensory information such proprioceptive information (sense of one’s body in space). It is necessary for balance and fine motor control, as well as learning and memory of motor tasks, such as learning to ride a skateboard or learning to dance. This motor coordination can be inhibited by alcohol intoxication. Lack of coordination due to intoxication can be assessed by standard tests (finger to nose tests, walking in a straight line, etc.). Alcohol abuse can cause cerebellar dysfunction and excessive amounts of alcohol consumption actually leads to permanent changes/degeneration in the cerebellum. Furthermore, alcohol exposure during development leads to cerebellar defects such as those observed in children born with FAS (fetal alcohol symptom). The cerebellum has a specific arrangement of three cell layers. While the human brain contains about 86 billion neurons, roughly 80% of these are found in the cerebellum. Note that the cerebellum only makes up 10% of brain volume. Interestingly, case studies of individuals lacking a cerebellum indicate that for the most part, these individuals function relatively well, often not even discovering their lack of a cerebellum until adulthood. (<link target-id="Image-1.25"/>)</para>
+  <figure id="Image-1.25">
+  <media alt="Diagram of midsagittal view of human brain with cerebellum highlighted on the dorsal, caudal side of the brain. A 3D human brain illustration also shown with cerebellum highlighted. The vermis, the middle portion joining the two cerebellar lobes, is labeled. Image credit: 3D Images are generated by Life Science Databases(LSDB). - from Anatomography[1] website maintained by Life Science Databases(LSDB).You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できますURL., CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=7768824.">
+    <image mime-type="image/png" src="../../media/Image-1.25_Cerebellum.png"/>
+  </media>
+</figure></section>
+<section id="sect-00018"><title>Brain lateralization</title><para id="para-00036">Hemispheric lateralization refers to different brain functions and/or behaviors being controlled by one hemisphere rather than the other. Most of the evidence for this type of specialization is related to language control. For example, there are two left hemisphere specific regions that are important for language: a region called <term id="term-00044">Broca’s</term> area associated with speech production and speech articulation and <term id="term-00045">Wernicke’s</term> area associated with language comprehension. Other examples of lateralization include handedness, the preference of the right or left hand for different tasks. Beyond that, the differences that have been found in associating different behaviors to one or the other hemispheres are generally small. </para></section>
+<section id="sect-00019"><title>Visualizing the human brain</title>
+  <para id="para-00037">A number of imaging techniques have been developed to aid neuroscientists and medical professionals to visualize the human brain at the level of structure and function. Structural techniques such as <term id="term-00046">PET</term>, <term id="term-00047">CT</term> and <term id="term-00048">MRI</term> scans result in images of anatomical features of the brain while functional techniques such as functional MRI (<term id="term-00049">fMRI</term>) produce images that represent neural activity (see <link document="">Methods: fMRI</link>). Functional imaging techniques can be used in experiments where a subject performs a specific behavior or cognitive task, allowing scientists to correlate brain anatomy with function. Brain imaging techniques are important experimental tools, allowing us to delve deeper into the inner workings of the brain. Imaging can also be used for diagnosing and studying brain disorders. However, it is important to remember that the brain is exceptionally complicated and that these techniques are not perfect in measurement or definitive in conclusion. Each has its own advantages and limitations. For example, PET and CT scans are sensitive and prone to motion artifacts and fMRI measurements are not a direct measurement of brain activity but rather a measure of increased blood flow and oxygenation in a particular brain region (<link target-id="Image-1.33"/>).</para>
+<figure id="Image-1.33">
+  <media alt="Representative images of a PET scan, CT scan and MRI of a human brain. The basic methodology is summarized from the main text; Image credit: PET Scan:By US National Institute on Aging, Alzheimer's Disease Education and Referral Center - http://www.nia.nih.gov/Alzheimers/Resources/HighRes.htm, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4467244. CT Scan:By Mikael Häggström, M.D.- Author info- Reusing images- Conflicts of interest:NoneMikael HäggströmConsent note: Written informed consent was obtained from the individual, including online publication. - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=77944063. MRI: By Ptrump16 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=64210805.">
+    <image mime-type="image/png" src="../../media/Image-1.33_Imaging-the-live-human-nervous-system.png"/>
+  </media>
+</figure></section>
+<note class="boxed-feature" id="note-00001">
+  <title>Sex as biological variable: Are male and female brains structurally different?</title>
+  <para id="para-00038">Sexual dimorphisms are differences between males and females of the same species. This can include body size or anatomical differences. Sexual dimorphisms have been well established in some vertebrate brains. For example, male and female brains of some bird species like canaries and zebra finches can exhibit some structural dimorphisms. Specifically, there are three vocal control areas in the brains of these birds that are strikingly larger in males than in female counterparts. These regions are called forebrain vocal nuclei (<link target-id="Image-1.35"/>) and correlate with singing behavior. Both canary and zebra finch males sing but females do not. This singing behavior is key to courtship in these two species of birds. The males sing to impress the females.</para>
+<figure id="Image-1.35">
+  <media alt="Diagrams of male and female zebrafinch brains are shown, with area X being large in the males and small in the females. Interconnections between area X and other regions are also shown in male, being absent in females. An immunolabeled sagittal slice of a zebrafinch brain is also shown with area X being darkly labeled.">
+    <image mime-type="image/png" src="../../media/Image-1.35_Male-v-female-zebrafinch-brain.png"/>
+  </media><caption>3 key forebrain vocal control nuclei are larger in male than female zebrafinch brains. One region is present in males and completely absent in females. Image credit: Immunolabel image (labels added) from: Bolhuis JJ, Zijlstra GG, den Boer-Visser AM, Van Der Zee EA. Localized neuronal activation in the zebra finch brain is related to the strength of song learning. Proc Natl Acad Sci U S A. 2000 Feb 29;97(5):2282-5. doi: 10.1073/pnas.030539097. PMID: 10681421; PMCID: PMC15792.Copyright (copyright year) National Academy of Sciences.</caption>
+</figure>
+<para id="para-00039">How about humans? This question of structural differences between human male and female brains has been investigated throughout the history of neuroscience and continues to be a hot topic. A very large meta study that combines 30 years of data (Eliot, 2021) concluded that male and female brains are not structurally different in any meaningful way. Male and female head sizes are different as proportioned by body size.  Dr. Eliot and her collaborators have shown that, with the exception of differences in size (male brains are ~11% bigger than female brains), there are no meaningful differences that hold up across diverse populations between the brain structures of males and females (Eliot, 2021). She argues that there is no clear structural brain dimorphism in humans between male and female brains.</para>
+<para id="para-00040">Beyond structure, does this mean human male and female brains are the same? Definitely not. There are aggregate differences between human males and females in numerous molecular and cellular functions in the brain. Sex hormones, genes and environment play a large role in brain development. In <link document="">Sexual Development and Behavior</link>, we will dive much further into this topic, including the hormonal, genetic and environmental contributors to sex differences in the brain.</para>  
+</note>
+
+<section class="section-summary" id="sect-00016">
+  <title>Summary</title>
+  <para id="para-00026">The human brain is derived from 3 major embryonic divisions (the forebrain, midbrain and hindbrain), which is further subdivided into 5 regions during development. The adult brain derivatives can be organized according to these 5 regions. While we can assign some general functions to major brain regions, we should view the brain as having built in ‘degeneracy’—a behavior or brain function can be supported by multiple regions of the brain rather than a stringent one-to-one function to region ratio.</para>
+</section>
+<section class="key-terms" id="sect-00020">
+  <title>Key Terms</title>
+  <list display="inline" id="list-00002">
+<item>cerebral hemispheres</item>
+<item>basal ganglia</item>
+<item>limbic system</item>
+<item>cerebral cortex</item>
+<item>gyri</item>
+<item>fissures</item>
+<item>frontal</item>
+<item>motor cortex</item>
+<item>parietal</item>
+<item>occipital lobes</item>
+<item>prefrontal cortex</item>
+<item>central sulcus</item>
+<item>sylvian fissure</item>
+<item>hippocampus</item>
+<item>amygdala</item>
+<item>cingulate gyrus</item>
+<item>fornix</item>
+<item>septum</item>
+<item>olfactory bulb</item>
+<item>caudate nucleus</item>
+<item>putamen</item>
+<item>striatum</item>
+<item>globus pallidus</item>
+<item>subthalamic nucleus</item>
+<item>diencephalon</item>
+<item>thalamus</item>
+<item>hypothalamus</item>
+<item>brain stem</item>
+<item>reticular formation</item>
+<item>midbrain</item>
+<item>tectum</item>
+<item>tegmentum</item>
+<item>substantia nigra</item>
+<item>red nucleus</item>
+<item>ventral tegmental area (VTA)</item>
+<item>pons</item>
+<item>medulla</item>
+<item>vagus nerve</item>
+<item>cerebellum</item>
+<item>vermis</item>
+<item>Broca’s area</item>
+<item>Wernicke’s area</item>
+<item>forebrain vocal nuclei</item>
+  </list>
+</section>
+
+<section class="multiple-choice" id="sect-00021">
+  <title>Multiple Choice</title>
+<exercise id="exer-00001"><problem id="prob-00001">
+  <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-01-04-001"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002"><problem id="prob-00002">
+  <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-01-04-002"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003"><problem id="prob-00003">
+  <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-01-04-003"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004"><problem id="prob-00004">
+  <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-01-04-004"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005"><problem id="prob-00005">
+  <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-01-04-005"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006"><problem id="prob-00006">
+  <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-01-04-006"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007"><problem id="prob-00007">
+  <para id="para-00047"><link class="os-embed" url="#exercise/Neuro-01-04-007"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="fillin-blank" id="sect-00022">
+  <title>Fill in the Blank</title>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+ <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-01-04-008"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+  <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-01-04-009"/></para>
+</problem>
+</exercise>
+</section>
+
+<section class="references" id="sect-00017">
+  <title>References</title>
+  <para id="para-00027">Breit, S., Kupferberg, A., Rogler, G., &amp; Hasler, G. (2018). Vagus Nerve as Modulator of the Brain–Gut Axis in Psychiatric and Inflammatory Disorders. <emphasis effect="italics">Frontiers in Psychiatry</emphasis>, 9. Available at: https://www.frontiersin.org/article/10.3389/fpsyt.2018.00044 [Accessed May 24, 2022].</para>
+  <para id="para-00028">Eliot, L.S. (2021). You don’t have a male or female brain – the more brains scientists study, the weaker the evidence for sex differences. <emphasis effect="italics">Philly Voice</emphasis>. Available at: https://www.phillyvoice.com/human-brain-sex-differences-male-female-size/.</para>
+  <para id="para-00029">Eliot, L., Ahmed, A., Khan, H., &amp; Patel, J. (2021). Dump the “dimorphism”: Comprehensive synthesis of human brain studies reveals few male-female differences beyond size. <emphasis effect="italics">Neurosci Biobehav Rev</emphasis>, <emphasis effect="italics">125</emphasis>, 667–697.</para>
+  <para id="para-00030">Fischl, B., &amp; Dale, A.M. (2000). Measuring the thickness of the human cerebral cortex from magnetic resonance images. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">97</emphasis>, 11050–11055.</para>
+  <para id="para-00031">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">109</emphasis> Suppl 1, 10661–10668.</para>
+  <para id="para-00032">Herculano-Houzel, S., Catania, K., Manger, P.R., &amp; Kaas, J.H. (2015). Mammalian Brains Are Made of These: A Dataset of the Numbers and Densities of Neuronal and Nonneuronal Cells in the Brain of Glires, Primates, Scandentia, Eulipotyphlans, Afrotherians and Artiodactyls, and Their Relationship with Body Mass. <emphasis effect="italics">Brain Behav Evol</emphasis>, <emphasis effect="italics">86</emphasis>, 145–163.</para>
+  <para id="para-00033">Mangold, S.A., &amp; Das, J.M. (2021). Neuroanatomy, Reticular Formation. <emphasis effect="italics">StatPearls Publishing</emphasis>. Available at: https://www.ncbi.nlm.nih.gov/books/NBK556102/ [Accessed May 16, 2022].</para>
+  <para id="para-00034">Nottebohm, F., &amp; Arnold, A.P. (1976). Sexual Dimorphism in Vocal Control Areas of the Songbird Brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">194</emphasis>, 211–213.</para>
+  <para id="para-00035">Tan, C., Yan, Q., Ma, Y., Fang, J., &amp; Yang, Y. (2022). Recognizing the role of the vagus nerve in depression from microbiota-gut brain axis. <emphasis effect="italics">Front Neurol</emphasis>, <emphasis effect="italics">13</emphasis>, 1015175.</para>
+</section>
   </content>
 </document>
