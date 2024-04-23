@@ -60,12 +60,13 @@
 
   <para id="para-00014">The first possibility, that single neurons are responsible for recognizing an image, seems unlikely. Any visual stimulus evokes activity in an <term id="term-00006">ensemble</term> of hundreds or thousands of neurons, even at high levels. Similar visual stimuli would activate overlapping but distinct ensembles. There is no indication that potential loss of a single neuron suddenly eliminates recognition of a particular object. Loss of neurons does occur from strokes, for example, and the loss does eliminate function. <term id="term-00007">Prosopagnosia</term> is a neurological deficit where the patient no longer recognizes faces, but it involves the loss of whole regions of neurons and problems with many faces.</para>
 
-  <para id="para-00015">The second idea, that ensembles of neurons might encode information associated with a visual stimulus, seems more likely. “<term id="term-00008">Gnostic neurons</term>” have been proposed, and the neuron that responded to Jennifer Aniston’s image and written name seems to be an example of a gnostic neuron. It’s clear that our brains somehow generate our unified conscious experience, but like other aspects of consciousness, the later stages of visual perception remain an unsolved and challenging puzzle.</para>
+  <para id="para-00015">The second idea, that ensembles of neurons might encode information associated with a visual stimulus, seems more likely. “<term id="term-00008">Gnostic neurons</term>” have been proposed, and the neuron that responded to Jennifer Aniston’s image and written name seems to be an example of a gnostic neuron. It’s clear that our brains somehow generate our unified conscious experience, but like other aspects of consciousness, the later stages of visual perception remain an unsolved and challenging puzzle.</para></section>
 
   <section class="section-summary" id="sect-00005">
     <title>Summary</title>
     <para id="para-00016">Although the first stages of visual perception seem to be well understood, beginning in the retina and proceeding in steps though V1 and extrastriate cortex, and continuing into IT, the final stages of perception remain a mystery. One problem is how responses to a particular object, activating neurons in many different visual areas, are grouped to identify that object and not other objects in the scene. One theory involves the timing of action potentials, where rhythmic firing or synchrony may establish connections for each object, but this idea remains controversial. Another problem is how small components within a scene are organized into the perception of the full object, a process that seems to require prior knowledge of the object's shape. This suggests a role for top-down processing. One clear example of top-down modulation of earlier neural activity is visual attention, which organizes bottom-up components into a perceived scene. A bottom-up issue is converging activity, where many neurons with small receptive fields activate the next level of neurons with larger receptive fields, raising the question of how much convergence ultimately occurs. Could there be single neurons responsible for perceiving a particular object, so-called "grandmother cells" responsible for perceiving your grandmother? It seems much more likely that any particular object activates an ensemble of neurons, with different but possibly overlapping ensembles for other objects. These many open questions indicate that the final stages of visual processing are still an unsolved puzzle.</para>
   </section>
+  
   <section class="key-terms" id="sect-00006">
     <title>Key Terms</title>
     <list display="inline" id="list-00002">
@@ -78,7 +79,15 @@
       <item>gnostic neurons</item>
     </list>
   </section>
+  <section class="references" id="sect-00007">
+    <title>References</title>
+    <para id="para-00017">Barwich, A.-S. (2019). The value of failure in science: The story of grandmother cells in neuroscience. <emphasis effect="italics">Front. Neurosci.</emphasis>, <emphasis effect="italics">13</emphasis>, 1121. <emphasis effect="italics">https://doi.org/10.3389/fnins.2019.01121</emphasis></para>
+    <para id="para-00018">Conway, B. R. (2018). The organization and operation of inferior temporal cortex. <emphasis effect="italics">Annu. Rev. Vis. Sci.</emphasis>, <emphasis effect="italics">4</emphasis>, 381–402.</para>
+    <para id="para-00019">Gross, C. G. (2008). Single neuron studies of inferior temporal cortex. <emphasis effect="italics">Neuropsychologia</emphasis>, <emphasis effect="italics">46</emphasis>, 841–852.</para>
+    <para id="para-00020">Hesse, J. K., &amp; Tsao, D. Y. (2020). The macaque face patch system: A turtle’s underbelly for the brain. <emphasis effect="italics">Nature Rev. Neurosci.</emphasis>, <emphasis effect="italics">21</emphasis>, 695–716.</para>
+    <para id="para-00021">Lafer-Sousa, R., &amp; Conway, B. R. (2013). Parallel, multi-stage processing of colors, faces and shapes in macaque inferior temporal cortex. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">16</emphasis>, 1870–1878.</para>
+    <para id="para-00022">Quiroga, R., Reddy, L., Kreiman, G., et al. (2005). Invariant visual representation by single neurons in the human brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">435</emphasis>, 1102–1107. <emphasis effect="italics">https://doi.org/10.1038/nature03687</emphasis></para>
+  </section>
 
-</section>
   </content>
 </document>

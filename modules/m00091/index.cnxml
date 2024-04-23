@@ -10,12 +10,47 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, students will be able to:</para>
       <list id="list-00001">
+        <item>Describe how visual pathways divide visual information from left and right visual fields for projection to right and left cortical areas, respectively</item>
+        <item>Define the optimal stimuli for simple and complex cortical cells</item>
+        <item>Describe how LGN receptive fields combine within the receptive field of simple cortical cells to drive simple cell activity</item>
+        <item>Describe how simple cortical cell receptive fields combine within the receptive field of complex cortical cells to drive complex cell activity</item>
+        <item>Describe the retinotopic map of the primary visual cortex</item>
+        <item>Describe the functional architecture of the primary visual cortex, including ocular dominance columns, cytochrome oxidase blobs, and orientation pinwheels</item>
+        <item>List the different types of stimuli that can excite primary visual cortical cells, including their combination with color</item>
+      </list>
+    </section>
+
+    <para id="para-00011">From the retina, the main visual pathway for conscious perception goes to the lateral geniculate nucleus of the thalamus (LGN), after which LGN neurons project to the primary visual cortex. Visual information then goes to a series of extrastriate visual areas, the inferotemporal cortex, and a number of other brain regions involved in identifying, localizing, and interacting with visually perceived objects. In this section, we will sample several of these areas to see how neurons code visual information, eventually reaching neurons that are selectively responsive to objects and faces located anywhere in the visual field.</para>
+
+    
+
+    <section class="section-summary" id="sect-00004">
+      <title>Summary</title>
+      <para id="para-00012">The receptive fields of LGN neurons are circular, but neurons in primary visual cortex V1 have elongated receptive fields with a straight-line edge between the subdivisions. "Simple" cortical cells can be mapped with small spots, but "complex" cells require elongated stimuli such as light or dark bars. The elongated edge can be placed anywhere in a complex cell’s receptive field as long as its orientation angle matches the cell’s preferred orientation. Some cortical cells are responsive to stimuli moving in one direction but not the reverse. Some cells decrease their response if the stimulus bar extends beyond the receptive field ("endstopping"). Spatial frequency gratings at an appropriate angle are more effective stimuli than bars of equivalent width. The cortex’s functional architecture reveals that neurons with the same orientation preference are grouped in vertical orientation columns that when viewed from the cortical surface appear like pinwheels. Neurons driven most strongly by one eye or the other are grouped in broad elongated ocular dominance columns. Examination of cortical layers shows that simple cells are found principally in middle layer 4 where LGN axons arrive, while complex cells are found in the upper and lower layers. Finally, some cortical neurons are selective for colors in addition to having a preferred location, angle and direction of movement.</para>
+    </section>
+    <section class="key-terms" id="sect-00005">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
         <item/>
         <item/>
       </list>
     </section>
-
-    <para id="para-00011">temp</para>
+    <section class="references" id="sect-00006">
+      <title>References</title>
+      <para id="para-00013">Conway, B. R. (2009). <emphasis effect="italics">Color vision, cones, and color-coding in the cortex</emphasis>. <emphasis effect="italics">The Neuroscientist</emphasis>, <emphasis effect="italics">15</emphasis>(3), 274–290.</para>
+      <para id="para-00014">Conway, B. R., et al. (2018). <emphasis effect="italics">A tour of contemporary color vision research</emphasis>. <emphasis effect="italics">Vision Research</emphasis>, <emphasis effect="italics">141</emphasis>, 2–6.</para>
+      <para id="para-00015">Gilbert, C. D. (1993). <emphasis effect="italics">Circuitry, architecture, and functional dynamics of visual cortex</emphasis>. <emphasis effect="italics">Cerebral Cortex</emphasis>, <emphasis effect="italics">3</emphasis>, 373–386.</para>
+      <para id="para-00016">Wurtz, R. H. (2009). Recounting the impact of Hubel and Wiesel. <emphasis effect="italics">J. Physiol.</emphasis>, <emphasis effect="italics">587</emphasis>(Pt 12), 2817–2823. <emphasis effect="italics">https://doi.org/10.1113/jphysiol.2009.170209</emphasis> PMID: 19525566; PMCID: PMC2718241.</para>
+    </section>
 
 
 
