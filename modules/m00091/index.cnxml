@@ -20,9 +20,94 @@
       </list>
     </section>
 
-    <para id="para-00011">From the retina, the main visual pathway for conscious perception goes to the lateral geniculate nucleus of the thalamus (LGN), after which LGN neurons project to the primary visual cortex. Visual information then goes to a series of extrastriate visual areas, the inferotemporal cortex, and a number of other brain regions involved in identifying, localizing, and interacting with visually perceived objects. In this section, we will sample several of these areas to see how neurons code visual information, eventually reaching neurons that are selectively responsive to objects and faces located anywhere in the visual field.</para>
+    <para id="para-00011">From the retina, the main visual pathway for conscious perception goes to the <term id="term-00001">lateral geniculate nucleus</term> of the thalamus (LGN), after which LGN neurons project to the <term id="term-00002">primary visual cortex</term>. Visual information then goes to a series of <term id="term-00003">extrastriate visual areas</term>, the <term id="term-00004">inferotemporal cortex</term>, and a number of other brain regions involved in identifying, localizing, and interacting with visually perceived objects. In this section, we will sample several of these areas to see how neurons code visual information, eventually reaching neurons that are selectively responsive to objects and faces located anywhere in the visual field.</para>
 
-    
+    <section id="sect-00007"><title>Visual Fields and the Visual Pathway</title>
+      <para id="para-00017"><link target-id="Image-6.05"/> shows the first stages of the visual pathway, going from the eye through the thalamus to the primary visual cortex.</para>
+
+      <figure id="Image-6.05">
+        <media alt="Diagram of a horizontal slice of human brain. The left and right visual field are shaded green and purple, to the left and right of the fixation point. The pathways described in the main text are shown with color-coding for visual field of origin from eyes to primary visual cortex.">
+          <image mime-type="image/png" src="../../media/Image-6.05_Visual-pathways.png"/>
+        </media>
+      </figure>
+
+      <para id="para-00018">Each eye is turned to project the <term id="term-00005">fixation point</term> between the left and right visual fields onto the fovea in the center of the retina. Because lenses invert images, the left <term id="term-00006">visual field</term> (shown in green) is imaged on the right side of each retina, and the right visual field (purple) is imaged on the left side. Ganglion cell axons from both sides of the retina bundle together to form the optic nerve, which leads to the optic chiasm in the midline. There, the nasal (inner) half of the axons from each retina cross over, while the temporal (outer) half remains on its side of origin. Consequently, the right side of the brain (green) receives axons from the right half of each retina, and the left brain (purple) receives axons from the left retinas. Because the left retina views the right visual field, each hemisphere of the brain receives information about the opposite side of the visual world from both eyes. Lesions in the visual pathway on one side of the brain lead to deficits in seeing the opposite side of the visual world.</para></section>
+
+    <section id="sect-00008"><title>Lateral Geniculate Nucleus</title>
+      <para id="para-00019">The main cerebral target for the retinal ganglion cell axons is the lateral geniculate nucleus (LGN), a structure in the thalamus on the path to the primary visual cortex. The LGN is a six-layered structure. The left side of <link target-id="Image-6.22"/> shows the LGN in a post-mortem monkey brain. The dark purple dots are cell bodies and show how distinct these six layers are. Each of these layers is unique in the input it receives. Two layers are composed of large neurons, magnocellular layers 1 and 2, and four layers are composed of smaller neurons, the parvocellular layers 3-6. Magnocellular retinal ganglion cells, which convey low resolution information and respond well to motion, send their axons to the magnocellular LGN layers. Parvocellular ganglion cells with small receptive fields, red/green opponent color responses, and high resolution connect to the parvocellular layers. There are also small intermediate koniocellular LGN layers, which were overlooked in early studies. They are the target for axons from blue/yellow ganglion cells. The neurons in each LGN layer are arranged in a two-dimensional array that matches the ganglion cell locations in the retina. This preserves a map of receptive field positions, a retinotopic map.</para>
+
+      <figure id="Image-6.22">
+        <media alt="Left is a photo of a whole coronal slice of macaque brain with a zoom in on the LGN, showing 6 rows of densely packed purple dots (cell bodies) arranged in a C shape. Right is a diagram of connections from right and left eye to right LGN showing how each layer of LGN receives input from only one eye or the other. LGN neurons then project to V1, with the parvocellular pathway being the axons from the outer 4 layers of LGN and the magnocellular pathway being the axons from the inner 2 layers. Both right and left eye inputs are represented in each LGN pathway to V1. Image credit: Primate LGN images from BrainMaps: An Interactive Multiresolution Brain Atlas; http://brainmaps.org [retrieved on 11-10-2021]">
+          <image mime-type="image/png" src="../../media/Image-6.22_Layers-of-neurons-in-the-lateral-geniculate-nucleus.png"/>
+        </media>
+      </figure>
+      <para id="para-00020">Although ganglion cells from the right half of each eye project to the LGN on the right side of the brain, the ganglion cells from each eye connect to different layers of the LGN. Thus, information from the two eyes remains separate in the LGN, and neurons driven by both eyes will not appear in the visual pathway until the next stage, the primary visual cortex.</para></section>
+
+      <section id="sect-00009"><title>V1 Simple, Complex and “Hypercomplex” Neurons</title>
+        <para id="para-00021">LGN neurons that receive input from retinal ganglion cells send their axons to the primary visual cortex (V1), a large visual area in the posterior occipital lobe and midline. This area is also called “striate” cortex because cross sections appear striated, or striped, and it is also sometimes referred to as “area 17” in reference to labels for different cortical areas based on their appearance. V1 is the first stage of visual processing in the cortex. In a collaboration that began in 1958, David Hubel and Torsten Wiesel conducted an extensive research program to discover how V1 cells respond to visual stimuli (more about them and their experiments can be found later in this section). By recording from individual cortical neurons in experiments that often lasted for more than 24 hours, they showed that the cortex could be understood at the level of individual neurons, and that the neurons had receptive fields responsive to edges. This continued earlier stages in the perception of objects and scenes. Hubel and Wiesel’s experimental method was to advance an insulated needle electrode into the visual cortex to pick up extracellular action potentials from neurons along the electrode’s path.<!--<Link to Methods: Electrophysiology>-->. They projected visual stimuli on a screen facing the anesthetized animal (initially cats and later monkeys), while they searched for the most effective visual stimulus. By listening to the neuron’s action potentials as they altered the projected stimulus, they mapped the neuron’s receptive field: the visual pattern that optimally excited the cell. Once they characterized a neuron’s receptive field, they advanced the electrode until it encountered another neuron, which they then mapped. In this way, they gathered data on the receptive fields of hundreds of V1 neurons in each experiment.</para>
+
+        <para id="para-00022">In addition to mapping receptive fields, they also kept data on the location of each neuron along the electrode’s track, so they could later reconstruct the positions of the mapped neurons on slices of the post-mortem brain. In this way, they not only were able to classify V1 neurons into functional categories, but they also revealed the <term id="term-00007">functional architecture</term> of the primary visual cortex.</para>
+
+        <para id="para-00023">The earliest experiments recording from individual neurons in V1 used stimuli that had been effective in exciting or inhibiting retinal ganglion and LGN cells: small light or dark spots. Many cortical cells could be stimulated and mapped with small spots. But unlike the earlier neurons in the visual pathway, where receptive fields were circular with opposing center and surround regions, the cortical receptive fields had elongated excitatory and inhibitory areas organized along straight-line edges. Hubel and Wiesel found that bright bars, dark bars, or an edge between light and dark were even more effective than spots as stimuli. For a vigorous response, the straight-line stimulus had to be at an appropriate angle of orientation aligned with the receptive field edge, and positioned exactly within the receptive field (Image 6.23). These first cortical cells with receptive fields that could be mapped with small spots were called “simple cells.”</para>
+
+        <figure id="Image-6.23">
+          <media alt="Three example receptive field of simple cortical cells. 1) Three long ovals, the center one is light grey, largest and filled with + marks. The two side ovals are smaller, darker grey and filled with – marks. 2) Three long ovals, the center one is dark gray, largest and filled with - marks. The two side ovals are smaller, lighter gray and filled with + marks. The smaller, lighter ovals are labeled as regions of the receptive field where spots of light excite the cell. The larger, darker oval is labeled as regions where spots of light inhibit the cell. 3) Two equal-sized ovals, one dark gray, one light gray. The dark gray on has – marks and the light gray one has + marks. Text says “A simple cell responds to a small spot of light in its receptive field with excitatory 'on' responses in some regions, or with inhibitory 'off' responses in adjoining regions.">
+            <image mime-type="image/png" src="../../media/Image-6.23_V1-simple-cortical-cells.png"/>
+          </media>
+        </figure>
+        
+        <para id="para-00024">Hubel and Wiesel also discovered a second group of cortical cells that could not be stimulated with small spots. They named these cells complex cells. At first, they were a puzzle to the experimenters. Hubel has told the story of how they accidentally discovered what was special about <term id="term-00008">complex cells</term>. After struggling for hours without finding an effective stimulus for the neuron they were recording from, they slid a glass slide out of the projector, and as the faint dark edge of the slide moved across the screen, the neuron suddenly fired vigorously. It soon became clear that complex cells would respond to edges but not to spots. Their receptive fields could not be divided into static excitatory and inhibitory areas. Instead, complex cells responded to an appropriately oriented straight-line edge at any position in the receptive field. If the angled light or dark bar swept across the receptive field, the cell would respond continuously. (<link target-id="Image-6.24"/>) Many complex cells were also <term id="term-00009">directionally selective</term>, responding to an edge moving in one direction but not the reverse. This was different from simple cells, where an appropriately oriented edge would be effective at only one exact position; complex cells would respond to the stimulus at any position. This seemed to be a step beyond simple cells, hence the name “complex.”</para>
+
+        <figure id="Image-6.24">
+          <media alt="Diagram showing example stimuli for complex cells and the resulting action potential firing (as an electrophysiological trace). Top: A rectangular receptive field has a bar moving through it from bottom to top or top to bottom. For bottom to top, many action potentials fire. For top to bottom, action potentials are inhibited below basal firing rate. This complex cell responds to upward movement.">
+            <image mime-type="image/png" src="../../media/Image-6.24_V1-complex-cells-respond-to-orientation-and-direction.png"/>
+          </media>
+        </figure>
+
+        <para id="para-00025">Hubel and Wiesel recorded videos that showed how they mapped receptive fields of simple and complex cells. The videos show the screen in front of the animal on which stimuli are projected, and we hear the action potentials (as clicks) produced by the neuron they are mapping: <link url="https://youtu.be/KE952yueVLA"/> Although the video quality is not the best, these historically important videos show how V1 neurons respond selectively to projected visual stimuli.</para>
+
+        <para id="para-00026">Other neuroscientists explored responses of V1 neurons to other visual stimuli in addition to the projected bright or dark bars and edges that Hubel and Wiesel used. One group of stimuli, which are generated on a computer screen, are sinusoidal luminance gratings. These look like soft-edged stripes, and are discussed in the Feature Box on spatial frequency selectivity. Theoretically, any image can be broken down into its component spatial frequencies, which makes these stimuli of particular interest. V1 neurons actually respond more vigorously to appropriately oriented spatial frequency gratings than they do to simple bars or edges, and a neuron’s preferred spatial frequency is now considered a significant characteristic of its receptive field.</para>
+      </section>
+
+      <section id="sect-00010"><title>Building Simple and Complex Receptive Fields</title>
+        <para id="para-00027">Hubel and Wiesel were interested in how information from LGN neurons with center-surround receptive fields could be transformed into the elongated receptive fields of cortical cells. They proposed that a simple cell in V1 receives excitatory synaptic input from a group of LGN neurons that have overlapping receptive fields located in a staggered straight line. Activating any one of the LGN cells with an appropriate light or dark spot would slightly excite the simple cell, but activating all of the LGN neurons with an oriented edge that covered all their receptive field centers would excite all of the LGN cells. This would elicit a vigorous response from the simple cell. Later experiments that recorded simultaneously from LGN and V1 neurons confirmed this scheme. <!--<link target-id="Image-6.36"/>--> shows the proposed cellular anatomy of these connections on the left, with multiple LGN neurons converging to excite a single V1 simple cell. The receptive field perspective on the right shows how a bar of light would provide the most effective stimulus for a V1 simple cell receptive field.</para>
+      
+        <!--<figure id="Image-6.36">
+          <media alt="Left is Cellular perspective. A V1 simple cell is shown getting excitatory input from 4 LGN neurons. Right is receptive field perspective. A bar of light is shown as optimal stimulus. Four LGN receptive field with excitatory center and inhibitory surround align in parallel with the optimal stimulus bar in their center. Right of that, a simple cell receptive field is shown, with large white central oval being excited and smaller gray ovals at rest on each side.">
+            <image mime-type="image/png" src="../../media/image.png"/>
+          </media>
+        </figure>-->
+
+      <para id="para-00028">Hubel and Wiesel further proposed that complex cells were excited by the activity of a group of simple cells that had overlapping but similar receptive fields (<link target-id="Image-6.40"/>). An edge at an appropriate angle and position would excite one or more of the simple cells, thereby exciting the complex cell. But the stimulus could be at any position in the receptive field and still excite the complex cell. A moving edge crossing the receptive field would lead to continuous excitation. Directional selectivity could be imposed by additional circuitry that enhanced the complex cell’s response to movement in one direction but suppressed the response to the opposite direction.</para>
+
+      <figure id="Image-6.40">
+        <media alt="Top shows a bar of light moving from left to right. Under that are 3 V1 simple cell receptive fields (center, large excitatory oval with two smaller grey ovals on its sides) with center aligned to excite their centers well as the bar passes by that V1 simple cell. All three simple cells project to a single V1 complex cell, making them all within the V1 complex cell receptive field.">
+          <image mime-type="image/png" src="../../media/Image-6.40_V1-complex-cells-respond-to-simple-cells.png"/>
+        </media>
+      </figure>
+
+    <para id="para-00029">As Hubel and Wiesel continued their exploration of complex cells’ responses, they found an additional characteristic. Making an appropriate stimulus bar longer so it spilled beyond the receptive field had no effect on the responses of many complex cells, but it decreased the response of other complex cells (<link target-id="Image-6.25"/>). This effect, where a stimulus bar extending beyond the receptive field actually inhibits a cortical cell’s response, is referred to as <term id="term-00010">endstopping</term>. They named the new category “hypercomplex cells.” Later research suggested that endstopping was a variable characteristic of every complex cell, and most neuroscientists no longer regard hypercomplex cells as a separate category. <link target-id="Image-6.25"/> shows examples of complex cells with weak endstopping (top) and strong endstopping (bottom). Notice how both examples respond more and more to a stimulus as it elongates to fill the receptive field, but one stops responding when the stimulus extends beyond the receptive field. That complex cell shows endstopping in action.</para>
+
+      <figure id="Image-6.25">
+        <media alt="Top shows dark bar stimulus of different lengths on an oval-shaped receptive field. The bar is perpendicular to the long axis of the oval. Action potential firing is represented as weak when the bar is small, well within the receptive field and greater as the bar gets longer. The action potentials remain at high frequency even when the bar extends beyond the receptive field. This is weak endstopping. Bottom shows similar diagrams, with bar growing from small and within receptive field then getting larger until it extends beyond the receptive field. Here, the action potentials increase as the bar elongates until the bar extends beyond the receptive field. If it extends a little beyond the field, action potentials reduce some and if it extends further, action potentials are completely inhibited. This is strong endstopping.">
+          <image mime-type="image/png" src="../../media/Image-6.25_Endstopping.png"/>
+        </media>
+      </figure>
+
+      <para id="para-00030">The functional purpose of endstopping has been puzzling, but one possible explanation is that it would make complex cells respond selectively to curved edges. A long curve falling in the receptive field would excite an end-stopped neuron if the segment within the receptive field had an appropriate orientation angle, but the part of the curve falling outside the receptive field would have a different angle that would not trigger endstopping. In contrast, long straight lines would retain the same orientation angle outside the receptive field and would activate inhibitory endstopping.</para>
+
+      <note class="boxed-feature" id="note-00001">
+        <title>Spatial Frequency Selectivity</title>
+        <para id="para-00031">Neurons in V1 respond selectively to sinusoidal luminance gratings, which is yet another characteristic of a neuron’s receptive field. These gratings look like evenly spaced stripes with soft edges. Three examples are shown at the top of <link target-id="Image-6.28"/>. They are called “sinusoidal” because the grating’s brightness changes from light to dark and back again with a profile of intensity that resembles a sine wave. Gratings are specified by how many stripes fit in one degree of visual angle. Low spatial frequency gratings have broad stripes and appear blobby, while high spatial frequencies have narrow stripes and convey fine detail.</para>
+      </note>
+      <figure id="Image-6.28">
+        <media alt="Top shows example sinusoidally modulate gratings. Low frequency is wide repeating light-dark stripes. Medium to high frequency shows thinner repeating stripes (and therefore more stripes in the same area). Middle shows a photo of a city scene (buildings, cars) along with a version with only low spatial frequencies (blobs, the scene looks blurry) and a version with only high spatial frequencies (edges, only the edges of shapes are shown). Bottom shows a line graph with y axis sensitivity (1 to 100) and x axis spatial frequency (cycles/degree, 0.01 to 10). Graph shows results of stimulating a V1 neuron with a series of spatial frequency gratings or a set of bars of different widths. Resulting lines show that the best SF grating is more effective than the best bar, and the neuron is more narrowly tuned for spatial frequency than for bar width. Image credit: Street scene from Berman D, Golomb JD, Walther DB (2017) Scene content is predominantly conveyed by high spatial frequencies in scene-selective visual cortex. PLoS ONE 12(12): e0189828. https://doi.org/10.1371/journal.pone.0189828 CC BY 4.0.">
+          <image mime-type="image/png" src="../../media/Image-6.28_Spatial-frequency-selectivity.png"/>
+        </media>
+      </figure>
+
+      <para id="para-00032">Selectivity for spatial frequency seems important because any real image can be computationally decomposed into its component spatial frequencies (“Fourier analysis”). The street scenes in the middle of the figure illustrate the contributions of low and high spatial frequencies to a real image. The original image (left) contains a full range of spatial frequencies, but if just the low spatial frequencies are presented (center), the scene appears blobby and out of focus. Alternatively, the high spatial frequencies show the scene’s edges and reveal fine detail (right).</para>
+      <para id="para-00033">Interestingly, if a V1 neuron is stimulated with a series of appropriately oriented sinusoidal luminance gratings, the neuron will respond best to a particular spatial frequency and the response will fall off sharply at non-optimal frequencies. This makes the neuron <term id="term-00011">narrowly tuned</term> to its best spatial frequency. If instead the same neuron is stimulated with bars of different widths, the most effective bar does not elicit as strong a response as the best grating, and the tuning is not very sharp (narrower bars continue to excite the neuron). This is shown at the bottom right of Image 6.28, which plots relative sensitivity vs. spatial frequency. In their studies of V1 neurons, Hubel and Wiesel displayed rectangular bars of light from a slide projector on a screen in front of the animal, but most experimenters now use sinusoidal luminance gratings on a computer screen.</para></section>
 
     <section class="section-summary" id="sect-00004">
       <title>Summary</title>
@@ -31,19 +116,36 @@
     <section class="key-terms" id="sect-00005">
       <title>Key Terms</title>
       <list display="inline" id="list-00002">
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
-        <item/>
+        <item>lateral geniculate nucleus of the thalamus (LGN)</item>
+        <item>primary visual cortex</item>
+        <item>extrastriate visual areas</item>
+        <item>inferotemporal cortex</item>
+        <item>fixation point</item>
+        <item>visual field</item>
+        <item>magnocellular layers 1 and 2</item>
+        <item>parvocellular layers 3-6</item>
+        <item>koniocellular</item>
+        <item>retinotopic map</item>
+        <item>functional architecture</item>
+        <item>angle of orientation</item>
+        <item>simple cells</item>
+        <item>complex cells</item>
+        <item>directionally selective</item>
+        <item>sinusoidal luminance gratings</item>
+        <item>endstopping</item>
+        <item>narrowly tuned</item>
+        <item>binocular neurons</item>
+        <item>ocular dominance</item>
+        <item>functional anatomy</item>
+        <item>orientation columns</item>
+        <item>optical recording</item>
+        <item>cytochrome oxidase blobs</item>
+        <item>orientation pinwheels</item>
+        <item>cortical layers</item>
+        <item>layer 4</item>
       </list>
     </section>
+
     <section class="references" id="sect-00006">
       <title>References</title>
       <para id="para-00013">Conway, B. R. (2009). <emphasis effect="italics">Color vision, cones, and color-coding in the cortex</emphasis>. <emphasis effect="italics">The Neuroscientist</emphasis>, <emphasis effect="italics">15</emphasis>(3), 274–290.</para>
@@ -51,8 +153,6 @@
       <para id="para-00015">Gilbert, C. D. (1993). <emphasis effect="italics">Circuitry, architecture, and functional dynamics of visual cortex</emphasis>. <emphasis effect="italics">Cerebral Cortex</emphasis>, <emphasis effect="italics">3</emphasis>, 373–386.</para>
       <para id="para-00016">Wurtz, R. H. (2009). Recounting the impact of Hubel and Wiesel. <emphasis effect="italics">J. Physiol.</emphasis>, <emphasis effect="italics">587</emphasis>(Pt 12), 2817–2823. <emphasis effect="italics">https://doi.org/10.1113/jphysiol.2009.170209</emphasis> PMID: 19525566; PMCID: PMC2718241.</para>
     </section>
-
-
 
     <section class="multiple-choice" id="sect-00001">
       <title>Multiple Choice</title>
