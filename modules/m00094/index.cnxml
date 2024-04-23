@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction>">
+  <title>Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+    <md:content-id>m00094</md:content-id>
+    <md:uuid>2990bfe9-5e6c-4be6-9d95-2c3c04a27f18</md:uuid>
+  </metadata>
+  <content class="introduction>">
+    <figure class="splash" id="fig-00001">
+      <title>Optional Title</title>
+      <media alt="Insert Alt Text">
+        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      </media>
+      <caption>Insert Caption Here</caption>
+    </figure>
+    <note class="meet-author" id="note-00001">
+      <title>Megan M. Mahoney, Ph.D., Eric M. Mintz, Ph.D.</title>
+      <para id="para-00001"><link url="https://openstax.org/r/Neuro15Author">Meet the Authors</link></para>
+    </note>
+  <para id="para-00002">Do you typically wake up a few minutes before your alarm clock goes off? Do you get really sleepy in your classes that occur after lunch? On weekends, when you can set your own schedule, are you sleeping 2-3 hours later than on days when you work or go to class? When you fly somewhere on vacation do you experience jet lag? Each of these scenarios reflects how your internal biological clock is responding to timing cues in the environment. From a clinical standpoint, it is only recently that these daily circadian clocks have been considered important endpoints of relevance for both medical conditions as well as human performance and efficiency. The study of circadian clocks has changed how airline flight crews are scheduled and how nursing shifts are organized. Even professional sports have been impacted by the consequences of biological clock disruptions. Across several professional sports in the U.S., teams traveling westward across time zones are at a significant disadvantage in away games as compared to those traveling eastward (Roy and Forest, 2018). Many studies have also found that high school students perform better when school start times are moved later to better match adolescent's biological clocks. When you consider all the myriad ways that humans can become out of synchrony with the standard day/night cycle, it is easy to understand how such disruptions could have a major impact on society. In this chapter, we will address these questions by exploring the field of <term id="term-00001">Chronobiology</term>, which studies biological clocks and biological rhythms within an organism.</para>
+
+  <para id="para-00003">Predictable rhythms exist in nearly every organism on the planet from bacteria to mammals. You have rhythms in your body that range from cycles of gene transcription, to hormone surges, to patterns of fatigue and alertness. The regulation of these rhythms and the coordination between different rhythms in an organism is managed by a "master clock" contained within a subset of cells within the hypothalamus of the brain. This master clock communicates with other brain areas which regulate your sleep stages.</para>
+      
+  <para id="para-00004">Biological rhythms are critical in health and treatment of disease and disruption of these rhythms can be associated with an increase in cancers, diabetes, obesity, and heart disease. For example, people who participate in shift work such as police officers, medical personnel or those working a night shift in a factory often experience disrupted rhythms, making them particularly vulnerable to some diseases. On the other hand, knowledge of biological rhythms can lead to improvements in disease treatment; for example, administering asthma medication at the predictable time of day when symptoms are worst can result in better disease management.</para>
+      
+  <para id="para-00005">Finally, consideration of the biological rhythms of individuals and its impact on our health has entered our society. You may have heard news stories about people who support, and are against, daylight savings time, or discussions of how school start times do not match appropriate sleep schedules for children. Disruption of normal sleep cycles can result in chronic sleep deprivation, which can have long term consequences for health.</para>      
+  </content>
+</document>
