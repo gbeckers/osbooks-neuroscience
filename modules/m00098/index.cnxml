@@ -14,5 +14,21 @@
           <item>Consectetur adipiscing elit.</item>
         </list>
     </section>
+    <section class="section-summary" id="sect-00002"> <title>Summary</title> <para id="para-00002">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</para> </section>
+<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002"><item/></list> </section>
+<section class="references" id="sect-00004"> <title>References</title>
+  <para id="para-00003">Baker, F. C., De Zambotti, M., Colrain, I. M., &amp; Bei, B. (2018). Sleep problems during the menopausal transition: Prevalence, impact, and management challenges. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">10</emphasis>, 73–95.</para>
+  <para id="para-00004">Ju, Y.-E., Videnovic, A., &amp; Vaughn, B. V. (2017). Comorbid sleep disturbances in neurologic disorders. <emphasis effect="italics">Continuum (Minneap Minn)</emphasis>, <emphasis effect="italics">4</emphasis> (Sleep Neurology), 1117–1131.</para>
+  <para id="para-00005">Medic, G., Wille, M., &amp; Hemels, M. E. H. (2017). Short- and long-term health consequences of sleep disruption. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">9</emphasis>, 151–161.</para>
+  <para id="para-00006">Meyer, N., Harvey, A. G., Lockley, S. W., &amp; Dijk, D. J. (2022). Circadian rhythms and disorders of the timing of sleep. <emphasis effect="italics">Lancet</emphasis>, <emphasis effect="italics">400</emphasis>, 1061–1078.</para>
+  <para id="para-00007">Micic, G., Lovato, N., Gradisar, M., Ferguson, S. A., Burgess, H. J., &amp; Lack, L. C. (2016). The etiology of delayed sleep phase disorder. <emphasis effect="italics">Sleep Med Rev</emphasis>, <emphasis effect="italics">27</emphasis>, 29–38.</para>
+  </section>
+<section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> 
+<exercise id="exer-00001"> <problem id="prob-00001"> <para id="para-00008"><link class="os-embed" url="#exercise/Nickname"/></para> </problem> </exercise>
+</section>
+<section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title>
+<exercise id="exer-00002"> <problem id="prob-00002"> <para id="para-00009"><link class="os-embed" url="#exercise/Nickname"/></para> </problem> </exercise>
+</section>
+
   </content>
 </document>

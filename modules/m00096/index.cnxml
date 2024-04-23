@@ -14,5 +14,31 @@
           <item>Consectetur adipiscing elit.</item>
         </list>
     </section>
+    <section class="section-summary" id="sect-00002"> <title>Summary</title> <para id="para-00002">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</para> </section>
+<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002"><item/></list> </section>
+<section class="references" id="sect-00004"> <title>References</title>
+  <para id="para-00003">Allada, R., &amp; Chung, B. Y. (2010). Circadian organization of behavior and physiology in Drosophila. <emphasis effect="italics">Annu Rev Physiol</emphasis>, <emphasis effect="italics">72</emphasis>, 605–624.</para>
+  <para id="para-00004">Aranda-Martínez, P., Fernández-Martínez, J., Ramírez-Casas, Y., Guerra-Librero, A., Rodríguez-Santana, C., Escames, G., &amp; Acuña-Castroviejo, D. (2022). The zebrafish, an outstanding model for biomedical research in the field of melatonin and human diseases. <emphasis effect="italics">Int J Mol Sci</emphasis>, <emphasis effect="italics">23</emphasis>, 7438.</para>
+  <para id="para-00005">Cassone, V. M. (2014). Avian circadian organization: A chorus of clocks. <emphasis effect="italics">Frontiers in Neuroendocrinology</emphasis>, <emphasis effect="italics">35</emphasis>, 76–88.</para>
+  <para id="para-00006">Cassone, V. M., &amp; Menaker, M. (1984). Is the avian circadian system a neuroendocrine loop? <emphasis effect="italics">J Exp Zool</emphasis>, <emphasis effect="italics">232</emphasis>, 539–549.</para>
+  <para id="para-00007">Falcón, J., Besseau, L., Fuentès, M., Sauzet, S., Magnanou, E., &amp; Boeuf, G. (2009). Structural and functional evolution of the pineal melatonin system in vertebrates. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis>, <emphasis effect="italics">1163</emphasis>, 101–111.</para>
+  <para id="para-00008">Green, D. J., &amp; Gillette, R. (1982). Circadian rhythm of firing rate recorded from single cells in the rat suprachiasmatic brain slice. <emphasis effect="italics">Brain Res</emphasis>, <emphasis effect="italics">245</emphasis>, 198–200.</para>
+  <para id="para-00009">Loudon, A. S. (2012). Circadian biology: A 2.5 billion year old clock. <emphasis effect="italics">Curr Biol</emphasis>, <emphasis effect="italics">22</emphasis>, R570–571.</para>
+  <para id="para-00010">Menaker, M., Moreira, L. F., &amp; Tosini, G. (1997). Evolution of circadian organization in vertebrates. <emphasis effect="italics">Brazilian Journal of Medical and Biological Research</emphasis>, <emphasis effect="italics">30</emphasis>, 305–313.</para>
+  <para id="para-00011">Newman, G. C., &amp; Hospod, F. E. (1986). Rhythm of suprachiasmatic nucleus 2-deoxyglucose uptake in vitro. <emphasis effect="italics">Brain Res</emphasis>, <emphasis effect="italics">381</emphasis>, 345–350.</para>
+  <para id="para-00012">Olcese, J. M. (2020). Melatonin and female reproduction: An expanding universe. <emphasis effect="italics">Front Endocrinol (Lausanne)</emphasis>, <emphasis effect="italics">11</emphasis>, 85.</para>
+  <para id="para-00013">Phillips, N. H., &amp; Berger, R. J. (1992). Melatonin infusions restore sleep suppressed by continuous bright light in pigeons. <emphasis effect="italics">Neurosci Lett</emphasis>, <emphasis effect="italics">145</emphasis>, 217–220.</para>
+  <para id="para-00014">Ralph, M. R., Foster, R. G., Davis, F. C., &amp; Menaker, M. (1990). Transplanted suprachiasmatic nucleus determines circadian period. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">247</emphasis>, 975–978.</para>
+  <para id="para-00015">Silvani, M. I., Werder, R., &amp; Perret, C. (2022). The influence of blue light on sleep, performance and wellbeing in young adults: A systematic review. <emphasis effect="italics">Frontiers in Physiology</emphasis>, <emphasis effect="italics">13</emphasis>, 943108.</para>
+  <para id="para-00016">Silver, R., LeSauter, J., Tresco, P. A., &amp; Lehman, M. N. (1996). A diffusible coupling signal from the transplanted suprachiasmatic nucleus controlling circadian locomotor rhythms. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">382</emphasis>(6594), 810–813.</para>
+  <para id="para-00017">Tosini, G., Bertolucci, C., &amp; Foa, A. (2001). The circadian system of reptiles: A multioscillatory and multiphotoreceptive system. <emphasis effect="italics">Physiol Behav</emphasis>, <emphasis effect="italics">72</emphasis>, 461–471.</para>
+  </section>
+<section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> 
+<exercise id="exer-00001"> <problem id="prob-00001"> <para id="para-00018"><link class="os-embed" url="#exercise/Nickname"/></para> </problem> </exercise>
+</section>
+<section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title>
+<exercise id="exer-00002"> <problem id="prob-00002"> <para id="para-00019"><link class="os-embed" url="#exercise/Nickname"/></para> </problem> </exercise>
+</section>
+
   </content>
 </document>
