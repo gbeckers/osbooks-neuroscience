@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="splosh">
-      <title>FROGUE</title>
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch05-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption> Brain MRI highlighting the brain regions where functional and structural changes are prominent as a result of mistreatment. The pink areas are regions that mediate emotion and motivation. Blue areas support higher order functions such as working memory and attention. Image credit: Hart H and Rubia K (2012) Neuroimaging of child abuse: a critical review. Front. Hum. Neurosci. 6:52. doi: 10.3389/fnhum.2012.00052. CC BY 4.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
     <title>Briana E. Pinales, Victoria L. Castro PhD, and Anita M. Quintana PhD</title>
