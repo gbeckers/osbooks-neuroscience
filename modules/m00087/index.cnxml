@@ -7,6 +7,11 @@
   </metadata>
   <content class="introduction">
 
+    <note class="meet-author" id="note-00001">
+      <title>Name of Author Goes Here</title>
+          <para id="para-00003"><link url="https://openstax.org/r/Neuro#Author">Meet the author</link></para>
+    </note>
+
     <para id="para-00001">For most people, vision is not only their most important sense, it is the sensory system that defines the world around them. If we weren’t such visual animals, humans wouldn’t move easily through the space around us, recognize other people, identify familiar objects, and do numerous other tasks that seem effortless. Movies and videos wouldn’t be persuasive representations of the world. Our visual system acts so immediately and fluently that it is difficult for us to realize that constructing the visual world is an extremely difficult task that our brain accomplishes through multiple steps that begin in the eye and continue in major regions of the cerebral cortex. Our goal in this chapter will be to follow those steps, beginning in the retina and proceeding through the primary visual cortex and adjacent areas in the occipital lobe, and continuing in the inferotemporal cortex. We will first encounter photoreceptors in the retina, specialized neural cells that catch light energy, and we will end with cortical neurons that respond to faces, places, and complex visual shapes.</para>
 
     <para id="para-00002">An analogy can help us see how unlikely vision would seem to us if we didn’t have a sophisticated visual system ourselves. In the 1940s, scientists discovered how bats could fly freely in the dark and catch flying insects without using vision. The bats use echolocation: they emit ultrasonic screeches and then detect the echoes of sounds reflected from tree branches and their insect prey. It’s hard to imagine what it might be like to perceive surroundings through echolocation, but our vision does something similar. The sun or artificial sources flood our surroundings with light, and we detect reflections of that light from the surfaces around us. Our brain processes that sensory information to construct a mental image of the world – something we might not believe could be done if we didn’t do it ourselves.</para>
