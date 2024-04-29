@@ -10,11 +10,83 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, students will be able to:</para>
       <list id="list-00001">
-        <item/>
-        <item/>
+        <item>Describe several open questions about how visual perception is derived from visual sensory information</item>
+        <item>Define the major difference between top-down versus bottom-up processing in visual perception</item>
+        <item>Describe what a grandmother cell is</item>
       </list>
     </section>
 
-    <para id="para-00002">temp</para>
+    <para id="para-00002">Starting with the discovery in the 1950s of the center-surround receptive fields of retinal ganglion cells, it became clear that visual processing in the eye and brain starts with the detection of edges. The edges can be between areas of different brightness (luminance differences) or spectral composition (color differences). V1 neurons extend the detection of edges by responding selectively to straight edges at particular angles. Subsequent extrastriate and IT areas respond to more complex optimal stimuli, such as images of specific objects or body parts or faces. Intermediate visual areas may extract features such as the direction and speed of movement, or stimulus color. These stages of visual processing are now well known, but there are still many unanswered questions about how they lead to conscious visual perception. This section will discuss a few aspects of vision and visual perception that remain poorly understood today.</para>
+
+    <section id="sect-00002"><title>The Binding Problem</title>
+      <para id="para-00003">Any visual image elicits simultaneous responses from millions of neurons in V1 and the extrastriate areas that respond to aspects of the stimulus. For example, a bluebird flying across the sky will activate color-selective neurons in V1, V2, and V4 corresponding to the bird’s color. The bird’s motion will activate movement-selective neurons in MT. Other objects in the visual scene will activate other neurons in visual cortical areas. If many visual neurons are firing simultaneously to multiple components of the image, how are the ones activated by the bluebird identified as belonging together? This is the <term id="term-00001">binding problem</term>, the need to link activity in different neurons that are stimulated by the same stimulus object. We assume that the activity of these neurons is somehow combined to generate our perception of that object, but how?</para>
+    
+    <para id="para-00004">One suggested mechanism for binding responses is rhythmic firing, where the timing of synchronous action potentials identifies neurons that are responding to a particular stimulus. Where and how that synchrony would be detected, and where conscious perception is ultimately localized, remain unanswered questions, and synchrony as the answer to the binding problem remains controversial.</para>
+    </section>
+
+    <section id="sect-00003"><title>Top-Down Processing</title><para id="para-00005"><link target-id="Image-6.42"/> is a famous picture, a high-contrast assortment of shapes and splotches that leads most people to perceive a spotted dog in leafy shade.</para>
+      <figure id="Image-6.42">
+        <media alt="Black and white image of assortment of shapes and splotches that leads most people to perceive a spotted dog in leafy shade. The image is also reproduced with the dog outlined in red. Image credit: Favela, L.H.; Amon, M.J. Enhancing Bayesian Approaches in the Cognitive and Neural Sciences via Complex Dynamical Systems Theory. Dynamics 2023, 3, 115-136. https://doi.org/10.3390/dynamics3010008. CC BY 4.0">
+          <image mime-type="image/png" src="../../media/Image-6.42_Top-down-processing.png"/>
+        </media>
+      </figure>
+      <para id="para-00006">It seems inconceivable that seeing the dog could be accomplished just from the activity of V1 neurons responding to the components of the image that fall within their receptive fields. That would be a “<term id="term-00002">bottom-up</term>” approach, where elements of the image are combined in successive stages of cortical processing to generate the perception of the object. Instead, some prior knowledge of the shape of a dog seems necessary for organizing the elements of the scene. That would be a “<term id="term-00003">top-down</term>” contribution to visual perception.</para>
+
+      <para id="para-00007">Computer scientists working on automatic image interpretation have described top-down processing as “hallucinating” the scene and then calculating how well the actual elements match the “hallucinated” image. After revising the imagined scene in areas where the match is poor, the calculation would repeat until a good match is found. Our visual system may work in a somewhat similar way. Bottom-up processing detects edges and activates neurons in V1 and extrastriate cortex, but top-down processing organizes the edges that are detected in the lower visual areas.</para>
+
+      <para id="para-00008">Visual illusions further support the existence of top-down organization of the elements of a scene. The image on the left of <link target-id="Image-6.43"/> is either a white vase or profiles of two faces. We can instantly switch from one perception to the other, indicating that although the elements of the image falling on the retina that elicit bottom-up activity are unchanged, a top-down process determines how the components are grouped and perceived. Other visual illusions and ambiguous images support the same point.</para>
+      <figure id="Image-6.43">
+        <media alt="Left is a black and white drawing that can be perceived as a white vase on black background or black profiles of two faces on white background. Right is a black and white drawing that can be perceived as a young woman looking away and to the back or an old woman looking forward and to the side. Image credit: Face-vase by Ian Remsen - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=128282152; Woman by W. E. Hill - „Puck“, 6. Nov 1915, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3836554">
+          <image mime-type="image/png" src="../../media/Image-6.43_Visual-perception.png"/>
+        </media>
+      </figure>
+      <note class="boxed-feature" id="note-00001">
+        <title>Neuroscience in the lab: Top-Down Processing and Visual Attention</title>
+        <para id="para-00009">Another top-down process that affects perception is visual attention. Paying attention to one aspect of an image can enhance the activity of the neurons that respond to that aspect. A famous experiment measured the fMRI signals in people from temporal lobe brain regions that are known to respond selectively to faces or houses. As mentioned in the discussion of face-selective neurons in <link document="m00092"/>, the fusiform face area (FFA) is active when a person views faces, but the FFA is not responsive to images of houses. Houses, in turn, enhance activity in the parahippocampal place area (PPA), but that area does not respond to faces.</para>
+
+        <para id="para-00010">In the experiment, subjects were placed in a scanner to record fMRI signals from the FFA and PPA while they viewed an image that superimposed a face and a house. In a series of trials, the subjects were instructed to pay attention to either the house or the face, and then after a short period of time, to switch their attention to the other component of the double image. As shown in <link target-id="Image-6.47"/>, when attention was directed to the face, the FFA was more active, while the PPA increased its activity when attending to the house. The important implication is that although the image on the retina was always the same and thus bottom-up processes would be the same, neurons in the visual processing pathway did change their activity. They were being modulated by a top-down process, in this case attention. <link document="">Attention and Executive Function</link></para>
+      </note>
+      <figure id="Image-6.47">
+        <media alt="Top left shows an example photo of a face and house, superimposed one on top of the other. Top right shows diagram of a participant looking at a computer screen with a face/house stimulus on it, as described in the main text. Participants viewed overlapping images on a computer screen while in an fMRI scanner. On some trials, they attended to the faces, while on others, they attended to the houses. Bottom shows bar graph showing FFA activity was greater when the participant attended to the faces as opposed to the houses and PPA activity showed greater activity when the participant attended to the houses as opposed to the faces. A diagram of the ventral side of a human brain with PPA and FFA highlighted on the bottom sides of the temporal lobes (PPA medial to FFA) is also shown. Image credit: Face-house image from: Keizer, A.W., Nieuwenhuis, S., Colzato, L.S. et al. When moving faces activate the house area: an fMRI study of object-file retrieval. Behav Brain Funct 4, 50 (2008). https://doi.org/10.1186/1744-9081-4-50 CC BY 2.0">
+          <image mime-type="image/png" src="../../media/Image-6.47_Attention-provides-top-down-modulation-of-activity-in-visual-areas.png"/>
+        </media>
+      </figure>
+      <para id="para-00011">These examples make it clear that top-down processes influence the activity of neurons in visual areas, and thus that visual perception cannot be an exclusively bottom-up process. Other experiments recording from individual neurons in lower visual areas also show that their firing rates are modulated by activity in higher visual areas. Extensive axonal feedback connections from higher to lower areas offer an anatomical pathway for top-down modulation. However, how top-down processes modulate lower visual areas to contribute to visual perception is not generally known. Progress has been made, but this remains a largely unsolved puzzle in visual perception.</para>
+    </section>
+<section id="sect-00004"><title>Grandmother Cells</title>
+  <para id="para-00012">The first stages of visual processing suggest that activity <term id="term-00004">converges</term> from one stage to the next. Axons from multiple LGN neurons converge to create the receptive fields of individual simple cells. Activity from multiple simple cells excites single complex cells, and so on. Very large receptive fields in extrastriate and IT cortex suggest the convergence of signals from earlier neurons that have small receptive fields. How high could this convergence reach? Could there be advanced neurons with extremely selective responses that combine visual and possibly other information? This idea was proposed, not seriously, as the existence of “<term id="term-00005">grandmother cells</term>”: cells that would respond to any view of your grandmother, and by extension, other neurons that would respond uniquely to other specific people or objects.</para>
+
+  <para id="para-00013">Although the term was presented mockingly, recordings of hippocampal neurons from a person undergoing brain surgery for epilepsy did reveal a neuron that seemed to respond to images and also the written name of a well-known actress, Jennifer Aniston (Quiroga et al., 2005). This opened two questions: first, could recognition depend on single neurons responsible for identifying a particular stimulus, and second, could neurons represent not just a visual image, but also other information about the subject?</para>
+
+  <para id="para-00014">The first possibility, that single neurons are responsible for recognizing an image, seems unlikely. Any visual stimulus evokes activity in an <term id="term-00006">ensemble</term> of hundreds or thousands of neurons, even at high levels. Similar visual stimuli would activate overlapping but distinct ensembles. There is no indication that potential loss of a single neuron suddenly eliminates recognition of a particular object. Loss of neurons does occur from strokes, for example, and the loss does eliminate function. <term id="term-00007">Prosopagnosia</term> is a neurological deficit where the patient no longer recognizes faces, but it involves the loss of whole regions of neurons and problems with many faces.</para>
+
+  <para id="para-00015">The second idea, that ensembles of neurons might encode information associated with a visual stimulus, seems more likely. “<term id="term-00008">Gnostic neurons</term>” have been proposed, and the neuron that responded to Jennifer Aniston’s image and written name seems to be an example of a gnostic neuron. It’s clear that our brains somehow generate our unified conscious experience, but like other aspects of consciousness, the later stages of visual perception remain an unsolved and challenging puzzle.</para></section>
+
+  <section class="section-summary" id="sect-00005">
+    <title>Summary</title>
+    <para id="para-00016">Although the first stages of visual perception seem to be well understood, beginning in the retina and proceeding in steps though V1 and extrastriate cortex, and continuing into IT, the final stages of perception remain a mystery. One problem is how responses to a particular object, activating neurons in many different visual areas, are grouped to identify that object and not other objects in the scene. One theory involves the timing of action potentials, where rhythmic firing or synchrony may establish connections for each object, but this idea remains controversial. Another problem is how small components within a scene are organized into the perception of the full object, a process that seems to require prior knowledge of the object's shape. This suggests a role for top-down processing. One clear example of top-down modulation of earlier neural activity is visual attention, which organizes bottom-up components into a perceived scene. A bottom-up issue is converging activity, where many neurons with small receptive fields activate the next level of neurons with larger receptive fields, raising the question of how much convergence ultimately occurs. Could there be single neurons responsible for perceiving a particular object, so-called "grandmother cells" responsible for perceiving your grandmother? It seems much more likely that any particular object activates an ensemble of neurons, with different but possibly overlapping ensembles for other objects. These many open questions indicate that the final stages of visual processing are still an unsolved puzzle.</para>
+  </section>
+  
+  <section class="key-terms" id="sect-00006">
+    <title>Key Terms</title>
+    <list display="inline" id="list-00002">
+      <item>binding problem</item>
+      <item>“bottom-up” vs “top down”</item>
+      <item>convergence</item>
+      <item>grandmother cells</item>
+      <item>ensemble</item>
+      <item>prosopagnosia</item>
+      <item>gnostic neurons</item>
+    </list>
+  </section>
+  <section class="references" id="sect-00007">
+    <title>References</title>
+    <para id="para-00017">Barwich, A.-S. (2019). The value of failure in science: The story of grandmother cells in neuroscience. <emphasis effect="italics">Front. Neurosci.</emphasis>, <emphasis effect="italics">13</emphasis>, 1121. <emphasis effect="italics">https://doi.org/10.3389/fnins.2019.01121</emphasis></para>
+    <para id="para-00018">Conway, B. R. (2018). The organization and operation of inferior temporal cortex. <emphasis effect="italics">Annu. Rev. Vis. Sci.</emphasis>, <emphasis effect="italics">4</emphasis>, 381–402.</para>
+    <para id="para-00019">Gross, C. G. (2008). Single neuron studies of inferior temporal cortex. <emphasis effect="italics">Neuropsychologia</emphasis>, <emphasis effect="italics">46</emphasis>, 841–852.</para>
+    <para id="para-00020">Hesse, J. K., &amp; Tsao, D. Y. (2020). The macaque face patch system: A turtle’s underbelly for the brain. <emphasis effect="italics">Nature Rev. Neurosci.</emphasis>, <emphasis effect="italics">21</emphasis>, 695–716.</para>
+    <para id="para-00021">Lafer-Sousa, R., &amp; Conway, B. R. (2013). Parallel, multi-stage processing of colors, faces and shapes in macaque inferior temporal cortex. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">16</emphasis>, 1870–1878.</para>
+    <para id="para-00022">Quiroga, R., Reddy, L., Kreiman, G., et al. (2005). Invariant visual representation by single neurons in the human brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">435</emphasis>, 1102–1107. <emphasis effect="italics">https://doi.org/10.1038/nature03687</emphasis></para>
+  </section>
   </content>
 </document>
