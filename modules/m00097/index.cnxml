@@ -10,12 +10,34 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section you should be able to</para>
         <list id="list-00001">
-          <item>Lorem ipsum dolor sit amet.</item>
-          <item>Consectetur adipiscing elit.</item>
+          <item>Describe several theories to explain why we sleep.</item>
+          <item>Differentiate between the different stages of sleep.</item>
+          <item>Differentiate between circadian and homeostatic regulation of sleep.</item>
+          <item>List several ways in which disruption of sleep (shift work, light at night) impacts human health.</item>
         </list>
     </section>
-    <section class="section-summary" id="sect-00002"> <title>Summary</title> <para id="para-00002">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</para> </section>
-<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002"><item/></list> </section>
+    <section class="section-summary" id="sect-00002"> <title>Summary</title> <para id="para-00002">There are several overlapping hypotheses for why sleep exists including energy conservation, restoration of energy, and aiding growth and development. Sleep can be measured in the lab using a PSG which detects changes in the phases of sleep. There are non-REM (3 stages) and REM sleep stages that are differentiated by different types of brain wave activity patterns.  The flip flop model of sleep-promoting neurons in the VLPO have a mutual inhibition with wake promoting cell populations in the brainstem and hypothalamus. This is referred to as a flip flop switch and is maintained in part by a variety of neurotransmitters including acetylcholine, norepinephrine, serotonin and GABA. Finally, there are sex differences in sleep that may be influenced in part by circulating hormones.</para> </section>
+<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002">
+  <item>Process C</item>
+  <item>Process S</item>
+  <item>homeostatic</item>
+  <item>glymphatic system</item>
+  <item>Polysomnography</item>
+  <item>electroencephalography</item>
+  <item>electrooculography</item>
+  <item>Rapid Eye Movement Sleep (REM)</item>
+  <item>electromyography</item>
+  <item>non-REM (NREM)</item>
+  <item>Stage 1 non-REM</item>
+  <item>Stage 2 non-REM</item>
+  <item>Stage 3 non-REM</item>
+  <item>sleep spindles</item>
+  <item>delta sleep</item>
+  <item>slow wave sleep</item>
+  <item>delta waves</item>
+  <item>flip flop switch</item>
+  <item>insomnia</item>
+  </list> </section>
 <section class="references" id="sect-00004"> <title>References</title>
   <para id="para-00003">Albrecht, U., &amp; Ripperger, J. A. (2018). Circadian clocks and sleep: Impact of rhythmic metabolism and waste clearance on the brain. <emphasis effect="italics">Trends Neurosci.</emphasis>, <emphasis effect="italics">41</emphasis>(10), 677–688.</para>
   <para id="para-00004">Baker, F. C., &amp; Driver, H. S. (2007). Circadian rhythms, sleep, and the menstrual cycle. <emphasis effect="italics">Sleep Med</emphasis>, <emphasis effect="italics">8</emphasis>, 613–622.</para>
