@@ -61,7 +61,7 @@
     <figure id="Image-15.16">
       <media alt="Diagram of connections in human with an eye and sagittal section of human brain/SCN. From the eye, ipRGC axons release glutamate and PACA on the SCN. SCN also gets inputs from intergeniculate leaflet of the thalamus (NPY) in the middle of the brain and raphe nuclei (5HT) in the brain stem. ipRGCs also send input to intergeniculate leaflet of the thalamus.">
         <image mime-type="image/png" src="../../media/Image-15.16_Inputs-to-the-SCN.png"/>
-      </media>
+      </media><caption>The SCN receives several modulating inputs which contribute to entraining its activity to cues.</caption>
     </figure>
     
     <para id="para-00030">When light shines on the eyes, this pathway releases glutamate and pituitary adenylate cyclase-activated peptide (PACAP) into the SCN, producing an excitatory response. The influence of this input is modulated by a variety of neuropeptides and other signaling molecules, and its effects on circadian clock function vary with the time of day. The destruction of this pathway renders the circadian clock unable to entrain to light/dark cycles. However, the clock still runs as long as the SCN remains intact, with a period that reflects its own internal rhythm.</para>
