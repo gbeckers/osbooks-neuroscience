@@ -32,7 +32,7 @@
       <figure id="Image-6.45">
         <media alt="Microcopy image of a cross-section of retina at the fovea. The layers of cell bodies that align stacked in front of the photoreceptor layer are seen to be pushed to the sides in the center, leaving the photoreceptors directly exposed to the direction from which light would come.">
           <image mime-type="image/png" src="../../media/Image-6.45_Fovea-structure.png"/>
-        </media>
+        </media><caption>In the fovea, inner layers are pushed aside so light can hit photoreceptors directly.</caption>
       </figure></section>
 
 <section id="sect-00005"><title>Rods and Cones Capture Photons of Light</title>
@@ -76,9 +76,9 @@
         <para id="para-00021">Rhodopsin, the visual pigment that catches photons and begins the process of phototransduction, is found in rods (“rod opsin”), but our retinas have three other visual pigments found in three types of cones. These pigments differ slightly in their opsin protein but work in similar ways. The different opsins give the pigments different absorption spectra, making them effective in catching photons at different peak wavelengths. <link target-id="Image-6.44"/> shows the peak absorbance for the 4 major visual pigments found in human photoreceptors. For example, rhodopsin in rods has its absorption peak at 498 nm, in the middle of the spectrum, while the three cone pigments have peaks in the <term id="term-00012">short</term> wavelengths (<term id="term-00013">S</term> or “blue cones,” peak at 420 nm), <term id="term-00014">middle</term> wavelengths (<term id="term-00015">M</term> or green cones, 534 nm), or <term id="term-00016">long</term> wavelengths (<term id="term-00017">L</term> or red cones, 564 nm). The middle and long wavelength pigments differ only slightly because they diverged only recently in evolution, giving humans and old-world monkeys three cone types. Most mammals such as dogs, cats and new-world monkeys have only two types of cones, one for short wavelengths (blue) and one for long wavelengths (yellow). Thus, the color vision of most mammals is different from ours, and your pet dog or cat does not see colors the same way you do.</para>
 
         <figure id="Image-6.44">
-          <media alt="A line graph of normalized absorbance (y-axis) versus wavelength (~400-700 nm, x-axis). Curve for blue (short) cones peak at just over 400 nm. Curve for green (medium) cones peaks around 550 nm. Curve for red (long) cones peaks at just under 600 nm. Curve for rods peaks around 500 nm. Image credit: Image by OpenStax College - Anatomy &amp; Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/">
-            <image mime-type="image/png" src="../../media/Image-6.44_Absorption-spectra-of-the-four-visual-pigments-in-the-human-eye.png"/>
-          </media>
+          <media alt="A line graph of normalized absorbance (y-axis) versus wavelength (~400-700 nm, x-axis). Curve for blue (short) cones peak at just over 400 nm. Curve for green (medium) cones peaks around 550 nm. Curve for red (long) cones peaks at just under 600 nm. Curve for rods peaks around 500 nm.">
+        <image mime-type="image/png" src="../../media/Image-6.44_Absorption-spectra-of-the-four-visual-pigments-in-the-human-eye.png"/></media>
+              <caption>Three visual pigments in three kinds of cones underpin our trivariant color vision. Image credit: Image by OpenStax College - Anatomy &amp; Physiology</caption>
         </figure>
 
         <para id="para-00022">Although each absorption spectrum indicates that a single pigment can catch photons in a range of wavelengths, one pigment cannot distinguish between a small number of photons at the pigment’s best wavelength and many photons at a wavelength that the pigment does not absorb well. Both stimuli could result in the same total number of photons being caught, and any photon that is caught initiates phototransduction in the same way. (<link target-id="Image-6.38"/>)</para>
