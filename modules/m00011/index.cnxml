@@ -8,9 +8,9 @@
   <content class="introduction">
     <figure class="splash" id="sploish">
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch02-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Puffer fish collaborate with bacteria to produce tetrodotoxin (TTX), a neurotoxin that clogs the inactivating voltage-gated Na<sup>+</sup> channels responsible for the rising phase of an action potential. Image credit: amandarichard421 on flickr CC BY 2.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Robert J. Calin-Jageman</title>
