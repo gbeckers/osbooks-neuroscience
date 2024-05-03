@@ -86,8 +86,7 @@
         </figure>
 
         <table summary="Skin location and adaptation for each of the four touch receptors." id="table-00002">
-          <title>Optional Title</title>
-          <tgroup cols="5">
+                <tgroup cols="5">
           <thead>
             <row>
               <entry/>
