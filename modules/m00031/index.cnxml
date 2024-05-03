@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="splosh">
-      <title>FROGUE</title>
-      <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      <media alt="Individual dots represent individual cells isolated from post-mortem motor cortex of humans (left) and marmoset monkeys (right). Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome). There are more than a dozen clusters, each with a unique color, in a cloud-like array.">
+        <image mime-type="image/jpg" src="../../media/ch04-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Example of single cell RNAseq from human and marmoset brains. Individual dots represent individual cells isolated from post-mortem motor cortex of humans or marmoset monkeys. Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome).</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Christine J. Charvet</title>
