@@ -9,9 +9,10 @@
     <figure class="splash" id="fig-00001">
     <title>Optional Title</title>
     <media alt="Insert Alt Text">
-      <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      <image mime-type="image/jpg" src="../../media/ch17-splash.jpg"/>
     </media>
-    <caption>Insert Caption Here</caption>
+    <caption>Microglia have elaborate processes that they use to scan the environment. Image credit: NIH Image Gallery from Bethesda,
+      Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
   </figure>
   <note class="meet-author" id="note-00001">
     <title>S. D. Bilbo, PhD</title>

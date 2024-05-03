@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-      <title>Optional Title</title>
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch08-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Flattened and thin squamous epithelial cells are found inside cavities and ducts, including the mouth and nose. Image credit: Berkshire Community College  Bioscience Image Library, CC0, via Wikimedia Commons</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Cecil J. Saunders and Joseph D. Zak</title>

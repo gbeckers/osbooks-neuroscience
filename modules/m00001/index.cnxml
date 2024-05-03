@@ -8,11 +8,10 @@
   <content class="introduction">
 
     <figure class="splash" id="splosh">
-      <title>FROGUE</title>
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch07-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Scanning electron microscopy (SEM) images of mouse outer hair cell stereocilia are pseudocolored to highlight the rows of cilia.</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>C. Daniel Meliza, PhD</title>

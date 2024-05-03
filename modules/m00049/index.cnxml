@@ -7,12 +7,9 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-      <title>Optional Title</title>
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
-      </media>
-      <caption>Insert Caption Here</caption>
-    </figure>
+        <image mime-type="image/jpg" src="../../media/ch14-splash.jpg"/>
+      </media>    </figure>
     <note class="meet-author" id="note-00001">
       <title>Shivon A. Robinson, PhD</title>
       <para id="para-00001"><link url="https://openstax.org/r/Neuro14Author">Meet the Author</link></para>

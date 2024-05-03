@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-    <title>Optional Title</title>
     <media alt="Insert Alt Text">
-      <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      <image mime-type="image/jpg" src="../../media/ch18-splash.jpg"/>
     </media>
-    <caption>Insert Caption Here</caption>
+    <caption>Interictal epileptiform discharges (IED) show up via EEG as a generalized 3 Hz signal. Image credit: Bromfield EB, Cavazos JE, Sirven JI, editors., CC BY-SA 4.0, via Wikimedia Commons</caption>
   </figure>
   <note class="meet-author" id="note-00001">
     <title>Amy L. Griffin, Ph.D.</title>

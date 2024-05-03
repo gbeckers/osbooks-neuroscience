@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-      <title>Optional Title</title>
       <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch16-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Ectotherms, like lizards and amphibians, must get heat primarily from their environment.</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Matt Carter, Ph.D.</title>

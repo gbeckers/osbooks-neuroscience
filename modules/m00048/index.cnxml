@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-      <title>Optional Title</title>
-      <media alt="Insert Alt Text">
-        <image mime-type="image/jpg" src="../../media/frogue.jpg"/>
+      <media alt="Body outlines with color coding to reveal blood flow concentrations in different regions, categorized according to emotion.">
+        <image mime-type="image/jpg" src="../../media/ch13-splash.jpg"/>
       </media>
-      <caption>Insert Caption Here</caption>
+      <caption>Image credit: Mummenmaa et al., 2014. "Bodily maps of emotions." Proceedings of the National Academy of Sciences 111 (2) 646-651; DOI: 10.1073/pnas.1321664111. (c)  National Academy of Sciences.</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Cedric L. Williams, PhD</title>
