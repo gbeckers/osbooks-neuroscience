@@ -163,7 +163,7 @@
     </media>
   </figure>
   <para id="para-00034">Unlike pumps, ion channels are passive. Any ion that fits through an ion channel is “free” to move through it in either direction. The channel does not add any “push” or use energy to direct the flow of ions. Instead, ion movement through channels is determined purely by the pressures operating on that ion (diffusion and electrostatic force). <link target-id="Image-2.23"/> gives a summary comparison between pumps and channels.</para>
-  <table id="Image-2.23" summary="Insert Alt Text">
+  <table id="Image-2.23" summary="A summary comparison between ion pumps and ion channels.">
     <tgroup cols="3">
     <thead>
       <row>
@@ -210,7 +210,7 @@
   <section id="sect-00008"><title>Ionic Currents and Equilibrium Potentials</title>
   <para id="para-00038">Pumps create concentration gradients that act like chemical batteries, storing up pressures of diffusion for Na<sup>+</sup>, Ca<sup>2+</sup>, and Cl<sup>–</sup> to enter neurons and K<sup>+</sup> to leave. What happens when an ion channel is open, providing a pathway to release that pressure? We get a current, the flow of ions into or out of a neuron. This current charges the neuron, changing its membrane potential.</para>
   <para id="para-00039">Let’s think about this in detail (<link target-id="Image-2.21"/>).</para>
-  <table id="Image-2.21" summary="Insert Alt Text" frame="none" colsep="0" rowsep="0">
+  <table id="Image-2.21" summary="A detailed consideration of ionic currents and equilibrium potentials." frame="none" colsep="0" rowsep="0">
     <tgroup cols="3">
 
     <tbody>

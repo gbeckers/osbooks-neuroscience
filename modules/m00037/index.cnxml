@@ -37,7 +37,7 @@
     
     <para id="para-00009">The basic process of RNA sequencing is shown in <link target-id="Image-4.14"/>.</para>
     <figure id="Image-4.14">
-      <media alt="Alt text: A diagram of the steps in RNA sequencing. 1) Isolate RNA from samples. 2) Fragment RNA into short segments. 3) Convert RNA fragments into cDNA. 4) Ligate sequencing adapters and amplify. 5) Perform NGS sequencing. 6) Mao sequencing reads to the transcriptome/genome.">
+      <media alt="A diagram of the steps in RNA sequencing. 1) Isolate RNA from samples. 2) Fragment RNA into short segments. 3) Convert RNA fragments into cDNA. 4) Ligate sequencing adapters and amplify. 5) Perform NGS sequencing. 6) Mao sequencing reads to the transcriptome/genome.">
         <image mime-type="image/png" src="../../media/Image-4.14_Sequencing-technologies_RNAseq.png"/>
       </media>
     </figure>    
