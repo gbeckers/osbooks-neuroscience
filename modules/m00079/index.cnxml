@@ -18,7 +18,7 @@
     <section id="sect-00002">
       <title>Definition of stress</title>
       <para id="para-00003">Most of us will never encounter a mountain lion, but we have all experienced stressful situations or the feeling of being ‘stressed out’. Take a moment to think about a stressful situation you have experienced. How did it make you feel (physically, emotionally, cognitively)? (See <link target-id="Image-12.13"/>.) Because stress is ‘personal’ (i.e., a subjective experience), it can mean different things to different people. In order to study it from a biological perspective, however, we need a scientifically tractable definition to start from.</para>
-      <figure id="Image-12.13">
+      <figure id="Image-12.13"><title>Stress associations</title>
         <media alt="A word cloud showing common word responses of UC Berkeley students to “What does stress mean to you?” The five largest words are School, cortisol, anxiety, work, sleep.">
           <image mime-type="image/png" src="../../media/Image-12.13_Stress-associations.png"/>
         </media><caption>"What does stress mean to you?" This word cloud shows responses of UC Berkeley students.</caption>
@@ -42,7 +42,7 @@
       <section id="sect-00005">
         <title>12.1.1.3: Functions that support the stress response</title>
         <para id="para-00011">The stress response orchestrates all body systems so that they are primed and optimized to deal with the emergency situation at hand, many of which are diagrammed in <link target-id="Image-12.25"/></para>
-        <figure id="Image-12.25">
+        <figure id="Image-12.25"><title>Major adaptive mody responses to stress</title>
           <media alt="Diagram of a human body, showing brain, eye, lung, heart, most of the gastrointestinal system, blood vessels and muscles. Functions going up: attention and vigilance, pupil dilation, breathing, blood pressure and heart rate, blood sugar and fat, vessel constriction, contraction strength (trembling). Functions going down: saliva production, digestion, filtration (kidneys), food movement, reproduction.">
             <image mime-type="image/png" src="../../media/Image-12.25_Major-adaptive-body-responses-to-stress.png"/>
           </media>
@@ -121,7 +121,7 @@
         <title>Inverted-U nature of the stress response</title>
         <para id="para-00020">It turns out that some amount of stress is actually good and can enhance performance in the same domains where too much stress is detrimental (memory and executive function, for example). This type of relationship where increasing amounts of some factor (stress in our case) results first in an increase and then a decrease of a second factor (performance for example) is referred to as an inverted-U relationship (<link url="https://openstax.org/r/Neuro12YerkesDodson">Yerkes-Dodson law</link>). <link target-id="Image-12.03"/> shows a typical <term id="term-00018">inverted-U curve</term> with increasing stress (stress/stimulation) on the x-axis and some measure of behavioral performance (e.g., memory function, decision-making, learning, playing an instrument, etc.) on the y-axis.</para>
 
-        <figure id="Image-12.03">
+        <figure id="Image-12.03"><title>Inverted U nature of the stress response</title>
           <media alt="A line graph with y axis “behavioral performance” from low to high and x-axis “stress/stimulation” from too little to too much. An inverted U curve is plotted. At too little stress, symptoms listed are impaired attention, boredom, confusion, apathy. In the middle, at the peak of the U, is eustress with symptoms focused attention, emotional regulation, rational thinking. At too much stress is distress, with symptoms of impaired memory, burn out, impaired executive functions.">
             <image mime-type="image/png" src="../../media/Image-12.03_Inverted-U-nature-of-the-stress-response.png"/>
           </media>
@@ -156,7 +156,7 @@
         <para id="para-00030">Research on the effects of stress in humans is largely correlational - that is, an investigator studies the relationship between two variables (for example, exposure to a traumatic stressor and the development of PTSD), as opposed to actually manipulating one of the variables. In these correlational designs, study participants are typically individuals with extreme exposure to stress or trauma (e.g., individuals that were in a severe car accident, experienced sexual abuse, participated in combat, experienced childhood maltreatment). Researchers use a cross-sectional study design, comparing those who experienced the extreme stressor(s) to a control group with similar demographics in order to understand the effects of stress exposure on different outcome variables. When studying stress-related pathologies, like anxiety, depression or PTSD, study participants will be individuals that meet the clinical criteria for diagnosis of those disorders and controls will be age and sex matched people who do not meet diagnostic criteria.</para>
         <para id="para-00031">We can also study stress in humans in a laboratory setting where subjects are exposed to a stressful setting, and consequently, a stress response is induced. This design allows for better control over timing. This type of study is not correlational in nature as it involves manipulation of one of the variables, i.e., the stressor. For example, you can induce stress and then measure the dynamics of stress hormone concentration rising, and then resolving to baseline. The most common protocols are tasks that involve public speaking or scenarios that involve unpleasant social interactions. For example, a scenario using a virtual ball game where the study participant is purposely excluded (the ball is not passed to them). A widely used human laboratory stressor which reliably induces a stress response was developed at the University of Trier (Germany). It’s called the Trier Social Stress Test (TSST). It combines elements of anticipatory stress, public speaking and performing mental mathematics before a panel of judges (<link target-id="Image-12.14"/>).</para>
 
-        <figure id="Image-12.14">
+        <figure id="Image-12.14"><title>Trier social stress test</title>
           <media alt="Cartoon of a person sitting in front of a panel of displeased-looking people with a camera, a representation of the TSST, a psychosocial human laboratory stressor that reliably elicits a stress response.">
             <image mime-type="image/png" src="../../media/Image-12.14_Trier-social-stress-test.png"/>
           </media>
@@ -169,7 +169,7 @@
       <title>Animal models of stress</title>
       <para id="para-00033">Animal models enable us to study the molecular, cellular and physiological mechanisms underlying the body’s response to stress. The stress response is conserved throughout evolution, and a similar response can be measured across taxa. This similarity across species has enabled the development of a variety of different <term id="term-00023">animal models</term> (monkeys, apes, chinchillas, mice, rats, fruit-flies, zebrafish) to examine stress-related effects through laboratory interventions and field studies. Lab studies take advantage of the fact that variables like timing and severity of the stressor, as well as environmental conditions (nutrition, type of housing, temperature, humidity, light-dark cycle, etc.) can be controlled. Other advantages to using lab-based models is that the responses to stress can frequently be measured before and after a stressor in the same animal, and genetics and life history of individual animals are controlled for. Most stressors currently in use are social/psychological in nature and reflect the types of stressors most relevant to humans. Rodents are a widely used animal model and the following sections will focus on them. <link target-id="Image-12.26"/> diagrams some of the common stress models in rodents that we will discuss below. </para>
 
-      <figure id="Image-12.26">
+      <figure id="Image-12.26"><title>Stressor models in rodents</title>
         <media alt="Cartoons of common stress models. Social stress: isolation (mouse in a cage alone) and social defeat (smaller mouse fighting larger mouse then sitting in a cage right next to the bigger mouse. Psychological stressors: restraint (mouse in a close fitting clear tube). Physical stressors: Tail shock (mouse in a tube getting a shock), forced swim (mouse swimming in a cylinder half filled with water).">
           <image mime-type="image/png" src="../../media/Image-12.26_Stressor-models-in-rodents.png"/>
         </media>
@@ -200,7 +200,7 @@
     <para id="para-00041">To model stress-related pathologies, such as anxiety or depression in rodents, selected stressors are generally either psychological or social. In addition, we need behavioral assays that can capture and allow us to quantify different aspects or symptoms of the disorder. Social defeat stress (SDS) is a relevant social/psychological stressor which reliably elicits depressive-like symptoms in rodents.</para>
     <para id="para-00042">What does depression look like when you’re a mouse? <link target-id="Image-12.27"/> shows several common assays we use for behaviors that we interpret as relevant to core features of depression.</para>
 
-    <figure id="Image-12.27">
+    <figure id="Image-12.27"><title>Depression assays in rodents</title>
       <media alt="Diagram of behavioral assays for depression. In the sucrose preference test, loss of preference for sugar water versus regular water is interpreted as a sign of anhedonia. Mouse is shown with 2 water bottles to choose from. In the tail suspension test, time spent immobile is interpreted as a sign of behavioral despair. Mouse is shown suspended by its tail from a rod. In the forced swim test, time spent immobile is interpreted as a sign of behavioral despair. Mouse is shown swimming in a cylinder half filled with water.">
         <image mime-type="image/png" src="../../media/Image-12.27_Depression-assays-in-rodents.png"/>
       </media>

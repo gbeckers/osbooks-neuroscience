@@ -18,7 +18,7 @@
     </section>
     <para id="para-00020">Where in the body is the biological clock that regulates circadian rhythmicity? As we have described in the previous section, nearly all organisms possess circadian rhythms, including birds, mammals, plants, and single celled organisms. Across these various organisms you can find functional clock mechanisms within many different tissues. For example, the retina secretes melatonin in a rhythmic daily pattern in birds. Here we will focus on the clock in mammals, which is located in an area of the brain known as the <term id="term-00001">suprachiasmatic nucleus</term> (<term id="term-00002">SCN</term>) (<link target-id="Image-15.09"/>), but we will also note organismal variation. The SCN is often described as the master clock in mammals, as it drives rhythms in physiology and behavior that, in turn, synchronize the timing of clocks in other tissues. The SCN receives light input from cells in the retina, and in turn this brain structure regulates rhythms throughout the body.</para>
 
-    <figure id="Image-15.09">
+    <figure id="Image-15.09"><title>Suprachiasmatic nucleus of the hypothalamus</title>
       <media alt="Diagram of a sagittal view of human brain, showing hypothalamus on the ventral surface, anterior to the brain stem. Zoom-in shows the SCN as a small nuclei at the anterior tip of the hypothalamus.">
         <image mime-type="image/png" src="../../media/Image-15.09_Suprachiasmatic-nucleus-of-the-hypothalamus.png"/>
       </media>
@@ -26,7 +26,7 @@
 <section id="sect-00007">    <title>The Retina</title>
     <para id="para-00021">In mammals, the retinas transmit photic information from the environment to the brain in order to synchronize internal rhythms with the external world. The retina possesses a multilayered structure designed to detect and process light and transmit that information to the brain, for both image forming and non-image forming purposes (see <link document="m00087">Vision</link>. Rods and cones are the primary <term id="term-00003">photoreceptors</term> for detecting light for image formation, but there is also a subset of retinal ganglion cells that contain photopigments and can detect light. These <term id="term-00004">intrinsically photosensitive retinal ganglion cells (ipRGCs)</term> send their long axons directly to the SCN in the hypothalamus. The SCN contains the master circadian clock which we will discuss next. The ipRGCs communicate to the SCN via the <term id="term-00005">retinohypothalamic tract</term>, providing a rod and cone-independent photoreceptive mechanism (<link target-id="Image-15.08"/>). The presence of these cells is a reason why some individuals with blindness caused by the degeneration of rods and cones can still show entrainment to light/dark cycles.</para>
     
-    <figure id="Image-15.08">
+    <figure id="Image-15.08"><title>Non-image-forming retinal ganglion cells</title>
       <media alt="Diagram of human eye/retina and sagittal brain, connected by a single axon tract. 1) Blue wavelength light activates intrinsically photosensitive retinal ganglion cells (ipRGCs) in the retina. 2) ipRGC axons form the retinohypothalamic tract and excite the SCN.">
         <image mime-type="image/png" src="../../media/Image-15.08_Non-image-forming-retinal-ganlion-cells.png"/>
       </media>
@@ -42,7 +42,7 @@
     
     <para id="para-00025">Lastly, the most conclusive evidence that the SCN contains the master clock was generated in experiments where the SCN was first removed and then replaced (Ralph et al., 1990). Hamsters had their SCN electrically lesioned, and as expected they had <term id="term-00007">arrhythmic</term> patterns of activity (<link target-id="Image-15.15"/>, steps 1 and 2). SCN tissue from the brains of fetal hamsters was then transplanted into the 3rd ventricle of the SCN lesioned animals. The ventricle is a space within the brain where cerebrospinal fluid flows, and the tissue was deposited near to the original SCN location. The lesioned animals began to express rhythms in locomotor activity again, that is, they began to have organized bouts of wheel running (<link target-id="Image-15.15"/>, step 3).</para>
     
-    <figure id="Image-15.15">
+    <figure id="Image-15.15"><title>SCN lesion and transplant experiment</title>
       <media alt="Diagrams of SCN lesion and transplant experiments with black activity bars used to represent the activity rhythms in difference conditions. 1) An intact hamster shows a 24hr rhythm. They sleep when the lights are on and are active at night. 2) Lesioning the SCN makes the hamster show arrhythmic activity. 3) Transplanting fetal SCN tissue restores the hamster's free running rhythm. It still cannot entrain to light though.">
         <image mime-type="image/png" src="../../media/Image-15.15_SCN-lesion-and-transplant-experiment.png"/>
       </media>
@@ -58,7 +58,7 @@
     
     <para id="para-00029">As we have discussed, information about environmental light is transmitted to the SCN from the retina via the retinohypothalamic tract, a pathway of retinal ganglion cells that is not part of the image-forming visual system (Figure 15.16"/>).</para>
     
-    <figure id="Image-15.16">
+    <figure id="Image-15.16"><title>Inputs to the SCN</title>
       <media alt="Diagram of connections in human with an eye and sagittal section of human brain/SCN. From the eye, ipRGC axons release glutamate and PACA on the SCN. SCN also gets inputs from intergeniculate leaflet of the thalamus (NPY) in the middle of the brain and raphe nuclei (5HT) in the brain stem. ipRGCs also send input to intergeniculate leaflet of the thalamus.">
         <image mime-type="image/png" src="../../media/Image-15.16_Inputs-to-the-SCN.png"/>
       </media><caption>The SCN receives several modulating inputs which contribute to entraining its activity to cues.</caption>
@@ -78,7 +78,7 @@
     <title>The Pineal Gland and Melatonin</title>
     <para id="para-00035">Melatonin is a hormone produced primarily in mammals by the pineal gland, which is located in the roof of the diencephalon in humans. Melatonin secretion is directly tied to the circadian clock, with high levels during the night and very low levels during the day (<link target-id="Image-15.02"/>).</para>
     
-    <figure id="Image-15.02">
+    <figure id="Image-15.02"><title>How light gets in the brain</title>
       <media alt="Diagram of human eye connected to a sagittal brain section via retinohypothalamic tract from eye to SCN. A series of connections is shown: 1) Light activates ipRGCs in the retina, which activate the SCN. 2) SCN cells project to neurons in the spinal cord, which project back to the pineal gland, inhibiting it. Pineal cells secrete melatonin in the blood stream, so SCN activation reduces melatonin secretion. 3) Pineal cells reduce their secretion of melatonin in the blood stream.">
         <image mime-type="image/png" src="../../media/Image-15.02_How-light-gets-in-the-brain.png"/>
       </media>
@@ -96,7 +96,7 @@
     
     <para id="para-00040">The molecular clock is generated by interlocking <term id="term-00012">transcription/translation feedback loops</term>, which function to produce robust rhythms of gene expression with a period of about 24 hours. These negative feedback loops are composed of a set of highly conserved core clock proteins that both participate in the central machinery of the clock and drive rhythmic expression of other genes (<link target-id="Image-15.03"/>). Four core <term id="term-00013">clock gene</term> families sit at the center of the molecular clock: <emphasis effect="italics">Clock</emphasis> and <emphasis effect="italics">Bmal1</emphasis>, which code for activators, and <emphasis effect="italics">Per</emphasis> and <emphasis effect="italics">Cry</emphasis>, which are repressors. The proteins CLOCK and BMAL1 are subunits of a transcription factor that activate transcription of the repressor <emphasis effect="italics">Clock</emphasis> and <emphasis effect="italics">Bmal1</emphasis>, which code for activators, and <emphasis effect="italics">Per</emphasis> and <emphasis effect="italics">Cry</emphasis> genes as well as other clock-controlled output genes (Step 1 in <link target-id="Image-15.03"/>). Essentially, these proteins turn on the production of the mRNA for <emphasis effect="italics">Clock</emphasis> and <emphasis effect="italics">Bmal1</emphasis>, which code for activators, and <emphasis effect="italics">Per</emphasis> and <emphasis effect="italics">Cry</emphasis>. These genetic mRNAs for <emphasis effect="italics">Clock</emphasis> and <emphasis effect="italics">Bmal1</emphasis>, which code for activators, and <emphasis effect="italics">Per</emphasis> and <emphasis effect="italics">Cry</emphasis> then leave the nucleus and travel to the cytoplasm where they are transcribed into their respective proteins (Step 2 in <link target-id="Image-15.03"/>). The PER and CRY proteins bind to each other (<term id="term-00014">heterodimerize</term>) in the cytoplasm and move (<term id="term-00015">translocate</term>) to the cell nucleus where they inhibit the transcriptional activation by the CLOCK/BMAL1 complex (Step 3 in <link target-id="Image-15.03"/>). In other words, the PER/CRY protein complex turns off the activity of the CLOCK/BMAL1 complex. Activity of these proteins are regulated by a variety of kinases, phosphatases, and other modulators. Mutations in many of these regulatory proteins can modulate the free-running period of the clock by changing the degradation rate of one or more of the clock proteins.</para>
     
-    <figure id="Image-15.03">
+    <figure id="Image-15.03"><title>Rhythms in clock genes</title>
       <media alt="Top is a diagram of inside a cell, showing interactions between proteins and gene expression. 1) CLOCK and BMAL1 induce expression of per and cry genes by binding to their promoters. 2) PER and CRY protein build up in the cytoplasm. 3) PER and CRY enter the nucleus where they inhibit CLOCK and BMAL1 from binding to DNA. PER and CRY expression is blocked. 4) Existing PER and CRY degrade. CLOCK and BMAL1 can bind again and restart per and cry expression. Bottom is a line graph with day/night on the x-axis. Quantities of CLOCK/BMAL binding to per and cry promoters is shown as one curve and per and cry mRNA levels are another curve. The two curves fluctuate in opposition, with per/cry mRNA levels high at night and low during the day.">
         <image mime-type="image/png" src="../../media/Image-15.03_Rhythms-in-clock-genes.png"/>
       </media>
