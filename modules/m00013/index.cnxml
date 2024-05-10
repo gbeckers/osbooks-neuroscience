@@ -36,7 +36,7 @@
     </section>
     <section id="sect-00003"><title>Studying neural circuits reveals important principles about how nervous systems generate behavior</title>
       <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of Tritonia we can glean a few key insights (<link target-id="Image-2.29"/>):</para>
-      <figure id="Image-2.29">
+      <figure id="Image-2.29"><title>Five principles of neural networks</title>
         <media alt="5 panels, top to bottom. 1) Diagram of one neuron sending output to 3 pathways. 2) Diagram of 3 neurons connected in a circuit. 3) Left: Diagram of a neuron with a line graph of repeating action potentials next to it. Right: Diagram of heart with a heart beat monitor next to it. 4) Cartoons of a scale tipped too far one way or the other (or balance in the middle). 5) Cartoon showing a neuron vs a battery and a cell phone vs a battery">
           <image mime-type="image/png" src="../../media/Image-2.29_5-principles-of-neural-networks.png"/>
         </media>
