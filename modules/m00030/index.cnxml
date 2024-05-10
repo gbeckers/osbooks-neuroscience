@@ -22,14 +22,14 @@
         <title>Synthesis</title>
         <para id="para-00004">The two currently best studied endocannabinoid neurotransmitters (there are at least seven) are <term id="term-00001">anandamide</term> and <term id="term-00002">2-AG</term> (2-arachidonoyl-glycerol); 2-AG occurs at much higher levels in the brain than anandamide (Lu and Mackie, 2016). The production, synthesis and release of anandamide and 2-AG occur independently within the cell, suggesting that 2-AG and anandamide can be recruited differentially from the same postsynaptic neuron depending on the type of presynaptic signaling. The synthesis of both endocannabinoid neurotransmitters begins with phospholipid components of the neural membrane (<link target-id="Image-3.11"/>). <term id="term-00003">Diacylglycerol</term> (DAG) is produced first followed by enzymatic conversion into 2-AG via the enzyme <term id="term-00004">diacylglycerol lipase</term> (DAGL). A different membrane phospholipid is converted into <term id="term-00005">N-arachidonoyl phosphatidylethanolamine</term> (NAPE) which is then enzymatically converted into anandamide by the enzyme <term id="term-00006">phospholipase D</term> (PLD).</para>
 
-        <figure id="Image-3.11">
+        <figure id="Image-3.11"><title>Synthesis of arachidonic acid and prostaglandins</title>
           <media alt="Chemical synthesis diagram showing NAPE leading to anandamide and DAG leading to 2-AG. Both products are converted to arachidonic acid by FAAH, which then becomes prostaglandin G2 then prostaglandin H2 (via COX-1 and COX-2 enzymes).">
             <image mime-type="image/png" src="../../media/Image-3.11_Synthesis-of-arachidonic-acid-and-prostaglandins.png"/>
           </media>
         </figure>
         <para id="para-00005">Unlike the other neurotransmitters discussed thus far, these two endocannabinoids are not stored in synaptic vesicles. The depolarization of a postsynaptic neuron leads to Ca2+ influx through voltage-gated channels and causes the enzymatic de novo generation and the release of endocannabinoids such as anandamide. Once produced they are released to flow in reverse direction (<term id="term-00007">retrograde neurotransmission</term>) across the synapse to find their receptors on the pre-synaptic side of the synapse (<link target-id="Image-3.10"/>).</para>
 
-        <figure id="Image-3.10">
+        <figure id="Image-3.10"><title>Retrograde neurotransmission</title>
           <media alt="Diagram of a synapse showing a retrograde neurotransmitter being release through the postsynaptic membrane to bind a presynaptic receptor in response to post-synaptic neurotransmitter binding.">
             <image mime-type="image/png" src="../../media/Image-3.10_Retrograde-neurotransmission.png"/>
           </media><caption>Retrograde neurotransmitters are not packaged in vesicles. Instead, they are released by the postsynaptic cell and signal on receptors on the presynaptic cell.</caption>
@@ -39,7 +39,7 @@
         <title>Receptors</title>
         <para id="para-00006">Two different types of endocannabinoid receptors are located throughout the brain and body. Anandamide binds best to CB1 receptors, while 2-AG binds best with the CB2 receptors (<link target-id="Image-3.27"/>).</para>
         
-        <figure id="Image-3.27">
+        <figure id="Image-3.27"><title>Function of endocannabinoid receptors</title>
           <media alt="Diagram of a synapse showing endocannabinoid life cycle steps. 1) Neurotransmitter release activates the postsynaptic cell. 2) Postsynaptic activation activates DLGα and PLD to synthesize 2-AG and anandamide from their precursors DAG and NAPE, respectively. 3) 2-AG and anandamide diffuse through the cell membrane and across the synaptic cleft to activate CB1 receptors. 4) CB1 activation inhibits presynaptic neurotransmitter release, Ca2+ influx and cAMP production and promotes K+ efflux.">
             <image mime-type="image/png" src="../../media/Image-3.27_Function-of-endocannabinoid-receptors.png"/>
           </media>
@@ -75,7 +75,7 @@
         <para id="para-00014"><term id="term-00012">Acetylcholine</term> (commonly abbreviated ACh) is made by transferring a molecule of acetic acid on to a molecule of choline that is derived from the fatty acid lecithin (steps 1 and 2 in <link target-id="Image-3.05"/>). This conversion occurs via the action of an enzyme called <term id="term-00013">choline acetyltransferase</term> (Picciotto et al., 2012). The acetyl is derived from a molecule of sugar, usually glucose, that is initially modified inside the mitochondria. The brain needs sugar (usually in the form of glucose) to function normally. Once inside the brain, only a very small percentage of the dietary sugar is used to produce acetylcholine. The brain typically has a constant and ample supply of choline. Choline can be easily obtained from the diet, such as from eggs and baked goods. Despite this fact, many health foods stores sell choline powder to gullible customers, claiming that consuming more choline will somehow enable their brains to make more acetylcholine. Given the vital role of acetylcholine in learning and memory, this is an appealing claim. Regrettably, it has no basis in fact. For adults, the brain responds only to deficits in choline, not surpluses, in the diet. It has a ready source of choline in the diet or stored in the liver and, in fact, never develops a deficit in choline, even in patients with Alzheimer’s disease. Thus, consuming extra choline does not induce your brain to make more acetylcholine. Instead, it only results in a gaseous by-product that you exhale and that smells like rotting fish. Rather than enhancing your cognitive abilities, choline supplements merely generate a terrible case of bad breath.</para>
         <para id="para-00015">Once acetylcholine is produced, it is transported into synaptic vesicles (step 3 in <link target-id="Image-3.05"/>). The vesicles containing acetylcholine fuse with the presynaptic membrane of the axon terminal in response to an action potential (step 4 in <link target-id="Image-3.05"/>). Each vesicle releases about 10,000 acetylcholine molecules into the synapse. Some of these acetylcholine molecules will bind to protein receptors on the surface of the nearby neuron (step 5 in <link target-id="Image-3.05"/>). Ultimately, all of them are inactivated by an enzyme.</para>
 
-        <figure id="Image-3.05">
+        <figure id="Image-3.05"><title>Acetylcholine lifecycle</title>
           <media alt="Diagram of a synapse showing acetylcholine life cycle steps as described by main text. A blood vessel is also shown. Step 6, not described in text, is ACh autoreceptors signal to the presynaptic neuron to shutdown ACh synthesis and release.">
             <image mime-type="image/png" src="../../media/Image-3.05_Acetylcholine-lifecycle.png"/>
           </media>
@@ -90,7 +90,7 @@
         <title>Receptors</title>
         <para id="para-00017">Once released into the synapse, the neurotransmitter acetylcholine can act on two quite different protein receptors that have been designated, as have most receptors, according to the compounds that were originally used to study them—in this case, muscarine and nicotine (<link target-id="Image-3.24"/>).</para>
 
-        <figure id="Image-3.24">
+        <figure id="Image-3.24"><title>ACh channels</title>
           <media alt="Two-part diagram. 1) Diagram of a cell membrane with ionotropic receptors in it. ACh is shown binding to a closed receptor, leading to an open receptor. Na+ is shown flowing through the open receptor into the cell. 2) Diagram of a cell membrane with G protein coupled receptor in it. It is binding to ACh. The activated G protein is opening a nearby ion channel and ions are shown moving in or out of the cell.">
             <image mime-type="image/png" src="../../media/Image-3.24_ACh-channels.png"/>
           </media>
@@ -101,7 +101,7 @@
         <title>The functions of acetylcholine</title>
         <para id="para-00019">Within the human brain are numerous acetylcholine pathways that influence the function of the cortex, hippocampus, and many other subcortical regions (<link target-id="Image-3.37"/>).</para>
 
-        <figure id="Image-3.37">
+        <figure id="Image-3.37"><title>Acetylcholine system anatomy</title>
           <media alt="Diagram of a human brain with networks of acetylcholine projections throughout the cortex. Cell bodies are concentrated in the basal forebrain.">
             <image mime-type="image/png" src="../../media/Image-3.37_Acetylcholine-system-anatomy.png"/>
           </media>

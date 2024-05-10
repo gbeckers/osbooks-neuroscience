@@ -37,7 +37,7 @@
         <title>Receptors</title>
         <para id="para-00008">Neurotransmitters relay their messages by traveling between cells and attaching to specific receptors on target cells. When a neurotransmitter attaches to a receptor, it triggers an action in the target cells. Receptors, even for a single neurotransmitter, exist as many different types that are differentially distributed and produce unique post-synaptic effects. Norepinephrine binds to three main G-protein-linked receptors: alpha1, alpha-2, and beta receptors that are located throughout the brain. Epinephrine can also stimulate all the adrenergic receptors including alpha and beta subtypes.</para>
         <para id="para-00070">Dopamine binds to five different types of receptors, labelled D1-D5.  Receptors have different, but often overlapping, functions. <link target-id="Image-3.25"/> shows two different dopamine receptors that act via G-protein-linked receptors: one activates the enzyme adenylyl cyclase while the other inactivates this enzyme.</para>
-        <figure id="Image-3.25">
+        <figure id="Image-3.25"><title>Dopamine receptors</title>
           <media alt="Diagram of a cell membrane with dopamine receptors embedded in it. D1 and D2-liek receptors are both shown, each with associated G-proteins. Adenyly cyclase is also shown in the membrane, with a + from D1 receptors and a - from D2 receptors. ATP and shown as being turned into cAMP by adenylyl cyclase.">
             <image mime-type="image/png" src="../../media/Image-3.25_Dopamine-receptors.png"/>
           </media>
@@ -54,7 +54,7 @@
         <para id="para-00012">Similar to dopamine, the neurotransmitter norepinephrine influences the function of multiple brain systems. It can be found in the hippocampus, a structure critical for forming new memories. Thus, norepinephrine influences the formation of memories. However, norepinephrine also plays a role in other brain regions that have nothing to do with making memories. The take-away point is that there is no such thing as a specifically unique “dopamine function” or an exclusively distinct “norepinephrine function.” The brain region that the neurotransmitter is found within defines its function, not the neurotransmitter itself. This statement is true for all neurotransmitters. In fact, neurotransmitters exhibit a complex array of actions in different brain regions, and so we can rarely make a single universal statement about their role in brain function.</para>
         <para id="para-00013">We know a lot about dopamine and norepinephrine primarily because so many drugs and nutrients have been discovered that can modify their function. Norepinephrine underlies the major components of arousal and behaviors that arise in association with increased arousal; dopamine is intimately related to the control of movement, aspects of consciousness, hormone release, visual image processing and the experience of reward.</para>
         <para id="para-00014">In humans, almost all norepinephrine neurons are located within a region called the locus coeruleus (Latin for “blue area” due to the presence of so many copper ions) that lies in the floor of the 4th ventricle (<link target-id="Image-3.32"/>).</para>
-        <figure id="Image-3.32">
+        <figure id="Image-3.32"><title>Norepinephrine system anatomy</title>
           <media alt="Diagram of a human brain with networks of norepinephrine projections throughout the cortex, cerebellum and down the spinal cord shown. Cell bodies are concentrated in the brain stem (locus coeruleus).">
             <image mime-type="image/png" src="../../media/Image-3.32_Norepinephrine-system-anatomy.png"/>
           </media>
@@ -62,7 +62,7 @@
 
         <para id="para-00015">The name of this region is related to the fact that these neurons concentrate copper into the pigmented polymer neuromelanin. Neuromelanin is synthesized from the precursor L-DOPA. Although copper is required for the synthesis of norepinephrine, the concentration of the copper in the locus coeruleus far exceeds what is necessary for neurotransmitter synthesis. Unfortunately, the presence of this metal makes these neurons vulnerable to oxygen, leading to oxidative stress, which poses a particular risk for these neurons. Norepinephrine neurons in the locus coeruleus project throughout the brain, mostly unilaterally. Their diffuse widespread projection into virtually all brain regions allows them to influence your level of arousal and almost every aspect of behavior.</para>
         <para id="para-00016">Dopamine neurons are more numerous (by about five times) than norepinephrine neurons. However, they do not project as widely throughout the brain. Instead, these neurons, which originate in the ventral midbrain, send axonal projections forward primarily into basal ganglia and frontal lobes (<link target-id="Image-3.33"/>).</para>
-        <figure id="Image-3.33">
+        <figure id="Image-3.33"><title>Dopamine system anatomy</title>
           <media alt="Diagram of a human brain with networks of dopamine projections throughout the cortex and down the spinal cord shown. Cell bodies are concentrated in the brain stem (substantia nigra and ventral tegmental area).">
             <image mime-type="image/png" src="../../media/Image-3.33_Dopamine-system-anatomy.png"/>
           </media>
@@ -88,7 +88,7 @@
         <title>Synthesis</title>
         <para id="para-00023">The neurotransmitter serotonin is built from a molecule of the amino acid tryptophan. Tryptophan is actively transported across the blood-brain barrier (step 1 in <link target-id="Image-3.08"/>). Tryptophan is utilized by all the cells in the brain to produce proteins for a variety of purposes that have nothing to do with neurotransmission. Serotonin neurons produce a series of enzymes that convert a small percentage (less than one tenth of one percent) of the tryptophan absorbed by the brain into serotonin. The process begins inside the cytoplasm of the serotonin neuron with the conversion of tryptophan into <term id="term-00014">5-hydroxytryptophan</term> by the addition of a hydroxy molecule to the benzene ring via the enzyme <term id="term-00015">tryptophan hydroxylase</term> (step 2 in <link target-id="Image-3.08"/>). This enzyme is the rate-limiting step in the production of serotonin (Fernstrom, 2013). Unlike tyrosine hydroxylase, which is close to saturated with tyrosine under normal conditions, tryptophan hydroxylase is only half saturated with tryptophan (Young and Gauthier, 1981). Therefore, the entry of additional dietary tryptophan into the brain will lead to the production of more serotonin. Next, also occurring in the cytoplasm, 5-hydroxytryptophan is converted into serotonin by the removal of a carbon dioxide molecule via the enzyme aromatic amino acid decarboxylase, also often called 5-hydroxy-tryptophan decarboxylase (step 3 in <link target-id="Image-3.08"/>). Notice that the production of serotonin involves the same two chemical reactions, the addition of a hydroxy molecule and removal of a carbon dioxide molecule, that were used to produce the neurotransmitters dopamine and norepinephrine. The enzymes involved are also genetically similar to each other and likely evolved from genetic duplication.</para>
         <para id="para-00024">Once produced in the cytoplasm, serotonin can either be stored in synaptic vesicles and released a fashion similar to dopamine and norepinephrine, or, despite having a positive charge, can cross cell membranes through a diffusion-like process (step 4 in <link target-id="Image-3.08"/>). Multiple low-affinity, high-capacity, sodium-independent transporters, widely expressed in the brain, allow the carrier-mediated diffusion of serotonin into forebrain neurons. The amount of serotonin crossing cell membranes through this mechanism under physiological conditions is considerable (Andrews et al., 2022).</para>
-        <figure id="Image-3.08">
+        <figure id="Image-3.08"><title>Serotonin synthesis</title>
           <media alt="Top: Diagram of a presynaptic terminal with an adjacent blood vessel. Inside the terminal, the enzymes and molecules described in the text are shown as a series of steps. Bottom: Chemical synthesis cascade showing L-tryptophan to 5-hydroxy-L-tryptohpan to serotonin, plus degradation of serotonin. Steps described in main text.">
             <image mime-type="image/png" src="../../media/Image-3.08_Serotonin-synthesis.png"/>
           </media>
@@ -197,7 +197,7 @@
         <title>Functions of serotonin</title>
         <para id="para-00029">To understand the role of serotonin in the brain, one should first consider the entire body. Ninety percent of the total serotonin in the body is contained within the neurons of the gut. About 8% of the body’s serotonin is found in the blood and is localized inside platelets and mast cells; in fact, serotonin was initially discovered in the serum and determined to have tonic (or constricting) effects on the vascular system—hence its name. About two percent of the body’s serotonin is found in the pineal gland, which is located inside the skull but not considered part of the brain. The remaining one-half of one percent of the body’s serotonin is found in the brain. The nuclei that contain serotonin neurons are in roughly the same anatomical location in the human brain as in every other vertebrate or invertebrate brain which implies a conservation of purpose across time (Berger and Gray, 2009). Despite the relative scarcity of serotonin neurons in your brain, drugs that alter serotonin function can produce profound changes in how you experience the world around you. Serotonin regulates various activities, including behavior, mood, memory, and gastrointestinal homeostasis.</para>
         <para id="para-00030">Neurons that produce and release serotonin in the brain are organized into a series of nuclei that lie in a chain along the midline, or seam, of the brainstem; these are called the Raphe nuclei (raphe means “seam” in Latin) (<link target-id="Image-3.08"/>).</para>
-        <figure id="Image-3.34">
+        <figure id="Image-3.34"><title>Serotonin system anatomy</title>
           <media alt="Diagram of a human brain with networks of serotonin projections throughout the cortex, cerebellum and down the spinal cord shown. Cell bodies are concentrated in the brain stem (raphe nuclei).">
             <image mime-type="image/png" src="../../media/Image-3.34_Serotonin-system-anatomy.png"/>
           </media>
@@ -219,7 +219,7 @@
       <section id="sect-00014">
         <title>Synthesis</title>
         <para id="para-00035">Neuropeptide neurotransmitters are synthesized via a complicated, time consuming (about two to four weeks), and energy-demanding process of reading the DNA code to produce mRNA that can be translated into a long string of amino acids (step 1 in <link target-id="Image-3.22"/>). The process utilizes the rough endoplasmic reticulum and Golgi apparatus where the long string of amino acids, called a pre-pro-peptide at this point, is converted enzymatically into intermediate shorter versions called pro-peptides, until finally being enzymatically converted into an active neuropeptide that is then packaged in synaptic vesicles that are transported down the axon to await release (step 2 in <link target-id="Image-3.22"/>).</para>
-        <figure id="Image-3.22">
+        <figure id="Image-3.22"><title>Synthesis of neuropeptides</title>
           <media alt="Diagram of a human brain with networks of serotonin projections throughout the cortex, cerebellum and down the spinal cord shown. Cell bodies are concentrated in the brain stem (raphe nuclei).">
             <image mime-type="image/png" src="../../media/Image-3.22_Synthesis-of-neuropeptides.png"/>
           </media>
@@ -276,7 +276,7 @@
         <note class="boxed-feature" id="note-00004">
           <title>People behind the science: Candace Beebe Pert and endorphins</title>
           <para id="para-00039">Candace Beebe Pert (June 26, 1946 – September 12, 2013, <link target-id="Image-3.35"/>) was an American neuroscientist, pharmacologist, and my dear friend, who discovered the opiate receptor, the cellular binding site for endorphins in the brain. Candice told me that she sampled her own blood during her pregnancy to monitor changes in blood-borne endorphins. While the discovery of the elusive endorphin receptor earned the coveted Albert Lasker Award (often a precursor to the Nobel Prize), the prize was awarded to the head of the laboratory, Dr. Solomon H. Snyder, without citing Candace. She wrote a letter to the head of the Lasker Foundation, claiming that her exclusion was due in part to being a woman. Ultimately, Dr. Pert became Chief of the Section on Brain Biochemistry at the National Institute of Mental Health. Candace was as brilliant as she was passionate about advancing women in science.</para>
-            <figure id="Image-3.35">
+            <figure id="Image-3.35"><title></title>
               <media alt="Photograph of Dr. Pert, smiling in front of the exterior of a building with trees.">
                 <image mime-type="image/png" src="../../media/Image-3.35_-Dr-Candace-Pert.png"/>
               </media><caption>Image credit: By Alamy, Original publication unknown. Immediate source: https://www.telegraph.co.uk/news/obituaries/medicine-obituaries/10486776/Candace-Pert-obituary.html, Fair use, https://en.wikipedia.org/w/index.php?curid=45673489</caption>
@@ -286,7 +286,7 @@
           <title>Oxytocin</title>
           <para id="para-00040">Oxytocin is a neuropeptide that is synthesized in magnocellular neurons in the paraventricular and supraoptic nuclei of the hypothalamus. It is synthesized as a large inactive precursor protein and progressively hydrolyzed into smaller fragments and stored in a vesicle. Oxytocin neurons send axons into the posterior pituitary gland as well as throughout the limbic system, olfactory bulb, nucleus accumbens (the brain’s principal pleasure center), brainstem (to regulate pain), and cortex (<link target-id="Image-3.19"/>). Oxytocin receptors are G-protein-linked and are found on the presynaptic and postsynaptic membranes. Oxytocin also acts partially on vasopressin receptors, which complicates understanding its functions. It also indirectly modulates neurogenesis (the birth of new neurons) and synaptic plasticity via these receptors.</para>
           <para id="para-00041">Oxytocin has several behavioral functions. In highly social animals, oxytocin, supported by actions of the endocannabinoid system (discussed in <link document="m00030">Neurotransmitters made from fats</link>), intensifies social attachment by conveying the social salience of environmental stimuli. Elevated levels of oxytocin via intranasal administration have been linked to a range of cognitive and behavioral effects including within-group conformity, trust, affiliation, and cooperation. Oxytocin also promotes aggression toward threatening out-group rivals and may underlie aspects of racism (Zhang et al.,2019). It appears to play a role in stimulating bonding between mother and child. Other studies have linked exposure to oxytocin with reduced social anxiety. Despite the many popular claims, there is no evidence that oxytocin has an aphrodisiac effect. Experiments with human couples sniffing oxytocin have not shown any increased tendency to fall in love.</para>
-          <figure id="Image-3.19">
+          <figure id="Image-3.19"><title>Oxytocin networks</title>
             <media alt="Diagram of the hypothalamus and pituitary. Neurons are shown in the PVN and SON, sending projections to the posterior pituitary to release oxytocin in the blood stream. They also send projections towards cortex and limbic system. An upper left zoom-out image shows the approximate location of these structures in the while human brain. Steps shown: 1) Oxytocin is expressed by magnocellular neurons in the PVN and SON. 2) Oxytocin protein is transported from the cell body to the axon terminals. 3) Oxytocin is released into the blood stream via axon terminals in the posterior pituitary. 4) Oxytocin is also released throughout the limbic system and cortex.">
               <image mime-type="image/png" src="../../media/Image-3.19_Oxytocin-networks.png"/>
             </media>
@@ -296,13 +296,13 @@
     <section id="sect-00017">
       <title>Glutamate and GABA</title>
       <para id="para-00042">These two amino acids are utilized by more neurons as a neurotransmitter than any other. Glutamate is the principal producer of excitation while GABA (gamma-amino butyric acid) is the principal producer of inhibition. The lifecycle of glutamate is shown in <link target-id="Image-3.12"/>. The lifecycle of GABA is shown in <link target-id="Image-3.14"/>. Because these lifecycles overlap substantially, we will discuss them in tandem.</para>
-      <figure id="Image-3.12">
+      <figure id="Image-3.12"><title>Glutamate lifecycle</title>
         <media alt="Diagram of a synapse showing glutamate life cycle steps as described by text on slide. A blood vessel is also shown, as is an astrocyte process adjacent to the synaptic cleft.">
           <image mime-type="image/png" src="../../media/Image-3.12_Glutamate-lifecycle.png"/>
         </media>
       </figure>
 
-      <figure id="Image-3.14">
+      <figure id="Image-3.14"><title>GABA lifecycle</title>
         <media alt="Diagram of a synapse showing GABA life cycle steps as described by text on slide. A blood vessel is also shown, as is an astrocyte process adjacent to the synaptic cleft.">
           <image mime-type="image/png" src="../../media/Image-3.14_GABA-lifecycle.png"/>
         </media>
@@ -314,14 +314,14 @@
       <section id="sect-00019">
         <title>Receptors</title>
         <para id="para-00044">Glutamate signaling activates a family of receptors consisting of metabotropic glutamate receptors and ionotropic glutamate receptors (<link target-id="Image-3.28"/>). Three of these receptors are ligand-gated ionotropic channels: <term id="term-00026">NMDA receptors</term>, <term id="term-00027">AMPA receptors</term>, or <term id="term-00028">kainate receptors</term>. These glutamate receptors were named after the agonists that activate them: NMDA (N-methyl-d-aspartate), AMPA (α-amino-3-hydroxyl-5-methyl-4-isoxazole-propionate), and kainic acid. These ionotropic glutamate receptors are nonselective cation channels; they will allow the passage of Na+ and K+, and small amounts of Ca2+. AMPA, kainate, and NMDA receptor activation always produce excitatory postsynaptic responses.  All three of these ionotropic receptors are formed from the association of several protein subunits. The metabotropic glutamate receptor, in contrast, is formed from a single protein and functions as a G-protein linked receptor that provides a mechanism for glutamate to modulate cell excitability and synaptic transmission via second messenger signaling pathways.</para>
-        <figure id="Image-3.28">
+        <figure id="Image-3.28"><title>Glutamate receptors</title>
           <media alt="Three-part diagram. 1) Diagram of an ionotropic receptor in a cell membrane, binding glutamate and letting Na+ enter the cell. 2) Diagram of an ionotropic receptor in a cell membrane, binding glutamate and letting Na+ and Ca2+enter the cell. 3) Diagram of a G-protein coupled receptor in a cell membrane, binding glutamate, activating a G protein that then opens a nearby ion channel. Ions are shown as potentially flowing into or out of the cell.">
             <image mime-type="image/png" src="../../media/Image-3.28_Glutamate-receptors.png"/>
           </media>
         </figure>
         <para id="para-00045">GABA receptors are divided into GABA-A and GABA-B (<link target-id="Image-3.15"/>). Recently a GABA-C receptor was defined. Less is known about its function, but it appears, based on its sequence homology and structure, to have evolved from the nicotinic acetylcholine receptor (see <link document="m00030">Neurotransmitters made from fats</link>). GABA-A is a fast-acting ligand-gated ion channel/inotropic receptor. The binding of GABA opens an ion pore to allow negatively charged chloride ions to move across the cell membrane into the cell, increasing the resting negative potential inside the cell. This is also known as hyperpolarization. GABA-A receptors are located throughout the central nervous system with a high concentration in the limbic system and cortex.</para>
         <para id="para-00046">The GABA-B receptor is a G-protein linked receptor that leads to the opening of potassium channels, allowing the efflux of positive ions down their concentration gradient leading to the hyperpolarization of the cell membrane. Adenylyl cyclase is also activated, which prevents calcium entry; this action inhibits presynaptic release of other neurotransmitters. GABA-B receptors are slow-acting synaptic inhibitors and are in cortex and thalamic efferent pathways.</para>
-        <figure id="Image-3.15">
+        <figure id="Image-3.15"><title>GABA receptors</title>
           <media alt="Two-part diagram. 1) Diagram of a cell membrane with an open ionotropic channel in it. Channel is bound to GABA. Cl- flows in. 2) Diagram of a cell membrane with a G-protein coupled channel in it. It is bound to GABA and the activated G protein is bound to a nearby ion channel. The ion channel is open in K+ is flowing out.">
             <image mime-type="image/png" src="../../media/Image-3.15_GABA-receptors.png"/>
           </media>
@@ -336,7 +336,7 @@
         <title>The functions of GABA and glutamate</title>
         <para id="para-00049">GABA- and glutamate-releasing neurons are densely located throughout the brain. They tend to function competitively to induce a balance of excitation and inhibition. Neurons spontaneously fire off action potentials due to their tendency to constantly leak potassium ions. The brain takes advantage of this tendency and processes information primarily via the actions of GABA-induced inhibition.</para>
         <para id="para-00050">Glutamate neurotransmission is critical for probably the most important physiological process in the brain: learning. This process is mediated through a two-step process shown in Image 3.13 that begins with the glutamate-induced depolarization of the post-synaptic membrane via the activation of the AMPA ionotropic receptors. At resting membrane potentials, external magnesium (Mg2+) ions enter the NMDAR channel and bind tightly, preventing the influx of any ions. Mg2+ ions are present at millimolar concentrations in the external milieu of neurons, while intracellular Mg2+ concentrations are in the micromolar range, resulting in a net inward driving force for Mg2+ ions at negative membrane potentials. A depolarization of sufficient amplitude and duration by activation of nearby AMPA receptors is required to dislodge the Mg2+ ions from the channel, thereby allowing the influx of sodium and calcium ions. The increase in intracellular calcium ion concentration activates a complex cascade of biochemical changes that ultimately involve the genes of the neuron and that may change how the neuron behaves for the rest of your life. This process underlies the brain’s ability to learn (see <link document="m00060">Learning and Memory</link>).</para>
-        <figure id="Image-3.13">
+        <figure id="Image-3.13"><title>AMPA and NMDA functional interaction</title>
           <media alt="Three-part diagram. 1) Diagram of a cell membrane with 2 ionotropic receptors embedded: AMPA and NMDA. Outside the cell, Na+ and Ca2+ are abundant and the outside membrane has positive charges (inside membrane has negative). Glutamate is bound to both channels but only AMPA is open, with Na+ flowing in. NMDA has a Mg2+ in the middle of the ion pore. 2) Membrane near the NMDA channel is now positive inside, negative outside and the Mg2+ is shown leaving the NMDA ion pore. 3) Na+ and Ca2+ now flow in to the cell through the open NMDA channel.">
             <image mime-type="image/png" src="../../media/Image-3.13_AMPA-and-NMDA-functional-interaction.png"/>
           </media>
@@ -351,7 +351,7 @@
       <title>Histamine</title>
       <para id="para-00052"><term id="term-00023">Histamine</term> neurons originate from the tuberomamillary nucleus of the posterior hypothalamus and send projections throughout the brain (<link target-id="Image-3.36"/>).</para>
       
-      <figure id="Image-3.36">
+      <figure id="Image-3.36"><title>Histamine system anatomy</title>
         <media alt="Diagram of a human brain with networks of histamine projections throughout the cortex. Cell bodies are in tuberomammillary nucleus of the hypothalamus.">
           <image mime-type="image/png" src="../../media/Image-3.36_Histamine-system-anatomy.png"/>
         </media>
@@ -365,7 +365,7 @@
         <title>Receptors</title>
         <para id="para-00055">Histamine binds to G protein-coupled receptors, designated H1 through H4 (step 5 in <link target-id="Image-3.16"/>). The H1 and H2 receptors produce neuronal depolarization. The H3 receptor functions as an auto-receptor; it downregulates release of histamine, norepinephrine, acetylcholine, and serotonin (step 6 in <link target-id="Image-3.16"/>).</para>
 
-        <figure id="Image-3.16">
+        <figure id="Image-3.16"><title>Histamine life cycle</title>
           <media alt="Diagram of a synapse showing histamine life cycle steps as described by text on slide. A blood vessel is also shown. Steps shown: 1) Histidine is absorbed from food and is transported out of the blood, across the BBB, and into neurons. 2) Histidine decarboxylase converts histidine to histamine. 3) Histamine is transported into vesicles. 4) The arrival of the action potential causes neurotransmitter release in the synaptic cleft. 5) Histamine binds to metabotropic postsynaptic receptors, H1 and H2, leading to EPSPs. 6) Histamine binding to presynaptic metabotropic H3 signals to the presynaptic neuron to stop transmitter synthesis and/or release of acetylcholine, dopamine, norepinephrine and serotonin.">
             <image mime-type="image/png" src="../../media/Image-3.16_Histamine-life-cycle.png"/>
           </media>

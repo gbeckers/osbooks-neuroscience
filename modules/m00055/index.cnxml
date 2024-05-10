@@ -21,7 +21,7 @@
     <para id="para-00004">Set points for specific factors can change over a 24 hour circadian period. For example, human core body temperature is approximately 36.5 °C at night when we are sleeping compared with 37.5 °C during the day when we are more active (see <link document="">Biological Rhythms and Sleep</link>). Set points can also change throughout the life of an animal. For example, as animals develop from juveniles to adults (such as humans during puberty), they require a much higher caloric intake than when they were younger. Later in life, as animals age, metabolism slows down and daily caloric needs decline.</para>
     
     <para id="para-00005">Sometimes, during certain environmental challenges, it is temporarily beneficial to maintain factors outside normal set point values. Allostasis (from the Greek root allo, meaning “other”) is the temporary maintenance of internal physiological conditions outside the normal range. These changes in set points allow an organism to respond to an immediate threat to survival. For example, when we are sick, one response is to develop a “fever” in which our set body temperature increases by 1-2 °C to combat the infection (<link target-id="Image-16.18"/>). When we experience a stressful environmental condition, such as taking an exam, speaking in front of an audience, or undergoing something truly life-threatening, we undergo a temporary elevation in body temperature and heart rate while simultaneously undergoing a temporary decrease in hunger and thirst (see <link document="m00078">Stress</link>). While these allostatic responses help to temporarily persevere against short-term challenges, it is not optimal to be in a state of allostasis for too long. For example, being in a state of chronic stress can ultimately lead to cardiovascular disease and aberrations in body weight.</para>
-    <figure id="Image-16.18">
+    <figure id="Image-16.18"><title>Allostasis example: Fever</title>
       <media alt="llustration of a person looking overheated, with thermometer in their mouth. A fever can help fight infection, an example of allostasis.">
         <image mime-type="image/png" src="../../media/Image-16.18_Allostasis-example_Fever.png"/>
       </media>
@@ -31,21 +31,21 @@
     <section id="sect-00003">
     <title>Homeostatic systems maintain set points using negative feedback mechanisms</title>
     <para id="para-00006">Animals maintain set-points by utilizing negative feedback mechanisms. In these systems, a deviation from a set point causes a response that counteracts the change, thereby restoring optimal set point values (<link target-id="Image-16.15"/>). There are three components of a negative feedback loop: A sensor detects the initial deviation from the normal set point. A control system receives and processes information from the sensors, ultimately causing an effector system to produce a response that counteracts the change.</para>
-    <figure id="Image-16.15">
+    <figure id="Image-16.15"><title>Homeostatic negative feedback loop</title>
       <media alt="Diagram of a negative feedback system as described in the main text.">
         <image mime-type="image/png" src="../../media/Image-16.15_Homeostatic-negative-feedback-loop.png"/>
       </media>
     </figure>
     
     <para id="para-00007">A familiar example of a negative feedback mechanism is the cooling system of a laptop computer (<link target-id="Image-16.16"/>). If a laptop becomes too hot, the high temperatures could damage the circuits and hardware. Small thermometers within the laptop serve as sensors, detecting temperatures higher than an optimal value. These thermometers signal to the central processing unit that the computer is too hot. The central processing unit then turns on an effector system—fans within the computer—to blow out the hot air. Once the computer cools down, the thermometers detect the cooler temperatures, the central processing unit turns off the fans, and an optimal temperature is achieved.</para>
-    <figure id="Image-16.16">
+    <figure id="Image-16.16"><title>Unidirectional negative feedback loop</title>
       <media alt="Diagram of a unidirectional negative feedback system as described in the main text.">
         <image mime-type="image/png" src="../../media/Image-16.16_Unidirectional-negative-feedback-loop.png"/>
       </media>
     </figure>
     
     <para id="para-00008">A computer fan is an example of a unidirectional homeostatic system, a feedback mechanism in which a factor is regulated in only one direction—in this case, whether the computer becomes too hot (but not if the computer becomes too cold). In contrast, bidirectional homeostatic systems regulate deviations from a set point in two directions. For example, consider a home thermostat system that maintains an optimal temperature range so that a home does not become too hot or too cold (<link target-id="Image-16.17"/>). An increase in temperature is sensed by a thermometer inside the home and is relayed to the control system, the thermostat. The thermostat then causes an effector system, an air conditioner, to blow cool air into the home to decrease the temperature. If the home becomes too cold, this decrease is also detected by a thermometer and relayed to a thermostat. The thermostat responds to this change by turning on the home furnace to increase heat. Therefore, the home thermostat system functions as a bidirectional homeostatic system to keep the temperature within a narrow range.</para>
-    <figure id="Image-16.17">
+    <figure id="Image-16.17"><title>Bidirectional negative feedback loop</title>
       <media alt="Diagram of a bidirectional negative feedback system as described in the main text.">
         <image mime-type="image/png" src="../../media/Image-16.17_Bidirectional-negative-feedback-loop.png"/>
       </media>
@@ -57,7 +57,7 @@
     <para id="para-00010">Many homeostatic systems throughout the body, such as those that regulate blood oxygenation levels, body temperature, caloric intake, and fluid intake, are regulated by the nervous system. The challenge for neuroscientists interested in studying the neurobiology of homeostasis is to understand the biological substrates of these homeostatic mechanisms. How do animals sense changes in their internal environments, integrate this information within control centers, and ultimately cause changes in physiology and behavior to maintain homeostasis? What and where are the relevant neurons and cell types, and how do they communicate information with each other?</para>
     
     <para id="para-00011">The nervous system detects changes in set points via sensory cells within the central and peripheral nervous systems (<link target-id="Image-16.03"/>). These specialized cells express unique ion channels and membrane-bound proteins to detect changes in blood chemistry, body temperature, stretch of visceral organs, blood osmolarity, and hormones released throughout the body. In response to deviation from a set point, these sensory cells communicate with other cells in the brain, typically in the brainstem or hypothalamus, that function as control centers (see <link document="m00026">Structure and Function of the Nervous System</link>). These control centers integrate information and regulate effector systems that counteract the deviation from the set point.</para>
-    <figure id="Image-16.03">
+    <figure id="Image-16.03"><title>Neural mechanisms of homeostasis</title>
       <media alt="A diagram showing steps in homeostasis feedback. 1) Specialized cells (sensory cells) in the brain and body detect internal changes in homeostatic factors. 2) Sensory signals are integrated in neural control centers, usually located in the hypothalamus or brainstem. 3) Different effector systems produce a response to maintain homeostasis. Functions of effector systems as described in the main text are summarized.">
         <image mime-type="image/png" src="../../media/Image-16.03_Neural-mechanisms-of-homeostasis.png"/>
       </media>

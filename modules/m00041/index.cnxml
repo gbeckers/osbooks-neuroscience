@@ -20,7 +20,7 @@
     <section id="sect-00002">
     <title>The nasal cavity</title>
     <para id="para-00004">The primary sensory organ for the olfactory system is a sheet of tissue found deep within the nasal cavity called the <term id="term-00001">olfactory epithelium</term> (<link target-id="Image-8.14"/>). The olfactory epithelium within the nose is responsible for detecting airborne odorous molecules. These molecules, also called <term id="term-00002">odorants</term>, are the basic unit that can elicit the sensation of an odor.</para>
-    <figure id="Image-8.14">
+    <figure id="Image-8.14"><title>Olfactory epithelium anatomy</title>
       <media alt="The top left panel of this image shows the side view of a person’s face with a cup containing a beverage underneath the nose. The image shows how the aroma of the beverage passes through the nasal cavity. The top right panel shows a detailed ultrastructure of the olfactory bulb. The bottom panel shows a micrograph of the nasal cavity.">
         <image mime-type="image/png" src="../../media/Image-8.14_Olfactory-epithelium-anatomy.png"/>
       </media>
@@ -30,7 +30,7 @@
     <para id="para-00005">Odorants are typically small enough that they can become suspended in the air and drawn into the nasal cavities. Inside, odorants travel through intricate caverns called turbinates, which are formed of bone and cartilage. These structures filter, humidify, and warm inhaled air, but they also play a critical role in directing odorants onto the relatively restricted area of the nasal cavities which contains the olfactory epithelium.</para>
 
     <para id="para-00006">The structure of the nasal cavities is highly variable between animal species. For example, many mammal species, like dogs and bears, have evolved intricate nasal passages that play an important role in their ability to detect extremely low concentrations of an odor (<link target-id="Image-8.29"/>). The large surface area of their turbinates ensures that small amounts of odorants are forcefully propelled onto the olfactory epithelium. In addition to specialized turbinates, dogs, bears, and many other animals have a larger olfactory epithelium than humans do, which contributes to their excellent sense of smell.</para>
-    <figure id="Image-8.29">
+    <figure id="Image-8.29"><title>Comparisons between canine, murine, and human olfactory epithelium</title>
       <media alt="An illustration of the nasal cavities of dog, mouse and human. The dog nasal epithelium is much larger, with more complex turbinates than the mouse, which is in turn larger and more complex than the human.">
         <image mime-type="image/png" src="../../media/Image-8.29_Comparisons-between-canine,-murine,-and-human-olfactory-epithelium.png"/>
       </media>
@@ -45,7 +45,7 @@
     <section id="sect-00004">
     <title>Signal transduction in olfactory sensory neurons</title>
     <para id="para-00009">Olfactory receptors are metabotropic receptors, meaning that they are coupled to a G-protein second messenger on the intracellular side of the neuron. The binding sites for odorants are, of course, on the extracellular side, exposed to the nasal cavity. In olfactory receptors, the G-protein is a specialized stimulatory G-subunit (<term id="term-00006">G<sub>olf</sub></term>). <link target-id="Image-8.06"/> shows the intracellular signaling activated by odorant binding and G<sub>olf</sub> activation.</para>
-    <figure id="Image-8.06">
+    <figure id="Image-8.06"><title>Olfactory receptor signaling</title>
       <media alt="A diagram of a cell membrane with odorant receptor, adenylyl cyclase III, second messengers and ion channels. The transduction pathway for odorants is shown as described in the main text.">
         <image mime-type="image/png" src="../../media/Image-8.06_Olfactory-receptor-signaling.png"/>
       </media>
@@ -58,7 +58,7 @@
     <para id="para-00012">This molecular chain of events results in action potentials being generated near the soma of the sensory neurons that contain the receptor proteins on their cilia. We can think about odorant molecules as being similar to neurotransmitters that generate electrical activity between neurons within the brain. The signals then travel down sensory neuron axons that extend through perforations in the cribriform plate, a bony structure that encloses the brain from the nasal cavities. The axons and their electrical signals then arrive at the brain in the olfactory bulb, where they synapse with the central processing circuitry of the olfactory system.</para>
 
     <para id="para-00013">A key organizing principle of the olfactory system is the molecular logic by which the cilia of olfactory sensory neurons express olfactory receptor proteins. The genome of most animals encodes hundreds of olfactory receptors, each of which has a unique binding site that will recognize only a narrow range of chemical shapes. Though there are hundreds of receptor genes, only a single type is expressed on the cilia of each sensory neuron. Although each sensory neuron may express thousands of receptor proteins, each of them will be exactly alike (<link target-id="Image-8.25"/>).</para>
-    <figure id="Image-8.25">
+    <figure id="Image-8.25"><title>One receptor type per neuron in the olfactory system</title>
       <media alt="A diagram of olfactory neurons each expressing one receptor protein.">
         <image mime-type="image/png" src="../../media/Image-8.25_One-receptor-type-per-neuron-in-the-olfactory-system.png"/>
       </media><caption>There are hundreds of unique olfactory receptor genes but an individual olfactory sensory neuron only expresses 1 receptor gene.</caption>
@@ -81,7 +81,7 @@
     <section id="sect-00006">
     <title>Olfactory bulb circuitry</title>
     <para id="para-00019">The <term id="term-00010">olfactory bulb</term> is responsible for the first stages of processing electrical signals as they arrive from the nose. Before arriving in the olfactory bulb, the axons of all sensory neurons that express the same type of receptor protein converge. Once in the bulb, the axons then form a spherical structure of nerve endings, dendrites, and synapses called a <term id="term-00011">glomerulus</term>. Because each glomerulus receives input from only a single type of olfactory sensory neuron, the input to these structures is receptor type specific. A depiction of this concept can be seen in <link target-id="Image-8.21"/>, as neurons of the same color all sending projections that converge in a glomerulus together (green neurons forming green glomerulus, blue neurons forming blue glomerulus). Each odorant activates a subset of olfactory sensory neuron types; therefore, many glomeruli are activated at the same time by a given odor. We can think of this as similar to how letters in the alphabet group together to form words. In this case, each letter represents an activated glomerulus, and their grouping as a word represents the perception of an odor. Importantly, words can be simple or complex depending on the number of letters they contain, just as an odor depending on the number of activated glomeruli.</para>
-    <figure id="Image-8.21">
+    <figure id="Image-8.21"><title>Olfactory signaling in the olfactory bulb</title>
       <media alt="An illustration of a cross section of the olfactory bulb and connected olfactory receptor cells showing how neurons with the same receptor type converge on individual mitral cells. 1) Odorants bind to receptors. 2) Olfactory receptor cells are activated band send electric signals. 3) The signals are relayed in glomeruli. 4) The signals are transmitted to higher regions of the brain.">
         <image mime-type="image/png" src="../../media/Image-8.21_Olfactory-signaling-in-the-olfactory-bulb.png"/>
       </media>
@@ -103,7 +103,7 @@
     <section id="sect-00009">
     <title>Piriform cortex</title>
     <para id="para-00025">Mitral cells target a number of different brain regions, but perhaps the most predominant among them is the piriform cortex, also called the olfactory cortex. The organization of the piriform cortex is different from other sensory modalities because it contains three layers rather than the six typically found in other sensory cortices. Mitral cell axons from the olfactory bulb travel as a nerve bundle in the <term id="term-00014">lateral olfactory tract</term> and most densely target the anterior portion of the piriform cortex where they target broadly distributed and overlapping populations of neurons. Because neurons in the piriform cortex receive input from many different mitral cells, and each mitral cell can be associated with a different glomerulus, this is the first point in the olfactory system where stimulus information from the periphery is blended (<link target-id="Image-8.09"/>). However, unlike the olfactory bulb where some coarse relationship exists between glomeruli, the spatial distribution of cells in the piriform cortex has a minimal relationship to the odors which activate them. This stands in contrast to other sensory modalities, like audition and somatosensation, where similar stimuli are represented in adjacent cortical fields (see <link document="m00001">Hearing and Balance</link> and <link document="m00006">Touch and Pain</link>). Despite this seeming disorganization within the olfactory system, the ensemble of neurons that become activated in the piriform cortex upon encountering an olfactory stimulus is related to how the stimulus is identified, categorized, and perceived by an animal.</para>
-    <figure id="Image-8.09">
+    <figure id="Image-8.09"><title>Neural pathways of olfaction</title>
       <media alt="Top shows a sagittal section of human head and brain with pathways from olfactory bulb to piriform cortex as described in the main text. Bottom shows a diagram of the layers of piriform cortex (1a, 1b, 2a, 2b, 3b). Semilunar cells sit in 2a. Superficial pyramidal neurons sit in 2b. Deep pyramidal neurons sit in 3b. Interneurons sit in 2b.">
         <image mime-type="image/png" src="../../media/Image-8.09_Neural-pathways-of-olfaction.png"/>
       </media>
@@ -133,7 +133,7 @@
     <para id="para-00034">Many animals secrete chemical signals called pheromones that trigger social responses in animals of the same species. Reptiles, amphibians, and mammals, including some non-human primates, have evolved a division of the olfactory system, called the <term id="term-00019">accessory olfactory system</term>, dedicated to detecting these substances. This system operates using many of the same principles as the main olfactory system but uses anatomically distinct structures with different cellular organization and projections to deep brain structures that guide behavior and physiological states.</para>
 
     <para id="para-00035">Many pheromones are oily substances and are therefore unable to be carried through the air. This creates a problem where these compounds are incapable of reaching the olfactory epithelium. The <term id="term-00020">vomeronasal organ</term> is a collection of sensory cells found near the entrance to the nasal passages that detect pheromones and other social odors (<link target-id="Image-8.17"/>). For compounds to reach this structure, it is necessary for an animal to touch its nose to another animal, or a secretion it has left behind. Many of us have observed this behavior before. When dogs greet each other on the sidewalk, often their first instinct is to touch their nose to the other dog. Here they are using pheromonal cues to communicate.</para>
-    <figure id="Image-8.17">
+    <figure id="Image-8.17"><title>Accessory versus main olfactory bulb and epithelium connection</title>
       <media alt="An illustration of a rat skull and brain, showing the location of the vomeronasal organ and its connections to the accessory olfactory bulb, as described in the main text. The olfactory epithelium connecting to the main olfactory bulb is also shown.">
         <image mime-type="image/png" src="../../media/Image-8.17_Accessory-versus-main-olfactory-bulb-and-epithelium-connection.png"/>
       </media>

@@ -26,7 +26,7 @@
     
     <para id="para-00006"><term id="term-00003">Tract-tracers</term> are injected into a brain region of interest and actively diffuse across neurons. There are various kinds of tract-tracers. Those include anterograde, retrograde, monosynaptic and trans-synaptic tracers (<link target-id="Image-4.08"/>). Anterograde tracers are taken up by neuronal cell bodies at the injection site and diffuse across the axon towards terminal processes. In contrast, retrograde tracers are taken up by a neuron’s terminals and diffuse retrogradely to the soma. Some tract-tracers remain within the neuron they penetrated and do not diffuse to neighboring neurons. Other tract-tracers spread trans-synaptically (across synapses) to diffuse across a network. Traditionally, tract-tracers are injected in the living brain, and post-mortem brains are cut into micron-thick sections to visualize labeled axons from histological material (Oh et al., 2014). Therefore, there are many different tools available to map out the brain of model systems.</para>
     
-    <figure id="Image-4.08">
+    <figure id="Image-4.08"><title>Retrograde and anterograde tracers</title>
       <media alt="Top of image shows a diagram of a needle infusing a tracer near the axon terminals of one neuron and near the dendrites of another. Anterograde tracers are shown being transported from cell body to axon terminal, including moving into neurons connected to the first neuron (polysynaptic). Retrograde tracers are shown being transported from axon to cell body, including moving into neurons connected to the first neuron (polysynaptic). The bottom of the image shows a 3D rendering of a pathway extending from the rostral end of a mouse brain to the caudal end. An anterograde, polysynaptic tracer was injected in the left retina of a mouse. Projections are mapped through the optic chiasm, to their first synapse in bilateral lateral geniculate nuclei of the thalamus (LGN). Thalamic projections then go to the visual cortex (V1).">
         <image mime-type="image/png" src="../../media/Image-4.08_Retrograde-and-anterograde-tracers.png"/>
       </media>
@@ -46,7 +46,7 @@
     <section id="sect-00003">
     <title>Techniques to study the evolution of connections in humans</title>
     <para id="para-00011">Neuroimaging techniques are widely used in neuroscience to visualize neural activity and connections across the lifespan in humans. The non-invasive nature of neuroimaging has revolutionized the field of neuroscience. Here, we discuss a subset of neuroimaging techniques, which are used to make inferences about connectivity patterns from brain activity. <link target-id="Image-4.20"/> provides an overview of several broad classes of neuroimaging techniques.</para>
-    <figure id="Image-4.20">
+    <figure id="Image-4.20"><title>Imaging the live human brain</title>
       <media alt="Example scans from functional MR, structural MR, resting states MR and diffusion MR. Each example shows multiple slice images. Functional MR shows colorful hot spots in discrete pockets. Structural MR shows brain structure. Resting states MR shows colorful hotspots like function MR but the spots are larger and cover more of the brain. Diffusion MR is a cluster of multicolored strings representing white matter pathways. In aggregate, they create a brain-shaped outline. The substrates measures by each technique are also summarized from the main text.">
         <image mime-type="image/png" src="../../media/Image-4.20_Imaging-the-live-human-brain.png"/>
       </media>

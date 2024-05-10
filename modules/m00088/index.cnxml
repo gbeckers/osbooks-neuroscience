@@ -30,13 +30,13 @@
     <section id="sect-00005"><title>Anatomy of the Eye</title>
       <para id="para-00009">The eye is the primary sensory structure that intercepts electromagnetic waves in the visible spectrum, eventually allowing us to perceive light. <link target-id="Image-6.01"/> shows the major parts of the eye.</para></section>
 
-  <figure id="Image-6.01">
+  <figure id="Image-6.01"><title>Anatomy of the human eye</title>
     <media alt="Diagram of the eye, as if sliced sagittally so that you can see structures from lens back to retina. The structures are their relationships are described in the main text.">
       <image mime-type="image/png" src="../../media/Image-6.01_Anatomy-of-the-human-eye.png"/>
     </media>
   </figure>
   <para id="para-00010">At the front of the eye, the eye’s optics are like the lens of a camera. The rays of light reflected from objects spread out in space. The <term id="term-00004">cornea</term> and <term id="term-00005">crystalline lens</term> intercept the arriving rays of light and bend them to form a focused image on the <term id="term-00006">retina</term> at the rear of the eye. Interestingly, because lenses invert images, the projection of the world on the retina is upside-down and left-right reversed. <link target-id="Image-6.37"/> shows how light reflected from objects diverges in space but is refocused and flipped around for its projection on the retina.</para>
-  <figure id="Image-6.37">
+  <figure id="Image-6.37"><title>Objects reflect rays of light that reach the eye</title>
     <media alt="A diagram showing light reflecting off of a cat towards an eye, sagittally sliced to show lens and retina. 1) Light is reflected from the object to the observer. Incoming light has the whole visible spectrum. 2) An expanding ray of light just the color of the cat is shown reflecting from the cat towards the eyeball. Rays of light reflected from objects diverge in the world. 3) The lens focuses the rays to project a sharp image on the retina. It also flips the image upside-down and left-right.">
       <image mime-type="image/png" src="../../media/Image-6.37_Objects-reflect-rays-of-light-that-reach-the-eye.png"/>
     </media>
@@ -50,7 +50,7 @@
   <section id="sect-00006"><title>Correcting Optical Flaws: Myopia, Hyperopia and Presbyopia</title>
     
   <para id="para-00014">Sharp vision requires the image projected on the retina to be in good focus, but for many people, the focus is in front of the retina (myopia) or behind the retina (hyperopia) (<link target-id="Image-6.08"/>). Corrective lenses restore sharp focus on the retina. Although in some cases people are born with an eye that is too short or too long for good focus, and thus need to wear corrective lenses from an early age, there is also some indication that constant close-up work can affect the continued development of the eye’s shape and lead to myopia.</para>
-   <figure id="Image-6.08">
+   <figure id="Image-6.08"><title>Correcting optical flaws</title>
     <media alt="A series of images of sagittal slices of eyes. A normal eye has round shape and rays of parallel light entering the lens are focused on a single point on the retina in the back of the eye. A myopic eye appears elongated and the rays of light reach a point in front of the retina. Corrective lenses expand the rays of light and the focus point returns to the retina surface. A hyperopic eye appears shorter and the rays of light reach a point behind the retina. Corrective lenses narrow the rays of light and return the focus point on the retina surface.">
       <image mime-type="image/png" src="../../media/Image-6.08_Correcting-optical-flaws.png"/>
     </media>

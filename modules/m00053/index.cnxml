@@ -17,7 +17,7 @@
   <para id="para-00002">In 2021, over 46 million people met the criteria for having a <term id="term-00001">substance use disorder (SUD)</term> (SAMHSA, 2021). The Diagnostic and Statistical Manual of Mental Disorders (DSM) classifies a SUD as uncontrolled or hazardous substance use despite negative outcomes, such as medical and legal issues, loss of employment, or estrangement from family and friends. While “SUD” and “addiction” are often used interchangeably, SUD severity ranges from mild to severe, with the most severe forms being classified as addiction.</para>
   <section id="sect-00002"><title>Neurobiological model of addiction</title>
     <para id="para-00003">A well-cited neurobiological framework for studying addiction conceptualizes the condition as a repeating cycle composed of three stages that feed into each other (Wise &amp; Koob, 2014) (<link target-id="Image-14.05"/>).</para>
-    <figure id="Image-14.05">
+    <figure id="Image-14.05"><title>Koob model of addiction cycle</title>
       <media alt="An image of a human brain with basal ganglia and amygdala shown in the middle and prefrontal cortex in the frontal lobe. Surrounding the brain are arrows indicating a cycle from binge/intoxication to negative affect/withdrawal to preoccupation/anticipation.">
         <image mime-type="image/png" src="../../media/Image-14.05_Koob-model-of-addiction-cycle.png"/>
       </media>
@@ -27,7 +27,7 @@
     <section id="sect-00003">
     <title>Binge/Intoxication</title>
     <para id="para-00005">As discussed earlier in the chapter, almost all psychoactive drugs enhance activity in the mesocorticolimbic dopamine system. Importantly, these drug-induced increases in dopamine signaling often occur faster and to a larger and more prolonged extent compared to natural stimuli (<link target-id="Image-14.25"/>). This extra strong stimulation of the mesolimbic dopamine system is thought to induce neuroplastic changes, such as increased dendritic spines or insertion of receptors into the synapse, within the larger basal ganglia system which regulates complex processes including motivation, decision-making, and emotions. The activation of brain circuits that mediate reward-based learning ultimately increases the incentive salience, or motivational drive, for the drug and drug-associated environmental cues (i.e. specific people, places, or items that have previously been paired with drug use).</para>
-    <figure id="Image-14.25">
+    <figure id="Image-14.25"><title>NAc dopamine release with food vs amphetamine</title>
       <media alt="Left is an illustration of a metal probe targeting the NAc of a rodent who is being given food or injected with something. The tube samples NAc dialysate (extracellular fluid). Right is a graph of % of basal DA release (y-axis) versus hours after feeding or drug. Amphetamine curve shows much higher peak and longer recover than food.">
         <image mime-type="image/png" src="../../media/Image-14.25_NAc-dopamine-release-with-food-vs-amphetamine.png"/>
       </media>
@@ -36,18 +36,18 @@
     <section id="sect-00004">
     <title>Negative Affect/Withdrawal</title>
     <para id="para-00006">Drug <term id="term-00005">dependence</term> refers to a physical and/or psychological state in which drug use is necessary to avoid withdrawal. It is typically preceded by the development of tolerance, in which increasingly higher doses of the drug are required to achieve the original effect (<link target-id="Image-14.06"/>).</para>
-    <figure id="Image-14.06">
+    <figure id="Image-14.06"><title>Tolerance</title>
       <media alt="A graph of drug effect (y-axis) versus drug dose (x-axis). Curves for first exposure and after repeated exposure both rise with increased dose, but the repeated-use curve is shifted to the right compared to the first-exposure curve.">
         <image mime-type="image/png" src="../../media/Image-14.06_Tolerance.png"/>
       </media><caption>Repeated use of a drug can lead to a shift in response, such that more drug is needed to achieve the same effect.</caption>
     </figure>
     
     <para id="para-00007">Tolerance can arise through several different mechanisms. Drug-induced changes in metabolism, such as elevated liver enzyme activity, can lead to faster degradation and clearance of the drug, resulting in reduced bioavailability. Alternatively, tolerance may be caused by changes in cellular responses to the drug following repeated exposure. For example, whereas initial drug use enhances dopamine release, chronic drug exposure reduces dopamine release and downregulates the expression of dopamine receptors within the dopamine reward pathway (Volkow et al., 1997; Martinez et al., 2004) (<link target-id="Image-14.08"/>). With less neurotransmitter and receptor availability comes less receptor binding and signaling, ultimately leading to reduced drug effects.</para>
-    <figure id="Image-14.08">
+    <figure id="Image-14.08"><title>Dopamine (DA) D2 receptor binding</title>
       <media alt="Example human brain PET scans show more DA D2 receptor binding in control versus addicted brains. This demonstrates reduced expression of D2 dopamine receptors within the basal ganglia of participants with cocaine use disorder compared to controls.">
         <image mime-type="image/png" src="../../media/Image-14.08_Dopamine-(DA)-D2-receptor-binding.png"/>
       </media>
-    <caption>Position emission topography (PET) scan studies demonstrate reduced expression of D2 dopamine receptors within the basal ganglia of participants with cocaine use disorder compared to controls. Image credit: 1993 Wiley-Liss, Inc. Image reused with permission: Volkow, N.D., Fowler, J.S., Wang, G.-J., Hitzemann, R., Logan, J., Schlyer, D.J., Dewey, S.L. and Wolf, A.P. (1993), Decreased dopamine D2 receptor availability is associated with reduced frontal metabolism in cocaine abusers. Synapse, 14: 169-177. https://doi.org/10.1002/syn.890140210.</caption>
+    <caption>Position emission topography (PET) scan studies demonstrate reduced expression of D2 dopamine receptors within the basal ganglia of participants with cocaine use disorder compared to controls. Image credit: 1993 Wiley-Liss, Inc. Image reused with permission: Volkow, N.D., Fowler, J.S., Wang, G.-J., Hitzemann, R., Logan, J., Schlyer, D.J., Dewey, S.L. and Wolf, A.P. (1993), Decreased dopamine D2 receptor availability is associated with reduced frontal metabolism in cocaine abusers. Synapse, 14: 169-177. https://doi.org/10.1002/syn.890140210.</caption>
     </figure>
     
     <para id="para-00008">Tolerance can also manifest from conditioned behavioral responses to environmental cues associated with drug use (Siegel, 1999). Drug users who were presented with drug preparation materials and asked to self-inject experienced significantly fewer physiological responses to the drug compared to drug users who received a passive infusion of the drug (Ehran et al., 1992). This finding suggests that the mere anticipation of drug administration may be sufficient to induce compensatory physiological mechanisms that weaken the drug’s effects. While drug dependence is highly associated with SUDs, it does not necessarily equate to addiction. For instance, a person who drinks caffeinated beverages daily may become dependent on caffeine and experience withdrawal symptoms (e.g. headache, fatigue, irritability) if they skip a day, but it is highly unlikely that they would develop the pathological behaviors that characterize SUDs.</para>
@@ -63,7 +63,7 @@
     <para id="para-00011">The brain reward system is remarkably conserved across species (see <link document="m00031">Comparative Neuroscience</link>). Rodents, in particular, share many of the same brain regions, neurotransmitters, receptors, and genes found in humans. Furthermore, rodents exhibit similar behavioral and neurobiological responses to psychoactive drugs, making them an excellent translational model for investigating the neural mechanisms underlying the different stages of addiction.</para>
     
     <para id="para-00012"><term id="term-00006">Intravenous self-administration (IVSA)</term> is considered the gold standard for studying drug-seeking behavior in an animal model (<link target-id="Image-14.07"/>). Using IVSA, researchers can examine the variables that contribute to different levels of responding to a drug reward. In this procedure, a catheter is surgically implanted into the jugular vein of a mouse or rat. The catheter is connected to a syringe containing the drug of interest. The rodent is then trained in an operant chamber to press a lever to receive an intravenous delivery of the drug. Often drug delivery is paired with an auditory or visual cue, such as a tone or light.</para>
-    <figure id="Image-14.07">
+    <figure id="Image-14.07"><title>Self-administration paradigm</title>
       <media alt="Top half is diagram of cue induced reinstatement. 1) Bar presses are rewarded with drug infusion. A drug cue (light) is paired with delivery of the drug. A graph shows bar presses increasing. 2) Bar presses are not rewarded and drug cue (light) is not presented. Pressing declines. Graph shows bar presses decreasing. 3) Return of drug cue (light) elicits bar pressing in the absence of drug infusions. Graph shows bar pressing increases each time cue is presented. Bottom half is diagram of context-induced reinstatement. 1) Bar presses are rewarded with drug infusion in a specific context (gray floor). A graph shows bar presses increasing. 2) Bar presses are not rewarded in a different context (white floor). Pressing declines. Graph shows bar presses decreasing. 3) Return of drug-paired context (gray floor) elicits bar pressing in the absence of drug infusions. Graph shows bar pressing goes up and stays up.">
         <image mime-type="image/png" src="../../media/Image-14.07_Self-administration-paradigm.png"/>
       </media>
@@ -88,7 +88,7 @@
     <section id="sect-00013">
     <title>People behind the science: Dr. Yasmin Hurd</title>
     <para id="para-00020">The past few decades have witnessed a significant shift in policies surrounding the medical and recreational use of cannabis at the state level. With the increased prevalence of cannabis products across the country, concerns have been raised about the potentially harmful long-term effects of cannabis use. Dr. Yasmin Hurd, a neuroscientist at the Icahn School of Medicine at Mount Sinai (<link target-id="Image-14.24"/>), is well known for her contributions to enhancing our understanding of the neurodevelopmental effects of early-life THC (the active ingredient in cannabis) exposure. Her laboratory uses both preclinical (involving animal models) and clinical studies to better understand the neurobiological mechanisms that underlie addiction and other neuropsychiatric disorders. This approach to science is known as <term id="term-00012">translational research</term> since the goal is to convert basic science findings into information that can ultimately benefit humans.</para>
-    <figure id="Image-14.24">
+    <figure id="Image-14.24"><title>Dr. Yasmin Hurd</title>
       <media alt="Photo of Dr. Yasmin Hurd">
         <image mime-type="image/png" src="../../media/Image-14.24_Dr.-Yasmin-Hurd.png"/>
       </media>
