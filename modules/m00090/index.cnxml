@@ -71,10 +71,10 @@
   
     <para id="para-00023">Early recordings from retinal ganglion cells in the goldfish retina showed excitation to one color but inhibition to its complementary color, establishing the concept of <term id="term-00018">opponent colors</term>. Soon after, recordings were made from lateral geniculate neurons in monkeys, which have receptive fields like ganglion cells, and this settled the debate about color vision in humans. <link target-id="Image-6.19"/> shows responses of a goldfish retinal ganglion cell to blue-green light, which excited bursts of action potentials, and to red light, which inhibited the cell’s spontaneous firing. Other ganglion cells were the reverse, excited by red and inhibited by green. Later, other ganglion cells were found that had opponent responses to blue and yellow. This corresponded to observations about human vision, where we can’t imagine a reddish-green or a yellowish-blue because those pairs are opponent colors.</para>
 
-  <figure id="Image-6.19">
-  <media alt="A series of electrophysiological recording traces showing action potential firing of a ganglion cell in response to light pulses of different wavelengths. Wavelengths in the blue-green range make this cell fire. Wavelengths in the yellow-red range do not. Image credit: Reproduced with author permission: Kolb, Helga &amp; Fernandez, Eduardo &amp; Nelson, Ralph. (2007). Webvision: The Neural Organization of Retina and Visual System (From Webvision, http://webvision.med.utah.edu/). Section: Anatomy and Physiology of the Retina, Ch: Visual Responses of Ganglion cells. Ralph Nelson. Fig 17">
+  <figure id="Image-6.19"><title>Opponent color retinal ganglion cells firing in goldfish retina</title>
+  <media alt="A series of electrophysiological recording traces showing action potential firing of a ganglion cell in response to light pulses of different wavelengths. Wavelengths in the blue-green range make this cell fire. Wavelengths in the yellow-red range do not.">
     <image mime-type="image/png" src="../../media/Image-6.19_Opponent-color-retinal-ganglion-cells-firing-in-goldfish-retina.png"/>
-  </media>
+  </media><caption>Image credit: Reproduced with author permission: Kolb, Helga &amp; Fernandez, Eduardo &amp; Nelson, Ralph. (2007). Webvision: The Neural Organization of Retina and Visual System (From Webvision, http://webvision.med.utah.edu/). Section: Anatomy and Physiology of the Retina, Ch: Visual Responses of Ganglion cells. Ralph Nelson. Fig 17</caption>
 </figure>
 
 <para id="para-00024">Across many vertebrate retinas, including fish, color vision at the ganglion cell level was found to fall into the three categories shown in <link target-id="Image-6.20"/>. </para>
