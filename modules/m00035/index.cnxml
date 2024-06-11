@@ -75,17 +75,28 @@
   <item>diffusion MR imaging 
 </item></list></section>
 <section class="references" id="sect-00006"> <title>References</title>
-  <para id="para-00018">Axer, M., &amp; Amunts, K. (2022). Scale matters: The nested human connectome. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">378</emphasis>, 500–504. doi: 10.1126/science.abq2599.</para>
-  <para id="para-00019">Charvet, C.J., Ofori, K., Baucum, C., Sun, J., Modrell, M.S., Hekmatyar, K., Edlow, B.L., &amp; van der Kouwe, A.J. (2022). Tracing Modification to Cortical Circuits in Human and Nonhuman Primates from High-Resolution Tractography, Transcription, and Temporal Dimensions. <emphasis effect="italics">J Neurosci</emphasis>, <emphasis effect="italics">42</emphasis>, 3749–3767. doi: 10.1523/JNEUROSCI.1506-21.2022.</para>
-  <para id="para-00020">Lee, M.H., Smyser, C.D., &amp; Shimony, J.S. (2013). Resting-state fMRI: a review of methods and clinical applications. <emphasis effect="italics">Am J Neuroradiol</emphasis>, <emphasis effect="italics">34</emphasis>, 1866–1872.</para>
-  <para id="para-00021">Liao, X., Vasilakos, A.V., &amp; He, Y. (2017). Small-world human brain networks: Perspectives and challenges. <emphasis effect="italics">Neurosci Biobehav Rev</emphasis>, <emphasis effect="italics">77</emphasis>, 286–300. doi: 10.1016/j.neubiorev.2017.03.018.</para>
-  <para id="para-00022">Liu, Z.Q., Zheng, Y.Q., &amp; Misic, B. (2020). Network topology of the marmoset connectome. <emphasis effect="italics">Netw Neurosci</emphasis>, <emphasis effect="italics">4</emphasis>, 1181–1196.</para>
-  <para id="para-00023">Modha, D.S., &amp; Singh, R. (2010). Network architecture of the long-distance pathways in the macaque brain. <emphasis effect="italics">PNAS</emphasis>, <emphasis effect="italics">107</emphasis>, 13485–13490.</para>
-  <para id="para-00024">Murphy, K., Birn, R.M., &amp; Bandettini, P.A. (2013). Resting-state fMRI confounds and cleanup. <emphasis effect="italics">Neuroimage</emphasis>, <emphasis effect="italics">80</emphasis>, 349–359.</para>
-  <para id="para-00025">Rilling, J.K., Glasser, M.F., Preuss, T.M., Ma, X., Zhao, T., Hu, X., Behrens, T.E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. <emphasis effect="italics">Nat Neurosci</emphasis>, <emphasis effect="italics">11</emphasis>, 426–428.</para>
-  <para id="para-00026">Oh, S.W., Harris, J.A., Ng, L., Winslow, B., Cain, N., Mihalas, S., Wang, Q., Lau, C., Kuan, L., Henry, A.M., Mortrud, M.T., Ouellette, B., Nguyen, T.N., Sorensen, S.A., Slaughterbeck, C.R., Wakeman, W., Li, Y., Feng, D., Ho, A., Nicholas, E., Hirokawa, K.E., Bohn, P., Joines, K.M., Peng, H., Hawrylycz, M.J., Phillips, J.W., Hohmann, J.G., Wohnoutka, P., Gerfen, C.R., Koch, C., Bernard, A., Dang, C., Jones, A.R., &amp; Zeng, H. (2014). A mesoscale connectome of the mouse brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">508</emphasis>, 207–214.</para>
-  <para id="para-00027">Wedeen, V.J., Wang, R.P., Schmahmann, J.D., Benner, T., Tseng, W.Y.I., Dai, G., Pandya, D.N., Hagmann, P., D'Arceuil, H., &amp; de Crespigny, A.J. (2008). Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. <emphasis effect="italics">Neuroimage</emphasis>, <emphasis effect="italics">41</emphasis>, 1267–1277.</para>
-  <para id="para-00028">Wedeen, V.J., Hagmann, P., Tseng, W.Y.I., Reese, T.G., &amp; Weisskoff, R.M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. <emphasis effect="italics">Magn Reson Med</emphasis>, <emphasis effect="italics">54</emphasis>, 1377–1386.</para>
+  <para id="para-00018">Axer, M., &amp; Amunts, K. (2022). Scale matters: The nested human connectome. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">378</emphasis>, 500–504. https://doi.org/10.1126/science.abq2599</para>
+
+<para id="para-00019">Charvet, C. J., Ofori, K., Baucum, C., Sun, J., Modrell, M. S., Hekmatyar, K., Edlow, B. L., &amp; van der Kouwe, A. J. (2022). Tracing modification to cortical circuits in human and nonhuman primates from high-resolution tractography, transcription, and temporal dimensions. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">42</emphasis>, 3749–3767. https://doi.org/10.1523/JNEUROSCI.1506-21.2022</para>
+
+<para id="para-00020">Lee, M. H., Smyser, C. D., &amp; Shimony, J. S. (2013). Resting-state fMRI: A review of methods and clinical applications. <emphasis effect="italics">American Journal of Neuroradiology</emphasis>, <emphasis effect="italics">34</emphasis>, 1866–1872.</para>
+
+<para id="para-00021">Liao, X., Vasilakos, A. V., &amp; He, Y. (2017). Small-world human brain networks: Perspectives and challenges. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">77</emphasis>, 286–300. https://doi.org/10.1016/j.neubiorev.2017.03.018</para>
+
+<para id="para-00022">Liu, Z. Q., Zheng, Y. Q., &amp; Misic, B. (2020). Network topology of the marmoset connectome. <emphasis effect="italics">Network Neuroscience</emphasis>, <emphasis effect="italics">4</emphasis>, 1181–1196.</para>
+
+<para id="para-00023">Modha, D. S., &amp; Singh, R. (2010). Network architecture of the long-distance pathways in the macaque brain. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">107</emphasis>, 13485–13490.</para>
+
+<para id="para-00024">Murphy, K., Birn, R. M., &amp; Bandettini, P. A. (2013). Resting-state fMRI confounds and cleanup. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">80</emphasis>, 349–359.</para>
+
+<para id="para-00025">Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., &amp; Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>, 426–428.</para>
+
+<para id="para-00026">Oh, S. W., Harris, J. A., Ng, L., Winslow, B., Cain, N., Mihalas, S., Wang, Q., Lau, C., Kuan, L., Henry, A. M., Mortrud, M. T., Ouellette, B., Nguyen, T. N., Sorensen, S. A., Slaughterbeck, C. R., Wakeman, W., Li, Y., Feng, D., Ho, A., Nicholas, E., Hirokawa, K. E., Bohn, P., Joines, K. M., Peng, H., Hawrylycz, M. J., Phillips, J. W., Hohmann, J. G., Wohnoutka, P., Gerfen, C. R., Koch, C., Bernard, A., Dang, C., Jones, A. R., &amp; Zeng, H. (2014). A mesoscale connectome of the mouse brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">508</emphasis>, 207–214.</para>
+
+<para id="para-00027">Wedeen, V. J., Wang, R. P., Schmahmann, J. D., Benner, T., Tseng, W. Y. I., Dai, G., Pandya, D. N., Hagmann, P., D'Arceuil, H., &amp; de Crespigny, A. J. (2008). Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">41</emphasis>, 1267–1277.</para>
+
+<para id="para-00028">Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., &amp; Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. <emphasis effect="italics">Magnetic Resonance in Medicine</emphasis>, <emphasis effect="italics">54</emphasis>, 1377–1386.</para>
+
   </section>
 
   <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
