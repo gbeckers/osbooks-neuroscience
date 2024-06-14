@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
-      <para id="para-00002">By the end of this section you should be able to</para>
+      <para id="para-00002">By the end of this section, you should be able to</para>
         <list id="list-00001">
           <item>Explain how the resting potential is generated and defended primarily by leak K<sup>+</sup> channels, which allow a constant but slow K<sup>+</sup> current to pull the neuron towards the negative equilibrium potential for K<sup>+</sup>.</item>
           <item>Understand the role of ligand-gated ion channels in producing EPSPs and IPSPs, the small, transient, changes in membrane potential that represent the receipt of transmitter from partner neurons.</item>
