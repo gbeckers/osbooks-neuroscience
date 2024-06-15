@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
-      <para id="para-00001">By the end of this section you should be able to</para>
+      <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
         <item>Describe the anatomical properties of different sensory receptors.</item>
         <item>Identify the physiological properties of different sensory receptors.</item>
@@ -26,22 +26,14 @@
       </figure>
       <section id="sect-00003">
         <title>Touch receptors</title>
-        <para id="para-00004">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle all serve to transduce features of touch sensation. These disks and corpuscles are specialized structures in the skin that are connected to axons that send touch information to the spinal cord. These terminal structures are the starting points of the somatosensory system, so they are also called "sensory receptors". Here the term "receptor" is different from the neurotransmitter receptor on the cell membrane (much smaller, one protein molecule). The sensory receptor is a much larger structure (composed of many proteins). Within these specialized endings sit mechanosensitive cation channels which activate in response to mechanical pull from sensations like touch, pressure, and vibration. These channels, also called <term id="term-00007">piezo channels</term>, are permeable to Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, and Mg<sup>2+</sup>, with a slight preference for Ca<sup>2+</sup>. <link target-id="Image-9.12.3"/> shows how these channels open in response to mechanical force. Their discovery led to a Nobel prize in 2021 for Dr. Ardem Patapoutian, the scientist who first described them (Coste et al., 2010) (<link target-id="Image-9.12.1"/>). The influx of ions through these channels leads to the generation of action potentials which propagate via highly myelinated <term id="term-00008">Aβ fibers</term> to the spinal cord.</para>
-        <note class="boxed-feature" id="note-00002"><title>Scientist Spotlight: Dr. Ardem Patapoutian</title>
-          <figure id="Image-9.12.1">
-            <media alt="A photo of Dr. Ardem Patapoutian">
-              <image mime-type="image/png" src="../../media/Image-9.12.1.png"/>
-            </media><caption>Image credit: “Lab Members.” The Patapoutian Lab, https://patapoutianlab.org/people </caption>
-          </figure>
-          <para id="para-00031">Dr. Ardem Patapoutian, PhD, is a Howard Hughes Medical Institute investigator of Scripps Research. He received the 2021 Nobel Prize in Physiology or Medicine (jointly). </para>
-        <para id="para-00040">His research focuses on the mechanisms underlying somatosensation - specifically ion channels that are responsible for the ability to sense heat and mechanical stress.</para>
-        </note>
-        <figure id="Image-9.12.2">
-          <title>Molecular Structures of PIEZO Channels</title>
-          <media alt="Views of PIEZO1 and PIEZO2 from inside the cell.">
-            <image mime-type="image/png" src="../../media/Image-9.12.2.png"/>
-          </media><caption>Both PIEZO1 and PIEZO2 have a three-bladed, propeller-like structure. Both are homotrimeric - the three subunits come together to form the central membrane-spanning pore. They contain nine repetitive units, each with four transmembrane helices. </caption>
-        </figure>
+        <para id="para-00004">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle all serve to transduce features of touch sensation. These disks and corpuscles are specialized structures in the skin that are connected to axons that send touch information to the spinal cord. These terminal structures are the starting points of the somatosensory system, so they are also called "sensory receptors". Here the term "receptor" is different from the neurotransmitter receptor on the cell membrane (much smaller, one protein molecule). The sensory receptor is a much larger structure (composed of many proteins). Within these specialized endings sit mechanosensitive cation channels which activate in response to mechanical pull from sensations like touch, pressure, and vibration. These channels, also called <term id="term-00007">piezo channels</term>, are permeable to Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, and Mg<sup>2+</sup>, with a slight preference for Ca<sup>2+</sup>. <link target-id="Figure-9.X"/> shows the protein structure of two major piezo channels. They both are made of 3 proteins that come together to form a central pore, through which ions move, with blade-like structures surrounding the pore. The discovery of piezo channels led to a Nobel prize in 2021 for Dr. Ardem Patapoutian, the scientist who first described them (Coste et al., 2010) (<link target-id="Figure-9.X"/>). <link target-id="Image-9.12.3"/> shows how these channels open in response to mechanical force.  The influx of ions through these channels leads to the generation of action potentials which propagate via highly myelinated <term id="term-00008">Aβ fibers</term> to the spinal cord.</para>
+ 
+  <figure id="Figure-9.X">
+    <title>Piezo channel structure</title>
+    <media alt=".">
+      <image mime-type="image/png" src="../../media/Figure-9.X_Piezo-channel-structure.png"/>
+    </media><caption>Signals responsible for mechanosensation are transmitted by piezo channels. Piezo channels are composed of three proteins forming blades around a central pore.</caption>
+  </figure>
         <figure id="Image-9.12.3">
           <title>PIEZO Channels: How Do They Allow Mechanosensation?</title>
           <media alt="Two numbered diagrams of PIEZO channels, one with the central pore closed, the other with a mechanical force pressing near the pore, allowing it to open and cations to enter.">
@@ -49,36 +41,10 @@
           </media><caption>PIEZO1 and PIEZO2 are both <term id="term-00024">mechanically-activated cation channels</term>. Based on protein structure, it was predicted that the 'blades' of the PIEZO channels undergo a lever-like flattening motion upon application of mechanical stress. This opens up their central pore, allowing an influx on positive charge. The exact mechanism by which mechanical force leads to the central pore opening is not fully understood.</caption>
         </figure>
 
-        <table summary="Table enumerates relevance of PIEZO channels in six elements of physiology and medicine." id="table-00001">
-          <title>Relevance of PIEZO Channels in Physiology and Medicine</title>
-          <tgroup cols="6">
-          <thead>
-            <row>
-              <entry>Lungs</entry>
-              <entry>Blood pressure</entry>
-              <entry>Vascular cells</entry>
-              <entry>Bladder</entry>
-              <entry>Malaria</entry>
-              <entry>Immune cells</entry>
-            </row>
-          </thead>
-          <tbody>
-
-            <row>
-              <entry>PIEZO2 acts as an airway stretch sensor in respiratory tissue and is critical for normal breathing.</entry>
-              <entry>Both PIEZO1 and PIEZO2 act as  baroreceptors and are essential in blood pressure regulation.</entry>
-              <entry>PIEZO1 is an important sensor of shear stress in vasculature and required for embryonic vascular development.</entry>
-              <entry>PIEZO2 is a sensor for stretch in the bladder urothelium and innervating sensory neurons. </entry>
-              <entry>Polymorphisms and mutations in PIEZO1 have been shown to protect against symptoms of malaria.</entry>
-              <entry>PIEZO1 regulates  macrophage phagocytic activity and thereby facilitates erythrocyte turnover.</entry>
-            </row>
-          </tbody>
-          </tgroup>
-          <caption>Since their discovery, PIEZO1 and PIEZO2 have been proven to be critical mechanosensors throughout the human body, contributing to multiple important physiological processes.</caption>
-          </table>
+  
 
 
-        <para id="para-00005">Merkel disk, Meissner’s corpuscle, Ruffini endings, and Pacinian corpuscle are each sensitive to different kinds of touch. The location and shape of each receptor structure supports these different sensitivities. <link target-id="Image-9.06"/> summarizes these key features of these 4 receptor types.</para>
+        <para id="para-00005">The four major <term id="term-00025">mechanoreceptors</term> (Merkel disks, Meissner’s corpuscles, Ruffini endings, and Pacinian corpuscles) are each sensitive to different kinds of touch. The location and shape of each receptor structure supports these different sensitivities. <link target-id="Image-9.06"/> summarizes these key features of the 4 receptor types. Next, we will review some key structural features of these receptors and how they support the receptor function.</para>
         <figure id="Image-9.06"><title>Mechanorecpetor receptive fields and adaptations</title>
           <media alt="Top: Diagram with 3 parts. Top: 4 side-by-side panels, each showing a drawing of a cross-section of skin with a different major mechanoreceptor shown in its anatomical position. Middle: aligned with each panel above, drawing of a finger showing receptor field of that receptor as a teal haze. Bottom: line drawings to represent stimulus onset/offset with resulting neural firing, aligned with above panels. Bottom: Table of skin location and adaptation rate of the 4 major mechanoreceptors.">
             <image mime-type="image/png" src="../../media/Image-9.06_Mechanoreceptor-receptive-fields-and-adaptation.png"/>
@@ -117,55 +83,36 @@
           <caption/>
           </table>
         <para id="para-00006">First, their different locations in the skin help determine how large or small their <term id="term-00009">receptive fields</term> are, which for touch receptors means the area of the skin in which touch can activate them. Merkel disks and Meissner’s corpuscles are located more superficially around the epidermis and therefore have a smaller and clearly-defined receptive field. Ruffini endings and Pacinian corpuscles are located more in the deeper part of the skin (with a larger, blurry receptive field), near where hair follicles are located.</para>
-        <para id="para-00007">Second, the shape and composition of each touch receptor help determine how long they respond to stimuli, dividing them into rapid adapting versus slowly adapting receptors. The slowly adapting receptors include Merkel disk and Ruffini endings. When a force or stimulus is applied in their receptive field, those receptors will be constantly activated and generate electrical activities (e.g., pressure). On the other hand, the rapidly adapting receptors such as Meissner’s corpuscle and Pacinian corpuscle only respond or generate electrical activities when there is a dynamic change of forces or stimuli, such as vibration (Johansson and Vallbo, 1983; Koerber and Mendell, 1988). These adaptation properties combine with the receptive field to give the unique sensitivity of each of these 4 receptor types to specific touch modalities described in <link target-id="Image-9.01"/>.</para>
+        <para id="para-00007">Second, the shape and composition of each touch receptor help determine how long they respond to stimuli, dividing them into rapid adapting versus slowly adapting receptors. The slowly adapting receptors include Merkel disk and Ruffini endings. When a force or stimulus is applied in their receptive field, those receptors will be constantly activated and generate electrical activities (e.g., pressure). On the other hand, the rapidly adapting receptors such as Meissner’s corpuscle and Pacinian corpuscle only respond or generate electrical activities when there is a dynamic change of forces or stimuli, such as vibration (Johansson and Vallbo, 1983; Koerber and Mendell, 1988). These adaptation properties combine with the receptive field to give the unique sensitivity of each of these 4 receptor types to specific touch modalities described in <link target-id="table-00002"/>.</para>
       </section>
       <section id="sect-00004">
         <title>Nociceptors</title>
-        <para id="para-00008">The specific receptor for sensing a high-threshold stimulus that is damaging or threatens damage to normal tissues is called a nociceptor. Free nerve endings serve as nociceptors, or receptors that transmit pain signals related to mechanical, thermal, or chemical sources. Free nerve endings are different from the preceding four mechanoreceptors. The role of free nerve endings is related to sensing pain and temperature. Free nerve endings lack any specialized structures around their terminals and are connected to or in continuation with unmyelinated <term id="term-00010">C-fibers</term> and myelinated <term id="term-00011">Aδ fibers</term>. There are separate types of nociceptors responding to each modality (i.e., mechanical, thermal, and chemical), but also polymodal receptors that respond to all. Below we will discuss further how nociceptors sense tissue damage and temperature specifically.</para>
+        <para id="para-00008">The specific receptor for sensing a high-threshold stimulus that is damaging or threatens damage to normal tissues is called a <term id="term-00026">nociceptor</term>. Free nerve endings serve as nociceptors, or receptors that transmit pain signals related to mechanical, thermal, or chemical sources. Free nerve endings are different from the preceding four mechanoreceptors. The role of free nerve endings is related to sensing pain and temperature. Free nerve endings lack any specialized structures around their terminals and are connected to or in continuation with unmyelinated <term id="term-00010">C-fibers</term> and myelinated <term id="term-00011">Aδ fibers</term>. There are separate types of nociceptors responding to each modality (i.e., mechanical, thermal, and chemical), but also polymodal receptors that respond to all. Below we will discuss further how nociceptors sense tissue damage and temperature specifically.</para>
         <para id="para-00009">Some free nerve endings transmit pain signals related to tissue damage (<link target-id="Image-9.03"/>). For example, if someone cut their finger, the direct and indirect damage of the nerve terminals (C- or Aδ fibers) at the primary injury site will excite and generate action potentials, which will not only propagate to the spinal cord (generating pain perception), but also propagate through the axonal branch points to spread to other axonal terminals that connect to the same main axon. The invasion of action potentials to the nearby uninjured axonal terminals will lead to the release of several key neural peptides, CGRP (calcitonin-gene related peptide) from Aδ fiber and SP (Substance P) from C-fiber, which cause vasodilatation (redness and temperature) and plasma extravasation (edema). This phenomenon is called <term id="term-00012">axonal reflex</term>, a mechanism contributing to <term id="term-00013">neurogenic inflammation</term>. The primary injury also breaks blood vessels, leading to the accumulation of white blood cells, especially the mast cell. Mast cells can also release these neuropeptides and stimulate the axonal terminals and capillaries, leading to redness (<emphasis effect="italics">rubor</emphasis>), heat (<emphasis effect="italics">color</emphasis>), swelling (<emphasis effect="italics">tumor</emphasis>), pain (<emphasis effect="italics">dolor</emphasis>), and loss of function (<emphasis effect="italics">functio laesa</emphasis>), cardinal signs of inflammation.</para>
         <figure id="Image-9.03"><title>Local mechanisms of nociception</title>
           <media alt="Top: Diagram of a C fiber cell body extending process in to the dorsal spinal cord and a separate process in to the tip of a finger. Bottom: Cross-section of skin diagram, with an injury represented that disrupts the surface layers and blood vessels. Mast cells are shown beneath the blood vessels releasing CGRP and SP in response to bleeding. Activation of free-nerve endings also shown.">
             <image mime-type="image/png" src="../../media/Image-9.03_Local-mechanisms-of-nociception.png"/>
           </media>
         </figure>
-        <para id="para-00010">Other free nerve endings contain <term id="term-00014">transient receptor potential (TRP)</term> channels, which are temperature-sensitive mechanoreceptors. TRP channels open in response to temperature and come in a variety of types, each one sensitive to a different temperature. <link target-id="Image-9.11.2"/> reviews the temperature sensitivities of several kinds of TRPs, as well as the general mechanism by which temperature causes them to open, allowing in positive ions. One notable example of a TRP channel is the capsaicin receptor. <term id="term-00015">Capsaicin</term> is the key chemical ingredient in hot chili peppers. When it binds to the capsaicin receptors, it activates a TRP channel (Samanta et al., 2018) that allows calcium ions to flow into the cell, leading to depolarization (Caterina et al., 1997; Julius, 2013). This is the same channel activated by hot temperatures, which is why a spicy pepper feels hot . A similar, but separate TRP channel activates in response to cold temperatures, as well as chemicals in foods that feel cold, like mint. Activation of TRP channels, therefore, transmit information about temperature, and also are part of our experience of temperature sensations associated with a number of chemicals (see <link document="m00038">Chemical Senses</link>).</para>
-
-        <note class="boxed-feature" id="note-00003"><title>Scientist Spotlight: Dr. David Julius</title>
-          <figure id="Image-9.11.1">
-            <media alt="A photo of Dr. David Julius">
-              <image mime-type="image/png" src="../../media/Image-9.11.1.png"/>
-            </media>
-          </figure>
-          <para id="para-00041">David Julius, PhD, professor and chair of the Department of Physiology at UC San Francisco, received the 2021 Nobel Prize in Physiology or Medicine (jointly). His work focused on how our bodies sense heat, cold, and chemical irritants, leading to new insights about the fundamental nature of pain and new targets for pain therapy.</para>
-        </note>
-
-        <figure id="Image-9.11.2"><title>The TRP Ion Channels</title>
-          <media alt="A diagram of TRP ion channels ordered from cold (left) to hot (right), showing TRPM8, TRPM2, TRPV1, TRPA1, and TRPM3.">
-            <image mime-type="image/png" src="../../media/Image-9.11.2.png"/>
-          </media><caption>Our ability to sense heat and cold is crucial for survival. In our daily lives, we perceive millions of sensations that are processed through intricate molecular pathways. Dr. Julius has used distinctive molecules from the natural world – including toxins from tarantulas, coral snakes, and capsaicin, the molecule that produces the “heat” in chili peppers – to understand how signals responsible for temperature and pain sensation are transmitted by transient receptor potential (TRP) channels that activate across different temperature ranges.</caption>
+        <para id="para-00010">Other free nerve endings contain <term id="term-00014">transient receptor potential (TRP)</term> channels, which are temperature-sensitive mechanoreceptors. TRP channels open in response to temperature and come in a variety of types, each one sensitive to a different temperature. <link target-id="Figure-9.Y"/> reviews the temperature sensitivities of several kinds of TRPs. Dr. David Julius, also pictured in <link target-id="Figure-9.Y"/>, shared the 2021 Nobel Prize in Physiology or Medicine for his description of these channels. <link target-id="Figure-9.Z"/> shows an example of how heat causes a warm-sensing TRP channel to open, allowing in positive ions that activate the free nerve ending, which then relays signals to the brain via the spinal cord.</para>
+        <figure id="Figure-9.Y">
+          <title>The TRP ion Channels</title>
+          <media alt=".">
+            <image mime-type="image/png" src="../../media/Figure-9.Y_The-TRP-ion-Channels.png"/>
+          </media><caption>Signals responsible for temperature and pain sensation are transmitted by transient receptor potential (TRP) channels that activate across different temperature ranges.</caption>
         </figure>
-
-        <figure id="Image-9.11.3"><title>Sensing Noxious Stimuli: Nociception</title>
-          <media alt="3 part diagram. 1) Cube of skin section with a lit match hovering over the surface. 2) A nerve fiber connects from within the skin to make a synapse in the dorsal horn of a horizontal spinal cord section. 3) The next neuron from the dorsal horn projects up the spinal cord to the contralateral brain.">
-            <image mime-type="image/png" src="../../media/Image-9.11.3.png"/>
-          </media><caption>Nociception is the process whereby primary afferent nerve fibers of the somatosensory system detect noxious mechanical, thermal, or chemical stimuli that give rise to pain sensations. Sensitization of a specialized group of somatosensory neurons in the skin  when injury or inflammation occurs triggers an activation of TRP ion channels.  Once activated, these potentiate the transmission of signals to secondary neurons in the spinal cord and then to the brain, eliciting perception of acute discomfort or pain.</caption>
+        <figure id="Figure-9.Z">
+          <title>TRP channels transduce temperature information</title>
+          <media alt=".">
+            <image mime-type="image/png" src="../../media/Figure-9.Z_TRP-channels-transduce-temperature-information.png"/>
+          </media>
         </figure>
-      </section>
-      <para id="para-00042"><title>Applications of TRPs</title>
+          
+        <para id="para-00031">One notable example of a TRP channel is the capsaicin receptor. <term id="term-00015">Capsaicin</term> is the key chemical ingredient in hot chili peppers. When it binds to the capsaicin receptors, it activates a TRP channel (Samanta et al., 2018) that allows calcium ions to flow into the cell, leading to depolarization (Caterina et al., 1997; Julius, 2013). This is the same channel activated by hot temperatures, which is why a spicy pepper feels hot . A similar, but separate TRP channel activates in response to cold temperatures, as well as chemicals in foods that feel cold, like mint. Activation of TRP channels, therefore, transmit information about temperature, and also are part of our experience of temperature sensations associated with a number of chemicals (see <link document="m00038">Chemical Senses</link>).</para>
+
       
-        <media alt="icon of a drug pill">
-          <image mime-type="image/png" src="../../media/icon1.png" width="20"/>
-        </media>
-        TRP channels are potential targets for a new generation of painkillers / analgesic drugs.<newline/>
-        <media alt="icon of a smokestack">
-          <image mime-type="image/png" src="../../media/icon2.png" width="20"/>
-        </media>Synthetic design of unique sensory systems could be used as biosensors in industrial applications.<newline/>
-        <media alt="icon of a person's head in silhouette">
-          <image mime-type="image/png" src="../../media/icon3.png" width="20"/>
-        </media>
-        Potential treatment for heat/cold hypersensitivity and hyposensitivity disorders.
-      </para>
-    
+      </section>
+      
       <section id="sect-00005">
         <title>Hair follicle mechanosensation</title>
         <para id="para-00011">Throughout our body, the skin can be divided into hairy and glabrous skin (mainly on the palms and soles). In the hairy skin, an axonal terminal wraps around the bottom of the hair, the hair follicle, in the dermis. The reason why we can feel a breeze blowing across our faces is that all those tiny hairs (vellus hair, or peach fuzz) are bent by the airflow. The force is transduced to the hair follicles in the skin, causing the slightest displacement (in terms of nanometers). The follicle displacement causes a stretch of the axonal membrane wrapped around the follicle. There are many mechanosensitive Na<sup>+</sup> channels in this wrapping axon, which open in response to this stretch. That is how we can feel the movement of hair. If the hair is pulled too hard, it can generate pain.</para>
@@ -209,6 +156,8 @@
         <item>Ruffini endings</item>
         <item>Pacinian corpuscle</item>
         <item>hair cells</item>
+        <item>mechanoreceptor</item>
+        <item>nociceptor</item>
         <item>glutamate</item>
         <item>substance P (SP)</item>
         <item>calcitonin gene-related peptide (CGRP)</item>

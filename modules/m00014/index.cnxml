@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
-      <para id="para-00001">By the end of this section you should be able to</para>
+      <para id="para-00001">By the end of this section, you should be able to</para>
         <list id="list-00001">
           <item>Define fundamental concepts of electricity (current (I), conductance (G), and electrical potential (V)) and the inter-relationships between them defined by Ohm’s law (I = GV).</item>
           <item>List the 4 electrolytes in our cellular fluids (K<sup>+</sup>, Na<sup>+</sup>, Cl<sup>–</sup>, and Ca<sup>2+</sup>) that underlie most electrical currents in neurons and describe how the movement of each electrolyte is determined both by electrostatic force (opposites attract; likes repel) and diffusion (movement from high to low concentration).</item>

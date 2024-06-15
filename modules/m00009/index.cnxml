@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00003">
       <title>Learning Objectives</title>
-      <para id="para-00039">By the end of this section you should be able to</para>
+      <para id="para-00039">By the end of this section, you should be able to</para>
       <list id="list-00002">
         <item>Describe several pain treatment strategies.</item>
         <item>Define what a placebo is.</item>
@@ -96,7 +96,7 @@
         <caption/>
         </table>
 
-      <para id="para-00046">All opioid receptors are activated through G protein-coupled receptor (GPCR), (see <link document="m00027">Basic Neurochemistry</link>) mechanisms. Via GPCRs, opioids inhibit voltage-dependent calcium channels or activate inwardly rectifying potassium channels, thereby decreasing neuronal excitability. Opioids also inhibit the cyclic adenosine monophosphate pathway and activate mitogen-activated protein kinase cascades, both activities affecting cytoplasmic events and transcriptional activity of the cell.</para>
+      <para id="para-00046">All opioid receptors are activated through G protein-coupled receptor (GPCR) mechanisms (see <link document="m00027">Basic Neurochemistry</link>). Via GPCRs, opioids inhibit voltage-dependent calcium channels or activate inwardly rectifying potassium channels, thereby decreasing neuronal excitability. Opioids also inhibit the cyclic adenosine monophosphate pathway and activate mitogen-activated protein kinase cascades, both activities affecting cytoplasmic events and transcriptional activity of the cell.</para>
       <para id="para-00047"><link target-id="Image-9.26"/> summarizes the changes at the level of nociceptor neurons and the spinal cord due to opiate exposure. The left side of the image shows normal sensory input from a nociceptor neuron to a spinal projection neuron. The right side shows the changes that occur in both the nociceptor neuron primary afferent and projection neuron with opiates present. Opiates like morphine or endorphin can bind to the mu receptors in the presynaptic terminals of the primary afferents, or to spinal cord projection neurons. Binding to the presynaptic terminals elicits presynaptic inhibition, leading to reduced neurotransmitter release (e.g., glutamate or SP); on the other hand, binding to projection neurons will directly inhibit their activity. Both presynaptic and postsynaptic inhibition contribute to spinal analgesia.</para>
       <figure id="Image-9.26"><title>Opioid receptor mechanism in the spinal cord</title>
         <media alt="Left: Diagram of a nociceptor sensory neuron synapsing on a projection neuron. Line drawing of sensory input recording shows depolarization in nociceptor. Line drawing of potential in projection neuron shows a flat line for no sensory input and a depolarization in the presence of sensory input. Right: Diagram of a nociceptor sensory neuron synapsing on a projection neuron with morphine present andinteracting with receptors on both neurons. Line drawing of sensory input recording shows depolarization in nociceptor. Line drawing of potential in projection neuron shows hyperpolarization for no sensory input and only a small depolarization in the presence of sensory input.">
@@ -128,7 +128,7 @@
     </section>
     <section id="sect-00008">
       <title>Capsaicin</title>
-      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main active ingredient of the hot chili pepper. We first introduced the capsaicin receptor in Somatosensory Receptors, when we learned about its role in activating temperature sensitive TRP channels. TRP channels belong to a superfamily of 28 cation permeable channels and each one is sensitive to a specific range of temperatures (Samanta et al., 2018). Many of them also activate in response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997) (see <link document="m00007" target-id="Image-9.11.1"/>). This transient receptor potential vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it is mainly presented in the C-fibers and Aδ fibers.</para>
+      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main active ingredient of the hot chili pepper. We first introduced the capsaicin receptor when we learned about its role in activating temperature sensitive TRP channels. TRP channels belong to a superfamily of 28 cation permeable channels and each one is sensitive to a specific range of temperatures (Samanta et al., 2018). Many of them also activate in response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997) (see <link document="m00007" target-id="Figure-9.Y"/>). This transient receptor potential vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it is mainly presented in the C-fibers and Aδ fibers.</para>
       <para id="para-00053">TRPV1 channels are non-selective cation channels that are permeable to Ca<sup>2+</sup>, Na<sup>+</sup>, and K<sup>+</sup>, meaning they net depolarize a cell. Activation of enough TRPV1 channels can ultimately result in action potential generation, leading to nociception. Interestingly, although the sensation associated with capsaicin in the short term is pain, in the long term, repeatedly treated tissue can become desensitized to subsequent noxious stimuli. Excessive Ca<sup>2+</sup> influx leads to excitotoxicity (literally death from too much excitation) that causes nerve degeneration and loss of pain sensation. It has been found that baby rats treated with capsaicin lose their nociceptive behavior after they grow up (Ruda et al., 2000; Peng et al., 2003). This property has been explored for analgesic purposes (try to find capzasin cream over the counter in any pharmacy). This is also why people can build up a tolerance to spicy foods by eating them repeatedly.</para>
     </section>
     <section id="sect-00009">
@@ -142,7 +142,7 @@
     <section id="sect-00010">
       <title>Electrical/magnetic stimulation</title>
       <para id="para-00059">Electrical stimulation of nerves, spinal cord, and/or brain can be used to relieve pain. Magnetic stimulation of the brain has also been successfully used to treat pain (Tan and Kuner, 2021).</para>
-      <para id="para-00060"><term id="term-00015">Peripheral nerve stimulation</term> can be used to relieve pain via both invasive and non-invasive methods. <term id="term-00016">Transcutaneous electrical nerve stimulation</term>, <term id="term-00017">TENS</term>, is a non-invasive method for stimulating the peripheral nerve. In TENS, electrodes on the skin transmit small electrical pulses to provide pain relief (<link target-id="Image-9.19"/>.</para>
+      <para id="para-00060"><term id="term-00015">Peripheral nerve stimulation</term> can be used to relieve pain via both invasive and non-invasive methods. <term id="term-00016">Transcutaneous electrical nerve stimulation</term>, <term id="term-00017">TENS</term>, is a non-invasive method for stimulating the peripheral nerve. In TENS, electrodes on the skin transmit small electrical pulses to provide pain relief (<link target-id="Image-9.19"/>).</para>
       <figure id="Image-9.19"><title>Transcutaneous electrical nerve stimulation for pain</title>
         <media alt="Photograph of a person with electrodes stuck on his back.">
           <image mime-type="image/png" src="../../media/Image-9.19_Transcutaneous-electrical-nerve-stimulation-for-pain.png"/>
@@ -171,7 +171,7 @@
     </section>
     <section class="section-summary" id="sect-00011">
       <title>Summary</title>
-      <para id="para-00065">In summary, treatment of pain can be delivered through various strategies, from the over-the-counter medication to prescription drugs, behavioral cognitive treatment to physical therapy, and other instrumental measures including invasive or non-invasive stimulation of the nervous system (peripheral and central), and finally, surgical options.</para>
+      <para id="para-00065">Treatment of pain can be delivered through various strategies, from the over-the-counter medication to prescription drugs, behavioral cognitive treatment to physical therapy, and other instrumental measures including invasive or non-invasive stimulation of the nervous system (peripheral and central), and finally, surgical options.</para>
     </section>
     <section class="key-terms" id="sect-00001">
       <title>Key Terms</title>
