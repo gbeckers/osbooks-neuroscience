@@ -30,13 +30,13 @@
  
   <figure id="Figure-9.X">
     <title>Piezo channel structure</title>
-    <media alt=".">
+    <media alt="Left shows two protein structures, both with three fan-like blades extending from a central core. Right shows a photo of Dr. Ardem Patapoutian.">
       <image mime-type="image/png" src="../../media/Figure-9.X_Piezo-channel-structure.png"/>
     </media><caption>Signals responsible for mechanosensation are transmitted by piezo channels. Piezo channels are composed of three proteins forming blades around a central pore.</caption>
   </figure>
         <figure id="Image-9.12.3">
           <title>PIEZO Channels: How Do They Allow Mechanosensation?</title>
-          <media alt="Two numbered diagrams of PIEZO channels, one with the central pore closed, the other with a mechanical force pressing near the pore, allowing it to open and cations to enter.">
+          <media alt="Two part diagram showing cross section of a cell membrane with a piezo channel in it. On the left, the channel is closed. On the right, a mechanical force pushes the membrane down and the piezo channel is pulled open. Cations flow into the cell.">
             <image mime-type="image/png" src="../../media/Image-9.12.3.png"/>
           </media><caption>PIEZO1 and PIEZO2 are both <term id="term-00024">mechanically-activated cation channels</term>. Based on protein structure, it was predicted that the 'blades' of the PIEZO channels undergo a lever-like flattening motion upon application of mechanical stress. This opens up their central pore, allowing an influx on positive charge. The exact mechanism by which mechanical force leads to the central pore opening is not fully understood.</caption>
         </figure>
@@ -97,13 +97,13 @@
         <para id="para-00010">Other free nerve endings contain <term id="term-00014">transient receptor potential (TRP)</term> channels, which are temperature-sensitive mechanoreceptors. TRP channels open in response to temperature and come in a variety of types, each one sensitive to a different temperature. <link target-id="Figure-9.Y"/> reviews the temperature sensitivities of several kinds of TRPs. Dr. David Julius, also pictured in <link target-id="Figure-9.Y"/>, shared the 2021 Nobel Prize in Physiology or Medicine for his description of these channels. <link target-id="Figure-9.Z"/> shows an example of how heat causes a warm-sensing TRP channel to open, allowing in positive ions that activate the free nerve ending, which then relays signals to the brain via the spinal cord.</para>
         <figure id="Figure-9.Y">
           <title>The TRP ion Channels</title>
-          <media alt=".">
+          <media alt="Left shows 5 different TRP channels in a cell membrane, arranged by sensitivity to temperature (cold to hot: TRPM8, TRPM2, TRPV1, TRPA1, TRPM3). Right shows a monochromatic drawing of Dr. David Julius.">
             <image mime-type="image/png" src="../../media/Figure-9.Y_The-TRP-ion-Channels.png"/>
           </media><caption>Signals responsible for temperature and pain sensation are transmitted by transient receptor potential (TRP) channels that activate across different temperature ranges.</caption>
         </figure>
         <figure id="Figure-9.Z">
           <title>TRP channels transduce temperature information</title>
-          <media alt=".">
+          <media alt="A cube of skin is shown with a free nerve ending being exposed to heat from a flame. The axonal fiber of the free nerve ending goes to a cell body in the dorsal horn of the spinal cord. A synapse is formed by the central branch from the cell body onto a dorsal horn neuron. The dorsal horn neuron sends its axon across the midline then up the spine into the brain. A zoom-in on the spot where the flame meets the nerve ending shows a somatosensory cell membrane with a TRP channel that opens in response to heat, allowing ions to flow into the cell.">
             <image mime-type="image/png" src="../../media/Figure-9.Z_TRP-channels-transduce-temperature-information.png"/>
           </media>
         </figure>
