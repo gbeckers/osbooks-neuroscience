@@ -84,7 +84,24 @@
     <section class="key-terms" id="sect-00005">
       <title>Key Terms</title>
       <list display="inline" id="list-00002">
-        <item>Ectoderm</item>
+        <item>retina</item>
+        <item>dorsal</item>
+        <item>ventral</item>
+        <item>superior</item>
+        <item>inferior</item>
+        <item>neuraxis</item>
+        <item>anterior</item>
+        <item>posterior</item>
+        <item>rostral</item>
+        <item>caudal</item>
+        <item>medial</item>
+        <item>ipsilateral</item>
+        <item>contralateral</item>
+        <item>coronal</item>
+        <item>saggital</item>
+        <item>horizontal</item>
+        <item>cerebral cortex</item>
+        <item>ectoderm</item>
         <item>neural plate</item>
         <item>neural tube</item>
         <item>prosencephalon</item>
@@ -101,7 +118,6 @@
         <item>lumbar</item>
         <item>sacral</item>
         <item>coccyx</item>
-        <item>central canal</item>
         <item>dorsal horn</item>
         <item>ventral horn</item>
         <item>dorsal root</item>

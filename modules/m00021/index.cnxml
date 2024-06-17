@@ -123,39 +123,39 @@
 <section class="key-terms" id="sect-00019">
   <title>Key Terms</title>
   <list display="inline" id="list-00002">
-    <item>neurons</item>
+    <item>neuron</item>
     <item>glia</item>
     <item>DNA</item>
-    <item>RNA</item>
+    <item>mRNA</item>
     <item>nucleus</item>
-    <item>neurogenesis</item>
+    <item>neurotransmitters</item>
     <item>ribosomes</item>
     <item>endoplasmic reticulum</item>
-    <item>golgi apparatus</item>
+    <item>Golgi apparatus</item>
     <item>lysosome</item>
     <item>mitochondria</item>
     <item>soma</item>
-    <item>neurotransmitters</item>
+    <item>axon</item>
+    <item>dendrite</item>
+    <item>afferent</item>
+    <item>efferent</item>
+    <item>interneurons,dendritic spines</item>
+    <item>axon hillock</item>
+    <item>axon collaterals</item>
+    <item>axon terminals</item>
+    <item>synapse</item>
+    <item>synaptic cleft</item>
+    <item>neuroglandular junction</item>
+    <item>neuromuscular junction</item>
     <item>astrocytes</item>
     <item>microglia</item>
     <item>phagocytes</item>
     <item>oligodendrocytes</item>
-    <item>schwann cell</item>
+    <item>Schwann cell</item>
     <item>myelin</item>
-    <item>synapse</item>
-    <item>afferent</item>
-    <item>efferent</item>
-    <item>interneurons</item>
-    <item>dendritic spines</item>
-    <item>axon hillock</item>
-    <item>axon collaterals</item>
-    <item>axon terminals</item>
-    <item>synaptic cleft</item>
-    <item>neuroglandular junction</item>
-    <item>neuromuscular junction</item>
-    <item>GFP</item>
     <item>immunofluorescence</item>
-    <item>golgi stain</item>
+    <item>Golgi stain</item>
+    <item>GFP</item>
   </list>
 </section>
 
