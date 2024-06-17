@@ -19,7 +19,7 @@
     <para id="para-00020">Where in the body is the biological clock that regulates circadian rhythmicity? As we have described in the previous section, nearly all organisms possess circadian rhythms, including birds, mammals, plants, and single celled organisms. Across these various organisms you can find functional clock mechanisms within many different tissues. For example, the retina secretes melatonin in a rhythmic daily pattern in birds. Here we will focus on the clock in mammals, which is located in an area of the brain known as the <term id="term-00001">suprachiasmatic nucleus</term> (<term id="term-00002">SCN</term>) (<link target-id="Image-15.09"/>), but we will also note organismal variation. The SCN is often described as the master clock in mammals, as it drives rhythms in physiology and behavior that, in turn, synchronize the timing of clocks in other tissues. The SCN receives light input from cells in the retina, and in turn this brain structure regulates rhythms throughout the body.</para>
 
     <figure id="Image-15.09"><title>Suprachiasmatic nucleus of the hypothalamus</title>
-      <media alt="Diagram of a sagittal view of human brain, showing hypothalamus on the ventral surface, anterior to the brain stem. Zoom-in shows the SCN as a small nuclei at the anterior tip of the hypothalamus.">
+      <media alt="Diagram of a sagittal view of human brain, showing hypothalamus on the ventral surface, anterior to the brainstem. Zoom-in shows the SCN as a small nuclei at the anterior tip of the hypothalamus.">
         <image mime-type="image/png" src="../../media/Image-15.09_Suprachiasmatic-nucleus-of-the-hypothalamus.png"/>
       </media>
     </figure>
@@ -59,7 +59,7 @@
     <para id="para-00029">As we have discussed, information about environmental light is transmitted to the SCN from the retina via the retinohypothalamic tract, a pathway of retinal ganglion cells that is not part of the image-forming visual system (Figure 15.16"/>).</para>
     
     <figure id="Image-15.16"><title>Inputs to the SCN</title>
-      <media alt="Diagram of connections in human with an eye and sagittal section of human brain/SCN. From the eye, ipRGC axons release glutamate and PACA on the SCN. SCN also gets inputs from intergeniculate leaflet of the thalamus (NPY) in the middle of the brain and raphe nuclei (5HT) in the brain stem. ipRGCs also send input to intergeniculate leaflet of the thalamus.">
+      <media alt="Diagram of connections in human with an eye and sagittal section of human brain/SCN. From the eye, ipRGC axons release glutamate and PACA on the SCN. SCN also gets inputs from intergeniculate leaflet of the thalamus (NPY) in the middle of the brain and raphe nuclei (5HT) in the brainstem. ipRGCs also send input to intergeniculate leaflet of the thalamus.">
         <image mime-type="image/png" src="../../media/Image-15.16_Inputs-to-the-SCN.png"/>
       </media><caption>The SCN receives several modulating inputs which contribute to entraining its activity to cues.</caption>
     </figure>

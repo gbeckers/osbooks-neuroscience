@@ -49,7 +49,7 @@
       <para id="para-00010">The central concept in understanding how gaze and balance are maintained is <term id="term-00016">feedback</term>: movements that displace the body or the eyes from the desired position produce signals in the vestibular system that output to the specific muscles that generate a corrective or compensatory movement. The vestibular reflexes are some of the fastest in the body, and to achieve that speed, the underlying circuitry is relatively simple.</para>
       <para id="para-00011">The <term id="term-00017">vestibulo-ocular reflex (VOR)</term> is the simplest and most easily demonstrated vestibular reflex. Hold a finger up at arm’s length directly in front of your eyes, and then rotate your head from side to side while maintaining your gaze on the finger. Notice how the image of the finger remains sharp and stable. Now try moving your finger back and forth while holding your head still and notice how the image starts to blur. The blurring occurs because the brain is not fast enough to adjust the position of the eyes in response to a rapidly changing visual stimulus: there are many synapses between the retina and the muscles of the eyes, and computing the position of a moving object from a visual image is not trivial.</para>
       <figure id="Image-7.24"><title>Central vestibular pathways</title>
-        <media alt="Diagram showing neural pathway from cochlea to vestibular nuclei in the brain stem.">
+        <media alt="Diagram showing neural pathway from cochlea to vestibular nuclei in the brainstem.">
           <image mime-type="image/png" src="../../media/Image-7.24_Central-vestibular-pathways.png"/>
         </media>
       <caption></caption>
