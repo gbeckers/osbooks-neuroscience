@@ -50,19 +50,31 @@
       <item>motor field</item>
       </list> </section>
       <section class="references" id="sect-00004"><title>References</title> 
-        <para id="para-00003">Bollimunta, A., Bogadhi, A. R., &amp; Krauzlis, R. J. (2018). Comparing frontal eye field and superior colliculus contributions to covert spatial attention. <emphasis effect="italics">Nat Commun</emphasis>, <emphasis effect="italics">9</emphasis>:3553.</para>
-        <para id="para-00006">Braun, D., Weber, H., Mergner, T., &amp; Schulte-Mönting, J. (1992). Saccadic reaction times in patients with frontal and parietal lesions. <emphasis effect="italics">Brain</emphasis>, <emphasis effect="italics">115</emphasis> (Pt 5), 1359–1386.</para>
-        <para id="para-00007">Bruce, C. J., Goldberg, M. E., Bushnell, M. C., &amp; Stanton, G. B. (1985). Primate frontal eye fields. II. Physiological and anatomical correlates of electrically evoked eye movements. <emphasis effect="italics">J Neurophysiol</emphasis>, <emphasis effect="italics">54</emphasis>(3), 714–734.</para>
-        <para id="para-00008">Craighero, L., &amp; Rizzolatti, G. (2005). The premotor theory of attention. In L. Itti, G. Rees, &amp; J. K. Tsotsos (Eds.), <emphasis effect="italics">Neurobiology of attention</emphasis> (pp. 181-186). Cambridge, MA: Academic Press.</para>
-        <para id="para-00009">Fernández, A., Hanning, N. M., &amp; Carrasco, M. (2023). Transcranial magnetic stimulation to frontal but not occipital cortex disrupts endogenous attention. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">120</emphasis>:e2219635120.</para>
-        <para id="para-00010">Gan, T., Huang, Y., Hao, X., Hu, L., Zheng, Y., &amp; Yang, Z. (2022). Anodal tDCS over the left frontal eye field improves sustained visual search performance. <emphasis effect="italics">Perception</emphasis>, <emphasis effect="italics">51</emphasis>, 263–275.</para>
-        <para id="para-00011">Hunt, A. R., Reuther, J., Hilchey, M. D., &amp; Klein, R. M. (2019). The relationship between spatial attention and eye movements. <emphasis effect="italics">Curr Top Behav Neurosci</emphasis>, <emphasis effect="italics">41</emphasis>, 255–278.</para>
-        <para id="para-00012">Klein, R. M. (1980). Does oculomotor readiness mediate cognitive control of visual attention? In R. Nickerson (Ed.), <emphasis effect="italics">Attention and performance VIII</emphasis> (pp. 259-276). Cambridge, MA: Academic Press.</para>
-        <para id="para-00013">Moore, T., &amp; Fallah, M. (2001). Control of eye movements and spatial attention. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">98</emphasis>, 1273–1276.</para>
-        <para id="para-00014">Moore, T., &amp; Armstrong, K. M. (2003). Selective gating of visual signals by microstimulation of frontal cortex. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">421</emphasis>, 370–373.</para>
-        <para id="para-00015">Morishima, Y., Akaishi, R., Yamada, Y., Okuda, J., Toma, K., &amp; Sakai, K. (2009). Task-specific signal transmission from prefrontal cortex in visual selective attention. <emphasis effect="italics">Nat Neurosci</emphasis>, <emphasis effect="italics">12</emphasis>, 85–91.</para>
-        <para id="para-00016">Nobre, A. C., Gitelman, D. R., Dias, E. C., &amp; Mesulam, M. M. (2000). Covert visual spatial orienting and saccades: Overlapping neural systems. <emphasis effect="italics">Neuroimage</emphasis>, <emphasis effect="italics">11</emphasis>, 210–216.</para>
-        <para id="para-00017">Rizzolatti, G., Riggio, L., Dascola, I., &amp; Umiltá, C. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. <emphasis effect="italics">Neuropsychologia</emphasis>, <emphasis effect="italics">25</emphasis>(1), 31–40.</para>
+        <para id="para-00003">Bollimunta, A., Bogadhi, A. R., &amp; Krauzlis, R. J. (2018). Comparing frontal eye field and superior colliculus contributions to covert spatial attention. <emphasis effect="italics">Nature Communications</emphasis>, <emphasis effect="italics">9</emphasis>, 3553. https://doi.org/10.1038/s41467-018-06042-2</para>
+        
+        <para id="para-00006">Braun, D., Weber, H., Mergner, T., &amp; Schulte-Mönting, J. (1992). Saccadic reaction times in patients with frontal and parietal lesions. <emphasis effect="italics">Brain</emphasis>, <emphasis effect="italics">115</emphasis>(5), 1359–1386. https://doi.org/10.1093/brain/115.5.1359</para>
+        
+        <para id="para-00007">Bruce, C. J., Goldberg, M. E., Bushnell, M. C., &amp; Stanton, G. B. (1985). Primate frontal eye fields. II. Physiological and anatomical correlates of electrically evoked eye movements. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">54</emphasis>(3), 714–734. https://doi.org/10.1152/jn.1985.54.3.714</para>
+        
+        <para id="para-00008">Craighero, L., &amp; Rizzolatti, G. (2005). The premotor theory of attention. In L. Itti, G. Rees, &amp; J. K. Tsotsos (Eds.), <emphasis effect="italics">Neurobiology of attention</emphasis> (pp. 181-186). Academic Press.</para>
+        
+        <para id="para-00009">Fernández, A., Hanning, N. M., &amp; Carrasco, M. (2023). Transcranial magnetic stimulation to frontal but not occipital cortex disrupts endogenous attention. <emphasis effect="italics">Proceedings of the National Academy of Sciences - PNAS</emphasis>, <emphasis effect="italics">120</emphasis>(10), e2219635120. https://doi.org/10.1073/pnas.2219635120</para>
+        
+        <para id="para-00010">Gan, T., Huang, Y., Hao, X., Hu, L., Zheng, Y., &amp; Yang, Z. (2022). Anodal tDCS over the left frontal eye field improves sustained visual search performance. <emphasis effect="italics">Perception</emphasis>, <emphasis effect="italics">51</emphasis>(4), 263–275. https://doi.org/10.1177/03010066221086446</para>
+        
+        <para id="para-00011">Hunt, A. R., Reuther, J., Hilchey, M. D., &amp; Klein, R. M. (2019). The relationship between spatial attention and eye movements. <emphasis effect="italics">Current topics in behavioral neurosciences</emphasis>, <emphasis effect="italics">41</emphasis>, 255–278. https://doi.org/10.1007/7854_2019_95</para>
+        
+        <para id="para-00012">Klein, R. M. (1980). Does oculomotor readiness mediate cognitive control of visual attention? In R. Nickerson (Ed.), <emphasis effect="italics">Attention and performance VIII</emphasis> (pp. 259-276). Academic Press.</para>
+          
+        <para id="para-00014">Moore, T., &amp; Armstrong, K. M. (2003). Selective gating of visual signals by microstimulation of frontal cortex. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">421</emphasis>, 370–373. https://doi.org/10.1038/nature01341</para>
+
+        <para id="para-00013">Moore, T., &amp; Fallah, M. (2001). Control of eye movements and spatial attention. <emphasis effect="italics">Proceedings of the National Academy of Sciences - PNAS</emphasis>, <emphasis effect="italics">98</emphasis>(3), 1273–1276. https://doi.org/10.1073/pnas.98.3.1273</para>
+        
+        <para id="para-00015">Morishima, Y., Akaishi, R., Yamada, Y., Okuda, J., Toma, K., &amp; Sakai, K. (2009). Task-specific signal transmission from prefrontal cortex in visual selective attention. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">12</emphasis>(1), 85–91. https://doi.org/10.1038/nn.2237</para>
+        
+        <para id="para-00016">Nobre, A. C., Gitelman, D. R., Dias, E. C., &amp; Mesulam, M. M. (2000). Covert visual spatial orienting and saccades: Overlapping neural systems. <emphasis effect="italics">Neuroimage</emphasis>, <emphasis effect="italics">11</emphasis>(3), 210–216. https://doi.org/10.1006/nimg.2000.0539</para>
+        
+        <para id="para-00017">Rizzolatti, G., Riggio, L., Dascola, I., &amp; Umiltá, C. (1987). Reorienting attention across the horizontal and vertical meridians: Evidence in favor of a premotor theory of attention. <emphasis effect="italics">Neuropsychologia</emphasis>, <emphasis effect="italics">25</emphasis>(1), 31–40. https://doi.org/10.1016/0028-3932(87)90041-8</para>
                </section>
       
       <section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title>
