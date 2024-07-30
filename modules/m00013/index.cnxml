@@ -80,19 +80,30 @@
       </section>
       <section class="references" id="sect-00006">
         <title>References</title>
-        <para id="para-00023">Balasubramanian V (2021) Brain power. Proc Natl Acad Sci 118 Available at: https://pnas.org/doi/full/10.1073/pnas.2107022118.</para>
-        <para id="para-00024">Berger TW, Hampson RE, Song D, Goonawardena A, Marmarelis VZ, Deadwyler S a (2011) A cortical neural prosthesis for restoring and enhancing memory. J Neural Eng 8:046017 Available at: http://www.ncbi.nlm.nih.gov/pubmed/21677369 [Accessed June 17, 2011].</para>
-        <para id="para-00025">Berger TW, Song D, Chan RHM, Marmarelis VZ, LaCoss J, Wills J, Hampson RE, Deadwyler SA, Granacki JJ (2012) A Hippocampal Cognitive Prosthesis: Multi-Input, Multi-Output Nonlinear Modeling and VLSI Implementation. IEEE Trans Neural Syst Rehabil Eng 20:198–211.</para>
-        <para id="para-00026">Brown GD (1998) Nonassociative learning processes affecting swimming probability in the seaslug <emphasis effect="italics">Tritonia diomedea</emphasis>: habituation, sensitization and inhibition. Behav Brain Res 95:151–165 Available at: http://www.ncbi.nlm.nih.gov/pubmed/9806436.</para>
-        <para id="para-00027">Calin-Jageman RJ, Tunstall MJ, Mensh BD, Katz PS, Frost WN (2007) Parameter space analysis suggests multi-site plasticity contributes to motor pattern initiation in Tritonia. J Neurophysiol 98:2382–2398 Available at: http://www.ncbi.nlm.nih.gov/pubmed/17652417.</para>
-        <para id="para-00028">Deadwyler SA, Berger TW, Sweatt AJ, Song D, Chan RHM, Opris I, Gerhardt GA, Marmarelis VZ, Hampson RE (2013) Donor/recipient enhancement of memory in rat hippocampus. Front Syst Neurosci 7 Available at: http://journal.frontiersin.org/article/10.3389/fnsys.2013.00120/abstract.</para>
-        <para id="para-00029">Getting PA (1983) Mechanisms of pattern generation underlying swimming in <emphasis effect="italics">Tritonia</emphasis>. II. Network reconstruction. J Neurophysiol 49:1017–1035 Available at: https://www.physiology.org/doi/10.1152/jn.1983.49.4.1017.</para>
-        <para id="para-00030">Hampson RE, Song D, Robinson BS, Fetterhoff D, Dakos AS, Roeder BM, She X, Wicks RT, Witcher MR, Couture DE, Laxton AW, Munger-Clary H, Popli G, Sollman MJ, Whitlow CT, Marmarelis VZ, Berger TW, Deadwyler SA (2018) Developing a hippocampal neural prosthetic to facilitate human memory encoding and recall. J Neural Eng 15:036014 Available at: https://iopscience.iop.org/article/10.1088/1741-2552/aaaed7.</para>
-        <para id="para-00031">Herculano-Houzel S (2012) The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. Proc Natl Acad Sci U S A 109:10661–10668.</para>
-        <para id="para-00032">Hoppe T (1998) An evaluation of the role of synaptic depression at afferent synapses in habituation of the escape swim response of <emphasis effect="italics">Tritonia diomedea</emphasis>.</para>
-        <para id="para-00033">Katz PS, Frost WN (1997) Removal of Spike Frequency Adaptation via Neuromodulation Intrinsic to the <emphasis effect="italics">Tritonia</emphasis> Escape Swim Central Pattern Generator. J Neurosci 17:7703–7713 Available at: https://www.jneurosci.org/lookup/doi/10.1523/JNEUROSCI.17-20-07703.1997.</para>
-       <para id="para-00034">Willows AOD, Hoyle G (1969) Neuronal Network Triggering a Fixed Action Pattern. Science (80- ) 166:1549–1551 Available at: https://www.science.org/doi/10.1126/science.166.3912.1549.
-</para>
+        <para id="para-00023">Balasubramanian, V. (2021.) Brain power. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">118</emphasis>(32), e2107022118. https://doi.org/10.1073/pnas.2107022118</para>
+        
+        <para id="para-00024">Berger, T.W., Hampson, R.E., Song, D., Goonawardena, A., Marmarelis, V.Z., &amp; Deadwyler, S.A. (2011). A cortical neural prosthesis for restoring and enhancing memory. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">8</emphasis>(4), 046017. https://doi.org/10.1088/1741-2560/8/4/046017</para>
+        
+        <para id="para-00025">Berger, T.W., Song, D., Chan, R.H.M., Marmarelis, V.Z., LaCoss, J., Wills, J., Hampson, R.E., Deadwyler, S.A., &amp; Granacki, J.J. (2012). A hippocampal cognitive prosthesis: Multi-input, multi-output nonlinear modeling and VLSI implementation. <emphasis effect="italics">IEEE Transactions on Neural Systems and Rehabilitation Engineering</emphasis>, <emphasis effect="italics">20</emphasis>(2), 198–211. https://doi.org/10.1109/TNSRE.2012.2189133</para>
+        
+        <para id="para-00026">Brown, G.D. (1998). Nonassociative learning processes affecting swimming probability in the seaslug Tritonia diomedea: habituation, sensitization and inhibition. <emphasis effect="italics">Behavioural Brain Research</emphasis>, <emphasis effect="italics">95</emphasis>(2), 151–165. https://doi.org/10.1016/S0166-4328(98)00072-2</para>
+        
+        <para id="para-00027">Calin-Jageman, R.J., Tunstall, M.J., Mensh, B.D., Katz, P.S., &amp; Frost, W.N. (2007). Parameter space analysis suggests multi-site plasticity contributes to motor pattern initiation in Tritonia. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">98</emphasis>(4), 2382–2398. https://doi.org/10.1152/jn.00572.2007</para>
+        
+        <para id="para-00028">Deadwyler, S.A., Berger, T.W., Sweatt, A.J., Song, D., Chan, R.H.M., Opris, I., Gerhardt, G.A., Marmarelis, V.Z., &amp; Hampson, R.E. (2013). Donor/recipient enhancement of memory in rat hippocampus. <emphasis effect="italics">Frontiers in Systems Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>. https://doi.org/10.3389/fnsys.2013.00120</para>
+        
+        <para id="para-00029">Getting, P.A. (1983). Mechanisms of pattern generation underlying swimming in Tritonia. II. Network reconstruction. <emphasis effect="italics">Journal of Neurophysiology,</emphasis>, <emphasis effect="italics">49</emphasis>(4), 1017–1035. https://doi.org/10.1152/jn.1983.49.4.1017</para>
+        
+        <para id="para-00030">Hampson, R.E., Song, D., Robinson, B.S., Fetterhoff, D., Dakos, A.S., Roeder, B.M., She, X., Wicks, R.T., Witcher, M.R., Couture, D.E., Laxton, A.W., Munger-Clary, H., Popli, G., Sollman, M.J., Whitlow, C.T., Marmarelis, V.Z., Berger, T.W., &amp; Deadwyler, S.A. (2018). Developing a hippocampal neural prosthetic to facilitate human memory encoding and recall. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">15</emphasis>(3), 036014. https://doi.org/10.1088/1741-2552/aaaed7</para>
+        
+        <para id="para-00031">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics"> 109</emphasis>(Supplement 1), 10661–10668. https://doi.org/10.1073/pnas.1201895109</para>
+        
+        <para id="para-00032">Hoppe, T. (1998). <emphasis effect="italics">An evaluation of the role of synaptic depression at afferent synapses in habituation of the escape swim response of Tritonia diomedea</emphasis>. Master's thesis,The University of Texas Health Science Center at Houston.
+        </para>
+        
+        <para id="para-00033">Katz, P.S., &amp; Frost, W.N. (1997). Removal of spike frequency adaptation via neuromodulation intrinsic to the Tritonia escape swim central pattern generator. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">17</emphasis>,(20), 7703–7713. https://doi.org/10.1523/jneurosci.17-20-07703.1997</para>
+       
+        <para id="para-00034">Willows, A.O.D., &amp; Hoyle, G. (1969). Neuronal network triggering a fixed action pattern. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">166</emphasis>(3912), 1549–1551. https://doi.org/10.1126/science.166.3912.1549</para>
       </section>
       <section class="multiple-choice" id="sect-00007">
         <title>Multiple Choice</title>

@@ -203,19 +203,31 @@
 
 <section class="references" id="sect-00020">
   <title>References</title>
-  <para id="para-00031">Blackburn, D., Sargsyan, S., Monk, P.N., &amp; Shaw, P.J. (2009). Astrocyte function and role in motor neuron disease: A future therapeutic target? <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">57</emphasis>, 1251–1264.</para>
-  <para id="para-00032">Delgado-García, J.M. (2015). Cajal and the Conceptual Weakness of Neural Sciences. <emphasis effect="italics">Front Neuroanat</emphasis>, <emphasis effect="italics">9</emphasis>, 128.</para>
-  <para id="para-00033">Dossi, E., Vasile, F., &amp; Rouach, N. (2018). Human astrocytes in the diseased brain. <emphasis effect="italics">Brain Research Bulletin</emphasis>, <emphasis effect="italics">136</emphasis>, 139–156.</para>
-  <para id="para-00034">Drachman, D.A. (2005). Do we have brain to spare? <emphasis effect="italics">Neurology</emphasis>, <emphasis effect="italics">64</emphasis>, 2004–2005.</para>
-  <para id="para-00035">Herculano-Houzel, S. (2009). The human brain in numbers: a linearly scaled-up primate brain. <emphasis effect="italics">Frontiers in Human Neuroscience</emphasis>, <emphasis effect="italics">3</emphasis>, 31.</para>
-  <para id="para-00036">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proc Natl Acad Sci U S A</emphasis>, <emphasis effect="italics">109</emphasis> Suppl 1, 10661–10668.</para>
-  <para id="para-00037">Herculano-Houzel, S. (2021). Neuroscience explains exactly why we should be grateful for…our brains. Fast Company. Available at: https://www.fastcompany.com/90698752/neuroscience-explains-exactly-why-we-should-be-grateful-for-our-brains.</para>
-  <para id="para-00038">Jäkel, S., &amp; Dimou, L. (2017). Glial Cells and Their Function in the Adult Brain: A Journey through the History of Their Ablation. <emphasis effect="italics">Front Cell Neurosci</emphasis>, <emphasis effect="italics">11</emphasis>, 24.</para>
-  <para id="para-00039">Kann, O., &amp; Kovács, R. (2007). Mitochondria and neuronal activity. <emphasis effect="italics">American Journal of Physiology-Cell Physiology</emphasis>, <emphasis effect="italics">292</emphasis>, C641–C657.</para>
-  <para id="para-00040">Kettenmann, H., &amp; Ransom, B.R. (2013). <emphasis effect="italics">Neuroglia</emphasis> (3rd ed.). Oxford; New York: Oxford University Press.</para>
-  <para id="para-00041">Kwon, D. (2021). Could Mitochondria Be the Key to a Healthy Brain? Scientific American. Available at: https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/.</para>
-  <para id="para-00042">Siegel, J. (2023). Scientists unveil first complete cellular map of adult mouse brain. Available at: https://alleninstitute.org/news/scientists-unveil-first-complete-cellular-map-of-adult-mouse-brain/</para>
-  <para id="para-00043">Vanderbilt University Research News. (2017). Sorry, Grumpy Cat—Study finds dogs are brainier than cats. Available at: https://news.vanderbilt.edu/2017/11/29/grumpy-cat-study-dogs/</para>
+  <para id="para-00031">Blackburn, D., Sargsyan, S., Monk, P.N., &amp; Shaw, P.J. (2009). Astrocyte function and role in motor neuron disease: A future therapeutic target? <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">57</emphasis>(12), 1251–1264. https://doi.org/10.1002/glia.20848</para>
+  
+  <para id="para-00032">Delgado-García, J.M. (2015). Cajal and the conceptual weakness of neural sciences. <emphasis effect="italics">Frontiers in Neuroanatomy</emphasis>, <emphasis effect="italics">9</emphasis>, 128. https://doi.org/10.3389/fnana.2015.00128</para>
+  
+  <para id="para-00033">Dossi, E., Vasile, F., &amp; Rouach, N. (2018). Human astrocytes in the diseased brain. <emphasis effect="italics">Brain Research Bulletin</emphasis>, <emphasis effect="italics">136</emphasis>, 139–156. https://doi.org/10.1016/j.brainresbull.2017.02.001</para>
+  
+  <para id="para-00034">Drachman, D.A. (2005). Do we have brain to spare? <emphasis effect="italics">Neurology</emphasis>, <emphasis effect="italics">64</emphasis>(12), 2004–2005. https://doi.org/10.1212/01.WNL.0000166914.38327.BB</para>
+  
+  <para id="para-00035">Herculano-Houzel, S. (2009). The human brain in numbers: A linearly scaled-up primate brain. <emphasis effect="italics">Frontiers in Human Neuroscience</emphasis>, <emphasis effect="italics">3</emphasis>, 31. https://doi.org/10.3389/neuro.09.031.2009</para>
+  
+  <para id="para-00036">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proceedings of the National Academy of Sciences - PNAS</emphasis>, <emphasis effect="italics">109</emphasis>(Supplement 1), 10661–10668. https://doi.org/10.1073/pnas.1201895109</para>
+  
+  <para id="para-00037">Herculano-Houzel, S. (2021, November 24). Neuroscience explains exactly why we should be grateful for…our brains. <emphasis effect="italics">Fast Company</emphasis>. https://www.fastcompany.com/90698752/neuroscience-explains-exactly-why-we-should-be-grateful-for-our-brains.</para>
+  
+  <para id="para-00038">Jäkel, S., &amp; Dimou, L. (2017). Glial cells and their function in the adult brain: A journey through the history of Their Ablation. <emphasis effect="italics">Frontiers in Cellular neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>, 24. https://doi.org/10.3389/fncel.2017.00024</para>
+  
+  <para id="para-00039">Kann, O., &amp; Kovács, R. (2007). Mitochondria and neuronal activity. <emphasis effect="italics">American Journal of Physiology: Cell Physiology</emphasis>, <emphasis effect="italics">292</emphasis>(2), C641–C657. https://doi.org/10.1152/ajpcell.00222.2006</para>
+  
+  <para id="para-00040">Kettenmann, H., &amp; Ransom, B.R. (2013). <emphasis effect="italics">Neuroglia</emphasis> (3rd ed.). Oxford University Press.</para>
+  
+  <para id="para-00041">Kwon, D. (2021, June 18). Could mitochondria be the key to a healthy brain? <emphasis effect="italics">Scientific American</emphasis>. https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/.</para>
+  
+  <para id="para-00042">Siegel, J. (2023, December 13). <emphasis effect="italics">Scientists unveil first complete cellular map of adult mouse brain</emphasis>. Allen Institute. https://alleninstitute.org/news/scientists-unveil-first-complete-cellular-map-of-adult-mouse-brain/</para>
+  
+  <para id="para-00043">Vanderbilt University Research News. (2017, November 29). <emphasis effect="italics">Sorry, Grumpy Cat—Study finds dogs are brainier than cats</emphasis>. https://news.vanderbilt.edu/2017/11/29/grumpy-cat-study-dogs/</para>
 </section>
   </content>
 </document>

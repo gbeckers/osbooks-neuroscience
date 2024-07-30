@@ -183,11 +183,15 @@
   <section class="references" id="sect-00016">
     <title>References</title>
     
-    <para id="para-00021">Cook, S.J., Jarrell, T.A., Brittin, C.A., Wang, Y., Bloniarz, A.E., Yakovlev, M.A., Nguyen, K.C.Q., Tang, L.T.-H., Bayer, E.A., Duerr, J.S., Bülow, H.E., Hobert, O., Hall, D.H., &amp; Emmons, S.W. (2019). Whole-animal connectomes of both <emphasis effect="italics">Caenorhabditis elegans</emphasis> sexes. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">571</emphasis>, 63–71.</para>
-    <para id="para-00022">Martinez, P., &amp; Sprecher, S.G. (2020). Of Circuits and Brains: The Origin and Diversification of Neural Architectures. <emphasis effect="italics">Front Ecol Evol</emphasis>, <emphasis effect="italics">8</emphasis>, 82.</para>
-    <para id="para-00023">Moreno-Camacho, C.A., Montoya-Torres, J.R., Jaegler, A., &amp; Gondran, N. (2019). Sustainability metrics for real case applications of the supply chain network design problem: A systematic literature review. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">231</emphasis>, 600–618.</para>
-    <para id="para-00024">Winding, M., et al. (2023). The connectome of an insect brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">379</emphasis>, eadd9330.</para>
-    <para id="para-00025">NIH. (2021). NIH BRAIN Initiative Unveils Detailed Atlas of the Mammalian Primary Motor Cortex. National Institutes of Health (NIH). Available at: https://www.nih.gov/news-events/news-releases/nih-brain-initiative-unveils-detailed-atlas-mammalian-primary-motor-cortex.</para>
+    <para id="para-00021">Cook, S.J., Jarrell, T.A., Brittin, C.A., Wang, Y., Bloniarz, A.E., Yakovlev, M.A., Nguyen, K.C.Q., Tang, L.T.-H., Bayer, E.A., Duerr, J.S., Bülow, H.E., Hobert, O., Hall, D.H., &amp; Emmons, S.W. (2019). Whole-animal connectomes of both <emphasis effect="italics">Caenorhabditis elegans</emphasis> sexes. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">571</emphasis>, 63–71. https://doi.org/10.1038/s41586-019-1352-7</para>
+    
+    <para id="para-00022">Martinez, P., &amp; Sprecher, S.G. (2020). Of circuits and brains: The origin and diversification of neural architectures. <emphasis effect="italics">Frontiers in Ecology and Evolution</emphasis>, <emphasis effect="italics">8</emphasis>, 82. https://doi.org/10.3389/fevo.2020.00082</para>
+    
+    <para id="para-00023">Moreno-Camacho, C.A., Montoya-Torres, J.R., Jaegler, A., &amp; Gondran, N. (2019). Sustainability metrics for real case applications of the supply chain network design problem: A systematic literature review. <emphasis effect="italics">Journal of Cleaner Production</emphasis>, <emphasis effect="italics">231</emphasis>, 600–618. https://doi.org/10.1016/j.jclepro.2019.05.278</para>
+    
+    <para id="para-00024">Winding, M., Pedigo, B.D., Barnes, C.L., Patsolic, H.G., Park, Y., Kazimiers, T., Fushiki, A., Andrade, I.V., Khandelwal, A., Valdes-Aleman, J., Li, F., Randel, N., Barsotti, E., Correia, A., Fetter, R.D., Hartenstein, V., Priebe, C.E., Vogelstein, J.T., Cardona, A., &amp; Zlatic, M. (2023). The connectome of an insect brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">379</emphasis>, eadd9330. https://doi.org/10.1126/science.add9330</para>
+    
+    <para id="para-00025">NIH. (2021, October 6). <emphasis effect="italics">NIH BRAIN Initiative Unveils Detailed Atlas of the Mammalian Primary Motor Cortex</emphasis>. National Institutes of Health (NIH). https://www.nih.gov/news-events/news-releases/nih-brain-initiative-unveils-detailed-atlas-mammalian-primary-motor-cortex.</para>
   </section>
   </content>
 </document>
