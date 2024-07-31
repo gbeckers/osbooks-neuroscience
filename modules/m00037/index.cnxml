@@ -67,23 +67,23 @@
       <section class="references" id="sect-00006"><title>References</title> 
         <para id="para-00016">Bakken, T. E., Jorstad, N. L., Hu, Q., et al. (2021). Comparative cellular analysis of motor cortex in human, marmoset and mouse. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">598</emphasis>, 111–119. https://doi.org/10.1038/s41586-021-03465-8</para>
 
-        <para id="para-00017">Finotello, F., &amp; Di Camillo, B. (2015). Measuring differential gene expression with RNA-seq: Challenges and strategies for data analysis. <emphasis effect="italics">Briefings in Functional Genomics</emphasis>, <emphasis effect="italics">14</emphasis>, 130–142.</para>
+        <para id="para-00017">Finotello, F., &amp; Di Camillo, B. (2015). Measuring differential gene expression with RNA-seq: Challenges and strategies for data analysis. <emphasis effect="italics">Briefings in Functional Genomics</emphasis>, <emphasis effect="italics">14</emphasis>(2), 130–142. https://doi.org/10.1093/bfgp/elu035</para>
         
-        <para id="para-00018">Khrameeva, E., Kurochkin, I., Han, D., et al. (2020). Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains. <emphasis effect="italics">Genome Research</emphasis>, <emphasis effect="italics">30</emphasis>, 776–789.</para>
+        <para id="para-00019">Kanton, S., Boyle, M. J., He, Z., et al. (2019). Organoid single-cell genomic atlas uncovers human-specific features of brain development. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">574</emphasis>, 418–422. https://doi.org/10.1038/s41586-019-1654-9</para>
         
-        <para id="para-00019">Kanton, S., Boyle, M. J., He, Z., et al. (2019). Organoid single-cell genomic atlas uncovers human-specific features of brain development. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">574</emphasis>, 418–422.</para>
-        
+        <para id="para-00018">Khrameeva, E., Kurochkin, I., Han, D., et al. (2020). Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains. <emphasis effect="italics">Genome Research</emphasis>, <emphasis effect="italics">30</emphasis>(5), 776–789. https://doi.org/10.1101/gr.256958.119</para>
+
         <para id="para-00020">Kim, M. H., Radaelli, C., Thomsen, E. R., et al. (2023). Target cell-specific synaptic dynamics of excitatory to inhibitory neuron connections in supragranular layers of human neocortex. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">12</emphasis>, e81863. https://doi.org/10.7554/eLife.81863</para>
         
-        <para id="para-00021">Ozsolak, F., &amp; Milos, P. M. (2010). RNA sequencing: Advances, challenges and opportunities. <emphasis effect="italics">Nature Reviews Genetics</emphasis>, <emphasis effect="italics">12</emphasis>, 87–98.</para>
-        
         <para id="para-00022">Krienen, F. M., Goldman, M., Zhang, Q., et al. (2020). Innovations present in the primate interneuron repertoire. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">586</emphasis>, 262–269. https://doi.org/10.1038/s41586-020-2781-z</para>
+
+        <para id="para-00021">Ozsolak, F., &amp; Milos, P. M. (2010). RNA sequencing: Advances, challenges and opportunities. <emphasis effect="italics">Nature Reviews Genetics</emphasis>, <emphasis effect="italics">12</emphasis>(2), 87–98. https://doi.org/10.1038/nrg2934</para>
         
-        <para id="para-00023">Pollen, A. A., Bhaduri, A., Andrews, M. G., et al. (2019). Establishing cerebral organoids as models of human-specific brain evolution. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">176</emphasis>, 743–756.</para>
+        <para id="para-00023">Pollen, A. A., Bhaduri, A., Andrews, M. G., et al. (2019). Establishing cerebral organoids as models of human-specific brain evolution. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">176</emphasis>(4), 743–756. https://doi.org/10.1016/j.cell.2019.01.017</para>
         
-        <para id="para-00024">Schörnig, M., Ju, X., Fast, L., et al. (2021). Comparison of induced neurons reveals slower structural and functional maturation in humans than in apes. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">10</emphasis>, e59323.</para>
+        <para id="para-00024">Schörnig, M., Ju, X., Fast, L., et al. (2021). Comparison of induced neurons reveals slower structural and functional maturation in humans than in apes. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">10</emphasis>, e59323. https://doi.org/10.7554/elife.59323</para>
         
-        <para id="para-00028">Van den Berge, K., Hembach, K. M., Soneson, C., Tiberi, S., Clement, L., Love, M. I., Patro, R., &amp; Robinson, M. D. (2019). RNA sequencing data: Hitchhiker's guide to expression analysis. <emphasis effect="italics">Annual Review of Biomedical Data Science</emphasis>, <emphasis effect="italics">2</emphasis>, 139–173.</para>        
+        <para id="para-00028">Van den Berge, K., Hembach, K. M., Soneson, C., Tiberi, S., Clement, L., Love, M. I., Patro, R., &amp; Robinson, M. D. (2019). RNA sequencing data: Hitchhiker's guide to expression analysis. <emphasis effect="italics">Annual Review of Biomedical Data Science</emphasis>, <emphasis effect="italics">2</emphasis>(1), 139–173. https://doi.org/10.1146/annurev-biodatasci-072018-021255</para>        
         
       </section>
       <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
