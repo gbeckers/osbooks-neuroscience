@@ -114,6 +114,16 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Sexual Development and Behavior</md:title>
+      <col:content>
+        <col:module document="m00101"/>
+        <col:module document="m00102"/>
+        <col:module document="m00103"/>
+        <col:module document="m00104"/>
+        <col:module document="m00105"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Stress</md:title>
       <col:content>
         <col:module document="m00078"/>
