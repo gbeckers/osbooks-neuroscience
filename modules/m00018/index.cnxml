@@ -9,128 +9,388 @@
     <section class="learning-objectives" id="sect-00006">
       <title>Learning Objectives</title>
       <para id="para-00006">By the end of this section, you should be able to</para>
-        <list id="list-00002" type="enumerated">
-          <item>Explain the components of a muscle from the individual muscle fiber to their combination.</item>
-          <item> Distinguish the roles of actin and myosin, troponin, and tropomyosin, and associating those molecules with the overall construction of the sarcomere along with their roles in establishing a pulling force.</item>
-          <item>Describe the process of skeletal muscle activation into contraction from their initial depolarization till the establishment of the pulling force, with a focus on the energy utilization along with fiber-type specialties.</item>
-          <item>Explain the differential contribution of motor units to the distinction of the two big-picture force generation mechanisms: The activation of each individual muscle fiber and accumulation of more muscle fiber contributions.</item>
-          <item>Differentiate between agonist, antagonist, and synergistic muscles, distinct fiber type contractile properties, and their contributions to movement.</item>
-          <item>Characterize muscle cramps and their sources and illustrates how rigor mortis sets in following death in the context of the molecular components of the muscle.</item>
-        </list>
+      <list id="list-00002" type="enumerated">
+        <item>Explain the components of a muscle from the individual muscle fiber to their
+          combination.</item>
+        <item> Distinguish the roles of actin and myosin, troponin, and tropomyosin, and associating
+          those molecules with the overall construction of the sarcomere along with their roles in
+          establishing a pulling force.</item>
+        <item>Describe the process of skeletal muscle activation into contraction from their initial
+          depolarization till the establishment of the pulling force, with a focus on the energy
+          utilization along with fiber-type specialties.</item>
+        <item>Explain the differential contribution of motor units to the distinction of the two
+          big-picture force generation mechanisms: The activation of each individual muscle fiber
+          and accumulation of more muscle fiber contributions.</item>
+        <item>Differentiate between agonist, antagonist, and synergistic muscles, distinct fiber
+          type contractile properties, and their contributions to movement.</item>
+        <item>Characterize muscle cramps and their sources and illustrates how rigor mortis sets in
+          following death in the context of the molecular components of the muscle.</item>
+      </list>
     </section>
-    <para id="para-00001">Disagreement among experts about what constitutes a single muscle leaves a lack of consensus about how many there are. Skeletal muscles can exist in a variety of shapes and sizes, producing diverse quotes of total numbers across the literature. Those advocating higher numbers point to increased movement versatility in select regions where simple opposing pairs can’t define the movement (face, tongue). A <emphasis effect="italics">rough</emphasis> approximation would be 640 total muscles arranged in antagonistic pairs with one muscle bending a limb joint and the other involved in its extension. Each muscle is composed of many muscle cells (fibers) capable of contraction with diverse outcomes depending on their attachments. In this section we will examine the structure of muscle fibers and consider the mechanisms that control them.</para>
-<section id="sect-00007"><title>What constitutes muscle cells and their contractile elements?</title>
-  <para id="para-00007">To reach our goal here, it is important to envision the whole and the functional system we’re discussing. Neural signals need to be sent from their sources in the spinal cord or brainstem out to merge with sets of skeletal muscles where these neurons release neurotransmitter and engage contractions. Neurotransmitter release happens at the terminals of these motoneurons, where it then binds to receptors at distinct locations constituting “the muscle.” This binding initiates a cascade of events that leads to muscle contraction, garnering different amounts of force as needed for actions. This phenomenon involves the actions of several players whose names and roles will now be more specifically delineated. Knowing the players will help to understand how the team wins desired actions with intelligent sophistication.</para>
-  <para id="para-00008">The individual muscle cell is called a muscle fiber, or myofiber. Myofibers arrange themselves in parallel to add cooperative force, or in series (connected end-to-end) to provide length so contraction velocity can build, by accumulating themselves between tendon attachments. <link target-id="Image-10.08"/> shows how a muscle mass is composed of multiple muscle fibers (arranged in parallel or series).</para>
-  <figure id="Image-10.08"><title>Muscle to sarcomere</title>
-    <media alt="Diagram with overview of muscle structure. Top shows a whole muscle, then zoom in on a single muscle fiber, then zoom in on myofibril, which is shown as a tube with repeating line patterns. The core pattern is labeled the sarcomere. Zoom in on the sarcomere shows a thick middle line (myosin filament) with forked thin lines (actin filament) on either side. Zoom in on where thick and thin filament are closest shows a globular myosin head reaching near the thin filament. The thin filament, which appears as a twisted string of actin monomers, is wrapped by a thinner red line (tropomyosin), which has globular proteins (troponin) resting on it at every twist of the thin filament.">
-      <image mime-type="png" src="../../media/Image-10.08_Muscle-to-sarcomere.png"/>
-    </media>
-  </figure>
-  <para id="para-00009">Individual myofibers can be several centimeters in length and are typically about 80μm in diameter. Each myofiber or muscle fiber contains multiple <term id="term-00001">myofibrils</term>. Myofibrils are elongated rods composed of repeating patterns of proteins. These proteins provide the basis of contraction due to being made up of components that can be induced by the cascade following neurotransmitter receptor activation to pull against each other, shrinking the internal mass, and pulling connected body parts closer together. The more myofibrils packed into a muscle fiber, the more force that muscle fiber can produce. The repeating protein patterns of myofibrils create darker and lighter bands that are visible when looking at muscles. Therefore, skeletal muscles are called "striated."</para>
-<para id="para-00010">Within the bundles of myofibrils, the repeating protein patterns represent multiple contractile units called <term id="term-00002">sarcomeres</term>. Several sarcomeres repeat in series along the length of a myofiber. The lower half of <link target-id="Image-10.08"/> shows how each sarcomere is bounded on the outside by a <term id="term-00003">Z-disk</term>, into which the tail ends of actin "thin" filaments embed, holding them tightly. <term id="term-00004">Actin</term> are composed of actin protein monomers strung together and wrapped around each other in double helixes. At each full cycle along the helix of each actin filament, there resides a binding site for myosin that is typically covered by <term id="term-00005">tropomyosin</term>, which is a long filamentous peptide chain following the actin helix around each curve.</para>
-<para id="para-00011">The actin/tropomyosin filaments make up the "thin filaments" of the sarcomere. Between the protruding strands of actin/tropomyosin, in a separate bundle held in place by the M-line in the middle of the sarcomere and thin strands of titin at either end, there are bunches of outward-facing <term id="term-00006">myosin</term>. These bundles end up with globular heads of myosin bulging out from the bundle at regular small intervals. The remaining portions of myosin are buried in a way that appears like twisted microscopic grape vines (fiber represented by vine, and grapes representing globular heads, middle portion of blowup in <link target-id="Image-10.08"/>). These myosin bundles extend from the center and comprise "thick" filaments. Finally, along the actin/tropomyosin thin filaments, and at regular intervals near the myosin binding sites, the <term id="term-00007">troponin</term> molecules are found to be attached to both the actin and the tropomyosin (shown in the smaller detail box at the bottom of <link target-id="Image-10.08"/>).</para>
-</section>
-<section id="sect-00008"><title>How does a sarcomere generate contraction?</title>
-<para id="para-00012">The basic contraction action of a sarcomere is a repeating cycle in which the myosin heads grab and crawl along the actin/tropomyosin filaments from one binding site to the next, pulling the Z-disks closer together (see <link target-id="Image-10.09"/>, and <link url="https://openstax.org/r/Neuro10Contract">watch an animation</link>). This process involves the formation and breakage of cross-bridges between the myosin globular heads and the binding sites along each turn of the actin alpha-helix, initially covered by tropomyosin. To envision how this looks across the sarcomere, imagine the whole thick filament is a caterpillar, its feet lifting from the leaf (actin) and moving forward while others remain planted for stability. While some actin sites are bound by globular myosin heads (caterpillar feet on the leaf), other globular heads are dissociating and thrusting forward to bind again (caterpillar feet lifted off the leaf). This way, the myosin chain pulls actin and its tethered Z-discs inward.</para>
-<figure id="Image-10.09"><title>Actin myosin contraction cycle</title>
-  <media alt="A cycle diagram of the actin-myosin interaction that forms the cross-bridge cycle.  The thin filament, which appears as a twisted string of actin monomers, is wrapped by a thinner red line (tropomyosin), which has globular proteins (troponin) resting on it at every twist of the thin filament. The changes in this relationship are: 1. ADP- bound myosin head is 'cocked' and ready to bind to actin. 2. In presence of Ca2+ , Ca2+ binds to troponin, exposing binding sites for myosin. 3. The bound myosin rotates its head, producing a 'power stroke’. 4. ATP molecule binds to the myosin head. 5. Actin and myosin detach.">
-    <image mime-type="png" src="../../media/Image-10.09_Actin-myosin-contraction-cycle.png"/>
-  </media>
-</figure>
-<para id="para-00013">So how is this cycle controlled? Our muscles don't just contract randomly. They contract when our motor neurons tell them to. Calcium is the critical component that controls when this cycle can happen. As described above, myosin grabs on to actin, sticking to binding sites on the actin protein. Without calcium present, those binding sites are blocked by tropomyosin. In response to an upstream action potential in a motor neuron, calcium is released inside the muscle cell. The calcium binds with troponin. Calcium-bound troponin changes shape and acts as a wedge, prying the tropomyosin strand away from the actin strand (Step 2 in <link target-id="Image-10.09"/>). This shift exposes the myosin binding sites on actin.</para>
-<para id="para-00014">Once myosin binds with actin, myosin initiates the "<term id="term-00008">power stroke</term>," changing its shape so as to pull the actin chain toward the center of the sarcomere (Step 3). At the end of the power stroke, an ADP molecule falls off the myosin and an ATP binds to the myosin head instead (Step 4). The ATP binding changes the shape of myosin again, causing it to fall off the actin binding sites (Step 5). When the ATP gets broken back down into ADP + phosphate, the myosin relaxes back to its original position (Step 1). If calcium is present, the cycle can repeat. Though we show this cycle at one specific actin-myosin pair, keep in mind that it occurs throughout the sarcomere, at many sites of potential actin-myosin contact (i.e. the many legs of the caterpillar).</para>
-<para id="para-00015">Contractile force entails two distinct processes: shortening and lengthening. This seems counter-intuitive. Isn't "contraction," by definition, "shortening?" Let's clarify by considering the difference between lifting a bowling ball versus catching a bowling ball. The experience of lifting a bowling ball is of course quite different than catching a bowling ball tossed to you. Lifting this ball requires establishing sufficient contractile force to initiate motion upward with muscles in the arms. Catching a bowling ball mostly involves slowing the ball's trajectory or momentum as it moves along rather than immediately reversing its movement. This is where "contractions" differ between shortening (lifting the ball) and lengthening (catching the ball). When the cycling of cross-bridges and power strokes produce sufficient force to counteract a load, muscles can engage <term id="term-00009">shortening contractions</term> and move the limb or body part (we lift the ball). The second category of contraction occurs when contraction force is insufficient to counteract a force, but it can be dampened or slowed down. Often this occurs against the force of gravity, as with the case of catching a bowling ball. The considerable inertia of the heavy bowling ball won't be immediately counteracted by muscle forces in our limbs. Instead, cycling and power strokes produce some counteractive force by attempting to bind and cycle, yet with cross-bridges getting progressively pulled apart like loosening a Velcro seal. These are <term id="term-00010">lengthening contractions</term>. This is analogous to picking up a caterpillar holding on to a leaf, its little legs progressively popping off, slowing your retrieval of the caterpillar. This is important to understand because it describes why some "contractions" seem to be hidden behind the scenes. Like when two muscle-bound competitors are locked in an arm wrestle stalemate, with their gripped hands quivering at the top, one competitor giving a bit (lengthening contraction), with the other gaining a bit (shortening contraction). Similarly, most of our run-of-the-mill movements involve multiple muscles, frequently mixing together shortening and lengthening contractions to achieve our final, desired movement.</para>
-</section>
-<section id="sect-00009"><title>From muscle cell action potentials to contractions</title>
-  <para id="para-00016">Sarcomere contraction relies on a surge of intracellular calcium which is initiated by an action potential that propagates through the muscle fiber. Action potentials of skeletal muscle fibers are initiated by synapsing <term id="term-00011">lower motor neurons</term> (LMNs). LMNs release acetylcholine (ACh) at neuron-muscle synapses called <term id="term-00012">neuromuscular junctions</term> (<link target-id="Image-10.20"/>).</para>
-  <figure id="Image-10.20"><title>Neuromuscular junction</title>
-    <media alt="Diagram of a human arm with muscles with a neuron represented as contacting the muscle. An inset shows the neuromuscular junction, which has an axon terminal ending on a muscle fiber. The muscle shows a pocket with ridges where the axon terminal sits.">
-      <image mime-type="png" src="../../media/Image-10.20_Neuromuscular-junction.png"/>
-    </media><caption>Axons of LMNs terminate on muscle fibers in a special synapse called the neuromuscular junction.</caption>
-  </figure>
-  <para id="para-00017">The postsynaptic side of these junctions expresses nicotinic ACh receptors, which gate sodium and therefore initiate depolarization when they open. By comparison to CNS neurons which receive thousands of excitatory inputs requiring summation to reach action potential, motoneurons synapse only once with muscle fibers. Thus, both the selection of <emphasis effect="italics">that</emphasis> fiber contraction and some control over the contractile force, derives from the bolus of acetylcholine (ACh) released upon the fiber. Motoneurons must therefore release large amounts of acetylcholine to ensure enough stimulation of the fiber and cause contraction. Most movement events need to be quick and snappy, and cannot wait for prolonged summation to occur, such as escape from predators.</para>
-  <para id="para-00018"><link target-id="Image-10.10"/> shows how initial sodium influx from ACh receptor activation triggers an action potential in the skeletal muscle. Depolarization of the muscle fiber membrane (<term id="term-00013">sarcolemma</term>) leads to muscle action potentials that are perpetuated across the fiber via voltage-gated sodium channels, much like an action potential travels down an axon (see <link document="m00011">Neurophysiology</link>). These sodium-based depolarization waves flash across the muscle fiber membrane and cause calcium release from internal stores in the <term id="term-00014">sarcoplasmic reticulum</term>. This calcium initiates contraction by starting the cycle described above.</para>
-  <figure id="Image-10.10"><title>Neuromuscular junction mechanism</title>
-    <media alt="Diagram of the intracellular actions at the neuromuscular junction. A presynaptic terminal is shown releasing neurotransmitter (acetylcholine) from vesicles. The transmitter binds to ion channels in the receiving muscle cell. Na+ influx is represented as spreading throughout the muscle. An in-folding of the muscle has a voltage-gated Na+ channel, that opens and allows in more Na+. The sarcoplasmic reticulum is shown releasing Ca2+ into the muscle in response to Na+. The Ca2+ diffuses to a sarcomere below.">
-      <image mime-type="png" src="../../media/Image-10.10_Neuromuscular-junction-mechanism.png"/>
-    </media>
-  </figure>
-</section>
-<note class="boxed-feature" id="note-00001">
-  <title>Differentiating the muscle fiber types</title>
-  <para id="para-00019">Your author has found himself attempting to quickly make it to a classroom after miscalculating the length of a casual walk. Along the way, his stride speed increases and the fear of being late might cause a burst of effort into a sprint on rare occasions when he pushes the last moment. Different muscle fibers are likely involved between these stages. Specialized myofiber types contain combinations of mainly myosin types along with levels of mitochondria and other components that render distinct properties in energy availability and contraction speed. Most of the time, each motor unit (LMN and connected fibers) connects to similar muscle fiber types so that these can be engaged differentially, though any damage and regrowth might disrupt this pattern over time. Several characteristics differentiate muscle fiber types, applying their characteristics into a rationale for a pattern of recruitment reserving large motor units or specific contraction bursts for last. There are 3 main types of muscle fibers: one slow-twitch (Type I) and two fast-twitch (Type IIA and Type IIX). Several key differences between them are summarized in <link target-id="Image-10.27"/>. Type I and Type IIA are the first recruited types of muscle fibers while Type IIX is reserved for later activation, when greater forces are needed.</para>
+    <para id="para-00001">Disagreement among experts about what constitutes a single muscle leaves a
+      lack of consensus about how many there are. Skeletal muscles can exist in a variety of shapes
+      and sizes, producing diverse quotes of total numbers across the literature. Those advocating
+      higher numbers point to increased movement versatility in select regions where simple opposing
+      pairs can’t define the movement (face, tongue). A <emphasis effect="italics">rough</emphasis>
+      approximation would be 640 total muscles arranged in antagonistic pairs with one muscle
+      bending a limb joint and the other involved in its extension. Each muscle is composed of many
+      muscle cells (fibers) capable of contraction with diverse outcomes depending on their
+      attachments. In this section we will examine the structure of muscle fibers and consider the
+      mechanisms that control them.</para>
+    <section id="sect-00007">
+      <title>What constitutes muscle cells and their contractile elements?</title>
+      <para id="para-00007">To reach our goal here, it is important to envision the whole and the
+        functional system we’re discussing. Neural signals need to be sent from their sources in the
+        spinal cord or brainstem out to merge with sets of skeletal muscles where these neurons
+        release neurotransmitter and engage contractions. Neurotransmitter release happens at the
+        terminals of these motoneurons, where it then binds to receptors at distinct locations
+        constituting “the muscle.” This binding initiates a cascade of events that leads to muscle
+        contraction, garnering different amounts of force as needed for actions. This phenomenon
+        involves the actions of several players whose names and roles will now be more specifically
+        delineated. Knowing the players will help to understand how the team wins desired actions
+        with intelligent sophistication.</para>
+      <para id="para-00008">The individual muscle cell is called a muscle fiber, or myofiber.
+        Myofibers arrange themselves in parallel to add cooperative force, or in series (connected
+        end-to-end) to provide length so contraction velocity can build, by accumulating themselves
+        between tendon attachments. <link target-id="Image-10.08"/> shows how a muscle mass is
+        composed of multiple muscle fibers (arranged in parallel or series).</para>
+      <figure id="Image-10.08">
+        <title>Muscle to sarcomere</title>
+        <media alt="Diagram with overview of muscle structure. Top shows a whole muscle, then zoom in on a single muscle fiber, then zoom in on myofibril, which is shown as a tube with repeating line patterns. The core pattern is labeled the sarcomere. Zoom in on the sarcomere shows a thick middle line (myosin filament) with forked thin lines (actin filament) on either side. Zoom in on where thick and thin filament are closest shows a globular myosin head reaching near the thin filament. The thin filament, which appears as a twisted string of actin monomers, is wrapped by a thinner red line (tropomyosin), which has globular proteins (troponin) resting on it at every twist of the thin filament.">
+          <image mime-type="png" src="../../media/Image-10.08_Muscle-to-sarcomere.png"/>
+        </media>
+      </figure>
+      <para id="para-00009">Individual myofibers can be several centimeters in length and are
+        typically about 80μm in diameter. Each myofiber or muscle fiber contains multiple <term id="term-00001">myofibrils</term>. Myofibrils are elongated rods composed of repeating
+        patterns of proteins. These proteins provide the basis of contraction due to being made up
+        of components that can be induced by the cascade following neurotransmitter receptor
+        activation to pull against each other, shrinking the internal mass, and pulling connected
+        body parts closer together. The more myofibrils packed into a muscle fiber, the more force
+        that muscle fiber can produce. The repeating protein patterns of myofibrils create darker
+        and lighter bands that are visible when looking at muscles. Therefore, skeletal muscles are
+        called "striated."</para>
+      <para id="para-00010">Within the bundles of myofibrils, the repeating protein patterns
+        represent multiple contractile units called <term id="term-00002">sarcomeres</term>. Several
+        sarcomeres repeat in series along the length of a myofiber. The lower half of <link target-id="Image-10.08"/> shows how each sarcomere is bounded on the outside by a <term id="term-00003">Z-disk</term>, into which the tail ends of actin "thin" filaments embed,
+        holding them tightly. <term id="term-00004">Actin</term> are composed of actin protein
+        monomers strung together and wrapped around each other in double helixes. At each full cycle
+        along the helix of each actin filament, there resides a binding site for myosin that is
+        typically covered by <term id="term-00005">tropomyosin</term>, which is a long filamentous
+        peptide chain following the actin helix around each curve.</para>
+      <para id="para-00011">The actin/tropomyosin filaments make up the "thin filaments" of the
+        sarcomere. Between the protruding strands of actin/tropomyosin, in a separate bundle held in
+        place by the M-line in the middle of the sarcomere and thin strands of titin at either end,
+        there are bunches of outward-facing <term id="term-00006">myosin</term>. These bundles end
+        up with globular heads of myosin bulging out from the bundle at regular small intervals. The
+        remaining portions of myosin are buried in a way that appears like twisted microscopic grape
+        vines (fiber represented by vine, and grapes representing globular heads, middle portion of
+        blowup in <link target-id="Image-10.08"/>). These myosin bundles extend from the center and
+        comprise "thick" filaments. Finally, along the actin/tropomyosin thin filaments, and at
+        regular intervals near the myosin binding sites, the <term id="term-00007">troponin</term>
+        molecules are found to be attached to both the actin and the tropomyosin (shown in the
+        smaller detail box at the bottom of <link target-id="Image-10.08"/>).</para>
+    </section>
+    <section id="sect-00008">
+      <title>How does a sarcomere generate contraction?</title>
+      <para id="para-00012">The basic contraction action of a sarcomere is a repeating cycle in
+        which the myosin heads grab and crawl along the actin/tropomyosin filaments from one binding
+        site to the next, pulling the Z-disks closer together (see <link target-id="Image-10.09"/>,
+        and <link url="https://openstax.org/r/Neuro10Contract">watch an animation</link>). This
+        process involves the formation and breakage of cross-bridges between the myosin globular
+        heads and the binding sites along each turn of the actin alpha-helix, initially covered by
+        tropomyosin. To envision how this looks across the sarcomere, imagine the whole thick
+        filament is a caterpillar, its feet lifting from the leaf (actin) and moving forward while
+        others remain planted for stability. While some actin sites are bound by globular myosin
+        heads (caterpillar feet on the leaf), other globular heads are dissociating and thrusting
+        forward to bind again (caterpillar feet lifted off the leaf). This way, the myosin chain
+        pulls actin and its tethered Z-discs inward.</para>
+      <figure id="Image-10.09">
+        <title>Actin myosin contraction cycle</title>
+        <media alt="A cycle diagram of the actin-myosin interaction that forms the cross-bridge cycle.  The thin filament, which appears as a twisted string of actin monomers, is wrapped by a thinner red line (tropomyosin), which has globular proteins (troponin) resting on it at every twist of the thin filament. The changes in this relationship are: 1. ADP- bound myosin head is 'cocked' and ready to bind to actin. 2. In presence of Ca2+ , Ca2+ binds to troponin, exposing binding sites for myosin. 3. The bound myosin rotates its head, producing a 'power stroke’. 4. ATP molecule binds to the myosin head. 5. Actin and myosin detach.">
+          <image mime-type="png" src="../../media/Image-10.09_Actin-myosin-contraction-cycle.png"/>
+        </media>
+      </figure>
+      <para id="para-00013">So how is this cycle controlled? Our muscles don't just contract
+        randomly. They contract when our motor neurons tell them to. Calcium is the critical
+        component that controls when this cycle can happen. As described above, myosin grabs on to
+        actin, sticking to binding sites on the actin protein. Without calcium present, those
+        binding sites are blocked by tropomyosin. In response to an upstream action potential in a
+        motor neuron, calcium is released inside the muscle cell. The calcium binds with troponin.
+        Calcium-bound troponin changes shape and acts as a wedge, prying the tropomyosin strand away
+        from the actin strand (Step 2 in <link target-id="Image-10.09"/>). This shift exposes the
+        myosin binding sites on actin.</para>
+      <para id="para-00014">Once myosin binds with actin, myosin initiates the "<term id="term-00008">power stroke</term>," changing its shape so as to pull the actin chain
+        toward the center of the sarcomere (Step 3). At the end of the power stroke, an ADP molecule
+        falls off the myosin and an ATP binds to the myosin head instead (Step 4). The ATP binding
+        changes the shape of myosin again, causing it to fall off the actin binding sites (Step 5).
+        When the ATP gets broken back down into ADP + phosphate, the myosin relaxes back to its
+        original position (Step 1). If calcium is present, the cycle can repeat. Though we show this
+        cycle at one specific actin-myosin pair, keep in mind that it occurs throughout the
+        sarcomere, at many sites of potential actin-myosin contact (i.e. the many legs of the
+        caterpillar).</para>
+      <para id="para-00015">Contractile force entails two distinct processes: shortening and
+        lengthening. This seems counter-intuitive. Isn't "contraction," by definition, "shortening?"
+        Let's clarify by considering the difference between lifting a bowling ball versus catching a
+        bowling ball. The experience of lifting a bowling ball is of course quite different than
+        catching a bowling ball tossed to you. Lifting this ball requires establishing sufficient
+        contractile force to initiate motion upward with muscles in the arms. Catching a bowling
+        ball mostly involves slowing the ball's trajectory or momentum as it moves along rather than
+        immediately reversing its movement. This is where "contractions" differ between shortening
+        (lifting the ball) and lengthening (catching the ball). When the cycling of cross-bridges
+        and power strokes produce sufficient force to counteract a load, muscles can engage <term id="term-00009">shortening contractions</term> and move the limb or body part (we lift the
+        ball). The second category of contraction occurs when contraction force is insufficient to
+        counteract a force, but it can be dampened or slowed down. Often this occurs against the
+        force of gravity, as with the case of catching a bowling ball. The considerable inertia of
+        the heavy bowling ball won't be immediately counteracted by muscle forces in our limbs.
+        Instead, cycling and power strokes produce some counteractive force by attempting to bind
+        and cycle, yet with cross-bridges getting progressively pulled apart like loosening a Velcro
+        seal. These are <term id="term-00010">lengthening contractions</term>. This is analogous to
+        picking up a caterpillar holding on to a leaf, its little legs progressively popping off,
+        slowing your retrieval of the caterpillar. This is important to understand because it
+        describes why some "contractions" seem to be hidden behind the scenes. Like when two
+        muscle-bound competitors are locked in an arm wrestle stalemate, with their gripped hands
+        quivering at the top, one competitor giving a bit (lengthening contraction), with the other
+        gaining a bit (shortening contraction). Similarly, most of our run-of-the-mill movements
+        involve multiple muscles, frequently mixing together shortening and lengthening contractions
+        to achieve our final, desired movement.</para>
+    </section>
+    <section id="sect-00009">
+      <title>From muscle cell action potentials to contractions</title>
+      <para id="para-00016">Sarcomere contraction relies on a surge of intracellular calcium which
+        is initiated by an action potential that propagates through the muscle fiber. Action
+        potentials of skeletal muscle fibers are initiated by synapsing <term id="term-00011">lower
+        motor neurons</term> (LMNs). LMNs release acetylcholine (ACh) at neuron-muscle synapses
+        called <term id="term-00012">neuromuscular junctions</term> (<link target-id="Image-10.20"/>
+        ).</para>
+      <figure id="Image-10.20">
+        <title>Neuromuscular junction</title>
+        <media alt="Diagram of a human arm with muscles with a neuron represented as contacting the muscle. An inset shows the neuromuscular junction, which has an axon terminal ending on a muscle fiber. The muscle shows a pocket with ridges where the axon terminal sits.">
+          <image mime-type="png" src="../../media/Image-10.20_Neuromuscular-junction.png"/>
+        </media>
+        <caption>Axons of LMNs terminate on muscle fibers in a special synapse called the
+          neuromuscular junction.</caption>
+      </figure>
+      <para id="para-00017">The postsynaptic side of these junctions expresses nicotinic ACh
+        receptors, which gate sodium and therefore initiate depolarization when they open. By
+        comparison to CNS neurons which receive thousands of excitatory inputs requiring summation
+        to reach action potential, motoneurons synapse only once with muscle fibers. Thus, both the
+        selection of <emphasis effect="italics">that</emphasis> fiber contraction and some control
+        over the contractile force, derives from the bolus of acetylcholine (ACh) released upon the
+        fiber. Motoneurons must therefore release large amounts of acetylcholine to ensure enough
+        stimulation of the fiber and cause contraction. Most movement events need to be quick and
+        snappy, and cannot wait for prolonged summation to occur, such as escape from predators.</para>
+      <para id="para-00018"><link target-id="Image-10.10"/> shows how initial sodium influx from
+        ACh receptor activation triggers an action potential in the skeletal muscle. Depolarization
+        of the muscle fiber membrane (<term id="term-00013">sarcolemma</term>) leads to muscle
+        action potentials that are perpetuated across the fiber via voltage-gated sodium channels,
+        much like an action potential travels down an axon (see <link document="m00011">
+        Neurophysiology</link>). These sodium-based depolarization waves flash across the muscle
+        fiber membrane and cause calcium release from internal stores in the <term id="term-00014">sarcoplasmic
+        reticulum</term>. This calcium initiates contraction by starting the cycle described above.</para>
+      <figure id="Image-10.10">
+        <title>Neuromuscular junction mechanism</title>
+        <media alt="Diagram of the intracellular actions at the neuromuscular junction. A presynaptic terminal is shown releasing neurotransmitter (acetylcholine) from vesicles. The transmitter binds to ion channels in the receiving muscle cell. Na+ influx is represented as spreading throughout the muscle. An in-folding of the muscle has a voltage-gated Na+ channel, that opens and allows in more Na+. The sarcoplasmic reticulum is shown releasing Ca2+ into the muscle in response to Na+. The Ca2+ diffuses to a sarcomere below.">
+          <image mime-type="png" src="../../media/Image-10.10_Neuromuscular-junction-mechanism.png"/>
+        </media>
+      </figure>
+    </section>
+    <note class="boxed-feature" id="note-00001">
+      <title>Differentiating the muscle fiber types</title>
+  <para id="para-00019">Your author has
+      found himself attempting to quickly make it to a classroom after miscalculating the length of
+      a casual walk. Along the way, his stride speed increases and the fear of being late might
+      cause a burst of effort into a sprint on rare occasions when he pushes the last moment.
+      Different muscle fibers are likely involved between these stages. Specialized myofiber types
+      contain combinations of mainly myosin types along with levels of mitochondria and other
+      components that render distinct properties in energy availability and contraction speed. Most
+      of the time, each motor unit (LMN and connected fibers) connects to similar muscle fiber types
+      so that these can be engaged differentially, though any damage and regrowth might disrupt this
+      pattern over time. Several characteristics differentiate muscle fiber types, applying their
+      characteristics into a rationale for a pattern of recruitment reserving large motor units or
+      specific contraction bursts for last. There are 3 main types of muscle fibers: one slow-twitch
+      (Type I) and two fast-twitch (Type IIA and Type IIX). Several key differences between them are
+      summarized in <link target-id="Image-10.27"/>. Type I and Type IIA are the first recruited
+      types of muscle fibers while Type IIX is reserved for later activation, when greater forces
+      are needed.</para>
 
   <table summary="A table summarizing the 3 major muscle fiber types, their twitch, recruitment order, capillary fill, energy usable and contraction speed." id="Image-10.27">
-    <tgroup cols="6">
-    <thead>
-      <row>
-        <entry>Fiber type</entry>
-        <entry>Twitch</entry>
-        <entry>Recruitment</entry>
-        <entry>Capillaries</entry>
-        <entry>Energy</entry>
-        <entry>Contraction</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>Type I</entry>
-        <entry>Slow twitch</entry>
-        <entry>First</entry>
-        <entry>More (red)</entry>
-        <entry>Blood</entry>
-        <entry>Slow</entry>
-      </row>
-      <row>
-        <entry>Type IIA</entry>
-        <entry>Fast twitch</entry>
-        <entry>First</entry>
-        <entry>More (red)</entry>
-        <entry>Blood, stored energy</entry>
-        <entry>Fast</entry>
-      </row>
-      <row>
-        <entry>Type IIX</entry>
-        <entry>Fast twitch</entry>
-        <entry>Last</entry>
-        <entry>Fewer (white)</entry>
-        <entry>Blood, stored energy</entry>
-        <entry>Strong bursts</entry>
-      </row>    </tbody>
-    </tgroup>
-    <caption/>
-    </table>
-  <para id="para-00020"><term id="term-00015">Type I (slow)</term> and <term id="term-00016">Type IIA (fast)</term> muscle fibers each receive a much greater supply of blood capillaries, providing more oxygen and other energy-producing supplies to support contraction. These muscle fibers, known as myosin heavy chain, are typically recruited first in general run-of-the-mill movement because the energy stores are unlikely to be depleted.  Slow fibers (Type I) contain slightly different myosin heads yielding slower cycling. They contract more slowly and are primarily emphasized for use when speed is not important. Faster Type II fibers contain faster cycling myosin heads and are typically smaller and tend to use a combination of blood supply and glycogen to energize contractions (blood-derived energy staving off fatigue).  Both these Type I (slow) and IIA (fast) fibers also contain myoglobin along with iron and take on a red appearance, so they are designated as the red fibers.</para>
-  <para id="para-00021">Type IIX fibers are designated “white” due to their relative lack of capillary supply. These fibers build up stores of glycogen that are broken down to make ATP and provide rapid bursts of contractile energy. Type IIX fibers are typically recruited last for final bursts of movement, as once their stores of energy are used up, they remain fatigued until energy levels are restored.</para>
-</note>
-<section id="sect-00010"><title>Muscle organization and motor units</title>
-<para id="para-00022">The axon of any single motor neuron may branch into several terminals with each forming a synapse on a different muscle fiber. Each muscle fiber, on the other hand, is innervated by a single motoneuron axon. Together, a single motoneuron and the several muscle fibers it communicates with constitute a <term id="term-00017">motor unit</term> (<link target-id="Image-10.25"/>). Thus, a muscle is composed of many motor units, each of which may involve many muscle fibers. More force can be generated by activating more motor units that contract in a similar direction.</para>
-<figure id="Image-10.25"><title>Motor unit</title>
-  <media alt="A diagram of a coronal section of spinal cord with neuronal cell bodies in the ventral grey matter. The neurons send axons out to a cluster of muscle fibers. Each axon contacts a unique set of muscle fibers.">
-    <image mime-type="png" src="../../media/Image-10.25_Motor-unit.png"/>
-  </media><caption>A motor unit is an alpha motor neuron and all the muscle fibers it synapses on.</caption>
-</figure>
-<para id="para-00023">To coordinate movement, muscles are activated in pairs of antagonists that pull in opposite directions (flexors or extensors in limbs). Thus, there are ways to coordinate movements by, for example, swinging an arm outward with an extensor and stopping that motion with the opposing flexor. Stiffening any joint requires simultaneously contracting both antagonists surrounding a joint or body part.</para></section>
-<section id="sect-00011"><title>Mechanisms of force generation</title>
-  <para id="para-00024">There are 2 primary ways that we can control how forcefully a muscle contracts (<link target-id="Image-10.26"/>). The first <emphasis effect="italics">simple</emphasis> mechanism of force generation derives from stimulation of the same motor unit with higher action potential frequency. This causes a higher number of ACh release events at the neuromuscular junction of all that motor unit's muscle fibers. As these ACh release events occur, they cause repeated bursts of sodium influx at the sarcolemma, which then re-initiates calcium bursts and prolongs the capacity of the myosin heads to crawl within each sarcomere involved, recruiting more force.</para>
-  <figure id="Image-10.26"><title>Ways to increase muscle contraction strength</title>
-    <media alt="2 part diagram: 1) A diagram of a neuron in a coronal spinal cord ventral grey matter connecting to several muscle fibers. Many action potentials are symbolized as happening. Title: Increase firing frequency of alpha motor neuron. 2) Left: A diagram of 2 neurons in coronal spinal cord ventral grey matter connecting to several muscle fibers. Action potentials are symbolized as happening in both neurons. Title: Fire more and larger motor units within 1 muscle. Right: A diagram of 2 neurons in coronal spinal cord ventral grey matter connecting to two different muscles in a human arm. Action potentials are symbolized as happening in both neurons. Title: Recruit more synergistic muscle masses.">
-      <image mime-type="png" src="../../media/Image-10.26_Ways-to-increase-muscle-contraction-strength.png"/>
-    </media>
-  </figure>
-  <para id="para-00025">However, if only the original muscle fibers synapsed by a single motor unit are used, force recruitment is limited. The second way to increase force is to recruit more synergistic motor units. Motor units whose fibers pull in the same direction are called synergistic motor units. There are two ways that these can be activated, and usually they are activated in sequence. First, muscle fibers within the same muscle mass are recruited to increase the force that mass engages (e.g., the biceps engage more and more muscle fibers the heavier the barbell while bicep curls). After all the muscle fibers within a single muscle mass are recruited, then synergistic muscle masses are engaged. We may also engage alternative muscle masses that do not pull in <emphasis effect="italics">exactly</emphasis> the same direction because of where tendons attach for different defined muscles, but still contribute some force in our desired direction.</para>
-  <para id="para-00026">You can use both of these force generation mechanisms in your daily motor movements. Typically, your nervous system activates motor units in a sequential order to support much stronger contractions. The first motor units to be activated are smaller, with fewer connected muscle fibers, and the later recruited fibers will be larger and connected to more muscle fibers (explained later). On top of this sequential activation of motor units, your nervous system can increase the firing frequency of the motor neurons controlling the motor units, causing renewed action potentials and therefore more calcium bursts, thus prolonging the contraction for each fiber. By analogy, force generation through more action potentials would be like a tug-of-war team pulling harder and harder, while the second method of recruiting more motor units would be like adding more larger and stronger members to the team.</para></section>
-  <note class="boxed-feature" id="note-00002">
-    <title>Overstretching, cramping, and rigor mortis physiology</title>
-    <para id="para-00027">For muscles to function optimally, the sarcomeres need to have actin and myosin in optimal positions to be able to bind and slide past each other. If the sarcomere is stretched out too far, the globular heads of myosin won't be able to reach actin filaments. This is <term id="term-00018">overstretching</term> and would make it hard to get a contraction started, though we often don't experience this event because our muscles have natural springiness, so they naturally pull themselves into contraction preparation. The parallel in our example of a caterpillar (myosin) crawling along a leaf (actin) would be if the caterpillar were too far away to reach the leaf. Conversely, if the sarcomere is bunched inward, the actin filaments will crash into each other at the middle and stop the contraction. This represents the limits of pull capacity for the muscle mass. This setup challenges force production at the extremes. These circumstances can be felt by anyone attempting to climb walls or cliffs by grabbing cervices. To hold and lift our own weight, it is typically best to keep limbs slightly bent. A fully stretched arm has a harder time lifting and we might need to swing ourselves out of a joint-locked situation. On the other hand, a fully bent limb offers little movement length or capacity to build up velocity.</para>
-    <para id="para-00028"><term id="term-00019">Cramps</term> are quick contractions, typically painful, since they continue inwards pull in a manner resistant to relaxation. Cramps can happen when muscles are activated in quick succession without the availability of sufficient energy, or from a position where they can't stretch back out to the ideal position. Cramps can also happen when lactic acid builds up inside muscles. Efforts to metabolize carbohydrates in low oxygen conditions, or when insufficient blood supply exists for all muscles engaged in an exercise, are other causes. Adding more oxygen helps break down the lactic acid, which is why heavy breathing after workouts eventually diminishes cramping.</para>
-    <para id="para-00029">Interestingly, the stiffness of <term id="term-00020">rigor mortis</term> develops when ATP runs out. As was stated earlier, ATP addition decreases the binding affinity between myosin and actin, allowing dissociation. When ATP runs out (mitochondrial lack of sugar and oxygen), the myosin heads become permanently bound to actin and muscles become stiff. Forensic science calculates the time of death for people in a range of 8-20 hours prior if a body is found already in rigor mortis, though this timeline varies across studies (Anders et al., 2011).</para></note>
+        <tgroup cols="6">
+          <thead>
+            <row>
+              <entry>Fiber type</entry>
+              <entry>Twitch</entry>
+              <entry>Recruitment</entry>
+              <entry>Capillaries</entry>
+              <entry>Energy</entry>
+              <entry>Contraction</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Type I</entry>
+              <entry>Slow twitch</entry>
+              <entry>First</entry>
+              <entry>More (red)</entry>
+              <entry>Blood</entry>
+              <entry>Slow</entry>
+            </row>
+            <row>
+              <entry>Type IIA</entry>
+              <entry>Fast twitch</entry>
+              <entry>First</entry>
+              <entry>More (red)</entry>
+              <entry>Blood, stored energy</entry>
+              <entry>Fast</entry>
+            </row>
+            <row>
+              <entry>Type IIX</entry>
+              <entry>Fast twitch</entry>
+              <entry>Last</entry>
+              <entry>Fewer (white)</entry>
+              <entry>Blood, stored energy</entry>
+              <entry>Strong bursts</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption/>
+      </table>
+  <para id="para-00020"><term id="term-00015">Type I (slow)</term>
+      and <term id="term-00016">Type IIA (fast)</term> muscle fibers each receive a much greater
+      supply of blood capillaries, providing more oxygen and other energy-producing supplies to
+      support contraction. These muscle fibers, known as myosin heavy chain, are typically recruited
+      first in general run-of-the-mill movement because the energy stores are unlikely to be
+      depleted. Slow fibers (Type I) contain slightly different myosin heads yielding slower
+      cycling. They contract more slowly and are primarily emphasized for use when speed is not
+      important. Faster Type II fibers contain faster cycling myosin heads and are typically smaller
+      and tend to use a combination of blood supply and glycogen to energize contractions
+      (blood-derived energy staving off fatigue). Both these Type I (slow) and IIA (fast) fibers
+      also contain myoglobin along with iron and take on a red appearance, so they are designated as
+      the red fibers.</para>
+  <para id="para-00021">Type IIX fibers are designated “white” due to
+      their relative lack of capillary supply. These fibers build up stores of glycogen that are
+      broken down to make ATP and provide rapid bursts of contractile energy. Type IIX fibers are
+      typically recruited last for final bursts of movement, as once their stores of energy are used
+      up, they remain fatigued until energy levels are restored.</para>
+    </note>
+    <section id="sect-00010">
+      <title>Muscle organization and motor units</title>
+      <para id="para-00022">The axon of any single motor neuron may branch into several terminals
+        with each forming a synapse on a different muscle fiber. Each muscle fiber, on the other
+        hand, is innervated by a single motoneuron axon. Together, a single motoneuron and the
+        several muscle fibers it communicates with constitute a <term id="term-00017">motor unit</term>
+        (<link target-id="Image-10.25"/>). Thus, a muscle is composed of many motor units, each of
+        which may involve many muscle fibers. More force can be generated by activating more motor
+        units that contract in a similar direction.</para>
+      <figure id="Image-10.25">
+        <title>Motor unit</title>
+        <media alt="A diagram of a coronal section of spinal cord with neuronal cell bodies in the ventral grey matter. The neurons send axons out to a cluster of muscle fibers. Each axon contacts a unique set of muscle fibers.">
+          <image mime-type="png" src="../../media/Image-10.25_Motor-unit.png"/>
+        </media>
+        <caption>A motor unit is an alpha motor neuron and all the muscle fibers it synapses on.</caption>
+      </figure>
+      <para id="para-00023">To coordinate movement, muscles are activated in pairs of antagonists
+        that pull in opposite directions (flexors or extensors in limbs). Thus, there are ways to
+        coordinate movements by, for example, swinging an arm outward with an extensor and stopping
+        that motion with the opposing flexor. Stiffening any joint requires simultaneously
+        contracting both antagonists surrounding a joint or body part.</para>
+    </section>
+    <section id="sect-00011">
+      <title>Mechanisms of force generation</title>
+      <para id="para-00024">There are 2 primary ways that we can control how forcefully a muscle
+        contracts (<link target-id="Image-10.26"/>). The first <emphasis effect="italics">simple</emphasis>
+        mechanism of force generation derives from stimulation of the same motor unit with higher
+        action potential frequency. This causes a higher number of ACh release events at the
+        neuromuscular junction of all that motor unit's muscle fibers. As these ACh release events
+        occur, they cause repeated bursts of sodium influx at the sarcolemma, which then
+        re-initiates calcium bursts and prolongs the capacity of the myosin heads to crawl within
+        each sarcomere involved, recruiting more force.</para>
+      <figure id="Image-10.26">
+        <title>Ways to increase muscle contraction strength</title>
+        <media alt="2 part diagram: 1) A diagram of a neuron in a coronal spinal cord ventral grey matter connecting to several muscle fibers. Many action potentials are symbolized as happening. Title: Increase firing frequency of alpha motor neuron. 2) Left: A diagram of 2 neurons in coronal spinal cord ventral grey matter connecting to several muscle fibers. Action potentials are symbolized as happening in both neurons. Title: Fire more and larger motor units within 1 muscle. Right: A diagram of 2 neurons in coronal spinal cord ventral grey matter connecting to two different muscles in a human arm. Action potentials are symbolized as happening in both neurons. Title: Recruit more synergistic muscle masses.">
+          <image mime-type="png" src="../../media/Image-10.26_Ways-to-increase-muscle-contraction-strength.png"/>
+        </media>
+      </figure>
+      <para id="para-00025">However, if only the original muscle fibers synapsed by a single motor
+        unit are used, force recruitment is limited. The second way to increase force is to recruit
+        more synergistic motor units. Motor units whose fibers pull in the same direction are called
+        synergistic motor units. There are two ways that these can be activated, and usually they
+        are activated in sequence. First, muscle fibers within the same muscle mass are recruited to
+        increase the force that mass engages (e.g., the biceps engage more and more muscle fibers
+        the heavier the barbell while bicep curls). After all the muscle fibers within a single
+        muscle mass are recruited, then synergistic muscle masses are engaged. We may also engage
+        alternative muscle masses that do not pull in <emphasis effect="italics">exactly</emphasis>
+        the same direction because of where tendons attach for different defined muscles, but still
+        contribute some force in our desired direction.</para>
+      <para id="para-00026">You can use both of these force generation mechanisms in your daily
+        motor movements. Typically, your nervous system activates motor units in a sequential order
+        to support much stronger contractions. The first motor units to be activated are smaller,
+        with fewer connected muscle fibers, and the later recruited fibers will be larger and
+        connected to more muscle fibers (explained later). On top of this sequential activation of
+        motor units, your nervous system can increase the firing frequency of the motor neurons
+        controlling the motor units, causing renewed action potentials and therefore more calcium
+        bursts, thus prolonging the contraction for each fiber. By analogy, force generation through
+        more action potentials would be like a tug-of-war team pulling harder and harder, while the
+        second method of recruiting more motor units would be like adding more larger and stronger
+        members to the team.</para>
+    </section>
+    <note class="boxed-feature" id="note-00002">
+      <title>Overstretching, cramping, and rigor mortis physiology</title>
+    <para id="para-00027">For
+      muscles to function optimally, the sarcomeres need to have actin and myosin in optimal
+      positions to be able to bind and slide past each other. If the sarcomere is stretched out too
+      far, the globular heads of myosin won't be able to reach actin filaments. This is <term id="term-00018">overstretching</term> and would make it hard to get a contraction started,
+      though we often don't experience this event because our muscles have natural springiness, so
+      they naturally pull themselves into contraction preparation. The parallel in our example of a
+      caterpillar (myosin) crawling along a leaf (actin) would be if the caterpillar were too far
+      away to reach the leaf. Conversely, if the sarcomere is bunched inward, the actin filaments
+      will crash into each other at the middle and stop the contraction. This represents the limits
+      of pull capacity for the muscle mass. This setup challenges force production at the extremes.
+      These circumstances can be felt by anyone attempting to climb walls or cliffs by grabbing
+      cervices. To hold and lift our own weight, it is typically best to keep limbs slightly bent. A
+      fully stretched arm has a harder time lifting and we might need to swing ourselves out of a
+      joint-locked situation. On the other hand, a fully bent limb offers little movement length or
+      capacity to build up velocity.</para>
+    <para id="para-00028"><term id="term-00019">Cramps</term>
+      are quick contractions, typically painful, since they continue inwards pull in a manner
+      resistant to relaxation. Cramps can happen when muscles are activated in quick succession
+      without the availability of sufficient energy, or from a position where they can't stretch
+      back out to the ideal position. Cramps can also happen when lactic acid builds up inside
+      muscles. Efforts to metabolize carbohydrates in low oxygen conditions, or when insufficient
+      blood supply exists for all muscles engaged in an exercise, are other causes. Adding more
+      oxygen helps break down the lactic acid, which is why heavy breathing after workouts
+      eventually diminishes cramping.</para>
+    <para id="para-00029">Interestingly, the stiffness of <term id="term-00020">rigor mortis</term> develops when ATP runs out. As was stated earlier, ATP
+      addition decreases the binding affinity between myosin and actin, allowing dissociation. When
+      ATP runs out (mitochondrial lack of sugar and oxygen), the myosin heads become permanently
+      bound to actin and muscles become stiff. Forensic science calculates the time of death for
+      people in a range of 8-20 hours prior if a body is found already in rigor mortis, though this
+      timeline varies across studies (Anders et al., 2011).</para></note>
     <section class="section-summary" id="sect-00001">
       <title>Summary</title>
-      <para id="para-00002">Effector skeletal muscles move limbs and body parts in desired directions by pulling in a coordinated manner, typically in conjunction with antagonistic partners pulling in opposite directions. To accomplish the pulling, motor neurons synapsing at neuromuscular junctions initiate contractions. Depolarization derived from ACh opening nicotinic ionotropic receptors filters through the muscle fiber from the sarcolemma into the inner core where myofibrils reside, releasing calcium from storage in the sarcoplasmic reticulum. This calcium initiates and maintains a contractile machinery where myosin heads extending from thick filaments pull actin chains inward by forming cross-links and cocking inward, then releasing and re-binding with power strokes until the calcium dissipates. This activity represents a multiple-molecule-coordinated event occurring at different speeds and efficiencies depending on the arrangement of muscle fiber connections to the tendons, and on the efficiency of myosin head cross-bridge cycling. The pulling can either move a limb or slow externally forced movement by eliciting force attempting to counteract loads (e.g., shortening or lengthening contractions). This gets more complex when different antagonist muscles play tug-of-war across joints to produce desired movement speeds, as the same systems are in play. Force increase can be elicited by higher frequency activation of select populations of muscle fibers, or increasingly recruiting larger populations of muscle fibers to pull in synergistic (same) or close to the same directions. Muscles simultaneously pulling in distinct directions tend to produce intermediate movement trajectories between the pull directions. Blood-rich fibers are commonly recruited first. They are more resistant to fatigue. Those utilizing stored glycogen alone for their energy (ATP) source are recruited for final thrusts.</para>
-      </section>
-      <section class="key-terms" id="sect-00002">
+      <para id="para-00002">Effector skeletal muscles move limbs and body parts in desired
+        directions by pulling in a coordinated manner, typically in conjunction with antagonistic
+        partners pulling in opposite directions. To accomplish the pulling, motor neurons synapsing
+        at neuromuscular junctions initiate contractions. Depolarization derived from ACh opening
+        nicotinic ionotropic receptors filters through the muscle fiber from the sarcolemma into the
+        inner core where myofibrils reside, releasing calcium from storage in the sarcoplasmic
+        reticulum. This calcium initiates and maintains a contractile machinery where myosin heads
+        extending from thick filaments pull actin chains inward by forming cross-links and cocking
+        inward, then releasing and re-binding with power strokes until the calcium dissipates. This
+        activity represents a multiple-molecule-coordinated event occurring at different speeds and
+        efficiencies depending on the arrangement of muscle fiber connections to the tendons, and on
+        the efficiency of myosin head cross-bridge cycling. The pulling can either move a limb or
+        slow externally forced movement by eliciting force attempting to counteract loads (e.g.,
+        shortening or lengthening contractions). This gets more complex when different antagonist
+        muscles play tug-of-war across joints to produce desired movement speeds, as the same
+        systems are in play. Force increase can be elicited by higher frequency activation of select
+        populations of muscle fibers, or increasingly recruiting larger populations of muscle fibers
+        to pull in synergistic (same) or close to the same directions. Muscles simultaneously
+        pulling in distinct directions tend to produce intermediate movement trajectories between
+        the pull directions. Blood-rich fibers are commonly recruited first. They are more resistant
+        to fatigue. Those utilizing stored glycogen alone for their energy (ATP) source are
+        recruited for final thrusts.</para>
+    </section>
+    <section class="key-terms" id="sect-00002">
       <title>Key Terms</title>
       <list display="inline" id="list-00001">
         <item>actin</item>
@@ -152,64 +412,75 @@
         <item>tropomyosin</item>
         <item>troponin</item>
       </list>
-      </section>
-      <section class="references" id="sect-00003">
+    </section>
+    <section class="references" id="sect-00003">
       <title>References</title>
-      <para id="para-00003">Anders S, Kunz M, Gehl A, Sehner S, Raupach T, Beck-Bornholdt H-P (2011) Estimation of time since death – reconsidering the re-establishment of rigor mortis. International Journal of Legal Medicine 127: 127-130. https://doi.org/10.1007/s00414-011-0632-z</para>
-      <para id="para-00030">Gordon, T (2020) Peripheral nerve regeneration and muscle reinnervation. <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">21</emphasis>(22), 8852. https://doi.org/10.3390/ijms21228652</para>
-      <para id="para-00031">Minetto MA, Holobar A, Botter A, Farina D (2013) Origin and development of muscle cramps. <emphasis effect="italics">Exercise and Sport Sciences Reviews</emphasis>, <emphasis effect="italics">41</emphasis>(1): 3-10. https://doi.org/10.1097/jes.0b013e3182724817</para>
-      <para id="para-00032">Mukund, K, &amp; Subramaniam, S (2019) Skeletal muscle: A review of molecular structure and function in health and disease. <emphasis effect="italics">WIREs Systems Biology and Medicine</emphasis>, <emphasis effect="italics">12</emphasis>, e1462. https://doi.org/10.1002/wsbm.1462</para>
-      <para id="para-00033">Pette D, &amp; Staron RS (2000) Myosin isoforms, muscle fiber types, and transitions. <emphasis effect="italics">Microscopy Research and Technique</emphasis>, <emphasis effect="italics">50</emphasis>, 500-509. https://doi.org/10.1002/1097-0029(20000915)50:6%3C500::AID-JEMT7%3E3.0.CO;2-7</para>
-      <para id="para-00034">Scott W, Stevens J, Binder-Macleod, SA (2001) Human skeletal muscle fiber type classifications. <emphasis effect="italics">Physical Therapy</emphasis>, <emphasis effect="italics">81</emphasis>(11), 1810-1816. https://doi.org/10.1093/ptj/81.11.1810</para>
-      <para id="para-00035">Van Custem M, Duchataeu J, Hainut K (1998) Changes in single motor unit behavior contribute to the increase in contraction speed after dynamic training in humans. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">513</emphasis>, 295-305. https://doi.org/10.1111/j.1469-7793.1998.295by.x</para>
-      </section>
-      <section class="multiple-choice" id="sect-00004">
+      <para id="para-00003">Anders, S., Kunz, M., Gehl, A., Sehner, S., Raupach, T., &amp; Beck-Bornholdt, H. P.
+        (2013). Estimation of the time since death--reconsidering the re-establishment of rigor
+        mortis. <emphasis effect="italics">International Journal of Legal Medicine</emphasis>, <emphasis effect="italics">127</emphasis>(1), 127–130. https://doi.org/10.1007/s00414-011-0632-z</para>
+      <para id="para-00030">Gordon, T. (2020). Peripheral nerve regeneration and muscle reinnervation. <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">21</emphasis>(22), 8652. https://doi.org/10.3390/ijms21228652</para>
+      <para id="para-00031">Minetto, M. A., Holobar, A., Botter, A., &amp; Farina, D. (2013). Origin and development
+        of muscle cramps. <emphasis effect="italics">Exercise and Sport Sciences Reviews</emphasis>, <emphasis effect="italics">41</emphasis>(1), 3–10. https://doi.org/10.1097/JES.0b013e3182724817</para>
+      <para id="para-00032">Mukund, K., &amp; Subramaniam, S. (2020). Skeletal muscle: A review of molecular
+        structure and function, in health and disease. <emphasis effect="italics">Wiley
+        Interdisciplinary Reviews: Systems Biology and Medicine</emphasis>, <emphasis effect="italics">12</emphasis>(1), e1462. https://doi.org/10.1002/wsbm.1462</para>
+      <para id="para-00033">Pette, D., &amp; Staron, R. S. (2000). Myosin isoforms, muscle fiber types, and
+        transitions. <emphasis effect="italics">Microscopy Research and Technique</emphasis>, <emphasis effect="italics">50</emphasis>(6), 500–509.
+        https://doi.org/10.1002/1097-0029(20000915)50:6&lt;500::AID-JEMT7>3.0.CO;2-7</para>
+      <para id="para-00034">Scott, W., Stevens, J., &amp; Binder-Macleod, S. A. (2001). Human skeletal muscle fiber
+        type classifications. <emphasis effect="italics">Physical Therapy</emphasis>, <emphasis effect="italics">81</emphasis>(11), 1810–1816.</para>
+      <para id="para-00035">Van Cutsem, M., Duchateau, J., &amp; Hainaut, K. (1998). Changes in single motor unit
+        behaviour contribute to the increase in contraction speed after dynamic training in humans. <emphasis effect="italics">The Journal of Physiology</emphasis>, <emphasis effect="italics">513</emphasis>(Pt
+        1), 295–305. https://doi.org/10.1111/j.1469-7793.1998.295by.x</para>
+
+    </section>
+    <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-        <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-10-01-001"/></para>
+          <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-10-01-001"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-        <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-10-01-002"/></para>
+          <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-10-01-002"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-        <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-10-01-003"/></para>
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-10-01-003"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-        <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-10-01-004"/></para>
+          <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-10-01-004"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-        <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-10-01-005"/></para>
+          <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-10-01-005"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00006">
         <problem id="prob-00006">
-        <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-10-01-006"/></para>
+          <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-10-01-006"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00007">
         <problem id="prob-00007">
-        <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-10-01-007"/></para>
+          <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-10-01-007"/></para>
         </problem>
       </exercise>
-      </section>
+    </section>
 
-      <section class="fillin-blank" id="sect-00005">
+    <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
       <exercise id="exer-00008">
         <problem id="prob-00008">
-        <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-10-01-008"/></para>
+          <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-10-01-008"/></para>
         </problem>
       </exercise>
-      </section>
-      
+    </section>
+
   </content>
 </document>

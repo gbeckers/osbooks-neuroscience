@@ -9,163 +9,669 @@
     <section class="learning-objectives" id="sect-00006">
       <title>Learning Objectives</title>
       <para id="para-00008">By the end of this section, you should be able to</para>
-        <list id="list-00002">
-          <item>Compile a descriptive story regarding how the following UMN brain structures collaborate with distinct contributions to movement formulation and engagement: Prefrontal and premotor cortices; Cerebellum; Basal ganglia; and Primary Motor cortex (M1)</item>
-          <item>Enumerate the regions of control within the homunculus of M1 anatomically along the precentral gyrus.</item>
-          <item>Differentiate the complimentary contributions to background motor control from the basal ganglia and cerebellum in terms of muscle contribution selection and the smooth stopping and starting.</item>
-          <item>Understand the source, related circuitry, and outward expressions of the following disease states: Cerebellar Ataxia; Huntington’s disease; and Parkinson’s disease.</item>
-          <item>Describe how final movement selections are made in M1 according to the findings of Apostolos Georgopoulos and how that translates into a sort of democracy of movement trajectory determination.</item>
-         </list>
+      <list id="list-00002">
+        <item>Compile a descriptive story regarding how the following UMN brain structures
+          collaborate with distinct contributions to movement formulation and engagement: Prefrontal
+          and premotor cortices; Cerebellum; Basal ganglia; and Primary Motor cortex (M1)</item>
+        <item>Enumerate the regions of control within the homunculus of M1 anatomically along the
+          precentral gyrus.</item>
+        <item>Differentiate the complimentary contributions to background motor control from the
+          basal ganglia and cerebellum in terms of muscle contribution selection and the smooth
+          stopping and starting.</item>
+        <item>Understand the source, related circuitry, and outward expressions of the following
+          disease states: Cerebellar Ataxia; Huntington’s disease; and Parkinson’s disease.</item>
+        <item>Describe how final movement selections are made in M1 according to the findings of
+          Apostolos Georgopoulos and how that translates into a sort of democracy of movement
+          trajectory determination.</item>
+      </list>
     </section>
-<para id="para-00001">In this section, we will explore the contributions of UMN systems to voluntary movements. Progressively, we will discuss ascending signals providing critical decision-making information to UMN areas, and descending implementation signals to the lower areas (brainstem and spinal cord). We’ll address three major cortical areas:</para>
-<list list-type="enumerated" id="list-00003">
-  <item>The <term id="term-00001">prefrontal cortices</term>, the most anterior of movement-related cortices where major executive decisions are made.</item>
-  <item>The collection of regions referred to as the <term id="term-00002">premotor cortices</term> (dorsal, ventral, cingulate, supplementary). These coordinate which muscles should be activated when new game plans are formulated, and receive feeds from posterior sensory cortices, the <term id="term-00003">basal ganglia</term>, and the <term id="term-00004">cerebellum</term> through the thalamic way station.</item>
-  <item>Finally, we will discuss the <term id="term-00005">primary motor cortex</term>, or <term id="term-00006">M1</term>. We will find that this area continues to compile inputs and formulate final detailed movement decisions prior to sending commands to the LMNs in the brainstem and spinal cord.</item>
-</list>
-<para id="para-00009">Our lower motor systems clearly need guidance if we are ever going to move how we want. In this section, we will learn how the upper motor structures are poised to deliberate, compose, compile, and then direct the lower motor neurons.</para>
-<section id="sect-00007"><title>The Prefrontal Cortex – Integrating our wants and needs with circumstances</title>
-<para id="para-00010">Within the most anterior portions of the cerebral cortex behind our foreheads and over the orbits of our eyes, prefrontal cortices begin the earliest portions of conscious decision-making and are included as motor regions for this reason (see <link target-id="Image-10.02"/>). Willed movements depend on both decisions and integration of emotions and desires within internal representations concerning our circumstances in the world. We need to understand problems we face prior to acting and speaking in response to them, lest our actions be thoughtless or wildly inappropriate. For example, prefrontal lobotomy patients are unable to plan for their futures, and fail to self-monitor as actions occur (Milner &amp; Petrides, 1984; Malloy et al., 1993; Chirchiglia et al., 2019). This clearly defines these cortical regions as the locus of deciding what to do. As indicated in <link target-id="Image-10.02"/>, this area receives necessary decision-making information from many other areas. After processing, it sends this information to multiple regions, providing both the feeling of the decision and the action chosen.
-    <figure id="Image-10.02"><title>Prefrontal interactions</title>
-      <media alt="Top: Diagram of a human brain surface with arrows indicating pathways to the prefrontal cortex. Bottom: Diagram of a human brain surface with arrows indicating pathways away from the prefrontal cortex.">
-        <image mime-type="png" src="../../media/Image-10.02_Prefrontal-interactions.png"/>
-      </media>
-      <caption>Image credit: Image inspired by Fuster, J. 2015. The Prefrontal Cortex. 5th Ed. eBook ISBN: 9780124080607</caption>
-    </figure>
-</para>  
-</section>
-<section id="sect-00008"><title>Premotor cortices</title>
-  <para id="para-00011">Once an executive decision about a desired movement has been made in the PFC, the conscious compilation of movements into useful patterns occurs in the premotor cortices. These cortices reside in the lateral and dorsal regions of the frontal lobe, behind the prefrontal areas. This general region compiles movements by combining multiple muscle sets across space (different simultaneous contractions combining, adjusting movement trajectory) and time (different movements in sequence). See <link target-id="Image-10.14"/> for an example of these functions, as gymnast Simone Biles plans a complex flip. Her premotor cortex will be essential for planning force and distance while her supplementary motor area stitches together the order of movements she will need.</para>
-  <figure id="Image-10.14"><title>Premotor versus motor processing</title>
-    <media alt="Top: Left: Photo of gymnast Simone Biles's face/head. Thought bubble above her head indicate 'premotor cortex: planning for and distance' and 'supplementary motor area: planning order of operations.' Right: Picture of Simone Biles flipping in the air. text indicates 'Primary motor cortex: engage extensors and flexors to move'. Bottom: Left: Diagram of human brain surface with highlighting to show premotor area, supplementary motor area and primary motor cortex. Right: coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex.">
-      <image mime-type="png" src="../../media/Image-10.14_Premotor-versus-motor-processing.png"/>
-    </media>
-    <caption>Image credit: Thinking Simone Biles: By Agência Brasil Fotografias - EUA levam ouro na ginástica artística feminina; Brasil fica em 8º lugar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50584958; Flipping Simone Biles: By Agência Brasil Fotografias - EUA levam ouro na ginástica artística feminina; Brasil fica em 8º lugar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50584654</caption>
-  </figure>
-  <para id="para-00012">Of course, Simone Biles has done these flips many times. Her repeated practice has made much of her motor planning subconscious. This process of honing motor movements into habitual, subconscious patterns relies strongly on interactions of premotor cortices with other cortical structures such as the striatum (basal ganglia), and cerebellum. These two areas become involved more heavily during <term id="term-00007">acquisition</term> (where movement skills are packaged), <term id="term-00008">consolidation</term> (where movement skills are honed into quickly accessible repertoire habits or motor programs), and <term id="term-00009">retention</term> (where established repertoire movements are stored so they can be accessed quickly in response to key circumstances). Both primates and rats suffer deficits in learning formal, visually directed motor tasks after the removal of premotor cortices – further evidence of this region's critical role in retaining learned skill and movement adaptation for future endeavors.</para>
-  <para id="para-00013">The premotor areas' primary output is regulation of M1 neurons, which connect extensively to LMNs. For many years, the premotor cortices were believed to influence motor movement exclusively via their regulation of the primary motor cortex. However, more recent evidence shows stimulation of the premotor cortices yielding combinations of motor responses in harmony across both sides of the body. Thus premotor cortex engages built-in and learned complex combinations of actions, within an organism's more sophisticated repertoire (Geyer et al., 2000). Premotor cortices send descending axons into the spinal cord, meaning that M1 is not the only direct regulator of LMNs. This is important to keep in mind.</para>
-</section>
-<section id="sect-00009"><title>The basal ganglia</title>
-  <para id="para-00014">This cluster of subcortical nuclei includes the main input regions, caudate and putamen nuclei, with circuit components extending into the external and internal globus pallidus, subthalamic nucleus, and substantia nigra reticulata. Importantly, in most animal species, the caudate and putamen nuclei are not distinct. Therefore, they have been largely treated as a similar pair and frequently referred to together as the striatum. There appear to be several parallel "loops" traversing the basal ganglia, beginning with afferents from various areas of the cortex entering and stimulating the main input cells of the striatum. The final output nuclei of the motor loops of the <term id="term-00010">basal ganglia</term> send inhibitory inputs into the movement area of the thalamus, the <term id="term-00011">ventral anterior/ventrolateral (VA/VL) complex</term> (ventral anterior and ventrolateral thalamic nuclei).</para>
-  <para id="para-00015">Here, we will focus on the role of the basal ganglia in the conscious support of body movement. Recall that conscious actions are guided by plans formulated and relayed by the frontal cortex. Therefore, structures involved in the motoric basal ganglia loops start with afferents from most of the cortex, including sensory and motor areas converging on neurons throughout the <term id="term-00012">caudate and putamen</term> (as stated, usually understood as a group). The subsequent pathways through the basal ganglia can be divided into a <term id="term-00013">direct pathway</term> and an <term id="term-00014">indirect pathway</term>, both of which end up affecting firing of neurons in the VA/VL thalamic complex. The VA/VL complex represents a distinct waystation that specifically targets movement control areas in the cortex, primarily premotor areas. The net effect of activity in the direct pathway is to promote VA/VL firing and therefore planned movement. The net effect of the indirect pathway is to inhibit VA/VL firing and thereby suppress unwanted movement (<link target-id="Image-10.23"/>). Balance of activity in each of these pathways helps us move how we want, while preventing undesired movements. We will see later how specific diseases impacting each pathway can lead to different symptoms.</para>
-  <figure id="Image-10.23"><title>Direct vs indirect motor pathways</title>
-    <media alt="A diagram of a coronal slide of a human brain with zoom in showing rough pathways of direct and indirect pathways from striatum to VA/VL complex of thalamus.">
-      <image mime-type="png" src="../../media/Image-10.23_Direct-vs-indirect-motor-pathways.png"/>
-    </media><caption>The direct pathway of the basal ganglia promotes planned movements, while the indirect pathway inhibits unwanted movements. <emphasis>Purple</emphasis> = GPe/GPi and <emphasis>Green</emphasis> = subthalamic nucleus.</caption>
-  </figure>
-  <para id="para-00016">Both the indirect and direct pathway use <term id="term-00015">disinhibition</term> as an important part of how their circuit activity is controlled. To better understand disinhibition, we will look more closely at the direct pathway (see <link target-id="Image-10.04"/>).</para>
-  <figure id="Image-10.04"><title>Basal ganglia circuits</title>
-    <media alt="Top: A diagram of a coronal slide of a human brain showing direct pathway from striatum to VA/VL complex of thalamus. Inputs to pathway come from a separate surface view of human brain, showing origins in supplementary motor and premotor areas. Outputs also terminate on cortex surface in similar areas. Bottom: A flow diagram of connections of the direct pathway.">
-      <image mime-type="png" src="../../media/Image-10.04_Basal-ganglia-circuits.png"/>
-    </media>
-  </figure>
-  <para id="para-00017">In the direct pathway, the excitatory input from the frontal cortex areas synapses on inhibitory efferent neurons within the striatum. Those inhibitory striatal neurons then send afferents to the <term id="term-00016">globus pallidus internal (GPi)</term>. These GPi neurons are also inhibitory and connect to the <term id="term-00017">VA/VL complex</term> of the thalamus via their own inhibitory efferent neurons. In <link target-id="Image-10.04"/>, a simplified conscious motor planning diagram for the direct pathway emphasizes the prefrontal cortex because it is where conscious decisions tend to occur, confirming your intended actions and goals along the way. Overall, this inhibition of GPi output neurons results in <emphasis effect="italics">disinhibition</emphasis> of the movement-related thalamic nuclei in the VA/VL complex. The thalamic cells send excitatory outputs towards the premotor/supplementary motor cortices for body movement, or to the brainstem centers for eye and head movement (Groenewegen, 2003). Planned movement is thereby promoted.</para>
-  <para id="para-00018">The indirect pathway uses similar processes but has more complex circuitry, involving additional brain nuclei and more inhibitory/disinhibitory connections than in the direct pathway. The end result of exciting the indirect pathway is inhibition of the VA/VL and prevention of overactivation of cortical motor areas or the diminishment of <emphasis effect="italics">unwanted</emphasis> movements. One structure within the indirect pathway, the subthalamic nucleus, adds an excitation to the equation which increases how much suppression takes place. Malfunctioning here can lead to ballistic thrusting movements and is often blamed for the inappropriate tremors occurring in diseases of the basal ganglia.</para>
-<section id="sect-00010"><title>Establishing habits and motor sequences</title>
-  <para id="para-00019">While we've described conscious involvement, the basal ganglia does also maintain heavy involvement in subconscious skill learning and movement control. Sometimes, we have an explicit or conscious desire to repeatedly produce a specific movement sequence that is learned and established via consolidation as an accessible circuit coordinating multiple muscles in a sequence or ensemble. A <term id="term-00018">motor sequence </term>represents a timed pattern of muscle activation sequentially, like finger movements on a piano in a Beethoven concerto. A <term id="term-00019">muscle ensemble</term> represents a group of muscles activated simultaneously to either create a specific movement trajectory or ensure other parts of the body remain stiff while limbs maneuver, like a wrestler using arms, legs, and back contractions to pin an opponent. The basal ganglia are essential for using motor sequences and muscle ensembles in habitual or learned movements. Specifically, the basal ganglia help to select cooperative muscle ensembles and inhibit unhelpful muscles when executing a learned motor skill.</para>
-  <para id="para-00020">To understand the role of motor system learning, imagine how we might learn to draw cartoon characters like Snoopy or Garfield. Our first tries are often embarrassing. To create these drawings free-handed, we must coordinate the actions of many muscles in our arms and hand. When should we select "this" muscle, or "that," or combinations of both? The basal ganglia circuitry focuses on proper selection of either individual muscles or groups that <emphasis effect="italics">can</emphasis> produce the desired line in the right direction (drawing Snoopy's rounded snout, or Garfield's stripes or whiskers; see Zham et al., 2017). If the wrong muscles are selected, or the groups of muscles compete rather than cooperate, the drawing will look shaky and wobbly, and we might be likely to discard it rather than showing our friends. After learning to select the right muscle groups for each part, we can proudly show our friends the results. The basal ganglia can <emphasis effect="italics">select</emphasis> which muscle groups to activate in sequence, so muscle ensembles combine with motor sequences. The package becomes a learned habit, re-played as circumstances demand (piano playing, wrestling).</para>
-  <para id="para-00021">Some disease states may result from inappropriate activation of motor sequences in basal ganglia circuitry. For example, some researchers suggest that <term id="term-00020">Tourette's syndrome</term> sudden-onset expressions ("tics" or bursts of uncontrolled movement), and <term id="term-00021">dystonia</term> (writhing movements and awkward postures), stem from over-reactive sensitivities at the level of the caudate and putamen, making "chunks" of unintended movements essentially habitual (Mink, 2018; Graybiel and Mink, 2009; Albin and Mink, 2006). The circuitries controlling habitual learned movements are substantially more complex than the conscious motor circuits, involving more sub-structures within the basal ganglia. While we will not describe those complexities here, your author hopes that you will pursue more advanced classes where these circuits are covered, as they are exciting, and hotly debated.</para>
-</section>
-<section id="sect-00011"><title>Disorders of the basal ganglia</title>
-<para id="para-00022">We shall now describe two devastating diseases, Huntington’s and Parkinson’s, to emphasize functions that rely on the basal ganglia. Some readers may know people who suffer from various stages of movement control deterioration in these disorders. Neither Huntington’s nor Parkinson’s patients can engage proper motor sequences on demand while suffering their deficits (Moisello et al., 2011). Both diseases involve basal ganglia dysfunction, but result in different symptoms due to loss of different parts of the basal ganglia circuitry.</para>
-<para id="para-00023">Patients with Parkinson’s disease experience severe, progressive loss of motor control. This includes (1) shakes or tremors; (2) “<term id="term-00022">cogwheel</term>” rigidity, a special kind labeled to emphasize the interspersion of stiffness with short releases, much like clock minute hands clicking into place; and (3) postural instability appearing to derive mostly from insensitivity to vestibular and muscular cues (Sveinbjornsdottir, 2016). While the tremors appear outwardly like other basal ganglia diseases such as Huntington’s, they often manifest more at rest when no effort to engage movement exists (<term id="term-00023">resting tremor</term>), compared to <term id="term-00024">action tremor</term> associated with cerebellar ataxia, discussed later.</para>
-<para id="para-00024">Parkinson’s disease is caused by cell death of the dopaminergic neurons originating in the midbrain <term id="term-00025">substantia nigra pars compacta</term>, projecting into the caudate and putamen (<link target-id="Image-10.11"/>; Fahn 2008).</para>
-<figure id="Image-10.11"><title>Parkinson’s disease anatomical pathology</title>
-  <media alt="Top: A horizontal slice of brainstem showing a healthy example substantia nigra (with black cell bodies) on the left and substantia nigra with Parkinson's disease (and very few black cell bodies) on the right. Bottom: Left: a sagittal surface view of a human brain, with major dopaminergic pathways drawn from midbrain regions, projecting to cortex and striatum. Right: a list of the dopaminergic pathways affected by Parkinson's disease. Early/mid: Nigrostriatal; Late: Mesocortical, mesolimbic, tubero-infundibular">
-    <image mime-type="png" src="../../media/Image-10.11_Parkinson_s-disease-anatomical-pathology.png"/>
-  </media>
-</figure>
-<para id="para-00025">Dopamine contributions to basal ganglia function are complex. As is usually the case with a modulatory transmitter, it largely adjusts the way glutamatergic excitation engages postsynaptic cells. In this case, the postsynaptic cells are inhibitory efferent neurons in the striatum (Surmeier, 2011).  The interactions of dopamine with the striatum neurons are complex but their net effect is to stimulate the parts of the caudate and putamen that promote movement behavior, i.e., the direct pathway striatum neurons (follow the circuit diagram in <link target-id="Image-10.12"/>; Wall et al., 2013, Surmeier, 2011). Its loss in Parkinson’s disease makes movement much more difficult.</para>
-<figure id="Image-10.12"><title>Parkinsonian state of basal ganglia</title>
-  <media alt="Top: A flow diagram of connections of the direct pathway with the substantia nigra pars compacta excitatory input to the caudate/putamen added in. Bottom: A flow diagram of connections of the direct pathway with the substantia nigra pars compacta excitatory input to the caudate/putamen shown as greyed out to represent it's loss in Parkinson's disease. The result is much greater inhibition of the VA/VL complex.">
-    <image mime-type="png" src="../../media/Image-10.12_Parkinsonian-state-of-basal-ganglia.png"/>
-  </media>
-</figure>
-<para id="para-00026">One major treatment for Parkinson’s patients is <term id="term-00026">Levodopa (L-DOPA)</term>. It is a precursor molecule of dopamine derived from the amino acid tyrosine and is used by the enzymes within dopaminergic neurons to produce dopamine (see <link target-id="Image-10.17"/> and <link document="m00027">Basic Neurochemistry</link>).</para>
-<figure id="Image-10.17"><title>L-DOPA and Parkinson’s disease treatment</title>
-  <media alt="Diagram of an axonal terminal next to a blood vessel. Precursors are shown being transported out of the blood into the neuron to be converted in to L-DOPA, then in to dopamine.">
-    <image mime-type="png" src="../../media/Image-10.17_L-DOPA-and-Parkinson_s-disease-treatment.png"/>
-  </media><caption>Reminder: L-DOPA is a precursor in dopamine synthesis.<newline/>L-DOPA is also BBB permeable, so L-DOPA in the blood can get into the dopaminergic neuron terminals and boost dopamine synthesis.</caption>
-</figure>
-<para id="para-00027">When this drug is administered, there is typically an initial surge of dopamine, yielding improved movement. However, sometimes there’s a tendency to overdo. This is seen as impulsivity or a tendency to take more risks behaviorally, but that tapers off as the acute effects diminish (Voon et al., 2017). The greater propensity for movement is typically referred to as an “up, on, or acute” state by comparison to the “down, off, or long-term state” when the L-DOPA wears off (Albin &amp; Leventhal, 2017).</para>
-<para id="para-00028">The inconsistency of L-DOPA effects over time is one reason alternative treatments, like stem cell transplantation, are sought for Parkinson’s, which may provide more consistent dopamine presence (Sandstrom et al., 2018). Dopaminergic replacement cell populations derived from stem cells are typically placed into patients’ putamen, because this structure typically receives the highest dopaminergic input, and is most closely associated with movement control (Freed et al., 2011). Also, growth of new axons is considerably challenged across long distances in the adult brain, though strategies for guiding axon growth from the more appropriate substantia nigra pars compacta are being developed (e.g., Zang et al., 2013). Other treatments including a thalamotomy are more radical. In thalamotomy, distinct input regions of the thalamus are targeted for destruction, eliminating the supportive control provided by the compromised basal ganglia. While actors like Michael J. Fox opted for this treatment due to its general preservation of facial expression control, it is not an ultimate cure as the movements produced are often jerky and challenged. Restoring more natural or appropriate basal ganglia activity would be preferable to eliminating its influence, but this remains a challenge to achieve.</para>
-<para id="para-00029">Deep brain stimulation is another potential treatment for Parkinson’s disease. In this treatment, electrodes are placed strategically into either the subthalamic nucleus, the internal globus pallidus (GPi) or select regions within the VA/VL thalamus that override the internal signaling strategy provided by the basal ganglia. Deep brain stimulation is particularly helpful in treating the resting tremors that are common in those with Parkinson’s disease. The resting tremors in Parkinson’s disease arise due to complex dysregulation of input to the GPi/VA/VL. Proper placement and high frequency stimulation of electrodes in these areas, supported by power coming from a battery that is typically placed under the skin around the shoulder, can significantly reduce these tremors (<link target-id="Image-10.22"/>).</para>
-<figure id="Image-10.22"><title>Deep brain stimulation and Parkinson’s disease</title>
-  <media alt="Left: Diagram of a human head/torso, with a brain surface view plus a deep brain stimulation device implanted. Right: Coronal brain sections showing DBS leads targeting the VA/VL of thalamus or the globus pallidus, internal segment.">
-    <image mime-type="png" src="../../media/Image-10.22_Deep-brain-stimulation-and-Parkinson_s-disease.png"/>
-  </media>
-</figure>
-<para id="para-00030">Huntington’s disease (HD) arises from a dominant genetic mutation on the <emphasis effect="italics">huntingtin</emphasis> gene within the autosomal portion of chromosome four. Though the genetic mutation is present from conception, the symptoms develop over a lifetime (Walker, 2007). Being autosomal dominant means that a person only requires one copy of the huntingtin gene to develop HD and a parent with HD has a 50% chance of passing on their mutated gene to their offspring. In HD, cognitive difficulties often arise first in the chain of symptoms since the basal ganglia are involved in strategic thinking and developing capacity to adapt thinking to new circumstances, given its interaction with prefrontal and premotor cortices (Novak &amp; Tabrizi, 2011). Typically, movement problems arising in later adulthood, usually around 50-60 years of age, elicit more profound diagnostic concerns.</para>
-<para id="para-00031">HD-related movement problems include a sort of undulation of limb and facial movements as if these cannot be suppressed. Limb movements appear dance-like and are referred to as <term id="term-00027">chorea,</term> though they are far from purposefully choreographed or intended (Thompson et al., 1988). At later stages, body movements stiffen, challenging the coordination of swallowing-related pharynx and esophageal muscles (<term id="term-00028">dysphagia</term>). This leads to problems of aspiration and choking (Heemskerk &amp; Roos, 2011).</para>
-<para id="para-00032">HD symptoms occur because of the progressive death of striatal neuron cells. The loss of striatal neurons destroys basal ganglia function. The neurons that perish early and more prominently represent those striatal neurons within the indirect pathway, the pathway that primarily suppresses unwanted movement. Progressive deterioration of indirect basal ganglia pathway leaves the VA/VL of the thalamus increasingly disinhibited and yields increased and uncontrolled muscle engagement until the antagonists become overstimulated, stiffening limbs by simultaneous activation (Joel, 2001; Nair et al., 2021). This overstimulation is evidenced as increasingly intense chorea and slowed movement (<term id="term-00029">bradykinesia</term>). Harkening back to drawing Snoopy, consider either unsuppressed wild movements of muscles, or muscles getting locked into tug-of-war battles rather than smoothly guiding the pen. Snoopy's snout would either look too short, or overly long.</para>
-<para id="para-00033">There are no directly targeted cures for Huntington's disease right now. The absence of a cure has made diagnosis and genetic testing for Huntington's disease ethically and emotionally complicated. Without clear treatments available, a child with a parent showing symptoms of Huntington's has a dilemma. They have a 50% chance of carrying the mutated gene. If they are tested and have the Huntington's mutation, there is little they can do, so many patients may decide they don't even want to know. Hopefully that dilemma will be resolved in the future, as there are several treatments being actively worked out. Given the disease derives from a distinct mutation in the huntingtin gene, involving an inappropriate expansion of the genetic code, there have been some ideas about either suppressing mutated genes or targeting the mutation with gene therapy for heterozygotes. Transplantation of stem cells into Huntington's patients has also been attempted with varied success (Rosser &amp; Bachoud-Levi, 2012). Currently, however, standard of care is pharmacological treatments, such as tetrabenazine, to reduce symptoms. Tetrabenazine is a vesicular dopamine transporter blocker that prevents the filling of dopaminergic synaptic vesicles (Bonelli, &amp; Wenning, 2006). These drugs suppress chorea because they tend to dampen the movement initiation of the basal ganglia-based motor driving mechanisms. Dopamine net diminishes the activity in the indirect pathway, thereby promoting direct pathway initiation of planned movements. However, these drugs also tend to spread and have high cognitive side effect potential such as depression or other tensions (Paleacu, 2007). Much work is needed to improve treatment of Huntington's disease.</para>
-</section>
-</section>
-<section id="sect-00012"><title>The cerebellum</title>
-  <para id="para-00034">The <term id="term-00030">cerebellum</term> sits behind and below the cerebrum, atop the brainstem. Its folia look like two lateral bunches of curled-up spaghetti. Its main function is to smooth-out our behavioral efforts. It does this by either pre-processing movement intentions building in the premotor cortical areas, or via upper-level imagined anticipation. For example, if you contemplated a large rock in front of you in the middle of a creek, and whether you <emphasis effect="italics">might</emphasis> be able to land on it to cross the creek. Alternatively, to improve attempted actions, we process the differences between <emphasis effect="italics">intended</emphasis> and <emphasis effect="italics">actual movements</emphasis>, and adjusting signal durations/intensities until proprioception from afferent <term id="term-00031">spinocerebellar tracts</term> says we "nailed it" (Stecina, et al., 2013; Therrien &amp; Bastian, 2019). You might compliment someone with "you have an efficient cerebellum" as a <emphasis effect="italics">neuroscientist exclusive </emphasis>way of implying they move with sophistication.</para>
-    <para id="para-00051">How the basal ganglia and cerebellum divide their supportive roles in movement has intrigued neuroscientists for years. The functions of the two different regions are difficult to disentangle (Proville, et al., 2014). To simplify, coordinating necessary muscle <emphasis effect="italics">selection</emphasis> seems to be the specialization of the basal ganglia, while coordinating contraction <emphasis effect="italics">timing and degree</emphasis> requires the cerebellum. Analogous smooth and elegant line production while drawing Snoopy requires sophisticated starting and stopping, and smooth transitions of pen direction, to avoid jerky images (see Fujisawa &amp; Okayama, 2015). Another way to think about it is that the basal ganglia "chunk" flexors here and extensors there, while the cerebellum smooths out their actions. Such responsibilities are emphasized more strongly in either structure, though in any one effort we <emphasis effect="italics">will </emphasis>utilize both structures.</para>
-    <para id="para-00052">The cerebellum provides its smoothing functions (while you are drawing Snoopy or doing any number of other tasks) through extensive error correction. A motor error occurs when the way we actually move does not match where we intended to move. Detecting errors therefore requires at least 2 streams of information: one about action and the other about intention. Intention comes to the cerebellum from the brain via projections from the pontine nuclei in the brainstem, or from spinal cord regions where descending UMN tracts depict what we <emphasis effect="italics">intend</emphasis> to do (either consciously or implicitly) to <emphasis effect="italics">anticipate</emphasis> goals which also ascend the spine into the cerebellum. The cerebellar input about movement derives from proprioception feedback (largely muscle stretch), which depicts <emphasis effect="italics">moves that happened,</emphasis> ascending from the spinal cord via <term id="term-00032">spinocerebellar tracts</term> (or trigeminal that monitors head/face movement). Progressively, the cerebellum compares these two components and adjusts the prompting UMN signals until we nail it (<emphasis effect="italics">intended</emphasis> = <emphasis effect="italics">actual</emphasis>).</para>
-    <para id="para-00053">The role of the cerebellum in providing smooth integration of motor effort timing and intensity can be appreciated when it is impaired, as happens in <term id="term-00033">cerebellar ataxia</term> or when someone consumes alcohol (Sokolov et al., 2017; Spencer et al., 2005; Bareš et al., 2009). Cerebellar damage (cerebellar ataxia) causes <term id="term-00034">dysmetria</term>, where one exhibits a "drunken gait" because foot placement can't be error-corrected or smoothed, and <term id="term-00036">intention tremor</term> where movements overshoot stopping points and oscillate around target destinations (Schwartze et al., 2016). It is important not to conflate alcohol effects with cerebellar damage. Drunkenness derives from the way alcohol enhances the effects of GABA across wide regions of both motor control and decision-making circuits. Cerebellar damage specifically eliminates the controlled-targeted landing of limbs to the right place. Cerebellar ataxia is analogous to rendering smooth limousine driving into two choices: full throttle or slamming on breaks. Yet visually, walking while drunk and walking with cerebellar ataxia appear outwardly similar. The cerebellum constantly contributes to posture alignment behind the scenes (subconsciously) so removing these contributions causes loose and wavy lack of balance. People can experience ataxic gait for multiple reasons. Any ataxic walking (caused by cerebellar damage or any other source) looks like feet land where they do by accident, rather than on purpose. Cerebellar ataxic gait occurs because the cerebellum can't correct the extent of movements properly, emphasizing approximations (see <link url="https://openstax.org/r/Neuro10Ataxia">this video on Ataxia</link>).</para>
-  <section id="sect-00013"><title>Corrective actions incorporated with ongoing movement, not after we perceive movement</title>
-  <para id="para-00054">Just like the basal ganglia, the cerebellum supports movement control by tweaking the thalamic VA/VL complex, though synapsing through distinct circuits. The cerebellum is inspired into action in relation to initial learning, and later provides anticipatory adjustment signals that integrate into ongoing movement but are sent prior to or in conjunction with the UMN signals that descend to initiate LMN actions. Most cerebellum contributions are made subconsciously and become integrated into movements we <emphasis effect="italics">subsequently</emphasis> produce (the lack of sufficient adjustment is shown when errors occur, such as ataxia). Success in generating desired smooth movements, ending without jerky shakes, requires error corrections to be incorporated before movement begins. If we had to wait for proprioceptive feedback before correcting, there would always be a “jerk-back” effect due to delays inherent in sensory systems. This can result from conscious movement monitoring. Conscious proprioception (cortical) is slower than ongoing movements, so modifications come post-movement, making it jerky and uncoordinated. Damaged cerebellum patients are limited to this, so when their conscious stream is distracted, they produce more movement errors because their cortex cannot multitask well (Brunamonti, et al., 2014). Thus, a well-primed (skill consolidated) healthy cerebellum recognizes the need, then delivers its adjustments along with <emphasis effect="italics">subsequent</emphasis> UMN-driven movement efforts rather than correcting errors after the fact. It learns while we do behind the scenes to determine how much boosting or tapering is necessary, and subsequently contributes these adjustments to future movements. Imagine these contributions behind the scenes of established Olympic floor moves, or the slight-of-hand demonstrated by a seasoned magician (Dahms et al., 2020).</para>
-  </section>
-  <section id="sect-00014"><title>Practicing and imagining success</title>
-  <para id="para-00055">It’s important for new behavior to start off slowly, allowing sufficient time for proprioceptive sensory feedback to reach the CNS and become conscious perception. We do this all the time when we are learning how to move in specific ways. For example, choreographed fight moves à la Jackie Chan are typically rehearsed slowly before filming so actors can anticipate blows and pull back to “act” hit. By going slowly, we have time to consciously perceive motor errors and use our cerebellar processes to correct them. Through this slow practice, the cerebellum helps us learn how to execute movements faster and faster, with less conscious perception of proprioception needed to keep our bodies on track. Notably, even imagined movements can play a role in this learning—a mental rehearsal without physical engagement (Decety &amp; Ingvar, 1990, Jackson et al., 2003). Actors, dancers, skaters, and sports professionals do this <emphasis effect="italics">all the time</emphasis>. The performance improvements from imagined practice are real, not illusory, as they entrain the cerebellar circuitry support of cerebral movement control via the same circuitry that adapts to actual movement.</para>
-  </section>
-  </section>
-  <section id="sect-00015"><title>Primary motor cortex</title>
-  <para id="para-00056">The <term id="term-00037">primary motor cortex (M1)</term> region receives our “upper-level” synaptic progression last. This progression collects and coordinates movement intentions before sending those UMN compilations down to the brainstem and spinal cord for movement generation by the LMNs. M1 is also the first cortical area with full lateralization of limb and face movement control: M1 neurons on the right side of the brain all target LMNs for the left limbs and facial area, while M1 neurons on the left side of the brain all target LMNs for the right limbs and facial areas. This lateralization contrasts with the premotor regions we discussed so far, which engage bilateral control. M1 lateralization is restricted to limbs and facial lateral areas, not the trunk, which is generally ipsilaterally controlled.</para>
-  <section id="sect-00016"><title>Primary Precentral Gyrus Organization</title>
-  <para id="para-00057">The posterior frontal cortex has a major crease, the <term id="term-00038">central sulcus</term>, dividing the precentral (green in <link target-id="Image-10.01"/>) and postcentral gyri.</para>
-  <figure id="Image-10.01"><title>Primary motor cortex</title>
-    <media alt="Left top: Lateral surface view of human brain with primary motor cortex highlighted. Left bottom: Sagittal surface view of human brain with primary motor coretx highlighted. Right: Coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex.">
-      <image mime-type="png" src="../../media/Image-10.01_Primary-motor-cortex.png"/>
-    </media>
-  </figure>
-  <para id="para-00058">This strip, from between the hemispheres out laterally, ending just above the lateral fissure (defining the top of the temporal lobe), contains the primary drivers of voluntarily organized/coordinated movement known collectively as the primary motor cortex. The neurons of the primary motor cortex are arranged in a <term id="term-00039">homunculus</term>. This arrangement is essentially a map of a little person lying across the precentral gyrus, so toe control is buried between the hemispheres. This map was famously created by neurosurgeon Wilder Penfield, who assessed movements when brain regions were stimulated during surgeries correcting epilepsy and made direct recordings during movements (Penfield and Rasmussen, 1950). The idea of a homunculus depicts the “person” as a distorted image made up of enlarged areas where more neuronal space engages with specific moveable body parts. The complexity or subtlety of movement of any body part tends to engage larger numbers of neurons as this attribute goes up, so the eventual map of a person has a large tongue, huge lips, prominent face around the forehead, huge hands and feet, with a smaller torso, limbs, and joints, according to the degree of movement sophistication possible. The motor homunculus is to movement sophistication as the somatosensory homunculus is to somatosensory density (see <link document="m00006">Touch and Pain</link>).</para>
-</section>
-<section id="sect-00017"><title>Descending motor projections</title>
-<para id="para-00059">The primary motor cortex neurons send their axons out to the brainstem and spinal cord via three tracts (see <link target-id="Image-10.07"/>).</para>
-<figure id="Image-10.07"><title>Corticospinal motor pathways for the body</title>
-  <media alt="Upper left inset: Coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex. Major neuronal pathways are shown projecting down to the spinal cord. Rest of diagram: Neural pathway diagram, showing brain original of corticospinal tracts, projecting down through the spinal cord, then synapsing on motor neuron in the ventral spinal cord grey. From there, lower motor neurons project out of the ventral spinal cord roots, towards the periphery.">
-    <image mime-type="png" src="../../media/Image-10.07_Corticospinal-motor-pathways-for-the-body.png"/>
-  </media>
-</figure>
-<list type="enumerated" id="list-00004">
-  <item>The <term id="term-00040">corticobulbar</term> (or <term id="term-00041">corticonuclear</term>) tract, carries descending efferents from the cortex, synapsing on brainstem nuclei serving regions of the jaw, face, ear mechanisms, for gagging or swallowing, or crinkling our noses. Corticobulbar tracts largely provide bilateral support, where each side directly serves ipsilaterally, and crosses over at the level of various nuclei to the contralateral side. The exception to this rule would be the descending tracts subserving the facial nucleus, specifically the lower part of the face, which is exclusively contralateral (Patestas &amp; Gartner, 2016). We're overlooking autonomic patterning aspects of this projection to focus on controlled movement.</item>
-  <item>The <term id="term-00042">lateral corticospinal</term> tract is the major descending tract for body limbs. It crosses almost entirely to the other side of the body to control the <term id="term-00043">contralateral</term> (opposite side from originating hemisphere) limbs, mostly the arm/hand/fingers and leg/foot/toes.</item>
-  <item>The <term id="term-00044">anterior corticospinal</term> tract is a smaller but important tract responsible for controlling trunk muscles and more medial aspects. While some of this tract <term id="term-00045">decussates</term> (crosses over) at the level of the spinal cord in the ventral white matter as shown in <link target-id="Image-10.07"/>, a majority subserves the ipsilateral side.</item>
-  </list>
-  <para id="para-00060">The upper part of our body (head) is largely controlled via cranial nerves derived from the brainstem and therefore the corticobulbar tract. The two corticospinal tracts descend to different levels of the spinal cord. Within the spinal cord, these tracts interact with LMNs and the circuitry making up the reflex architecture (also used to engage the knee-jerk, or withdrawal reflexes, utilizing local spinal circuitry described above) to control the lower parts of our bodies such as limbs and trunk.</para>
-  <para id="para-00061">Why do some descending UMNs control need to cross over to operate the opposite side of the body? One simple explanation may be that visual information passing through lenses of your eyes is flipped (see <link document="">Vision</link>). Events occurring to our left pass to the right sides of our retinae. The right sides of each retina connect with the right hemisphere, while the left connects with the left. However, the information they process is relevant to the opposite sides of our bodies. This probably created pressure for natural selection to derive a map of limb control so each hemisphere could control the opposite side.</para>
-</section>
-<note class="boxed-feature" id="note-00001">
-  <title>People behind the science: Vector Trajectories</title>
-  <para id="para-00062">Apostolos Georgopoulos MD, Ph.D. currently heads a Brain Center at The University of Minnesota where he is Regents Professor of Neuroscience. His work brought important insights to the way motor cortex activates limb movement. To appreciate his findings, it’s important to understand the concept of a <term id="term-00046">vector</term>, a force directing movement encompassing both <emphasis effect="italics">speed and direction</emphasis>.</para>
-  <para id="para-00063">When we kick a ball softly, its path forms a vector with little <emphasis effect="italics">speed</emphasis>. Kicking the ball harder in the same <emphasis effect="italics">direction</emphasis> maintains this vector with greater <emphasis effect="italics">speed</emphasis>. A different <emphasis effect="italics">direction</emphasis> would elicit a different vector. Similarly with moving our arms. The generation of force accumulation to drive movement intensity at the LMN level was discussed above in <link document="m00018">The physiological actions implementing movement – Contraction of muscles</link>.</para>
-  <para id="para-00064">The key to Georgopoulos' findings is, across the population of M1 neurons, each neuron's activity seems to be associated with a vector of limb movement. Or, as each M1 motoneuron fires action potentials, their frequencies intensify in relation to the limb movement's direction and trajectory range (Georgopoulos et al., 1983).</para>
-  <para id="para-00065">To determine this, Dr. Georgopoulos and his team recorded from hundreds of individual M1 neurons within the brains of monkeys while the monkeys moved a specialized apparatus (Georgopoulos et al., 1992). It was set up like a large lever-shift which picked up movement direction, and could be adjusted to provide back-pressure along certain trajectories.</para>
-  <para id="para-00066">Think of this as a large old-school Atari-like joystick, shifting rather than simply angling in different directions. When the animal pushed the lever in one direction, a distinct neuron population appearing to "prefer" that direction elicited strong bursts of activity, while other populations "preferring" other directions diminished responses. If the vector of an M1 neuron's preference required extra force, that MI neuron increased its firing rate (Georgopoulos et al., 1982). The key to the developing hypothesis was at each motion of the arm, larger populations of neurons contributed their "vote" for arm vectors into the descending feed. At each moment key populations "won" the vote to over-ride alternative movement preferences. Brain democracy!</para>
-  <para id="para-00067">At first, these experiments were performed with only two-dimensional movement directions across a flat surface (1983). Eventually, more exciting results were obtained from monkey arm movement tracked three-dimensionally. Based on the same premise, a more complex division of "preferences" yielded similar results (Georgopoulos et al., 1988). It is fascinating to consider the wider implications of this. Guiding one's arm or hand towards a target follows calculations of vector trajectories in regions like the posterior parietal cortex and the cerebellum, to be sent forward toward the premotor cortex.</para>
-  <para id="para-00068">It's now clearer how this guidance appears to help reinforce individual neurons contributing "votes" or preference activations in concert with needed directions through increasingly selective intensities of stimulation of select M1 cortical neurons (e.g., Georgopoulos et al., 1992; Taira et al., 1990). Since these preference activations persist across a population, this also seems to provide greater stability in the capacity to elicit distinct movements, diminishing the probability of select damage eliminating specific movement trajectory capacities. This would be incredibly helpful in restoring post-stroke movement, for example. To draw Snoopy, many hand muscles need to be selected individually or simultaneously and this neuronal "voting" is also supported by basal ganglia contributions along the way when we draw him again, and again (necessary for moving pictures).</para>
-</note>
-<section id="sect-00018"><title>Moving Beyond Vector Trajectories into Controlling Robot Arms</title>
-<para id="para-00069">In the previous section, we discussed how the pioneering work of Georgopoulos pointed towards this key cortical element of “voting populations.” More recently, new and fascinating cutting-edge things have been happening to build off his work. By studying consensus of neuronal activities and how they link to vector trajectories, researchers have begun to be able to predict where limbs might go based on neuronal activity! Once you can predict what neuronal activity does, it becomes possible to tap in to those neurons to recreate movements. This basic idea is what underpins many modern efforts to link robot prosthetics to the human brain.</para>
-<para id="para-00070">Many forms of brain or spinal cord damage can render a person unable to move any limbs despite owning an active and intact brain (quadriplegic). Neuroscientists such as Andrew Schwartz and others have been working to turn that remaining ability to direct movements in the brain into real movements of robotic prosthetic devices. This work is all based in the original concepts derived from Georgopoulos and has now yielded robotic arms that can respond to recordings from a patient’s brain and engage complex arm and hand type movements to select, grasp, and move objects! The details of how two human subjects with quadriplegia were implanted with specialized electrodes over the arm-related region of their M1 homunculi and subsequently gained considerable control over an attached robot arm are originally described in Lancet (Collinger et al., 2013). Since this initial proof-of-principle, improvements have been made. For example, a patient in 2015 received a version of this system that was not just unidirectional—taking motor commands and linking them to the prosthetic. This newer version also incorporated input from sensory information. Remember back to our example of a monkey swinging through the trees. To swing, grasp and release well, the monkey integrated several sources of touch information. Grasping without feeling the grasp would make branch swinging a far greater challenge for the monkey. The same applies to patients with prosthetic limbs. Adding touch feedback greatly improved the ability of the patient to use their limb. These devices, adjusted for circumstances, are moving outside of a theoretical possibility into a distinct therapeutic option reality! If movement practice feedback could also be incorporated, it is conceivable that practiced learning could get such patients back to cooking in the kitchen!
-</para>  
-</section>
-<note class="boxed-feature" id="note-00002">
-  <title>A Special inspiration from your author</title>
-  <para id="para-00071">It has been a pleasure sharing a neuroscientist’s view of movement with you all. All the complexity ensures our capacity to <emphasis effect="italics">do what we want to do</emphasis>. Considerable control has evolved at both lower implementation levels and higher formulation levels. Collaborations between brain, spine, and muscles above help us repeatedly <emphasis effect="italics">do what we want</emphasis> without having to re-invent every motion from scratch. Background processing and delegation promotes the feeling of quick shifts from thinking to doing. Now you should have a better sense of the complexity. On several occasions, this chapter has used expressions like 'apparently,' 'it seems like,' or 'seems to.' Such expressions demonstrate there's a lot neuroscientists still need to learn about body movement mechanisms. The author hopes that future neuroscientists or readers with related intentions may see clarifying this as a challenge. Also, this author wishes to thank the editor Dr. Elizabeth Kirby, his father (Dr. Harald M. Sandstrom), his brother (Jonathan R. Sandstrom), and his colleague Dr. Gary L. Dunbar for their extraordinary editorial support that substantially improved this chapter’s clarity and focus.</para>
-</note>
-</section>
-  <section class="section-summary" id="sect-00001">
+    <para id="para-00001">In this section, we will explore the contributions of UMN systems to
+      voluntary movements. Progressively, we will discuss ascending signals providing critical
+      decision-making information to UMN areas, and descending implementation signals to the lower
+      areas (brainstem and spinal cord). We’ll address three major cortical areas:</para>
+    <list list-type="enumerated" id="list-00003">
+      <item>The <term id="term-00001">prefrontal cortices</term>, the most anterior of
+        movement-related cortices where major executive decisions are made.</item>
+      <item>The collection of regions referred to as the <term id="term-00002">premotor cortices</term>
+        (dorsal, ventral, cingulate, supplementary). These coordinate which muscles should be
+        activated when new game plans are formulated, and receive feeds from posterior sensory
+        cortices, the <term id="term-00003">basal ganglia</term>, and the <term id="term-00004">
+        cerebellum</term> through the thalamic way station.</item>
+      <item>Finally, we will discuss the <term id="term-00005">primary motor cortex</term>, or <term id="term-00006">M1</term>. We will find that this area continues to compile inputs and
+        formulate final detailed movement decisions prior to sending commands to the LMNs in the
+        brainstem and spinal cord.</item>
+    </list>
+    <para id="para-00009">Our lower motor systems clearly need guidance if we are ever going to move
+      how we want. In this section, we will learn how the upper motor structures are poised to
+      deliberate, compose, compile, and then direct the lower motor neurons.</para>
+    <section id="sect-00007">
+      <title>The Prefrontal Cortex – Integrating our wants and needs with circumstances</title>
+      <para id="para-00010">Within the most anterior portions of the cerebral cortex behind our
+        foreheads and over the orbits of our eyes, prefrontal cortices begin the earliest portions
+        of conscious decision-making and are included as motor regions for this reason (see <link target-id="Image-10.02"/>). Willed movements depend on both decisions and integration of
+        emotions and desires within internal representations concerning our circumstances in the
+        world. We need to understand problems we face prior to acting and speaking in response to
+        them, lest our actions be thoughtless or wildly inappropriate. For example, prefrontal
+        lobotomy patients are unable to plan for their futures, and fail to self-monitor as actions
+        occur (Milner &amp; Petrides, 1984; Malloy et al., 1993; Chirchiglia et al., 2019). This
+        clearly defines these cortical regions as the locus of deciding what to do. As indicated in <link target-id="Image-10.02"/>, this area receives necessary decision-making information from
+        many other areas. After processing, it sends this information to multiple regions, providing
+        both the feeling of the decision and the action chosen. <figure id="Image-10.02">
+          <title>Prefrontal interactions</title>
+          <media alt="Top: Diagram of a human brain surface with arrows indicating pathways to the prefrontal cortex. Bottom: Diagram of a human brain surface with arrows indicating pathways away from the prefrontal cortex.">
+            <image mime-type="png" src="../../media/Image-10.02_Prefrontal-interactions.png"/>
+          </media>
+          <caption>Image credit: Image inspired by Fuster, J. 2015. The Prefrontal Cortex. 5th Ed.
+        eBook ISBN: 9780124080607</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="sect-00008">
+      <title>Premotor cortices</title>
+      <para id="para-00011">Once an executive decision about a desired movement has been made in the
+        PFC, the conscious compilation of movements into useful patterns occurs in the premotor
+        cortices. These cortices reside in the lateral and dorsal regions of the frontal lobe,
+        behind the prefrontal areas. This general region compiles movements by combining multiple
+        muscle sets across space (different simultaneous contractions combining, adjusting movement
+        trajectory) and time (different movements in sequence). See <link target-id="Image-10.14"/>
+        for an example of these functions, as gymnast Simone Biles plans a complex flip. Her
+        premotor cortex will be essential for planning force and distance while her supplementary
+        motor area stitches together the order of movements she will need.</para>
+      <figure id="Image-10.14">
+        <title>Premotor versus motor processing</title>
+        <media alt="Top: Left: Photo of gymnast Simone Biles's face/head. Thought bubble above her head indicate 'premotor cortex: planning for and distance' and 'supplementary motor area: planning order of operations.' Right: Picture of Simone Biles flipping in the air. text indicates 'Primary motor cortex: engage extensors and flexors to move'. Bottom: Left: Diagram of human brain surface with highlighting to show premotor area, supplementary motor area and primary motor cortex. Right: coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex.">
+          <image mime-type="png" src="../../media/Image-10.14_Premotor-versus-motor-processing.png"/>
+        </media>
+        <caption>Image credit: Thinking Simone Biles: By Agência Brasil Fotografias - EUA levam ouro
+          na ginástica artística feminina; Brasil fica em 8º lugar, CC BY 2.0,
+          https://commons.wikimedia.org/w/index.php?curid=50584958; Flipping Simone Biles: By
+          Agência Brasil Fotografias - EUA levam ouro na ginástica artística feminina; Brasil fica
+          em 8º lugar, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=50584654</caption>
+      </figure>
+      <para id="para-00012">Of course, Simone Biles has done these flips many times. Her repeated
+        practice has made much of her motor planning subconscious. This process of honing motor
+        movements into habitual, subconscious patterns relies strongly on interactions of premotor
+        cortices with other cortical structures such as the striatum (basal ganglia), and
+        cerebellum. These two areas become involved more heavily during <term id="term-00007">
+        acquisition</term> (where movement skills are packaged), <term id="term-00008">consolidation</term>
+        (where movement skills are honed into quickly accessible repertoire habits or motor
+        programs), and <term id="term-00009">retention</term> (where established repertoire
+        movements are stored so they can be accessed quickly in response to key circumstances). Both
+        primates and rats suffer deficits in learning formal, visually directed motor tasks after
+        the removal of premotor cortices – further evidence of this region's critical role in
+        retaining learned skill and movement adaptation for future endeavors.</para>
+      <para id="para-00013">The premotor areas' primary output is regulation of M1 neurons, which
+        connect extensively to LMNs. For many years, the premotor cortices were believed to
+        influence motor movement exclusively via their regulation of the primary motor cortex.
+        However, more recent evidence shows stimulation of the premotor cortices yielding
+        combinations of motor responses in harmony across both sides of the body. Thus premotor
+        cortex engages built-in and learned complex combinations of actions, within an organism's
+        more sophisticated repertoire (Geyer et al., 2000). Premotor cortices send descending axons
+        into the spinal cord, meaning that M1 is not the only direct regulator of LMNs. This is
+        important to keep in mind.</para>
+    </section>
+    <section id="sect-00009">
+      <title>The basal ganglia</title>
+      <para id="para-00014">This cluster of subcortical nuclei includes the main input regions,
+        caudate and putamen nuclei, with circuit components extending into the external and internal
+        globus pallidus, subthalamic nucleus, and substantia nigra reticulata. Importantly, in most
+        animal species, the caudate and putamen nuclei are not distinct. Therefore, they have been
+        largely treated as a similar pair and frequently referred to together as the striatum. There
+        appear to be several parallel "loops" traversing the basal ganglia, beginning with afferents
+        from various areas of the cortex entering and stimulating the main input cells of the
+        striatum. The final output nuclei of the motor loops of the <term id="term-00010">basal
+        ganglia</term> send inhibitory inputs into the movement area of the thalamus, the <term id="term-00011">ventral anterior/ventrolateral (VA/VL) complex</term> (ventral anterior
+        and ventrolateral thalamic nuclei).</para>
+      <para id="para-00015">Here, we will focus on the role of the basal ganglia in the conscious
+        support of body movement. Recall that conscious actions are guided by plans formulated and
+        relayed by the frontal cortex. Therefore, structures involved in the motoric basal ganglia
+        loops start with afferents from most of the cortex, including sensory and motor areas
+        converging on neurons throughout the <term id="term-00012">caudate and putamen</term> (as
+        stated, usually understood as a group). The subsequent pathways through the basal ganglia
+        can be divided into a <term id="term-00013">direct pathway</term> and an <term id="term-00014">indirect pathway</term>, both of which end up affecting firing of neurons
+        in the VA/VL thalamic complex. The VA/VL complex represents a distinct waystation that
+        specifically targets movement control areas in the cortex, primarily premotor areas. The net
+        effect of activity in the direct pathway is to promote VA/VL firing and therefore planned
+        movement. The net effect of the indirect pathway is to inhibit VA/VL firing and thereby
+        suppress unwanted movement (<link target-id="Image-10.23"/>). Balance of activity in each
+        of these pathways helps us move how we want, while preventing undesired movements. We will
+        see later how specific diseases impacting each pathway can lead to different symptoms.</para>
+      <figure id="Image-10.23">
+        <title>Direct vs indirect motor pathways</title>
+        <media alt="A diagram of a coronal slide of a human brain with zoom in showing rough pathways of direct and indirect pathways from striatum to VA/VL complex of thalamus.">
+          <image mime-type="png" src="../../media/Image-10.23_Direct-vs-indirect-motor-pathways.png"/>
+        </media>
+        <caption>The direct pathway of the basal ganglia promotes planned movements, while the
+          indirect pathway inhibits unwanted movements. <emphasis>Purple</emphasis> = GPe/GPi and <emphasis>
+          Green</emphasis> = subthalamic nucleus.</caption>
+      </figure>
+      <para id="para-00016">Both the indirect and direct pathway use <term id="term-00015">
+        disinhibition</term> as an important part of how their circuit activity is controlled. To
+        better understand disinhibition, we will look more closely at the direct pathway (see <link target-id="Image-10.04"/>).</para>
+      <figure id="Image-10.04">
+        <title>Basal ganglia circuits</title>
+        <media alt="Top: A diagram of a coronal slide of a human brain showing direct pathway from striatum to VA/VL complex of thalamus. Inputs to pathway come from a separate surface view of human brain, showing origins in supplementary motor and premotor areas. Outputs also terminate on cortex surface in similar areas. Bottom: A flow diagram of connections of the direct pathway.">
+          <image mime-type="png" src="../../media/Image-10.04_Basal-ganglia-circuits.png"/>
+        </media>
+      </figure>
+      <para id="para-00017">In the direct pathway, the excitatory input from the frontal cortex
+        areas synapses on inhibitory efferent neurons within the striatum. Those inhibitory striatal
+        neurons then send afferents to the <term id="term-00016">globus pallidus internal (GPi)</term>.
+        These GPi neurons are also inhibitory and connect to the <term id="term-00017">VA/VL complex</term>
+        of the thalamus via their own inhibitory efferent neurons. In <link target-id="Image-10.04"/>,
+        a simplified conscious motor planning diagram for the direct pathway emphasizes the
+        prefrontal cortex because it is where conscious decisions tend to occur, confirming your
+        intended actions and goals along the way. Overall, this inhibition of GPi output neurons
+        results in <emphasis effect="italics">disinhibition</emphasis> of the movement-related
+        thalamic nuclei in the VA/VL complex. The thalamic cells send excitatory outputs towards the
+        premotor/supplementary motor cortices for body movement, or to the brainstem centers for eye
+        and head movement (Groenewegen, 2003). Planned movement is thereby promoted.</para>
+      <para id="para-00018">The indirect pathway uses similar processes but has more complex
+        circuitry, involving additional brain nuclei and more inhibitory/disinhibitory connections
+        than in the direct pathway. The end result of exciting the indirect pathway is inhibition of
+        the VA/VL and prevention of overactivation of cortical motor areas or the diminishment of <emphasis effect="italics">unwanted</emphasis> movements. One structure within the indirect pathway,
+        the subthalamic nucleus, adds an excitation to the equation which increases how much
+        suppression takes place. Malfunctioning here can lead to ballistic thrusting movements and
+        is often blamed for the inappropriate tremors occurring in diseases of the basal ganglia.</para>
+      <section id="sect-00010">
+        <title>Establishing habits and motor sequences</title>
+        <para id="para-00019">While we've described conscious involvement, the basal ganglia does
+          also maintain heavy involvement in subconscious skill learning and movement control.
+          Sometimes, we have an explicit or conscious desire to repeatedly produce a specific
+          movement sequence that is learned and established via consolidation as an accessible
+          circuit coordinating multiple muscles in a sequence or ensemble. A <term id="term-00018">motor
+          sequence </term>represents a timed pattern of muscle activation sequentially, like finger
+          movements on a piano in a Beethoven concerto. A <term id="term-00019">muscle ensemble</term>
+          represents a group of muscles activated simultaneously to either create a specific
+          movement trajectory or ensure other parts of the body remain stiff while limbs maneuver,
+          like a wrestler using arms, legs, and back contractions to pin an opponent. The basal
+          ganglia are essential for using motor sequences and muscle ensembles in habitual or
+          learned movements. Specifically, the basal ganglia help to select cooperative muscle
+          ensembles and inhibit unhelpful muscles when executing a learned motor skill.</para>
+        <para id="para-00020">To understand the role of motor system learning, imagine how we might
+          learn to draw cartoon characters like Snoopy or Garfield. Our first tries are often
+          embarrassing. To create these drawings free-handed, we must coordinate the actions of many
+          muscles in our arms and hand. When should we select "this" muscle, or "that," or
+          combinations of both? The basal ganglia circuitry focuses on proper selection of either
+          individual muscles or groups that <emphasis effect="italics">can</emphasis> produce the
+          desired line in the right direction (drawing Snoopy's rounded snout, or Garfield's stripes
+          or whiskers; see Zham et al., 2017). If the wrong muscles are selected, or the groups of
+          muscles compete rather than cooperate, the drawing will look shaky and wobbly, and we
+          might be likely to discard it rather than showing our friends. After learning to select
+          the right muscle groups for each part, we can proudly show our friends the results. The
+          basal ganglia can <emphasis effect="italics">select</emphasis> which muscle groups to
+          activate in sequence, so muscle ensembles combine with motor sequences. The package
+          becomes a learned habit, re-played as circumstances demand (piano playing, wrestling).</para>
+        <para id="para-00021">Some disease states may result from inappropriate activation of motor
+          sequences in basal ganglia circuitry. For example, some researchers suggest that <term id="term-00020">Tourette's syndrome</term> sudden-onset expressions ("tics" or bursts of
+          uncontrolled movement), and <term id="term-00021">dystonia</term> (writhing movements and
+          awkward postures), stem from over-reactive sensitivities at the level of the caudate and
+          putamen, making "chunks" of unintended movements essentially habitual (Mink, 2018;
+          Graybiel and Mink, 2009; Albin and Mink, 2006). The circuitries controlling habitual
+          learned movements are substantially more complex than the conscious motor circuits,
+          involving more sub-structures within the basal ganglia. While we will not describe those
+          complexities here, your author hopes that you will pursue more advanced classes where
+          these circuits are covered, as they are exciting, and hotly debated.</para>
+      </section>
+      <section id="sect-00011">
+        <title>Disorders of the basal ganglia</title>
+        <para id="para-00022">We shall now describe two devastating diseases, Huntington’s and
+          Parkinson’s, to emphasize functions that rely on the basal ganglia. Some readers may know
+          people who suffer from various stages of movement control deterioration in these
+          disorders. Neither Huntington’s nor Parkinson’s patients can engage proper motor sequences
+          on demand while suffering their deficits (Moisello et al., 2011). Both diseases involve
+          basal ganglia dysfunction, but result in different symptoms due to loss of different parts
+          of the basal ganglia circuitry.</para>
+        <para id="para-00023">Patients with Parkinson’s disease experience severe, progressive loss
+          of motor control. This includes (1) shakes or tremors; (2) “<term id="term-00022">cogwheel</term>”
+          rigidity, a special kind labeled to emphasize the interspersion of stiffness with short
+          releases, much like clock minute hands clicking into place; and (3) postural instability
+          appearing to derive mostly from insensitivity to vestibular and muscular cues
+          (Sveinbjornsdottir, 2016). While the tremors appear outwardly like other basal ganglia
+          diseases such as Huntington’s, they often manifest more at rest when no effort to engage
+          movement exists (<term id="term-00023">resting tremor</term>), compared to <term id="term-00024">action tremor</term> associated with cerebellar ataxia, discussed later.</para>
+        <para id="para-00024">Parkinson’s disease is caused by cell death of the dopaminergic
+          neurons originating in the midbrain <term id="term-00025">substantia nigra pars compacta</term>,
+          projecting into the caudate and putamen (<link target-id="Image-10.11"/>; Fahn 2008).</para>
+        <figure id="Image-10.11">
+          <title>Parkinson’s disease anatomical pathology</title>
+          <media alt="Top: A horizontal slice of brainstem showing a healthy example substantia nigra (with black cell bodies) on the left and substantia nigra with Parkinson's disease (and very few black cell bodies) on the right. Bottom: Left: a sagittal surface view of a human brain, with major dopaminergic pathways drawn from midbrain regions, projecting to cortex and striatum. Right: a list of the dopaminergic pathways affected by Parkinson's disease. Early/mid: Nigrostriatal; Late: Mesocortical, mesolimbic, tubero-infundibular">
+            <image mime-type="png" src="../../media/Image-10.11_Parkinson_s-disease-anatomical-pathology.png"/>
+          </media>
+        </figure>
+        <para id="para-00025">Dopamine contributions to basal ganglia function are complex. As is
+          usually the case with a modulatory transmitter, it largely adjusts the way glutamatergic
+          excitation engages postsynaptic cells. In this case, the postsynaptic cells are inhibitory
+          efferent neurons in the striatum (Surmeier, 2011). The interactions of dopamine with the
+          striatum neurons are complex but their net effect is to stimulate the parts of the caudate
+          and putamen that promote movement behavior, i.e., the direct pathway striatum neurons
+          (follow the circuit diagram in <link target-id="Image-10.12"/>; Wall et al., 2013,
+          Surmeier, 2011). Its loss in Parkinson’s disease makes movement much more difficult.</para>
+        <figure id="Image-10.12">
+          <title>Parkinsonian state of basal ganglia</title>
+          <media alt="Top: A flow diagram of connections of the direct pathway with the substantia nigra pars compacta excitatory input to the caudate/putamen added in. Bottom: A flow diagram of connections of the direct pathway with the substantia nigra pars compacta excitatory input to the caudate/putamen shown as greyed out to represent it's loss in Parkinson's disease. The result is much greater inhibition of the VA/VL complex.">
+            <image mime-type="png" src="../../media/Image-10.12_Parkinsonian-state-of-basal-ganglia.png"/>
+          </media>
+        </figure>
+        <para id="para-00026">One major treatment for Parkinson’s patients is <term id="term-00026">Levodopa
+          (L-DOPA)</term>. It is a precursor molecule of dopamine derived from the amino acid
+          tyrosine and is used by the enzymes within dopaminergic neurons to produce dopamine (see <link target-id="Image-10.17"/> and <link document="m00027">Basic Neurochemistry</link>).</para>
+        <figure id="Image-10.17">
+          <title>L-DOPA and Parkinson’s disease treatment</title>
+          <media alt="Diagram of an axonal terminal next to a blood vessel. Precursors are shown being transported out of the blood into the neuron to be converted in to L-DOPA, then in to dopamine.">
+            <image mime-type="png" src="../../media/Image-10.17_L-DOPA-and-Parkinson_s-disease-treatment.png"/>
+          </media>
+          <caption>Reminder: L-DOPA is a precursor in dopamine synthesis.<newline/>L-DOPA is also
+            BBB permeable, so L-DOPA in the blood can get into the dopaminergic neuron terminals and
+            boost dopamine synthesis.</caption>
+        </figure>
+        <para id="para-00027">When this drug is administered, there is typically an initial surge of
+          dopamine, yielding improved movement. However, sometimes there’s a tendency to overdo.
+          This is seen as impulsivity or a tendency to take more risks behaviorally, but that tapers
+          off as the acute effects diminish (Voon et al., 2017). The greater propensity for movement
+          is typically referred to as an “up, on, or acute” state by comparison to the “down, off,
+          or long-term state” when the L-DOPA wears off (Albin &amp; Leventhal, 2017).</para>
+        <para id="para-00028">The inconsistency of L-DOPA effects over time is one reason
+          alternative treatments, like stem cell transplantation, are sought for Parkinson’s, which
+          may provide more consistent dopamine presence (Sandstrom et al., 2018). Dopaminergic
+          replacement cell populations derived from stem cells are typically placed into patients’
+          putamen, because this structure typically receives the highest dopaminergic input, and is
+          most closely associated with movement control (Freed et al., 2011). Also, growth of new
+          axons is considerably challenged across long distances in the adult brain, though
+          strategies for guiding axon growth from the more appropriate substantia nigra pars
+          compacta are being developed (e.g., Zang et al., 2013). Other treatments including a
+          thalamotomy are more radical. In thalamotomy, distinct input regions of the thalamus are
+          targeted for destruction, eliminating the supportive control provided by the compromised
+          basal ganglia. While actors like Michael J. Fox opted for this treatment due to its
+          general preservation of facial expression control, it is not an ultimate cure as the
+          movements produced are often jerky and challenged. Restoring more natural or appropriate
+          basal ganglia activity would be preferable to eliminating its influence, but this remains
+          a challenge to achieve.</para>
+        <para id="para-00029">Deep brain stimulation is another potential treatment for Parkinson’s
+          disease. In this treatment, electrodes are placed strategically into either the
+          subthalamic nucleus, the internal globus pallidus (GPi) or select regions within the VA/VL
+          thalamus that override the internal signaling strategy provided by the basal ganglia. Deep
+          brain stimulation is particularly helpful in treating the resting tremors that are common
+          in those with Parkinson’s disease. The resting tremors in Parkinson’s disease arise due to
+          complex dysregulation of input to the GPi/VA/VL. Proper placement and high frequency
+          stimulation of electrodes in these areas, supported by power coming from a battery that is
+          typically placed under the skin around the shoulder, can significantly reduce these
+          tremors (<link target-id="Image-10.22"/>).</para>
+        <figure id="Image-10.22">
+          <title>Deep brain stimulation and Parkinson’s disease</title>
+          <media alt="Left: Diagram of a human head/torso, with a brain surface view plus a deep brain stimulation device implanted. Right: Coronal brain sections showing DBS leads targeting the VA/VL of thalamus or the globus pallidus, internal segment.">
+            <image mime-type="png" src="../../media/Image-10.22_Deep-brain-stimulation-and-Parkinson_s-disease.png"/>
+          </media>
+        </figure>
+        <para id="para-00030">Huntington’s disease (HD) arises from a dominant genetic mutation on
+          the <emphasis effect="italics">huntingtin</emphasis> gene within the autosomal portion of
+          chromosome four. Though the genetic mutation is present from conception, the symptoms
+          develop over a lifetime (Walker, 2007). Being autosomal dominant means that a person only
+          requires one copy of the huntingtin gene to develop HD and a parent with HD has a 50%
+          chance of passing on their mutated gene to their offspring. In HD, cognitive difficulties
+          often arise first in the chain of symptoms since the basal ganglia are involved in
+          strategic thinking and developing capacity to adapt thinking to new circumstances, given
+          its interaction with prefrontal and premotor cortices (Novak &amp; Tabrizi, 2011).
+          Typically, movement problems arising in later adulthood, usually around 50-60 years of
+          age, elicit more profound diagnostic concerns.</para>
+        <para id="para-00031">HD-related movement problems include a sort of undulation of limb and
+          facial movements as if these cannot be suppressed. Limb movements appear dance-like and
+          are referred to as <term id="term-00027">chorea,</term> though they are far from
+          purposefully choreographed or intended (Thompson et al., 1988). At later stages, body
+          movements stiffen, challenging the coordination of swallowing-related pharynx and
+          esophageal muscles (<term id="term-00028">dysphagia</term>). This leads to problems of
+          aspiration and choking (Heemskerk &amp; Roos, 2011).</para>
+        <para id="para-00032">HD symptoms occur because of the progressive death of striatal neuron
+          cells. The loss of striatal neurons destroys basal ganglia function. The neurons that
+          perish early and more prominently represent those striatal neurons within the indirect
+          pathway, the pathway that primarily suppresses unwanted movement. Progressive
+          deterioration of indirect basal ganglia pathway leaves the VA/VL of the thalamus
+          increasingly disinhibited and yields increased and uncontrolled muscle engagement until
+          the antagonists become overstimulated, stiffening limbs by simultaneous activation (Joel,
+          2001; Nair et al., 2021). This overstimulation is evidenced as increasingly intense chorea
+          and slowed movement (<term id="term-00029">bradykinesia</term>). Harkening back to drawing
+          Snoopy, consider either unsuppressed wild movements of muscles, or muscles getting locked
+          into tug-of-war battles rather than smoothly guiding the pen. Snoopy's snout would either
+          look too short, or overly long.</para>
+        <para id="para-00033">There are no directly targeted cures for Huntington's disease right
+          now. The absence of a cure has made diagnosis and genetic testing for Huntington's disease
+          ethically and emotionally complicated. Without clear treatments available, a child with a
+          parent showing symptoms of Huntington's has a dilemma. They have a 50% chance of carrying
+          the mutated gene. If they are tested and have the Huntington's mutation, there is little
+          they can do, so many patients may decide they don't even want to know. Hopefully that
+          dilemma will be resolved in the future, as there are several treatments being actively
+          worked out. Given the disease derives from a distinct mutation in the huntingtin gene,
+          involving an inappropriate expansion of the genetic code, there have been some ideas about
+          either suppressing mutated genes or targeting the mutation with gene therapy for
+          heterozygotes. Transplantation of stem cells into Huntington's patients has also been
+          attempted with varied success (Rosser &amp; Bachoud-Levi, 2012). Currently, however,
+          standard of care is pharmacological treatments, such as tetrabenazine, to reduce symptoms.
+          Tetrabenazine is a vesicular dopamine transporter blocker that prevents the filling of
+          dopaminergic synaptic vesicles (Bonelli, &amp; Wenning, 2006). These drugs suppress chorea
+          because they tend to dampen the movement initiation of the basal ganglia-based motor
+          driving mechanisms. Dopamine net diminishes the activity in the indirect pathway, thereby
+          promoting direct pathway initiation of planned movements. However, these drugs also tend
+          to spread and have high cognitive side effect potential such as depression or other
+          tensions (Paleacu, 2007). Much work is needed to improve treatment of Huntington's
+          disease.</para>
+      </section>
+    </section>
+    <section id="sect-00012">
+      <title>The cerebellum</title>
+      <para id="para-00034">The <term id="term-00030">cerebellum</term> sits behind and below the
+        cerebrum, atop the brainstem. Its folia look like two lateral bunches of curled-up
+        spaghetti. Its main function is to smooth-out our behavioral efforts. It does this by either
+        pre-processing movement intentions building in the premotor cortical areas, or via
+        upper-level imagined anticipation. For example, if you contemplated a large rock in front of
+        you in the middle of a creek, and whether you <emphasis effect="italics">might</emphasis> be
+        able to land on it to cross the creek. Alternatively, to improve attempted actions, we
+        process the differences between <emphasis effect="italics">intended</emphasis> and <emphasis effect="italics">actual movements</emphasis>, and adjusting signal durations/intensities
+        until proprioception from afferent <term id="term-00031">spinocerebellar tracts</term> says
+        we "nailed it" (Stecina, et al., 2013; Therrien &amp; Bastian, 2019). You might compliment
+        someone with "you have an efficient cerebellum" as a <emphasis effect="italics">neuroscientist
+        exclusive </emphasis>way of implying they move with sophistication.</para>
+      <para id="para-00051">How the basal ganglia and cerebellum divide their supportive roles in
+        movement has intrigued neuroscientists for years. The functions of the two different regions
+        are difficult to disentangle (Proville, et al., 2014). To simplify, coordinating necessary
+        muscle <emphasis effect="italics">selection</emphasis> seems to be the specialization of the
+        basal ganglia, while coordinating contraction <emphasis effect="italics">timing and degree</emphasis>
+        requires the cerebellum. Analogous smooth and elegant line production while drawing Snoopy
+        requires sophisticated starting and stopping, and smooth transitions of pen direction, to
+        avoid jerky images (see Fujisawa &amp; Okayama, 2015). Another way to think about it is that
+        the basal ganglia "chunk" flexors here and extensors there, while the cerebellum smooths out
+        their actions. Such responsibilities are emphasized more strongly in either structure,
+        though in any one effort we <emphasis effect="italics">will </emphasis>utilize both
+        structures.</para>
+      <para id="para-00052">The cerebellum provides its smoothing functions (while you are drawing
+        Snoopy or doing any number of other tasks) through extensive error correction. A motor error
+        occurs when the way we actually move does not match where we intended to move. Detecting
+        errors therefore requires at least 2 streams of information: one about action and the other
+        about intention. Intention comes to the cerebellum from the brain via projections from the
+        pontine nuclei in the brainstem, or from spinal cord regions where descending UMN tracts
+        depict what we <emphasis effect="italics">intend</emphasis> to do (either consciously or
+        implicitly) to <emphasis effect="italics">anticipate</emphasis> goals which also ascend the
+        spine into the cerebellum. The cerebellar input about movement derives from proprioception
+        feedback (largely muscle stretch), which depicts <emphasis effect="italics">moves that
+        happened,</emphasis> ascending from the spinal cord via <term id="term-00032">spinocerebellar
+        tracts</term> (or trigeminal that monitors head/face movement). Progressively, the
+        cerebellum compares these two components and adjusts the prompting UMN signals until we nail
+        it (<emphasis effect="italics">intended</emphasis> = <emphasis effect="italics">actual</emphasis>
+        ).</para>
+      <para id="para-00053">The role of the cerebellum in providing smooth integration of motor
+        effort timing and intensity can be appreciated when it is impaired, as happens in <term id="term-00033">cerebellar ataxia</term> or when someone consumes alcohol (Sokolov et al.,
+        2017; Spencer et al., 2005; Bareš et al., 2009). Cerebellar damage (cerebellar ataxia)
+        causes <term id="term-00034">dysmetria</term>, where one exhibits a "drunken gait" because
+        foot placement can't be error-corrected or smoothed, and <term id="term-00036">intention
+        tremor</term> where movements overshoot stopping points and oscillate around target
+        destinations (Schwartze et al., 2016). It is important not to conflate alcohol effects with
+        cerebellar damage. Drunkenness derives from the way alcohol enhances the effects of GABA
+        across wide regions of both motor control and decision-making circuits. Cerebellar damage
+        specifically eliminates the controlled-targeted landing of limbs to the right place.
+        Cerebellar ataxia is analogous to rendering smooth limousine driving into two choices: full
+        throttle or slamming on breaks. Yet visually, walking while drunk and walking with
+        cerebellar ataxia appear outwardly similar. The cerebellum constantly contributes to posture
+        alignment behind the scenes (subconsciously) so removing these contributions causes loose
+        and wavy lack of balance. People can experience ataxic gait for multiple reasons. Any ataxic
+        walking (caused by cerebellar damage or any other source) looks like feet land where they do
+        by accident, rather than on purpose. Cerebellar ataxic gait occurs because the cerebellum
+        can't correct the extent of movements properly, emphasizing approximations (see <link url="https://openstax.org/r/Neuro10Ataxia">this video on Ataxia</link>).</para>
+      <section id="sect-00013">
+        <title>Corrective actions incorporated with ongoing movement, not after we perceive movement</title>
+        <para id="para-00054">Just like the basal ganglia, the cerebellum supports movement control
+          by tweaking the thalamic VA/VL complex, though synapsing through distinct circuits. The
+          cerebellum is inspired into action in relation to initial learning, and later provides
+          anticipatory adjustment signals that integrate into ongoing movement but are sent prior to
+          or in conjunction with the UMN signals that descend to initiate LMN actions. Most
+          cerebellum contributions are made subconsciously and become integrated into movements we <emphasis effect="italics">subsequently</emphasis> produce (the lack of sufficient adjustment is
+          shown when errors occur, such as ataxia). Success in generating desired smooth movements,
+          ending without jerky shakes, requires error corrections to be incorporated before movement
+          begins. If we had to wait for proprioceptive feedback before correcting, there would
+          always be a “jerk-back” effect due to delays inherent in sensory systems. This can result
+          from conscious movement monitoring. Conscious proprioception (cortical) is slower than
+          ongoing movements, so modifications come post-movement, making it jerky and uncoordinated.
+          Damaged cerebellum patients are limited to this, so when their conscious stream is
+          distracted, they produce more movement errors because their cortex cannot multitask well
+          (Brunamonti, et al., 2014). Thus, a well-primed (skill consolidated) healthy cerebellum
+          recognizes the need, then delivers its adjustments along with <emphasis effect="italics">
+          subsequent</emphasis> UMN-driven movement efforts rather than correcting errors after the
+          fact. It learns while we do behind the scenes to determine how much boosting or tapering
+          is necessary, and subsequently contributes these adjustments to future movements. Imagine
+          these contributions behind the scenes of established Olympic floor moves, or the
+          slight-of-hand demonstrated by a seasoned magician (Dahms et al., 2020).</para>
+      </section>
+      <section id="sect-00014">
+        <title>Practicing and imagining success</title>
+        <para id="para-00055">It’s important for new behavior to start off slowly, allowing
+          sufficient time for proprioceptive sensory feedback to reach the CNS and become conscious
+          perception. We do this all the time when we are learning how to move in specific ways. For
+          example, choreographed fight moves à la Jackie Chan are typically rehearsed slowly before
+          filming so actors can anticipate blows and pull back to “act” hit. By going slowly, we
+          have time to consciously perceive motor errors and use our cerebellar processes to correct
+          them. Through this slow practice, the cerebellum helps us learn how to execute movements
+          faster and faster, with less conscious perception of proprioception needed to keep our
+          bodies on track. Notably, even imagined movements can play a role in this learning—a
+          mental rehearsal without physical engagement (Decety &amp; Ingvar, 1990, Jackson et al.,
+          2003). Actors, dancers, skaters, and sports professionals do this <emphasis effect="italics">all the time</emphasis>. The performance improvements from imagined
+          practice are real, not illusory, as they entrain the cerebellar circuitry support of
+          cerebral movement control via the same circuitry that adapts to actual movement.</para>
+      </section>
+    </section>
+    <section id="sect-00015">
+      <title>Primary motor cortex</title>
+      <para id="para-00056">The <term id="term-00037">primary motor cortex (M1)</term> region
+        receives our “upper-level” synaptic progression last. This progression collects and
+        coordinates movement intentions before sending those UMN compilations down to the brainstem
+        and spinal cord for movement generation by the LMNs. M1 is also the first cortical area with
+        full lateralization of limb and face movement control: M1 neurons on the right side of the
+        brain all target LMNs for the left limbs and facial area, while M1 neurons on the left side
+        of the brain all target LMNs for the right limbs and facial areas. This lateralization
+        contrasts with the premotor regions we discussed so far, which engage bilateral control. M1
+        lateralization is restricted to limbs and facial lateral areas, not the trunk, which is
+        generally ipsilaterally controlled.</para>
+      <section id="sect-00016">
+        <title>Primary Precentral Gyrus Organization</title>
+        <para id="para-00057">The posterior frontal cortex has a major crease, the <term id="term-00038">central sulcus</term>, dividing the precentral (green in <link target-id="Image-10.01"/>) and postcentral gyri.</para>
+        <figure id="Image-10.01">
+          <title>Primary motor cortex</title>
+          <media alt="Left top: Lateral surface view of human brain with primary motor cortex highlighted. Left bottom: Sagittal surface view of human brain with primary motor coretx highlighted. Right: Coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex.">
+            <image mime-type="png" src="../../media/Image-10.01_Primary-motor-cortex.png"/>
+          </media>
+        </figure>
+        <para id="para-00058">This strip, from between the hemispheres out laterally, ending just
+          above the lateral fissure (defining the top of the temporal lobe), contains the primary
+          drivers of voluntarily organized/coordinated movement known collectively as the primary
+          motor cortex. The neurons of the primary motor cortex are arranged in a <term id="term-00039">homunculus</term>. This arrangement is essentially a map of a little
+          person lying across the precentral gyrus, so toe control is buried between the
+          hemispheres. This map was famously created by neurosurgeon Wilder Penfield, who assessed
+          movements when brain regions were stimulated during surgeries correcting epilepsy and made
+          direct recordings during movements (Penfield and Rasmussen, 1950). The idea of a
+          homunculus depicts the “person” as a distorted image made up of enlarged areas where more
+          neuronal space engages with specific moveable body parts. The complexity or subtlety of
+          movement of any body part tends to engage larger numbers of neurons as this attribute goes
+          up, so the eventual map of a person has a large tongue, huge lips, prominent face around
+          the forehead, huge hands and feet, with a smaller torso, limbs, and joints, according to
+          the degree of movement sophistication possible. The motor homunculus is to movement
+          sophistication as the somatosensory homunculus is to somatosensory density (see <link document="m00006">Touch and Pain</link>).</para>
+      </section>
+      <section id="sect-00017">
+        <title>Descending motor projections</title>
+        <para id="para-00059">The primary motor cortex neurons send their axons out to the brainstem
+          and spinal cord via three tracts (see <link target-id="Image-10.07"/>).</para>
+        <figure id="Image-10.07">
+          <title>Corticospinal motor pathways for the body</title>
+          <media alt="Upper left inset: Coronal view of major divisions of primary motor cortex, showing drawings of represented body parts lying along the surface of the cortex. Major neuronal pathways are shown projecting down to the spinal cord. Rest of diagram: Neural pathway diagram, showing brain original of corticospinal tracts, projecting down through the spinal cord, then synapsing on motor neuron in the ventral spinal cord grey. From there, lower motor neurons project out of the ventral spinal cord roots, towards the periphery.">
+            <image mime-type="png" src="../../media/Image-10.07_Corticospinal-motor-pathways-for-the-body.png"/>
+          </media>
+        </figure>
+        <list type="enumerated" id="list-00004">
+          <item>The <term id="term-00040">corticobulbar</term> (or <term id="term-00041">
+            corticonuclear</term>) tract, carries descending efferents from the cortex, synapsing on
+            brainstem nuclei serving regions of the jaw, face, ear mechanisms, for gagging or
+            swallowing, or crinkling our noses. Corticobulbar tracts largely provide bilateral
+            support, where each side directly serves ipsilaterally, and crosses over at the level of
+            various nuclei to the contralateral side. The exception to this rule would be the
+            descending tracts subserving the facial nucleus, specifically the lower part of the
+            face, which is exclusively contralateral (Patestas &amp; Gartner, 2016). We're
+            overlooking autonomic patterning aspects of this projection to focus on controlled
+            movement.</item>
+          <item>The <term id="term-00042">lateral corticospinal</term> tract is the major descending
+            tract for body limbs. It crosses almost entirely to the other side of the body to
+            control the <term id="term-00043">contralateral</term> (opposite side from originating
+            hemisphere) limbs, mostly the arm/hand/fingers and leg/foot/toes.</item>
+          <item>The <term id="term-00044">anterior corticospinal</term> tract is a smaller but
+            important tract responsible for controlling trunk muscles and more medial aspects. While
+            some of this tract <term id="term-00045">decussates</term> (crosses over) at the level
+            of the spinal cord in the ventral white matter as shown in <link target-id="Image-10.07"/>,
+            a majority subserves the ipsilateral side.</item>
+        </list>
+        <para id="para-00060">The upper part of our body (head) is largely controlled via cranial
+          nerves derived from the brainstem and therefore the corticobulbar tract. The two
+          corticospinal tracts descend to different levels of the spinal cord. Within the spinal
+          cord, these tracts interact with LMNs and the circuitry making up the reflex architecture
+          (also used to engage the knee-jerk, or withdrawal reflexes, utilizing local spinal
+          circuitry described above) to control the lower parts of our bodies such as limbs and
+          trunk.</para>
+        <para id="para-00061">Why do some descending UMNs control need to cross over to operate the
+          opposite side of the body? One simple explanation may be that visual information passing
+          through lenses of your eyes is flipped (see <link document="">Vision</link>). Events
+          occurring to our left pass to the right sides of our retinae. The right sides of each
+          retina connect with the right hemisphere, while the left connects with the left. However,
+          the information they process is relevant to the opposite sides of our bodies. This
+          probably created pressure for natural selection to derive a map of limb control so each
+          hemisphere could control the opposite side.</para>
+      </section>
+      <note class="boxed-feature" id="note-00001">
+        <title>People behind the science: Vector Trajectories</title>
+  <para id="para-00062">Apostolos
+        Georgopoulos MD, Ph.D. currently heads a Brain Center at The University of Minnesota where
+        he is Regents Professor of Neuroscience. His work brought important insights to the way
+        motor cortex activates limb movement. To appreciate his findings, it’s important to
+        understand the concept of a <term id="term-00046">vector</term>, a force directing movement
+        encompassing both <emphasis effect="italics">speed and direction</emphasis>.</para>
+  <para id="para-00063">When we kick a ball softly, its path forms a vector with little <emphasis effect="italics">speed</emphasis>. Kicking the ball harder in the same <emphasis effect="italics">direction</emphasis> maintains this vector with greater <emphasis effect="italics">speed</emphasis>. A different <emphasis effect="italics">direction</emphasis>
+        would elicit a different vector. Similarly with moving our arms. The generation of force
+        accumulation to drive movement intensity at the LMN level was discussed above in <link document="m00018">The physiological actions implementing movement – Contraction of
+        muscles</link>.</para>
+  <para id="para-00064">The key to Georgopoulos' findings is, across the
+        population of M1 neurons, each neuron's activity seems to be associated with a vector of
+        limb movement. Or, as each M1 motoneuron fires action potentials, their frequencies
+        intensify in relation to the limb movement's direction and trajectory range (Georgopoulos et
+        al., 1983).</para>
+  <para id="para-00065">To determine this, Dr. Georgopoulos and his team
+        recorded from hundreds of individual M1 neurons within the brains of monkeys while the
+        monkeys moved a specialized apparatus (Georgopoulos et al., 1992). It was set up like a
+        large lever-shift which picked up movement direction, and could be adjusted to provide
+        back-pressure along certain trajectories.</para>
+  <para id="para-00066">Think of this as a
+        large old-school Atari-like joystick, shifting rather than simply angling in different
+        directions. When the animal pushed the lever in one direction, a distinct neuron population
+        appearing to "prefer" that direction elicited strong bursts of activity, while other
+        populations "preferring" other directions diminished responses. If the vector of an M1
+        neuron's preference required extra force, that MI neuron increased its firing rate
+        (Georgopoulos et al., 1982). The key to the developing hypothesis was at each motion of the
+        arm, larger populations of neurons contributed their "vote" for arm vectors into the
+        descending feed. At each moment key populations "won" the vote to over-ride alternative
+        movement preferences. Brain democracy!</para>
+  <para id="para-00067">At first, these
+        experiments were performed with only two-dimensional movement directions across a flat
+        surface (1983). Eventually, more exciting results were obtained from monkey arm movement
+        tracked three-dimensionally. Based on the same premise, a more complex division of
+        "preferences" yielded similar results (Georgopoulos et al., 1988). It is fascinating to
+        consider the wider implications of this. Guiding one's arm or hand towards a target follows
+        calculations of vector trajectories in regions like the posterior parietal cortex and the
+        cerebellum, to be sent forward toward the premotor cortex.</para>
+  <para id="para-00068">It's
+        now clearer how this guidance appears to help reinforce individual neurons contributing
+        "votes" or preference activations in concert with needed directions through increasingly
+        selective intensities of stimulation of select M1 cortical neurons (e.g., Georgopoulos et
+        al., 1992; Taira et al., 1990). Since these preference activations persist across a
+        population, this also seems to provide greater stability in the capacity to elicit distinct
+        movements, diminishing the probability of select damage eliminating specific movement
+        trajectory capacities. This would be incredibly helpful in restoring post-stroke movement,
+        for example. To draw Snoopy, many hand muscles need to be selected individually or
+        simultaneously and this neuronal "voting" is also supported by basal ganglia contributions
+        along the way when we draw him again, and again (necessary for moving pictures).</para>
+      </note>
+      <section id="sect-00018">
+        <title>Moving Beyond Vector Trajectories into Controlling Robot Arms</title>
+        <para id="para-00069">In the previous section, we discussed how the pioneering work of
+          Georgopoulos pointed towards this key cortical element of “voting populations.” More
+          recently, new and fascinating cutting-edge things have been happening to build off his
+          work. By studying consensus of neuronal activities and how they link to vector
+          trajectories, researchers have begun to be able to predict where limbs might go based on
+          neuronal activity! Once you can predict what neuronal activity does, it becomes possible
+          to tap in to those neurons to recreate movements. This basic idea is what underpins many
+          modern efforts to link robot prosthetics to the human brain.</para>
+        <para id="para-00070">Many forms of brain or spinal cord damage can render a person unable
+          to move any limbs despite owning an active and intact brain (quadriplegic).
+          Neuroscientists such as Andrew Schwartz and others have been working to turn that
+          remaining ability to direct movements in the brain into real movements of robotic
+          prosthetic devices. This work is all based in the original concepts derived from
+          Georgopoulos and has now yielded robotic arms that can respond to recordings from a
+          patient’s brain and engage complex arm and hand type movements to select, grasp, and move
+          objects! The details of how two human subjects with quadriplegia were implanted with
+          specialized electrodes over the arm-related region of their M1 homunculi and subsequently
+          gained considerable control over an attached robot arm are originally described in Lancet
+          (Collinger et al., 2013). Since this initial proof-of-principle, improvements have been
+          made. For example, a patient in 2015 received a version of this system that was not just
+          unidirectional—taking motor commands and linking them to the prosthetic. This newer
+          version also incorporated input from sensory information. Remember back to our example of
+          a monkey swinging through the trees. To swing, grasp and release well, the monkey
+          integrated several sources of touch information. Grasping without feeling the grasp would
+          make branch swinging a far greater challenge for the monkey. The same applies to patients
+          with prosthetic limbs. Adding touch feedback greatly improved the ability of the patient
+          to use their limb. These devices, adjusted for circumstances, are moving outside of a
+          theoretical possibility into a distinct therapeutic option reality! If movement practice
+          feedback could also be incorporated, it is conceivable that practiced learning could get
+          such patients back to cooking in the kitchen! </para>
+      </section>
+      <note class="boxed-feature" id="note-00002">
+        <title>A Special inspiration from your author</title>
+  <para id="para-00071">It has been a
+        pleasure sharing a neuroscientist’s view of movement with you all. All the complexity
+        ensures our capacity to <emphasis effect="italics">do what we want to do</emphasis>.
+        Considerable control has evolved at both lower implementation levels and higher formulation
+        levels. Collaborations between brain, spine, and muscles above help us repeatedly <emphasis effect="italics">do what we want</emphasis> without having to re-invent every motion
+        from scratch. Background processing and delegation promotes the feeling of quick shifts from
+        thinking to doing. Now you should have a better sense of the complexity. On several
+        occasions, this chapter has used expressions like 'apparently,' 'it seems like,' or 'seems
+        to.' Such expressions demonstrate there's a lot neuroscientists still need to learn about
+        body movement mechanisms. The author hopes that future neuroscientists or readers with
+        related intentions may see clarifying this as a challenge. Also, this author wishes to thank
+        the editor Dr. Elizabeth Kirby, his father (Dr. Harald M. Sandstrom), his brother (Jonathan
+        R. Sandstrom), and his colleague Dr. Gary L. Dunbar for their extraordinary editorial
+        support that substantially improved this chapter’s clarity and focus.</para>
+      </note>
+    </section>
+    <section class="section-summary" id="sect-00001">
       <title>Summary</title>
-      <para id="para-00002">Upper system control, via upper motoneuron sources, combines the efforts of the prefrontal cortices, the basal ganglia, the cerebellum, the premotor cortices, and the primary motor cortices. Initial maneuvers based on our needs are formulated within the prefrontal cortices. Inappropriate or inconsiderate behaviors may stem from damage within prefrontal cortex in general, or more specifics may be distorted as plans get further formulated in premotor cortices. After a big picture “what do we want” is formulated, movements to accomplish this grow in increasingly specific ways, like deciding which limbs, directions, and sequences of movement will accomplish our objectives. We build repertoires within the basal ganglia. The premotor cortices dip into the underlying striatum to engage circuits compiling and connecting movement repertoires in conjunction with the correct groups of muscles (ensembles) for the task.</para>
-      <para id="para-00003">As the details of movement plans are “fleshed out,” the basal ganglia loop feeds modulatory control back into the premotor cortices, and the cerebellum becomes involved by increasingly anticipating/appreciating how the intensity of movements needs to be tailored for smoothness. The cerebellum orders and manages this effort, paying attention to limb location and possible adjustment. The compiled patterning, including smoothing from the cerebellum, is fed forward into the primary motor cortex, encouraging proper sets of UMNs to activate and promote preferred movements with the proper emphasis (likely continuously reinforced by the cerebellum).</para>
-      <para id="para-00004">M1 primary motor cortex neurons descend into the brainstem and spinal cord to elicit movements of either the head/viscera or the body/limbs. Thus, the planned movements are fed forward toward areas closer to their physical enactment. If these signals are blocked, weakness and spasticity result because this releases lower motoneurons from control of activation and reflex circuitry through which many descending upper motoneuron signals actuate control.</para>
-  </section>
-  <section class="key-terms" id="sect-00002">
+      <para id="para-00002">Upper system control, via upper motoneuron sources, combines the efforts
+        of the prefrontal cortices, the basal ganglia, the cerebellum, the premotor cortices, and
+        the primary motor cortices. Initial maneuvers based on our needs are formulated within the
+        prefrontal cortices. Inappropriate or inconsiderate behaviors may stem from damage within
+        prefrontal cortex in general, or more specifics may be distorted as plans get further
+        formulated in premotor cortices. After a big picture “what do we want” is formulated,
+        movements to accomplish this grow in increasingly specific ways, like deciding which limbs,
+        directions, and sequences of movement will accomplish our objectives. We build repertoires
+        within the basal ganglia. The premotor cortices dip into the underlying striatum to engage
+        circuits compiling and connecting movement repertoires in conjunction with the correct
+        groups of muscles (ensembles) for the task.</para>
+      <para id="para-00003">As the details of movement plans are “fleshed out,” the basal ganglia
+        loop feeds modulatory control back into the premotor cortices, and the cerebellum becomes
+        involved by increasingly anticipating/appreciating how the intensity of movements needs to
+        be tailored for smoothness. The cerebellum orders and manages this effort, paying attention
+        to limb location and possible adjustment. The compiled patterning, including smoothing from
+        the cerebellum, is fed forward into the primary motor cortex, encouraging proper sets of
+        UMNs to activate and promote preferred movements with the proper emphasis (likely
+        continuously reinforced by the cerebellum).</para>
+      <para id="para-00004">M1 primary motor cortex neurons descend into the brainstem and spinal
+        cord to elicit movements of either the head/viscera or the body/limbs. Thus, the planned
+        movements are fed forward toward areas closer to their physical enactment. If these signals
+        are blocked, weakness and spasticity result because this releases lower motoneurons from
+        control of activation and reflex circuitry through which many descending upper motoneuron
+        signals actuate control.</para>
+    </section>
+    <section class="key-terms" id="sect-00002">
       <title>Key Terms</title>
       <list display="inline" id="list-00001">
         <item>acquisition</item>
@@ -202,136 +708,275 @@
         <item>Tourette's syndrome</item>
         <item>ventral anterior/ventrolateral (VA/VL) complex</item>
       </list>
-</section>
-<section class="references" id="sect-00003">
+    </section>
+    <section class="references" id="sect-00003">
       <title>References</title>
-      <para id="para-00005">Albin RL, and Leventhal DK (2017) The missing, the short, and the long: L-Dopa responses and dopamine actions. <emphasis effect="italics">Annals of Neurology, 82</emphasis>(1), 4-19. https://dx.doi.org/10.1002%2Fana.24961</para>
-      <para id="para-00035">Albin RL, and Mink JW (2006) Recent advances in Tourette syndrome research. <emphasis effect="italics">Trends in Neurosciences 29</emphasis>(3): 175-182. https://doi.org/10.1016/j.tins.2006.01.001</para>
-      <para id="para-00036">Bareš M, Lungu OV, Husárová I, and Gescheidt T (2009) Predictive motor timing performance dissociates between early diseases of the cerebellum and Parkinson's disease. <emphasis effect="italics">The Cerebellum 9</emphasis>: 124-135. https://doi.org/10.1007/s12311-009-0133-5</para>
-      <para id="para-00037">Bonelli RM, &amp; Wenning GK (2006) Pharmacological Management of Huntington's disease: An evidence-based review. <emphasis effect="italics">Current Pharmaceutical Design, 12</emphasis> (21), 2701-2720. https://doi.org/10.2174/138161206777698693</para>
-      <para id="para-00038">Brunamonti E, Chiricozzi FR, Clausi S, Olivito G, Giusti MA, Molinari M, Farraina S, and Leggio M, (2014) Cerebellar damage impairs executive control and monitoring of movement generation. <emphasis effect="italics">PLoS One, 9</emphasis>(1), e85997. https://doi.org/10.1371%2Fjournal.pone.0085997</para>
-      <para id="para-00039">Collinger JL, Wodlinger B, Downey JE, Wang W, Tyler EC, Weber DJ, McMorland AJC., Velliste M, Boninger ML, and Schwartz AB (2013) High-performance neuroprosthetic control by an individual with tetraplegia. <emphasis effect="italics">The Lancet</emphasis>, 9866, 557-564. https://doi.org/10.1016/S0140-6736(12)61816-9</para>
-      <para id="para-00040">Chirchiglia D, Chirchiglia P, Marotta R, Pugliese D, Guzzi G, and Serena L (2019) The dorsolateral prefrontal cortex, the apathetic syndrome, and free will. <emphasis effect="italics">Activitas Nervosa Superior</emphasis>, 61, 136-141. https://doi.org/10.1007/s41470-019-00057-w</para>
-      <para id="para-00041">Dahms C, Brodoehl S, Whitte OW, and Klingner CM (2020) The importance of different learning stages for motor sequence learning after stroke. <emphasis effect="italics">Human Brain Mapping, 41</emphasis>(1), 270-286. https://doi.org/10.1002/hbm.24793</para>
-      <para id="para-00042">Decety J, &amp; Ingvar DH (1990) Brain structures participating in mental simulation of motor behavior: A neuropsychological interpretation. <emphasis effect="italics">ACTA Psychologica 73</emphasis>(1): 13-34. https://doi.org/10.1016/0001-6918(90)90056-L</para>
-      <para id="para-00043">Downey JE, Weiss JM, Muelling K, Menkatraman A, Valois J-S, Hebert M, Bagnell JA, Schwartz AB, &amp; Collinger JL (2016). Blending of brain-machine interface and vision-guided autonomous robotics improves neuroprosthetic arm performance during grasping. <emphasis effect="italics">Journal of NeuroEngineering and Rehabilitation</emphasis>. 13, 28. https://doi.org/10.1186/s12984-016-0134-9</para>
-      <para id="para-00044">Ekman FK, Ojala DS, Adil MM, Lopez PA, Schaffer DV, and Gaj T (2019) CRISPR-Cas9-mediated genome editing increases lifespan and improves motor deficits in a Huntington's disease mouse model. <emphasis effect="italics">Molecular Therapy Nucleic Acids, 17</emphasis>, 829-839. https://doi.org/10.1016/j.omtn.2019.07.009</para>
-      <para id="para-00045">Fahn S (2008) The history of dopamine and levodopa in the treatment of Parkinson's disease. <emphasis effect="italics">Movement Disorders 23</emphasis>(53Supp): S497-S508. https://doi.org/10.1002/mds.22028</para>
-      <para id="para-00046">Freed, CR, Zhou, W, and Breeze, RE, (2011) Dopamine cell transplantation for Parkinson's disease: The importance of controlled clinical trials. <emphasis effect="italics">Neurotherapeutics, 8</emphasis>, 549-561. https://doi.org/10.1007/s13311-011-0082-9</para>
-      <para id="para-00047">Fujisawa Y, and Okayama Y (2015) Characteristics of handwriting in people with cerebellar ataxia: Three-dimensional movement analysis of the pen tip, finger, and wrist. <emphasis effect="italics">Physical Therapy, 95</emphasis>(11), 1547-1558. https://doi.org/10.2522/ptj.20140118</para>
-      <para id="para-00048">Georgopoulos AP, Caminiti R, Kalaska JF, Massey JT (1983) Spatial coding of movement: A hypothesis concerning the coding of movement direction by motor cortical populations. <emphasis effect="italics">Experimental Brain Research 49</emphasis>(Suppl. 7): 327-336. https://doi.org/10.1007/978-3-642-68915-4_34</para>
-      <para id="para-00049">Georgopoulos AP, Kalaska JF, Caminiti R, Massey JT (1982) On the relations between the direction of two-dimensional arm movements and cell discharge in the primate motor cortex. <emphasis effect="italics">Journal of Neuroscience 2</emphasis>(11) 1527-1537. https://doi.org/10.1523/JNEUROSCI.02-11-01527.1982</para>
-      <para id="para-00050">Georgopoulos AP, Kettner RE, Schwartz AB (1988) Primate motor cortex and free arm movements to visual targets in three-dimensional space. II. Coding of the direction of movement by a neuronal population. <emphasis effect="italics">Journal of Neuroscience 8</emphasis>(8): 2928-2937. https://doi.org/10.1523/JNEUROSCI.08-08-02928.1988</para>
-      <para id="para-00082">Georgopoulos AP, Ashe J, Smyrnis N, Taira M (1992) The motor cortex and the coding of force. <emphasis effect="italics">Science 254</emphasis>(5064): 1692-1695. https://doi.org/10.1126/science.256.5064.1692</para>
-      <para id="para-00083">Geyer S, Matelli M, Luppino G, and Zilles K (2000) Functional neuroanatomy of the primate isocortical motor system. <emphasis effect="italics">Anatomy and Embryology 202</emphasis>(6): 443-474. https://doi.org/10.1007/s004290000127</para>
-      <para id="para-00084">Graybiel AM (1995) The basal ganglia. <emphasis effect="italics">Trends in Neurosciences 18</emphasis>(2): 60-62. https://doi.org/10.1016/0166-2236(95)80019-x</para>
-      <para id="para-00085">Graybiel AM (1998) The basal ganglia and chunking of action repertoires. <emphasis effect="italics">Neurobiology of Learning and Memory 70</emphasis>(1-2): 119-136). https://doi.org/10.1006/nlme.1998.3843</para>
-      <para id="para-00086">Graybiel AM, and Mink JW (2009) The basal ganglia and cognition. In Gazzaniga MS, Bizzi E, Chalupa LM, Grafton ST, Heatherton TF, Koch C, LeDoux JE, Luck SJ, Mangan GR, Movshon JA, Neville H, Phelps EA, Rakic P, Schacter DL, Sur M, Wandell BA (Eds.) <emphasis effect="italics">The Cognitive Neurosciences</emphasis> (pp.565-585) Boston: MIT Press</para>
-      <para id="para-00087">Groenewegen HJ (2003) The basal ganglia and motor control. <emphasis effect="italics">Neural Plasticity 10</emphasis>(Art.108384): 107-120. https://doi.org/10.1155/NP.2003.107</para>
-      <para id="para-00088">Heemskerk A-W, &amp; Roos RAC (2011) Dysphagia in Huntington's disease: a review. <emphasis effect="italics">Dysphagia 26</emphasis>: 62-66. https://doi.org/10.1007/s00455-010-9302-4</para>
-      <para id="para-00089">Jackson PL, Lafleur MF, Malouin F, Richards CL, and Doyon J (2003) Functional cerebral reorganization following motor sequence learning through mental practice with motor imagery. <emphasis effect="italics">NeuroImage 20</emphasis>((2): 1171-1180. https://doi.org/10.1016/S1053-8119(03)00369-0</para>
-      <para id="para-00090">Joel D (2001) Open interconnected model of basal ganglia-thalamocortical circuitry and its relevance to the clinical syndrome of Huntington's disease. <emphasis effect="italics">Movement Disorders 16</emphasis>(3): 407-423. https://doi.org/10.1002/mds.1096</para>
-      <para id="para-00091">Kennedy SD, and Schwartz AB, (2019) Distributed processing of movement signaling. <emphasis effect="italics">Proceedings of the National Acadamy of Sciences USA, 116</emphasis>(52), 26266-26273. https://www.pnas.org/cgi/doi/10.1073/pnas.1902296116</para>
-      <para id="para-00092">Malloy P, Bihrle A, Duffy J, and Cimino C (1993) The orbitomedial frontal syndrome. <emphasis effect="italics">Archives in Clinical Neuropsychology, 8</emphasis>(3), 185-201. https://doi.org/10.1093/arclin/8.3.185</para>
-      <para id="para-00093">Milner B and Petrides M (1984) Behavioral effects of frontal-lobe lesions in man. <emphasis effect="italics">Trends in Neurosciences, 7</emphasis>(11), 403-407.</para>
-      <para id="para-00094">Mink JW (2018) Basal ganglia mechanisms in action selection, plasticity, and dystonia. <emphasis effect="italics">European Journal of Paediatric Neurology 22</emphasis>(2): 225-229. https://doi.org/10.1016/j.ejpn.2018.01.005</para>
-      <para id="para-00095">Moisello C, Perfetti, B, Marinelli L, Sanguineti V, Bove M, Feigin A, Di Rocco, A, Eidelberg D, and Ghilardi MF (2011) Basal ganglia and kinematics modulations: Insights from Parkinson's and Huntington's diseases. <emphasis effect="italics">Parkinsonism &amp; Related Disorders 17</emphasis>(8): 642-644. https://doi.org/10.1016/j.parkreldis.2011.06.021</para>
-      <para id="para-00096">Nair A, Razi A, Gregory S, Rutledge RR, Rees G, and Tabrizi SJ (2021) Imbalanced basal ganglia connectivity is associated with motor deficits and apathy in Huntington's disease. <emphasis effect="italics">Brain awab367</emphasis> (In Press). https://doi.org/10.1093/brain/awab367</para>
-      <para id="para-00097">Novak MJU, and Tabrizi SJ (2011) Huntington's disease: Clinical presentation and treatment. <emphasis effect="italics">International Review of Neurobiology, 98</emphasis>, 297-323. https://doi.org/10.1016/B978-0-12-381328-2.00013-4</para>
-      <para id="para-00098">Paleacu, D (2007) Tetrabenazine in the treatment of Huntington's disease.<emphasis effect="italics"> Neuropsychiatric Disease and Treatment, 3</emphasis>(5), 545-551. PMID: 19381278; PMCID: PMC2656291</para>
-      <para id="para-00099">Patestas MA, Gartner LP (2016) <emphasis effect="italics">A Textbook of Neuroanatomy, Second Edition</emphasis>. New Jersey: John Wiley and Sons</para>
-      <para id="para-00100">Penfield W, Rasmussen, T (1950) <emphasis effect="italics">The Cerebral Cortex of Man; A Clinical Study of Localization of Function</emphasis>. New York: The Macmillan Company. </para>
-      <para id="para-00101">Peterburs J, Desmond JE (2016) The role of the human cerebellum in performance monitoring. <emphasis effect="italics">Current Opinion in Neurobiology 40</emphasis>: 38-44. https://doi.org/10.1016/j.conb.2016.06.011</para>
-      <para id="para-00102">Proville RD, Spolidoro M, Guyon N, Dugué GP, Selimi F, Isope P, Popa D, and Léna C (2014) Cerebellum involvement in cortical sensorimotor circuits for the control of voluntary movements. <emphasis effect="italics">Nature Neuroscience 17</emphasis>(9): 1233-1239. https://doi.org/10.1038/nn.3773</para>
-      <para id="para-00103">Rosser AE, &amp; Bachoud-Levi A-C, (2012) Chapter 17 - Clinical trials of neural transplantation in Huntington's disease. In S. Dunnett &amp; A. Bjorklund (eds) Functional Neural Transplantation III: Primary and Stem Cell Therapies for Brain Repair, Part 1, <emphasis effect="italics">Progress in Brain Research, 200</emphasis>, 345-371. https://doi.org/10.1016/B978-0-444-59575-1.00016-8</para>
-      <para id="para-00104">Sacks O (1987) The Disembodied Lady. Chapter 3 in: <emphasis effect="italics">The Man Who Mistook His Wife For a Hat and Other Clinical Tales</emphasis>. New York: Harper and Row Publishers.</para>
-      <para id="para-00105">Sandstrom MI, Anderson KA, Jayaprakash N, Bhupal PK, and Dunbar GL (2018) Plastic Adaptation: A Neuronal Imperative Capable of Confounding the Goals of Stem Cell Replacement Therapy for either Huntington's or Parkinson's Disease. Chapter 2 (pp. 7-46), In Victor V. Chaban (Ed), <emphasis effect="italics">Neuroplasticity: Insights of Neural Reorganization</emphasis>. IntechOpen, London, UK. ISBN: 978-1-78923-194-6. Chapter doi: 10.5772/intechopen.71790.</para>
-      <para id="para-00106">Schwartze M, Keller, PE, and Kotz SA (2016) Spontaneous, synchronized, and corrective timing behavior in cerebellar lesion patients. <emphasis effect="italics">Behavioral Brain Research 312</emphasis>: 285-293. https://doi.org/10.1016/j.bbr.2016.06.040</para>
-      <para id="para-00107">Smith KS, &amp; Graybiel AM (2016) Habit formation. <emphasis effect="italics">Dialogues in Clinical Neuroscience 18</emphasis>(1): 33-43. https://dx.doi.org/10.31887%2FDCNS.2016.18.1%2Fksmith</para>
-      <para id="para-00108">Sokolov A, Miall RC, and Ivry RB (2017) The cerebellum: Adaptive prediction for movement and cognition. <emphasis effect="italics">Trends in Cognitive Sciences 21</emphasis>(5): 313-332. https://doi.org/10.1016/j.tics.2017.02.005</para>
-      <para id="para-00109">Spencer RMC, Ivry RB, and Zelaznik HN (2005) Role of the cerebellum in movements: control of timing or movement transitions? <emphasis effect="italics">Experimental Brain Research 161</emphasis>: 383-396. https://doi.org/10.1007/s00221-004-2088-6</para>
-      <para id="para-00110">Stecina K, Fedirchuk B, Hultborn H (2013) Information to cerebellum on spinal motor networks mediated by the dorsal spinocerebellar tract (symposium). <emphasis effect="italics">Journal of Physiology 591</emphasis>(22): 5433-5443. https://doi.org/10.1113/jphysiol.2012.249110</para>
-      <para id="para-00111">Strick PL, Dum RP, and Mushiake H (1995) Basal ganglia 'loops' with the cerebral cortex. In: Kimura M, Graybiel AM (eds) <emphasis effect="italics">Functions of the Cortico-Basal Ganglia Loop</emphasis>. Tokyo: Springer. https://doi.org/10.1007/978-4-431-68547-0_7</para>
-      <para id="para-00112">Surmeier DJ, Carrillo-Reid L, and Bargas J (2011) Dopaminergic modulation of striatal neurons, circuits, and assemblies. <emphasis effect="italics">Neuroscience 198</emphasis>: 3-18. https://doi.org/10.1016/j.neuroscience.2011.08.051</para>
-      <para id="para-00113">Sveinbjornsdottir, S (2016) The clinical symptoms of Parkinson's disease. <emphasis effect="italics">Journal of Neurochemistry 139</emphasis>(S1): 318-324. https://doi.org/10.1111/jnc.13691</para>
-      <para id="para-00114">Taira M, Mine S, Georgopoulos AP, Murata A, Sakata H (1990) Parietal cortex neurons of the monkey related to the visual guidance of hand movement. <emphasis effect="italics">Experimental Brain Research 83</emphasis>: 29-36. https://doi.org/10.1007/BF00232190</para>
-      <para id="para-00115">Therrien AS, and Bastian AJ (2019) The cerebellum as a movement sensor. <emphasis effect="italics">Neuroscience Letters 688</emphasis>: 37-40. https://doi.org/10.1016/j.neulet.2018.06.055</para>
-      <para id="para-00116">Thompson PD, Barardelli A, Rothwell JC, Day BL, Dick JPR, Benecke R, and Marsden CD (1988) The coexistence of bradykinesia and chorea in Huntington's disease and its implications for theories of basal ganglia control of movement. <emphasis effect="italics">Brain 111</emphasis>(2): 223-244. https://doi.org/10.1093/brain/111.2.223</para>
-      <para id="para-00117">Thompson AK, Pomerantz FR, Wolpaw JR (2013) Operant conditioning of a spinal reflexes can improve locomotion after spinal cord injury in humans. <emphasis effect="italics">Journal of Neuroscience 33</emphasis>(6): 2365-2375. https://doi.org/10.1523/JNEUROSCI.3968-12.2013</para>
-      <para id="para-00118">Vachey G and Déglon N (2018) CRISPR/Cas9-Mediated Genome Editing for Huntington’s Disease. In: Precious S., Rosser A., Dunnett S. (eds) Huntington’s Disease. <emphasis effect="italics">Methods in Molecular Biology, vol 1780</emphasis>. Humana Press, New York, NY. https://doi.org/10.1007/978-1-4939-7825-0_21</para>
-      <para id="para-00119">Voon V, Napier C, Frank MJ, Sgambato-Faure V, Grace AA, Ridrigues-Oroz M, Obeso J, Bezard E, and Fernagut P-O (2017) Impulse control disorders and levodopa-induced dyskinesias in Parkinson's disease: an update. <emphasis effect="italics">The Lancet Neurology 16</emphasis>(3): 238-250. https://doi.org/10.1016/S1474-4422(17)30004-2</para>
-      <para id="para-00120">Walker FO (2007) Huntington's disease (seminar). <emphasis effect="italics">The Lancet 369</emphasis>(9557): 218-228. https://doi.org/10.1016/S0140-6736(07)60111-1</para>
-      <para id="para-00121">Wall NR, De La Parra M, Callaway EM, and Kreitzer AC (2013) Differential innervation of direct- and indirect-pathway striatal projection neurons. <emphasis effect="italics">Neuron 79</emphasis>(2): 347-360. https://doi.org/10.1016/j.neuron.2013.05.014</para>
-      <para id="para-00122">Yin HH, and Knowlton BJ (2006) The role of the basal ganglia in habit formation. <emphasis effect="italics">Nature Reviews Neuroscience 7</emphasis>, 464-476. https://doi.org/10.1038/nrn1919</para>
-      <para id="para-00123">Zang C, Jin Y, Ziemba KS, Fletcher AM, Ghosh B, Truit E, Yurek DM, and Smith GM (2013) Long distance directional growth of dopaminergic axons along pathways of netrin-1 and GDNF. <emphasis effect="italics">Experimental Neurology, 250</emphasis>, 156-164, https://doi.org/10.1016/j.expneurol.2013.09.022</para>
-      <para id="para-00124">Zham P, Kumar DK, Dabnichki P, Arjunan, SP, and Raghav S (2017) Distinguishing different stages of Parkinson's disease using composite index of speed and pen-pressure of sketching a spiral. <emphasis effect="italics">Frontiers in Neurology, 8</emphasis>, 435. https://doi.org/10.3389/fneur.2017.00435</para>
-      </section>
-      <section class="multiple-choice" id="sect-00004">
+      <para id="para-00005">Albin, R. L., &amp; Leventhal, D. K. (2017). The missing, the short, and the long:
+        Levodopa responses and dopamine actions. <emphasis effect="italics">Annals of Neurology</emphasis>
+        , <emphasis effect="italics">82</emphasis>(1), 4–19. https://doi.org/10.1002/ana.24961</para>
+      <para id="para-00035">Albin, R. L., &amp; Mink, J. W. (2006). Recent advances in Tourette syndrome research. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">29</emphasis>(3),
+        175–182. https://doi.org/10.1016/j.tins.2006.01.001</para>
+      <para id="para-00036">Bares, M., Lungu, O. V., Husárová, I., &amp; Gescheidt, T. (2010). Predictive motor
+        timing performance dissociates between early diseases of the cerebellum and Parkinson's
+        disease. <emphasis effect="italics">Cerebellum (London, England)</emphasis>, <emphasis effect="italics">9</emphasis>(1), 124–135. https://doi.org/10.1007/s12311-009-0133-5</para>
+      <para id="para-00037">Bonelli, R. M., &amp; Wenning, G. K. (2006). Pharmacological management of Huntington's
+        disease: An evidence-based review. <emphasis effect="italics">Current Pharmaceutical Design</emphasis>
+        , <emphasis effect="italics">12</emphasis>(21), 2701–2720.
+        https://doi.org/10.2174/138161206777698693</para>
+      <para id="para-00038">Brunamonti, E., Chiricozzi, F. R., Clausi, S., Olivito, G., Giusti, M. A., Molinari, M.,
+        Ferraina, S., &amp; Leggio, M. (2014). Cerebellar damage impairs executive control and
+        monitoring of movement generation. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">9</emphasis>(1), e85997. https://doi.org/10.1371/journal.pone.0085997</para>
+      <para id="para-00039">Collinger, J. L., Wodlinger, B., Downey, J. E., Wang, W., Tyler-Kabara, E. C., Weber, D.
+        J., McMorland, A. J., Velliste, M., Boninger, M. L., &amp; Schwartz, A. B. (2013).
+        High-performance neuroprosthetic control by an individual with tetraplegia. <emphasis effect="italics">Lancet (London, England)</emphasis>, <emphasis effect="italics">381</emphasis>(9866),
+        557–564. https://doi.org/10.1016/S0140-6736(12)61816-9</para>
+      <para id="para-00040">Chirchiglia, D., Chirchiglia, P., Marotta, R., Pugliese, D., Guzzi, G., &amp; Serena, L.
+        (2019). The dorsolateral prefrontal cortex, the apathetic syndrome, and free will. <emphasis effect="italics">Activitas Nervosa Superior</emphasis>, <emphasis effect="italics">61</emphasis>,
+        136–141. https://doi.org/10.1007/s41470-019-00057-w</para>
+      <para id="para-00041">Dahms, C., Brodoehl, S., Witte, O. W., &amp; Klingner, C. M. (2020). The importance of
+        different learning stages for motor sequence learning after stroke. <emphasis effect="italics">Human Brain Mapping</emphasis>, <emphasis effect="italics">41</emphasis>(1),
+        270–286. https://doi.org/10.1002/hbm.24793</para>
+      <para id="para-00042">Decety, J., &amp; Ingvar, D. H. (1990). Brain structures participating in mental
+        simulation of motor behavior: A neuropsychological interpretation. <emphasis effect="italics">Acta Psychologica</emphasis>, <emphasis effect="italics">73</emphasis>(1),
+        13–34. https://doi.org/10.1016/0001-6918(90)90056-l</para>
+      <para id="para-00043">Downey, J. E., Weiss, J. M., Muelling, K., Venkatraman, A., Valois, J. S., Hebert, M.,
+        Bagnell, J. A., Schwartz, A. B., &amp; Collinger, J. L. (2016). Blending of brain-machine
+        interface and vision-guided autonomous robotics improves neuroprosthetic arm performance
+        during grasping. <emphasis effect="italics">Journal of Neuroengineering and Rehabilitation</emphasis>
+        , <emphasis effect="italics">13</emphasis>, 28. https://doi.org/10.1186/s12984-016-0134-9</para>
+      <para id="para-00044">Ekman, F. K., Ojala, D. S., Adil, M. M., Lopez, P. A., Schaffer, D. V., &amp; Gaj, T.
+        (2019). CRISPR-Cas9-mediated genome editing increases lifespan and improves motor deficits
+        in a Huntington's disease mouse model. <emphasis effect="italics">Molecular Therapy. Nucleic
+        Acids</emphasis>, <emphasis effect="italics">17</emphasis>, 829–839.
+        https://doi.org/10.1016/j.omtn.2019.07.009</para>
+      <para id="para-00045">Fahn, S. (2008). The history of dopamine and levodopa in the treatment of Parkinson's
+        disease. <emphasis effect="italics">Movement Disorders: Official Journal of the Movement
+        Disorder Society</emphasis>, <emphasis effect="italics">23</emphasis>(Suppl 3), S497–S508.
+        https://doi.org/10.1002/mds.22028</para>
+      <para id="para-00046">Freed, C. R., Zhou, W., &amp; Breeze, R. E. (2011). Dopamine cell transplantation for
+        Parkinson's disease: The importance of controlled clinical trials. <emphasis effect="italics">Neurotherapeutics: The Journal of the American Society for Experimental
+        NeuroTherapeutics</emphasis>, <emphasis effect="italics">8</emphasis>(4), 549–561.
+        https://doi.org/10.1007/s13311-011-0082-9</para>
+      <para id="para-00047">Fujisawa, Y., &amp; Okajima, Y. (2015). Characteristics of handwriting of people with
+        cerebellar ataxia: Three-dimensional movement analysis of the pen tip, finger, and wrist. <emphasis effect="italics">Physical Therapy</emphasis>, <emphasis effect="italics">95</emphasis>(11),
+        1547–1558. https://doi.org/10.2522/ptj.20140118</para>
+      <para id="para-00048">Georgopoulos, A. P., Caminiti, R., Kalaska, J. F., &amp; Massey, J. T. (1983). Spatial
+        coding of movement: A hypothesis concerning the coding of movement direction by motor
+        cortical populations. <emphasis effect="italics">Experimental Brain Research</emphasis>, <emphasis effect="italics">49</emphasis>(Suppl. 7), 327–336.
+        https://doi.org/10.1007/978-3-642-68915-4_34</para>
+      <para id="para-00049">Georgopoulos, A. P., Kalaska, J. F., Caminiti, R., &amp; Massey, J. T. (1982). On the
+        relations between the direction of two-dimensional arm movements and cell discharge in
+        primate motor cortex. <emphasis effect="italics">The Journal of Neuroscience: The Official
+        Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">2</emphasis>(11),
+        1527–1537. https://doi.org/10.1523/JNEUROSCI.02-11-01527.1982</para>
+      <para id="para-00050">Georgopoulos, A. P., Kettner, R. E., &amp; Schwartz, A. B. (1988). Primate motor cortex
+        and free arm movements to visual targets in three-dimensional space. II. Coding of the
+        direction of movement by a neuronal population. <emphasis effect="italics">The Journal of
+        Neuroscience: The Official Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">8</emphasis>(8), 2928–2937.
+        https://doi.org/10.1523/JNEUROSCI.08-08-02928.1988</para>
+      <para id="para-00082">Georgopoulos, A. P., Ashe, J., Smyrnis, N., &amp; Taira, M. (1992). The motor cortex and
+        the coding of force. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">256</emphasis>(5064), 1692–1695.
+        https://doi.org/10.1126/science.256.5064.1692</para>
+      <para id="para-00083">Geyer, S., Matelli, M., Luppino, G., &amp; Zilles, K. (2000). Functional neuroanatomy of
+        the primate isocortical motor system. <emphasis effect="italics">Anatomy and Embryology</emphasis>
+        , <emphasis effect="italics">202</emphasis>(6), 443–474.
+        https://doi.org/10.1007/s004290000127</para>
+      <para id="para-00084">Graybiel, A. M. (1995). The basal ganglia. <emphasis effect="italics">Trends in
+        Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>(2), 60–62.</para>
+      <para id="para-00085">Graybiel, A. M. (1998). The basal ganglia and chunking of action repertoires. <emphasis effect="italics">Neurobiology of Learning and Memory</emphasis>, <emphasis effect="italics">70</emphasis>(1-2), 119–136. https://doi.org/10.1006/nlme.1998.3843</para>
+      <para id="para-00086">Graybiel, A. M., &amp; Mink, J. W. (2009). The basal ganglia and cognition. In
+        Gazzaniga, M. S., Bizzi, E., Chalupa, L. M., Grafton, S. T., Heatherton, T. F., Koch, C.,
+        LeDoux, J. E., Luck, S. J., Mangan, G. R., Movshon, J. A., Neville, H., Phelps, E. A.,
+        Rakic, P., Schacter, D. L., Sur, M., Wandell, B. A. (Eds.), The cognitive neurosciences (pp.
+        565-585). Boston: MIT Press.</para>
+      <para id="para-00087">Groenewegen, H. J. (2003). The basal ganglia and motor control. <emphasis effect="italics">Neural Plasticity</emphasis>, <emphasis effect="italics">10</emphasis>(1-2),
+        107–120. https://doi.org/10.1155/NP.2003.107</para>
+      <para id="para-00088">Heemskerk, A. W., &amp; Roos, R. A. (2011). Dysphagia in Huntington's disease: A review. <emphasis effect="italics">Dysphagia</emphasis>, <emphasis effect="italics">26</emphasis>(1), 62–66.
+        https://doi.org/10.1007/s00455-010-9302-4</para>
+      <para id="para-00089">Jackson, P. L., Lafleur, M. F., Malouin, F., Richards, C. L., &amp; Doyon, J. (2003).
+        Functional cerebral reorganization following motor sequence learning through mental practice
+        with motor imagery. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">20</emphasis>(2), 1171–1180.
+        https://doi.org/10.1016/S1053-8119(03)00369-0</para>
+      <para id="para-00090">Joel, D. (2001). Open interconnected model of basal ganglia-thalamocortical circuitry
+        and its relevance to the clinical syndrome of Huntington's disease. <emphasis effect="italics">Movement Disorders: Official Journal of the Movement Disorder Society</emphasis>
+        , <emphasis effect="italics">16</emphasis>(3), 407–423. https://doi.org/10.1002/mds.1096</para>
+      <para id="para-00091">Kennedy, S. D., &amp; Schwartz, A. B. (2019). Distributed processing of movement
+        signaling. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the
+        United States of America</emphasis>, <emphasis effect="italics">116</emphasis>(52),
+        26266–26273. https://doi.org/10.1073/pnas.1902296116</para>
+      <para id="para-00092">Malloy, P., Bihrle, A., Duffy, J., &amp; Cimino, C. (1993). The orbitomedial frontal
+        syndrome. <emphasis effect="italics">Archives of Clinical Neuropsychology: The Official
+        Journal of the National Academy of Neuropsychologists</emphasis>, <emphasis effect="italics">
+        8</emphasis>(3), 185–201.</para>
+      <para id="para-00093">Milner, B., &amp; Petrides, M. (1984). Behavioral effects of frontal-lobe lesions in
+        man. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">7</emphasis>(11), 403–407.</para>
+      <para id="para-00094">Mink, J. W. (2018). Basal ganglia mechanisms in action selection, plasticity, and
+        dystonia. <emphasis effect="italics">European Journal of Paediatric Neurology: EJPN:
+        Official Journal of the European Paediatric Neurology Society</emphasis>, <emphasis effect="italics">22</emphasis>(2), 225–229. https://doi.org/10.1016/j.ejpn.2018.01.005</para>
+      <para id="para-00095">Moisello, C., Perfetti, B., Marinelli, L., Sanguineti, V., Bove, M., Feigin, A., Di
+        Rocco, A., Eidelberg, D., &amp; Ghilardi, M. F. (2011). Basal ganglia and kinematics
+        modulation: Insights from Parkinson's and Huntington's diseases. <emphasis effect="italics">Parkinsonism
+        &amp; Related Disorders</emphasis>, <emphasis effect="italics">17</emphasis>(8), 642–644.
+        https://doi.org/10.1016/j.parkreldis.2011.06.021</para>
+      <para id="para-00096">Nair, A., Razi, A., Gregory, S., Rutledge, R. B., Rees, G., &amp; Tabrizi, S. J. (2022).
+        Imbalanced basal ganglia connectivity is associated with motor deficits and apathy in
+        Huntington's disease. <emphasis effect="italics">Brain: A Journal of Neurology</emphasis>, <emphasis effect="italics">145</emphasis>(3), 991–1000. https://doi.org/10.1093/brain/awab367</para>
+      <para id="para-00097">Novak, M. J., &amp; Tabrizi, S. J. (2011). Huntington's disease: Clinical presentation
+        and treatment. <emphasis effect="italics">International Review of Neurobiology</emphasis>, <emphasis effect="italics">98</emphasis>, 297–323.
+        https://doi.org/10.1016/B978-0-12-381328-2.00013-4</para>
+      <para id="para-00098">Paleacu, D. (2007). Tetrabenazine in the treatment of Huntington's disease. <emphasis effect="italics">Neuropsychiatric Disease and Treatment</emphasis>, <emphasis effect="italics">3</emphasis>(5), 545–551.</para>
+      <para id="para-00099">Penfield, W., &amp; Rasmussen, T. (1950). The cerebral cortex of man; A clinical study
+        of localization of function. New York: The Macmillan Company.</para>
+      <para id="para-00100">Peterburs, J., &amp; Desmond, J. E. (2016). The role of the human cerebellum in
+        performance monitoring. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>
+        , <emphasis effect="italics">40</emphasis>, 38–44.
+        https://doi.org/10.1016/j.conb.2016.06.011</para>
+      <para id="para-00101">Proville, R. D., Spolidoro, M., Guyon, N., Dugué, G. P., Selimi, F., Isope, P., Popa,
+        D., &amp; Léna, C. (2014). Cerebellum involvement in cortical sensorimotor circuits for the
+        control of voluntary movements. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">17</emphasis>(9), 1233–1239. https://doi.org/10.1038/nn.3773</para>
+      <para id="para-00102">Rosser, A. E., &amp; Bachoud-Lévi, A. C. (2012). Clinical trials of neural
+        transplantation in Huntington's disease. <emphasis effect="italics">Progress in Brain
+        Research</emphasis>, <emphasis effect="italics">200</emphasis>, 345–371.
+        https://doi.org/10.1016/B978-0-444-59575-1.00016-8</para>
+      <para id="para-00103">Sacks, O. (1987). The disembodied lady. Chapter 3 in: The man who mistook his wife for a
+        hat and other clinical tales. New York: Harper and Row Publishers.</para>
+      <para id="para-00104">Sandstrom, M. I., Anderson, K. A., Jayaprakash, N., Bhupal, P. K., &amp; Dunbar, G. L.
+        (2018). Plastic adaptation: A neuronal imperative capable of confounding the goals of stem
+        cell replacement therapy for either Huntington's or Parkinson's disease. Chapter 2 (pp.
+        7-46), In Victor V. Chaban (Ed.), Neuroplasticity: Insights of neural reorganization.
+        IntechOpen, London, UK. ISBN: 978-1-78923-194-6. Chapter doi: 10.5772/intechopen.71790.</para>
+      <para id="para-00105">Schwartze, M., Keller, P. E., &amp; Kotz, S. A. (2016). Spontaneous, synchronized, and
+        corrective timing behavior in cerebellar lesion patients. <emphasis effect="italics">Behavioural
+        Brain Research</emphasis>, <emphasis effect="italics">312</emphasis>, 285–293.
+        https://doi.org/10.1016/j.bbr.2016.06.040</para>
+      <para id="para-00106">Smith, K. S., &amp; Graybiel, A. M. (2016). Habit formation. <emphasis effect="italics">Dialogues
+        in Clinical Neuroscience</emphasis>, <emphasis effect="italics">18</emphasis>(1), 33–43.
+        https://doi.org/10.31887/DCNS.2016.18.1/ksmith</para>
+      <para id="para-00107">Sokolov, A. A., Miall, R. C., &amp; Ivry, R. B. (2017). The cerebellum: Adaptive
+        prediction for movement and cognition. <emphasis effect="italics">Trends in Cognitive
+        Sciences</emphasis>, <emphasis effect="italics">21</emphasis>(5), 313–332.
+        https://doi.org/10.1016/j.tics.2017.02.005</para>
+      <para id="para-00108">Spencer, R. M., Ivry, R. B., &amp; Zelaznik, H. N. (2005). Role of the cerebellum in
+        movements: Control of timing or movement transitions?. <emphasis effect="italics">Experimental
+        Brain Research</emphasis>, <emphasis effect="italics">161</emphasis>(3), 383–396.
+        https://doi.org/10.1007/s00221-004-2088-6</para>
+      <para id="para-00109">Stecina, K., Fedirchuk, B., &amp; Hultborn, H. (2013). Information to cerebellum on
+        spinal motor networks mediated by the dorsal spinocerebellar tract. <emphasis effect="italics">The Journal of Physiology</emphasis>, <emphasis effect="italics">591</emphasis>(22),
+        5433–5443. https://doi.org/10.1113/jphysiol.2012.249110</para>
+      <para id="para-00110">Strick, P. L., Dum, R. P., &amp; Mushiake, H. (1995). Basal ganglia 'loops' with the
+        cerebral cortex. In: Kimura, M., Graybiel, A. M. (Eds.), Functions of the cortico-basal
+        ganglia loop. Tokyo: Springer. https://doi.org/10.1007/978-4-431-68547-0_7</para>
+      <para id="para-00111">Surmeier, D. J., Carrillo-Reid, L., &amp; Bargas, J. (2011). Dopaminergic modulation of
+        striatal neurons, circuits, and assemblies. <emphasis effect="italics">Neuroscience</emphasis>
+        , <emphasis effect="italics">198</emphasis>, 3–18.
+        https://doi.org/10.1016/j.neuroscience.2011.08.051</para>
+      <para id="para-00112">Sveinbjornsdottir, S. (2016). The clinical symptoms of Parkinson's disease. <emphasis effect="italics">Journal of Neurochemistry</emphasis>, <emphasis effect="italics">139</emphasis>(Suppl
+        1), 318–324. https://doi.org/10.1111/jnc.13691</para>
+      <para id="para-00113">Taira, M., Mine, S., Georgopoulos, A. P., Murata, A., &amp; Sakata, H. (1990). Parietal
+        cortex neurons of the monkey related to the visual guidance of hand movement. <emphasis effect="italics">Experimental Brain Research</emphasis>, <emphasis effect="italics">83</emphasis>(1),
+        29–36. https://doi.org/10.1007/BF00232190</para>
+      <para id="para-00114">Therrien, A. S., &amp; Bastian, A. J. (2019). The cerebellum as a movement sensor. <emphasis effect="italics">Neuroscience Letters</emphasis>, <emphasis effect="italics">688</emphasis>,
+        37–40. https://doi.org/10.1016/j.neulet.2018.06.055</para>
+      <para id="para-00115">Thompson, P. D., Berardelli, A., Rothwell, J. C., Day, B. L., Dick, J. P., Benecke, R.,
+        &amp; Marsden, C. D. (1988). The coexistence of bradykinesia and chorea in Huntington's
+        disease and its implications for theories of basal ganglia control of movement. <emphasis effect="italics">Brain: A Journal of Neurology</emphasis>, <emphasis effect="italics">111</emphasis>(Pt
+        2), 223–244. https://doi.org/10.1093/brain/111.2.223</para>
+      <para id="para-00116">Thompson, A. K., Pomerantz, F. R., &amp; Wolpaw, J. R. (2013). Operant conditioning of a
+        spinal reflex can improve locomotion after spinal cord injury in humans. <emphasis effect="italics">The Journal of Neuroscience: The Official Journal of the Society for
+        Neuroscience</emphasis>, <emphasis effect="italics">33</emphasis>(6), 2365–2375.
+        https://doi.org/10.1523/JNEUROSCI.3968-12.2013</para>
+      <para id="para-00117">Vachey, G., &amp; Déglon, N. (2018). CRISPR/Cas9-mediated genome editing for
+        Huntington's disease. In: Precious, S., Rosser, A., Dunnett, S. (Eds.), Huntington’s
+        disease. Methods in Molecular Biology, vol 1780. Humana Press, New York, NY.
+        https://doi.org/10.1007/978-1-4939-7825-0_21</para>
+      <para id="para-00118">Voon, V., Napier, T. C., Frank, M. J., Sgambato-Faure, V., Grace, A. A., Rodriguez-Oroz,
+        M., Obeso, J., Bezard, E., &amp; Fernagut, P. O. (2017). Impulse control disorders and
+        levodopa-induced dyskinesias in Parkinson's disease: An update. <emphasis effect="italics">The
+        Lancet. Neurology</emphasis>, <emphasis effect="italics">16</emphasis>(3), 238–250.
+        https://doi.org/10.1016/S1474-4422(17)30004-2</para>
+      <para id="para-00119">Walker, F. O. (2007). Huntington's disease. <emphasis effect="italics">Lancet (London,
+        England)</emphasis>, <emphasis effect="italics">369</emphasis>(9557), 218–228.
+        https://doi.org/10.1016/S0140-6736(07)60111-1</para>
+      <para id="para-00120">Wall, N. R., De La Parra, M., Callaway, E. M., &amp; Kreitzer, A. C. (2013).
+        Differential innervation of direct- and indirect-pathway striatal projection neurons. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">79</emphasis>(2), 347–360.
+        https://doi.org/10.1016/j.neuron.2013.05.014</para>
+      <para id="para-00121">Yin, H. H., &amp; Knowlton, B. J. (2006). The role of the basal ganglia in habit
+        formation. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>(6), 464–476. https://doi.org/10.1038/nrn1919</para>
+      <para id="para-00122">Zhang, C., Jin, Y., Ziemba, K. S., Fletcher, A. M., Ghosh, B., Truit, E., Yurek, D. M.,
+        &amp; Smith, G. M. (2013). Long distance directional growth of dopaminergic axons along
+        pathways of netrin-1 and GDNF. <emphasis effect="italics">Experimental Neurology</emphasis>, <emphasis effect="italics">250</emphasis>, 156–164. https://doi.org/10.1016/j.expneurol.2013.09.022</para>
+      <para id="para-00123">Zham, P., Kumar, D. K., Dabnichki, P., Poosapadi Arjunan, S., &amp; Raghav, S. (2017).
+        Distinguishing different stages of Parkinson's disease using composite index of speed and
+        pen-pressure of sketching a spiral. <emphasis effect="italics">Frontiers in Neurology</emphasis>
+        , <emphasis effect="italics">8</emphasis>, 435. https://doi.org/10.3389/fneur.2017.00435</para>
+
+    </section>
+    <section class="multiple-choice" id="sect-00004">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-        <para id="para-00006"><link class="os-embed" url="#exercise/Neuro-10-03-001"/></para>
+          <para id="para-00006"><link class="os-embed" url="#exercise/Neuro-10-03-001"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-        <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-10-03-002"/></para>
+          <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-10-03-002"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-        <para id="para-00072"><link class="os-embed" url="#exercise/Neuro-10-03-003"/></para>
+          <para id="para-00072"><link class="os-embed" url="#exercise/Neuro-10-03-003"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-        <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-10-03-004"/></para>
+          <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-10-03-004"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-        <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-10-03-005"/></para>
+          <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-10-03-005"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00006">
         <problem id="prob-00006">
-        <para id="para-00075"><link class="os-embed" url="#exercise/Neuro-10-03-006"/></para>
+          <para id="para-00075"><link class="os-embed" url="#exercise/Neuro-10-03-006"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00007">
         <problem id="prob-00007">
-        <para id="para-00076"><link class="os-embed" url="#exercise/Neuro-10-03-007"/></para>
+          <para id="para-00076"><link class="os-embed" url="#exercise/Neuro-10-03-007"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00008">
         <problem id="prob-00008">
-        <para id="para-00077"><link class="os-embed" url="#exercise/Neuro-10-03-008"/></para>
+          <para id="para-00077"><link class="os-embed" url="#exercise/Neuro-10-03-008"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00009">
         <problem id="prob-00009">
-        <para id="para-00078"><link class="os-embed" url="#exercise/Neuro-10-03-009"/></para>
+          <para id="para-00078"><link class="os-embed" url="#exercise/Neuro-10-03-009"/></para>
         </problem>
       </exercise>
-      </section>
-      <section class="fillin-blank" id="sect-00005">
+    </section>
+    <section class="fillin-blank" id="sect-00005">
       <title>Fill in the Blank</title>
       <exercise id="exer-00010">
         <problem id="prob-00010">
-        <para id="para-00079"><link class="os-embed" url="#exercise/Neuro-10-03-010"/></para>
+          <para id="para-00079"><link class="os-embed" url="#exercise/Neuro-10-03-010"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00011">
         <problem id="prob-00011">
-        <para id="para-00080"><link class="os-embed" url="#exercise/Neuro-10-03-011"/></para>
+          <para id="para-00080"><link class="os-embed" url="#exercise/Neuro-10-03-011"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00012">
         <problem id="prob-00012">
-        <para id="para-00081"><link class="os-embed" url="#exercise/Neuro-10-03-012"/></para>
+          <para id="para-00081"><link class="os-embed" url="#exercise/Neuro-10-03-012"/></para>
         </problem>
       </exercise>
-      </section>
-      
+    </section>
+
   </content>
 </document>
