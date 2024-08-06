@@ -135,7 +135,7 @@
           are referred to as <term id="term-00008">taste receptor cells (TRCs)</term>.</para>
         <para id="para-00011">Anatomists studying the cells of taste buds have grouped them into
           three types based on characteristics observed by transmission electron micrography
-          (Farbman, 1965) (see <link document="" target-id="">Methods: Transmission electron
+          (Farbman, 1965) (see <link document="m00106" target-id="">Methods: Transmission electron
           microscopy</link>). These classifications based on micro-anatomy turn out to be
           functional, as different classes of chemicals activate Type I, Type II and Type III taste
           receptor cells. Type II and Type III cells will make occasional cytoplasmic contact with
@@ -240,11 +240,11 @@
           cation channel primarily responsible for depolarizing type II cells. Knockout mice for
           gustducin or TRPM5 show major deficits in the ability to discriminate between umami, sweet
           and bitter foods suggesting that these proteins are essential for proper gustatory system
-          functioning (see <link document="">Methods: Transgenic organisms</link>). Since the
+          functioning (see <link document="m00106" target-id="">Methods: Transgenic organisms</link>). Since the
           gustducin-TRPM5 pathway is largely conserved among Type 2 taste receptor cells, these
           genes are commonly used as markers of Type II cells for neuroanatomy experiments or to
-          drive genetic constructs for taste behavioral studies (see <link document="">Methods:
-          Immunohistochemistry</link>, <link document="">Methods: Optogenetics</link>).</para>
+          drive genetic constructs for taste behavioral studies (see <link document="m00106" target-id="">Methods:
+          Immunohistochemistry</link>, <link document="m00106" target-id="">Methods: Optogenetics</link>).</para>
 <para
             id="para-00020">
             <title><emphasis>Part II: Salty and sour</emphasis></title><newline /> In contrast to
