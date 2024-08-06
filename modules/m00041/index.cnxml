@@ -9,165 +9,556 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Define the relevant anatomy and cell types of the olfactory system.</item>
-          <item>Describe the neural circuitry involved at each layer of the processing hierarchy of the olfactory system and its relationship to odor perception.</item>
-        </list>
+      <list id="list-00001">
+        <item>Define the relevant anatomy and cell types of the olfactory system.</item>
+        <item>Describe the neural circuitry involved at each layer of the processing hierarchy of
+          the olfactory system and its relationship to odor perception.</item>
+      </list>
     </section>
-    <para id="para-00002">Imagine the smell of freshly baked bread or a cup of coffee on a lazy weekend morning. Now turn your attention to the visual scenery that accompanies this thought. Your mind has probably already filled in many of the details for you. For many people, the sense of smell is so powerful it can even transport us back in time, conjuring vivid memories of people, places, and events.</para>
+    <para id="para-00002">Imagine the smell of freshly baked bread or a cup of coffee on a lazy
+      weekend morning. Now turn your attention to the visual scenery that accompanies this thought.
+      Your mind has probably already filled in many of the details for you. For many people, the
+      sense of smell is so powerful it can even transport us back in time, conjuring vivid memories
+      of people, places, and events.</para>
 
-    <para id="para-00003">The sense of smell, or olfaction, has a direct input to the emotional centers of the brain. With its direct input to the limbic system (see amygdala), the sense of smell is also critically involved in social behaviors across the animal kingdom. Olfaction arises from interactions between specialized sensory receptors and chemicals we encounter in the environment. In this section, we will explore how molecules inhaled into the nose are detected and encoded by the brain and how odors might elicit powerful memories and behaviors in some animals.</para>
+    <para id="para-00003">The sense of smell, or olfaction, has a direct input to the emotional
+      centers of the brain. With its direct input to the limbic system (see amygdala), the sense of
+      smell is also critically involved in social behaviors across the animal kingdom. Olfaction
+      arises from interactions between specialized sensory receptors and chemicals we encounter in
+      the environment. In this section, we will explore how molecules inhaled into the nose are
+      detected and encoded by the brain and how odors might elicit powerful memories and behaviors
+      in some animals.</para>
     <section id="sect-00002">
-    <title>The nasal cavity</title>
-    <para id="para-00004">The primary sensory organ for the olfactory system is a sheet of tissue found deep within the nasal cavity called the <term id="term-00001">olfactory epithelium</term> (<link target-id="Image-8.14"/>). The olfactory epithelium within the nose is responsible for detecting airborne odorous molecules. These molecules, also called <term id="term-00002">odorants</term>, are the basic unit that can elicit the sensation of an odor.</para>
-    <figure id="Image-8.14"><title>Olfactory epithelium anatomy</title>
-      <media alt="The top left panel of this image shows the side view of a person’s face with a cup containing a beverage underneath the nose. The image shows how the aroma of the beverage passes through the nasal cavity. The top right panel shows a detailed ultrastructure of the olfactory bulb. The bottom panel shows a micrograph of the nasal cavity.">
-        <image mime-type="image/png" src="../../media/Image-8.14_Olfactory-epithelium-anatomy.png"/>
-      </media>
-    <caption>Image credit: Modified from original image by adding/removing labels, adding basal cell, and reconstructing top left panel. Original image by OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30147990</caption>
-    </figure>
+      <title>The nasal cavity</title>
+      <para id="para-00004">The primary sensory organ for the olfactory system is a sheet of tissue
+        found deep within the nasal cavity called the <term id="term-00001">olfactory epithelium</term>
+        (<link target-id="Image-8.14" />). The olfactory epithelium within the nose is responsible
+        for detecting airborne odorous molecules. These molecules, also called <term id="term-00002">
+        odorants</term>, are the basic unit that can elicit the sensation of an odor.</para>
+      <figure id="Image-8.14">
+        <title>Olfactory epithelium anatomy</title>
+        <media
+          alt="The top left panel of this image shows the side view of a person’s face with a cup containing a beverage underneath the nose. The image shows how the aroma of the beverage passes through the nasal cavity. The top right panel shows a detailed ultrastructure of the olfactory bulb. The bottom panel shows a micrograph of the nasal cavity.">
+          <image mime-type="image/png" src="../../media/Image-8.14_Olfactory-epithelium-anatomy.png" />
+        </media>
+        <caption>Image credit: Modified from original image by adding/removing labels, adding basal
+          cell, and reconstructing top left panel. Original image by OpenStax -
+          https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0,
+          https://commons.wikimedia.org/w/index.php?curid=30147990</caption>
+      </figure>
 
-    <para id="para-00005">Odorants are typically small enough that they can become suspended in the air and drawn into the nasal cavities. Inside, odorants travel through intricate caverns called turbinates, which are formed of bone and cartilage. These structures filter, humidify, and warm inhaled air, but they also play a critical role in directing odorants onto the relatively restricted area of the nasal cavities which contains the olfactory epithelium.</para>
+      <para id="para-00005">Odorants are typically small enough that they can become suspended in
+        the air and drawn into the nasal cavities. Inside, odorants travel through intricate caverns
+        called turbinates, which are formed of bone and cartilage. These structures filter,
+        humidify, and warm inhaled air, but they also play a critical role in directing odorants
+        onto the relatively restricted area of the nasal cavities which contains the olfactory
+        epithelium.</para>
 
-    <para id="para-00006">The structure of the nasal cavities is highly variable between animal species. For example, many mammal species, like dogs and bears, have evolved intricate nasal passages that play an important role in their ability to detect extremely low concentrations of an odorant (<link target-id="Image-8.29"/>). The large surface area of their turbinates ensures that small amounts of odorants are forcefully propelled onto the olfactory epithelium. In addition to specialized turbinates, dogs, bears, and many other animals have a larger olfactory epithelium than humans do, which contributes to their excellent sense of smell.</para>
-    <figure id="Image-8.29"><title>Comparisons between canine, murine, and human olfactory epithelium</title>
-      <media alt="An illustration of the nasal cavities of dog, mouse and human. The dog nasal epithelium is much larger, with more complex turbinates than the mouse, which is in turn larger and more complex than the human.">
-        <image mime-type="image/png" src="../../media/Image-8.29_Comparisons-between-canine,-murine,-and-human-olfactory-epithelium.png"/>
-      </media>
-    <caption>Image credit: The Nobel Prize in Physiology or Medicine 2004. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 8 Mar 2023. https://www.nobelprize.org/prizes/medicine/2004/7441-the-nobel-prize-in-physiology-or-medicine-2004-2004-6/ © The Nobel Assembly at Karolinska Institute</caption>
-    </figure>
+      <para id="para-00006">The structure of the nasal cavities is highly variable between animal
+        species. For example, many mammal species, like dogs and bears, have evolved intricate nasal
+        passages that play an important role in their ability to detect extremely low concentrations
+        of an odorant (<link target-id="Image-8.29" />). The large surface area of their turbinates
+        ensures that small amounts of odorants are forcefully propelled onto the olfactory
+        epithelium. In addition to specialized turbinates, dogs, bears, and many other animals have
+        a larger olfactory epithelium than humans do, which contributes to their excellent sense of
+        smell.</para>
+      <figure id="Image-8.29">
+        <title>Comparisons between canine, murine, and human olfactory epithelium</title>
+        <media
+          alt="An illustration of the nasal cavities of dog, mouse and human. The dog nasal epithelium is much larger, with more complex turbinates than the mouse, which is in turn larger and more complex than the human.">
+          <image mime-type="image/png"
+            src="../../media/Image-8.29_Comparisons-between-canine,-murine,-and-human-olfactory-epithelium.png" />
+        </media>
+        <caption>Image credit: The Nobel Prize in Physiology or Medicine 2004. NobelPrize.org. Nobel
+          Prize Outreach AB 2023. Wed. 8 Mar 2023.
+          https://www.nobelprize.org/prizes/medicine/2004/7441-the-nobel-prize-in-physiology-or-medicine-2004-2004-6/
+          © The Nobel Assembly at Karolinska Institute</caption>
+      </figure>
     </section>
     <section id="sect-00003">
-    <title>Olfactory epithelium and sensory neurons</title>
-    <para id="para-00007">Located deep within the nose, the olfactory epithelium is a specialized portion of the nasal cavity. The placement of this important tissue ensures that it is protected from damage caused by inhaling toxins and positions it close to the brain. There are three main cell types that make up the olfactory epithelium. <term id="term-00003">Olfactory sensory neurons</term> are the cells tasked with detecting odorants, <term id="term-00004">supporting cells</term> provide structure and surround the sensory neurons, and basal cells are the precursors from which regenerating sensory neurons arise (<link target-id="Image-8.14"/>)</para>
+      <title>Olfactory epithelium and sensory neurons</title>
+      <para id="para-00007">Located deep within the nose, the olfactory epithelium is a specialized
+        portion of the nasal cavity. The placement of this important tissue ensures that it is
+        protected from damage caused by inhaling toxins and positions it close to the brain. There
+        are three main cell types that make up the olfactory epithelium. <term id="term-00003">Olfactory
+        sensory neurons</term> are the cells tasked with detecting odorants, <term id="term-00004">supporting
+        cells</term> provide structure and surround the sensory neurons, and basal cells are the
+        precursors from which regenerating sensory neurons arise (<link target-id="Image-8.14" />)</para>
 
-    <para id="para-00008">Olfactory sensory neurons each have a single enlarged dendrite that extends outwards from the epithelium and terminates at the epithelial surface in a specialized structure called a knob. The knob is an integrative hub for fine hair-like structures known as cilia extending through the mucus lining that coats the olfactory epithelium. The cilia are important structures because <term id="term-00005">olfactory receptors</term>, the proteins that interact with odorant molecules, are found along the length of each of these projections. The olfactory receptors are part of a large gene family that varies by species. Humans have ~300-400 receptor genes, while mice and dogs have more than 1000! (Malnic et al., 2004; Zhang and Firestein, 2002).</para>
-    <section id="sect-00004">
-    <title>Signal transduction in olfactory sensory neurons</title>
-    <para id="para-00009">Olfactory receptors are metabotropic receptors, meaning that they are coupled to a G-protein second messenger on the intracellular side of the neuron. The binding sites for odorants are, of course, on the extracellular side, exposed to the nasal cavity. In olfactory receptors, the G-protein is a specialized stimulatory G-subunit (<term id="term-00006">G<sub>olf</sub></term>). <link target-id="Image-8.06"/> shows the intracellular signaling activated by odorant binding and G<sub>olf</sub> activation.</para>
-    <figure id="Image-8.06"><title>Olfactory receptor signaling</title>
-      <media alt="A diagram of a cell membrane with odorant receptor, adenylyl cyclase III, second messengers and ion channels. The transduction pathway for odorants is shown as described in the main text.">
-        <image mime-type="image/png" src="../../media/Image-8.06_Olfactory-receptor-signaling.png"/>
-      </media>
-    </figure>
+      <para id="para-00008">Olfactory sensory neurons each have a single enlarged dendrite that
+        extends outwards from the epithelium and terminates at the epithelial surface in a
+        specialized structure called a knob. The knob is an integrative hub for fine hair-like
+        structures known as cilia extending through the mucus lining that coats the olfactory
+        epithelium. The cilia are important structures because <term id="term-00005">olfactory
+        receptors</term>, the proteins that interact with odorant molecules, are found along the
+        length of each of these projections. The olfactory receptors are part of a large gene family
+        that varies by species. Humans have ~300-400 receptor genes, while mice and dogs have more
+        than 1000! (Malnic et al., 2004; Zhang and Firestein, 2002).</para>
+      <section id="sect-00004">
+        <title>Signal transduction in olfactory sensory neurons</title>
+        <para id="para-00009">Olfactory receptors are metabotropic receptors, meaning that they are
+          coupled to a G-protein second messenger on the intracellular side of the neuron. The
+          binding sites for odorants are, of course, on the extracellular side, exposed to the nasal
+          cavity. In olfactory receptors, the G-protein is a specialized stimulatory G-subunit (<term
+            id="term-00006">G<sub>olf</sub></term>). <link target-id="Image-8.06" /> shows the
+          intracellular signaling activated by odorant binding and G<sub>olf</sub> activation.</para>
+        <figure id="Image-8.06">
+          <title>Olfactory receptor signaling</title>
+          <media
+            alt="A diagram of a cell membrane with odorant receptor, adenylyl cyclase III, second messengers and ion channels. The transduction pathway for odorants is shown as described in the main text.">
+            <image mime-type="image/png"
+              src="../../media/Image-8.06_Olfactory-receptor-signaling.png" />
+          </media>
+        </figure>
 
-    <para id="para-00010">Once bound to an odorant, the olfactory receptor complex releases G<sub>olf</sub> to the intracellular side of the membrane. When released from the receptor complex, G<sub>olf</sub> then stimulates the activity of the catalytic enzyme <term id="term-00007">adenylyl cyclase III (ACIII)</term>. The role of ACIII in this series of events is to then convert adenosine triphosphate (ATP) into cyclic adenosine monophosphate (cAMP). cAMP then serves as a ligand to <term id="term-00008">cyclic nucleotide gated (CNG) channels</term>, which are an entry point for Na<sup>+</sup> and Ca<sup>2+</sup> ions into the sensory neurons. Because both Na<sup>+</sup> and Ca<sup>2+</sup> carry a positive charge, this results in a membrane depolarization of the sensory cells bringing them toward the action potential threshold.</para>
+        <para id="para-00010">Once bound to an odorant, the olfactory receptor complex releases G<sub>
+          olf</sub> to the intracellular side of the membrane. When released from the receptor
+          complex, G<sub>olf</sub> then stimulates the activity of the catalytic enzyme <term
+            id="term-00007">adenylyl cyclase III (ACIII)</term>. The role of ACIII in this series of
+          events is to then convert adenosine triphosphate (ATP) into cyclic adenosine monophosphate
+          (cAMP). cAMP then serves as a ligand to <term id="term-00008">cyclic nucleotide gated
+          (CNG) channels</term>, which are an entry point for Na<sup>+</sup> and Ca<sup>2+</sup>
+          ions into the sensory neurons. Because both Na<sup>+</sup> and Ca<sup>2+</sup> carry a
+          positive charge, this results in a membrane depolarization of the sensory cells bringing
+          them toward the action potential threshold.</para>
 
-    <para id="para-00011">However, there is an additional step that has been proposed to amplify these initial membrane depolarizations through the CNG channels. The increased intracellular abundance of Ca<sup>2+</sup> ions begins to act on <term id="term-00009">calcium-activated chloride channels</term> (CaCC). With respect to the mucous that surrounds cilia, the internal cellular concentration of chloride is elevated. This means that when CaCCs are activated by Ca<sup>2+</sup>, negatively charged Cl- ions flow out of the cell, thus amplifying the initial membrane depolarization from the CNG channels.</para>
+        <para id="para-00011">However, there is an additional step that has been proposed to amplify
+          these initial membrane depolarizations through the CNG channels. The increased
+          intracellular abundance of Ca<sup>2+</sup> ions begins to act on <term id="term-00009">calcium-activated
+          chloride channels</term> (CaCC). With respect to the mucous that surrounds cilia, the
+          internal cellular concentration of chloride is elevated. This means that when CaCCs are
+          activated by Ca<sup>2+</sup>, negatively charged Cl- ions flow out of the cell, thus
+          amplifying the initial membrane depolarization from the CNG channels.</para>
 
-    <para id="para-00012">This molecular chain of events results in action potentials being generated near the soma of the sensory neurons that contain the receptor proteins on their cilia. We can think about odorant molecules as being similar to neurotransmitters that generate electrical activity between neurons within the brain. The signals then travel down sensory neuron axons that extend through perforations in the cribriform plate, a bony structure that separates the brain from the nasal cavities. The axons and their electrical signals then arrive at the brain in the olfactory bulb, where they synapse with the central processing circuitry of the olfactory system.</para>
+        <para id="para-00012">This molecular chain of events results in action potentials being
+          generated near the soma of the sensory neurons that contain the receptor proteins on their
+          cilia. We can think about odorant molecules as being similar to neurotransmitters that
+          generate electrical activity between neurons within the brain. The signals then travel
+          down sensory neuron axons that extend through perforations in the cribriform plate, a bony
+          structure that separates the brain from the nasal cavities. The axons and their electrical
+          signals then arrive at the brain in the olfactory bulb, where they synapse with the
+          central processing circuitry of the olfactory system.</para>
 
-    <para id="para-00013">A key organizing principle of the olfactory system is the molecular logic by which the cilia of olfactory sensory neurons express olfactory receptor proteins. The genome of most animals encodes hundreds of olfactory receptors, each of which has a unique binding site that will recognize only a narrow range of chemical shapes. Though there are hundreds of receptor genes, only a single type is expressed on the cilia of each sensory neuron. Although each sensory neuron may express thousands of receptor proteins, each of them will be exactly alike (<link target-id="Image-8.25"/>).</para>
-    <figure id="Image-8.25"><title>One receptor type per neuron in the olfactory system</title>
-      <media alt="A diagram of olfactory neurons each expressing one receptor protein.">
-        <image mime-type="image/png" src="../../media/Image-8.25_One-receptor-type-per-neuron-in-the-olfactory-system.png"/>
-      </media><caption>There are hundreds of unique olfactory receptor genes but an individual olfactory sensory neuron only expresses 1 receptor gene.</caption>
-    </figure>
+        <para id="para-00013">A key organizing principle of the olfactory system is the molecular
+          logic by which the cilia of olfactory sensory neurons express olfactory receptor proteins.
+          The genome of most animals encodes hundreds of olfactory receptors, each of which has a
+          unique binding site that will recognize only a narrow range of chemical shapes. Though
+          there are hundreds of receptor genes, only a single type is expressed on the cilia of each
+          sensory neuron. Although each sensory neuron may express thousands of receptor proteins,
+          each of them will be exactly alike (<link target-id="Image-8.25" />).</para>
+        <figure id="Image-8.25">
+          <title>One receptor type per neuron in the olfactory system</title>
+          <media alt="A diagram of olfactory neurons each expressing one receptor protein.">
+            <image mime-type="image/png"
+              src="../../media/Image-8.25_One-receptor-type-per-neuron-in-the-olfactory-system.png" />
+          </media>
+          <caption>There are hundreds of unique olfactory receptor genes but an individual olfactory
+            sensory neuron only expresses 1 receptor gene.</caption>
+        </figure>
 
+      </section>
+      <section id="sect-00005">
+        <title>People behind the science: The discovery of olfactory sensory neuron genetics</title>
+        <para id="para-00014">We now know that the genes that encode the olfactory receptor proteins
+          are the largest class of G-protein coupled receptors, including hundreds of unique protein
+          types in humans, and over a thousand in rodents! However, the identity and function of
+          these proteins were once a mystery in the field of biology. In 1991, Dr. Linda Buck, then
+          a postdoctoral fellow, was working in the Laboratory of Dr. Richard Axel at New York’s
+          Columbia University. With the help of a then newly developed technology called polymerase
+          chain reaction, she not only solved the mystery of how many receptor types there are in
+          the olfactory system but also demonstrated that they came from a previously unknown
+          superfamily of G-protein coupled receptors (Buck and Axel, 1991). Her discovery revealed
+          the molecular diversity that underlies the peripheral olfactory system and the incredible
+          wiring logic by which the system assembles during development.</para>
+
+        <para id="para-00015">This revelation was not only foundational for understanding the
+          olfactory system but also had far-reaching implications across biological domains to
+          fields including drug discovery, gene regulation, and the wiring logic of the brain. In
+          2004, Drs. Buck and Axel were awarded the Nobel Prize in Physiology or Medicine for their
+          discovery.</para>
+      </section>
+      <section id="oo-00001">
+        <title>OSNs are renewed throughout life</title>
+        <para id="para-00016">A special feature of the olfactory system is that, unlike other senses
+          including vision and hearing, olfactory sensory cells are constantly regenerating. In
+          fact, even without specific or acute damage, olfactory sensory cells are constantly
+          turning over. It is speculated that, because the nose draws in numerous potentially
+          damaging agents from the environment (dust, germs, pollution, etc.), frequent turnover of
+          the sensory cells is a mechanism to ensure that the system remains in good working
+          condition.</para>
+
+        <para id="para-00017">In the olfactory epithelium, stem cells line the nasal passages and
+          give rise to newly generated sensory neurons that incorporate with the existing circuitry.
+          As you will read below, sensory neurons of a common subtype must find a highly targeted
+          and specific region of the brain to terminate. Exactly how newly regenerated sensory
+          neurons find their way to the olfactory bulb is still a mystery, but some work tells us
+          that the expression of receptor proteins outside of the sensory cilia may play an
+          important role.</para>
+
+        <para id="para-00018">Unfortunately, as we age our body begins to lose its ability to
+          regenerate sensory neurons. This ability is impacted by inflammation, disease, and injury,
+          all of which accumulate as we get older. Because sensory neurons do not replenish with the
+          same regularity, many people begin to lose their sense of smell in old age. In a later
+          section, we will discuss how some well-known diseases affect our sense of smell.</para>
+      </section>
     </section>
-    <section id="sect-00005">
-    <title>People behind the science: The discovery of olfactory sensory neuron genetics</title>
-    <para id="para-00014">We now know that the genes that encode the olfactory receptor proteins are the largest class of G-protein coupled receptors, including hundreds of unique protein types in humans, and over a thousand in rodents! However, the identity and function of these proteins were once a mystery in the field of biology. In 1991, Dr. Linda Buck, then a postdoctoral fellow, was working in the Laboratory of Dr. Richard Axel at New York’s Columbia University. With the help of a then newly developed technology called polymerase chain reaction, she not only solved the mystery of how many receptor types there are in the olfactory system but also demonstrated that they came from a previously unknown superfamily of G-protein coupled receptors (Buck and Axel, 1991). Her discovery revealed the molecular diversity that underlies the peripheral olfactory system and the incredible wiring logic by which the system assembles during development.</para>
-
-    <para id="para-00015">This revelation was not only foundational for understanding the olfactory system but also had far-reaching implications across biological domains to fields including drug discovery, gene regulation, and the wiring logic of the brain. In 2004, Drs. Buck and Axel were awarded the Nobel Prize in Physiology or Medicine for their discovery.</para>
-    </section>
-    <section id="oo-00001">
-    <title>OSNs are renewed throughout life</title>
-    <para id="para-00016">A special feature of the olfactory system is that, unlike other senses including vision and hearing, olfactory sensory cells are constantly regenerating. In fact, even without specific or acute damage, olfactory sensory cells are constantly turning over. It is speculated that, because the nose draws in numerous potentially damaging agents from the environment (dust, germs, pollution, etc.), frequent turnover of the sensory cells is a mechanism to ensure that the system remains in good working condition.</para>
-
-    <para id="para-00017">In the olfactory epithelium, stem cells line the nasal passages and give rise to newly generated sensory neurons that incorporate with the existing circuitry. As you will read below, sensory neurons of a common subtype must find a highly targeted and specific region of the brain to terminate. Exactly how newly regenerated sensory neurons find their way to the olfactory bulb is still a mystery, but some work tells us that the expression of receptor proteins outside of the sensory cilia may play an important role.</para>
-
-    <para id="para-00018">Unfortunately, as we age our body begins to lose its ability to regenerate sensory neurons. This ability is impacted by inflammation, disease, and injury, all of which accumulate as we get older. Because sensory neurons do not replenish with the same regularity, many people begin to lose their sense of smell in old age. In a later section, we will discuss how some well-known diseases affect our sense of smell.</para></section></section>
     <section id="sect-00006">
-    <title>Olfactory bulb circuitry</title>
-    <para id="para-00019">The <term id="term-00010">olfactory bulb</term> is responsible for the first stages of processing electrical signals as they arrive from the nose. Before arriving in the olfactory bulb, the axons of all sensory neurons that express the same type of receptor protein converge. Once in the bulb, the axons then form a spherical structure of nerve endings, dendrites, and synapses called a <term id="term-00011">glomerulus</term>. Because each glomerulus receives input from only a single type of olfactory sensory neuron, the input to these structures is receptor type specific. A depiction of this concept can be seen in <link target-id="Image-8.21"/>, as neurons of the same color all sending projections that converge in a glomerulus together (green neurons forming green glomerulus, blue neurons forming blue glomerulus). Each odorant activates a subset of olfactory sensory neuron types; therefore, many glomeruli are activated at the same time by a given odor. We can think of this as similar to how letters in the alphabet group together to form words. In this case, each letter represents an activated glomerulus, and their grouping as a word represents the perception of an odor. Importantly, words can be simple or complex depending on the number of letters they contain, just as an odor depending on the number of activated glomeruli.</para>
-    <figure id="Image-8.21"><title>Olfactory signaling in the olfactory bulb</title>
-      <media alt="An illustration of a cross section of the olfactory bulb and connected olfactory receptor cells showing how neurons with the same receptor type converge on individual mitral cells. 1) Odorants bind to receptors. 2) Olfactory receptor cells are activated band send electric signals. 3) The signals are relayed in glomeruli. 4) The signals are transmitted to higher regions of the brain.">
-        <image mime-type="image/png" src="../../media/Image-8.21_Olfactory-signaling-in-the-olfactory-bulb.png"/>
-      </media>
-    <caption>Image credit: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 8 Mar 2023. https://www.nobelprize.org/prizes/medicine/2004/press-release/ © The Nobel Assembly at Karolinska Institutet.</caption>
-    </figure>
+      <title>Olfactory bulb circuitry</title>
+      <para id="para-00019">The <term id="term-00010">olfactory bulb</term> is responsible for the
+        first stages of processing electrical signals as they arrive from the nose. Before arriving
+        in the olfactory bulb, the axons of all sensory neurons that express the same type of
+        receptor protein converge. Once in the bulb, the axons then form a spherical structure of
+        nerve endings, dendrites, and synapses called a <term id="term-00011">glomerulus</term>.
+        Because each glomerulus receives input from only a single type of olfactory sensory neuron,
+        the input to these structures is receptor type specific. A depiction of this concept can be
+        seen in <link target-id="Image-8.21" />, as neurons of the same color all sending
+        projections that converge in a glomerulus together (green neurons forming green glomerulus,
+        blue neurons forming blue glomerulus). Each odorant activates a subset of olfactory sensory
+        neuron types; therefore, many glomeruli are activated at the same time by a given odor. We
+        can think of this as similar to how letters in the alphabet group together to form words. In
+        this case, each letter represents an activated glomerulus, and their grouping as a word
+        represents the perception of an odor. Importantly, words can be simple or complex depending
+        on the number of letters they contain, just as an odor depending on the number of activated
+        glomeruli.</para>
+      <figure id="Image-8.21">
+        <title>Olfactory signaling in the olfactory bulb</title>
+        <media
+          alt="An illustration of a cross section of the olfactory bulb and connected olfactory receptor cells showing how neurons with the same receptor type converge on individual mitral cells. 1) Odorants bind to receptors. 2) Olfactory receptor cells are activated band send electric signals. 3) The signals are relayed in glomeruli. 4) The signals are transmitted to higher regions of the brain.">
+          <image mime-type="image/png"
+            src="../../media/Image-8.21_Olfactory-signaling-in-the-olfactory-bulb.png" />
+        </media>
+        <caption>Image credit: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 8
+          Mar 2023. https://www.nobelprize.org/prizes/medicine/2004/press-release/ © The Nobel
+          Assembly at Karolinska Institutet.</caption>
+      </figure>
 
-    <para id="para-00020">It is still unknown how or if glomeruli are arranged in the physical space of the brain with respect to the chemical structure of the odorants that activate them. However, there is some evidence that there exist coarse groupings of glomeruli. Those that are activated by broadly similar odorant molecules tend to be located closer together. Furthermore, among animals of the same species, glomerular positioning and grouping is conserved (Soucy et al., 2009)</para>
-    <section id="sect-00007">
-    <title>Glomerular layer neurons</title>
-    <para id="para-00021">Glomeruli are innervated by a number of cell types in addition to the nerve endings of olfactory sensory neurons. These cells include glutamatergic projection neurons that relay information to higher-order processing centers and inhibitory cells that help to process odor information within the olfactory bulb.</para>
+      <para id="para-00020">It is still unknown how or if glomeruli are arranged in the physical
+        space of the brain with respect to the chemical structure of the odorants that activate
+        them. However, there is some evidence that there exist coarse groupings of glomeruli. Those
+        that are activated by broadly similar odorant molecules tend to be located closer together.
+        Furthermore, among animals of the same species, glomerular positioning and grouping is
+        conserved (Soucy et al., 2009)</para>
+      <section id="sect-00007">
+        <title>Glomerular layer neurons</title>
+        <para id="para-00021">Glomeruli are innervated by a number of cell types in addition to the
+          nerve endings of olfactory sensory neurons. These cells include glutamatergic projection
+          neurons that relay information to higher-order processing centers and inhibitory cells
+          that help to process odor information within the olfactory bulb.</para>
 
-    <para id="para-00022">Projection cells of the olfactory bulb fall into two sub-classes of cells, mitral cells, and tufted cells. <term id="term-00012">Mitral cells</term> are the largest cells in the olfactory system and are found in a single row of cells sitting beneath the glomeruli. Each cell has a single apical dendrite that extends to one glomerulus where it ramifies extensively and receives input from olfactory sensory neurons, as well as other neurons within a glomerulus. This arrangement is shown in <link target-id="Image-8.21"/>. While each mitral cell contacts only a single glomerulus, each glomerulus is innervated by ~10-20 mitral cells (Liu et al., 2016). Mitral cells also have characteristic lateral dendrites that extend deeper within the olfactory bulb, where they receive inhibitory input. <term id="term-00013">Tufted cells</term> share many of the same morphological characteristics as mitral cells, though their distribution is different. They also serve to relay information about odorants, as mitral cells do, but are more broadly tuned to odors and often can respond to lower concentrations than mitral cells.</para>
+        <para id="para-00022">Projection cells of the olfactory bulb fall into two sub-classes of
+          cells, mitral cells, and tufted cells. <term id="term-00012">Mitral cells</term> are the
+          largest cells in the olfactory system and are found in a single row of cells sitting
+          beneath the glomeruli. Each cell has a single apical dendrite that extends to one
+          glomerulus where it ramifies extensively and receives input from olfactory sensory
+          neurons, as well as other neurons within a glomerulus. This arrangement is shown in <link
+            target-id="Image-8.21" />. While each mitral cell contacts only a single glomerulus,
+          each glomerulus is innervated by ~10-20 mitral cells (Liu et al., 2016). Mitral cells also
+          have characteristic lateral dendrites that extend deeper within the olfactory bulb, where
+          they receive inhibitory input. <term id="term-00013">Tufted cells</term> share many of the
+          same morphological characteristics as mitral cells, though their distribution is
+          different. They also serve to relay information about odorants, as mitral cells do, but
+          are more broadly tuned to odors and often can respond to lower concentrations than mitral
+          cells.</para>
 
-    <para id="para-00023">In addition to these projection cells, the olfactory bulb hosts several classes of local interneurons. In general, these cells are thought to play an important part in refining the number of active glomeruli following an odorant encounter and coordinating the synchronous activity of olfactory bulb output neurons.</para></section>
+        <para id="para-00023">In addition to these projection cells, the olfactory bulb hosts
+          several classes of local interneurons. In general, these cells are thought to play an
+          important part in refining the number of active glomeruli following an odorant encounter
+          and coordinating the synchronous activity of olfactory bulb output neurons.</para>
+      </section>
     </section>
     <section id="sect-00008">
-    <title>Cortical processing</title>
-    <para id="para-00024">Output from the olfactory bulb travels along the axons of the two classes of projection neurons: mitral cells and tufted cells. Although these cells share many common features, they differ in both their responses to odorant stimuli and their projections to downstream processing centers of the brain. The primary targets of olfactory bulb output are the olfactory cortex, limbic system, and ventral striatum.</para>
-    <section id="sect-00009">
-    <title>Piriform cortex</title>
-    <para id="para-00025">Mitral cells target a number of different brain regions, but perhaps the most predominant among them is the piriform cortex, also called the olfactory cortex. The organization of the piriform cortex is different from other sensory modalities because it contains three layers rather than the six typically found in other sensory cortices. Mitral cell axons from the olfactory bulb travel as a nerve bundle in the <term id="term-00014">lateral olfactory tract</term> and most densely target the anterior portion of the piriform cortex where they target broadly distributed and overlapping populations of neurons. Because neurons in the piriform cortex receive input from many different mitral cells, and each mitral cell can be associated with a different glomerulus, this is the first point in the olfactory system where stimulus information from the periphery is blended (<link target-id="Image-8.09"/>). However, unlike the olfactory bulb where some coarse relationship exists between glomeruli, the spatial distribution of cells in the piriform cortex has a minimal relationship to the odorants which activate them. This stands in contrast to other sensory modalities, like audition and somatosensation, where similar stimuli are represented in adjacent cortical fields (see <link document="m00001">Hearing and Balance</link> and <link document="m00006">Touch and Pain</link>). Despite this seeming disorganization within the olfactory system, the ensemble of neurons that become activated in the piriform cortex upon encountering an olfactory stimulus is related to how the stimulus is identified, categorized, and perceived by an animal.</para>
-    <figure id="Image-8.09"><title>Neural pathways of olfaction</title>
-      <media alt="Top shows a sagittal section of human head and brain with pathways from olfactory bulb to piriform cortex as described in the main text. Bottom shows a diagram of the layers of piriform cortex (1a, 1b, 2a, 2b, 3b). Semilunar cells sit in 2a. Superficial pyramidal neurons sit in 2b. Deep pyramidal neurons sit in 3b. Interneurons sit in 2b.">
-        <image mime-type="image/png" src="../../media/Image-8.09_Neural-pathways-of-olfaction.png"/>
-      </media>
-    </figure>
-    <para id="para-00026">In addition to direct inputs from the olfactory bulb, the piriform cortex is a dense recurrent network and has extensive interconnections, called associational connectivity. The piriform cortex also contains local inhibitory connections that can oppose both inputs from the olfactory bulb and associational input. The local connectivity within the piriform cortex, both excitatory and inhibitory, allows the structure to perform important analytical functions like pattern completion, prediction, and odor categorization. While these functions allow animals to accurately interpret their environment, they also provide a mechanism for animals to make decisions about stimuli with only partial or incomplete information about a stimulus.</para></section>
-    <section id="sect-00010">
-    <title>Anterior olfactory nucleus</title>
-    <para id="para-00027">The primary target of axonal projections from tufted cells is a structure known as the <term id="term-00015">anterior olfactory nucleus (AON)</term>, which is found directly behind, or posterior to the olfactory bulb. The olfactory system is different from other sensory modalities in how the processing hierarchy is structured. While information from most senses is processed in the opposite brain hemisphere from which it was detected by sensory cells at the periphery, the olfactory system is lateralized. For example, the right olfactory bulb sends most of its projections to cortical areas in the right hemisphere, and the left olfactory bulb to the left hemisphere.</para>
+      <title>Cortical processing</title>
+      <para id="para-00024">Output from the olfactory bulb travels along the axons of the two
+        classes of projection neurons: mitral cells and tufted cells. Although these cells share
+        many common features, they differ in both their responses to odorant stimuli and their
+        projections to downstream processing centers of the brain. The primary targets of olfactory
+        bulb output are the olfactory cortex, limbic system, and ventral striatum.</para>
+      <section id="sect-00009">
+        <title>Piriform cortex</title>
+        <para id="para-00025">Mitral cells target a number of different brain regions, but perhaps
+          the most predominant among them is the piriform cortex, also called the olfactory cortex.
+          The organization of the piriform cortex is different from other sensory modalities because
+          it contains three layers rather than the six typically found in other sensory cortices.
+          Mitral cell axons from the olfactory bulb travel as a nerve bundle in the <term
+            id="term-00014">lateral olfactory tract</term> and most densely target the anterior
+          portion of the piriform cortex where they target broadly distributed and overlapping
+          populations of neurons. Because neurons in the piriform cortex receive input from many
+          different mitral cells, and each mitral cell can be associated with a different
+          glomerulus, this is the first point in the olfactory system where stimulus information
+          from the periphery is blended (<link target-id="Image-8.09" />). However, unlike the
+          olfactory bulb where some coarse relationship exists between glomeruli, the spatial
+          distribution of cells in the piriform cortex has a minimal relationship to the odorants
+          which activate them. This stands in contrast to other sensory modalities, like audition
+          and somatosensation, where similar stimuli are represented in adjacent cortical fields
+          (see <link document="m00001">Hearing and Balance</link> and <link document="m00006">Touch
+          and Pain</link>). Despite this seeming disorganization within the olfactory system, the
+          ensemble of neurons that become activated in the piriform cortex upon encountering an
+          olfactory stimulus is related to how the stimulus is identified, categorized, and
+          perceived by an animal.</para>
+        <figure id="Image-8.09">
+          <title>Neural pathways of olfaction</title>
+          <media
+            alt="Top shows a sagittal section of human head and brain with pathways from olfactory bulb to piriform cortex as described in the main text. Bottom shows a diagram of the layers of piriform cortex (1a, 1b, 2a, 2b, 3b). Semilunar cells sit in 2a. Superficial pyramidal neurons sit in 2b. Deep pyramidal neurons sit in 3b. Interneurons sit in 2b.">
+            <image mime-type="image/png"
+              src="../../media/Image-8.09_Neural-pathways-of-olfaction.png" />
+          </media>
+        </figure>
+        <para id="para-00026">In addition to direct inputs from the olfactory bulb, the piriform
+          cortex is a dense recurrent network and has extensive interconnections, called
+          associational connectivity. The piriform cortex also contains local inhibitory connections
+          that can oppose both inputs from the olfactory bulb and associational input. The local
+          connectivity within the piriform cortex, both excitatory and inhibitory, allows the
+          structure to perform important analytical functions like pattern completion, prediction,
+          and odor categorization. While these functions allow animals to accurately interpret their
+          environment, they also provide a mechanism for animals to make decisions about stimuli
+          with only partial or incomplete information about a stimulus.</para>
+      </section>
+      <section id="sect-00010">
+        <title>Anterior olfactory nucleus</title>
+        <para id="para-00027">The primary target of axonal projections from tufted cells is a
+          structure known as the <term id="term-00015">anterior olfactory nucleus (AON)</term>,
+          which is found directly behind, or posterior to the olfactory bulb. The olfactory system
+          is different from other sensory modalities in how the processing hierarchy is structured.
+          While information from most senses is processed in the opposite brain hemisphere from
+          which it was detected by sensory cells at the periphery, the olfactory system is
+          lateralized. For example, the right olfactory bulb sends most of its projections to
+          cortical areas in the right hemisphere, and the left olfactory bulb to the left
+          hemisphere.</para>
 
-    <para id="para-00028">A key feature of the AON is that it sends projections that cross the brain through a nerve tract called the anterior commissure and terminate at contralateral brain hemispheres. Since this is one of the few places in the olfactory system where lateralization is broken, it allows the AON to make comparisons between odor information arriving at each of the nostrils and may thereby play a role in orienting animals to an odor source. Similarly, because each AON receives bilateral input, it is thought that this structure may play an important part in odor navigation by allowing animals to make comparisons of stimuli that arrive at each of the two nostrils.</para>
+        <para id="para-00028">A key feature of the AON is that it sends projections that cross the
+          brain through a nerve tract called the anterior commissure and terminate at contralateral
+          brain hemispheres. Since this is one of the few places in the olfactory system where
+          lateralization is broken, it allows the AON to make comparisons between odor information
+          arriving at each of the nostrils and may thereby play a role in orienting animals to an
+          odor source. Similarly, because each AON receives bilateral input, it is thought that this
+          structure may play an important part in odor navigation by allowing animals to make
+          comparisons of stimuli that arrive at each of the two nostrils.</para>
+      </section>
+      <section id="sect-00011">
+        <title>Amygdala and entorhinal cortex</title>
+        <para id="para-00029">Projections from the olfactory bulb target other brain regions that
+          layer the rich texture that accompanies olfactory perception. Earlier, we discussed how
+          odors can be linked with powerful memories and emotional states. These feelings arise
+          through direct connections between the olfactory bulb and brain areas associated with
+          memory, emotion, and reward. In addition to their projections to the piriform cortex, the
+          axons of mitral cells branch and terminate in two structures contained within the limbic
+          system, the <term id="term-00016">amygdala</term> and <term id="term-00017">entorhinal
+          cortex</term> (<link target-id="Image-8.09" />).</para>
+
+        <para id="para-00030">The amygdala is a powerful emotional center of the brain and its
+          direct connection with the olfactory system is the reason that certain odors can provide
+          powerful reminders of the emotional state in which they were encountered (see <link
+            document="m00048">The Neural Underpinning of Emotion and Mood</link>). For example, the
+          smell of your grandmother’s homemade soup may precipitate a feeling of comfort and safety.
+          The same is also true for negative emotions and may provide an important mechanism for
+          animals to avoid predation or other dangers.</para>
+
+        <para id="para-00031">The entorhinal cortex is strongly tied to memory formation,
+          consolidation, and recall. In addition to the input it receives from other memory
+          structures, like the hippocampus, it also receives direct input from the olfactory bulb
+          via mitral cells. In the introduction of this chapter, we described how smells can conjure
+          vivid memories of people and places — connectivity between the olfactory bulb and the
+          entorhinal cortex helps this to happen. When smelling your grandmother’s homemade soup, in
+          addition to your emotional state, you likely recall other details of how you experienced
+          the soup. For instance, the wallpaper in grandmother’s kitchen or the pattern on the
+          dishware that the soup was served in. These details are filled in and completed by the
+          entorhinal cortex.</para>
+      </section>
+      <section id="sect-00012">
+        <title>Adaptation</title>
+        <para id="para-00032">Have you come home from school and noticed that the trash in the
+          kitchen smelled bad? Maybe you got distracted and then forgot to take the garbage out, but
+          after a while, you no longer notice the smell. Some people call this perceptual phenomenon
+          “nose-blindness”, which is a common name for the physiological process called <term
+            id="term-00018">adaptation</term>. There is actually a very important reason for
+          “nose-blindness”, in addition to saving you from the smelly scent of your forgotten
+          garbage. Adaptation helps animals pay attention to changing features in their environment
+          rather than focus on constant but otherwise distracting stimuli.</para>
+
+        <para id="para-00033">In the olfactory system, adaptation arises from physiological
+          processes at the two ends of the system, the nose at the front and the piriform cortex at
+          the back end. In the nose, adaptation results from the desensitization of olfactory
+          receptor proteins for the odorant ligands. The abundant presence of an odorant molecule
+          results in conformational changes to the receptor protein, thereby decreasing its efficacy
+          in binding with a ligand and transducing a message about the stimulus. In the olfactory
+          cortex, the precise mechanism of adaptation is not clear, but nonetheless, the overall
+          effect is that ensembles of principal cells become less responsive to odor stimuli upon
+          repeated presentation of the stimulus, and the perception of an odor decreases (Kadohisa
+          and Wilson, 2006).</para>
+      </section>
     </section>
-    <section id="sect-00011">
-    <title>Amygdala and entorhinal cortex</title>
-    <para id="para-00029">Projections from the olfactory bulb target other brain regions that layer the rich texture that accompanies olfactory perception. Earlier, we discussed how odors can be linked with powerful memories and emotional states. These feelings arise through direct connections between the olfactory bulb and brain areas associated with memory, emotion, and reward. In addition to their projections to the piriform cortex, the axons of mitral cells branch and terminate in two structures contained within the limbic system, the <term id="term-00016">amygdala</term> and <term id="term-00017">entorhinal cortex</term> (<link target-id="Image-8.09"/>).</para>
-
-    <para id="para-00030">The amygdala is a powerful emotional center of the brain and its direct connection with the olfactory system is the reason that certain odors can provide powerful reminders of the emotional state in which they were encountered (see <link document="m00048">The Neural Underpinning of Emotion and Mood</link>). For example, the smell of your grandmother’s homemade soup may precipitate a feeling of comfort and safety. The same is also true for negative emotions and may provide an important mechanism for animals to avoid predation or other dangers.</para>
-
-    <para id="para-00031">The entorhinal cortex is strongly tied to memory formation, consolidation, and recall. In addition to the input it receives from other memory structures, like the hippocampus, it also receives direct input from the olfactory bulb via mitral cells. In the introduction of this chapter, we described how smells can conjure vivid memories of people and places — connectivity between the olfactory bulb and the entorhinal cortex helps this to happen. When smelling your grandmother’s homemade soup, in addition to your emotional state, you likely recall other details of how you experienced the soup. For instance, the wallpaper in grandmother’s kitchen or the pattern on the dishware that the soup was served in. These details are filled in and completed by the entorhinal cortex.</para>
-    </section>
-    <section id="sect-00012">
-    <title>Adaptation</title>
-    <para id="para-00032">Have you come home from school and noticed that the trash in the kitchen smelled bad? Maybe you got distracted and then forgot to take the garbage out, but after a while, you no longer notice the smell. Some people call this perceptual phenomenon “nose-blindness”, which is a common name for the physiological process called <term id="term-00018">adaptation</term>. There is actually a very important reason for “nose-blindness”, in addition to saving you from the smelly scent of your forgotten garbage. Adaptation helps animals pay attention to changing features in their environment rather than focus on constant but otherwise distracting stimuli.</para>
-
-    <para id="para-00033">In the olfactory system, adaptation arises from physiological processes at the two ends of the system, the nose at the front and the piriform cortex at the back end. In the nose, adaptation results from the desensitization of olfactory receptor proteins for the odorant ligands. The abundant presence of an odorant molecule results in conformational changes to the receptor protein, thereby decreasing its efficacy in binding with a ligand and transducing a message about the stimulus. In the olfactory cortex, the precise mechanism of adaptation is not clear, but nonetheless, the overall effect is that ensembles of principal cells become less responsive to odor stimuli upon repeated presentation of the stimulus, and the perception of an odor decreases (Kadohisa and Wilson, 2006).</para></section></section>
     <section id="sect-00013">
-    <title>The accessory olfactory system</title>
-    <para id="para-00034">Many animals secrete chemical signals called pheromones that trigger social responses in animals of the same species. Reptiles, amphibians, and mammals, including some non-human primates, have evolved a division of the olfactory system, called the <term id="term-00019">accessory olfactory system</term>, dedicated to detecting these substances. This system operates using many of the same principles as the main olfactory system but uses anatomically distinct structures with different cellular organization and projections to deep brain structures that guide behavior and physiological states.</para>
+      <title>The accessory olfactory system</title>
+      <para id="para-00034">Many animals secrete chemical signals called pheromones that trigger
+        social responses in animals of the same species. Reptiles, amphibians, and mammals,
+        including some non-human primates, have evolved a division of the olfactory system, called
+        the <term id="term-00019">accessory olfactory system</term>, dedicated to detecting these
+        substances. This system operates using many of the same principles as the main olfactory
+        system but uses anatomically distinct structures with different cellular organization and
+        projections to deep brain structures that guide behavior and physiological states.</para>
 
-    <para id="para-00035">Many pheromones are oily substances and are therefore unable to be carried through the air. This creates a problem where these compounds are incapable of reaching the olfactory epithelium. The <term id="term-00020">vomeronasal organ</term> is a collection of sensory cells found near the entrance to the nasal passages that detect pheromones and other social odors (<link target-id="Image-8.17"/>). For compounds to reach this structure, it is necessary for an animal to touch its nose to another animal, or a secretion it has left behind. Many of us have observed this behavior before. When dogs greet each other on the sidewalk, often their first instinct is to touch their nose to the other dog. Here they are using pheromonal cues to communicate.</para>
-    <figure id="Image-8.17"><title>Accessory versus main olfactory bulb and epithelium connection</title>
-      <media alt="An illustration of a rat skull and brain, showing the location of the vomeronasal organ and its connections to the accessory olfactory bulb, as described in the main text. The olfactory epithelium connecting to the main olfactory bulb is also shown.">
-        <image mime-type="image/png" src="../../media/Image-8.17_Accessory-versus-main-olfactory-bulb-and-epithelium-connection.png"/>
-      </media>
-    </figure>
+      <para id="para-00035">Many pheromones are oily substances and are therefore unable to be
+        carried through the air. This creates a problem where these compounds are incapable of
+        reaching the olfactory epithelium. The <term id="term-00020">vomeronasal organ</term> is a
+        collection of sensory cells found near the entrance to the nasal passages that detect
+        pheromones and other social odors (<link target-id="Image-8.17" />). For compounds to reach
+        this structure, it is necessary for an animal to touch its nose to another animal, or a
+        secretion it has left behind. Many of us have observed this behavior before. When dogs greet
+        each other on the sidewalk, often their first instinct is to touch their nose to the other
+        dog. Here they are using pheromonal cues to communicate.</para>
+      <figure id="Image-8.17">
+        <title>Accessory versus main olfactory bulb and epithelium connection</title>
+        <media
+          alt="An illustration of a rat skull and brain, showing the location of the vomeronasal organ and its connections to the accessory olfactory bulb, as described in the main text. The olfactory epithelium connecting to the main olfactory bulb is also shown.">
+          <image mime-type="image/png"
+            src="../../media/Image-8.17_Accessory-versus-main-olfactory-bulb-and-epithelium-connection.png" />
+        </media>
+      </figure>
 
-    <para id="para-00036">The vomeronasal organ is divided into two halves, one on each side of the nasal septum. Like the olfactory epithelium, it contains basal cells, supporting cells, and sensory neurons. The sensory neurons of the vomeronasal organ contain G-protein coupled receptors that are sensitive to specific social compounds depending on the type of receptor protein that they express. The sensory cells of the vomeronasal organ project axons to the dorsal posterior portion of the olfactory bulb where an accessory subdivision is found (<term id="term-00021">accessory olfactory bulb</term>) (<link target-id="Image-8.17"/>). The accessory olfactory bulb contains many of the same cell types as the main olfactory bulb; however, the circuit organization is somewhat different.</para>
+      <para id="para-00036">The vomeronasal organ is divided into two halves, one on each side of
+        the nasal septum. Like the olfactory epithelium, it contains basal cells, supporting cells,
+        and sensory neurons. The sensory neurons of the vomeronasal organ contain G-protein coupled
+        receptors that are sensitive to specific social compounds depending on the type of receptor
+        protein that they express. The sensory cells of the vomeronasal organ project axons to the
+        dorsal posterior portion of the olfactory bulb where an accessory subdivision is found (<term
+          id="term-00021">accessory olfactory bulb</term>) (<link target-id="Image-8.17" />). The
+        accessory olfactory bulb contains many of the same cell types as the main olfactory bulb;
+        however, the circuit organization is somewhat different.</para>
 
-    <section id="oo-00002"> <title>Neuroscience in the lab. Sex as a biological variable: Social odor detection in humans</title>
+      <section id="oo-00002">
+        <title>Neuroscience in the lab. Sex as a biological variable: Social odor detection in
+          humans</title>
 
-    <para id="para-00037">It is quite intuitive how our sense of smell influences our food preferences or even the type of perfume that we like. But can our sense of smell also influence how we interact with other people, and does olfaction play a role in human mate selection as it does in many animal species? A Swiss biologist named Claus Wedekind set out to answer this question in an experiment known as the “sweaty T-shirt study.” In his study, men were asked to wear a t-shirt for two days without bathing. Then, women participants were asked to sniff a hole in a box containing each shirt and rate the shirts as more or less appealing. When the genetic makeup of the men and women was compared, it was revealed that women selected t-shirts from men who had the most divergent genetic sequence for a set of genes called the major histocompatibility complex (MHC) (see <link document="m00072">Neuroimmunology</link>). MHC genes are part of the adaptive immune system, and in effect, women were selecting men in a way that might boost the fitness of their potential offspring by conferring greater immune selectivity. Although the exact mechanism is still a mystery, MHC genes are speculated to be linked to a body scent that can be detected by the opposite sex, even if subconsciously. Though it might be tempting to think this effect relies on pheromones and the vomeronasal organ, the vomeronasal organ is often absent from the nasal passages in humans. And if one is present, it likely only exists as a vestigial organ. In the case of humans, social odors are detected by the main olfactory system.</para></section>
+        <para id="para-00037">It is quite intuitive how our sense of smell influences our food
+          preferences or even the type of perfume that we like. But can our sense of smell also
+          influence how we interact with other people, and does olfaction play a role in human mate
+          selection as it does in many animal species? A Swiss biologist named Claus Wedekind set
+          out to answer this question in an experiment known as the “sweaty T-shirt study.” In his
+          study, men were asked to wear a t-shirt for two days without bathing. Then, women
+          participants were asked to sniff a hole in a box containing each shirt and rate the shirts
+          as more or less appealing. When the genetic makeup of the men and women was compared, it
+          was revealed that women selected t-shirts from men who had the most divergent genetic
+          sequence for a set of genes called the major histocompatibility complex (MHC) (see <link
+            document="m00072">Neuroimmunology</link>). MHC genes are part of the adaptive immune
+          system, and in effect, women were selecting men in a way that might boost the fitness of
+          their potential offspring by conferring greater immune selectivity. Although the exact
+          mechanism is still a mystery, MHC genes are speculated to be linked to a body scent that
+          can be detected by the opposite sex, even if subconsciously. Though it might be tempting
+          to think this effect relies on pheromones and the vomeronasal organ, the vomeronasal organ
+          is often absent from the nasal passages in humans. And if one is present, it likely only
+          exists as a vestigial organ. In the case of humans, social odors are detected by the main
+          olfactory system.</para>
+      </section>
     </section>
-    <section id="sect-00014"><title>The olfactory system and disease</title>
-    <para id="para-00038">You might not think that the inability to smell would impact your day-to-day life; however, you would be woefully wrong. Do you remember the jellybean experiment? This would become your reality for every meal. Food would lack depth and your favorite meal would become uninteresting. Earlier, we learned about several animal behaviors that strongly rely on olfaction: navigation, nutrient sensing, and mate selection. Without the ability to smell, an animal’s survival would be at risk. People with the inability to smell are also at a survival disadvantage. People with <term id="term-00022">anosmia</term>, the inability to smell, face a lifetime mortality rate four times higher than the average person (Pinto et al., 2014). These differences arise through difficulties in detecting hazardous circumstances like natural gas leaks, fires, chemical vapors, and decayed food. Unfortunately, for humans, there are several circumstances through which we may lose the ability to smell. These include normal aging, damage from a head injury, and disease. Below, we will discuss two causes of anosmia: neurodegenerative disease and Covid-19.</para>
-    <section id="sect-00015">
-    <title>Olfactory dysfunction in neurodegenerative disease</title>
-    <para id="para-00039">Reduced olfactory capabilities and the loss of olfactory acuity is a leading indicator of two well-known neurodegenerative diseases. <term id="term-00023">Alzheimer’s disease</term> is widely known for a profound deficit in both short and long-term memory, which has become a hallmark of the disease (see <link document="m00060">Learning and Memory</link>). In addition, disrupted olfactory sensation and anosmia are frequently reported by patients with Alzheimer’s disease before they begin to experience memory deficits. Because of this, olfactory dysfunction is a leading indicator of the disease and there is great interest in using olfactory capabilities as a disease biomarker. <term id="term-00024">Parkinson’s disease</term> is another neurodegenerative disorder that manifests with early olfactory deficits (see <link document="m00017">Motor Control</link>). In Parkinson’s disease, dopaminergic neurons die, leading to that disease’s hallmark motor deficits. The olfactory bulb also contains many dopaminergic neurons, as well as dopaminergic projections from other areas of the brain. Nearly all patients with Parkinson’s disease experience deficits in their sense of smell, which often occurs years before the onset of motor symptoms. These symptoms can be used as a warning sign and if treatment is started early enough, medication can delay the progression of the disease.</para>
+    <section id="sect-00014">
+      <title>The olfactory system and disease</title>
+      <para id="para-00038">You might not think that the inability to smell would impact your
+        day-to-day life; however, you would be woefully wrong. Do you remember the jellybean
+        experiment? This would become your reality for every meal. Food would lack depth and your
+        favorite meal would become uninteresting. Earlier, we learned about several animal behaviors
+        that strongly rely on olfaction: navigation, nutrient sensing, and mate selection. Without
+        the ability to smell, an animal’s survival would be at risk. People with the inability to
+        smell are also at a survival disadvantage. People with <term id="term-00022">anosmia</term>,
+        the inability to smell, face a lifetime mortality rate four times higher than the average
+        person (Pinto et al., 2014). These differences arise through difficulties in detecting
+        hazardous circumstances like natural gas leaks, fires, chemical vapors, and decayed food.
+        Unfortunately, for humans, there are several circumstances through which we may lose the
+        ability to smell. These include normal aging, damage from a head injury, and disease. Below,
+        we will discuss two causes of anosmia: neurodegenerative disease and Covid-19.</para>
+      <section id="sect-00015">
+        <title>Olfactory dysfunction in neurodegenerative disease</title>
+        <para id="para-00039">Reduced olfactory capabilities and the loss of olfactory acuity is a
+          leading indicator of two well-known neurodegenerative diseases. <term id="term-00023">Alzheimer’s
+          disease</term> is widely known for a profound deficit in both short and long-term memory,
+          which has become a hallmark of the disease (see <link document="m00060">Learning and
+          Memory</link>). In addition, disrupted olfactory sensation and anosmia are frequently
+          reported by patients with Alzheimer’s disease before they begin to experience memory
+          deficits. Because of this, olfactory dysfunction is a leading indicator of the disease and
+          there is great interest in using olfactory capabilities as a disease biomarker. <term
+            id="term-00024">Parkinson’s disease</term> is another neurodegenerative disorder that
+          manifests with early olfactory deficits (see <link document="m00017">Motor Control</link>).
+          In Parkinson’s disease, dopaminergic neurons die, leading to that disease’s hallmark motor
+          deficits. The olfactory bulb also contains many dopaminergic neurons, as well as
+          dopaminergic projections from other areas of the brain. Nearly all patients with
+          Parkinson’s disease experience deficits in their sense of smell, which often occurs years
+          before the onset of motor symptoms. These symptoms can be used as a warning sign and if
+          treatment is started early enough, medication can delay the progression of the disease.</para>
+      </section>
+      <section id="sect-00016">
+        <title>Covid-19</title>
+        <para id="para-00040">The coronavirus pandemic that started in 2019 has brought increased
+          attention to olfactory dysfunction. A symptom of many coronavirus infections has been
+          transient anosmia that generally resolves as the viral infection is cleared. However, for
+          some particularly unlucky people, a coronavirus infection has left them with persistent
+          anosmia or sensations of unpleasant odors from otherwise innocuous smells.</para>
+
+        <para id="para-00041">Covid-19 is primarily transmitted as respiratory droplets, which means
+          that as it is passed from person to person, it typically enters its next host through the
+          nasal passages. Earlier in this section, we learned that the olfactory epithelium is found
+          deep in the nasal cavities, and in addition to infecting and reproducing in respiratory
+          tissues, coronavirus also infects cells in the olfactory epithelium. The receptor protein <term
+            id="term-00025">ACE2</term> is densely expressed in the supporting cells of the
+          olfactory epithelium and is a target of Covid-19. When these supporting cells are
+          infected, they become inflamed or damaged. Inflammation of the epithelium then disrupts
+          the ability of nearby olfactory sensory neurons to transmit information about the odor
+          environment to the brain. However, because sensory neurons themselves do not appear to be
+          infected or destroyed by Covid-19, once the infection has passed, and inflammation of
+          supporting cells subsides, normal olfactory function typically resumes.</para>
+
+        <para id="para-00042">Unfortunately, for some people, the Covid-19 induced inflammation of
+          the olfactory epithelium becomes more than the tissue can handle and results in the death
+          not only of the supporting cells, but also of the olfactory sensory neurons through
+          indirect effects. We learned earlier that sensory neurons are constantly regenerating, and
+          this is also true after a coronavirus infection. However, we also learned that sensory
+          neurons must target their appropriate location in the brain for accurate odor recognition.
+          When all or many of the olfactory sensory neurons die at the same time, they are no longer
+          able to reliably find their correct location and glomeruli end up receiving mixed input
+          from many different types of sensory neurons. When this happens, a person will regain
+          their ability to smell, but it may not quite be the same. In this scenario, people often
+          report unpleasant smells that accompany objects that otherwise would not smell bad. This
+          is called <term id="term-00026">parosmia</term>. Some people will eventually recover from
+          parosmia, while for others it can persist for years.</para>
+      </section>
     </section>
-    <section id="sect-00016">
-    <title>Covid-19</title>
-    <para id="para-00040">The coronavirus pandemic that started in 2019 has brought increased attention to olfactory dysfunction. A symptom of many coronavirus infections has been transient anosmia that generally resolves as the viral infection is cleared. However, for some particularly unlucky people, a coronavirus infection has left them with persistent anosmia or sensations of unpleasant odors from otherwise innocuous smells.</para>
-
-    <para id="para-00041">Covid-19 is primarily transmitted as respiratory droplets, which means that as it is passed from person to person, it typically enters its next host through the nasal passages. Earlier in this section, we learned that the olfactory epithelium is found deep in the nasal cavities, and in addition to infecting and reproducing in respiratory tissues, coronavirus also infects cells in the olfactory epithelium. The receptor protein <term id="term-00025">ACE2</term> is densely expressed in the supporting cells of the olfactory epithelium and is a target of Covid-19. When these supporting cells are infected, they become inflamed or damaged. Inflammation of the epithelium then disrupts the ability of nearby olfactory sensory neurons to transmit information about the odor environment to the brain. However, because sensory neurons themselves do not appear to be infected or destroyed by Covid-19, once the infection has passed, and inflammation of supporting cells subsides, normal olfactory function typically resumes.</para>
-
-    <para id="para-00042">Unfortunately, for some people, the Covid-19 induced inflammation of the olfactory epithelium becomes more than the tissue can handle and results in the death not only of the supporting cells, but also of the olfactory sensory neurons through indirect effects. We learned earlier that sensory neurons are constantly regenerating, and this is also true after a coronavirus infection. However, we also learned that sensory neurons must target their appropriate location in the brain for accurate odor recognition. When all or many of the olfactory sensory neurons die at the same time, they are no longer able to reliably find their correct location and glomeruli end up receiving mixed input from many different types of sensory neurons. When this happens, a person will regain their ability to smell, but it may not quite be the same. In this scenario, people often report unpleasant smells that accompany objects that otherwise would not smell bad. This is called <term id="term-00026">parosmia</term>. Some people will eventually recover from parosmia, while for others it can persist for years.</para>
-    </section></section>
     <note class="boxed-feature" id="note-00003"><title>Insect olfaction and disease.</title>
-    <para id="para-00043">Neuroscience Across Speciess: Across the animal kingdom, different species have evolved unique strategies for sensing their chemical environment. Arthropods, including insects, lack sensory cells in their respiration pathways and instead have evolved olfactory sensors that are found along their body segments. In insects, olfactory sensors are found in specialized body segments attached to the head called antennae. Despite these differences, insects use the chemical senses for the same behaviors and functions as their vertebrate counterparts. Just as bees must find flowers to collect nectar, all insects seek to find nutrients, reproductive opportunities, and to avoid predation.</para>
+    <para
+        id="para-00043">Neuroscience Across Speciess: Across the animal kingdom, different species
+      have evolved unique strategies for sensing their chemical environment. Arthropods, including
+      insects, lack sensory cells in their respiration pathways and instead have evolved olfactory
+      sensors that are found along their body segments. In insects, olfactory sensors are found in
+      specialized body segments attached to the head called antennae. Despite these differences,
+      insects use the chemical senses for the same behaviors and functions as their vertebrate
+      counterparts. Just as bees must find flowers to collect nectar, all insects seek to find
+      nutrients, reproductive opportunities, and to avoid predation.</para>
 
-    <para id="para-00044">One of the most well-studied olfactory systems is the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>. You might be wondering, “why do scientists spend time thinking about a bug’s sense of smell.” It turns out there are some pretty good reasons. Insects like bees use olfaction to collect nectar from flowers, and at the same time spread pollen that helps to germinate fruit. Conversely, insects can also destroy food crops of all varieties through infestation. Developing aversive odorant-based repellents negates the need to use harmful pesticides to prevent these losses. Understanding insect olfaction is also an important public health consideration. Infectious diseases including malaria, dengue, and Zika are spread by a remarkably common insect, the mosquito. As you may well have experienced, female mosquitoes require a blood meal before they can reproduce, and humans are often their target</para></note>
+    <para id="para-00044">One
+      of the most well-studied olfactory systems is the fruit fly, <emphasis effect="italics">Drosophila
+      melanogaster</emphasis>. You might be wondering, “why do scientists spend time thinking about
+      a bug’s sense of smell.” It turns out there are some pretty good reasons. Insects like bees
+      use olfaction to collect nectar from flowers, and at the same time spread pollen that helps to
+      germinate fruit. Conversely, insects can also destroy food crops of all varieties through
+      infestation. Developing aversive odorant-based repellents negates the need to use harmful
+      pesticides to prevent these losses. Understanding insect olfaction is also an important public
+      health consideration. Infectious diseases including malaria, dengue, and Zika are spread by a
+      remarkably common insect, the mosquito. As you may well have experienced, female mosquitoes
+      require a blood meal before they can reproduce, and humans are often their target</para></note>
 
 
-    <section class="section-summary" id="sect-00017"><title>Summary</title>
-      <para id="para-00045">Like all sensory systems, the olfactory system is organized in a hierarchy. Chemicals are detected at the periphery and then processed in successive steps to extract relevant information for decision-making and behavioral output. Each of the cell types and neural areas described in this section play an important role in this process; however, as we learned, stimulus processing in the olfactory system is vulnerable to several diseases that can disrupt our sense of smell. While the olfactory system's cellular organization and processing capabilities in humans and other mammals are complex, we are not unique. Other animals like insects share the same capabilities and rely on their sense of smell for survival.</para></section>
-      <section class="key-terms" id="sect-00018"><title>Key Terms</title> <list display="inline" id="list-00002">
+    <section class="section-summary" id="sect-00017">
+      <title>Summary</title>
+      <para id="para-00045">Like all sensory systems, the olfactory system is organized in a
+        hierarchy. Chemicals are detected at the periphery and then processed in successive steps to
+        extract relevant information for decision-making and behavioral output. Each of the cell
+        types and neural areas described in this section play an important role in this process;
+        however, as we learned, stimulus processing in the olfactory system is vulnerable to several
+        diseases that can disrupt our sense of smell. While the olfactory system's cellular
+        organization and processing capabilities in humans and other mammals are complex, we are not
+        unique. Other animals like insects share the same capabilities and rely on their sense of
+        smell for survival.</para>
+    </section>
+    <section class="key-terms" id="sect-00018">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
         <item>olfactory epithelium</item>
         <item>odorants</item>
         <item>turbinates</item>
@@ -197,71 +588,152 @@
         <item>Alzheimer’s disease</item>
         <item>Parkinson’s disease</item>
         <item>ACE2</item>
-        <item>parosmia</item></list></section>
-      <section class="references" id="sect-00019"><title>References</title>
-        <para id="para-00046">Zhang, X., &amp; Firestein, S. (2002). The olfactory receptor gene superfamily of the mouse. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">5</emphasis>(2), 124–133. https://doi.org/10.1038/nn800</para>
-        <para id="para-00047">Malnic, B., Godfrey, P. A., &amp; Buck, L. B. (2004). The human olfactory receptor gene family. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">101</emphasis>(8), 2584–2589. https://doi.org/10.1073/pnas.0307882100</para>
-        <para id="para-00048">Ruebenbauer, A., Schlyter, F., Hansson, B. S., Löfstedt, C., &amp; Larsson, M. C. (2008). Genetic variability and robustness of host odor preference in Drosophila melanogaster. <emphasis effect="italics">Current Biology</emphasis>: CB, <emphasis effect="italics">18</emphasis>(18), 1438–1443. https://doi.org/10.1016/j.cub.2008.08.062</para>
-        <para id="para-00049">Ronderos, D. S., Lin, C. C., Potter, C. J., &amp; Smith, D. P. (2014). Farnesol-detecting olfactory neurons in Drosophila. <emphasis effect="italics">The Journal of Neuroscience</emphasis>: The Official Journal of the Society for Neuroscience, <emphasis effect="italics">34</emphasis>(11), 3959–3968. https://doi.org/10.1523/JNEUROSCI.4582-13.2014</para>
-        <para id="para-00050">Stensmyr, M. C., Dweck, H. K., Farhan, A., Ibba, I., Strutz, A., Mukunda, L., Linz, J., Grabe, V., Steck, K., Lavista-Llanos, S., Wicher, D., Sachse, S., Knaden, M., Becher, P. G., Seki, Y., &amp; Hansson, B. S. (2012). A conserved dedicated olfactory circuit for detecting harmful microbes in Drosophila. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">151</emphasis>(6), 1345–1357. https://doi.org/10.1016/j.cell.2012.09.046</para>
-        <para id="para-00051">Mansourian, S., &amp; Stensmyr, M. C. (2015). The chemical ecology of the fly. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis effect="italics">34</emphasis>, 95–102. https://doi.org/10.1016/j.conb.2015.02.006</para>
-        <para id="para-00052">Grosjean, Y., Rytz, R., Farine, J. P., Abuin, L., Cortot, J., Jefferis, G. S., &amp; Benton, R. (2011). An olfactory receptor for food-derived odours promotes male courtship in Drosophila. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">478</emphasis>(7368), 236–240. https://doi.org/10.1038/nature10428</para>
-        <para id="para-00053">Wicher, D., &amp; Miazzi, F. (2021). Functional properties of insect olfactory receptors: Ionotropic receptors and odorant receptors. <emphasis effect="italics">Cell and Tissue Research</emphasis>, <emphasis effect="italics">383</emphasis>(1), 7–19. https://doi.org/10.1007/s00441-020-03363-x</para>
-        <para id="para-00054">Kadohisa, M., &amp; Wilson, D. A. (2006). Olfactory cortical adaptation facilitates detection of odors against background. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">95</emphasis>(3), 1888–1896. https://doi.org/10.1152/jn.00812.2005</para>
-        <para id="para-00055">Wedekind, C., Seebeck, T., Bettens, F., &amp; Paepke, A. J. (1995). MHC-dependent mate preferences in humans. <emphasis effect="italics">Proceedings. Biological Sciences</emphasis>, <emphasis effect="italics">260</emphasis>(1359), 245–249. https://doi.org/10.1098/rspb.1995.0087</para>
-        <para id="para-00056">Soucy, E. R., Albeanu, D. F., Fantana, A. L., Murthy, V. N., &amp; Meister, M. (2009). Precision and diversity in an odor map on the olfactory bulb. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">12</emphasis>(2), 210–220. https://doi.org/10.1038/nn.2262</para>
-        <para id="para-00057">Wikelski, M., Quetting, M., Cheng, Y., Fiedler, W., Flack, A., Gagliardo, A., Salas, R., Zannoni, N., &amp; Williams, J. (2021). Smell of green leaf volatiles attracts white storks to freshly cut meadows. <emphasis effect="italics">Scientific Reports</emphasis>, <emphasis effect="italics">11</emphasis>(1), 12912. https://doi.org/10.1038/s41598-021-92073-7</para>
-        <para id="para-00058">Driver, R. J., &amp; Balakrishnan, C. N. (2021). Highly contiguous genomes improve the understanding of avian olfactory receptor repertoires. <emphasis effect="italics">Integrative and Comparative Biology</emphasis>, <emphasis effect="italics">61</emphasis>(4), 1281–1290. https://doi.org/10.1093/icb/icab150</para>
-        <para id="para-00059">Buck, L., &amp; Axel, R. (1991). A novel multigene family may encode odorant receptors: A molecular basis for odor recognition. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">65</emphasis>(1), 175–187. https://doi.org/10.1016/0092-8674(91)90418-x</para>
-        <para id="para-00060">Liu, A., Savya, S., &amp; Urban, N. N. (2016). Early odorant exposure increases the number of mitral and tufted cells associated with a single glomerulus. <emphasis effect="italics">The Journal of Neuroscience</emphasis>: The Official Journal of the Society for Neuroscience, <emphasis effect="italics">36</emphasis>(46), 11646–11653. https://doi.org/10.1523/JNEUROSCI.0654-16.2016</para>
-       </section>
+        <item>parosmia</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00019">
+      <title>References</title>
+      <para id="para-00046">Zhang, X., &amp; Firestein, S. (2002). The olfactory receptor gene
+        superfamily of the mouse. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis
+          effect="italics">5</emphasis>(2), 124–133. https://doi.org/10.1038/nn800</para>
+      <para id="para-00047">Malnic, B., Godfrey, P. A., &amp; Buck, L. B. (2004). The human
+        olfactory receptor gene family. <emphasis effect="italics">Proceedings of the National
+        Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">
+        101</emphasis>(8), 2584–2589. https://doi.org/10.1073/pnas.0307882100</para>
+      <para id="para-00048">Ruebenbauer, A., Schlyter, F., Hansson, B. S., Löfstedt, C., &amp;
+        Larsson, M. C. (2008). Genetic variability and robustness of host odor preference in
+        Drosophila melanogaster. <emphasis effect="italics">Current Biology</emphasis>: CB, <emphasis
+          effect="italics">18</emphasis>(18), 1438–1443. https://doi.org/10.1016/j.cub.2008.08.062</para>
+      <para id="para-00049">Ronderos, D. S., Lin, C. C., Potter, C. J., &amp; Smith, D. P. (2014).
+        Farnesol-detecting olfactory neurons in Drosophila. <emphasis effect="italics">The Journal
+        of Neuroscience</emphasis>: The Official Journal of the Society for Neuroscience, <emphasis
+          effect="italics">34</emphasis>(11), 3959–3968.
+        https://doi.org/10.1523/JNEUROSCI.4582-13.2014</para>
+      <para id="para-00050">Stensmyr, M. C., Dweck, H. K., Farhan, A., Ibba, I., Strutz, A.,
+        Mukunda, L., Linz, J., Grabe, V., Steck, K., Lavista-Llanos, S., Wicher, D., Sachse, S.,
+        Knaden, M., Becher, P. G., Seki, Y., &amp; Hansson, B. S. (2012). A conserved dedicated
+        olfactory circuit for detecting harmful microbes in Drosophila. <emphasis effect="italics">
+        Cell</emphasis>, <emphasis effect="italics">151</emphasis>(6), 1345–1357.
+        https://doi.org/10.1016/j.cell.2012.09.046</para>
+      <para id="para-00051">Mansourian, S., &amp; Stensmyr, M. C. (2015). The chemical ecology of
+        the fly. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis
+          effect="italics">34</emphasis>, 95–102. https://doi.org/10.1016/j.conb.2015.02.006</para>
+      <para id="para-00052">Grosjean, Y., Rytz, R., Farine, J. P., Abuin, L., Cortot, J., Jefferis,
+        G. S., &amp; Benton, R. (2011). An olfactory receptor for food-derived odours promotes male
+        courtship in Drosophila. <emphasis effect="italics">Nature</emphasis>, <emphasis
+          effect="italics">478</emphasis>(7368), 236–240. https://doi.org/10.1038/nature10428</para>
+      <para id="para-00053">Wicher, D., &amp; Miazzi, F. (2021). Functional properties of insect
+        olfactory receptors: Ionotropic receptors and odorant receptors. <emphasis effect="italics">Cell
+        and Tissue Research</emphasis>, <emphasis effect="italics">383</emphasis>(1), 7–19.
+        https://doi.org/10.1007/s00441-020-03363-x</para>
+      <para id="para-00054">Kadohisa, M., &amp; Wilson, D. A. (2006). Olfactory cortical adaptation
+        facilitates detection of odors against background. <emphasis effect="italics">Journal of
+        Neurophysiology</emphasis>, <emphasis effect="italics">95</emphasis>(3), 1888–1896.
+        https://doi.org/10.1152/jn.00812.2005</para>
+      <para id="para-00055">Wedekind, C., Seebeck, T., Bettens, F., &amp; Paepke, A. J. (1995).
+        MHC-dependent mate preferences in humans. <emphasis effect="italics">Proceedings. Biological
+        Sciences</emphasis>, <emphasis effect="italics">260</emphasis>(1359), 245–249.
+        https://doi.org/10.1098/rspb.1995.0087</para>
+      <para id="para-00056">Soucy, E. R., Albeanu, D. F., Fantana, A. L., Murthy, V. N., &amp;
+        Meister, M. (2009). Precision and diversity in an odor map on the olfactory bulb. <emphasis
+          effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">12</emphasis>(2),
+        210–220. https://doi.org/10.1038/nn.2262</para>
+      <para id="para-00057">Wikelski, M., Quetting, M., Cheng, Y., Fiedler, W., Flack, A.,
+        Gagliardo, A., Salas, R., Zannoni, N., &amp; Williams, J. (2021). Smell of green leaf
+        volatiles attracts white storks to freshly cut meadows. <emphasis effect="italics">Scientific
+        Reports</emphasis>, <emphasis effect="italics">11</emphasis>(1), 12912.
+        https://doi.org/10.1038/s41598-021-92073-7</para>
+      <para id="para-00058">Driver, R. J., &amp; Balakrishnan, C. N. (2021). Highly contiguous
+        genomes improve the understanding of avian olfactory receptor repertoires. <emphasis
+          effect="italics">Integrative and Comparative Biology</emphasis>, <emphasis
+          effect="italics">61</emphasis>(4), 1281–1290. https://doi.org/10.1093/icb/icab150</para>
+      <para id="para-00059">Buck, L., &amp; Axel, R. (1991). A novel multigene family may encode
+        odorant receptors: A molecular basis for odor recognition. <emphasis effect="italics">Cell</emphasis>
+        , <emphasis effect="italics">65</emphasis>(1), 175–187.
+        https://doi.org/10.1016/0092-8674(91)90418-x</para>
+      <para id="para-00060">Liu, A., Savya, S., &amp; Urban, N. N. (2016). Early odorant exposure
+        increases the number of mitral and tufted cells associated with a single glomerulus. <emphasis
+          effect="italics">The Journal of Neuroscience</emphasis>: The Official Journal of the
+        Society for Neuroscience, <emphasis effect="italics">36</emphasis>(46), 11646–11653.
+        https://doi.org/10.1523/JNEUROSCI.0654-16.2016</para>
+    </section>
 
-      <section class="multiple-choice" id="sect-00020"><title>Multiple Choice</title>
-        <exercise id="exer-00001">
-          <problem id="prob-00001">
-      <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-08-03-001"/></para></problem></exercise>
+    <section class="multiple-choice" id="sect-00020">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-08-03-001" /></para>
+        </problem>
+      </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-    <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-08-03-002"/></para></problem></exercise>
-    <exercise id="exer-00003">
-      <problem id="prob-00003">
-  <para id="para-00063"><link class="os-embed" url="#exercise/Neuro-08-03-003"/></para></problem></exercise>
-  <exercise id="exer-00004">
-    <problem id="prob-00004">
-<para id="para-00064"><link class="os-embed" url="#exercise/Neuro-08-03-004"/></para></problem></exercise>
-<exercise id="exer-00005">
-  <problem id="prob-00005">
-<para id="para-00065"><link class="os-embed" url="#exercise/Neuro-08-03-005"/></para></problem></exercise>
-<exercise id="exer-00006">
-  <problem id="prob-00006">
-<para id="para-00066"><link class="os-embed" url="#exercise/Neuro-08-03-006"/></para></problem></exercise>
-<exercise id="exer-00007">
-  <problem id="prob-00007">
-<para id="para-00067"><link class="os-embed" url="#exercise/Neuro-08-03-007"/></para></problem></exercise>
-<exercise id="exer-00008">
-  <problem id="prob-00008">
-<para id="para-00068"><link class="os-embed" url="#exercise/Neuro-08-03-008"/></para></problem></exercise>
-<exercise id="exer-00009">
-  <problem id="prob-00009">
-<para id="para-00069"><link class="os-embed" url="#exercise/Neuro-08-03-009"/></para></problem></exercise>
-<exercise id="exer-00010">
-  <problem id="prob-00010">
-<para id="para-00070"><link class="os-embed" url="#exercise/Neuro-08-03-010"/></para></problem></exercise>
-<exercise id="exer-00011">
-  <problem id="prob-00011">
-<para id="para-00071"><link class="os-embed" url="#exercise/Neuro-08-03-011"/></para></problem></exercise>
-<exercise id="exer-00012">
-  <problem id="prob-00012">
-<para id="para-00072"><link class="os-embed" url="#exercise/Neuro-08-03-012"/></para></problem></exercise>
-      </section>
-      <section class="fillin-blank" id="sect-00021"><title>Fill in the Blank</title>
+          <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-08-03-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00063"><link class="os-embed" url="#exercise/Neuro-08-03-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00064"><link class="os-embed" url="#exercise/Neuro-08-03-004" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00065"><link class="os-embed" url="#exercise/Neuro-08-03-005" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00066"><link class="os-embed" url="#exercise/Neuro-08-03-006" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-08-03-007" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-08-03-008" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+          <para id="para-00069"><link class="os-embed" url="#exercise/Neuro-08-03-009" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+          <para id="para-00070"><link class="os-embed" url="#exercise/Neuro-08-03-010" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00011">
+        <problem id="prob-00011">
+          <para id="para-00071"><link class="os-embed" url="#exercise/Neuro-08-03-011" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00012">
+        <problem id="prob-00012">
+          <para id="para-00072"><link class="os-embed" url="#exercise/Neuro-08-03-012" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00021">
+      <title>Fill in the Blank</title>
 
-        <exercise id="exer-00013">
-          <problem id="prob-00013">
-      <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-08-03-013"/></para></problem></exercise>
+      <exercise id="exer-00013">
+        <problem id="prob-00013">
+          <para id="para-00073"><link class="os-embed" url="#exercise/Neuro-08-03-013" /></para>
+        </problem>
+      </exercise>
       <exercise id="exer-00014">
         <problem id="prob-00014">
-    <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-08-03-014"/></para></problem></exercise>
-      </section>
+          <para id="para-00074"><link class="os-embed" url="#exercise/Neuro-08-03-014" /></para>
+        </problem>
+      </exercise>
+    </section>
   </content>
 </document>
