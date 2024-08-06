@@ -99,7 +99,8 @@
           (heterozygous). When you have a large number of individuals taste PROP or PTC and describe
           their experience, you will find there is a group of <term id="term-00004">non-tasters</term>
           who do not perceive the chemical, a group of tasters who find the chemicals moderately
-          bitter, and a group of people who find the chemical intensely bitter who are called <term id="term-00005">supertasters</term>. Supertasters are often homozygous for the more
+          bitter, and a group of people who find the chemical intensely bitter who are called <term
+            id="term-00005">supertasters</term>. Supertasters are often homozygous for the more
           sensitive version of TAS2R38, while non-tasters are often homozygous for the less
           sensitive version of TAS2R38. However, recent research indicates that there are other
           genetic traits that can also influence supertaster status.</para>
@@ -132,7 +133,8 @@
         <para id="para-00014">Interestingly, not everyone who has eaten asparagus has this problem.
           You may have eaten asparagus plenty of times and never noticed anything amiss in the
           bathroom. It’s not that your kidneys are not properly removing sulfur from your body, but
-          rather, that your nose cannot detect it! A SNP in the olfactory receptor gene (<emphasis effect="italics">OR2M7</emphasis>) that binds to sulfur-containing chemicals results in
+          rather, that your nose cannot detect it! A SNP in the olfactory receptor gene (<emphasis
+            effect="italics">OR2M7</emphasis>) that binds to sulfur-containing chemicals results in
           some individuals never perceiving the smell. Not all people who cannot smell asparagus
           metabolites have an SNP in the same location in the sequence—there are several hundred
           distinct mutations known. However, for each of them, following translation, the nucleotide
@@ -166,18 +168,54 @@
     </section>
     <section class="references" id="sect-00007">
       <title>References</title>
-      <para id="para-00016">Araneda, R. C., &amp; Firestein, S. (2004). The scents of androstenone in humans. <emphasis effect="italics">The Journal of Physiology</emphasis>, <emphasis effect="italics">554</emphasis>(Pt 1), 1. https://doi.org/10.1113/jphysiol.2003.057075</para>
-      <para id="para-00017">Clydesdale, F. M. (1993). Color as a factor in food choice. <emphasis effect="italics">Critical Reviews in Food Science and Nutrition</emphasis>, <emphasis effect="italics">33</emphasis>(1), 83–101. https://doi.org/10.1080/10408399309527614</para>
-      <para id="para-00018">Clydesdale, F. M. (1994). Changes in color and flavor and their effect on sensory perception in the elderly. <emphasis effect="italics">Nutrition Reviews</emphasis>, <emphasis effect="italics">52</emphasis>(8 Pt 2), S19–S20. https://doi.org/10.1111/j.1753-4887.1994.tb01441.x</para>
-      <para id="para-00019">Dacremont, C., Colas, B., &amp; Sauvageot, F. (1991). Contribution of air- and bone-conduction to the creation of sounds perceived during sensory evaluation of foods. <emphasis effect="italics">Journal of Texture Studies</emphasis>, <emphasis effect="italics">22</emphasis>(4), 443–456. https://doi.org/10.1111/j.1745-4603.1991.tb00503.x</para>
-      <para id="para-00020">Douglas, J. E., Saunders, C. J., Reed, D. R., &amp; Cohen, N. A. (2016). A role for airway taste receptor modulation in the treatment of upper respiratory infections. <emphasis effect="italics">Expert Review of Respiratory Medicine</emphasis>, <emphasis effect="italics">10</emphasis>(2), 157–170. https://doi.org/10.1586/17476348.2016.1135742</para>
-      <para id="para-00021">Koza, B. J., Cilmi, A., Dolese, M., &amp; Zellner, D. A. (2005). Color enhances orthonasal olfactory intensity and reduces retronasal olfactory intensity. <emphasis effect="italics">Chemical Senses</emphasis>, <emphasis effect="italics">30</emphasis>(8), 643–649. https://doi.org/10.1093/chemse/bji057</para>
-      <para id="para-00022">Pelchat, M. L., Bykowski, C., Duke, F. F., &amp; Reed, D. R. (2011). Excretion and perception of a characteristic odor in urine after asparagus ingestion: a psychophysical and genetic study. <emphasis effect="italics">Chemical Senses</emphasis>, <emphasis effect="italics">36</emphasis>(1), 9–17. https://doi.org/10.1093/chemse/bjq081</para>
-      <para id="para-00023">Roudaut, G., Dacremont, C., Vallès Pàmies, B., Colas, B., &amp; Le Meste, M. (2002). Crispness: A critical review on sensory and material science approaches. <emphasis effect="italics">Trends in Food Science &amp;amp; Technology</emphasis>, <emphasis effect="italics">13</emphasis>(6-7), 217–227. https://doi.org/10.1016/s0924-2244(02)00139-5</para>
-      <para id="para-00024">Selway, N., &amp; Stokes, J. R. (2014). Soft materials deformation, flow, and lubrication between compliant substrates: impact on flow behavior, mouthfeel, stability, and flavor. <emphasis effect="italics">Annual Review of Food Science and Technology</emphasis>, <emphasis effect="italics">5</emphasis>, 373–393. https://doi.org/10.1146/annurev-food-030212-182657</para>
-      <para id="para-00025">Simons, C. T., Klein, A. H., &amp; Carstens, E. (2019). Chemogenic subqualities of mouthfeel. <emphasis effect="italics">Chemical Senses</emphasis>, <emphasis effect="italics">44</emphasis>(5), 281–288. https://doi.org/10.1093/chemse/bjz016</para>
-      <para id="para-00026">Spence, C. (2021). What's the story with blue steak? On the unexpected popularity of blue foods. <emphasis effect="italics">Frontiers in Psychology</emphasis>, <emphasis effect="italics">12</emphasis>, 638703. https://doi.org/10.3389/fpsyg.2021.638703</para>
-      <para id="para-00027">Tran, H. T. T., Stetter, R., Herz, C., Spöttel, J., Krell, M., Hanschen, F. S., Schreiner, M., Rohn, S., Behrens, M., &amp; Lamy, E. (2021). Allyl isothiocyanate: A TAS2R38 receptor-dependent immune modulator at the interface between personalized medicine and nutrition. <emphasis effect="italics">Frontiers in Immunology</emphasis>, <emphasis effect="italics">12</emphasis>, 669005. https://doi.org/10.3389/fimmu.2021.669005</para>
+      <para id="para-00016">Araneda, R. C., &amp; Firestein, S. (2004). The scents of androstenone
+        in humans. <emphasis effect="italics">The Journal of Physiology</emphasis>, <emphasis
+          effect="italics">554</emphasis>(Pt 1), 1. https://doi.org/10.1113/jphysiol.2003.057075</para>
+      <para id="para-00017">Clydesdale, F. M. (1993). Color as a factor in food choice. <emphasis
+          effect="italics">Critical Reviews in Food Science and Nutrition</emphasis>, <emphasis
+          effect="italics">33</emphasis>(1), 83–101. https://doi.org/10.1080/10408399309527614</para>
+      <para id="para-00018">Clydesdale, F. M. (1994). Changes in color and flavor and their effect
+        on sensory perception in the elderly. <emphasis effect="italics">Nutrition Reviews</emphasis>
+        , <emphasis effect="italics">52</emphasis>(8 Pt 2), S19–S20.
+        https://doi.org/10.1111/j.1753-4887.1994.tb01441.x</para>
+      <para id="para-00019">Dacremont, C., Colas, B., &amp; Sauvageot, F. (1991). Contribution of
+        air- and bone-conduction to the creation of sounds perceived during sensory evaluation of
+        foods. <emphasis effect="italics">Journal of Texture Studies</emphasis>, <emphasis
+          effect="italics">22</emphasis>(4), 443–456.
+        https://doi.org/10.1111/j.1745-4603.1991.tb00503.x</para>
+      <para id="para-00020">Douglas, J. E., Saunders, C. J., Reed, D. R., &amp; Cohen, N. A. (2016).
+        A role for airway taste receptor modulation in the treatment of upper respiratory
+        infections. <emphasis effect="italics">Expert Review of Respiratory Medicine</emphasis>, <emphasis
+          effect="italics">10</emphasis>(2), 157–170. https://doi.org/10.1586/17476348.2016.1135742</para>
+      <para id="para-00021">Koza, B. J., Cilmi, A., Dolese, M., &amp; Zellner, D. A. (2005). Color
+        enhances orthonasal olfactory intensity and reduces retronasal olfactory intensity. <emphasis
+          effect="italics">Chemical Senses</emphasis>, <emphasis effect="italics">30</emphasis>(8),
+        643–649. https://doi.org/10.1093/chemse/bji057</para>
+      <para id="para-00022">Pelchat, M. L., Bykowski, C., Duke, F. F., &amp; Reed, D. R. (2011).
+        Excretion and perception of a characteristic odor in urine after asparagus ingestion: a
+        psychophysical and genetic study. <emphasis effect="italics">Chemical Senses</emphasis>, <emphasis
+          effect="italics">36</emphasis>(1), 9–17. https://doi.org/10.1093/chemse/bjq081</para>
+      <para id="para-00023">Roudaut, G., Dacremont, C., Vallès Pàmies, B., Colas, B., &amp; Le
+        Meste, M. (2002). Crispness: A critical review on sensory and material science approaches. <emphasis
+          effect="italics">Trends in Food Science &amp;amp; Technology</emphasis>, <emphasis
+          effect="italics">13</emphasis>(6-7), 217–227.
+        https://doi.org/10.1016/s0924-2244(02)00139-5</para>
+      <para id="para-00024">Selway, N., &amp; Stokes, J. R. (2014). Soft materials deformation,
+        flow, and lubrication between compliant substrates: impact on flow behavior, mouthfeel,
+        stability, and flavor. <emphasis effect="italics">Annual Review of Food Science and
+        Technology</emphasis>, <emphasis effect="italics">5</emphasis>, 373–393.
+        https://doi.org/10.1146/annurev-food-030212-182657</para>
+      <para id="para-00025">Simons, C. T., Klein, A. H., &amp; Carstens, E. (2019). Chemogenic
+        subqualities of mouthfeel. <emphasis effect="italics">Chemical Senses</emphasis>, <emphasis
+          effect="italics">44</emphasis>(5), 281–288. https://doi.org/10.1093/chemse/bjz016</para>
+      <para id="para-00026">Spence, C. (2021). What's the story with blue steak? On the unexpected
+        popularity of blue foods. <emphasis effect="italics">Frontiers in Psychology</emphasis>, <emphasis
+          effect="italics">12</emphasis>, 638703. https://doi.org/10.3389/fpsyg.2021.638703</para>
+      <para id="para-00027">Tran, H. T. T., Stetter, R., Herz, C., Spöttel, J., Krell, M., Hanschen,
+        F. S., Schreiner, M., Rohn, S., Behrens, M., &amp; Lamy, E. (2021). Allyl isothiocyanate: A
+        TAS2R38 receptor-dependent immune modulator at the interface between personalized medicine
+        and nutrition. <emphasis effect="italics">Frontiers in Immunology</emphasis>, <emphasis
+          effect="italics">12</emphasis>, 669005. https://doi.org/10.3389/fimmu.2021.669005</para>
     </section>
   </content>
 </document>
