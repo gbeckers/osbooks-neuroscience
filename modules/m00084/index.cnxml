@@ -11,295 +11,792 @@
       <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
         <item>Describe the factors that influence interindividual variability in the stress response</item>
-        <item>Explain the concept of resilience and describe some of the beneficial effects of stress</item>
+        <item>Explain the concept of resilience and describe some of the beneficial effects of
+          stress</item>
         <item>Describe some useful strategies to optimize the stress response</item>
       </list>
     </section>
-    <para id="para-00002">Not surprisingly, individuals vary greatly in their response to stress due to factors like genetics, epigenetics, biological sex, developmental and later life history, and even preconceptional and transgenerational influences. Additionally, factors like how a stressor is perceived, whether it’s predictable or controllable and the social milieu can dramatically alter an individual’s response. The good news is that not all stress is bad—moderate stressors have beneficial effects. In addition, multiple interventions including physical exercise, breathing exercises, meditation, and mindfulness-based stress reduction are proven techniques that can help not just mitigate but optimize one’s response to stress.</para>
+    <para id="para-00002">Not surprisingly, individuals vary greatly in their response to stress due
+      to factors like genetics, epigenetics, biological sex, developmental and later life history,
+      and even preconceptional and transgenerational influences. Additionally, factors like how a
+      stressor is perceived, whether it’s predictable or controllable and the social milieu can
+      dramatically alter an individual’s response. The good news is that not all stress is
+      bad—moderate stressors have beneficial effects. In addition, multiple interventions including
+      physical exercise, breathing exercises, meditation, and mindfulness-based stress reduction are
+      proven techniques that can help not just mitigate but optimize one’s response to stress.</para>
 
     <section id="sect-00002">
       <title>Factors that influence interindividual variability in response to stress</title>
-      <para id="para-00003">So far, we have described the generic response that is activated by stress—a response that is similar between many different manifestations of stress (physical, social or psychological) and evolutionarily conserved across taxa. This response involves the stereotypical neural and endocrine axis activation, but it can vary greatly between individuals. Biological, life history and psychological factors all contribute to this <term id="term-00001">interindividual variability</term>. For example, an individual’s genetic and <term id="term-00002">epigenetic</term> makeup, biological sex, and stress exposure during <term id="term-00003">critical periods</term> (e.g., <emphasis effect="italics">in utero</emphasis>, neonatal and early life, adolescence, and exposure during aging later in life) all impact their response to stress. Recent evidence suggests that preconceptional and transgenerational mechanisms are also involved in setting up or shaping this interindividual variability. Finally, factors like an individual’s physiological and emotional state (are they hungry, tired), psychological differences in how a person perceives/appraises a stressor, whether the stressor is deemed as predictable or controllable, the availability of social resources, and specific characteristics of the encountered stressor can all lead to a more heterogeneous and fine-tuned response.</para>
+      <para id="para-00003">So far, we have described the generic response that is activated by
+        stress—a response that is similar between many different manifestations of stress (physical,
+        social or psychological) and evolutionarily conserved across taxa. This response involves
+        the stereotypical neural and endocrine axis activation, but it can vary greatly between
+        individuals. Biological, life history and psychological factors all contribute to this <term id="term-00001">interindividual variability</term>. For example, an individual’s genetic
+        and <term id="term-00002">epigenetic</term> makeup, biological sex, and stress exposure
+        during <term id="term-00003">critical periods</term> (e.g., <emphasis effect="italics">in
+        utero</emphasis>, neonatal and early life, adolescence, and exposure during aging later in
+        life) all impact their response to stress. Recent evidence suggests that preconceptional and
+        transgenerational mechanisms are also involved in setting up or shaping this interindividual
+        variability. Finally, factors like an individual’s physiological and emotional state (are
+        they hungry, tired), psychological differences in how a person perceives/appraises a
+        stressor, whether the stressor is deemed as predictable or controllable, the availability of
+        social resources, and specific characteristics of the encountered stressor can all lead to a
+        more heterogeneous and fine-tuned response.</para>
 
       <section id="sect-00003">
         <title>Genetic factors</title>
-        <para id="para-00004">Genetic factors that influence the stress response include polymorphisms in genes involved in glucocorticoid signaling and HPA axis regulation, monoamine neurotransmitter function, and regulation of brain plasticity. For example, the gene encoding FK506-binding protein 51 (FKBP5/FKBP51) is an important modulator of stress responses. FKBP5 acts as a co-chaperone for the glucocorticoid receptor. Specific alleles of the FKBP5 gene (e.g. T allele) are associated with blunted GR-dependent feedback inhibition of the HPA axis, resulting in dysregulated axis function (e.g. prolonged cortisol responses). In other words, people with certain genetic forms of the FKBP5 protein will take longer to turn off the HPA axis (and get their circulating cortisol levels back to normal) after a stressor because of impaired GR function compared to people with more typical forms of FKBP5.</para>
-        <para id="para-00005">These mutations in FKBP5 (and the chronically impaired shutdown of stress responses) have clinically relevant effects on behavior. For example, the T allele is associated with increased anxiety, attentional bias towards threat, hippocampal activation after fear/threat induction, and changes in amygdala volume which can predispose to development of stress-related pathology. In fact, alleles associated with greater FKBP5 induction and longer cortisol responses are associated with higher risk for Major Depressive Disorder, Posttraumatic Stress Disorder, suicidality, psychosis, aggression and violent behavior (for review see Zannas et al., 2016).</para>
+        <para id="para-00004">Genetic factors that influence the stress response include
+          polymorphisms in genes involved in glucocorticoid signaling and HPA axis regulation,
+          monoamine neurotransmitter function, and regulation of brain plasticity. For example, the
+          gene encoding FK506-binding protein 51 (FKBP5/FKBP51) is an important modulator of stress
+          responses. FKBP5 acts as a co-chaperone for the glucocorticoid receptor. Specific alleles
+          of the FKBP5 gene (e.g. T allele) are associated with blunted GR-dependent feedback
+          inhibition of the HPA axis, resulting in dysregulated axis function (e.g. prolonged
+          cortisol responses). In other words, people with certain genetic forms of the FKBP5
+          protein will take longer to turn off the HPA axis (and get their circulating cortisol
+          levels back to normal) after a stressor because of impaired GR function compared to people
+          with more typical forms of FKBP5.</para>
+        <para id="para-00005">These mutations in FKBP5 (and the chronically impaired shutdown of
+          stress responses) have clinically relevant effects on behavior. For example, the T allele
+          is associated with increased anxiety, attentional bias towards threat, hippocampal
+          activation after fear/threat induction, and changes in amygdala volume which can
+          predispose to development of stress-related pathology. In fact, alleles associated with
+          greater FKBP5 induction and longer cortisol responses are associated with higher risk for
+          Major Depressive Disorder, Posttraumatic Stress Disorder, suicidality, psychosis,
+          aggression and violent behavior (for review see Zannas et al., 2016).</para>
       </section>
       <section id="sect-00004">
         <title>Developmental Perspective: Critical periods for stress exposure</title>
-        <para id="para-00006">Just like there are critical periods for learning and development, there are critical periods for stress exposure (see <link document="m00086">Neurodevelopment</link>). During periods of our development, the brain is especially plastic, allowing for changes that can translate to risk or resilience in the face of stress later in life. During these periods, factors in the environment combine with those of our genetics to influence neurodevelopment. These effects can persist into adulthood, influence the trajectory of our lives, and manifest as vulnerabilities to mental health.</para>
-        <figure id="Image-12.04"><title>Stress-critical periods</title>
+        <para id="para-00006">Just like there are critical periods for learning and development,
+          there are critical periods for stress exposure (see <link document="m00086">
+          Neurodevelopment</link>). During periods of our development, the brain is especially
+          plastic, allowing for changes that can translate to risk or resilience in the face of
+          stress later in life. During these periods, factors in the environment combine with those
+          of our genetics to influence neurodevelopment. These effects can persist into adulthood,
+          influence the trajectory of our lives, and manifest as vulnerabilities to mental health.</para>
+        <figure id="Image-12.04">
+          <title>Stress-critical periods</title>
           <media alt="Illustrations of human silhouettes meant to represent different life phases: transgenerational/preconception, pregnancy/in utero, perinatal, early life, adolescence, adulthood, aging.">
             <image mime-type="image/png" src="../../media/Image-12.04_Stress–critical-periods.png"/>
           </media>
         </figure>
         <section id="sect-00005">
           <title><emphasis effect="italics">In utero</emphasis></title>
-          <para id="para-00007">Before birth, our neurodevelopment is already being influenced by the world around us. Many studies of prenatal stress come from retrospective studies where a mother has experienced a disaster, for example war, malnutrition, hardship in personal relationships, or tensions in their everyday environment. Many of these retrospective studies have focused on historical events, for example, a year of extreme food shortage in the Netherlands during World War II, known as the Dutch famine, or more recently the events in New York City on September 11, 2001, also known as the 9/11 attacks, which affected women at different stages of pregnancy. </para>
-          <para id="para-00008">As we know, stress exposure elicits an HPA axis and neural response. Although the placenta acts as a selective barrier, some stress hormones produced by the mother can cross through the placenta and reach the fetus, triggering release of additional stress hormones (Weinstock, 2005). Evidence suggests that maternal stress exposure is associated with shorter gestational age, increase in preterm births, low birthweight, and small size for gestational age (Class et al., 2011). This exposure to maternal stress and high cortisol levels can also lead to deficits in mental development scores and cognitive ability once a fetus matures into childhood (Brouwers et al., 2001; Bergman et al., 2010). It is also associated with autistic traits and ADHD behaviors (Ronald et al., 2011), emotional problems (O'Connor et al., 2002), and higher cortisol response to a stressor (Davis et al., 2011). Animal models show that maternal stress alters HPA axis function, cortisol, and CRH levels throughout the lifetime of the offspring (Weinstock, 2008). Thus, the effects of maternal stress hormones can alter neurodevelopment in the fetus and contribute to adverse consequences throughout life.</para>
+          <para id="para-00007">Before birth, our neurodevelopment is already being influenced by
+            the world around us. Many studies of prenatal stress come from retrospective studies
+            where a mother has experienced a disaster, for example war, malnutrition, hardship in
+            personal relationships, or tensions in their everyday environment. Many of these
+            retrospective studies have focused on historical events, for example, a year of extreme
+            food shortage in the Netherlands during World War II, known as the Dutch famine, or more
+            recently the events in New York City on September 11, 2001, also known as the 9/11
+            attacks, which affected women at different stages of pregnancy. </para>
+          <para id="para-00008">As we know, stress exposure elicits an HPA axis and neural response.
+            Although the placenta acts as a selective barrier, some stress hormones produced by the
+            mother can cross through the placenta and reach the fetus, triggering release of
+            additional stress hormones (Weinstock, 2005). Evidence suggests that maternal stress
+            exposure is associated with shorter gestational age, increase in preterm births, low
+            birthweight, and small size for gestational age (Class et al., 2011). This exposure to
+            maternal stress and high cortisol levels can also lead to deficits in mental development
+            scores and cognitive ability once a fetus matures into childhood (Brouwers et al., 2001;
+            Bergman et al., 2010). It is also associated with autistic traits and ADHD behaviors
+            (Ronald et al., 2011), emotional problems (O'Connor et al., 2002), and higher cortisol
+            response to a stressor (Davis et al., 2011). Animal models show that maternal stress
+            alters HPA axis function, cortisol, and CRH levels throughout the lifetime of the
+            offspring (Weinstock, 2008). Thus, the effects of maternal stress hormones can alter
+            neurodevelopment in the fetus and contribute to adverse consequences throughout life.</para>
         </section>
 
         <section id="sect-00006">
           <title>Early life stress</title>
-          <para id="para-00009">Exposure to stress that occurs in the timeframe from infancy to adolescence, can also have a major impact on the trajectory of development. During this period, stress can come from maltreatment, neglect, or exposure to trauma or stressful life events (see <link document="m00086">Neurodevelopment</link>). Early life stress can increase the risk of developing psychiatric disorders in adulthood (Carr et al., 2013), for example depression and anxiety (Heim and Nemeroff, 2001). It can also increase the likelihood of developing alcohol or drug dependence (Enoch, 2011). In rodents and primates, early life stress can evoke depression-like behaviors and altered HPA axis responsiveness that lasts into adulthood (Pryce et al., 2005).</para>
-          <para id="para-00010">Epigenetics, the chemical modification of DNA without a change in nucleotide sequence, can account for a major part of the developmental trajectory following stress. To understand this idea of epigenetic modification, we first need to appreciate how DNA is packed into the nucleus. The DNA contained in each cell’s nucleus is not lying about like loose spaghetti. It is actually packed together quite purposefully, folded and wrapped around on itself and around proteins called histones so that the ~3 billion nucleotide base pairs that make up the human genome can fit into the cramped quarters of the nucleus. Epigenetic changes are chemical modifications attached to the DNA itself or to the histones that the DNA wraps around. These modifications change how loosely or tightly the DNA is packed. Genes that are in stretches of DNA that are packed up especially tightly are less readily expressed (transcribed into RNA) while genes in segments of DNA that are packed more loosely are accessible and more easily transcribed.</para>
-          <para id="para-00011">Early life stress has been shown to induce changes in the epigenome, specifically in genes that regulate the HPA axis, which persist throughout life and can modulate HPA axis and stress reactivity. For example, the quality of maternal care during the neonatal period—modeled in rodents as increased pup licking and grooming by rat mothers—results in epigenetic modifications that enhance feedback sensitivity and efficient HPA axis shutdown following stress. See Feature Box on the persistent effect of maternal care on stress vulnerability and resilience. Similarly, early life stress (duration of maternal separation, for example) has been shown to induce changes in the epigenome that persist throughout life and can confer either vulnerability or resilience to stress. Additionally, recent research is beginning to uncover how transgenerational effects (i.e., events experienced by previous generations) can modulate individual variability in stress responses. See Feature Box on preconceptional, historical and transgenerational effects of stress.</para>
+          <para id="para-00009">Exposure to stress that occurs in the timeframe from infancy to
+            adolescence, can also have a major impact on the trajectory of development. During this
+            period, stress can come from maltreatment, neglect, or exposure to trauma or stressful
+            life events (see <link document="m00086">Neurodevelopment</link>). Early life stress can
+            increase the risk of developing psychiatric disorders in adulthood (Carr et al., 2013),
+            for example depression and anxiety (Heim and Nemeroff, 2001). It can also increase the
+            likelihood of developing alcohol or drug dependence (Enoch, 2011). In rodents and
+            primates, early life stress can evoke depression-like behaviors and altered HPA axis
+            responsiveness that lasts into adulthood (Pryce et al., 2005).</para>
+          <para id="para-00010">Epigenetics, the chemical modification of DNA without a change in
+            nucleotide sequence, can account for a major part of the developmental trajectory
+            following stress. To understand this idea of epigenetic modification, we first need to
+            appreciate how DNA is packed into the nucleus. The DNA contained in each cell’s nucleus
+            is not lying about like loose spaghetti. It is actually packed together quite
+            purposefully, folded and wrapped around on itself and around proteins called histones so
+            that the ~3 billion nucleotide base pairs that make up the human genome can fit into the
+            cramped quarters of the nucleus. Epigenetic changes are chemical modifications attached
+            to the DNA itself or to the histones that the DNA wraps around. These modifications
+            change how loosely or tightly the DNA is packed. Genes that are in stretches of DNA that
+            are packed up especially tightly are less readily expressed (transcribed into RNA) while
+            genes in segments of DNA that are packed more loosely are accessible and more easily
+            transcribed.</para>
+          <para id="para-00011">Early life stress has been shown to induce changes in the epigenome,
+            specifically in genes that regulate the HPA axis, which persist throughout life and can
+            modulate HPA axis and stress reactivity. For example, the quality of maternal care
+            during the neonatal period—modeled in rodents as increased pup licking and grooming by
+            rat mothers—results in epigenetic modifications that enhance feedback sensitivity and
+            efficient HPA axis shutdown following stress. See Feature Box on the persistent effect
+            of maternal care on stress vulnerability and resilience. Similarly, early life stress
+            (duration of maternal separation, for example) has been shown to induce changes in the
+            epigenome that persist throughout life and can confer either vulnerability or resilience
+            to stress. Additionally, recent research is beginning to uncover how transgenerational
+            effects (i.e., events experienced by previous generations) can modulate individual
+            variability in stress responses. See Feature Box on preconceptional, historical and
+            transgenerational effects of stress.</para>
         </section>
 
         <section id="sect-00007">
           <title>Adolescence</title>
-          <para id="para-00012">The transition from childhood to adolescence represents another vulnerable period to stress exposure. Internally, dramatic physiological and hormonal changes occur (see <link document="m00101">Sexual Development and Behavior</link>). At the same time, the development of complex behaviors, including a notable dependence on peer relationships, as opposed to parental ones, emerges. These intense changes combined with high brain plasticity makes adolescence a crucial period in development where vulnerability is heightened. Exposure to stress during this period has been shown to increase the risk for depression and is associated with social and educational impairments (Fletcher, 2010).</para>
+          <para id="para-00012">The transition from childhood to adolescence represents another
+            vulnerable period to stress exposure. Internally, dramatic physiological and hormonal
+            changes occur (see <link document="m00101">Sexual Development and Behavior</link>). At
+            the same time, the development of complex behaviors, including a notable dependence on
+            peer relationships, as opposed to parental ones, emerges. These intense changes combined
+            with high brain plasticity makes adolescence a crucial period in development where
+            vulnerability is heightened. Exposure to stress during this period has been shown to
+            increase the risk for depression and is associated with social and educational
+            impairments (Fletcher, 2010).</para>
         </section>
 
         <section id="sect-00008">
           <title>Aging</title>
-          <para id="para-00013">In aging populations, changes in the brain and in the endocrine system occur in some, but not all individuals. A particularly vulnerable part of the brain to the aging process is the hippocampus. During aging, a decrease in hippocampal function and reactivity to cortisol leads to a decrease in the efficient shut down of HPA axis activation. This is seen in some aged individuals as hyper-reactivity to stress, resulting in higher levels of baseline and stress-related cortisol, and a deficient shutdown of activation. This is a vicious cycle for the aging hippocampus, as the increased levels of cortisol lead to increased neurodegeneration, cellular vulnerability and memory decline, which contributes to greater effects from stressors and could be at least partially responsible for aging the hippocampus (Miller and O’callaghan, 2005).</para>
+          <para id="para-00013">In aging populations, changes in the brain and in the endocrine
+            system occur in some, but not all individuals. A particularly vulnerable part of the
+            brain to the aging process is the hippocampus. During aging, a decrease in hippocampal
+            function and reactivity to cortisol leads to a decrease in the efficient shut down of
+            HPA axis activation. This is seen in some aged individuals as hyper-reactivity to
+            stress, resulting in higher levels of baseline and stress-related cortisol, and a
+            deficient shutdown of activation. This is a vicious cycle for the aging hippocampus, as
+            the increased levels of cortisol lead to increased neurodegeneration, cellular
+            vulnerability and memory decline, which contributes to greater effects from stressors
+            and could be at least partially responsible for aging the hippocampus (Miller and
+            O’callaghan, 2005).</para>
         </section>
       </section>
 
       <note class="boxed-feature" id="note-00001">
-        <title>People behind the science: The persistent effect of maternal care on stress vulnerability and resilience</title>
-        <para id="para-00014">How a mother cares for their child can vary widely. There are variations in social, emotional, and socio-economic contexts. If these variations result in neglect or abuse towards a child, they can lead to persistent negative effects on stress reactivity (vulnerability to stress). Drs. Darlene Francis, Frances Champagne, Michael Meany, and Moshe Szyf have made significant contributions to our understanding of the long- term effects of maternal care on stress reactivity. Through their work with rodents, initiated primarily at McGill University and subsequently pursued at other institutions, they showed that early experiences can translate into later life behaviors via epigenetic mechanisms. They studied this phenomenon using rats as a model. Rats, it turns out, can be very caring mothers and one of the main ways they care for their pups is by regularly licking and grooming them. Through observations of rat maternal behaviors like pup licking, grooming, and nursing, this team of researchers found that a greater frequency of these behaviors resulted in increased numbers of hippocampal GRs, enhanced glucocorticoid feedback sensitivity and more modest HPA axis responses to stress in the adult offspring of high maternal care mothers. Furthermore, their work showed that GR gene expression is controlled by epigenetic modifications (altered chromatin structure and DNA methylation of a promoter region for the GR gene) which can persist into adulthood (Liu et al., 1997; Weaver et al., 2004). Ultimately, their work provided valuable insight into the epigenetic processes behind transmission of individual variabilities in stress reactivity. </para>
+        <title>People behind the science: The persistent effect of maternal care on stress
+        vulnerability and resilience</title>
+        <para id="para-00014">How a mother cares for their child
+        can vary widely. There are variations in social, emotional, and socio-economic contexts. If
+        these variations result in neglect or abuse towards a child, they can lead to persistent
+        negative effects on stress reactivity (vulnerability to stress). Drs. Darlene Francis,
+        Frances Champagne, Michael Meany, and Moshe Szyf have made significant contributions to our
+        understanding of the long- term effects of maternal care on stress reactivity. Through their
+        work with rodents, initiated primarily at McGill University and subsequently pursued at
+        other institutions, they showed that early experiences can translate into later life
+        behaviors via epigenetic mechanisms. They studied this phenomenon using rats as a model.
+        Rats, it turns out, can be very caring mothers and one of the main ways they care for their
+        pups is by regularly licking and grooming them. Through observations of rat maternal
+        behaviors like pup licking, grooming, and nursing, this team of researchers found that a
+        greater frequency of these behaviors resulted in increased numbers of hippocampal GRs,
+        enhanced glucocorticoid feedback sensitivity and more modest HPA axis responses to stress in
+        the adult offspring of high maternal care mothers. Furthermore, their work showed that GR
+        gene expression is controlled by epigenetic modifications (altered chromatin structure and
+        DNA methylation of a promoter region for the GR gene) which can persist into adulthood (Liu
+        et al., 1997; Weaver et al., 2004). Ultimately, their work provided valuable insight into
+        the epigenetic processes behind transmission of individual variabilities in stress
+        reactivity. </para>
       </note>
       <note class="boxed-feature" id="note-00002">
         <title>Preconceptional, historical and transgenerational effects of stress</title>
-        <para id="para-00015">Stress has obvious effects on one’s own body and offspring, but there can be detrimental effects on subsequent generations as well. Ancestral environments and behaviors can create lasting beneficial or detrimental effects. One way in which the effects of stress can be transferred to a future generation is through <term id="term-00004">biological inheritance</term>. For example, when a mother conceives a female embryo, that offspring creates all the eggs she will have throughout her lifetime before she even leaves the womb. Any experiences of the grandmother then could have some effect on the granddaughter. Another mechanism of transmission is <term id="term-00005">social inheritance</term>. Maternal care is an excellent example of this: here a mother’s care for their child can affect emotional outcomes later in life. Lastly, <term id="term-00006">ecological inheritance</term> or the shared experience of trauma at a community level can also be a mechanism of transmission. Survivors of the Holocaust and Native American experiences of genocide and oppression provide evidence that effects of trauma and stress can extend beyond the generation directly exposed and contribute to the development of depression, anxiety and PTSD in offspring that themselves were not exposed. These transgenerational effects most likely also rely on epigenetic modification of DNA. Evidence suggesting this ecological inheritance is seen in the offspring of trauma survivors, where low cortisol levels are associated with parental PTSD (Yehuda &amp; Bierer., 2007; Perroud et al., 2014). Epigenetic modifications in the FKBP5 gene, a co-chaperone for the glucocorticoid receptor (discussed above under genetic factors affecting interindividual variability), have also been observed in both Holocaust survivors (mothers) and their offspring (Yehuda et al., 2016).</para>
-        <para id="para-00016">Transgenerational transmission is not only seen in humans, it applies to other species as well. <emphasis effect="italics">Caenorhabditis elegans</emphasis> (nematode worms), for example, show altered gene expression in response to temperature changes for at least 14 generations (Klosin et al., 2017). They also show changes in small RNAs (regulators of gene expression) if ancestors were starved for extended periods (Rechavi et al., 2014). <emphasis effect="italics">Drosophila melanogaster</emphasis> (fruit flies) also show an obesity phenotype for two generations if an ancestor was placed on a high-calorie diet (Buescher et al., 2013). In rodents, work by Dr. Brian Dias is revealing the epigenetic mechanisms involved in transgenerational inheritance of fear learning. You can learn more about Dr. Dias’ innovative work and his path in research in the talk <link url="https://openstax.org/r/Neuro12Dias">“Great Scientists, Great Failures”</link></para>
+        <para id="para-00015">Stress has obvious effects on one’s own body and offspring, but there can
+        be detrimental effects on subsequent generations as well. Ancestral environments and
+        behaviors can create lasting beneficial or detrimental effects. One way in which the effects
+        of stress can be transferred to a future generation is through <term id="term-00004">biological
+        inheritance</term>. For example, when a mother conceives a female embryo, that offspring
+        creates all the eggs she will have throughout her lifetime before she even leaves the womb.
+        Any experiences of the grandmother then could have some effect on the granddaughter. Another
+        mechanism of transmission is <term id="term-00005">social inheritance</term>. Maternal care
+        is an excellent example of this: here a mother’s care for their child can affect emotional
+        outcomes later in life. Lastly, <term id="term-00006">ecological inheritance</term> or the
+        shared experience of trauma at a community level can also be a mechanism of transmission.
+        Survivors of the Holocaust and Native American experiences of genocide and oppression
+        provide evidence that effects of trauma and stress can extend beyond the generation directly
+        exposed and contribute to the development of depression, anxiety and PTSD in offspring that
+        themselves were not exposed. These transgenerational effects most likely also rely on
+        epigenetic modification of DNA. Evidence suggesting this ecological inheritance is seen in
+        the offspring of trauma survivors, where low cortisol levels are associated with parental
+        PTSD (Yehuda &amp; Bierer., 2007; Perroud et al., 2014). Epigenetic modifications in the
+        FKBP5 gene, a co-chaperone for the glucocorticoid receptor (discussed above under genetic
+        factors affecting interindividual variability), have also been observed in both Holocaust
+        survivors (mothers) and their offspring (Yehuda et al., 2016).</para>
+        <para id="para-00016">Transgenerational
+        transmission is not only seen in humans, it applies to other species as well. <emphasis effect="italics">Caenorhabditis elegans</emphasis> (nematode worms), for example, show
+        altered gene expression in response to temperature changes for at least 14 generations
+        (Klosin et al., 2017). They also show changes in small RNAs (regulators of gene expression)
+        if ancestors were starved for extended periods (Rechavi et al., 2014). <emphasis effect="italics">Drosophila melanogaster</emphasis> (fruit flies) also show an obesity
+        phenotype for two generations if an ancestor was placed on a high-calorie diet (Buescher et
+        al., 2013). In rodents, work by Dr. Brian Dias is revealing the epigenetic mechanisms
+        involved in transgenerational inheritance of fear learning. You can learn more about Dr.
+        Dias’ innovative work and his path in research in the talk <link url="https://openstax.org/r/Neuro12Dias">“Great Scientists, Great Failures”</link></para>
       </note>
       <section id="sect-00009">
         <title>Biological sex differences</title>
-        <para id="para-00017">Sex differences in stress responses have garnered significant attention within the field of neuroscience and psychology. Numerous studies have demonstrated that males and females exhibit distinct patterns of physiological and behavioral responses when faced with stressful situations. These differences extend to both acute and chronic stressors, with variations in stress hormone secretion, neural activation, and coping strategies. For example, rodent studies have shown that females exhibit unique patterns in the number, distribution, membrane trafficking, and signaling of CRH receptors (Bangasser and Wiersielis, 2018) - patterns which are affected by estrogen. Similarly, female rats are known to release higher levels of glucocorticoids after acute restraint stress (Goel et al., 2014). These differences point to nuanced, sex-specific HPA axis function in response to stress.</para>
-        <para id="para-00018">At the behavioral level, studies have shown, for example, that female rodents generalize fear responses more than males (see <link document="m00060">Learning and Memory</link>). Fear generalization occurs when conditioned fear responses ‘spread’ (or generalize) to new stimuli. This effect is dependent upon estrous cycle phase and thus has been linked to sex hormone, specifically estrogen signaling. Although stress is thought to affect fear learning-related brain regions similarly in males and females, distinct molecular and gene expression profiles at the synaptic level are sex-specific. Understanding these types of differences will allow us to develop more tailored and effective interventions. Women, for example, have higher prevalence of PTSD which involves aberrant fear conditioning, fear generalization and a lack of proper fear-extinction. For review, see Fleischer and Frick, 2023.</para>
-        <para id="para-00019">A main challenge in the field is the difficulty of setting up experimental designs that represent true sex differences using animal models. For example, some rodent models like social defeat stress are based on behaviors mainly exhibited by males. Thus, it has been challenging to examine stress responses using the same set of stressors and behavioral assays in animals of different sexes.</para>
+        <para id="para-00017">Sex differences in stress responses have garnered significant
+          attention within the field of neuroscience and psychology. Numerous studies have
+          demonstrated that males and females exhibit distinct patterns of physiological and
+          behavioral responses when faced with stressful situations. These differences extend to
+          both acute and chronic stressors, with variations in stress hormone secretion, neural
+          activation, and coping strategies. For example, rodent studies have shown that females
+          exhibit unique patterns in the number, distribution, membrane trafficking, and signaling
+          of CRH receptors (Bangasser and Wiersielis, 2018) - patterns which are affected by
+          estrogen. Similarly, female rats are known to release higher levels of glucocorticoids
+          after acute restraint stress (Goel et al., 2014). These differences point to nuanced,
+          sex-specific HPA axis function in response to stress.</para>
+        <para id="para-00018">At the behavioral level, studies have shown, for example, that female
+          rodents generalize fear responses more than males (see <link document="m00060">Learning
+          and Memory</link>). Fear generalization occurs when conditioned fear responses ‘spread’
+          (or generalize) to new stimuli. This effect is dependent upon estrous cycle phase and thus
+          has been linked to sex hormone, specifically estrogen signaling. Although stress is
+          thought to affect fear learning-related brain regions similarly in males and females,
+          distinct molecular and gene expression profiles at the synaptic level are sex-specific.
+          Understanding these types of differences will allow us to develop more tailored and
+          effective interventions. Women, for example, have higher prevalence of PTSD which involves
+          aberrant fear conditioning, fear generalization and a lack of proper fear-extinction. For
+          review, see Fleischer and Frick, 2023.</para>
+        <para id="para-00019">A main challenge in the field is the difficulty of setting up
+          experimental designs that represent true sex differences using animal models. For example,
+          some rodent models like social defeat stress are based on behaviors mainly exhibited by
+          males. Thus, it has been challenging to examine stress responses using the same set of
+          stressors and behavioral assays in animals of different sexes.</para>
       </section>
       <section id="sect-00010">
         <title>Stress perception, appraisal, and reappraisal</title>
-        <para id="para-00020"><term id="term-00007">Appraisal</term> of a stressor, whether a person perceives it as harmful or a positive, challenging experience, can dramatically change the stress response. Interestingly, an individual’s response to stress seems to have a strong inherent or innate component. In humans, for example, an individual’s genetic and environmental/epigenetic makeup affects their processing and perception of stress (i.e., positive or negative valence attributed to a stressor) such that individuals respond differently to the same stressor. A study by Forkosh et al., 2019 identified four stable ‘personality types’ in mice (termed identity domains) based on unbiased behavioral tracking which persisted through time, developmental stages and stressful changes in their social environment. These ‘personality types’ corresponded to specific patterns of gene expression in the insular cortex, mPFC and amygdala.</para>
-        <para id="para-00021">Numerous studies have found that individuals who perceive stress as having a negative impact on their health suffer more serious health problems, including premature death (Keller et al., 2012; Nabi et al., 2013). Not surprisingly, abnormal patterns of appraisal are seen in various stress-related psychopathologies. The good news is that the stress response can be changed by reframing it as helpful. As mentioned in <link document="m00079">What Is Stress?</link>, a study by Jamieson et al. (Jamieson et al., 2012) tested whether reappraisal of stress-induced arousal (for example, a ‘racing’ heart) as helpful and adaptive, as opposed to harmful, could improve physiological and cognitive outcomes. The results showed that participants in the reappraisal group displayed a more adaptive physiological response (improved cardiovascular functioning), reported higher levels of perceived resources and showed decreased attentional bias for emotionally negative information. That is, they dealt much better with the stressful situation even when the reappraisal training consisted of brief instructional materials. Notice that the reappraisal intervention did not change the actual increased physiological arousal caused by the stressor; it is not an intervention aimed at decreasing or dampening arousal. What changed was the ‘rethinking’ of what that arousal means (whether it’s positive versus negative) and that is what ultimately influenced the measured outcomes. Neuroimaging studies have shown that reappraisal is associated with activation of frontal cortical areas (i.e., regions regulating executive functions) like the dorsal anterior cingulate cortex and medial PFC (Kalisch, 2009).</para>
+        <para id="para-00020"><term id="term-00007">Appraisal</term> of a stressor, whether a person
+          perceives it as harmful or a positive, challenging experience, can dramatically change the
+          stress response. Interestingly, an individual’s response to stress seems to have a strong
+          inherent or innate component. In humans, for example, an individual’s genetic and
+          environmental/epigenetic makeup affects their processing and perception of stress (i.e.,
+          positive or negative valence attributed to a stressor) such that individuals respond
+          differently to the same stressor. A study by Forkosh et al., 2019 identified four stable
+          ‘personality types’ in mice (termed identity domains) based on unbiased behavioral
+          tracking which persisted through time, developmental stages and stressful changes in their
+          social environment. These ‘personality types’ corresponded to specific patterns of gene
+          expression in the insular cortex, mPFC and amygdala.</para>
+        <para id="para-00021">Numerous studies have found that individuals who perceive stress as
+          having a negative impact on their health suffer more serious health problems, including
+          premature death (Keller et al., 2012; Nabi et al., 2013). Not surprisingly, abnormal
+          patterns of appraisal are seen in various stress-related psychopathologies. The good news
+          is that the stress response can be changed by reframing it as helpful. As mentioned in <link document="m00079">What Is Stress?</link>, a study by Jamieson et al. (Jamieson et al.,
+          2012) tested whether reappraisal of stress-induced arousal (for example, a ‘racing’ heart)
+          as helpful and adaptive, as opposed to harmful, could improve physiological and cognitive
+          outcomes. The results showed that participants in the reappraisal group displayed a more
+          adaptive physiological response (improved cardiovascular functioning), reported higher
+          levels of perceived resources and showed decreased attentional bias for emotionally
+          negative information. That is, they dealt much better with the stressful situation even
+          when the reappraisal training consisted of brief instructional materials. Notice that the
+          reappraisal intervention did not change the actual increased physiological arousal caused
+          by the stressor; it is not an intervention aimed at decreasing or dampening arousal. What
+          changed was the ‘rethinking’ of what that arousal means (whether it’s positive versus
+          negative) and that is what ultimately influenced the measured outcomes. Neuroimaging
+          studies have shown that reappraisal is associated with activation of frontal cortical
+          areas (i.e., regions regulating executive functions) like the dorsal anterior cingulate
+          cortex and medial PFC (Kalisch, 2009).</para>
       </section>
       <section id="sect-00011">
         <title>Stress predictability and controllability in animal models</title>
-        <para id="para-00022">To understand the molecular mechanisms underlying appraisal, we must turn to animal models. However, animals cannot report if they are ‘reappraising’ a stressful situation, thus, we must examine whether things like <term id="term-00008">predictability</term> or <term id="term-00009">controllability</term> over the stressor can change their response. Experiments have shown that rodents exposed to stressors that were not predictable had significantly higher and longer glucocorticoid responses than those presented with a regularly scheduled stressor. Similarly, the work of Steven Maier’s group at the University of Colorado Boulder has shown that controllability (a rat controls the cessation of a presented stressor by turning a wheel, for example) alters the neural and behavioral response, but doesn’t change the HPA axis output. Animals receiving the exact same stressor (i.e., amount, intensity, and duration of an electrical shock) but who differed on whether they could terminate the shock or not, displayed similar HPA axis activation but dramatically different behavioral responses. Animals that could not stop the shock (uncontrollable stress) later failed to learn to escape in a different context, were afraid of new things, were less dominant, showed less social interactions, and had exaggerated responses to drugs of abuse (see <link target-id="Image-12.23"/>).</para>
+        <para id="para-00022">To understand the molecular mechanisms underlying appraisal, we must
+          turn to animal models. However, animals cannot report if they are ‘reappraising’ a
+          stressful situation, thus, we must examine whether things like <term id="term-00008">
+          predictability</term> or <term id="term-00009">controllability</term> over the stressor
+          can change their response. Experiments have shown that rodents exposed to stressors that
+          were not predictable had significantly higher and longer glucocorticoid responses than
+          those presented with a regularly scheduled stressor. Similarly, the work of Steven Maier’s
+          group at the University of Colorado Boulder has shown that controllability (a rat controls
+          the cessation of a presented stressor by turning a wheel, for example) alters the neural
+          and behavioral response, but doesn’t change the HPA axis output. Animals receiving the
+          exact same stressor (i.e., amount, intensity, and duration of an electrical shock) but who
+          differed on whether they could terminate the shock or not, displayed similar HPA axis
+          activation but dramatically different behavioral responses. Animals that could not stop
+          the shock (uncontrollable stress) later failed to learn to escape in a different context,
+          were afraid of new things, were less dominant, showed less social interactions, and had
+          exaggerated responses to drugs of abuse (see <link target-id="Image-12.23"/>).</para>
 
-        <figure id="Image-12.23"><title>Controllable stress in rodents</title>
+        <figure id="Image-12.23">
+          <title>Controllable stress in rodents</title>
           <media alt="Diagram of rats in a controllable stress paradigm. All mice are in a cage alone, with an exercise wheel available. All mice are also connected to a wire. The wire is connected to a shock controller in the escapable and inescapable condition, but not in the no-stress control condition. In escapable shock, the animal can stop the tail shock by turning a wheel. The wheel is shown to have a wire connecting it to the shock control. The inescapable shock animal receives the same shocks (amount, intensity, duration) as the escapable shock animal, but the wheel does nothing (and it has no wired connection). No stress controls are exposed to the testing chamber, but do not receive any shocks.">
             <image mime-type="image/png" src="../../media/Image-12.23_Controllable-stress-in-rodents.png"/>
           </media>
         </figure>
-        <para id="para-00023">A large amount of work has gone into understanding the neural circuitry of this behavioral difference. Studies have found that uncontrollable stress produces robust activity in the dorsal raphe nucleus which increases release of serotonin, amygdala activation, and development of learned helplessness. Exposure to controllable stress, however, activates the medial PFC which inhibits dorsal raphe nucleus activation and blocks the negative behavioral outcomes (Amat et al., 2005; Amat et al., 2006).</para>
+        <para id="para-00023">A large amount of work has gone into understanding the neural
+          circuitry of this behavioral difference. Studies have found that uncontrollable stress
+          produces robust activity in the dorsal raphe nucleus which increases release of serotonin,
+          amygdala activation, and development of learned helplessness. Exposure to controllable
+          stress, however, activates the medial PFC which inhibits dorsal raphe nucleus activation
+          and blocks the negative behavioral outcomes (Amat et al., 2005; Amat et al., 2006).</para>
       </section>
       <section id="sect-00012">
         <title>Social support and buffering of the stress response</title>
-        <para id="para-00024">Many social animals display an interesting characteristic: when together with a conspecific they show dampened stress responses and better recovery from stressful experiences. This phenomenon is called <term id="term-00010">social buffering</term> and it has been observed in numerous species including rodents, felines, birds, nonhuman primates and humans.</para>
+        <para id="para-00024">Many social animals display an interesting characteristic: when
+          together with a conspecific they show dampened stress responses and better recovery from
+          stressful experiences. This phenomenon is called <term id="term-00010">social buffering</term>
+          and it has been observed in numerous species including rodents, felines, birds, nonhuman
+          primates and humans.</para>
         <section id="sect-00013">
           <title>Candidate molecular mediators of social buffering</title>
-          <para id="para-00025">Not much is known about the molecular mechanisms or neural pathways mediating the effects of social buffering. A candidate molecular mediator is the neuropeptide oxytocin—which is known for its role in social affiliative behaviors in many mammalian species. </para>
-          <para id="para-00026">Although no direct mechanism has been established, evidence suggests that oxytocin is released in response to stress, is associated with social/affiliative interactions after stress and can decrease HPA axis activation (via inhibition of CRH activation and ACTH and corticosteroid release), as well as SNS responses (Taylor, 2002). Additional mediators involved in stimulating and regulating the effects of social support include norepinephrine/noradrenaline, prolactin, vasopressin, serotonin and endogenous opioids.</para>
+          <para id="para-00025">Not much is known about the molecular mechanisms or neural pathways
+            mediating the effects of social buffering. A candidate molecular mediator is the
+            neuropeptide oxytocin—which is known for its role in social affiliative behaviors in
+            many mammalian species. </para>
+          <para id="para-00026">Although no direct mechanism has been established, evidence suggests
+            that oxytocin is released in response to stress, is associated with social/affiliative
+            interactions after stress and can decrease HPA axis activation (via inhibition of CRH
+            activation and ACTH and corticosteroid release), as well as SNS responses (Taylor,
+            2002). Additional mediators involved in stimulating and regulating the effects of social
+            support include norepinephrine/noradrenaline, prolactin, vasopressin, serotonin and
+            endogenous opioids.</para>
         </section>
         <section id="sect-00014">
           <title>Brain regions involved in social buffering</title>
-          <para id="para-00027">In humans, a study by Eisenberger et al., (Eisenberger et al., 2007) found that greater social support and decreased cortisol responses to a social stressor were associated with decreased activity in the dorsal anterior cingulate cortex (dACC) and prefrontal cortex (PFC)—brain regions that have been linked to social distress. A recent study in adolescent mice also points to a role for the PFC. In this study, social support (the presence of a mouse attempting to free a restrained mouse) blocked the negative effects of restraint stress on working memory, memory consolidation and retrieval. These stress-alleviating effects were dependent upon inhibition of stress-induced signaling cascades and normalization of stress-induced gene expression changes in the PFC (Kim et al., 2018).</para>
+          <para id="para-00027">In humans, a study by Eisenberger et al., (Eisenberger et al., 2007)
+            found that greater social support and decreased cortisol responses to a social stressor
+            were associated with decreased activity in the dorsal anterior cingulate cortex (dACC)
+            and prefrontal cortex (PFC)—brain regions that have been linked to social distress. A
+            recent study in adolescent mice also points to a role for the PFC. In this study, social
+            support (the presence of a mouse attempting to free a restrained mouse) blocked the
+            negative effects of restraint stress on working memory, memory consolidation and
+            retrieval. These stress-alleviating effects were dependent upon inhibition of
+            stress-induced signaling cascades and normalization of stress-induced gene expression
+            changes in the PFC (Kim et al., 2018).</para>
         </section>
         <section id="sect-00015">
           <title>Stress drives social affiliation</title>
-          <para id="para-00028">Social buffering is encouraged by the fact that, in many social species, stress directly promotes behaviors that will increase social interaction. Thus, stress and social buffering can form a loop, where stress drives affiliative behaviors, which in turn reduce the experience of stress (see <link target-id="Image-12.33"/>). For example, moderate stress is associated with increased affiliative behaviors in rats. A study by Muroy et al (Muroy et al., 2016) found that moderate stress exposure increased affiliative behaviors (huddling/affiliative contact, better sharing of a water resource, improved homecage stability (dominance rank) and oxytocin signaling). When the stress was made more severe by addition of predator odor, however, oxytocin signaling was reduced and the positive social effects were eliminated. These findings suggest that even the drive for affiliation by stress may follow an inverted-U pattern.</para>
+          <para id="para-00028">Social buffering is encouraged by the fact that, in many social
+            species, stress directly promotes behaviors that will increase social interaction. Thus,
+            stress and social buffering can form a loop, where stress drives affiliative behaviors,
+            which in turn reduce the experience of stress (see <link target-id="Image-12.33"/>).
+            For example, moderate stress is associated with increased affiliative behaviors in rats.
+            A study by Muroy et al (Muroy et al., 2016) found that moderate stress exposure
+            increased affiliative behaviors (huddling/affiliative contact, better sharing of a water
+            resource, improved homecage stability (dominance rank) and oxytocin signaling). When the
+            stress was made more severe by addition of predator odor, however, oxytocin signaling
+            was reduced and the positive social effects were eliminated. These findings suggest that
+            even the drive for affiliation by stress may follow an inverted-U pattern.</para>
 
-          <figure id="Image-12.33"><title>Stress-social behavior interaction</title>
+          <figure id="Image-12.33">
+            <title>Stress-social behavior interaction</title>
             <media alt="Diagram representing the social buffering loop. Stress is shown increasing social affiliation (increased oxytocin and oxytocin receptor), which drives affiliation in rodents and humans, which then inhibits stress (social buffering).">
               <image mime-type="image/png" src="../../media/Image-12.33_Stress-social-behavior-interaction.png"/>
-            </media><caption>Stress stimulates social affiliative behaviors, which lead to social buffering to reduce the impact of the stressor.</caption>
+            </media>
+            <caption>Stress stimulates social affiliative behaviors, which lead to social buffering
+              to reduce the impact of the stressor.</caption>
           </figure>
 
-          <para id="para-00029">In humans, acute stress has also been shown to increase affiliative interactions and prosocial behavior. For example, increased time interacting and higher group cohesion were observed in study participants awaiting an electrical shock versus groups awaiting a mildly embarrassing or ambiguous stimulus (Morris et al., 1976). In terms of prosocial behavior, participants exposed to a socioevaluative stressor (the TSST) showed greater trust and sharing in interactive games with monetary stakes (von Dawans et al., 2012). Importantly, affiliative social interactions, for example, contact with a friend or other supportive person during times of stress can decrease sympathetic reactivity and cortisol levels, facilitating recovery. This, in turn, can positively influence health and life expectancy (for review see House et al., 1988; Taylor, 2011). Lack of social connection (e.g. social isolation), on the other hand, can increase HPA axis and SNS activity and is a major risk factor for stress-related psychiatric conditions like depression and anxiety.</para>
+          <para id="para-00029">In humans, acute stress has also been shown to increase affiliative
+            interactions and prosocial behavior. For example, increased time interacting and higher
+            group cohesion were observed in study participants awaiting an electrical shock versus
+            groups awaiting a mildly embarrassing or ambiguous stimulus (Morris et al., 1976). In
+            terms of prosocial behavior, participants exposed to a socioevaluative stressor (the
+            TSST) showed greater trust and sharing in interactive games with monetary stakes (von
+            Dawans et al., 2012). Importantly, affiliative social interactions, for example, contact
+            with a friend or other supportive person during times of stress can decrease sympathetic
+            reactivity and cortisol levels, facilitating recovery. This, in turn, can positively
+            influence health and life expectancy (for review see House et al., 1988; Taylor, 2011).
+            Lack of social connection (e.g. social isolation), on the other hand, can increase HPA
+            axis and SNS activity and is a major risk factor for stress-related psychiatric
+            conditions like depression and anxiety.</para>
         </section>
       </section>
       <section id="sect-00016">
         <title>Summary of factors affecting interindividual variability in the stress response</title>
-        <para id="para-00030"><link target-id="Image-12.35"/> shows a summary of the factors discussed in this section. Factors and their associated brain regions are displayed at the top. Some brain regions are attuned to various factors. For example, the reward system is sensitive to predictability (i.e., novelty), controllability and duration of a stressor. The frontal cortex is similarly attuned to duration, controllability and stressor predictability, and additionally mediates stressor appraisal; the stress dampening effects of social support are integrated here as well. Brainstem regions, the circumventricular organs and the limbic system are attuned to stressor type and the physiological state of the organism (metabolic, inflammatory state, for example), which can influence an individual’s perception of stress.</para>
+        <para id="para-00030"><link target-id="Image-12.35"/> shows a summary of the factors
+          discussed in this section. Factors and their associated brain regions are displayed at the
+          top. Some brain regions are attuned to various factors. For example, the reward system is
+          sensitive to predictability (i.e., novelty), controllability and duration of a stressor.
+          The frontal cortex is similarly attuned to duration, controllability and stressor
+          predictability, and additionally mediates stressor appraisal; the stress dampening effects
+          of social support are integrated here as well. Brainstem regions, the circumventricular
+          organs and the limbic system are attuned to stressor type and the physiological state of
+          the organism (metabolic, inflammatory state, for example), which can influence an
+          individual’s perception of stress.</para>
 
-        <figure id="Image-12.35"><title>Summary of factors affecting interindividual variability in the stress response</title>
+        <figure id="Image-12.35">
+          <title>Summary of factors affecting interindividual variability in the stress response</title>
           <media alt="Large multi-part diagram. Top shown a sagittal midline view of a human brain with structures labeled in a circular pattern around the brain, clockwise from ~8 o’clock to 4  o’clock: Circumventricular organs, brainstem, limbic system, insular cortex, frontal cortex (prefrontal cortex, dorsal anterior cingulate cortex), reward system (ventral tegmental area, nucleus accumbens, serotonergic system (dorsal raphe nuclei), insular cortex, amygdala, hippocampus. Outside of those brain regions, are stressor components, clockwise from ~8 o’clock to 4  o’clock: Physiological state (metabolic, inflammatory state), type (physical, psychological/social), severity (mild, moderate, severe), Duration (acute, subchronic, chronic), predictability (predictable, novel), controllability, appraisal, individual differences (genetics, epigenetics, life history, biological sex). This circular array feeds down on Stress mediators: Neural (sympathetic nervous system, catecholamines, neuropeptides) and Endocrine (hypothalamic pituitary adrenal system, hormones, peptides). Those mediators feed down on specific targets: organs/tissues, cell populations (e.g. immune). Those targets feed down on “fine tuned stress response.”">
             <image mime-type="image/png" src="../../media/Image-12.35_Summary-of-factors-affecting-interindividual-variability-in-the-stress-response.png"/>
           </media>
         </figure>
-        <para id="para-00031">The brain assimilates both external and internal inputs and constructs a ‘grid’ of brain activity specific for each stressor. This pattern of brain activity varies 1) between individuals (due to individual differences based on genetics, epigenetics, life history events, biological sex, emotional and physiological state, etc.) and 2) between different stressors. The response is then integrated at the level of the hypothalamus and specific brainstem nuclei to produce fine-tuned neural and endocrine outputs that are designed to deal with the specific challenge. For example, stressors that exert metabolic pressure (hypoglycemia) induce secretion of growth hormone from the pituitary gland (Jezova et al., 2007) while stressors that elicit pain activate pain relief pathways. The severity of the painful stressor further fine-tunes which type of pain relief pathway is activated: opioid versus non-opioid. Exposure to heat or cold stress requires activation of brown fat to restore internal body temperature, while encountering a mountain lion requires priming of the immune system in case of injury. For the latter two examples, specificity is mediated by differential activation of sympathetic fibers in adipose tissue and the spleen (an immune organ) respectively, in response to different types of physical stressors (Iriki and Simon, 2012). SNS peripheral nerve terminals can also co-secrete various neuropeptides that further fine tune the generic stress response.</para>
-        <para id="para-00032">Thus, the type of neural activation (e.g., which SNS fibers), variety of secreted factors, their concentration and different combinations diversify the stereotypical neural and endocrine stress response. Moreover, even secretion of the canonical stress hormones ACTH and corticosterone depend on the stressor context. For example, lactating female rats caring for a litter generally show blunted ACTH and glucocorticoid responses to common laboratory stressors. However, if the stressor involves danger to the pups (inclusion of predator odor or a male intruder in the home cage), then plasma levels of ACTH and glucocorticoids rise significantly (Deschamps et al., 2003). In this example, the organism’s physiological state is also an important factor. For in depth review, see Haykin and Rolls, 2021.</para>
+        <para id="para-00031">The brain assimilates both external and internal inputs and constructs
+          a ‘grid’ of brain activity specific for each stressor. This pattern of brain activity
+          varies 1) between individuals (due to individual differences based on genetics,
+          epigenetics, life history events, biological sex, emotional and physiological state, etc.)
+          and 2) between different stressors. The response is then integrated at the level of the
+          hypothalamus and specific brainstem nuclei to produce fine-tuned neural and endocrine
+          outputs that are designed to deal with the specific challenge. For example, stressors that
+          exert metabolic pressure (hypoglycemia) induce secretion of growth hormone from the
+          pituitary gland (Jezova et al., 2007) while stressors that elicit pain activate pain
+          relief pathways. The severity of the painful stressor further fine-tunes which type of
+          pain relief pathway is activated: opioid versus non-opioid. Exposure to heat or cold
+          stress requires activation of brown fat to restore internal body temperature, while
+          encountering a mountain lion requires priming of the immune system in case of injury. For
+          the latter two examples, specificity is mediated by differential activation of sympathetic
+          fibers in adipose tissue and the spleen (an immune organ) respectively, in response to
+          different types of physical stressors (Iriki and Simon, 2012). SNS peripheral nerve
+          terminals can also co-secrete various neuropeptides that further fine tune the generic
+          stress response.</para>
+        <para id="para-00032">Thus, the type of neural activation (e.g., which SNS fibers), variety
+          of secreted factors, their concentration and different combinations diversify the
+          stereotypical neural and endocrine stress response. Moreover, even secretion of the
+          canonical stress hormones ACTH and corticosterone depend on the stressor context. For
+          example, lactating female rats caring for a litter generally show blunted ACTH and
+          glucocorticoid responses to common laboratory stressors. However, if the stressor involves
+          danger to the pups (inclusion of predator odor or a male intruder in the home cage), then
+          plasma levels of ACTH and glucocorticoids rise significantly (Deschamps et al., 2003). In
+          this example, the organism’s physiological state is also an important factor. For in depth
+          review, see Haykin and Rolls, 2021.</para>
       </section>
     </section>
     <section id="sect-00017">
       <title>Resilience</title>
-      <para id="para-00033"><term id="term-00011">Resilience</term> is the capacity to adapt following adversity. It is not a fixed trait—it can change throughout life and is multidimensional: for example, a person can be resilient to injury but not to psychological stress. The inverted-U curve can be used to understand how stress responsivity (vulnerability or resilience) varies between individuals (Sapolsky, 2015). For example, the curve can be right- or left-shifted along the x-axis (see the blue and orange curves in <link target-id="Image-12.22"/>). </para>
+      <para id="para-00033"><term id="term-00011">Resilience</term> is the capacity to adapt
+        following adversity. It is not a fixed trait—it can change throughout life and is
+        multidimensional: for example, a person can be resilient to injury but not to psychological
+        stress. The inverted-U curve can be used to understand how stress responsivity
+        (vulnerability or resilience) varies between individuals (Sapolsky, 2015). For example, the
+        curve can be right- or left-shifted along the x-axis (see the blue and orange curves in <link target-id="Image-12.22"/>). </para>
 
-      <figure id="Image-12.22"><title>Interindividual variability in the stress response</title>
+      <figure id="Image-12.22">
+        <title>Interindividual variability in the stress response</title>
         <media alt="A line graph with y axis “behavioral performance” from low to high and x-axis “stress/stimulation” from too little to too much. Several inverted-U curves are plotted, some shifted right (blue), some shifted left (orange) and some being wider or more narrow than others.">
           <image mime-type="image/png" src="../../media/Image-12.22_Interindividual-variability-in-the-stress-response.png"/>
-        </media><caption>Different individuals can show different inverted-U curves of  reponse to stressors.</caption>
+        </media>
+        <caption>Different individuals can show different inverted-U curves of reponse to stressors.</caption>
       </figure>
-      <para id="para-00034">The ‘right’ amount of stress (eustress) that yields optimum function for the person with the blue curve is much higher than that for the person with the orange curve. This optimal level will also vary in different domains for the same person and for the same person at different points in time (intraindividual variability). Curves could also be flattened (wider; see green curve). The individual with the green curve would require really low or really high HPA axis activation for it to be detrimental to their function.</para>
-      <para id="para-00035">Little is known about the mechanisms that shift inverted-U curves to the right, that is, towards resilience. Most resilience studies have been done at the group level and few have focused on individuals, i.e., those who respond (are vulnerable) versus those that don’t respond (are resilient) to stress. Additionally, does resilience mean that there was no change or a lack of molecular response? Or was there a protective response that helped resilient individuals bounce back? The answer seems to point to the latter, but the mechanisms are yet mostly unknown.</para>
+      <para id="para-00034">The ‘right’ amount of stress (eustress) that yields optimum function for
+        the person with the blue curve is much higher than that for the person with the orange
+        curve. This optimal level will also vary in different domains for the same person and for
+        the same person at different points in time (intraindividual variability). Curves could also
+        be flattened (wider; see green curve). The individual with the green curve would require
+        really low or really high HPA axis activation for it to be detrimental to their function.</para>
+      <para id="para-00035">Little is known about the mechanisms that shift inverted-U curves to the
+        right, that is, towards resilience. Most resilience studies have been done at the group
+        level and few have focused on individuals, i.e., those who respond (are vulnerable) versus
+        those that don’t respond (are resilient) to stress. Additionally, does resilience mean that
+        there was no change or a lack of molecular response? Or was there a protective response that
+        helped resilient individuals bounce back? The answer seems to point to the latter, but the
+        mechanisms are yet mostly unknown.</para>
     </section>
     <section id="sect-00018">
       <title>How to optimize the stress response</title>
-      <para id="para-00036">How can we optimize our response to stress? That is, modulate it towards eustress versus distress? As mentioned before, reappraisal of a (mild-moderate) stressor as an adaptive challenge can improve physiological and cognitive stress outcomes. We can also engage in <emphasis effect="italics">exercise</emphasis>—a physical stressor—which can enhance our adaptive capacity and has been shown to have numerous beneficial effects on stress responses. Exercise produces in the short-term feelings of calmness and reduced anxiety and can lead to long-lasting adaptations in neuroendocrine/HPA axis function after chronic training. It has reported antidepressant effects and has been shown to increase overall resilience, well-being and healthspan. Acute vigorous exercise increases levels of endogenous cannabinoids in the bloodstream (see <link document="m00027">Basic Neurochemistry</link>). These neurotransmitters are similar to compounds found in cannabis (marijuana) and may mediate post-exercise feelings of calm, reduced anxiety and sometimes euphoria, colloquially referred to as a ‘runner’s high’ (Raichlen et al., 2013; Volkow et al., 2017). Training over several weeks attenuates resting/basal levels of stress hormones (Hackney, 2006). Furthermore, the stress-attenuating effects of chronic exercise training seem to carry over into reduced stress responses to other life stressors (Traustadóttir et al., 2005).</para>
-      <para id="para-00037"><emphasis effect="italics">Meditation</emphasis> is an Eastern spiritual-associated practice that has been adapted for stress reduction and is currently a very active area of study. Research into meditation seems to point to enhanced executive control of attention (Tang et al., 2007), reduced cortisol levels (Tang et al., 2007; Fan et al., 2014) and improvements in mood (Basso et al., 2019). Note that research is limited to human subjects and correlational studies. Please see the <link url="https://openstax.org/3/Neuro12Guided">demonstration video</link> for an example of a short, guided meditation. To learn more about meditation research, see the work of Richard Davidson (University of Wisconsin-Madison; current leader in the field) and the <link url="https://openstax.org/r/Neuro12MindLife">Mind &amp; Life Institute</link>.</para>
-      <para id="para-00038">Finally, there are interventions like Mindfulness-based stress reduction (MBSR) (Kabat-Zinn, 2013) - an evidence-based program that combines mindfulness meditation, body awareness and examination of patterns of thought, emotion, behavior/action as tools for effectively coping with stress. MBSR has been shown to enhance attention skills, increase emotional regulation and significantly reduce rumination and worry. It has been very successfully utilized as an intervention for ameliorating anxiety, depression, and pain.</para>
+      <para id="para-00036">How can we optimize our response to stress? That is, modulate it towards
+        eustress versus distress? As mentioned before, reappraisal of a (mild-moderate) stressor as
+        an adaptive challenge can improve physiological and cognitive stress outcomes. We can also
+        engage in <emphasis effect="italics">exercise</emphasis>—a physical stressor—which can
+        enhance our adaptive capacity and has been shown to have numerous beneficial effects on
+        stress responses. Exercise produces in the short-term feelings of calmness and reduced
+        anxiety and can lead to long-lasting adaptations in neuroendocrine/HPA axis function after
+        chronic training. It has reported antidepressant effects and has been shown to increase
+        overall resilience, well-being and healthspan. Acute vigorous exercise increases levels of
+        endogenous cannabinoids in the bloodstream (see <link document="m00027">Basic Neurochemistry</link>).
+        These neurotransmitters are similar to compounds found in cannabis (marijuana) and may
+        mediate post-exercise feelings of calm, reduced anxiety and sometimes euphoria, colloquially
+        referred to as a ‘runner’s high’ (Raichlen et al., 2013; Volkow et al., 2017). Training over
+        several weeks attenuates resting/basal levels of stress hormones (Hackney, 2006).
+        Furthermore, the stress-attenuating effects of chronic exercise training seem to carry over
+        into reduced stress responses to other life stressors (Traustadóttir et al., 2005).</para>
+      <para id="para-00037"><emphasis effect="italics">Meditation</emphasis> is an Eastern
+        spiritual-associated practice that has been adapted for stress reduction and is currently a
+        very active area of study. Research into meditation seems to point to enhanced executive
+        control of attention (Tang et al., 2007), reduced cortisol levels (Tang et al., 2007; Fan et
+        al., 2014) and improvements in mood (Basso et al., 2019). Note that research is limited to
+        human subjects and correlational studies. Please see the <link url="https://openstax.org/3/Neuro12Guided">demonstration video</link> for an example of a
+        short, guided meditation. To learn more about meditation research, see the work of Richard
+        Davidson (University of Wisconsin-Madison; current leader in the field) and the <link url="https://openstax.org/r/Neuro12MindLife">Mind &amp; Life Institute</link>.</para>
+      <para id="para-00038">Finally, there are interventions like Mindfulness-based stress reduction
+        (MBSR) (Kabat-Zinn, 2013) - an evidence-based program that combines mindfulness meditation,
+        body awareness and examination of patterns of thought, emotion, behavior/action as tools for
+        effectively coping with stress. MBSR has been shown to enhance attention skills, increase
+        emotional regulation and significantly reduce rumination and worry. It has been very
+        successfully utilized as an intervention for ameliorating anxiety, depression, and pain.</para>
     </section>
 
-     
- 	
-<section class="section-summary" id="sect-00019">
-  <title>Summary</title>
-  <para id="para-00039">Numerous factors (genetic, epigenetic, life history, biological sex, emotional and physiological state, as well as the characteristics of the specific stressor) are involved in determining interindividual variability in response to stress. Additionally, the perception, appraisal, and predictability/controllability of stressors can profoundly affect stress reactivity and stress outcomes. Not all stress is bad, however, and some types of stress can have salutary effects on brain function. Stress can also promote social affiliation which is associated with increased health and life expectancy.</para>
-</section>
 
-<section class="key-terms" id="sect-00020">
-  <title>Key Terms</title>
-  <list display="inline" id="list-00002">
-    <item>interindividual variability</item>
-<item>epigenetic</item>
-<item>critical period</item>
-<item>biological inheritance</item>
-<item>social inheritance</item>
-<item>ecological inheritance</item>
-<item>appraisal/reappraisal</item>
-<item>predictability</item>
-<item>controllability</item>
-<item>social buffering</item>
-<item>resilience</item>
-  </list>
-</section>
+    <section class="section-summary" id="sect-00019">
+      <title>Summary</title>
+      <para id="para-00039">Numerous factors (genetic, epigenetic, life history, biological sex,
+        emotional and physiological state, as well as the characteristics of the specific stressor)
+        are involved in determining interindividual variability in response to stress. Additionally,
+        the perception, appraisal, and predictability/controllability of stressors can profoundly
+        affect stress reactivity and stress outcomes. Not all stress is bad, however, and some types
+        of stress can have salutary effects on brain function. Stress can also promote social
+        affiliation which is associated with increased health and life expectancy.</para>
+    </section>
 
-<section class="references" id="sect-00021">
-  <title>References</title>
-  <para id="para-00040">Amat, J, Paul, E, Zarza, C, Watkins, LR, &amp; Maier, SF. (2006). Previous experience with behavioral control over stress blocks the behavioral and dorsal raphe nucleus activating effects of later uncontrollable stress: Role of the ventral medial prefrontal cortex. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">26</emphasis>:13264-13272.</para>
-<para id="para-00041">Amat, J, Baratta, MV, Paul, E, Bland, ST, Watkins, LR, &amp; Maier, SF. (2005). Medial prefrontal cortex determines how stressor controllability affects behavior and dorsal raphe nucleus. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">8</emphasis>:365-371.</para>
-<para id="para-00042">Bangasser, DA, &amp; Wiersielis, KR. (2018). Sex differences in stress responses: A critical role for corticotropin-releasing factor. <emphasis effect="italics">Hormones (Athens)</emphasis>, <emphasis effect="italics">17</emphasis>:5-13.</para>
-<para id="para-00043">Basso, JC, McHale, A, Ende, V, Oberlin, DJ, &amp; Suzuki, WA. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. <emphasis effect="italics">Behavioural Brain Research</emphasis>, <emphasis effect="italics">356</emphasis>:208-220.</para>
-<para id="para-00044">Bergman, K, Sarkar, P, Glover, V, &amp; O'Connor, TG. (2010). Maternal prenatal cortisol and infant cognitive development: Moderation by infant–mother attachment. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">67</emphasis>:1026-1032.</para>
-<para id="para-00045">Brouwers, EP, van Baar, AL, &amp; Pop, VJ. (2001). Maternal anxiety during pregnancy and subsequent infant development. <emphasis effect="italics">Infant Behavior and Development</emphasis>, <emphasis effect="italics">24</emphasis>:95-106.</para>
-<para id="para-00046">Buescher, JL, Musselman, LP, Wilson, CA, Lang, T, Keleher, M, Baranski, TJ, &amp; Duncan, JG. (2013). Evidence for transgenerational metabolic programming in Drosophila. <emphasis effect="italics">Disease Models &amp; Mechanisms</emphasis>, <emphasis effect="italics">6</emphasis>:1123-1132.</para>
+    <section class="key-terms" id="sect-00020">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>interindividual variability</item>
+        <item>epigenetic</item>
+        <item>critical period</item>
+        <item>biological inheritance</item>
+        <item>social inheritance</item>
+        <item>ecological inheritance</item>
+        <item>appraisal/reappraisal</item>
+        <item>predictability</item>
+        <item>controllability</item>
+        <item>social buffering</item>
+        <item>resilience</item>
+      </list>
+    </section>
 
-<para id="para-00048">Carr, CP, Martins, CMS, Stingel, AM, Lemgruber, VB, &amp; Juruena, MF. (2013). The role of early life stress in adult psychiatric disorders: A systematic review according to childhood trauma subtypes. <emphasis effect="italics">The Journal of Nervous and Mental Disease</emphasis>, <emphasis effect="italics">201</emphasis>:1007-1020.</para>
-<para id="para-00049">Class, QA, Lichtenstein, P, Långström, N, &amp; D'onofrio, BM. (2011). Timing of prenatal maternal exposure to severe life events and adverse pregnancy outcomes: A population study of 2.6 million pregnancies. <emphasis effect="italics">Psychosomatic Medicine</emphasis>, <emphasis effect="italics">73</emphasis>:234.</para>
+    <section class="references" id="sect-00021">
+      <title>References</title>
+      <para id="para-00040">Amat, J., Paul, E., Zarza, C., Watkins, L. R., &amp; Maier, S. F. (2006). Previous
+        experience with behavioral control over stress blocks the behavioral and dorsal raphe
+        nucleus activating effects of later uncontrollable stress: Role of the ventral medial
+        prefrontal cortex. <emphasis effect="italics">The Journal of Neuroscience: The Official
+        Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">26</emphasis>(51),
+        13264–13272. https://doi.org/10.1523/JNEUROSCI.3630-06.2006</para>
+      <para id="para-00041">Amat, J., Baratta, M. V., Paul, E., Bland, S. T., Watkins, L. R., &amp; Maier, S. F.
+        (2005). Medial prefrontal cortex determines how stressor controllability affects behavior
+        and dorsal raphe nucleus. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">8</emphasis>(3), 365–371. https://doi.org/10.1038/nn1399</para>
+      <para id="para-00042">Bangasser, D. A., &amp; Wiersielis, K. R. (2018). Sex differences in stress responses: A
+        critical role for corticotropin-releasing factor. <emphasis effect="italics">Hormones
+        (Athens, Greece)</emphasis>, <emphasis effect="italics">17</emphasis>(1), 5–13.
+        https://doi.org/10.1007/s42000-018-0002-z</para>
+      <para id="para-00043">Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., &amp; Suzuki, W. A. (2019). Brief,
+        daily meditation enhances attention, memory, mood, and emotional regulation in
+        non-experienced meditators. <emphasis effect="italics">Behavioural Brain Research</emphasis>
+        , <emphasis effect="italics">356</emphasis>, 208–220.
+        https://doi.org/10.1016/j.bbr.2018.08.023</para>
+      <para id="para-00044">Bergman, K., Sarkar, P., Glover, V., &amp; O'Connor, T. G. (2010). Maternal prenatal
+        cortisol and infant cognitive development: Moderation by infant-mother attachment. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">67</emphasis>(11),
+        1026–1032. https://doi.org/10.1016/j.biopsych.2010.01.002</para>
+      <para id="para-00045">Brouwers, E. P., van Baar, A. L., &amp; Pop, V. J. (2001). Maternal anxiety during
+        pregnancy and subsequent infant development. <emphasis effect="italics">Infant Behavior and
+        Development</emphasis>, <emphasis effect="italics">24</emphasis>, 95–106.</para>
+      <para id="para-00046">Buescher, J. L., Musselman, L. P., Wilson, C. A., Lang, T., Keleher, M., Baranski, T.
+        J., &amp; Duncan, J. G. (2013). Evidence for transgenerational metabolic programming in
+        Drosophila. <emphasis effect="italics">Disease Models &amp; Mechanisms</emphasis>, <emphasis effect="italics">6</emphasis>(5), 1123–1132. https://doi.org/10.1242/dmm.011924</para>
+      <para id="para-00047">Carr, C. P., Martins, C. M., Stingel, A. M., Lemgruber, V. B., &amp; Juruena, M. F.
+        (2013). The role of early life stress in adult psychiatric disorders: A systematic review
+        according to childhood trauma subtypes. <emphasis effect="italics">The Journal of Nervous
+        and Mental Disease</emphasis>, <emphasis effect="italics">201</emphasis>(12), 1007–1020.
+        https://doi.org/10.1097/NMD.0000000000000049</para>
+      <para id="para-00048">Class, Q. A., Lichtenstein, P., Långström, N., &amp; D'Onofrio, B. M. (2011). Timing of
+        prenatal maternal exposure to severe life events and adverse pregnancy outcomes: A
+        population study of 2.6 million pregnancies. <emphasis effect="italics">Psychosomatic
+        Medicine</emphasis>, <emphasis effect="italics">73</emphasis>(3), 234–241.
+        https://doi.org/10.1097/PSY.0b013e31820a62ce</para>
+      <para id="para-00049">Davis, E. P., Glynn, L. M., Waffarn, F., &amp; Sandman, C. A. (2011). Prenatal maternal
+        stress programs infant stress regulation. <emphasis effect="italics">Journal of Child
+        Psychology and Psychiatry, and Allied Disciplines</emphasis>, <emphasis effect="italics">52</emphasis>(2),
+        119–129. https://doi.org/10.1111/j.1469-7610.2010.02314.x</para>
+      <para id="para-00051">Davitz, J. R., &amp; Mason, D. J. (1955). Socially facilitated reduction of a fear
+        response in rats. <emphasis effect="italics">Journal of Comparative and Physiological
+        Psychology</emphasis>, <emphasis effect="italics">48</emphasis>(3), 149–151.
+        https://doi.org/10.1037/h0046411</para>
+      <para id="para-00052">Deschamps, S., Woodside, B., &amp; Walker, C. D. (2003). Pups presence eliminates the
+        stress hyporesponsiveness of early lactating females to a psychological stress representing
+        a threat to the pups. <emphasis effect="italics">Journal of Neuroendocrinology</emphasis>, <emphasis effect="italics">15</emphasis>(5), 486–497.
+        https://doi.org/10.1046/j.1365-2826.2003.01022.x</para>
+      <para id="para-00053">Eisenberger, N. I., Taylor, S. E., Gable, S. L., Hilmert, C. J., &amp; Lieberman, M. D.
+        (2007). Neural pathways link social support to attenuated neuroendocrine stress responses. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">35</emphasis>(4),
+        1601–1612. https://doi.org/10.1016/j.neuroimage.2007.01.038</para>
+      <para id="para-00054">Enoch, M. A. (2011). The role of early life stress as a predictor for alcohol and drug
+        dependence. <emphasis effect="italics">Psychopharmacology</emphasis>, <emphasis effect="italics">214</emphasis>(1), 17–31. https://doi.org/10.1007/s00213-010-1916-6</para>
+      <para id="para-00055">Fan, Y., Tang, Y. Y., &amp; Posner, M. I. (2014). Cortisol level modulated by
+        integrative meditation in a dose-dependent fashion. <emphasis effect="italics">Stress and
+        Health: Journal of the International Society for the Investigation of Stress</emphasis>, <emphasis effect="italics">30</emphasis>(1), 65–70. https://doi.org/10.1002/smi.2497</para>
+      <para id="para-00056">Fleischer, A. W., &amp; Frick, K. M. (2023). New perspectives on sex differences in
+        learning and memory. <emphasis effect="italics">Trends in Endocrinology and Metabolism: TEM</emphasis>
+        , <emphasis effect="italics">34</emphasis>(9), 526–538.
+        https://doi.org/10.1016/j.tem.2023.06.003</para>
+      <para id="para-00057">Fletcher, J. M. (2010). Adolescent depression and educational attainment: Results using
+        sibling fixed effects. <emphasis effect="italics">Health Economics</emphasis>, <emphasis effect="italics">19</emphasis>(7), 855–871. https://doi.org/10.1002/hec.1526</para>
+      <para id="para-00058">Forkosh, O., Karamihalev, S., Roeh, S., Alon, U., Anpilov, S., Touma, C., Nussbaumer,
+        M., Flachskamm, C., Kaplick, P. M., Shemesh, Y., &amp; Chen, A. (2019). Identity domains
+        capture individual differences from across the behavioral repertoire. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">22</emphasis>(12),
+        2023–2028. https://doi.org/10.1038/s41593-019-0516-y</para>
+      <para id="para-00059">Goel, N., Workman, J. L., Lee, T. T., Innala, L., &amp; Viau, V. (2014). Sex differences
+        in the HPA axis. <emphasis effect="italics">Comprehensive Physiology</emphasis>, <emphasis effect="italics">4</emphasis>(3), 1121–1155. https://doi.org/10.1002/cphy.c130054</para>
+      <para id="para-00060">Hackney, A. C. (2006). Stress and the neuroendocrine system: The role of exercise as a
+        stressor and modifier of stress. <emphasis effect="italics">Expert Review of Endocrinology
+        &amp; Metabolism</emphasis>, <emphasis effect="italics">1</emphasis>(6), 783–792.
+        https://doi.org/10.1586/17446651.1.6.783</para>
+      <para id="para-00061">Haykin, H., &amp; Rolls, A. (2021). The neuroimmune response during stress: A
+        physiological perspective. <emphasis effect="italics">Immunity</emphasis>, <emphasis effect="italics">54</emphasis>(9), 1933–1947. https://doi.org/10.1016/j.immuni.2021.08.023</para>
+      <para id="para-00062">Heim, C., &amp; Nemeroff, C. B. (2001). The role of childhood trauma in the neurobiology
+        of mood and anxiety disorders: Preclinical and clinical studies. <emphasis effect="italics">Biological
+        Psychiatry</emphasis>, <emphasis effect="italics">49</emphasis>(12), 1023–1039.
+        https://doi.org/10.1016/s0006-3223(01)01157-x</para>
+      <para id="para-00063">House, J. S., Landis, K. R., &amp; Umberson, D. (1988). Social relationships and health. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">241</emphasis>(4865),
+        540–545. https://doi.org/10.1126/science.3399889</para>
+      <para id="para-00064">Iriki, M., &amp; Simon, E. (2012). Differential control of efferent sympathetic activity
+        revisited. <emphasis effect="italics">The Journal of Physiological Sciences: JPS</emphasis>, <emphasis effect="italics">62</emphasis>(4), 275–298. https://doi.org/10.1007/s12576-012-0208-9</para>
+      <para id="para-00065">Jamieson, J. P., Nock, M. K., &amp; Mendes, W. B. (2012). Mind over matter: Reappraising
+        arousal improves cardiovascular and cognitive responses to stress. <emphasis effect="italics">Journal of Experimental Psychology: General</emphasis>, <emphasis effect="italics">141</emphasis>(3), 417–422. https://doi.org/10.1037/a0025719</para>
+      <para id="para-00066">Jezova, D., Radikova, Z., &amp; Vigas, M. (2007). Growth hormone response to different
+        consecutive stress stimuli in healthy men: Is there any difference? <emphasis effect="italics">Stress (Amsterdam, Netherlands)</emphasis>, <emphasis effect="italics">10</emphasis>(2),
+        205–211. https://doi.org/10.1080/10253890701292168</para>
+      <para id="para-00067">Kabat-Zinn, J. (2013). <emphasis effect="italics">Full catastrophe living: Using the
+        wisdom of your body and mind to face stress, pain, and illness</emphasis> (Revised and
+        updated edition). Bantam Books trade paperback.</para>
+      <para id="para-00068">Kalisch, R. (2009). The functional neuroanatomy of reappraisal: Time matters. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">33</emphasis>(8), 1215–1226.
+        https://doi.org/10.1016/j.neubiorev.2009.06.003</para>
+      <para id="para-00069">Keller, A., Litzelman, K., Wisk, L. E., Maddox, T., Cheng, E. R., Creswell, P. D., &amp;
+        Witt, W. P. (2012). Does the perception that stress affects health matter? The association
+        with health and mortality. <emphasis effect="italics">Health Psychology: Official Journal of
+        the Division of Health Psychology, American Psychological Association</emphasis>, <emphasis effect="italics">31</emphasis>(5), 677–684. https://doi.org/10.1037/a0026743</para>
+      <para id="para-00070">Kim, J. W., Ko, M. J., Gonzales, E. L., Kang, R. J., Kim, D. G., Kim, Y., Seung, H., Oh,
+        H. A., Eun, P. H., &amp; Shin, C. Y. (2018). Social support rescues acute stress-induced
+        cognitive impairments by modulating ERK1/2 phosphorylation in adolescent mice. <emphasis effect="italics">Scientific Reports</emphasis>, <emphasis effect="italics">8</emphasis>(1),
+        12003. https://doi.org/10.1038/s41598-018-30524-4</para>
+      <para id="para-00071">Klosin, A., Casas, E., Hidalgo-Carcedo, C., Vavouri, T., &amp; Lehner, B. (2017).
+        Transgenerational transmission of environmental information in C. elegans. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">356</emphasis>(6335),
+        320–323. https://doi.org/10.1126/science.aah6412</para>
+      <para id="para-00072">Liu, D., Diorio, J., Tannenbaum, B., Caldji, C., Francis, D., Freedman, A., Sharma, S.,
+        Pearson, D., Plotsky, P. M., &amp; Meaney, M. J. (1997). Maternal care, hippocampal
+        glucocorticoid receptors, and hypothalamic-pituitary-adrenal responses to stress. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">277</emphasis>(5332),
+        1659–1662. https://doi.org/10.1126/science.277.5332.1659</para>
+      <para id="para-00073">Measserman, J. H. (1943). <emphasis effect="italics">Behavior and neurosis</emphasis>.
+        University of Chicago Press.</para>
+      <para id="para-00074">Miller, D. B., &amp; O'Callaghan, J. P. (2005). Aging, stress and the hippocampus. <emphasis effect="italics">Ageing Research Reviews</emphasis>, <emphasis effect="italics">4</emphasis>(2),
+        123–140. https://doi.org/10.1016/j.arr.2005.03.002</para>
+      <para id="para-00075">Morris, W. N., Worchel, S., Bios, J. L., Pearson, J. A., Rountree, C. A., Samaha, G. M.,
+        Wachtler, J., &amp; Wright, S. L. (1976). Collective coping with stress: Group reactions to
+        fear, anxiety, and ambiguity. <emphasis effect="italics">Journal of Personality and Social
+        Psychology</emphasis>, <emphasis effect="italics">33</emphasis>(6), 674–679.
+        https://doi.org/10.1037//0022-3514.33.6.674</para>
+      <para id="para-00076">Muroy, S. E., Long, K. L., Kaufer, D., &amp; Kirby, E. D. (2016). Moderate
+        stress-induced social bonding and oxytocin signaling are disrupted by predator odor in male
+        rats. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the
+        American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">41</emphasis>(8),
+        2160–2170. https://doi.org/10.1038/npp.2016.16</para>
+      <para id="para-00077">Nabi, H., Kivimäki, M., Batty, G. D., Shipley, M. J., Britton, A., Brunner, E. J.,
+        Vahtera, J., Lemogne, C., Elbaz, A., &amp; Singh-Manoux, A. (2013). Increased risk of
+        coronary heart disease among individuals reporting adverse impact of stress on their health:
+        The Whitehall II prospective cohort study. <emphasis effect="italics">European Heart Journal</emphasis>
+        , <emphasis effect="italics">34</emphasis>(34), 2697–2705.
+        https://doi.org/10.1093/eurheartj/eht216</para>
+      <para id="para-00078">O'Connor, T. G., Heron, J., Golding, J., Beveridge, M., &amp; Glover, V. (2002).
+        Maternal antenatal anxiety and children's behavioural/emotional problems at 4 years. Report
+        from the Avon Longitudinal Study of Parents and Children. <emphasis effect="italics">The
+        British Journal of Psychiatry: The Journal of Mental Science</emphasis>, <emphasis effect="italics">180</emphasis>, 502–508. https://doi.org/10.1192/bjp.180.6.502</para>
+      <para id="para-00079">Perroud, N., Rutembesa, E., Paoloni-Giacobino, A., Mutabaruka, J., Mutesa, L., Stenz,
+        L., Malafosse, A., &amp; Karege, F. (2014). The Tutsi genocide and transgenerational
+        transmission of maternal stress: Epigenetics and biology of the HPA axis. <emphasis effect="italics">The World Journal of Biological Psychiatry: The Official Journal of the
+        World Federation of Societies of Biological Psychiatry</emphasis>, <emphasis effect="italics">15</emphasis>(4), 334–345. https://doi.org/10.3109/15622975.2013.866693</para>
+      <para id="para-00080">Pryce, C. R., Rüedi-Bettschen, D., Dettling, A. C., Weston, A., Russig, H., Ferger, B.,
+        &amp; Feldon, J. (2005). Long-term effects of early-life environmental manipulations in
+        rodents and primates: Potential animal models in depression research. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">29</emphasis>(4-5), 649–674.
+        https://doi.org/10.1016/j.neubiorev.2005.03.011</para>
+      <para id="para-00081">Raichlen, D. A., Foster, A. D., Seillier, A., Giuffrida, A., &amp; Gerdeman, G. L.
+        (2013). Exercise-induced endocannabinoid signaling is modulated by intensity. <emphasis effect="italics">European Journal of Applied Physiology</emphasis>, <emphasis effect="italics">113</emphasis>(4), 869–875. https://doi.org/10.1007/s00421-012-2495-5</para>
+      <para id="para-00082">Rechavi, O., Houri-Ze'evi, L., Anava, S., Goh, W. S. S., Kerk, S. Y., Hannon, G. J.,
+        &amp; Hobert, O. (2014). Starvation-induced transgenerational inheritance of small RNAs in
+        C. elegans. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">158</emphasis>(2),
+        277–287. https://doi.org/10.1016/j.cell.2014.06.020</para>
+      <para id="para-00083">Ronald, A., Pennell, C. E., &amp; Whitehouse, A. J. (2011). Prenatal maternal stress
+        associated with ADHD and autistic traits in early childhood. <emphasis effect="italics">Frontiers
+        in Psychology</emphasis>, <emphasis effect="italics">1</emphasis>, 223.
+        https://doi.org/10.3389/fpsyg.2010.00223</para>
+      <para id="para-00085">Sapolsky, R. M. (2015). Stress and the brain: Individual variability and the inverted-U. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">18</emphasis>(10),
+        1344–1346. https://doi.org/10.1038/nn.4109</para>
+      <para id="para-00086">Tang, Y. Y., Ma, Y., Wang, J., Fan, Y., Feng, S., Lu, Q., Yu, Q., Sui, D., Rothbart, M.
+        K., Fan, M., &amp; Posner, M. I. (2007). Short-term meditation training improves attention
+        and self-regulation. <emphasis effect="italics">Proceedings of the National Academy of
+        Sciences of the United States of America</emphasis>, <emphasis effect="italics">104</emphasis>(43),
+        17152–17156. https://doi.org/10.1073/pnas.0707678104</para>
+      <para id="para-00087">Taylor, S. E. (2002). <emphasis effect="italics">The tending instinct: How nurturing is
+        essential for who we are and how we live</emphasis>. Times Books.</para>
+      <para id="para-00088">Taylor, S. E. (2011). Social support: A review. In H. S. Friedman (Ed.), <emphasis effect="italics">The Oxford Handbook of Health Psychology</emphasis> (pp. 189–214). Oxford
+        University Press.</para>
+      <para id="para-00089">Traustadóttir, T., Bosch, P. R., &amp; Matt, K. S. (2005). The HPA axis response to
+        stress in women: Effects of aging and fitness. <emphasis effect="italics">
+        Psychoneuroendocrinology</emphasis>, <emphasis effect="italics">30</emphasis>(4), 392–402.
+        https://doi.org/10.1016/j.psyneuen.2004.11.002</para>
+      <para id="para-00090">Volkow, N. D., Hampson, A. J., &amp; Baler, R. D. (2017). Don't worry, be happy:
+        Endocannabinoids and cannabis at the intersection of stress and reward. <emphasis effect="italics">Annual Review of Pharmacology and Toxicology</emphasis>, <emphasis effect="italics">57</emphasis>, 285–308.
+        https://doi.org/10.1146/annurev-pharmtox-010716-104615</para>
+      <para id="para-00091">von Dawans, B., Fischbacher, U., Kirschbaum, C., Fehr, E., &amp; Heinrichs, M. (2012).
+        The social dimension of stress reactivity: Acute stress increases prosocial behavior in
+        humans. <emphasis effect="italics">Psychological Science</emphasis>, <emphasis effect="italics">23</emphasis>(6), 651–660. https://doi.org/10.1177/0956797611431576</para>
+      <para id="para-00092">Weaver, I. C., Cervoni, N., Champagne, F. A., D'Alessio, A. C., Sharma, S., Seckl, J.
+        R., Dymov, S., Szyf, M., &amp; Meaney, M. J. (2004). Epigenetic programming by maternal
+        behavior. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>(8), 847–854. https://doi.org/10.1038/nn1276</para>
+      <para id="para-00093">Weinstock, M. (2005). The potential influence of maternal stress hormones on development
+        and mental health of the offspring. <emphasis effect="italics">Brain, Behavior, and Immunity</emphasis>
+        , <emphasis effect="italics">19</emphasis>(4), 296–308.
+        https://doi.org/10.1016/j.bbi.2004.09.006</para>
+      <para id="para-00094">Weinstock, M. (2008). The long-term behavioural consequences of prenatal stress. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">32</emphasis>(6), 1073–1086.
+        https://doi.org/10.1016/j.neubiorev.2008.03.002</para>
+      <para id="para-00095">Yehuda, R., &amp; Bierer, L. M. (2008). Transgenerational transmission of cortisol and
+        PTSD risk. <emphasis effect="italics">Progress in Brain Research</emphasis>, <emphasis effect="italics">167</emphasis>, 121–135. https://doi.org/10.1016/S0079-6123(07)67009-5</para>
+      <para id="para-00096">Yehuda, R., Daskalakis, N. P., Bierer, L. M., Bader, H. N., Klengel, T., Holsboer, F.,
+        &amp; Binder, E. B. (2016). Holocaust exposure induced intergenerational effects on FKBP5
+        methylation. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">80</emphasis>(5), 372–380. https://doi.org/10.1016/j.biopsych.2015.08.005</para>
+      <para id="para-00097">Zannas, A. S., Wiechmann, T., Gassen, N. C., &amp; Binder, E. B. (2016).
+        Gene-stress-epigenetic regulation of FKBP5: Clinical and translational implications. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the American College of
+        Neuropsychopharmacology</emphasis>, <emphasis effect="italics">41</emphasis>(1), 261–274.
+        https://doi.org/10.1038/npp.2015.235</para>
 
-<para id="para-00051">Davis, EP, Glynn, LM, Waffarn, F, &amp; Sandman, CA. (2011). Prenatal maternal stress programs infant stress regulation. <emphasis effect="italics">Journal of Child Psychology and Psychiatry</emphasis>, <emphasis effect="italics">52</emphasis>:119-129.</para>
-<para id="para-00052">Davitz, JR, &amp; Mason, DJ. (1955). Socially facilitated reduction of a fear response in rats. <emphasis effect="italics">Journal of Comparative and Physiological Psychology</emphasis>, <emphasis effect="italics">48</emphasis>:149-151.</para>
-<para id="para-00053">Deschamps, S, Woodside, B, &amp; Walker, C-D. (2003). Pups presence eliminates the stress hyporesponsiveness of early lactating females to a psychological stress representing a threat to the pups: Normal stress responses in early lactation. <emphasis effect="italics">Journal of Neuroendocrinology</emphasis>, <emphasis effect="italics">15</emphasis>:486–497.</para>
-<para id="para-00054">Eisenberger, NI, Taylor, SE, Gable, SL, Hilmert, CJ, &amp; Lieberman, MD. (2007). Neural pathways link social support to attenuated neuroendocrine stress responses.</para>
+    </section>
 
+    <section class="multiple-choice" id="sect-00022">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00100"><link class="os-embed" url="#exercise/Neuro-12-03-001"/></para>
+        </problem>
+      </exercise>
 
-<para id="para-00055">Enoch, M-A. (2011). The role of early life stress as a predictor for alcohol and drug dependence. <emphasis effect="italics">Psychopharmacology</emphasis>, <emphasis effect="italics">214</emphasis>:17-31.</para>
-<para id="para-00056">Fan, Y, Tang, YY, &amp; Posner, MI. (2014). Cortisol level modulated by integrative meditation in a dose-dependent fashion. <emphasis effect="italics">Stress Health</emphasis>, <emphasis effect="italics">30</emphasis>:65-70.</para>
-<para id="para-00057">Fleischer, AW, &amp; Frick, KM. (2023). New perspectives on sex differences in learning and memory. <emphasis effect="italics">Trends in Endocrinology &amp; Metabolism</emphasis>, <emphasis effect="italics">34</emphasis>:526–538.</para>
-<para id="para-00058">Fletcher, JM. (2010). Adolescent depression and educational attainment: Results using sibling fixed effects. <emphasis effect="italics">Health Economics</emphasis>, <emphasis effect="italics">19</emphasis>:855-871.</para>
-<para id="para-00047">Forkosh O, Karamihalev S, Roeh S, Alon U, Anpilov S, Touma C, Nussbaumer M, Flachskamm C, Kaplick PM, Shemesh Y, Chen A (2019) Identity domains capture individual differences from across the behavioral repertoire. <emphasis effect="italics">Nat Neurosci 22</emphasis>:2023-2028. doi: 10.1038/s41593-019-0516-y</para>
-<para id="para-00059">Goel, N, Workman, JL, Lee, TT, Innala, L, &amp; Viau, V. (2014). Sex differences in the HPA axis. <emphasis effect="italics">Compr Physiol</emphasis>, <emphasis effect="italics">4</emphasis>:1121-1155.</para>
-<para id="para-00060">Hackney, AC. (2006). Stress and the neuroendocrine system: The role of exercise as a stressor and modifier of stress. <emphasis effect="italics">Expert Review of Endocrinology &amp; Metabolism</emphasis>, <emphasis effect="italics">1</emphasis>:783-792.</para>
-<para id="para-00061">Haykin, H, &amp; Rolls, A. (2021). The neuroimmune response during stress: A physiological perspective. <emphasis effect="italics">Immunity</emphasis>, <emphasis effect="italics">54</emphasis>:1933–1947.</para>
-<para id="para-00062">Heim, C, &amp; Nemeroff, CB. (2001). The role of childhood trauma in the neurobiology of mood and anxiety disorders: Preclinical and clinical studies. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">49</emphasis>:1023-1039.</para>
-<para id="para-00063">House, J, Landis, K, &amp; Umberson, D. (1988). Social relationships and health. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">241</emphasis>:540–545.</para>
-<para id="para-00064">Iriki, M, &amp; Simon, E. (2012). Differential control of efferent sympathetic activity revisited. <emphasis effect="italics">Journal of Physiological Sciences</emphasis>, <emphasis effect="italics">62</emphasis>:275–298.</para>
-<para id="para-00065">Jamieson, JP, Nock, MK, &amp; Mendes, WB. (2012). Mind over matter: Reappraising arousal improves cardiovascular and cognitive responses to stress. <emphasis effect="italics">Journal of Experimental Psychology: General</emphasis>, <emphasis effect="italics">141</emphasis>:417-422.</para>
-<para id="para-00066">Jezova, D, Radikova, Z, &amp; Vigas, M. (2007). Growth hormone response to different consecutive stress stimuli in healthy men: Is there any difference? <emphasis effect="italics">Stress</emphasis>, <emphasis effect="italics">10</emphasis>:205–211.</para>
-<para id="para-00067">Kabat-Zinn, J. (2013). <emphasis effect="italics">Full catastrophe living : Using the wisdom of your body and mind to face stress, pain, and illness</emphasis>, Revised and updated edition. New York: Bantam Books trade paperback.</para>
-<para id="para-00068">Kalisch, R. (2009). The functional neuroanatomy of reappraisal: Time matters. <emphasis effect="italics">Neuroscience &amp; Biobehavioral Reviews</emphasis>, <emphasis effect="italics">33</emphasis>:1215-1226.</para>
-<para id="para-00069">Keller, A, Litzelman, K, Wisk, LE, Maddox, T, Cheng, ER, Creswell, PD, &amp; Witt, WP. (2012). Does the perception that stress affects health matter? The association with health and mortality. <emphasis effect="italics">Health Psychology: Official Journal of the Division of Health Psychology, American Psychological Association</emphasis>, <emphasis effect="italics">31</emphasis>:677-684.</para>
-<para id="para-00070">Kim, J-W, Ko, MJ, Gonzales, EL, Kang, RJ, Kim, DG, Kim, Y, Seung, H, Oh, HA, Eun, PH, &amp; Shin, CY. (2018). Social support rescues acute stress-induced cognitive impairments by modulating ERK1/2 phosphorylation in adolescent mice. <emphasis effect="italics">Scientific Reports</emphasis>, <emphasis effect="italics">8</emphasis>:12003.</para>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00101"><link class="os-embed" url="#exercise/Neuro-12-03-002"/></para>
+        </problem>
+      </exercise>
 
-<para id="para-00071">Klosin, A, Casas, E, Hidalgo-Carcedo, C, Vavouri, T, &amp; Lehner, B. (2017). Transgenerational transmission of environmental information in C. elegans. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">356</emphasis>:320-323.</para>
-<para id="para-00072">Liu, D, Diorio, J, Tannenbaum, B, Caldji, C, Francis, D, Freedman, A, Sharma, S, Pearson, D, Plotsky, PM, &amp; Meaney, MJ. (1997). Maternal care, hippocampal glucocorticoid receptors, and hypothalamic-pituitary-adrenal responses to stress. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">277</emphasis>:1659-1662.</para>
-<para id="para-00073">Measserman, JH. (1943). <emphasis effect="italics">Behavior and neurosis</emphasis>. Chicago: University of Chicago Press.</para>
-<para id="para-00074">Miller, D, &amp; O’callaghan, J. (2005). Aging, stress and the hippocampus. <emphasis effect="italics">Ageing Research Reviews</emphasis>, <emphasis effect="italics">4</emphasis>:123-140.</para>
-<para id="para-00075">Morris, WN, Worchel, S, Bois, JL, Pearson, JA, Rountree, CA, Samaha, GM, Wachtler, J, &amp; Wright, SL. (1976). Collective coping with stress: Group reactions to fear, anxiety, and ambiguity. <emphasis effect="italics">Journal of Personality and Social Psychology</emphasis>, <emphasis effect="italics">33</emphasis>:674-679.</para>
-<para id="para-00076">Muroy, SE, Long, KLP, Kaufer, D, &amp; Kirby, ED. (2016). Moderate stress-induced social bonding and oxytocin signaling are disrupted by predator odor in male rats. <emphasis effect="italics">Neuropsychopharmacology</emphasis>, <emphasis effect="italics">41</emphasis>:2160-2170.</para>
-<para id="para-00077">Nabi, H, Kivimaki, M, Batty, GD, Shipley, MJ, Britton, A, Brunner, EJ, Vahtera, J, Lemogne, C, Elbaz, A, &amp; Singh-Manoux, A. (2013). Increased risk of coronary heart disease among individuals reporting adverse impact of stress on their health: the Whitehall II prospective cohort study. <emphasis effect="italics">European Heart Journal</emphasis>, <emphasis effect="italics">34</emphasis>:2697-2705.</para>
-<para id="para-00078">O'Connor, TG, Heron, J, Golding, J, Beveridge, M, &amp; Glover, V. (2002). Maternal antenatal anxiety and children's behavioural/emotional problems at 4 years: Report from the Avon Longitudinal Study of Parents and Children. <emphasis effect="italics">The British Journal of Psychiatry</emphasis>, <emphasis effect="italics">180</emphasis>:502-508.</para>
-<para id="para-00079">Perroud, N, Rutembesa, E, Paoloni-Giacobino, A, Mutabaruka, J, Mutesa, L, Stenz, L, Malafosse, A &amp; Karege, F. (2014). The Tutsi genocide and transgenerational transmission of maternal stress: Epigenetics and biology of the HPA axis. <emphasis effect="italics">The World Journal of Biological Psychiatry</emphasis>, <emphasis effect="italics">15</emphasis>(4): 334-345.</para>
-<para id="para-00080">Pryce, CR, Rüedi-Bettschen, D, Dettling, AC, Weston, A, Russig, H, Ferger, B, &amp; Feldon, J. (2005). Long-term effects of early-life environmental manipulations in rodents and primates: Potential animal models in depression research. <emphasis effect="italics">Neuroscience &amp; Biobehavioral Reviews</emphasis>, <emphasis effect="italics">29</emphasis>:649-674.</para>
-<para id="para-00081">Raichlen, DA, Foster, AD, Seillier, A, Giuffrida, A, &amp; Gerdeman, GL. (2013). Exercise-induced endocannabinoid signaling is modulated by intensity. <emphasis effect="italics">European Journal of Applied Physiology</emphasis>, <emphasis effect="italics">113</emphasis>:869-875.</para>
-<para id="para-00082">Rechavi, O, Houri-Ze’evi, L, Anava, S, Goh, WSS, Kerk, SY, Hannon, GJ, &amp; Hobert, O. (2014). Starvation-induced transgenerational inheritance of small RNAs in C. elegans. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">158</emphasis>:277-287.</para>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00102"><link class="os-embed" url="#exercise/Neuro-12-03-003"/></para>
+        </problem>
+      </exercise>
 
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00103"><link class="os-embed" url="#exercise/Neuro-12-03-004"/></para>
+        </problem>
+      </exercise>
 
-<para id="para-00083">Ronald, A, Pennell, C, &amp; Whitehouse, A. (2011). Prenatal maternal stress associated with ADHD and autistic traits in early childhood. <emphasis effect="italics">Frontiers in Psychology</emphasis>, <emphasis effect="italics">1</emphasis>.</para>
-<para id="para-00085">Sapolsky, RM. (2015). Stress and the brain: individual variability and the inverted-U. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">18</emphasis>:1344-1346.</para>
-<para id="para-00087">Tang, YY, Ma, Y, Wang, J, Fan, Y, Feng, S, Lu, Q, Yu, Q, Sui, D, Rothbart, MK, Fan, M, &amp; Posner, MI. (2007). Short-term meditation training improves attention and self-regulation. <emphasis effect="italics">Proceedings of the National Academy of Sciences USA</emphasis>, <emphasis effect="italics">104</emphasis>:17152-17156.</para>
-<para id="para-00088">Taylor, SE. (2002). <emphasis effect="italics">The tending instinct : how nurturing is essential for who we are and how we live</emphasis>, 1st Edition. New York: Times Books.</para>
-<para id="para-00089">Taylor, SE. (2011). Social support: A review. In: The Oxford Handbook of Health Psychology (Friedman HS, ed), pp 189–214. New York: Oxford University Press New York.</para>
-<para id="para-00090">Traustadóttir, T, Bosch, PR, &amp; Matt, KS. (2005). The HPA axis response to stress in women: effects of aging and fitness. <emphasis effect="italics">Psychoneuroendocrinology</emphasis>, <emphasis effect="italics">30</emphasis>:392-402.</para>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00104"><link class="os-embed" url="#exercise/Neuro-12-03-005"/></para>
+        </problem>
+      </exercise>
 
-<para id="para-00092">Volkow, ND, Hampson, AJ, &amp; Baler, RD. (2017). Don't worry, be happy: Endocannabinoids and cannabis at the intersection of stress and reward. <emphasis effect="italics">Annual Review of Pharmacology and Toxicology</emphasis>, <emphasis effect="italics">57</emphasis>:285-308.</para>
-<para id="para-00093">von Dawans, B, Fischbacher, U, Kirschbaum, C, Fehr, E, &amp; Heinrichs, M. (2012). The social dimension of stress reactivity: Acute stress increases prosocial behavior in humans. <emphasis effect="italics">Psychological Science</emphasis>, <emphasis effect="italics">23</emphasis>:651–660.</para>
-<para id="para-00094">Weaver, IC, Cervoni, N, Champagne, FA, D'Alessio, AC, Sharma, S, Seckl, JR, Dymov, S, Szyf, M, &amp; Meaney, MJ. (2004). Epigenetic programming by maternal behavior. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>:847-854.</para>
-<para id="para-00095">Weinstock, M. (2005). The potential influence of maternal stress hormones on development and mental health of the offspring. <emphasis effect="italics">Brain, Behavior, and Immunity</emphasis>, <emphasis effect="italics">19</emphasis>:296-308.</para>
-<para id="para-00096">Weinstock, M. (2008). The long-term behavioural consequences of prenatal stress. <emphasis effect="italics">Neuroscience &amp; Biobehavioral Reviews</emphasis>, <emphasis effect="italics">32</emphasis>:1073-1086.</para>
-<para id="para-00097">Yehuda, R, &amp; Bierer, LM. (2007). Transgenerational transmission of cortisol and PTSD risk. <emphasis effect="italics">Progress in Brain Research</emphasis>, <emphasis effect="italics">167</emphasis>:121-135.</para>
-<para id="para-00098">Yehuda, R, Daskalakis, NP, Bierer, LM, Bader, HN, Klengel, T, Holsboer, F, &amp; Binder, EB. (2016). Holocaust exposure induced intergenerational effects on FKBP5 methylation. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">80</emphasis>:372–380.</para>
-<para id="para-00099">Zannas, AS, Wiechmann, T, Gassen, NC, &amp; Binder, EB. (2016). Gene–Stress–Epigenetic regulation of FKBP5: Clinical and translational implications. <emphasis effect="italics">Neuropsychopharmacol</emphasis>, <emphasis effect="italics">41</emphasis>:261–274.</para>
-</section>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00105"><link class="os-embed" url="#exercise/Neuro-12-03-006"/></para>
+        </problem>
+      </exercise>
 
-<section class="multiple-choice" id="sect-00022"> 
-  <title>Multiple Choice</title>
-  <exercise id="exer-00001">
-    <problem id="prob-00001">
-      <para id="para-00100"><link class="os-embed" url="#exercise/Neuro-12-03-001"/></para>
-    </problem>
-  </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00106"><link class="os-embed" url="#exercise/Neuro-12-03-007"/></para>
+        </problem>
+      </exercise>
 
-  <exercise id="exer-00002">
-    <problem id="prob-00002">
-      <para id="para-00101"><link class="os-embed" url="#exercise/Neuro-12-03-002"/></para>
-    </problem>
-  </exercise>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+          <para id="para-00107"><link class="os-embed" url="#exercise/Neuro-12-03-008"/></para>
+        </problem>
+      </exercise>
 
-  <exercise id="exer-00003">
-    <problem id="prob-00003">
-      <para id="para-00102"><link class="os-embed" url="#exercise/Neuro-12-03-003"/></para>
-    </problem>
-  </exercise>
-
-  <exercise id="exer-00004">
-    <problem id="prob-00004">
-      <para id="para-00103"><link class="os-embed" url="#exercise/Neuro-12-03-004"/></para>
-    </problem>
-  </exercise>
-
-  <exercise id="exer-00005">
-    <problem id="prob-00005">
-      <para id="para-00104"><link class="os-embed" url="#exercise/Neuro-12-03-005"/></para>
-    </problem>
-  </exercise>
-
-  <exercise id="exer-00006">
-    <problem id="prob-00006">
-      <para id="para-00105"><link class="os-embed" url="#exercise/Neuro-12-03-006"/></para>
-    </problem>
-  </exercise>
-
-  <exercise id="exer-00007">
-    <problem id="prob-00007">
-      <para id="para-00106"><link class="os-embed" url="#exercise/Neuro-12-03-007"/></para>
-    </problem>
-  </exercise>
-
-  <exercise id="exer-00008">
-    <problem id="prob-00008">
-      <para id="para-00107"><link class="os-embed" url="#exercise/Neuro-12-03-008"/></para>
-    </problem>
-  </exercise>
-
-  </section>
-  <section id="fillin12" class="fillin-blank"> 
-    <title>Fill in the Blank</title>
-  <exercise id="exer-00009">
-    <problem id="prob-00009">
-      <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-12-03-009"/></para>
-    </problem>
-  </exercise>
-    <exercise id="exer-00010">
-      <problem id="prob-00010">
-        <para id="para-00084"><link class="os-embed" url="#exercise/Neuro-12-03-010"/></para>
-      </problem>
-    </exercise></section>
-</content>
+    </section>
+    <section id="fillin12" class="fillin-blank">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00009">
+        <problem id="prob-00009">
+          <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-12-03-009"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00010">
+        <problem id="prob-00010">
+          <para id="para-00084"><link class="os-embed" url="#exercise/Neuro-12-03-010"/></para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
 </document>
