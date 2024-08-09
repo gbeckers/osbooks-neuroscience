@@ -9,19 +9,19 @@
 
     <figure class="splash" id="splosh">
       <media alt="Scanning electron microscopy image showing the tip links between hair cells.">
-        <image mime-type="image/jpg" src="../../media/ch07-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch07-splash.jpg" />
       </media>
       <caption>Scanning electron microscopy (SEM) images of mouse outer hair cell stereocilia are pseudocolored to highlight the rows of cilia. Image credit: SEM cilia images from: Velez-Ortega et al., 2017, eLife https://elifesciences.org/articles/24661. CC BY 4.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>C. Daniel Meliza, PhD</title>
       <para id="para-00001"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro7Author"/>
-</media></para>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro7Author" />
+        </media></para>
     </note>
     <para id="para-00002">Imagine yourself lying in a field on a warm summer day. With your eyes closed, you can hear the wind moving through the grass, and off to your left, through the branches of an oak tree. In the tree, a Scrub Jay is giving a loud, screeching call, while a Western Meadowlark is singing its long, warbled improvisations. Over to your right, a stream is lazily flowing through the meadow except where it spills around some rocks. At intervals, you hear splashes from the water. Your friend is throwing in rocks. Just as you are starting to doze off, she calls your name, waking you up. You can sense a note of impatience in her voice. Later, in a crowded room, you are straining to listen to an acquaintance tell a rather boring story over the sounds of a dozen other conversations when you hear your friend say your name again, and you turn your head to look at her.</para>
     <para id="para-00003">How is it possible to gain so much information from sound? How are you able to distinguish one type of bird from another, or tell the difference between the texture of wind in grass from wind in a tree, or between a lazy brook and one that is moving rapidly? How do you know where sounds originate, even in a complex landscape of other sounds? How can you follow a conversation against a background of similar, almost identical voices, and how can the sound of your name arouse you from unconsciousness or instantly claim your attention?</para>
-   <para id="para-00004"> Some of these questions can be answered now, while others remain mostly unsolved. This chapter will introduce you to the auditory system, which consists of the ear, a highly specialized sensory organ that can detect miniscule movements in the air, along with the assembly of nerves and brain areas that filter and process this information into a rich perceptual world.</para>
+    <para id="para-00004"> Some of these questions can be answered now, while others remain mostly unsolved. This chapter will introduce you to the auditory system, which consists of the ear, a highly specialized sensory organ that can detect miniscule movements in the air, along with the assembly of nerves and brain areas that filter and process this information into a rich perceptual world.</para>
     <para id="para-00005">This chapter also covers the vestibular system, which detects movement of the head and is responsible for the sense of balance. The vestibular sensory organ is also located in the inner ear, and there are close similarities in how both systems convert physical movement into neural signals.</para>
   </content>
 </document>

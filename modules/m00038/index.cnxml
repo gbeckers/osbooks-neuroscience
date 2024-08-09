@@ -8,25 +8,22 @@
   <content class="introduction">
     <figure class="splash" id="fig-00001">
       <media alt="A micrograph of a cross section of stratified squamous epithelium, stained pink. The cells are flat and thin.">
-        <image mime-type="image/jpg" src="../../media/ch08-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch08-splash.jpg" />
       </media>
-      <caption>Flattened and thin squamous epithelial cells are found inside cavities and ducts, including the mouth and nose. Image credit: Berkshire Community College  Bioscience Image Library, CC0, via Wikimedia Commons</caption>
+      <caption>Flattened and thin squamous epithelial cells are found inside cavities and ducts, including the mouth and nose. Image credit: Berkshire Community College Bioscience Image Library, CC0, via Wikimedia Commons</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Cecil J. Saunders and Joseph D. Zak</title>
     <para id="para-00006"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro8Author-S"/>
-</media></para>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro8Author-S" />
+        </media></para>
       <para id="para-00001"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro8Author-Z"/>
-</media></para>
-</note>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro8Author-Z" />
+        </media></para>
+    </note>
     <para id="para-00005">Your neuroscience study group is getting together to work on its end-of-course presentation and one of your group members has kindly brought some of their “famous” homemade chips and salsa for the group to enjoy. After a few hours of work, the group decides to break for a tasty snack. As each of the members bites into a chip loaded with salsa you hear in quick succession:</para>
-  <para id="para-00002">“Yuck, this tastes like soap!”<newline/>
-      “Ouch, this burns!”<newline/>
-      “Yum, this is the best salsa ever!”
-</para>
-  <para id="para-00003">How could the same food produce such different responses among people? Why would the nervous systems of members of the same species produce such diametrically opposed responses?</para>
-<para id="para-00004">Chemicals are the building blocks of our world. From the sweet taste of an apple to the fresh smell of a newly cut lawn and even the burn of onion in our eyes, every substance we encounter requires us to interact with chemicals. The chemical senses allow us to build internal representations of the rich chemical environment that comprises our external world. Our repertoire of chemical senses directs us toward energy-providing food, alerts us to danger, and helps many animals find mates. While the anatomical, cellular, and molecular features of the chemical senses vary between systems and comparatively between organisms, each system serves a unique purpose in allowing animals to both interact and engage with the chemical environment surrounding them.</para>
+    <para id="para-00002">“Yuck, this tastes like soap!”<newline /> “Ouch, this burns!”<newline /> “Yum, this is the best salsa ever!” </para>
+    <para id="para-00003">How could the same food produce such different responses among people? Why would the nervous systems of members of the same species produce such diametrically opposed responses?</para>
+    <para id="para-00004">Chemicals are the building blocks of our world. From the sweet taste of an apple to the fresh smell of a newly cut lawn and even the burn of onion in our eyes, every substance we encounter requires us to interact with chemicals. The chemical senses allow us to build internal representations of the rich chemical environment that comprises our external world. Our repertoire of chemical senses directs us toward energy-providing food, alerts us to danger, and helps many animals find mates. While the anatomical, cellular, and molecular features of the chemical senses vary between systems and comparatively between organisms, each system serves a unique purpose in allowing animals to both interact and engage with the chemical environment surrounding them.</para>
   </content>
 </document>

@@ -11,328 +11,99 @@
       <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
         <item>Define allostatic (over)load and explain its consequences</item>
-        <item>Describe the pathological effects of stress exposure and some of its clinical
-          implications</item>
+        <item>Describe the pathological effects of stress exposure and some of its clinical implications</item>
         <item>Describe the role of microglia in stress-related mood and neurodegenerative disorders</item>
       </list>
     </section>
-    <para id="para-00002">The cumulative ‘wear and tear’ from prolonged or severe stress exposure
-      can tax our adaptive systems predisposing us to pathology and <term id="term-00001">stress-related
-      disorders</term>. In this section, we will learn more about the concept of allostatic
-      (over)load, which describes what can happen when stress becomes ‘too much’. We will also
-      discuss common stress-related nervous system disorders and the role of microglia, the brain’s
-      resident immune cells.</para>
+    <para id="para-00002">The cumulative ‘wear and tear’ from prolonged or severe stress exposure can tax our adaptive systems predisposing us to pathology and <term id="term-00001">stress-related disorders</term>. In this section, we will learn more about the concept of allostatic (over)load, which describes what can happen when stress becomes ‘too much’. We will also discuss common stress-related nervous system disorders and the role of microglia, the brain’s resident immune cells.</para>
     <section id="sect-00002">
       <title>Allostasis vs. allostatic (over)load </title>
-      <para id="para-00003">We now know that the stress response is a necessary, survival-promoting
-        response that allows us to adapt to challenges. What happens, however, if this response is
-        activated for too long or too often, as a result of repeated exposure to stressors, or lack
-        of proper shut down? </para>
-      <para id="para-00004">Well, it’s very much the continuation of the beneficial, life-saving
-        aspects of stress that become detrimental when they are prolonged or chronic (inverted-U
-        nature of the response). Think about the acute effects of stress. For example, you are
-        confronted with a stressor and your blood pressure increases because that is what’s needed
-        in order to run away from the threat. But, if your blood pressure is increased constantly,
-        that becomes your new set point and now you have hypertension. Hypertension is a disease
-        that affects most organ systems in the body. In the long-term, it increases wear and tear on
-        many systems and accelerates the aging process. Other bodily systems are similarly affected.
-        The immune and reproductive systems are turned down leading to immune suppression and
-        reproductive distress/dysfunction. In the digestive tract, you can develop ulcers and
-        decreased nutrient absorption. If the excessive stress exposure came early on in life, it
-        can result in stunted growth. In terms of metabolism, glucose thrown into the bloodstream
-        helps the muscles in the short run (escaping the threat) but can lead to diabetes if
-        chronic. Similarly, in the brain, prolonged or severe stress exposure can lead to regional
-        changes in brain structure (dendritic hypo/hypertrophy, remodeling, circuit plasticity) that
-        can alter brain function and lead to pathologies such as anxiety, depression, and PTSD. </para>
-      <para id="para-00005">Recall that allostasis refers to the processes that restore homeostasis
-        and also allow us to adapt through change. Our body’s activation of the nervous, endocrine
-        (and immune) systems during a stress response, for example, are allostatic mechanisms that
-        allow us to adjust and increase our resilience in the face of stress. <term id="term-00002">Allostatic
-        (over)load</term>, on the other hand, is the physiological cost of that adaptation to our
-        body, i.e., the ‘wear and tear’ that accumulates after repeated or chronic stress exposure
-        (see <link target-id="Image-12.15"/>).</para>
+      <para id="para-00003">We now know that the stress response is a necessary, survival-promoting response that allows us to adapt to challenges. What happens, however, if this response is activated for too long or too often, as a result of repeated exposure to stressors, or lack of proper shut down? </para>
+      <para id="para-00004">Well, it’s very much the continuation of the beneficial, life-saving aspects of stress that become detrimental when they are prolonged or chronic (inverted-U nature of the response). Think about the acute effects of stress. For example, you are confronted with a stressor and your blood pressure increases because that is what’s needed in order to run away from the threat. But, if your blood pressure is increased constantly, that becomes your new set point and now you have hypertension. Hypertension is a disease that affects most organ systems in the body. In the long-term, it increases wear and tear on many systems and accelerates the aging process. Other bodily systems are similarly affected. The immune and reproductive systems are turned down leading to immune suppression and reproductive distress/dysfunction. In the digestive tract, you can develop ulcers and decreased nutrient absorption. If the excessive stress exposure came early on in life, it can result in stunted growth. In terms of metabolism, glucose thrown into the bloodstream helps the muscles in the short run (escaping the threat) but can lead to diabetes if chronic. Similarly, in the brain, prolonged or severe stress exposure can lead to regional changes in brain structure (dendritic hypo/hypertrophy, remodeling, circuit plasticity) that can alter brain function and lead to pathologies such as anxiety, depression, and PTSD. </para>
+      <para id="para-00005">Recall that allostasis refers to the processes that restore homeostasis and also allow us to adapt through change. Our body’s activation of the nervous, endocrine (and immune) systems during a stress response, for example, are allostatic mechanisms that allow us to adjust and increase our resilience in the face of stress. <term id="term-00002">Allostatic (over)load</term>, on the other hand, is the physiological cost of that adaptation to our body, i.e., the ‘wear and tear’ that accumulates after repeated or chronic stress exposure (see <link target-id="Image-12.15" />).</para>
 
       <figure id="Image-12.15">
         <title>Allostatic overload</title>
         <media alt="Line graph of levels of stress (y-axis) versus time (x-axis). Aline is shown curving up and down but each time is curves back down, it does not return to the initial level. The results in the curve wiggles upward, with each increase returning to a higher new set point. The increase in set point from the beginning is labeled allostatic load. Every increase is labeled allostasis and the return back down is labeled homeostatic recovery.">
-          <image mime-type="image/png" src="../../media/Image-12.15_Allostatic-overload.png"/>
+          <image mime-type="image/png" src="../../media/Image-12.15_Allostatic-overload.png" />
         </media>
-        <caption>Allostatic load is the difference between new and old set points that arises due to
-          a cumulative burden of adaptation to stress.</caption>
+        <caption>Allostatic load is the difference between new and old set points that arises due to a cumulative burden of adaptation to stress.</caption>
       </figure>
       <para id="para-00006">Types of allostatic (over)load include: <list list-type="enumerated" number-style="arabic" id="list-00002">
-          <item>Frequent activation of allostatic systems: e.g., repeated hits from multiple
-        stressors resulting in overexposure to stress hormones.</item>
-          <item>Lack of adaptation to a repeated stressor: e.g., not getting used to public
-        speaking.</item>
-          <item>Failure to shut off stress response activation after the stressor has passed: i.e.,
-        the inability to efficiently shutoff the stress response resulting in overexposure to stress
-        hormones.</item>
-          <item>Failure to adequately activate the stress response: e.g., an inability to mount the
-        proper HPA activation.</item>
-        </list> These aren’t mutually exclusive. There can be
-        combinations of these occurring at the same time. </para>
-      <para id="para-00007">Ultimately, continual or chronic stress exposure results in allostatic
-        (over)load. Allostatic (over)load serves no useful function and can predispose individuals
-        to stress-related disorders and pathology. Some of the clinical consequences are discussed
-        below.</para>
+          <item>Frequent activation of allostatic systems: e.g., repeated hits from multiple stressors resulting in overexposure to stress hormones.</item>
+          <item>Lack of adaptation to a repeated stressor: e.g., not getting used to public speaking.</item>
+          <item>Failure to shut off stress response activation after the stressor has passed: i.e., the inability to efficiently shutoff the stress response resulting in overexposure to stress hormones.</item>
+          <item>Failure to adequately activate the stress response: e.g., an inability to mount the proper HPA activation.</item>
+        </list> These aren’t mutually exclusive. There can be combinations of these occurring at the same time. </para>
+      <para id="para-00007">Ultimately, continual or chronic stress exposure results in allostatic (over)load. Allostatic (over)load serves no useful function and can predispose individuals to stress-related disorders and pathology. Some of the clinical consequences are discussed below.</para>
     </section>
     <section id="sect-00003">
       <title>Mood disorders</title>
-      <para id="para-00008">Mood disorders are often accompanied by a distorted or inconsistent
-        emotional state that persistently interferes with the ability to function. The American
-        Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders Fifth
-        Edition (DSM-5) categorizes several disorders as part of mood disorders including major
-        depressive disorder (MDD), bipolar disorder, and others. Many studies have implicated that
-        both acute and chronic stress are related to the onset of MDD (McEwen, 2004). One potential
-        mechanism connecting stress and mood disorders is dysregulation of the neurotransmitter
-        serotonin. Serotonin is a crucial neurotransmitter for mood regulation in the brain (see <link document="m00048">Emotion</link>). Chronic stress is known to modulate neurotransmitters
-        linked to mood disorders and their receptors. For instance, chronic stress reduces 5-HT1A
-        autoreceptor sensitivity in the dorsal raphe nucleus—the brainstem nucleus where
-        serotonergic cell bodies are located (Chaouloff et al., 1999). Although 5-HT1A receptors are
-        not actively engaged in anti-depressant drug effects, the receptors are well-known for
-        regulating the entire serotonergic system. Furthermore, an increase in stress hormones due
-        to hyperactivity of the HPA axis has been shown to elevate expression of the gene encoding
-        the serotonin reuptake transporter—a main target of major anti-depressant drugs, which
-        inhibit the transporter’s ability to reuptake/remove serotonin from synapses (Tafet et al.,
-        2001). It is notable that dysregulation of serotonin homeostasis during critical periods (in
-        utero, childhood, adolescence) and adulthood via exposure to chronic stress and dysregulated
-        HPA axis function may produce long-lasting changes in the brain and ultimately impact the
-        development of (and affect treatments for) mood disorders including MDD.</para>
+      <para id="para-00008">Mood disorders are often accompanied by a distorted or inconsistent emotional state that persistently interferes with the ability to function. The American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders Fifth Edition (DSM-5) categorizes several disorders as part of mood disorders including major depressive disorder (MDD), bipolar disorder, and others. Many studies have implicated that both acute and chronic stress are related to the onset of MDD (McEwen, 2004). One potential mechanism connecting stress and mood disorders is dysregulation of the neurotransmitter serotonin. Serotonin is a crucial neurotransmitter for mood regulation in the brain (see <link document="m00048">Emotion</link>). Chronic stress is known to modulate neurotransmitters linked to mood disorders and their receptors. For instance, chronic stress reduces 5-HT1A autoreceptor sensitivity in the dorsal raphe nucleus—the brainstem nucleus where serotonergic cell bodies are located (Chaouloff et al., 1999). Although 5-HT1A receptors are not actively engaged in anti-depressant drug effects, the receptors are well-known for regulating the entire serotonergic system. Furthermore, an increase in stress hormones due to hyperactivity of the HPA axis has been shown to elevate expression of the gene encoding the serotonin reuptake transporter—a main target of major anti-depressant drugs, which inhibit the transporter’s ability to reuptake/remove serotonin from synapses (Tafet et al., 2001). It is notable that dysregulation of serotonin homeostasis during critical periods (in utero, childhood, adolescence) and adulthood via exposure to chronic stress and dysregulated HPA axis function may produce long-lasting changes in the brain and ultimately impact the development of (and affect treatments for) mood disorders including MDD.</para>
     </section>
     <section id="sect-00004">
       <title>Anxiety disorders</title>
-      <para id="para-00009">Anxiety disorders are often characterized by intense and excessive
-        symptoms of anxiety and worry that last persistently. According to the DSM-5, there are
-        multiple types of anxiety disorders, diagnosed based on potential causes and symptoms such
-        as generalized anxiety disorders, social anxiety disorders, phobias, and panic disorders.
-        One of the risk factors for anxiety disorders includes exposure to chronic stress. Chronic
-        stress is well known to enhance amygdala-mediated fear. For example, a study by Rosekranz et
-        al. revealed that chronic stress can activate neural excitability in the lateral amygdala
-        circuitry (Rosenkranz et al., 2010). The amygdala circuitry is particularly important in the
-        regulation of emotion, anxiety, and fear. Thus, heightened amygdala activation mediated by
-        stress plays a role in the development of anxiety disorders.</para>
-      <para id="para-00010">Repeated and chronic exposure to stress may also result in hyperactivity
-        of the HPA axis, which can contribute to anxiety. A subgroup of patients with anxiety
-        disorders often displays hyperactivity of the HPA axis (Tafet and Nemeroff, 2020).
-        Furthermore, anti-anxiety drugs, such as benzodiazepines, tricyclic antidepressants (TCAs),
-        and selective serotonin reuptake inhibitors (SSRIs), all modulate components of the HPA
-        axis. For instance, some types of benzodiazepines have been shown to alleviate anxiety
-        symptoms and reduce the activity of CRH neurons in the hypothalamus, indicating the
-        potential impact of anti-anxiety drugs on HPA axis regulation.</para>
+      <para id="para-00009">Anxiety disorders are often characterized by intense and excessive symptoms of anxiety and worry that last persistently. According to the DSM-5, there are multiple types of anxiety disorders, diagnosed based on potential causes and symptoms such as generalized anxiety disorders, social anxiety disorders, phobias, and panic disorders. One of the risk factors for anxiety disorders includes exposure to chronic stress. Chronic stress is well known to enhance amygdala-mediated fear. For example, a study by Rosekranz et al. revealed that chronic stress can activate neural excitability in the lateral amygdala circuitry (Rosenkranz et al., 2010). The amygdala circuitry is particularly important in the regulation of emotion, anxiety, and fear. Thus, heightened amygdala activation mediated by stress plays a role in the development of anxiety disorders.</para>
+      <para id="para-00010">Repeated and chronic exposure to stress may also result in hyperactivity of the HPA axis, which can contribute to anxiety. A subgroup of patients with anxiety disorders often displays hyperactivity of the HPA axis (Tafet and Nemeroff, 2020). Furthermore, anti-anxiety drugs, such as benzodiazepines, tricyclic antidepressants (TCAs), and selective serotonin reuptake inhibitors (SSRIs), all modulate components of the HPA axis. For instance, some types of benzodiazepines have been shown to alleviate anxiety symptoms and reduce the activity of CRH neurons in the hypothalamus, indicating the potential impact of anti-anxiety drugs on HPA axis regulation.</para>
     </section>
     <section id="sect-00005">
       <title>Posttraumatic stress disorder (PTSD)</title>
-      <para id="para-00011">Posttraumatic stress disorder (PTSD) is a psychiatric disorder that can
-        develop in a subset of individuals exposed to a traumatic event (e.g., severe car accident,
-        combat, sexual assault, natural disaster). It is characterized by persistent reexperiencing
-        of the trauma (e.g., intrusive memories and flashbacks), avoidance of stimuli associated
-        with the trauma and numbing of general responsiveness (similar to symptoms of depression)
-        (see <link target-id="Image-12.21"/>).</para>
+      <para id="para-00011">Posttraumatic stress disorder (PTSD) is a psychiatric disorder that can develop in a subset of individuals exposed to a traumatic event (e.g., severe car accident, combat, sexual assault, natural disaster). It is characterized by persistent reexperiencing of the trauma (e.g., intrusive memories and flashbacks), avoidance of stimuli associated with the trauma and numbing of general responsiveness (similar to symptoms of depression) (see <link target-id="Image-12.21" />).</para>
 
       <figure id="Image-12.21">
         <title>Core symptoms of PTSD</title>
         <media alt="Venn diagram of 3 sets of symptoms, all of which converge in PTSD in the middle. Reexperiencing (memory): Flashbacks, Intrusive memory, Nightmares, Distress at reminders, Physiological reactivity. Avoidance (depression): Negative thoughts/feelings, Loss of interest in activities/places/people, Amnesia, Detachment, Restricted affect, Foreshortened Future. Hyper-arousal (anxiety): Insomnia, Hypervigilance, Irritability, Anger, Poor concentration, Startle.">
-          <image mime-type="image/png" src="../../media/Image-12.21_Core-symptoms-of-PTSD.png"/>
+          <image mime-type="image/png" src="../../media/Image-12.21_Core-symptoms-of-PTSD.png" />
         </media>
       </figure>
 
-      <para id="para-00012">Women are twice as likely to have PTSD than men (Kessler, 1995).
-        Immediately following exposure to severe trauma, most individuals will present with a
-        collection of these symptoms (i.e., will display an acute stress response). Yet, in most
-        people, these symptoms will resolve within months. Only 15-25% of individuals will continue
-        to show persistent symptoms a year after the traumatic event and meet the diagnostic
-        criteria for PTSD (Yehuda et al., 1998). Thus, PTSD represents a physiological failure to
-        recover from an acute stress response that is almost universal.</para>
-      <para id="para-00013">Not surprisingly, patients with PTSD display HPA axis dysregulation, but
-        paradoxically, they show lower overall cortisol levels, especially in the hours immediately
-        after the trauma (Mason et al., 1986; Yehuda, 2002). Additionally, they have an abnormally
-        high noradrenaline/cortisol ratio which suggests a loss of coordinated activity between HPA
-        axis and ANS function. Cortisol administration shortly after trauma (in ER patients
-        exhibiting low cortisol levels) has been successful as a preventative intervention for PTSD
-        (Zohar et al., 2011). Non-pharmacological interventions in the form of cognitive behavioral
-        therapy, sometimes coupled with virtual reality scenarios, have also proven successful in
-        treating the symptoms of PTSD.</para>
+      <para id="para-00012">Women are twice as likely to have PTSD than men (Kessler, 1995). Immediately following exposure to severe trauma, most individuals will present with a collection of these symptoms (i.e., will display an acute stress response). Yet, in most people, these symptoms will resolve within months. Only 15-25% of individuals will continue to show persistent symptoms a year after the traumatic event and meet the diagnostic criteria for PTSD (Yehuda et al., 1998). Thus, PTSD represents a physiological failure to recover from an acute stress response that is almost universal.</para>
+      <para id="para-00013">Not surprisingly, patients with PTSD display HPA axis dysregulation, but paradoxically, they show lower overall cortisol levels, especially in the hours immediately after the trauma (Mason et al., 1986; Yehuda, 2002). Additionally, they have an abnormally high noradrenaline/cortisol ratio which suggests a loss of coordinated activity between HPA axis and ANS function. Cortisol administration shortly after trauma (in ER patients exhibiting low cortisol levels) has been successful as a preventative intervention for PTSD (Zohar et al., 2011). Non-pharmacological interventions in the form of cognitive behavioral therapy, sometimes coupled with virtual reality scenarios, have also proven successful in treating the symptoms of PTSD.</para>
     </section>
     <section id="sect-00006">
       <title>Cognitive and memory disorders</title>
-      <para id="para-00014">Stress can affect multiple aspects of cognition including attention,
-        learning, and memory. Some major cognitive/memory disorders in humans are Alzheimer’s
-        disease (AD), attention deficit disorder, and dementia. Each of these is affected by stress
-        exposure. Stress exacerbates AD (Machado et al., 2014; Justice, 2018), there’s a high
-        comorbidity rate of PTSD with attention deficit disorder (Cuffe et al., 1994; Adler et al.,
-        2004), and chronic stress is associated with dementia (Peavy et al., 2012) and increased
-        risk for dementia later in life (Johansson et al., 2010). Stress-sensitive brain regions
-        like the hippocampus and PFC likely contribute to these phenotypes.</para>
-      <para id="para-00015">Interestingly, PTSD can be viewed as a memory disorder, and it is easy
-        to understand many of the symptoms via this lens. In addition to the strong recall of the
-        traumatic event, PTSD patients report problems with declarative memory (remembering facts),
-        fragmentation of memory and dissociative amnesia (not being able to recall important
-        personal information). A salient feature of PTSD is an aberrant consolidation of the
-        traumatic memory event (aberrant fear learning). It may manifest as a lack of fear
-        extinction (new safety cues are not associated with the old memory) or a generalization of
-        the fear response. For example, if the event was the experiencing of a bomb blast, then the
-        result could be a sensitivity to other loud noises (Parsons and Ressler, 2013; Shalev et
-        al., 2017; Fenster et al., 2018).</para>
+      <para id="para-00014">Stress can affect multiple aspects of cognition including attention, learning, and memory. Some major cognitive/memory disorders in humans are Alzheimer’s disease (AD), attention deficit disorder, and dementia. Each of these is affected by stress exposure. Stress exacerbates AD (Machado et al., 2014; Justice, 2018), there’s a high comorbidity rate of PTSD with attention deficit disorder (Cuffe et al., 1994; Adler et al., 2004), and chronic stress is associated with dementia (Peavy et al., 2012) and increased risk for dementia later in life (Johansson et al., 2010). Stress-sensitive brain regions like the hippocampus and PFC likely contribute to these phenotypes.</para>
+      <para id="para-00015">Interestingly, PTSD can be viewed as a memory disorder, and it is easy to understand many of the symptoms via this lens. In addition to the strong recall of the traumatic event, PTSD patients report problems with declarative memory (remembering facts), fragmentation of memory and dissociative amnesia (not being able to recall important personal information). A salient feature of PTSD is an aberrant consolidation of the traumatic memory event (aberrant fear learning). It may manifest as a lack of fear extinction (new safety cues are not associated with the old memory) or a generalization of the fear response. For example, if the event was the experiencing of a bomb blast, then the result could be a sensitivity to other loud noises (Parsons and Ressler, 2013; Shalev et al., 2017; Fenster et al., 2018).</para>
     </section>
     <section id="sect-00007">
       <title>Addiction, compulsive and impulse disorders</title>
-      <para id="para-00016">Addiction is a compulsive behavior or use of a substance characterized
-        by an inability to control consumption and withdrawal symptoms when unable to access it (see <link document="m00049">Psychopharmacology</link>). Gambling and shopping are examples of
-        behaviors that can lead to a non-substance addiction. Substance abuse is highly studied and
-        provides the basis for what we know about stress and addiction. Stress is a prominent risk
-        factor for developing a substance abuse disorder or relapsing (Schmid et al., 2009; Enoch,
-        2011; Duffing et al., 2014; Tschetter et al., 2022). Stress and substance use both activate
-        the HPA axis and connected amygdala, while down-regulating activation of the hippocampus and
-        the PFC, leading to impaired decision making and impulsivity. These similarities suggest
-        that stress may influence and further aggravate the effects of many drugs of abuse and
-        contribute to addiction. Therefore, reducing stress could aid in efforts to treat addictions
-        or prevent susceptibility.</para>
+      <para id="para-00016">Addiction is a compulsive behavior or use of a substance characterized by an inability to control consumption and withdrawal symptoms when unable to access it (see <link document="m00049">Psychopharmacology</link>). Gambling and shopping are examples of behaviors that can lead to a non-substance addiction. Substance abuse is highly studied and provides the basis for what we know about stress and addiction. Stress is a prominent risk factor for developing a substance abuse disorder or relapsing (Schmid et al., 2009; Enoch, 2011; Duffing et al., 2014; Tschetter et al., 2022). Stress and substance use both activate the HPA axis and connected amygdala, while down-regulating activation of the hippocampus and the PFC, leading to impaired decision making and impulsivity. These similarities suggest that stress may influence and further aggravate the effects of many drugs of abuse and contribute to addiction. Therefore, reducing stress could aid in efforts to treat addictions or prevent susceptibility.</para>
     </section>
     <section id="sect-00008">
       <title>Stress and (neuro)immune function</title>
-      <para id="para-00017">We all know that exposure to pathogens leads to characteristic changes
-        in physiology and behavior. When we’re sick, we feel tired and sleepy, lose motivation,
-        withdraw socially, don’t feel as hungry or thirsty, might have a fever and our brains might
-        feel foggy. Sometimes we might also feel more sensitive to pain or more anxious and
-        depressed. This constellation of symptoms is called the sickness response, and it is
-        remarkably similar to endophenotypes that characterize stress-related mood disorders like
-        MDD, anxiety and PTSD (see <link document="m00072">Neuroimmunology</link>). This intriguing
-        observation hinted at the idea that neuropsychiatric conditions like mood disorders had an
-        immune component. That is, the immune system might be involved in regulating an organism’s
-        motivational state. This idea led to intense interest in the role of the immune system in
-        brain function and how it relates to stress.</para>
-      <para id="para-00018">As we know, stress can affect every cell and tissue in the body, hence
-        it is no surprise that it has profound effects on immune system function. In general,
-        following the inverted-U pattern, acute stress seems to enhance immune responses while
-        chronic stress has a suppressive effect. However, both acute and chronic stress can generate
-        anti-inflammatory and proinflammatory responses, leading to a more complex picture. In
-        recent years, <term id="term-00003">inflammation</term> has garnered a negative reputation,
-        but it is in fact a necessary and beneficial immune response after an acute stressor like an
-        injury/infection: here the immune system attacks the invaders, clears the threat and helps
-        to promote healing. Inflammation is deleterious, however, if it becomes prolonged. Studies
-        have shown, for example, that chronic socio-environmental stressors (poverty, bereavement)
-        are associated with increased expression of genes involved in inflammation and decreased
-        expression of antiviral responses—the conserved transcriptional response to adversity. This
-        transcriptional program is thought to promote a state of chronic, low-grade inflammation
-        which can result in development of inflammation-related diseases.</para>
+      <para id="para-00017">We all know that exposure to pathogens leads to characteristic changes in physiology and behavior. When we’re sick, we feel tired and sleepy, lose motivation, withdraw socially, don’t feel as hungry or thirsty, might have a fever and our brains might feel foggy. Sometimes we might also feel more sensitive to pain or more anxious and depressed. This constellation of symptoms is called the sickness response, and it is remarkably similar to endophenotypes that characterize stress-related mood disorders like MDD, anxiety and PTSD (see <link document="m00072">Neuroimmunology</link>). This intriguing observation hinted at the idea that neuropsychiatric conditions like mood disorders had an immune component. That is, the immune system might be involved in regulating an organism’s motivational state. This idea led to intense interest in the role of the immune system in brain function and how it relates to stress.</para>
+      <para id="para-00018">As we know, stress can affect every cell and tissue in the body, hence it is no surprise that it has profound effects on immune system function. In general, following the inverted-U pattern, acute stress seems to enhance immune responses while chronic stress has a suppressive effect. However, both acute and chronic stress can generate anti-inflammatory and proinflammatory responses, leading to a more complex picture. In recent years, <term id="term-00003">inflammation</term> has garnered a negative reputation, but it is in fact a necessary and beneficial immune response after an acute stressor like an injury/infection: here the immune system attacks the invaders, clears the threat and helps to promote healing. Inflammation is deleterious, however, if it becomes prolonged. Studies have shown, for example, that chronic socio-environmental stressors (poverty, bereavement) are associated with increased expression of genes involved in inflammation and decreased expression of antiviral responses—the conserved transcriptional response to adversity. This transcriptional program is thought to promote a state of chronic, low-grade inflammation which can result in development of inflammation-related diseases.</para>
       <section id="sect-00009">
         <title>Stress and microglia—the brain’s resident immune cells</title>
-        <para id="para-00019">The brain, largely isolated from cells of the immune system due to the
-          presence of the blood-brain-barrier, was long thought to be an immune-privileged organ;
-          however, it contains its own tissue-resident immune cells: <term id="term-00004">microglia</term>.
-          In recent years, there has been intense interest in understanding the crucial role of
-          microglia in brain development and function.</para>
-        <para id="para-00020">As the resident phagocytes, microglia actively scan their environment
-          for disruptions in homeostasis. They are first responders to threat (e.g., infection with
-          a virus, tissue damage), play a critical role in neurodevelopment and perform numerous
-          functions in the maintenance of the healthy adult brain. For example, they use their
-          phagocytic activity to remove debris, dead/dying neurons and other cells. They also lend
-          trophic (growth) support to neurons, modify synaptic connections and plasticity, and
-          modulate neuronal activity. Additionally, because they are immunocompetent cells,
-          microglia produce and release anti- and proinflammatory mediators (cytokines and
-          chemokines), some of which have roles in synaptic plasticity and memory function. <link target-id="Image-12.36"/> diagrams some of these cellular functions which impact brain
-          function and development.</para>
+        <para id="para-00019">The brain, largely isolated from cells of the immune system due to the presence of the blood-brain-barrier, was long thought to be an immune-privileged organ; however, it contains its own tissue-resident immune cells: <term id="term-00004">microglia</term>. In recent years, there has been intense interest in understanding the crucial role of microglia in brain development and function.</para>
+        <para id="para-00020">As the resident phagocytes, microglia actively scan their environment for disruptions in homeostasis. They are first responders to threat (e.g., infection with a virus, tissue damage), play a critical role in neurodevelopment and perform numerous functions in the maintenance of the healthy adult brain. For example, they use their phagocytic activity to remove debris, dead/dying neurons and other cells. They also lend trophic (growth) support to neurons, modify synaptic connections and plasticity, and modulate neuronal activity. Additionally, because they are immunocompetent cells, microglia produce and release anti- and proinflammatory mediators (cytokines and chemokines), some of which have roles in synaptic plasticity and memory function. <link target-id="Image-12.36" /> diagrams some of these cellular functions which impact brain function and development.</para>
 
         <figure id="Image-12.36">
           <title>Microglial functions</title>
           <media alt="Four diagrams to represent microglial functions: scanning (processes moving around), synaptic interactions (processes touching dendritic spines), phagocytosis (a process engulfing debris, pathogens, foreign material etc.), secrete cytokines, chemokines and growth factors (proteins secreted from cell).">
-            <image mime-type="image/png" src="../../media/Image-12.36_Microglial-functions.png"/>
+            <image mime-type="image/png" src="../../media/Image-12.36_Microglial-functions.png" />
           </media>
-          <caption>Through several cellular functions, microglia regulate injury/illness response,
-            healthy brain function and neurodevelopment.</caption>
+          <caption>Through several cellular functions, microglia regulate injury/illness response, healthy brain function and neurodevelopment.</caption>
         </figure>
-        <para id="para-00021">Homeostatic or surveilling microglia exhibit a highly branched
-          morphology with a small cell body and unique transcriptional signature. This phenotype is
-          suppressed when disruptions to CNS homeostasis occur (for example, during infection or
-          aging). At the same time, microglia undergo changes in morphology, transcription and
-          proinflammatory mediator profile (a spectrum of different functional states grouped under
-          the umbrella term ‘activation’) which at the extreme becomes a phenotype characteristic of
-          neurodegeneration. One of these activation states, termed ‘primed’, is seen in microglia
-          under neuroinflammatory conditions like stress and aging. Microglia can also proliferate,
-          increasing their numbers in response to homeostatic disruptions. Below, we will discuss
-          more specifically the role of microglia in stress-related pathology with a focus on mood
-          and cognitive dysfunction/neurodegenerative disorders.</para>
+        <para id="para-00021">Homeostatic or surveilling microglia exhibit a highly branched morphology with a small cell body and unique transcriptional signature. This phenotype is suppressed when disruptions to CNS homeostasis occur (for example, during infection or aging). At the same time, microglia undergo changes in morphology, transcription and proinflammatory mediator profile (a spectrum of different functional states grouped under the umbrella term ‘activation’) which at the extreme becomes a phenotype characteristic of neurodegeneration. One of these activation states, termed ‘primed’, is seen in microglia under neuroinflammatory conditions like stress and aging. Microglia can also proliferate, increasing their numbers in response to homeostatic disruptions. Below, we will discuss more specifically the role of microglia in stress-related pathology with a focus on mood and cognitive dysfunction/neurodegenerative disorders.</para>
         <section id="sect-00010">
           <title>Inflammatory priming and mood disorders</title>
-          <para id="para-00022">Microglia can respond directly to key stress mediators, including
-            glucocorticoids and the catecholamines epinephrine and norepinephrine. Although
-            glucocorticoids are widely known for their immunosuppressive effects, they can also have
-            a more permissive role. A number of studies have implicated glucocorticoids in
-            stress-induced <term id="term-00005">inflammatory priming</term>—that is, a
-            sensitization or heightened immune response in microglia to subsequent inflammatory
-            stimuli—in stress-related brain regions like the hippocampus. In other words,
-            glucocorticoid exposure can make microglia more susceptible to a second inflammatory
-            stimulus, and this can then trigger an exaggerated or prolonged inflammatory response
-            that can damage nearby neurons or other cells and negatively affect brain function.</para>
-          <para id="para-00023">Experiments have tested the causal role of glucocorticoids in this
-            phenomenon. For example, exposure to tailshock stress in rats where glucocorticoids
-            signaling was blocked (via application of GR antagonists or adrenalectomy, removal of
-            the adrenal glands) blocked this type of exaggerated inflammatory response in
-            hippocampal microglia when subsequently stimulated with a bacterial product. Other
-            experiments using β-adrenergic receptor agonists or antagonists and repeated social
-            defeat stress have shown that catecholamines are also implicated in stress-induced
-            microglial priming in regions of the brain related to threat-appraisal. Additionally,
-            they play a critical role in the mobilization and redistribution of specific types of
-            inflammatory peripheral immune cells to the CNS (for review see Frank et al., 2019).
-            This type of infiltration of peripheral immune cells into the brain, along with a
-            greater overall local inflammatory microenvironment, lead to a full-blown state of <term id="term-00006">neuroinflammation</term>.</para>
-          <para id="para-00024">Inflammatory priming is thought to contribute to the development of
-            a number of mood disorders and their related symptoms. For example, microglia that have
-            been primed by repeated stress exposure release several molecules that can directly
-            impact emotion-related behaviors. IL-1β is one such molecule. It is a cytokine released
-            by microglia that both contributes directly to further HPA axis activation and also
-            drives sickness behaviors, like decreases in motivation to obtain a reward. Loss of
-            motivation for previously rewarding stimuli is a core symptom of depressive disorders.
-            Another protein released by stress-primed microglia, PGE2, stimulates increases in
-            social avoidance and greater anxiety responses to stress (for review see Wolf et al.,
-            2017). How this vicious cycle of stress and microglia function contributes to mood
-            disorders is an active field of research which may yield new ways to treat depression
-            and anxiety in the future.</para>
+          <para id="para-00022">Microglia can respond directly to key stress mediators, including glucocorticoids and the catecholamines epinephrine and norepinephrine. Although glucocorticoids are widely known for their immunosuppressive effects, they can also have a more permissive role. A number of studies have implicated glucocorticoids in stress-induced <term id="term-00005">inflammatory priming</term>—that is, a sensitization or heightened immune response in microglia to subsequent inflammatory stimuli—in stress-related brain regions like the hippocampus. In other words, glucocorticoid exposure can make microglia more susceptible to a second inflammatory stimulus, and this can then trigger an exaggerated or prolonged inflammatory response that can damage nearby neurons or other cells and negatively affect brain function.</para>
+          <para id="para-00023">Experiments have tested the causal role of glucocorticoids in this phenomenon. For example, exposure to tailshock stress in rats where glucocorticoids signaling was blocked (via application of GR antagonists or adrenalectomy, removal of the adrenal glands) blocked this type of exaggerated inflammatory response in hippocampal microglia when subsequently stimulated with a bacterial product. Other experiments using β-adrenergic receptor agonists or antagonists and repeated social defeat stress have shown that catecholamines are also implicated in stress-induced microglial priming in regions of the brain related to threat-appraisal. Additionally, they play a critical role in the mobilization and redistribution of specific types of inflammatory peripheral immune cells to the CNS (for review see Frank et al., 2019). This type of infiltration of peripheral immune cells into the brain, along with a greater overall local inflammatory microenvironment, lead to a full-blown state of <term id="term-00006">neuroinflammation</term>.</para>
+          <para id="para-00024">Inflammatory priming is thought to contribute to the development of a number of mood disorders and their related symptoms. For example, microglia that have been primed by repeated stress exposure release several molecules that can directly impact emotion-related behaviors. IL-1β is one such molecule. It is a cytokine released by microglia that both contributes directly to further HPA axis activation and also drives sickness behaviors, like decreases in motivation to obtain a reward. Loss of motivation for previously rewarding stimuli is a core symptom of depressive disorders. Another protein released by stress-primed microglia, PGE2, stimulates increases in social avoidance and greater anxiety responses to stress (for review see Wolf et al., 2017). How this vicious cycle of stress and microglia function contributes to mood disorders is an active field of research which may yield new ways to treat depression and anxiety in the future.</para>
         </section>
         <section id="sect-00011">
           <title>Stress, microglia and neurodegeneration</title>
-          <para id="para-00025"><term id="term-00007">Neurodegeneration</term> is the age-related,
-            progressive damage to neuronal structures and function in the CNS. It can result in
-            disruptions to cognitive performance and is seen in disorders like Alzheimer’s disease
-            (AD) and other dementias. Notably, a life-long history of stress exposure is a risk
-            factor for developing cognitive deficits, brain atrophy and AD (Gracia-Garcı ́a et al.,
-            2015, Alkadhi, 2012) and psychosocial stress, in particular, is a risk factor for
-            late-onset AD (LOAD). Chronic stress has also been shown to worsen neurodegeneration and
-            cognitive impairments in rodent models of AD (Carroll et al., 2011; Srivareerat et al.,
-            2009). As discussed previously, chronic stress can lead to neuroinflammation, one of the
-            hallmarks of many neurodegenerative disorders including AD.</para>
-          <para id="para-00026">Microglia play a key role in the establishment and progression of
-            neurodegenerative disorders. Microglial dysfunction is prominent in AD, for example, and
-            several genetic risk factors associated with the disease are specifically or highly
-            expressed by microglia (APOE and TREM2). It is worth noting that during normal aging,
-            microglia lose some of their surveillance/homeostatic capacity and are thought to become
-            more proinflammatory or reactive in general. Additionally, their phagocytic function is
-            impacted.</para>
-          <para id="para-00027">During neurodegeneration, microglia react to age-related,
-            accumulated debris/protein aggregates through their dedicated pathogen and
-            damage-sensing receptors. They also adopt an ‘extreme’ activated, primed phenotype
-            termed MGnD (neurodegenerative microglia) or DAM (disease-associated microglia)
-            characterized by induction of genes associated with cellular damage and degeneration.
-            This phenotype also includes higher expression of immune modulators that induce
-            astrocyte activation and aid in recruitment of inflammatory and other specialized immune
-            cells that further contribute to neuronal damage. Thus, chronic stress can exacerbate
-            neurodegeneration by compromising microglial homeostatic support for neurons/synaptic
-            function and sensitizing microglia towards a primed state which leads to
-            neuroinflammation and neuronal dysfunction and death. Interestingly, regions like the
-            frontal cortex and hippocampus which are particularly sensitive to the effects of stress
-            are also amongst the first brain areas affected in AD. </para>
+          <para id="para-00025"><term id="term-00007">Neurodegeneration</term> is the age-related, progressive damage to neuronal structures and function in the CNS. It can result in disruptions to cognitive performance and is seen in disorders like Alzheimer’s disease (AD) and other dementias. Notably, a life-long history of stress exposure is a risk factor for developing cognitive deficits, brain atrophy and AD (Gracia-Garcı ́a et al., 2015, Alkadhi, 2012) and psychosocial stress, in particular, is a risk factor for late-onset AD (LOAD). Chronic stress has also been shown to worsen neurodegeneration and cognitive impairments in rodent models of AD (Carroll et al., 2011; Srivareerat et al., 2009). As discussed previously, chronic stress can lead to neuroinflammation, one of the hallmarks of many neurodegenerative disorders including AD.</para>
+          <para id="para-00026">Microglia play a key role in the establishment and progression of neurodegenerative disorders. Microglial dysfunction is prominent in AD, for example, and several genetic risk factors associated with the disease are specifically or highly expressed by microglia (APOE and TREM2). It is worth noting that during normal aging, microglia lose some of their surveillance/homeostatic capacity and are thought to become more proinflammatory or reactive in general. Additionally, their phagocytic function is impacted.</para>
+          <para id="para-00027">During neurodegeneration, microglia react to age-related, accumulated debris/protein aggregates through their dedicated pathogen and damage-sensing receptors. They also adopt an ‘extreme’ activated, primed phenotype termed MGnD (neurodegenerative microglia) or DAM (disease-associated microglia) characterized by induction of genes associated with cellular damage and degeneration. This phenotype also includes higher expression of immune modulators that induce astrocyte activation and aid in recruitment of inflammatory and other specialized immune cells that further contribute to neuronal damage. Thus, chronic stress can exacerbate neurodegeneration by compromising microglial homeostatic support for neurons/synaptic function and sensitizing microglia towards a primed state which leads to neuroinflammation and neuronal dysfunction and death. Interestingly, regions like the frontal cortex and hippocampus which are particularly sensitive to the effects of stress are also amongst the first brain areas affected in AD. </para>
         </section>
       </section>
     </section>
 
     <section class="section-summary" id="sect-00012">
       <title>Summary</title>
-      <para id="para-00028">Repeated or prolonged stress can lead to allostatic over(load) resulting
-        in stress-related pathologies like mood, anxiety, cognitive, memory, impulse control and
-        substance abuse disorders. Exposure to traumatic stress can lead to development of PTSD.
-        Additionally, chronic stress can drive microglial priming and neuroinflammation which
-        exacerbates mood and cognitive disorders and contributes to neurodegeneration.</para>
+      <para id="para-00028">Repeated or prolonged stress can lead to allostatic over(load) resulting in stress-related pathologies like mood, anxiety, cognitive, memory, impulse control and substance abuse disorders. Exposure to traumatic stress can lead to development of PTSD. Additionally, chronic stress can drive microglial priming and neuroinflammation which exacerbates mood and cognitive disorders and contributes to neurodegeneration.</para>
     </section>
 
     <section class="key-terms" id="sect-00013">
@@ -351,108 +122,35 @@
 
     <section class="references" id="sect-00014">
       <title>References</title>
-      <para id="para-00029">Adler, L. A., Kunz, M., Chua, H. C., Rotrosen, J., &amp; Resnick, S. G.
-        (2004). Attention-deficit/hyperactivity disorder in adult patients with posttraumatic stress
-        disorder (PTSD): is ADHD a vulnerability factor?. <emphasis effect="italics">Journal of
-        Attention Disorders</emphasis>, <emphasis effect="italics">8</emphasis>(1), 11–16.
-        https://doi.org/10.1177/108705470400800102</para>
-      <para id="para-00030">Alkadhi, K. A. (2012). Chronic psychosocial stress exposes Alzheimer's
-        disease phenotype in a novel at-risk model. <emphasis effect="italics">Frontiers in
-        Bioscience (Elite Edition)</emphasis> , <emphasis effect="italics">4</emphasis>(1), 214–229.
-        https://doi.org/10.2741/371</para>
-      <para id="para-00031">Chaouloff, F., Berton, O., &amp; Mormède, P. (1999). Serotonin and
-        stress. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the
-        American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">21</emphasis>(2
-        Suppl), 28S–32S. https://doi.org/10.1016/S0893-133X(99)00008-1</para>
-      <para id="para-00032">Cuffe, S. P., McCullough, E. L., &amp; Pumariega, A. J. (1994).
-        Comorbidity of attention deficit hyperactivity disorder and post-traumatic stress disorder. <emphasis effect="italics">Journal of Child and Family Studies</emphasis>, <emphasis effect="italics">3</emphasis>(3), 327–336.</para>
-      <para id="para-00033">Duffing, T. M., Greiner, S. G., Mathias, C. W., &amp; Dougherty, D. M.
-        (2014). Stress, substance abuse, and addiction. <emphasis effect="italics">Current Topics in
-        Behavioral Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>, 237–263.
-        https://doi.org/10.1007/7854_2014_276</para>
-      <para id="para-00034">Enoch, M. A. (2011). The role of early life stress as a predictor for
-        alcohol and drug dependence. <emphasis effect="italics">Psychopharmacology</emphasis>, <emphasis effect="italics">214</emphasis>(1), 17–31. https://doi.org/10.1007/s00213-010-1916-6</para>
-      <para id="para-00035">Frank, M. G., Watkins, L. R., &amp; Maier, S. F. (2015). The permissive
-        role of glucocorticoids in neuroinflammatory priming: mechanisms and insights. <emphasis effect="italics">Current Opinion in Endocrinology, Diabetes, and Obesity</emphasis>, <emphasis effect="italics">22</emphasis>(4), 300–305. https://doi.org/10.1097/MED.0000000000000168</para>
-      <para id="para-00036">Frank, M. G., Fonken, L. K., Watkins, L. R., &amp; Maier, S. F. (2019).
-        Microglia: Neuroimmune-sensors of stress. <emphasis effect="italics">Seminars in Cell &amp;
-        Developmental Biology</emphasis>, <emphasis effect="italics">94</emphasis>, 176–185.
-        https://doi.org/10.1016/j.semcdb.2019.01.001</para>
-      <para id="para-00037">Fenster, R. J., Lebois, L. A. M., Ressler, K. J., &amp; Suh, J. (2018).
-        Brain circuit dysfunction in post-traumatic stress disorder: from mouse to man. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">19</emphasis>(9),
-        535–551. https://doi.org/10.1038/s41583-018-0039-7</para>
-      <para id="para-00038">Gracia-García, P., de-la-Cámara, C., Santabárbara, J., Lopez-Anton, R.,
-        Quintanilla, M. A., Ventura, T., Marcos, G., Campayo, A., Saz, P., Lyketsos, C., &amp; Lobo,
-        A. (2015). Depression and incident Alzheimer disease: the impact of disease severity. <emphasis effect="italics">The American Journal of Geriatric Psychiatry: Official Journal of the
-        American Association for Geriatric Psychiatry</emphasis>, <emphasis effect="italics">23</emphasis>(2),
-        119–129. https://doi.org/10.1016/j.jagp.2013.02.011</para>
-      <para id="para-00039">Johansson, L., Guo, X., Waern, M., Ostling, S., Gustafson, D.,
-        Bengtsson, C., &amp; Skoog, I. (2010). Midlife psychological stress and risk of dementia: a
-        35-year longitudinal population study. <emphasis effect="italics">Brain: A Journal of
-        Neurology</emphasis>, <emphasis effect="italics">133</emphasis>(Pt 8), 2217–2224.
-        https://doi.org/10.1093/brain/awq116</para>
-      <para id="para-00040">Justice, N. J. (2018). The relationship between stress and Alzheimer's
-        disease. <emphasis effect="italics">Neurobiology of Stress</emphasis>, <emphasis effect="italics">8</emphasis>, 127–133. https://doi.org/10.1016/j.ynstr.2018.04.002</para>
-      <para id="para-00041">Kessler, R. C., Sonnega, A., Bromet, E., Hughes, M., &amp; Nelson, C. B.
-        (1995). Posttraumatic stress disorder in the National Comorbidity Survey. <emphasis effect="italics">Archives of General Psychiatry</emphasis>, <emphasis effect="italics">52</emphasis>(12),
-        1048–1060. https://doi.org/10.1001/archpsyc.1995.03950240066012</para>
-      <para id="para-00042">Machado, A., Herrera, A. J., de Pablos, R. M., Espinosa-Oliva, A. M.,
-        Sarmiento, M., Ayala, A., Venero, J. L., Santiago, M., Villarán, R. F., Delgado-Cortés, M.
-        J., Argüelles, S., &amp; Cano, J. (2014). Chronic stress as a risk factor for Alzheimer's
-        disease. <emphasis effect="italics">Reviews in the Neurosciences</emphasis>, <emphasis effect="italics">25</emphasis>(6), 785–804. https://doi.org/10.1515/revneuro-2014-0035</para>
-      <para id="para-00043">Mason, J. W., Giller, E. L., Kosten, T. R., Ostroff, R. B., &amp; Podd,
-        L. (1986). Urinary free-cortisol levels in posttraumatic stress disorder patients. <emphasis effect="italics">The Journal of Nervous and Mental Disease</emphasis>, <emphasis effect="italics">174</emphasis>(3), 145–149.
-        https://doi.org/10.1097/00005053-198603000-00003</para>
-      <para id="para-00044">McEwen, B. S. (2004). Protection and damage from acute and chronic
-        stress: allostasis and allostatic overload and relevance to the pathophysiology of
-        psychiatric disorders. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis>
-        , <emphasis effect="italics">1032</emphasis>, 1–7. https://doi.org/10.1196/annals.1314.001</para>
-      <para id="para-00045">Parsons, R. G., &amp; Ressler, K. J. (2013). Implications of memory
-        modulation for post-traumatic stress and fear disorders. <emphasis effect="italics">Nature
-        Neuroscience</emphasis> , <emphasis effect="italics">16</emphasis>(2), 146–153.
-        https://doi.org/10.1038/nn.3296</para>
-      <para id="para-00046">Peavy, G. M., Jacobson, M. W., Salmon, D. P., Gamst, A. C., Patterson,
-        T. L., Goldman, S., Mills, P. J., Khandrika, S., &amp; Galasko, D. (2012). The influence of
-        chronic stress on dementia-related diagnostic change in older adults. <emphasis effect="italics">Alzheimer Disease and Associated Disorders</emphasis>, <emphasis effect="italics">26</emphasis>(3), 260–266. https://doi.org/10.1097/WAD.0b013e3182389a9c</para>
-      <para id="para-00047">Rosenkranz, J. A., Venheim, E. R., &amp; Padival, M. (2010). Chronic
-        stress causes amygdala hyperexcitability in rodents. <emphasis effect="italics">Biological
-        Psychiatry</emphasis> , <emphasis effect="italics">67</emphasis>(12), 1128–1136.
-        https://doi.org/10.1016/j.biopsych.2010.02.008</para>
-      <para id="para-00048">Schmid, B., Blomeyer, D., Becker, K., Treutlein, J., Zimmermann, U. S.,
-        Buchmann, A. F., Schmidt, M. H., Esser, G., Banaschewski, T., Rietschel, M., &amp; Laucht,
-        M. (2009). The interaction between the dopamine transporter gene and age at onset in
-        relation to tobacco and alcohol use among 19-year-olds. <emphasis effect="italics">Addiction
-        Biology</emphasis>, <emphasis effect="italics">14</emphasis>(4), 489–499.
-        https://doi.org/10.1111/j.1369-1600.2009.00171.x</para>
-      <para id="para-00049">Shalev, A., Liberzon, I., &amp; Marmar, C. (2017). Post-traumatic stress
-        disorder. <emphasis effect="italics">The New England Journal of Medicine</emphasis>, <emphasis effect="italics">376</emphasis>(25), 2459–2469. https://doi.org/10.1056/NEJMra1612499</para>
-      <para id="para-00050">Srivareerat, M., Tran, T. T., Alzoubi, K. H., &amp; Alkadhi, K. A.
-        (2009). Chronic psychosocial stress exacerbates impairment of cognition and long-term
-        potentiation in beta-amyloid rat model of Alzheimer's disease. <emphasis effect="italics">Biological
-        Psychiatry</emphasis>, <emphasis effect="italics">65</emphasis>(11), 918–926.
-        https://doi.org/10.1016/j.biopsych.2008.08.021</para>
-      <para id="para-00051">Tafet, G. E., &amp; Nemeroff, C. B. (2020). Pharmacological treatment of
-        anxiety disorders: The role of the HPA axis. <emphasis effect="italics">Frontiers in
-        Psychiatry</emphasis> , <emphasis effect="italics">11</emphasis>, 443.
-        https://doi.org/10.3389/fpsyt.2020.00443</para>
-      <para id="para-00052">Tafet, G. E., Idoyaga-Vargas, V. P., Abulafia, D. P., Calandria, J. M.,
-        Roffman, S. S., Chiovetta, A., &amp; Shinitzky, M. (2001). Correlation between cortisol
-        level and serotonin uptake in patients with chronic stress and depression. <emphasis effect="italics">Cognitive, Affective &amp; Behavioral Neuroscience</emphasis>, <emphasis effect="italics">1</emphasis>(4), 388–393. https://doi.org/10.3758/cabn.1.4.388</para>
-      <para id="para-00053">Tschetter, K. E., Callahan, L. B., Flynn, S. A., Rahman, S., Beresford,
-        T. P., &amp; Ronan, P. J. (2022). Early life stress and susceptibility to addiction in
-        adolescence. <emphasis effect="italics">International Review of Neurobiology</emphasis>, <emphasis effect="italics">161</emphasis>, 277–302. https://doi.org/10.1016/bs.irn.2021.08.007</para>
-      <para id="para-00054">Wolf, S. A., Boddeke, H. W., &amp; Kettenmann, H. (2017). Microglia in
-        physiology and disease. <emphasis effect="italics">Annual Review of Physiology</emphasis>, <emphasis effect="italics">79</emphasis>, 619–643.
-        https://doi.org/10.1146/annurev-physiol-022516-034406</para>
+      <para id="para-00029">Adler, L. A., Kunz, M., Chua, H. C., Rotrosen, J., &amp; Resnick, S. G. (2004). Attention-deficit/hyperactivity disorder in adult patients with posttraumatic stress disorder (PTSD): is ADHD a vulnerability factor?. <emphasis effect="italics">Journal of Attention Disorders</emphasis>, <emphasis effect="italics">8</emphasis>(1), 11–16. https://doi.org/10.1177/108705470400800102</para>
+      <para id="para-00030">Alkadhi, K. A. (2012). Chronic psychosocial stress exposes Alzheimer's disease phenotype in a novel at-risk model. <emphasis effect="italics">Frontiers in Bioscience (Elite Edition)</emphasis> , <emphasis effect="italics">4</emphasis>(1), 214–229. https://doi.org/10.2741/371</para>
+      <para id="para-00031">Chaouloff, F., Berton, O., &amp; Mormède, P. (1999). Serotonin and stress. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">21</emphasis>(2 Suppl), 28S–32S. https://doi.org/10.1016/S0893-133X(99)00008-1</para>
+      <para id="para-00032">Cuffe, S. P., McCullough, E. L., &amp; Pumariega, A. J. (1994). Comorbidity of attention deficit hyperactivity disorder and post-traumatic stress disorder. <emphasis effect="italics">Journal of Child and Family Studies</emphasis>, <emphasis effect="italics">3</emphasis>(3), 327–336.</para>
+      <para id="para-00033">Duffing, T. M., Greiner, S. G., Mathias, C. W., &amp; Dougherty, D. M. (2014). Stress, substance abuse, and addiction. <emphasis effect="italics">Current Topics in Behavioral Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>, 237–263. https://doi.org/10.1007/7854_2014_276</para>
+      <para id="para-00034">Enoch, M. A. (2011). The role of early life stress as a predictor for alcohol and drug dependence. <emphasis effect="italics">Psychopharmacology</emphasis>, <emphasis effect="italics">214</emphasis>(1), 17–31. https://doi.org/10.1007/s00213-010-1916-6</para>
+      <para id="para-00035">Frank, M. G., Watkins, L. R., &amp; Maier, S. F. (2015). The permissive role of glucocorticoids in neuroinflammatory priming: mechanisms and insights. <emphasis effect="italics">Current Opinion in Endocrinology, Diabetes, and Obesity</emphasis>, <emphasis effect="italics">22</emphasis>(4), 300–305. https://doi.org/10.1097/MED.0000000000000168</para>
+      <para id="para-00036">Frank, M. G., Fonken, L. K., Watkins, L. R., &amp; Maier, S. F. (2019). Microglia: Neuroimmune-sensors of stress. <emphasis effect="italics">Seminars in Cell &amp; Developmental Biology</emphasis>, <emphasis effect="italics">94</emphasis>, 176–185. https://doi.org/10.1016/j.semcdb.2019.01.001</para>
+      <para id="para-00037">Fenster, R. J., Lebois, L. A. M., Ressler, K. J., &amp; Suh, J. (2018). Brain circuit dysfunction in post-traumatic stress disorder: from mouse to man. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">19</emphasis>(9), 535–551. https://doi.org/10.1038/s41583-018-0039-7</para>
+      <para id="para-00038">Gracia-García, P., de-la-Cámara, C., Santabárbara, J., Lopez-Anton, R., Quintanilla, M. A., Ventura, T., Marcos, G., Campayo, A., Saz, P., Lyketsos, C., &amp; Lobo, A. (2015). Depression and incident Alzheimer disease: the impact of disease severity. <emphasis effect="italics">The American Journal of Geriatric Psychiatry: Official Journal of the American Association for Geriatric Psychiatry</emphasis>, <emphasis effect="italics">23</emphasis>(2), 119–129. https://doi.org/10.1016/j.jagp.2013.02.011</para>
+      <para id="para-00039">Johansson, L., Guo, X., Waern, M., Ostling, S., Gustafson, D., Bengtsson, C., &amp; Skoog, I. (2010). Midlife psychological stress and risk of dementia: a 35-year longitudinal population study. <emphasis effect="italics">Brain: A Journal of Neurology</emphasis>, <emphasis effect="italics">133</emphasis>(Pt 8), 2217–2224. https://doi.org/10.1093/brain/awq116</para>
+      <para id="para-00040">Justice, N. J. (2018). The relationship between stress and Alzheimer's disease. <emphasis effect="italics">Neurobiology of Stress</emphasis>, <emphasis effect="italics">8</emphasis>, 127–133. https://doi.org/10.1016/j.ynstr.2018.04.002</para>
+      <para id="para-00041">Kessler, R. C., Sonnega, A., Bromet, E., Hughes, M., &amp; Nelson, C. B. (1995). Posttraumatic stress disorder in the National Comorbidity Survey. <emphasis effect="italics">Archives of General Psychiatry</emphasis>, <emphasis effect="italics">52</emphasis>(12), 1048–1060. https://doi.org/10.1001/archpsyc.1995.03950240066012</para>
+      <para id="para-00042">Machado, A., Herrera, A. J., de Pablos, R. M., Espinosa-Oliva, A. M., Sarmiento, M., Ayala, A., Venero, J. L., Santiago, M., Villarán, R. F., Delgado-Cortés, M. J., Argüelles, S., &amp; Cano, J. (2014). Chronic stress as a risk factor for Alzheimer's disease. <emphasis effect="italics">Reviews in the Neurosciences</emphasis>, <emphasis effect="italics">25</emphasis>(6), 785–804. https://doi.org/10.1515/revneuro-2014-0035</para>
+      <para id="para-00043">Mason, J. W., Giller, E. L., Kosten, T. R., Ostroff, R. B., &amp; Podd, L. (1986). Urinary free-cortisol levels in posttraumatic stress disorder patients. <emphasis effect="italics">The Journal of Nervous and Mental Disease</emphasis>, <emphasis effect="italics">174</emphasis>(3), 145–149. https://doi.org/10.1097/00005053-198603000-00003</para>
+      <para id="para-00044">McEwen, B. S. (2004). Protection and damage from acute and chronic stress: allostasis and allostatic overload and relevance to the pathophysiology of psychiatric disorders. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis> , <emphasis effect="italics">1032</emphasis>, 1–7. https://doi.org/10.1196/annals.1314.001</para>
+      <para id="para-00045">Parsons, R. G., &amp; Ressler, K. J. (2013). Implications of memory modulation for post-traumatic stress and fear disorders. <emphasis effect="italics">Nature Neuroscience</emphasis> , <emphasis effect="italics">16</emphasis>(2), 146–153. https://doi.org/10.1038/nn.3296</para>
+      <para id="para-00046">Peavy, G. M., Jacobson, M. W., Salmon, D. P., Gamst, A. C., Patterson, T. L., Goldman, S., Mills, P. J., Khandrika, S., &amp; Galasko, D. (2012). The influence of chronic stress on dementia-related diagnostic change in older adults. <emphasis effect="italics">Alzheimer Disease and Associated Disorders</emphasis>, <emphasis effect="italics">26</emphasis>(3), 260–266. https://doi.org/10.1097/WAD.0b013e3182389a9c</para>
+      <para id="para-00047">Rosenkranz, J. A., Venheim, E. R., &amp; Padival, M. (2010). Chronic stress causes amygdala hyperexcitability in rodents. <emphasis effect="italics">Biological Psychiatry</emphasis> , <emphasis effect="italics">67</emphasis>(12), 1128–1136. https://doi.org/10.1016/j.biopsych.2010.02.008</para>
+      <para id="para-00048">Schmid, B., Blomeyer, D., Becker, K., Treutlein, J., Zimmermann, U. S., Buchmann, A. F., Schmidt, M. H., Esser, G., Banaschewski, T., Rietschel, M., &amp; Laucht, M. (2009). The interaction between the dopamine transporter gene and age at onset in relation to tobacco and alcohol use among 19-year-olds. <emphasis effect="italics">Addiction Biology</emphasis>, <emphasis effect="italics">14</emphasis>(4), 489–499. https://doi.org/10.1111/j.1369-1600.2009.00171.x</para>
+      <para id="para-00049">Shalev, A., Liberzon, I., &amp; Marmar, C. (2017). Post-traumatic stress disorder. <emphasis effect="italics">The New England Journal of Medicine</emphasis>, <emphasis effect="italics">376</emphasis>(25), 2459–2469. https://doi.org/10.1056/NEJMra1612499</para>
+      <para id="para-00050">Srivareerat, M., Tran, T. T., Alzoubi, K. H., &amp; Alkadhi, K. A. (2009). Chronic psychosocial stress exacerbates impairment of cognition and long-term potentiation in beta-amyloid rat model of Alzheimer's disease. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">65</emphasis>(11), 918–926. https://doi.org/10.1016/j.biopsych.2008.08.021</para>
+      <para id="para-00051">Tafet, G. E., &amp; Nemeroff, C. B. (2020). Pharmacological treatment of anxiety disorders: The role of the HPA axis. <emphasis effect="italics">Frontiers in Psychiatry</emphasis> , <emphasis effect="italics">11</emphasis>, 443. https://doi.org/10.3389/fpsyt.2020.00443</para>
+      <para id="para-00052">Tafet, G. E., Idoyaga-Vargas, V. P., Abulafia, D. P., Calandria, J. M., Roffman, S. S., Chiovetta, A., &amp; Shinitzky, M. (2001). Correlation between cortisol level and serotonin uptake in patients with chronic stress and depression. <emphasis effect="italics">Cognitive, Affective &amp; Behavioral Neuroscience</emphasis>, <emphasis effect="italics">1</emphasis>(4), 388–393. https://doi.org/10.3758/cabn.1.4.388</para>
+      <para id="para-00053">Tschetter, K. E., Callahan, L. B., Flynn, S. A., Rahman, S., Beresford, T. P., &amp; Ronan, P. J. (2022). Early life stress and susceptibility to addiction in adolescence. <emphasis effect="italics">International Review of Neurobiology</emphasis>, <emphasis effect="italics">161</emphasis>, 277–302. https://doi.org/10.1016/bs.irn.2021.08.007</para>
+      <para id="para-00054">Wolf, S. A., Boddeke, H. W., &amp; Kettenmann, H. (2017). Microglia in physiology and disease. <emphasis effect="italics">Annual Review of Physiology</emphasis>, <emphasis effect="italics">79</emphasis>, 619–643. https://doi.org/10.1146/annurev-physiol-022516-034406</para>
       <para id="para-00055">Yehuda, R. (2002). Post-traumatic stress disorder. <emphasis effect="italics">The New England Journal of Medicine</emphasis>, <emphasis effect="italics">346</emphasis>(2), 108–114. https://doi.org/10.1056/NEJMra012941</para>
-      <para id="para-00056">Yehuda, R., McFarlane, A. C., &amp; Shalev, A. Y. (1998). Predicting the
-        development of posttraumatic stress disorder from the acute response to a traumatic event. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">44</emphasis>(12),
-        1305–1313. https://doi.org/10.1016/s0006-3223(98)00276-5</para>
-      <para id="para-00057">Zohar, J., Yahalom, H., Kozlovsky, N., Cwikel-Hamzany, S., Matar, M. A., Kaplan, Z.,
-        Yehuda, R., &amp; Cohen, H. (2011). High dose hydrocortisone immediately after trauma may
-        alter the trajectory of PTSD: interplay between clinical and animal studies. <emphasis effect="italics">European Neuropsychopharmacology: The Journal of the European College of
-        Neuropsychopharmacology</emphasis>, <emphasis effect="italics">21</emphasis>(11), 796–809.
-        https://doi.org/10.1016/j.euroneuro.2011.06.001</para>
+      <para id="para-00056">Yehuda, R., McFarlane, A. C., &amp; Shalev, A. Y. (1998). Predicting the development of posttraumatic stress disorder from the acute response to a traumatic event. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">44</emphasis>(12), 1305–1313. https://doi.org/10.1016/s0006-3223(98)00276-5</para>
+      <para id="para-00057">Zohar, J., Yahalom, H., Kozlovsky, N., Cwikel-Hamzany, S., Matar, M. A., Kaplan, Z., Yehuda, R., &amp; Cohen, H. (2011). High dose hydrocortisone immediately after trauma may alter the trajectory of PTSD: interplay between clinical and animal studies. <emphasis effect="italics">European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">21</emphasis>(11), 796–809. https://doi.org/10.1016/j.euroneuro.2011.06.001</para>
 
     </section>
 
@@ -460,25 +158,25 @@
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-12-04-001"/></para>
+          <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-12-04-001" /></para>
         </problem>
       </exercise>
 
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00060"><link class="os-embed" url="#exercise/Neuro-12-04-002"/></para>
+          <para id="para-00060"><link class="os-embed" url="#exercise/Neuro-12-04-002" /></para>
         </problem>
       </exercise>
 
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-12-04-003"/></para>
+          <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-12-04-003" /></para>
         </problem>
       </exercise>
 
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-12-04-004"/></para>
+          <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-12-04-004" /></para>
         </problem>
       </exercise>
 
@@ -487,7 +185,7 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00009">
         <problem id="prob-00009">
-          <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-12-04-005"/></para>
+          <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-12-04-005" /></para>
         </problem>
       </exercise>
 

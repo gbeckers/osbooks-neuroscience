@@ -9,162 +9,208 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Describe several theories to explain why we sleep.</item>
-          <item>Differentiate between the different stages of sleep.</item>
-          <item>Differentiate between circadian and homeostatic regulation of sleep.</item>
-          <item>List several ways in which disruption of sleep (shift work, light at night) impacts human health.</item>
-        </list>
+      <list id="list-00001">
+        <item>Describe several theories to explain why we sleep.</item>
+        <item>Differentiate between the different stages of sleep.</item>
+        <item>Differentiate between circadian and homeostatic regulation of sleep.</item>
+        <item>List several ways in which disruption of sleep (shift work, light at night) impacts human health.</item>
+      </list>
     </section>
-    <section class="section-summary" id="sect-00002"> <title>Summary</title> <para id="para-00002">There are several overlapping hypotheses for why sleep exists including energy conservation, restoration of energy, and aiding growth and development. Sleep can be measured in the lab using a PSG which detects changes in the phases of sleep. There are non-REM (3 stages) and REM sleep stages that are differentiated by different types of brain wave activity patterns.  The flip flop model of sleep-promoting neurons in the VLPO have a mutual inhibition with wake promoting cell populations in the brainstem and hypothalamus. This is referred to as a flip flop switch and is maintained in part by a variety of neurotransmitters including acetylcholine, norepinephrine, serotonin and GABA. Finally, there are sex differences in sleep that may be influenced in part by circulating hormones.</para> </section>
-    <section id="sect-00007"><title>Why Does Sleep Exist?</title>
+    <section class="section-summary" id="sect-00002">
+      <title>Summary</title>
+      <para id="para-00002">There are several overlapping hypotheses for why sleep exists including energy conservation, restoration of energy, and aiding growth and development. Sleep can be measured in the lab using a PSG which detects changes in the phases of sleep. There are non-REM (3 stages) and REM sleep stages that are differentiated by different types of brain wave activity patterns. The flip flop model of sleep-promoting neurons in the VLPO have a mutual inhibition with wake promoting cell populations in the brainstem and hypothalamus. This is referred to as a flip flop switch and is maintained in part by a variety of neurotransmitters including acetylcholine, norepinephrine, serotonin and GABA. Finally, there are sex differences in sleep that may be influenced in part by circulating hormones.</para>
+    </section>
+    <section id="sect-00007">
+      <title>Why Does Sleep Exist?</title>
       <para id="para-00028">At first glance, the entire process of sleep seems maladaptive. While sleeping, organisms are not searching for food or mates and have reduced sensitivity to environmental stimuli, making them more vulnerable to predators or hazardous events. Despite this, almost all animals appear to sleep, even when they lack a central nervous system as is the case with Hydra (Kanaya et al., 2020). It therefore seems likely that sleep evolved in very primitive animals and gradually took on additional functions throughout the evolution of the animal kingdom.</para>
-      
+
       <para id="para-00029">In humans, sleep regulation can be modeled using the two-process model of sleep regulation. <term id="term-00001">Process C</term> refers to the circadian rhythms in the timing of sleep and wakefulness. There are endogenous rhythms to when you feel sleepy and when you feel most awake. For example, most of us feel fatigued and sleepy during the later hours of the evening, and we feel most alert in the morning hours. There is also a period of reduced alertness which occurs in the midafternoon. You may have experienced this as sleepiness after lunch. These cyclical rhythms in sleepiness and wakefulness are regulated by the circadian timekeeping system and the master clock found in the SCN. <term id="term-00002">Process S</term> refers to the <term id="term-00003">homeostatic</term> pressure to get restorative sleep. The more time it has been since you slept, the greater the pressure to fall asleep. After you have been awake for a while, a certain amount of sleep debt has accumulated, and you need a period of sleep to eliminate the debt. The interaction between these two processes determines the amount of sleep pressure at any given time and the likelihood of falling asleep.</para>
-      
-      <figure id="Image-15.17"><title>Why we sleep</title>
-        <media alt="Diagrams representing 5 major answers to the question “why do we sleep?”. Shown are: restoration of physical and mental energy, reduced energy demand, protection from predators, support plasticity for learning, support of growth and development."> <image mime-type="image/png" src="../../media/Image-15.17_Why-we-sleep.png"/> </media> </figure>
-      
-      <para id="para-00030">One major theory of the function of sleep is that sleep performs a restorative function, without which an animal’s performance is impaired in some fashion (<link target-id="Image-15.17"/>). In humans, when we don’t sleep, we feel tired and our ability to function is decreased on both physical and mental tasks. After sleeping, we feel better. There is significant evidence in support of this function at the behavioral, physiological, and molecular levels. Sleep deprivation impairs, among other things, cognitive function, tissue repair, attention to tasks, and even increases cancer risk.</para>
-      
+
+      <figure id="Image-15.17">
+        <title>Why we sleep</title>
+        <media alt="Diagrams representing 5 major answers to the question “why do we sleep?”. Shown are: restoration of physical and mental energy, reduced energy demand, protection from predators, support plasticity for learning, support of growth and development.">
+          <image mime-type="image/png" src="../../media/Image-15.17_Why-we-sleep.png" />
+        </media>
+      </figure>
+
+      <para id="para-00030">One major theory of the function of sleep is that sleep performs a restorative function, without which an animal’s performance is impaired in some fashion (<link target-id="Image-15.17" />). In humans, when we don’t sleep, we feel tired and our ability to function is decreased on both physical and mental tasks. After sleeping, we feel better. There is significant evidence in support of this function at the behavioral, physiological, and molecular levels. Sleep deprivation impairs, among other things, cognitive function, tissue repair, attention to tasks, and even increases cancer risk.</para>
+
       <para id="para-00031">One possible mechanism of the restorative function of sleep focuses on the neurotransmitter adenosine. Adenosine is released by neurons in response to excessive firing and metabolic exhaustion (Lovatt et al., 2012). During wakefulness, adenosine builds up in the brain, promoting sleepiness. It is then reduced during sleep. The impact of adenosine is counteracted by caffeine, giving coffee and other caffeinated beverages their ability to defer sleep onset. Caffeine has this effect by blocking action at the A2A adenosine receptor. This effect is temporary—once the caffeine wears off, a person is just as sleepy as if they had never had the caffeine.</para>
-      
+
       <para id="para-00032">Another possible mechanism for the restorative function of sleep is waste clearance. Metabolic waste products are removed from the brain at a higher rate during sleep than during wakefulness (Albrecht and Ripperger, 2018). One mechanism that clears this neural waste is known as the <term id="term-00004">glymphatic system</term> and this has been the subject of new and exciting research in neuroscience. In this system, cerebral spinal fluid (CSF) enters the brain then has an exchange with the brain tissue via the interstitial fluid. The byproducts of metabolism are collected and removed from the brain. The glymphatic system is active when animals are sleeping and it is largely quiet when animals are awake. Research has demonstrated that this rhythm in clearance is circadian in nature (Hablitz et al., 2020). Thus, sleep may serve as an active period when the brain is removing toxic waste (Jessen et al., 2015).</para>
-      
+
       <para id="para-00033">A second popular theory of sleep function is that it serves an energy conservation function. Energy usage is reduced during sleep, with the amount of savings varying from animal to animal. Animals spend a considerable amount of their energy budgets looking for food, and the reduction in energy usage during sleep could make a difference in evolutionary success. In fact, when we sleep our metabolism decreases by 10% (Sharma and Kavuru, 2010). Some species gain significant energy savings during sleep by reducing body temperature, but the reduction in muscle usage provides for significant savings. Many species also adopt sleeping postures that conserve heat, reducing the energy usage for body temperature homeostasis. At times when food is scarce, the reduction in metabolic rate during sleep could allow an animal to survive for a longer period of time than would otherwise be possible. While this theory is appealing, there are examples that do not support it. For example, some animals sleep a lot whereas others sleep very little. Lions and zebras both use relatively little energy; male lions do not hunt and grazing expends a small amount of energy. Yet lions sleep 15-18 hours a day and zebras sleep as little as 3-4 hours a day (Siegel 2005).</para>
-      
+
       <para id="para-00034">A third theory is that sleep enforces inactivity during periods of time when an animal’s survival would be negatively impacted by active behaviors. Thus, animals with specialized adaptations for nocturnality sleep during the day, when they would be more vulnerable to predation, and diurnal animals dependent on vision are safer being inactive during the night. However, it is not clear whether sleep is really necessary to enforce this kind of behavior pattern, with the added cost of loss of responsiveness to sensory stimuli.</para>
-      
+
       <para id="para-00035">Finally, there is the idea that in animals with complex nervous systems sleep serves an important role in the growth, development, and plasticity of the brain, particularly as it relates to functions around learning and memory. As an example, sleep deprivation studies have confirmed that learning and memory are negatively impacted by insufficient sleep through effects on signaling in hippocampal neurons (see <link document="m00060">Learning and Memory</link>).</para>
-      
+
       <para id="para-00036">These theories are not mutually exclusive. It seems likely that sleep evolved in response to bioenergetic pressures that resulted from circadian rhythms of energy availability and took on additional functions as nervous systems developed and became more complex.</para>
-      </section>
-      <note class="inthe-lab" id="note-00001">
+    </section>
+    <note class="inthe-lab" id="note-00001">
       <title>How We Measure Sleep</title>
-      <para id="para-00037">The gold standard for measuring sleep is by the use of a <term id="term-00005">polysomnogram (PSG)</term>. <link target-id="Image-15.04"/> shows a photo of someone undergoing polysomnography, along with some of the typical measures collected during the session. This is typically done within a lab setting or sleep clinic. Electrodes are attached to standardized locations on the scalp to measure brain electrical activity through <term id="term-00006">electroencephalography (EEG)</term> (see <link document="m00106" target-id="">Methods: Sleep and EEG</link>). Fluctuations in voltage are measured and compared between each of the sensors. Electrical signals from the brain vary between waking and sleeping, and between the different stages of sleep. Electrodes are also used to measure movement of the eye muscles through <term id="term-00007">electrooculography</term> (<term id="term-00008">EOG</term>). This detects ocular movement during wakefulness and the different sleep stages and is used to identify <term id="term-00009">Rapid Eye Movement Sleep (REM or REM sleep)</term>. Sensors are also used to measure muscle movement through <term id="term-00010">electromyography (EMG)</term>. There are changes in muscle tone that occur as you move from wakefulness with continuous movement to REM sleep with muscle paralysis. Finally, oxygen saturation in your blood, respiratory rate, and heart rate may also be measured.</para>
+      <para id="para-00037">The gold standard for measuring sleep is by the use of a <term id="term-00005">polysomnogram (PSG)</term>. <link target-id="Image-15.04" /> shows a photo of someone undergoing polysomnography, along with some of the typical measures collected during the session. This is typically done within a lab setting or sleep clinic. Electrodes are attached to standardized locations on the scalp to measure brain electrical activity through <term id="term-00006">electroencephalography (EEG)</term> (see <link document="m00106" target-id="">Methods: Sleep and EEG</link>). Fluctuations in voltage are measured and compared between each of the sensors. Electrical signals from the brain vary between waking and sleeping, and between the different stages of sleep. Electrodes are also used to measure movement of the eye muscles through <term id="term-00007">electrooculography</term> (<term id="term-00008">EOG</term>). This detects ocular movement during wakefulness and the different sleep stages and is used to identify <term id="term-00009">Rapid Eye Movement Sleep (REM or REM sleep)</term>. Sensors are also used to measure muscle movement through <term id="term-00010">electromyography (EMG)</term>. There are changes in muscle tone that occur as you move from wakefulness with continuous movement to REM sleep with muscle paralysis. Finally, oxygen saturation in your blood, respiratory rate, and heart rate may also be measured.</para>
       
-      <figure id="Image-15.04"><title>EEG measurement of sleep</title>
-        <media alt="Photo of person lying asleep in a bed with electrodes tapes to their head, face and body with wires leading to a box on the side of the bed. Also shown are trace recordings from EEG, EOG and EMG as black horizontal lines. During wake, all traces show high frequency oscillations. During NREMS, EEG oscillations are bigger than during wake while EOG and EMG are more flat. During REMS, EEG looks similar to awake, EOG shows oscillations and EMG is flat."> <image mime-type="image/png" src="../../media/Image-15.04_EEG-measurement-of-sleep.png"/>
-      </media>
-        <caption>Image credit: Photo of person from: https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg, CC BY-SA43.0. Electrode traces from Kumar,  Ramaswamy &amp; Mallick. 2013. "Local Properties of Vigilance States: EMD Analysis of EEG Signals during Sleep-Waking States of Freely Moving Rats." https://doi.org/10.1371/journal.pone.0078174. CC BY 4.0</caption> </figure>
+      <figure id="Image-15.04">
+        <title>EEG measurement of sleep</title>
+        <media alt="Photo of person lying asleep in a bed with electrodes tapes to their head, face and body with wires leading to a box on the side of the bed. Also shown are trace recordings from EEG, EOG and EMG as black horizontal lines. During wake, all traces show high frequency oscillations. During NREMS, EEG oscillations are bigger than during wake while EOG and EMG are more flat. During REMS, EEG looks similar to awake, EOG shows oscillations and EMG is flat.">
+          <image mime-type="image/png" src="../../media/Image-15.04_EEG-measurement-of-sleep.png" />
+        </media>
+        <caption>Image credit: Photo of person from: https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg, CC BY-SA43.0. Electrode traces from Kumar,  Ramaswamy &amp; Mallick. 2013. "Local Properties of Vigilance States: EMD Analysis of EEG Signals during Sleep-Waking States of Freely Moving Rats." https://doi.org/10.1371/journal.pone.0078174. CC BY 4.0</caption>
+      </figure>
       <para id="para-00038">PSG measures sleep in an objective manner. However, you can also give people surveys or diaries and ask them to describe their sleep. This is referred to as subjective measures. There are many sleep surveys and tools that are used to measure healthy sleep and to assess potential sleep disorders such as insomnia or sleep apnea. These surveys can probe how much an individual sleeps, their level of daytime sleepiness, the quality of their sleep, and their preference for activities at certain times of day. A doctor may also ask for a sleep diary or log where a patient records the time they go to bed, the time they fall asleep, the number of minutes they are awake after they fall asleep and the time they wake up.</para>
       
       <para id="para-00039">In healthy patients, the subjective and objective measures of sleep have a high correlation, but in patients with conditions such as insomnia or depression, the correlation is not as strong. For example, patients with insomnia may report that it takes longer for them to fall asleep than the PSG records would indicate (Rezai et al., 2022). However, both objective and subjective measures of sleep are important for a medical professional to use as data for treating a patient. Recently, new tools using fitness trackers and smart watches have become available that purport to measure sleep time and even to identify the timing of deep and REM sleep. These devices can be very good at identifying periods of sleep but may somewhat overestimate sleep time because they aren’t necessarily as good at identifying waking periods. In addition, accuracy in the measurement of sleep stages is not yet up to clinical standards.</para>
-      </note>
-      <section id="sect-00008">
+    </note>
+    <section id="sect-00008">
       <title>Stages of Sleep</title>
-      <para id="para-00040">There is a clear distinction between your activity levels during sleep when compared to being awake. However, getting a good night of sleep is not a uniform process where you lay immobile in bed and your brain becomes quiet. In reality, your brain and your body cycle through 4 different stages and the whole cycle can take about 90 minutes (<link target-id="Image-15.10"/>). You may experience 3-5 cycles per evening.</para>
-      
-      <figure id="Image-15.10"><title>Hypnogram</title>
-        <media alt="A graphical display of sleep stages with Y-axis being stages of sleep (top to bottom: awake; dreaming/REM; NREM stage 1; NREM stage 2; NREM stage 3). X-axis is hours of sleep. A line starts at awake, hour 0 and drops to Stage 2 and 3 within an hour. The line returns to REM then back to stage 3. After 4h, no more stage 3 (also marked deep sleep) happens and there are just repeating cycles of REM or awake to stage 1 or 2."> <image mime-type="image/png" src="../../media/Image-15.10_Hypnogram.png"/></media></figure>
-      
-      <para id="para-00041">The stages comprising a cycle can be divided into <term id="term-00011">non-REM</term> (3 stages) and REM sleep. Non-REM sleep (also referred to as NREM sleep) is characterized by large amplitude, slow oscillations on the EEG, representing synchrony of electrical activity in the cortex (<link target-id="Image-15.04"/>). Muscle tone is reduced and movement is limited (but not eliminated).</para>
-      <list id="list-00003"><item><term id="term-00012">Stage 1 non-REM sleep</term> is a transitional stage that occurs as one moves from wakefulness into sleep. This period lasts less than 10 minutes and is considered the lightest stage of sleep because you are easily woken up during this stage.</item>
-        <item><term id="term-00013">Stage 2 non-REM sleep</term> is where the majority of your sleeping time is spent. Your body temperature drops, your breathing rate slows, and your brain electrical patterns exhibit <term id="term-00014">sleep spindles</term> (<link target-id="Image-15.18"/>). Spindles appear on the EEG as rapid and rhythmic bursts of activity. Spindles are associated with learning capacity. This period lasts about 25 minutes.</item>
-        <item><term id="term-00015">Stage 3 non-REM sleep</term>, or <term id="term-00016">delta sleep</term>, or <term id="term-00017">slow wave sleep</term> is a deeper sleep where it may be hard to wake up even if there are loud noises or stimuli in the environment. The body's breathing rate is slowed and muscles are relaxed. In the EEG, <term id="term-00018">delta waves</term> appear which are slow frequency and high amplitude waves of electrical activity (<link target-id="Image-15.18"/>). This is the deepest stage of sleep and is the critical stage for restorative sleep as it is a time when the body clears out waste, builds bone and muscle and the immune system is strengthened. Decreases in the amount of slow wave sleep is associated with more fatigue during the day. Importantly, this stage of sleep is critical for memory consolidation.</item></list>
-        
-      <figure id="Image-15.18"><title>Sleep spindles and delta waves</title>
-        <media alt="Screenshots of EEG traces showing sleep spindles and delta waves. Sleep spindles are rapid bursts in electrical activity in the brain during stage 2 NREM sleep that may be related to learning and memory. Delta waves are slow frequency, high amplitude waves evident during stage 3 NREM sleep."> <image mime-type="image/png" src="../../media/Image-15.18_Sleep-spindles-and-delta-waves.png"/> </media> <caption>Image credit: Sleep spindles from EEG by MrSandman at English Wikipedia. Transferred from w to Commons by en., Public Domain, https://commons.wikimedia.org/w/index.php?curid=453178. Delta waves from EEG Public Domain, https://commons.wikimedia.org/w/index.php?curid=453193</caption> </figure>
-      
-      <para id="para-00042">Finally, about 90 minutes after you fall asleep you enter the REM sleep phase. Here your brain EEG has electrical activity that resembles wakefulness; as such, this stage is referred to as "paradoxical sleep". Despite brain activity that resembles the waking state, your muscles are immobilized, breathing is fast and irregular, and your eyes exhibit rapid movements. This stage can last 10 minutes in the first sleep cycle of the evening, but as the night progresses, you spend an increased amount of time in the REM portion of the sleep cycle, perhaps as long as 60 minutes by the end of the night. In a typical night of sleep, you do not progress through the sleep stages in order. Initially you may enter stage 1 through 4 in sequence before reaching REM sleep, but at the end of the night you may cycle between REM and stage 2 and stage 3 non-REM sleep.</para></section>
-      <note class="boxed-feature" id="note-00002">
+      <para id="para-00040">There is a clear distinction between your activity levels during sleep when compared to being awake. However, getting a good night of sleep is not a uniform process where you lay immobile in bed and your brain becomes quiet. In reality, your brain and your body cycle through 4 different stages and the whole cycle can take about 90 minutes (<link target-id="Image-15.10" />). You may experience 3-5 cycles per evening.</para>
+
+      <figure id="Image-15.10">
+        <title>Hypnogram</title>
+        <media alt="A graphical display of sleep stages with Y-axis being stages of sleep (top to bottom: awake; dreaming/REM; NREM stage 1; NREM stage 2; NREM stage 3). X-axis is hours of sleep. A line starts at awake, hour 0 and drops to Stage 2 and 3 within an hour. The line returns to REM then back to stage 3. After 4h, no more stage 3 (also marked deep sleep) happens and there are just repeating cycles of REM or awake to stage 1 or 2.">
+          <image mime-type="image/png" src="../../media/Image-15.10_Hypnogram.png" />
+        </media>
+      </figure>
+
+      <para id="para-00041">The stages comprising a cycle can be divided into <term id="term-00011">non-REM</term> (3 stages) and REM sleep. Non-REM sleep (also referred to as NREM sleep) is characterized by large amplitude, slow oscillations on the EEG, representing synchrony of electrical activity in the cortex (<link target-id="Image-15.04" />). Muscle tone is reduced and movement is limited (but not eliminated).</para>
+      <list id="list-00003">
+        <item><term id="term-00012">Stage 1 non-REM sleep</term> is a transitional stage that occurs as one moves from wakefulness into sleep. This period lasts less than 10 minutes and is considered the lightest stage of sleep because you are easily woken up during this stage.</item>
+        <item><term id="term-00013">Stage 2 non-REM sleep</term> is where the majority of your sleeping time is spent. Your body temperature drops, your breathing rate slows, and your brain electrical patterns exhibit <term id="term-00014">sleep spindles</term> (<link target-id="Image-15.18" />). Spindles appear on the EEG as rapid and rhythmic bursts of activity. Spindles are associated with learning capacity. This period lasts about 25 minutes.</item>
+        <item><term id="term-00015">Stage 3 non-REM sleep</term>, or <term id="term-00016">delta sleep</term>, or <term id="term-00017">slow wave sleep</term> is a deeper sleep where it may be hard to wake up even if there are loud noises or stimuli in the environment. The body's breathing rate is slowed and muscles are relaxed. In the EEG, <term id="term-00018">delta waves</term> appear which are slow frequency and high amplitude waves of electrical activity (<link target-id="Image-15.18" />). This is the deepest stage of sleep and is the critical stage for restorative sleep as it is a time when the body clears out waste, builds bone and muscle and the immune system is strengthened. Decreases in the amount of slow wave sleep is associated with more fatigue during the day. Importantly, this stage of sleep is critical for memory consolidation.</item>
+      </list>
+
+      <figure id="Image-15.18">
+        <title>Sleep spindles and delta waves</title>
+        <media alt="Screenshots of EEG traces showing sleep spindles and delta waves. Sleep spindles are rapid bursts in electrical activity in the brain during stage 2 NREM sleep that may be related to learning and memory. Delta waves are slow frequency, high amplitude waves evident during stage 3 NREM sleep.">
+          <image mime-type="image/png" src="../../media/Image-15.18_Sleep-spindles-and-delta-waves.png" />
+        </media>
+        <caption>Image credit: Sleep spindles from EEG by MrSandman at English Wikipedia. Transferred from w to Commons by en., Public Domain, https://commons.wikimedia.org/w/index.php?curid=453178. Delta waves from EEG Public Domain, https://commons.wikimedia.org/w/index.php?curid=453193</caption>
+      </figure>
+
+      <para id="para-00042">Finally, about 90 minutes after you fall asleep you enter the REM sleep phase. Here your brain EEG has electrical activity that resembles wakefulness; as such, this stage is referred to as "paradoxical sleep". Despite brain activity that resembles the waking state, your muscles are immobilized, breathing is fast and irregular, and your eyes exhibit rapid movements. This stage can last 10 minutes in the first sleep cycle of the evening, but as the night progresses, you spend an increased amount of time in the REM portion of the sleep cycle, perhaps as long as 60 minutes by the end of the night. In a typical night of sleep, you do not progress through the sleep stages in order. Initially you may enter stage 1 through 4 in sequence before reaching REM sleep, but at the end of the night you may cycle between REM and stage 2 and stage 3 non-REM sleep.</para>
+    </section>
+    <note class="boxed-feature" id="note-00002">
       <title>Cramming for Exams</title>
       <para id="para-00043">Have you ever pulled an all-nighter to complete a last-minute project or to study for an exam? This learning strategy is not ideal as research teaches us sleep is critical for optimal learning. We may not yet know the full reasons for why we sleep, but studies show that sleeping helps with our memory formation and retention. Getting enough sleep both before and after you learn material can help strengthen memories. In lab studies, people were allowed to have a full night’s sleep, or even a 90-minute nap <emphasis effect="italics">prior</emphasis> to having a memory task of learning face-name pairs. Those that slept had a significantly better learning capacity compared to those with no nap or less sleep. The polysomnogram (PSG) data from the participants were analyzed and it was found that the number of sleep spindles that occurred in the stage 2 non-REM sleep prior to learning was associated with an increase in learning ability. Sleep also helps you strengthen and retain memories after they have been formed. In studies where participants learned word pairs, then took a nap, or slept overnight, it was found that they recalled more words than those that did not sleep. An additional important finding was that the amount of deep non-REM sleep was strongly associated with the amount of information that was retained. We get more deep non-REM in the early part of our sleep cycle, thus, getting a full night’s sleep is critical for learning (Walker, 2017).</para>
-      </note>
-      <section id="sect-00009">
+    </note>
+    <section id="sect-00009">
       <title>Regulating Sleep</title>
-      <para id="para-00044">When we are awake there are multiple brain areas that are actively responsible for keeping us in an awake state. However, you may not realize that when we are asleep our brains are not in an "off" state; instead, our brains remain engaged in active processes. While we sleep there are specific brain areas that are turned "on" to help regulate our sleep. During our waking period there are multiple brain areas, working together as part of the ascending arousal system, that secrete neurotransmitters which then maintain wakefulness (see <link document="m00027">Basic Neurochemistry</link> (<link target-id="Image-15.06"/>). The neurotransmitters that are secreted go to a sleep-promoting brain area to turn off its activity. This brain area, known as the ventrolateral preoptic area (VLPO, a region of the hypothalamus), communicates back to the wake-promoting system, and inhibits these structures in order to maintain a quiescent state. Thus, there is a brain area that promotes sleep, a second set of structures that promotes wakefulness, and these two systems inhibit one another. This is referred to as the <term id="term-00019">flip flop switch</term>.</para>
-      
-      <figure id="Image-15.06"><title>Sleep circuitry</title>
-        <media alt="Top is a diagram of a sagittal human brain with projections from the TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) in brainstem. Projections extend widely throughout the cortex. LDT/PPT (ACh) sends projections to the thalamus. Bottom shows a cartoon of a balance with VLPO/sleep on one side and TMN, Rn, LC and PPT/LDT with Wake on the other side. Sleep transitions are regulated by this 'flip flop switch'."> <image mime-type="image/png" src="../../media/Image-15.06_Sleep-circuitry.png"/> </media> </figure>
-      
-      <para id="para-00045">To be more specific, during wakefulness, in the brainstem, the locus coeruleus (LC) secretes norepinephrine and the raphe nuclei secretes serotonin. In the hypothalamus, the tuberomammillary nuclei (TMN) secrete histamine. Additionally, in the brainstem, near the pons are two groups of cells that secrete acetylcholine. These cells are located in the lateral dorsal tegmentum (LDT) and the pontine peduncular tegmentum (PPT). Together, these wake-promoting areas send projections through the rest of the brain to help maintain wakefulness. In contrast, there is a group of cells in the VLPO of the hypothalamus which promotes sleep. As mentioned above, there is a mutual inhibition between the sleep-promoting regions of the VLPO and the wake-promoting regions of the brainstem and hypothalamus. Specifically, the VLPO is inhibited by norepinephrine and serotonin via connections from LC and raphe nuclei; this occurs during wakefulness. The cells of the VLPO send neuronal projections containing the inhibitory amino acid GABA and the inhibitory neurotransmitter galanin to the aforementioned sleep-promoting brain areas. The VLPO thus inhibits these areas and as a result maintains sleep. These connections are diagrammed in <link target-id="Image-15.22"/>.</para>
-      
-      <figure id="Image-15.22"><title>Reciprocal inhibitory connections of sleep areas</title>
-        <media alt="Diagram of sagittal human brain focused on brainstem/midbrain. TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) and LDT/PPT (ACh) in brainstem all have inhibitory connections on VLPO (GABA, galanin) in hypothalamus. VLPO sends inhibitory connections to all those regions."> <image mime-type="image/png" src="../../media/Image-15.22_Reciprocal-inhibitory-connections-of-sleep-areas.png"/> </media><caption>Wake and sleep promoting regions inhibit each other.</caption></figure>
-      </section>
-      <section id="sect-00010">
+      <para id="para-00044">When we are awake there are multiple brain areas that are actively responsible for keeping us in an awake state. However, you may not realize that when we are asleep our brains are not in an "off" state; instead, our brains remain engaged in active processes. While we sleep there are specific brain areas that are turned "on" to help regulate our sleep. During our waking period there are multiple brain areas, working together as part of the ascending arousal system, that secrete neurotransmitters which then maintain wakefulness (see <link document="m00027">Basic Neurochemistry</link> (<link target-id="Image-15.06" />). The neurotransmitters that are secreted go to a sleep-promoting brain area to turn off its activity. This brain area, known as the ventrolateral preoptic area (VLPO, a region of the hypothalamus), communicates back to the wake-promoting system, and inhibits these structures in order to maintain a quiescent state. Thus, there is a brain area that promotes sleep, a second set of structures that promotes wakefulness, and these two systems inhibit one another. This is referred to as the <term id="term-00019">flip flop switch</term>.</para>
+
+      <figure id="Image-15.06">
+        <title>Sleep circuitry</title>
+        <media alt="Top is a diagram of a sagittal human brain with projections from the TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) in brainstem. Projections extend widely throughout the cortex. LDT/PPT (ACh) sends projections to the thalamus. Bottom shows a cartoon of a balance with VLPO/sleep on one side and TMN, Rn, LC and PPT/LDT with Wake on the other side. Sleep transitions are regulated by this 'flip flop switch'.">
+          <image mime-type="image/png" src="../../media/Image-15.06_Sleep-circuitry.png" />
+        </media>
+      </figure>
+
+      <para id="para-00045">To be more specific, during wakefulness, in the brainstem, the locus coeruleus (LC) secretes norepinephrine and the raphe nuclei secretes serotonin. In the hypothalamus, the tuberomammillary nuclei (TMN) secrete histamine. Additionally, in the brainstem, near the pons are two groups of cells that secrete acetylcholine. These cells are located in the lateral dorsal tegmentum (LDT) and the pontine peduncular tegmentum (PPT). Together, these wake-promoting areas send projections through the rest of the brain to help maintain wakefulness. In contrast, there is a group of cells in the VLPO of the hypothalamus which promotes sleep. As mentioned above, there is a mutual inhibition between the sleep-promoting regions of the VLPO and the wake-promoting regions of the brainstem and hypothalamus. Specifically, the VLPO is inhibited by norepinephrine and serotonin via connections from LC and raphe nuclei; this occurs during wakefulness. The cells of the VLPO send neuronal projections containing the inhibitory amino acid GABA and the inhibitory neurotransmitter galanin to the aforementioned sleep-promoting brain areas. The VLPO thus inhibits these areas and as a result maintains sleep. These connections are diagrammed in <link target-id="Image-15.22" />.</para>
+
+      <figure id="Image-15.22">
+        <title>Reciprocal inhibitory connections of sleep areas</title>
+        <media alt="Diagram of sagittal human brain focused on brainstem/midbrain. TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) and LDT/PPT (ACh) in brainstem all have inhibitory connections on VLPO (GABA, galanin) in hypothalamus. VLPO sends inhibitory connections to all those regions.">
+          <image mime-type="image/png" src="../../media/Image-15.22_Reciprocal-inhibitory-connections-of-sleep-areas.png" />
+        </media>
+        <caption>Wake and sleep promoting regions inhibit each other.</caption>
+      </figure>
+    </section>
+    <section id="sect-00010">
       <title>Neuroscience across Species: Comparative Sleep</title>
       <para id="para-00046">Adaptation to a variety of ecological niches has resulted in a wide range of sleep strategies and some unusual variations in sleep physiology. Just across mammals, sleep duration can vary from 4-20 hours per day, and length of time spent sleeping represents just one way in which sleep differs between species. Sleep may confer an advantage to remain quiet when predators are present, or to conserve energy for when food (prey) is abundant. For example, in sloths in the wild, predation appears to determine when they are sleeping and when they are awake (Voirin et al., 2014). The little brown bat sleeps for up to 20 hours a day, which might be due to the fact that its food source of moths and mosquitos is only present in a small window of time at dusk (Siegel, 2022).</para>
-      
+
       <para id="para-00047">Some mammals (whales, dolphins, fur seals, and sea lions) exhibit an unusual pattern of sleep called unihemispheric sleep. When in this state, one half of the brain is in a state of slow wave sleep at a time. Given the requirements of living in an aquatic environment, this makes sense: aquatic mammals must retain voluntary muscle control because they need to swim and surface to breathe, and maintain contact with conspecifics and be alert for threats. Behaviorally, the animals generally keep one eye open and one closed, with the open eye connected to the cerebral hemisphere that is awake. The open eye is usually the one directed towards other members of the group, rather than looking outward for threats, suggesting that these animals are utilizing unihemispheric sleep, in part, to maintain group cohesion. Unihemispheric sleep is also thought to occur in some birds and eared seals.</para>
-      
+
       <para id="para-00048">Sleep-like states can also be measured in other organisms that do not have an SCN, such as fruit flies. In this versatile lab model, circadian rhythms are controlled by about 150 cells which are clustered into groups (reviewed by Dubowy and Sehgal, 2017). Together these groups function like the mammalian SCN. Further, these clusters also have differences in neurotransmitter expression, much like the different subregions of the SCN. Fruit flies have states of rest (quiescence) which resemble sleep. These periods of resting are circadian regulated and therefore occur rhythmically. Further, there is a homeostatic drive and flies can be deprived of this rest period after which they show sleep recovery periods. These recovery periods have longer and deeper sleep, indicating a potentially restorative function. Lastly, during the sleep period the fly requires a stronger stimulus to arouse it, much like you would require a stronger stimulus to get your attention when you were sleeping compared to when you were awake (Dubowy and Sehgal, 2017). This laboratory model has proven to be extremely useful in dissecting the genetic underpinnings of sleep, since the genes and behaviors underlying sleep are conserved.</para>
-      
+
       <para id="para-00049">Sleep qualities have been examined in humans from industrialized areas and compared to hunter-gatherer tribes that have little outside contact and no electricity (Siegel, 2022). Interestingly, in both types of cultures, humans do remain awake after the sun has set. In the tribal communities, humans remain awake for about 3 hours after dark, and further, they acquire about 7 hours of sleep a night. An additional interesting result is that there are relatively low reports of insomnia in individuals from hunter gatherer societies (2% compared to 10-30% in industrialized societies).</para>
-      
+
       <para id="para-00050">Ultimately, sleep can vary within or between species due to mating opportunities, season, food availability and predation. A comparative approach investigating sleep between various species, may lead to a common factor or factors which may determine why sleep is important.</para>
-      </section>
-      <section id="sect-00011">
+    </section>
+    <section id="sect-00011">
       <title>Sex as a Biological Variable: Sex Differences in Sleep Variables</title>
       <para id="para-00051">Polysomnography studies both at home and in the sleep lab indicate that women have better objective sleep quality when compared to men. Women fall asleep faster, stay asleep longer, have less wakefulness during their sleep period, and have a greater percentage of slow wave sleep than men. Women also tend to have an earlier bedtime and earlier wake time than men. Men have lighter sleep and spend more time in non-REM stages 1 and 2 and are more easily woken compared to women. Men have less slow wave sleep than do women. Some of these sex differences in sleep variables may be caused by changes in circulating gonadal hormones in men and women. For example, sleep changes and sleep complaints occur in women as they experience fluctuations in hormones such as occurs at the onset of puberty, across menstrual cycles, during pregnancy, and during menopause.</para>
-      
+
       <para id="para-00052">There are studies in men that examine the relationship of testosterone with sleep. Generally, we can suggest that low levels of testosterone are associated with reduced sleep; although not all reports support this conclusion. In healthy males, testosterone peaks around the time that REM sleep stage begins. If a male individual has fragmented sleep or sleep deprivation, then testosterone is reduced. Men with androgen deprivation therapy, which is a treatment for prostate cancer, report an increase in insomnia (Gonzalez et al., 2018). In a study of men 65 years old and older, there was a relationship between low levels of testosterone, increased waking during the night, and less time spent in the restorative slow wave sleep stage (Barrett-Conner et al., 2008). In contrast, high levels of testosterone replacement in older men or young men taking androgenic steroids have a decrease in the amount of total sleep (Liu et al., 2003).</para>
-      
+
       <para id="para-00053">There is still a relative lack of research into how and why sleep is regulated differently in women compared to men. Some of this lack of information may exist because of differences in how sleep is measured, how hormone profiles are determined, and how men and women report sleep problems (Mallampalli and Carter, 2014). However, we can describe some consistent changes that are associated with ovarian hormones in sleep in healthy women (see <link document="m00101">Sexual Development and Behavior</link>). During the follicular phase of the menstrual cycle, estradiol is rising. When it reaches a threshold, it triggers a surge of luteinizing hormone and this is followed by ovulation. The period after ovulation is called the luteal phase and this is when progesterone begins to rise. One conclusion that can be made from the literature is that during the luteal phase women experience more awakenings during the night and there is a reduction in slow wave sleep (Baker and Driver, 2007). Furthermore, sleep spindles increase during the luteal phase. Some, but not all, studies have found that the amount of REM may be reduced, REM may start earlier, and there is increased slow wave sleep during the luteal phase. However, when the follicular phase is compared to the luteal phase, PSG studies have found no difference in the time it takes to fall asleep, the time spent awake after falling asleep, or sleep efficiency (time spent asleep/time spent in bed).</para>
-      
+
       <para id="para-00054">Interestingly, changes in hormones such as occurs during menopause are associated with an increase in sleep complaints. As women transition through menopause, they have difficulty falling asleep and they have increased events of waking up during the night. This may be related to the decrease in estradiol and rise in follicular stimulating hormones which occurs at this time. However, some studies also found the speed at which these hormones changed also played a role (Baker et al., 2018). Additionally, women that take birth control report that this affects their sleep patterns. For example, they report more daytime sleepiness and insomnia (Bezarra et al., 2020). Relatively few studies have examined objective sleep measures in women on oral contraceptives. However, in one study, healthy women on oral contraceptives had disrupted sleep; they experienced less slow wave sleep and had a shorter latency to enter REM sleep (Burdick, Hoffmann, and Armitage, 2002).</para>
-      
+
       <para id="para-00055">There are also sex differences in sleep disorders. <term id="term-00020">Insomnia</term> can be defined as difficulty falling asleep and staying asleep, waking up too early, and having poor sleep quality. Insomnia is common in the general population with an estimate that approximately 30% of the population reports at least one insomnia symptom (Sateia et al., 2000). There is a striking difference in men and women with respect to the occurrence of insomnia: women are nearly twice as likely to report insomnia compared to men, and the risk of reporting insomnia increases with age. In fact women have a 40% greater risk for insomnia in their lifetime compared to men (Mong and Cusmano, 2016). This predisposition for women to have insomnia has been found consistently across studies. Interestingly, the sex difference in the number of complaints about poor sleep and insomnia in women begins at puberty, suggesting that ovarian hormones may be playing a role in this perception.</para>
-      
+
       <para id="para-00056">There are self-reported sleep disruptions that occur during the menstrual cycle, pregnancy, postpartum period, and when women are experiencing the transition to menopause. Sleep disturbances can have a significant impact on quality of life, mood, and health thus identifying how they may occur could lead to therapies. We have already discussed the findings that sleep is more disrupted in the luteal phase of the menstrual cycle. In pregnant women, subjective data indicates total sleep time increases in the first trimester but is dramatically reduced in the third trimester. Women in the last trimester also have more nighttime awakenings (Salari et al., 2021). This disrupted sleep is related, in part, to discomfort due to an increase in pain or decrease in bladder volume. However, treating insomnia in the third trimester can help alleviate postpartum depression (Khazaie et al., 2013). Objective measures of sleep using polysomnography confirmed that sleep variables are changed in pregnant women. Pregnant women had less total sleep, a longer latency to fall asleep, more awakenings, and less slow wave sleep. In the initial postpartum period sleep was significantly disrupted with total sleep time at night being reduced but there was an increase in daytime napping. As the postpartum period progresses, however, sleep quality does improve somewhat. Clearly, there are many factors influencing sleep during pregnancy including the dramatic shift in hormones, the physical discomfort experienced, and the needs of a newborn.</para>
-      
+
       <para id="para-00057">In menopausal women, the decline in sleep quality is one of the most common and problematic symptoms that women report. In this population, declining concentrations of estradiol and rising levels of follicular stimulating hormone are associated with more frequent awakenings and reduced sleep quality. While endocrine changes are likely playing a role in the sex differences seen in insomnia prevalence in all stages of life, we cannot rule out the influence of other factors including aging, quality of health, anxiety, depression, and hot flashes.</para>
-      
+
       <para id="para-00058">In conclusion, there is evidence that sleep in healthy individuals is regulated in part by circulating gonadal hormones and changes in hormones across the lifespan may contribute to sex differences observed in insomnia.</para>
-      </section>
-<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002">
-  <item>Process C</item>
-  <item>Process S</item>
-  <item>homeostatic</item>
-  <item>glymphatic system</item>
-  <item>Polysomnography</item>
-  <item>electroencephalography</item>
-  <item>electrooculography</item>
-  <item>Rapid Eye Movement Sleep (REM)</item>
-  <item>electromyography</item>
-  <item>non-REM (NREM)</item>
-  <item>Stage 1 non-REM</item>
-  <item>Stage 2 non-REM</item>
-  <item>Stage 3 non-REM</item>
-  <item>sleep spindles</item>
-  <item>delta sleep</item>
-  <item>slow wave sleep</item>
-  <item>delta waves</item>
-  <item>flip flop switch</item>
-  <item>insomnia</item>
-  </list> </section>
-<section class="references" id="sect-00004"> <title>References</title>
-  <para id="para-00003">Albrecht, U., &amp; Ripperger, J. A. (2018). Circadian clocks and sleep: Impact of rhythmic metabolism and waste clearance on the brain. <emphasis effect="italics">Trends Neurosci.</emphasis>, <emphasis effect="italics">41</emphasis>(10), 677–688.</para>
-  <para id="para-00004">Baker, F. C., &amp; Driver, H. S. (2007). Circadian rhythms, sleep, and the menstrual cycle. <emphasis effect="italics">Sleep Med</emphasis>, <emphasis effect="italics">8</emphasis>, 613–622.</para>
-  <para id="para-00005">Baker, F. C., De Zambotti, M., Colrain, I. M., &amp; Bei, B. (2018). Sleep problems during the menopausal transition: Prevalence, impact, and management challenges. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">Volume 10</emphasis>, 73–95.</para>
-  <para id="para-00006">Barrett-Connor, E., Dam, T. T., Stone, K., Harrison, S. L., Redline, S., Orwoll, E., &amp; Osteoporotic Fractures in Men Study Group. (2008). The association of testosterone levels with overall sleep quality, sleep architecture, and sleep-disordered breathing. <emphasis effect="italics">J Clin Endocrinol Metab</emphasis>, <emphasis effect="italics">93</emphasis>, 2602–2609.</para>
-  <para id="para-00007">Bei, B., Coo, S., Baker, F. C., &amp; Trinder, J. (2015). Sleep in women: A review. <emphasis effect="italics">Aust Psychol</emphasis>, <emphasis effect="italics">50</emphasis>, 14–24.</para>
-  <para id="para-00008">Burdick, R. S., Hoffmann, R., &amp; Armitage, R. (2002). Short note: Oral contraceptives and sleep in depressed and healthy women. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">25</emphasis>, 347–349.</para>
-  <para id="para-00009">Hablitz, L. M., Plá, V., Giannetto, M., Vinitsky, H. S., Stæger, F. F., Metcalfe, T., Nguyen, R., Benrais, A., et al. (2020). Circadian control of brain glymphatic and lymphatic fluid flow. <emphasis effect="italics">Nature Communications</emphasis>, <emphasis effect="italics">11</emphasis>.</para>
-  <para id="para-00010">Jessen, N. A., Munk, A. S. F., Lundgaard, I., &amp; Nedergaard, M. (2015). The glymphatic system: A beginner’s guide. <emphasis effect="italics">Neurochemical Research</emphasis>, <emphasis effect="italics">40</emphasis>, 2583–2599.</para>
-  <para id="para-00011">Kanaya, H. J., Park, S., Kim, J.-H., Kusumi, J., Krenenou, S., Sawatari, E., Sato, A., Lee, J., Bang, H., Kobayakawa, Y., Lim, C., Itoh, T. Q. (2020). A sleep-like state in Hydra unravels conserved sleep mechanisms during the evolutionary development of the central nervous system. <emphasis effect="italics">Science Advances</emphasis>, <emphasis effect="italics">6</emphasis>: eabb9415.</para>
-  <para id="para-00012">Khazaie, H., Ghadami, M. R., Knight, D. C., Emamian, F., Tahmasian, M. (2013). Insomnia treatment in the third trimester of pregnancy reduces postpartum depression symptoms: A randomized clinical trial. <emphasis effect="italics">Psychiatry Res</emphasis>, <emphasis effect="italics">210</emphasis>, 901–905.</para>
-  <para id="para-00013">Liu, P. Y., Yee, B., Wishart, S. M., Jimenez, M., Jung, D. G., Grunstein, R. R., Handelsman, D. J. (2003). The short-term effects of high-dose testosterone on sleep, breathing, and function in older men. <emphasis effect="italics">J Clin Endocrinol Metab</emphasis>, <emphasis effect="italics">88</emphasis>, 3605–3613.</para>
-  <para id="para-00014">Lovatt, D., Xu, Q., Liu, W., &amp; Nedergaard, M. (2012). Neuronal adenosine release, and not astrocytic ATP release, mediates feedback inhibition of excitatory activity. <emphasis effect="italics">Proc Natl Acad USA</emphasis>, <emphasis effect="italics">109</emphasis>, 6265–6270.</para>
-  <para id="para-00015">Mallampalli, M. P., &amp; Carter, C. L. (2014). Exploring sex and gender differences in sleep health: A Society for Women's Health Research report. <emphasis effect="italics">J Womens Health (Larchmt)</emphasis>, <emphasis effect="italics">23</emphasis>, 553–562.</para>
-  <para id="para-00016">Mong, J. A., &amp; Cusmano, D. M. (2016). Sex differences in sleep: Impact of biological sex and sex steroids. <emphasis effect="italics">Philosophical Transactions of the Royal Society B: Biological Sciences</emphasis>, <emphasis effect="italics">371</emphasis>:20150110.</para>
-  <para id="para-00017">Rezaie, L., Fobian, A. D., McCall, W. V., &amp; Khazaie, H. (2018). Paradoxical insomnia and subjective-objective sleep discrepancy: A review. <emphasis effect="italics">Sleep Med Rev</emphasis>, <emphasis effect="italics">40</emphasis>, 196–202.</para>
-  <para id="para-00018">Salari, N., Darvishi, N., Khaledi-Paveh, B., Vaisi-Raygani, A., Jalali, R., Daneshkhah, A., Bartina, Y., Mohammadi, M. (2021). A systematic review and meta-analysis of prevalence of insomnia in the third trimester of pregnancy. <emphasis effect="italics">BMC Pregnancy and Childbirth</emphasis>, <emphasis effect="italics">21</emphasis>.</para>
-  <para id="para-00019">Saper, C. B., Chou, T. C., &amp; Scammell, T. E. (2001). The sleep switch: Hypothalamic control of sleep and wakefulness. <emphasis effect="italics">Trends Neurosci</emphasis>, <emphasis effect="italics">24</emphasis>, 726–731.</para>
-  <para id="para-00020">Sateia, M. J., Doghramji, K., Hauri, P. J., &amp; Morin, C. M. (2000). Evaluation of chronic insomnia. An American Academy of Sleep Medicine review. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">23</emphasis>, 243–308.</para>
-  <para id="para-00021">Sharma, S., &amp; Kavuru, M. (2010). Sleep and metabolism: An overview. <emphasis effect="italics">International Journal of Endocrinology</emphasis>, <emphasis effect="italics">2010</emphasis>:1–12.</para>
-  <para id="para-00022">Siegel, J. M. (2022). Sleep function: An evolutionary perspective. <emphasis effect="italics">Lancet Neurol.</emphasis>, <emphasis effect="italics">21</emphasis>(10), 937–946.</para>
-  <para id="para-00023">Siegel, J. M. (2005). Clues to the functions of mammalian sleep. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">437</emphasis>, 1264–1271.</para>
-  <para id="para-00024">Voirin, B., Scriba, M. F., Martinez-Gonzalez, D., Vyssotski, A. L., Wikelski, M., &amp; Rattenborg, N. C. (2014). Ecology and neurophysiology of sleep in two wild sloth species. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">37</emphasis>, 753–761.</para>
-  <para id="para-00025">Walker, M. P. (2017). <emphasis effect="italics">Why we sleep: Unlocking the power of sleep and dreams</emphasis>. First Scribner hardcover edition. New York: Scribner, an imprint of Simon &amp; Schuster, Inc.</para>
-  </section>
-<section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> 
-<exercise id="exer-00001"> <problem id="prob-00001"> <para id="para-00026"></para> </problem> </exercise>
-</section>
-<section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title>
-<exercise id="exer-00002"> <problem id="prob-00002"> <para id="para-00027"></para> </problem> </exercise>
-</section>
+    </section>
+    <section class="key-terms" id="sect-00003">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Process C</item>
+        <item>Process S</item>
+        <item>homeostatic</item>
+        <item>glymphatic system</item>
+        <item>Polysomnography</item>
+        <item>electroencephalography</item>
+        <item>electrooculography</item>
+        <item>Rapid Eye Movement Sleep (REM)</item>
+        <item>electromyography</item>
+        <item>non-REM (NREM)</item>
+        <item>Stage 1 non-REM</item>
+        <item>Stage 2 non-REM</item>
+        <item>Stage 3 non-REM</item>
+        <item>sleep spindles</item>
+        <item>delta sleep</item>
+        <item>slow wave sleep</item>
+        <item>delta waves</item>
+        <item>flip flop switch</item>
+        <item>insomnia</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00004">
+      <title>References</title>
+      <para id="para-00003">Albrecht, U., &amp; Ripperger, J. A. (2018). Circadian clocks and sleep: Impact of rhythmic metabolism and waste clearance on the brain. <emphasis effect="italics">Trends Neurosci.</emphasis>, <emphasis effect="italics">41</emphasis>(10), 677–688.</para>
+      <para id="para-00004">Baker, F. C., &amp; Driver, H. S. (2007). Circadian rhythms, sleep, and the menstrual cycle. <emphasis effect="italics">Sleep Med</emphasis>, <emphasis effect="italics">8</emphasis>, 613–622.</para>
+      <para id="para-00005">Baker, F. C., De Zambotti, M., Colrain, I. M., &amp; Bei, B. (2018). Sleep problems during the menopausal transition: Prevalence, impact, and management challenges. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">Volume 10</emphasis>, 73–95.</para>
+      <para id="para-00006">Barrett-Connor, E., Dam, T. T., Stone, K., Harrison, S. L., Redline, S., Orwoll, E., &amp; Osteoporotic Fractures in Men Study Group. (2008). The association of testosterone levels with overall sleep quality, sleep architecture, and sleep-disordered breathing. <emphasis effect="italics">J Clin Endocrinol Metab</emphasis>, <emphasis effect="italics">93</emphasis>, 2602–2609.</para>
+      <para id="para-00007">Bei, B., Coo, S., Baker, F. C., &amp; Trinder, J. (2015). Sleep in women: A review. <emphasis effect="italics">Aust Psychol</emphasis>, <emphasis effect="italics">50</emphasis>, 14–24.</para>
+      <para id="para-00008">Burdick, R. S., Hoffmann, R., &amp; Armitage, R. (2002). Short note: Oral contraceptives and sleep in depressed and healthy women. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">25</emphasis>, 347–349.</para>
+      <para id="para-00009">Hablitz, L. M., Plá, V., Giannetto, M., Vinitsky, H. S., Stæger, F. F., Metcalfe, T., Nguyen, R., Benrais, A., et al. (2020). Circadian control of brain glymphatic and lymphatic fluid flow. <emphasis effect="italics">Nature Communications</emphasis>, <emphasis effect="italics">11</emphasis>.</para>
+      <para id="para-00010">Jessen, N. A., Munk, A. S. F., Lundgaard, I., &amp; Nedergaard, M. (2015). The glymphatic system: A beginner’s guide. <emphasis effect="italics">Neurochemical Research</emphasis>, <emphasis effect="italics">40</emphasis>, 2583–2599.</para>
+      <para id="para-00011">Kanaya, H. J., Park, S., Kim, J.-H., Kusumi, J., Krenenou, S., Sawatari, E., Sato, A., Lee, J., Bang, H., Kobayakawa, Y., Lim, C., Itoh, T. Q. (2020). A sleep-like state in Hydra unravels conserved sleep mechanisms during the evolutionary development of the central nervous system. <emphasis effect="italics">Science Advances</emphasis>, <emphasis effect="italics">6</emphasis>: eabb9415.</para>
+      <para id="para-00012">Khazaie, H., Ghadami, M. R., Knight, D. C., Emamian, F., Tahmasian, M. (2013). Insomnia treatment in the third trimester of pregnancy reduces postpartum depression symptoms: A randomized clinical trial. <emphasis effect="italics">Psychiatry Res</emphasis>, <emphasis effect="italics">210</emphasis>, 901–905.</para>
+      <para id="para-00013">Liu, P. Y., Yee, B., Wishart, S. M., Jimenez, M., Jung, D. G., Grunstein, R. R., Handelsman, D. J. (2003). The short-term effects of high-dose testosterone on sleep, breathing, and function in older men. <emphasis effect="italics">J Clin Endocrinol Metab</emphasis>, <emphasis effect="italics">88</emphasis>, 3605–3613.</para>
+      <para id="para-00014">Lovatt, D., Xu, Q., Liu, W., &amp; Nedergaard, M. (2012). Neuronal adenosine release, and not astrocytic ATP release, mediates feedback inhibition of excitatory activity. <emphasis effect="italics">Proc Natl Acad USA</emphasis>, <emphasis effect="italics">109</emphasis>, 6265–6270.</para>
+      <para id="para-00015">Mallampalli, M. P., &amp; Carter, C. L. (2014). Exploring sex and gender differences in sleep health: A Society for Women's Health Research report. <emphasis effect="italics">J Womens Health (Larchmt)</emphasis>, <emphasis effect="italics">23</emphasis>, 553–562.</para>
+      <para id="para-00016">Mong, J. A., &amp; Cusmano, D. M. (2016). Sex differences in sleep: Impact of biological sex and sex steroids. <emphasis effect="italics">Philosophical Transactions of the Royal Society B: Biological Sciences</emphasis>, <emphasis effect="italics">371</emphasis>:20150110.</para>
+      <para id="para-00017">Rezaie, L., Fobian, A. D., McCall, W. V., &amp; Khazaie, H. (2018). Paradoxical insomnia and subjective-objective sleep discrepancy: A review. <emphasis effect="italics">Sleep Med Rev</emphasis>, <emphasis effect="italics">40</emphasis>, 196–202.</para>
+      <para id="para-00018">Salari, N., Darvishi, N., Khaledi-Paveh, B., Vaisi-Raygani, A., Jalali, R., Daneshkhah, A., Bartina, Y., Mohammadi, M. (2021). A systematic review and meta-analysis of prevalence of insomnia in the third trimester of pregnancy. <emphasis effect="italics">BMC Pregnancy and Childbirth</emphasis>, <emphasis effect="italics">21</emphasis>.</para>
+      <para id="para-00019">Saper, C. B., Chou, T. C., &amp; Scammell, T. E. (2001). The sleep switch: Hypothalamic control of sleep and wakefulness. <emphasis effect="italics">Trends Neurosci</emphasis>, <emphasis effect="italics">24</emphasis>, 726–731.</para>
+      <para id="para-00020">Sateia, M. J., Doghramji, K., Hauri, P. J., &amp; Morin, C. M. (2000). Evaluation of chronic insomnia. An American Academy of Sleep Medicine review. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">23</emphasis>, 243–308.</para>
+      <para id="para-00021">Sharma, S., &amp; Kavuru, M. (2010). Sleep and metabolism: An overview. <emphasis effect="italics">International Journal of Endocrinology</emphasis>, <emphasis effect="italics">2010</emphasis>:1–12.</para>
+      <para id="para-00022">Siegel, J. M. (2022). Sleep function: An evolutionary perspective. <emphasis effect="italics">Lancet Neurol.</emphasis>, <emphasis effect="italics">21</emphasis>(10), 937–946.</para>
+      <para id="para-00023">Siegel, J. M. (2005). Clues to the functions of mammalian sleep. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">437</emphasis>, 1264–1271.</para>
+      <para id="para-00024">Voirin, B., Scriba, M. F., Martinez-Gonzalez, D., Vyssotski, A. L., Wikelski, M., &amp; Rattenborg, N. C. (2014). Ecology and neurophysiology of sleep in two wild sloth species. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">37</emphasis>, 753–761.</para>
+      <para id="para-00025">Walker, M. P. (2017). <emphasis effect="italics">Why we sleep: Unlocking the power of sleep and dreams</emphasis>. First Scribner hardcover edition. New York: Scribner, an imprint of Simon &amp; Schuster, Inc.</para>
+    </section>
+    <section class="multiple-choice" id="sect-00005">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00026"></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00006">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00027"></para>
+        </problem>
+      </exercise>
+    </section>
 
   </content>
 </document>

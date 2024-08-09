@@ -9,138 +9,143 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00002">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Identify auditory cues and signals and explain their behavioral relevance.</item>
-          <item>Describe what an acoustic wave is and how it propagates through air and interacts with solid objects.</item>
-        </list>
+      <list id="list-00001">
+        <item>Identify auditory cues and signals and explain their behavioral relevance.</item>
+        <item>Describe what an acoustic wave is and how it propagates through air and interacts with solid objects.</item>
+      </list>
     </section>
     <para id="para-00001">The world is full of sound, and almost every species of animal possesses the ability to sense and respond to sounds. Indeed, hearing is so important that several components of the auditory system have evolved not once but many times. In this section, we will explore what causes sound, first from the standpoint of function and then from the standpoint of physics. This will prepare you for the next section, which covers how sound is detected by the ear and transmitted to the brain.</para>
 
-    <section id="sect-00002"><title>Why is the sense of hearing important?</title>
+    <section id="sect-00002">
+      <title>Why is the sense of hearing important?</title>
       <para id="para-00003">Like every other sensory system, the auditory system has evolved because it provides useful information about the objects and events in an animal’s environment. Animals that can accurately sense what is happening around them can respond in a way that increases their chances of survival and of successfully passing on their genes. Hearing is especially valuable to survival because sound can travel over long distances and around obstacles, allowing animals to make timely responses, for example by fleeing from a predator before it gets too close.</para>
-      <para id="para-00004">To further illustrate why hearing is such an important sense, consider the female bird pictured perching in the center of <link target-id="Image-7.33"/>. Sounds are coming from every direction. Some are not especially relevant, like the splash of a turtle falling into the water or the rippling of water flowing in the stream. Other sounds carry important information, like the rustle in the nearby bushes that could be coming from a predator, or the song of a nearby male advertising himself as a potential mate. Sounds that are produced <emphasis effect="italics">unintentionally</emphasis> are called <term id="term-00001">cues</term>, whereas sounds produced <emphasis effect="italics">intentionally</emphasis>, with the goal of communicating something, are called <term id="term-00002">signals</term>.</para>
+      <para id="para-00004">To further illustrate why hearing is such an important sense, consider the female bird pictured perching in the center of <link target-id="Image-7.33" />. Sounds are coming from every direction. Some are not especially relevant, like the splash of a turtle falling into the water or the rippling of water flowing in the stream. Other sounds carry important information, like the rustle in the nearby bushes that could be coming from a predator, or the song of a nearby male advertising himself as a potential mate. Sounds that are produced <emphasis effect="italics">unintentionally</emphasis> are called <term id="term-00001">cues</term>, whereas sounds produced <emphasis effect="italics">intentionally</emphasis>, with the goal of communicating something, are called <term id="term-00002">signals</term>.</para>
       <para id="para-00005">Some of the most common and important cues are the sounds animals make as they move. Predators and prey alike have evolved to move as quietly as possible to minimize the cues they give about their presence and location. It is almost impossible to avoid making any sounds, however. Sticks break, grasses rustle, and even simply moving through the air can create turbulence. As we will see, all of these events can generate acoustic waves that travel for tens of meters or even further. Just as there is selective pressure for animals to move quietly, many species have evolved extremely sophisticated and sensitive auditory systems. For example, the common house cat (<emphasis effect="italics">Felis domesticus</emphasis>) can hear a mosquito flying in a quiet room from as far as 30 m away — no wonder my cat seems to appear from nowhere the moment I open a can of food!</para>
-        <figure id="Image-7.33"><title>Acoustic signals</title>
-          <media alt="A bird in a forest setting with soundwaves from surrounding environment represented. Upper left has an inset with sound waves drawn as a line graph.">
-            <image mime-type="image/png" src="../../media/Image-7.33_Acoustic-signals.png"/>
-          </media>
+      <figure id="Image-7.33">
+        <title>Acoustic signals</title>
+        <media alt="A bird in a forest setting with soundwaves from surrounding environment represented. Upper left has an inset with sound waves drawn as a line graph.">
+          <image mime-type="image/png" src="../../media/Image-7.33_Acoustic-signals.png" />
+        </media>
         <caption>Perceiving the acoustic scene: the acoustic signals converge, resulting in <term id="term-00024">perception</term>. Brush rustles: potential predator? Turtle leaves water: Interference, not a threat. Potential mate singing: Stimulus to prioritize. Water flowing: Noise, background stimulus, not important.</caption>
-        </figure>
+      </figure>
       <para id="para-00006">In contrast with cues, acoustic signals have evolved to allow one individual, called a <term id="term-00003">sender</term>, to influence the behavior of another individual, the <term id="term-00004">receiver</term>. Birdsong, for example, is a signal that communicates to female songbirds that a potential mate is nearby. The male sings with the intent of influencing females to approach and mate. In many species, the song also informs the female of how desirable the male is, because only healthy males can produce songs with a certain level of complexity (Nowicki and Searcy 2004). Acoustic mating displays are common throughout the animal kingdom, including many insects, fishes, amphibians, birds, and mammals.</para>
       <para id="para-00007">Acoustic signals can also be used to broadcast the identity of the individual producing the signal, as long as receivers can distinguish the unique features of each individual’s signal. Individual recognition is particularly important to animals that live in large social groups where visual cues are not easily distinguished, as in a flock of nesting seagulls or a herd of elephants (McComb et al., 2000) or where individuals need to find each other over long distances, as in dolphins and other marine mammals (Sayigh et al., 1999).</para>
       <para id="para-00008">Animals use acoustic signals to communicate to each other about more than just themselves. When social animals are foraging in large groups, a few individuals may keep watch and signal to the group about sources of danger. Acoustic signals have a particular advantage here because they can travel long distances and around obstacles that would block sight. For example, vervet monkeys have different kinds of alarm calls that indicate the presence of specific kinds of predators (Seyfarth and Cheney 1990). When one monkey sees a leopard, it makes the “leopard” call, and the other members of its troupe will climb into trees, even without themselves seeing the leopard. In contrast, when a monkey makes the “eagle” call, the troupe will hide in nearby bushes that are too thick for an aerial predator to enter. The monkeys’ auditory system must be able to discriminate between these signals for them to respond appropriately.</para>
       <para id="para-00009">Humans have evolved a much more elaborate system of acoustic communication called <term id="term-00005">speech</term>, in which words are formed from combinations of distinct vocal elements called phonemes (Link to Language Chapter). For example, the vowels in the English words “bat” and “pat” are the same phoneme (/a/), whereas the initial consonants (/b/ and /p/) are different. One of the most important tasks of the human auditory system is to identify and discriminate between similar-sounding phonemes, and as we will see in <link document="m00004" target-id="sect-00008">How Does the Brain Process Acoustic Information?</link>, this ability is shaped by the sounds an infant hears in the first year of life.</para>
       <para id="para-00010">Some species produce acoustic signals for themselves to hear, with the purpose of detecting obstacles and prey in their environment. Because sound waves reflect from solids and liquids, they can be used for <term id="term-00006">echolocation</term>. The ability to echolocate has evolved separately in bats and in some aquatic mammals. Echolocating animals produce short vocalizations that reflect off nearby objects. Specialized neural circuits use the delay between the signal and its echo to determine distances to those objects, while other circuits compute the direction of the object (see <link document="m00004" target-id="sect-00002">How Does the Brain Process Acoustic Information?</link>) and even some of its physical characteristics (Moss and Sinha 2003). A bat hunting by echolocation can easily discriminate between a solid obstacle and a delicious insect, and it can rapidly alter its course of flight to intercept the insect while avoiding the obstacles (Surlykke et al., 2009).</para>
-      <para id="para-00011">In summary, the sense of hearing serves many important functions for humans and other animals. Acoustic cues and signals are a critical source of information about predators, prey, obstacles, and dangers in the nearby environment, as well as the presence and intentions of conspecifics (other animals of the same species). In the next section, we will see how the physical nature of sound allows it to transmit this information in a way that complements the other senses.</para></section>
+      <para id="para-00011">In summary, the sense of hearing serves many important functions for humans and other animals. Acoustic cues and signals are a critical source of information about predators, prey, obstacles, and dangers in the nearby environment, as well as the presence and intentions of conspecifics (other animals of the same species). In the next section, we will see how the physical nature of sound allows it to transmit this information in a way that complements the other senses.</para>
+    </section>
 
-      <section id="sect-00003"><title>How is sound produced?</title>
+    <section id="sect-00003">
+      <title>How is sound produced?</title>
       <para id="para-00012">What is sound? From the perspective of physics, sound consists of pressure waves moving through air or some other physical material. Waves are found throughout nature and share a common mathematical description. At the same time, acoustic waves have special properties that make them distinct from other kinds of waves.</para>
       <para id="para-00013">To illustrate what a wave is, imagine throwing a rock into a still pool of water. When it hits the surface, the rock will displace some of the water, causing it to rise in a circle around the point of impact. Gravity pulls the displaced water back down, which in turn pushes up the water a little further out. This process repeats again and again to produce what we observe: a ripple <emphasis effect="italics">traveling</emphasis> outward from the point of impact. An acoustic wave moves in much the same way, except that instead of a two-dimensional surface moving up and down, the molecules of the air move closer together and further apart, and the wave spreads in three dimensions.</para>
-      <para id="para-00014">Now instead of throwing a rock into a pool, imagine clapping your hands together. As your hands meet, they push air out of the space between them. Where does this air go? There is air all around your hands, but air is mostly empty space, so there is plenty of room for the displaced molecules of air to crowd in with the molecules that are already there. Now there is a region around your hands where the air is at a higher <term id="term-00007">pressure</term>, with an increased density of air molecules. The <term id="term-00008">compressed</term> molecules in the region of higher pressure push out into the surrounding space, which is less dense, or <term id="term-00009">rarefied</term>. This creates a new region of higher pressure, which in turn spreads further out from your hands. Just as the water ripple radiates out in a circle from a central point, the pressure wave created by your hands clapping radiates out in a sphere. If a microphone or some other pressure sensor is placed along the path of the wave, it will measure successive increases and decreases in the pressure at that location as the wave travels through space (<link target-id="Image-7.26"/>).</para>
+      <para id="para-00014">Now instead of throwing a rock into a pool, imagine clapping your hands together. As your hands meet, they push air out of the space between them. Where does this air go? There is air all around your hands, but air is mostly empty space, so there is plenty of room for the displaced molecules of air to crowd in with the molecules that are already there. Now there is a region around your hands where the air is at a higher <term id="term-00007">pressure</term>, with an increased density of air molecules. The <term id="term-00008">compressed</term> molecules in the region of higher pressure push out into the surrounding space, which is less dense, or <term id="term-00009">rarefied</term>. This creates a new region of higher pressure, which in turn spreads further out from your hands. Just as the water ripple radiates out in a circle from a central point, the pressure wave created by your hands clapping radiates out in a sphere. If a microphone or some other pressure sensor is placed along the path of the wave, it will measure successive increases and decreases in the pressure at that location as the wave travels through space (<link target-id="Image-7.26" />).</para>
       <para id="para-00015">It is important to notice that the individual air molecules do not move nearly as fast or as far as the acoustic wave. The air itself is not flowing, as in a wind. Instead, neighboring molecules are bumping into each other, and an individual molecule pushed out from a region of higher pressure may only travel a few nanometers before it collides with another molecule. Sound waves move through air at around 343 m/s, but this varies depending on temperature and elevation.</para>
-      <para id="para-00016">Acoustic waves can be described in terms of three principal quantities: <term id="term-00010">amplitude</term>, <term id="term-00011">frequency</term>, and <term id="term-00012">phase</term>. Amplitude (also called intensity or level) is a measure of how much the air pressure changes between compression and rarefaction. Clapping your hands more forcefully causes a larger increase in pressure and a wave with a higher amplitude. Amplitude is measured in units of pressure (in the metric system, Pascals); however, because the perception of acoustic amplitude follows a logarithmic scale, it is more often reported in units of <term id="term-00013">decibels of sound pressure level</term> (dB SPL). As shown in <link target-id="table-00001"/>, each step of 20 on the decibel scale corresponds to a proportional, ten-fold increase in the pressure.</para>
-        <figure id="Image-7.26"><title>Physical properties of acoustic waves</title>
-          <media alt="Top row: Sound pressure waves represented as dots of varying density. Below is a line graph of a sound wave with key features labeled: amplitude, period, pressure, time. 2nd row: Left: Image of string oscillating when held at each end. Middle: line drawing of a simple period wave. Right: Line graph of amplitude vs frequency of that simple wave. 3rd row: Left: Image of string oscillating when held at each end plus another separate string which is held at each end and also in the middle. Middle: line drawing of a complex periodic wave. Right: Line graph of amplitude vs frequency of that complex wave. 4th row: Left: Line drawing of turbelent air flow Middle: line drawing of an aperiodic wave. Right: Line graph of amplitude vs frequency of that aperiodic wave.">
-            <image mime-type="image/png" src="../../media/Image-7.26_Physical-properties-acoustic-waves.png"/>
-          </media>
-        </figure>
-      <para id="para-00017">The frequency of a wave is a measure of how rapidly the air at one location changes from compressed to rarefied and back (<link target-id="Image-7.26"/>). Frequency is measured in Hertz (Hz), the number of cycles that occur each second. The frequency of a sound wave is perceived as pitch. Low-frequency waves sound deep and rich, whereas high-frequency waves are perceived as sharp and thin.</para>
+      <para id="para-00016">Acoustic waves can be described in terms of three principal quantities: <term id="term-00010">amplitude</term>, <term id="term-00011">frequency</term>, and <term id="term-00012">phase</term>. Amplitude (also called intensity or level) is a measure of how much the air pressure changes between compression and rarefaction. Clapping your hands more forcefully causes a larger increase in pressure and a wave with a higher amplitude. Amplitude is measured in units of pressure (in the metric system, Pascals); however, because the perception of acoustic amplitude follows a logarithmic scale, it is more often reported in units of <term id="term-00013">decibels of sound pressure level</term> (dB SPL). As shown in <link target-id="table-00001" />, each step of 20 on the decibel scale corresponds to a proportional, ten-fold increase in the pressure.</para>
+      <figure id="Image-7.26">
+        <title>Physical properties of acoustic waves</title>
+        <media alt="Top row: Sound pressure waves represented as dots of varying density. Below is a line graph of a sound wave with key features labeled: amplitude, period, pressure, time. 2nd row: Left: Image of string oscillating when held at each end. Middle: line drawing of a simple period wave. Right: Line graph of amplitude vs frequency of that simple wave. 3rd row: Left: Image of string oscillating when held at each end plus another separate string which is held at each end and also in the middle. Middle: line drawing of a complex periodic wave. Right: Line graph of amplitude vs frequency of that complex wave. 4th row: Left: Line drawing of turbelent air flow Middle: line drawing of an aperiodic wave. Right: Line graph of amplitude vs frequency of that aperiodic wave.">
+          <image mime-type="image/png" src="../../media/Image-7.26_Physical-properties-acoustic-waves.png" />
+        </media>
+      </figure>
+      <para id="para-00017">The frequency of a wave is a measure of how rapidly the air at one location changes from compressed to rarefied and back (<link target-id="Image-7.26" />). Frequency is measured in Hertz (Hz), the number of cycles that occur each second. The frequency of a sound wave is perceived as pitch. Low-frequency waves sound deep and rich, whereas high-frequency waves are perceived as sharp and thin.</para>
       <para id="para-00018">The phase of a wave is a measure of time relative to the cycles of compression and rarefaction. Phase is not perceived directly, but it affects how different waves interact with each other.</para>
-      <para id="para-00019">Almost any process that displaces air molecules will result in an acoustic wave. One of the most common sources of sound is <term id="term-00014">periodic</term> vibration. You can generate periodic motion by plucking or striking a string that is under tension (for example, on a guitar, piano, or harp). Pluck it right in the middle, and listen to the sound while watching the string. The vibration will probably be too fast for your eyes to track, so the string will appear wide in the middle and narrow at the ends, as illustrated in <link target-id="Image-7.26"/>. As it vibrates, the string compresses the air while moving in one direction and rarefies it while moving in the other. The vibrations tend to occur at a specific frequency that depends on the mass of the string, its length, and how tightly it is tensioned. The motion of the string and the sound wave it produces are described by a simple mathematical function called a <term id="term-00015">sinusoid</term> (or sine wave) with a single frequency and amplitude. The form of this function and its relationship to the physical properties of the string will be covered in most elementary physics texts.</para>
+      <para id="para-00019">Almost any process that displaces air molecules will result in an acoustic wave. One of the most common sources of sound is <term id="term-00014">periodic</term> vibration. You can generate periodic motion by plucking or striking a string that is under tension (for example, on a guitar, piano, or harp). Pluck it right in the middle, and listen to the sound while watching the string. The vibration will probably be too fast for your eyes to track, so the string will appear wide in the middle and narrow at the ends, as illustrated in <link target-id="Image-7.26" />. As it vibrates, the string compresses the air while moving in one direction and rarefies it while moving in the other. The vibrations tend to occur at a specific frequency that depends on the mass of the string, its length, and how tightly it is tensioned. The motion of the string and the sound wave it produces are described by a simple mathematical function called a <term id="term-00015">sinusoid</term> (or sine wave) with a single frequency and amplitude. The form of this function and its relationship to the physical properties of the string will be covered in most elementary physics texts.</para>
       <table summary="Table of decibels created by several common sounds" id="table-00001">
         <tgroup cols="3">
-        <colspec colnum="1" colname="c1"/>
-        <colspec colnum="2" colname="c2"/>
-        <colspec colnum="3" colname="c3"/>
-<thead>
-          <row>
-            <entry namest="c1" nameend="c2">Amplitude</entry>
-            <entry/>
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <thead>
+            <row>
+              <entry namest="c1" nameend="c2">Amplitude</entry>
+              <entry />
 
-          </row>
+            </row>
           </thead>
           <tbody>
-          <row>
-            <entry>dB SPL</entry>
-            <entry>Pa</entry>
-            <entry>Example</entry>
-          </row>
-          <row>
-            <entry>0</entry>
-            <entry>0.00002</entry>
-            <entry>Mosquito 3 m away in silent room (human hearing threshold)</entry>
-          </row>
-          <row>
-            <entry>10</entry>
-            <entry>0.000063</entry>
-            <entry>Calm breathing</entry>
-          </row>
-          <row>
-            <entry>30</entry>
-            <entry>0.00063</entry>
-            <entry>A quiet office with computer off</entry>
-          </row>
-          <row>
-            <entry>50</entry>
-            <entry>0.0063</entry>
-            <entry>Normal conversation 1 m away</entry>
-          </row>
-          <row>
-            <entry>70</entry>
-            <entry>0.063</entry>
-            <entry>Comfortable music listening level</entry>
-          </row>
-          <row>
-            <entry>90</entry>
-            <entry>0.63</entry>
-            <entry>Traffic on a busy roadway</entry>
-          </row>
-          <row>
-            <entry>100</entry>
-            <entry>2</entry>
-            <entry>Jackhammer 1 m away</entry>
-          </row>
-          <row>
-            <entry>120</entry>
-            <entry>20</entry>
-            <entry>Jet engine 100 m away (risk of instantaneous noise-induced hearing loss)</entry>
-          </row>
-          <row>
-            <entry>170</entry>
-            <entry>6300</entry>
-            <entry>Firecracker 0.5 m away</entry>
-          </row>
-        </tbody>
+            <row>
+              <entry>dB SPL</entry>
+              <entry>Pa</entry>
+              <entry>Example</entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>0.00002</entry>
+              <entry>Mosquito 3 m away in silent room (human hearing threshold)</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>0.000063</entry>
+              <entry>Calm breathing</entry>
+            </row>
+            <row>
+              <entry>30</entry>
+              <entry>0.00063</entry>
+              <entry>A quiet office with computer off</entry>
+            </row>
+            <row>
+              <entry>50</entry>
+              <entry>0.0063</entry>
+              <entry>Normal conversation 1 m away</entry>
+            </row>
+            <row>
+              <entry>70</entry>
+              <entry>0.063</entry>
+              <entry>Comfortable music listening level</entry>
+            </row>
+            <row>
+              <entry>90</entry>
+              <entry>0.63</entry>
+              <entry>Traffic on a busy roadway</entry>
+            </row>
+            <row>
+              <entry>100</entry>
+              <entry>2</entry>
+              <entry>Jackhammer 1 m away</entry>
+            </row>
+            <row>
+              <entry>120</entry>
+              <entry>20</entry>
+              <entry>Jet engine 100 m away (risk of instantaneous noise-induced hearing loss)</entry>
+            </row>
+            <row>
+              <entry>170</entry>
+              <entry>6300</entry>
+              <entry>Firecracker 0.5 m away</entry>
+            </row>
+          </tbody>
         </tgroup>
         <caption>Properties of sound</caption>
-        </table>
+      </table>
       <para id="para-00020">Now press the string down or pinch it at its midpoint before plucking it. The half that you pluck will vibrate twice as fast as the whole string did, producing a sound wave with twice the frequency. You might notice that the higher note sounds similar even though the frequency is higher. If you pinch the string three-quarters of the way and pluck the short part, the frequency will be four times as high, but the note will still sound similar. This is an illustration of how the perception of frequency is logarithmic, as we’ll discuss more later.</para>
       <para id="para-00021">What happens if you pluck the whole string, but nearer to one end? You might notice that the note sounds richer and more complex, and that the movement of the string looks more complicated, without one clear wide part in the middle. Just as white light is composed of electromagnetic waves with frequencies spanning from red to violet, sounds can be composed of multiple waves with different frequencies. When the guitar string is plucked nearer the end, it will vibrate at the frequency corresponding to the full length of the string but also at twice that frequency (corresponding to half the length), three times that frequency (corresponding to one third of the length), and so on. A series of integer multiples like this is called a harmonic series. The lower-frequency and higher-frequency sound waves add together to produce <term id="term-00016">complex harmonic motion</term>. The specific combination of frequencies in a complex sound is called its <term id="term-00017">spectrum</term>. Most simple and complex periodic sounds are perceived as tones with a defined pitch that corresponds to the lowest frequency in the harmonic series.</para>
       <para id="para-00022">Take a moment to think about this: you hear the string on the guitar as a single note, yet it is composed of several waves with different frequencies. As we will see later, each of these waves activates a different set of receptors in the inner ear and a different set of neurons that transmit information into the brain. In order for us to understand how audition works, we will need to understand how these different channels of information are combined by the brain to produce a single unified percept or split apart to distinguish between different sources, as when a person is singing along to the guitar.</para>
       <para id="para-00023">Many species of animals generate sounds through periodic motion. The chirp of a cricket is produced by rubbing two textured surfaces on their wings together. The vocal folds in the mammalian larynx and the avian syrinx vibrate periodically as air is exhaled, and the frequency of the vibrations can be controlled by muscles that increase or relax the tension. In human speech (and even more so in singing), the vowels are produced by periodic movement of the vocal folds.</para>
-      <para id="para-00024">Sounds that do not have a regularly repeating pattern are not perceived as having pitch and are called <term id="term-00018">aperiodic</term>. The main sources of aperiodic sounds are transient collisions between surfaces and continuous, turbulent air flow. In turbulent air flow, the molecules are not all moving at the same speed and direction. This causes eddies and ripples to form as faster-moving air collides with slower-moving air, and the pressure variations in the ripples propagate outward as acoustic waves. Turbulent flow tends to occur whenever air is forced through narrow openings or disorderly obstacles like trees. You can make turbulent air flow by lightly pursing your lips and exhaling forcefully (but not forcefully enough to make a whistle). Aperiodic sounds do not contain a single frequency or even a regular combination of frequencies as in complex harmonic sounds. Instead, the pressure fluctuates at random across a broad range of frequencies. This is perceived as noise. A continuous sound that has equal amplitude across all frequencies is called white noise. Aperiodic sounds are also commonly used in acoustic communication. In human speech, many of the consonants are produced by aperiodic sounds.</para></section>
+      <para id="para-00024">Sounds that do not have a regularly repeating pattern are not perceived as having pitch and are called <term id="term-00018">aperiodic</term>. The main sources of aperiodic sounds are transient collisions between surfaces and continuous, turbulent air flow. In turbulent air flow, the molecules are not all moving at the same speed and direction. This causes eddies and ripples to form as faster-moving air collides with slower-moving air, and the pressure variations in the ripples propagate outward as acoustic waves. Turbulent flow tends to occur whenever air is forced through narrow openings or disorderly obstacles like trees. You can make turbulent air flow by lightly pursing your lips and exhaling forcefully (but not forcefully enough to make a whistle). Aperiodic sounds do not contain a single frequency or even a regular combination of frequencies as in complex harmonic sounds. Instead, the pressure fluctuates at random across a broad range of frequencies. This is perceived as noise. A continuous sound that has equal amplitude across all frequencies is called white noise. Aperiodic sounds are also commonly used in acoustic communication. In human speech, many of the consonants are produced by aperiodic sounds.</para>
+    </section>
 
-      <section id="sect-00004"><title>How does sound travel and interact with objects?</title>
+    <section id="sect-00004">
+      <title>How does sound travel and interact with objects?</title>
       <para id="para-00025">Sound’s ability to travel through the air is what allows the auditory system to sense cues and signals coming from a distance. In this respect, the sense of hearing shares certain similarities with vision, but acoustic waves are much slower and have longer wavelengths than visible light. Humans can hear sounds with frequencies between approximately 20 and 20,000 Hz. In air, these frequencies correspond to wavelengths between 17 m and 17 mm. In contrast, visible light has wavelengths between 400 and 780 nm. In other words, whereas light waves are much, much smaller than most behaviorally relevant objects, sound waves are around the same size. As a consequence, acoustic waves exhibit a number of phenomena that are important to understanding how sound works.</para>
       <para id="para-00026">First, sound waves can <term id="term-00019">diffract</term> around common objects. You can illustrate diffraction by placing a stone about 1 cm in diameter in the center of a shallow bowl of water. Tap the water near the edge of the bowl and watch how the ripples seem to pass right through the stone. This is diffraction. Waves can diffract around objects that are around the same size or smaller than the wavelength, which means that lower frequencies (longer wavelengths) are less likely to be blocked. Thus, a predator may be impossible to see when it hides behind a rock or a tree, but most of the noises it makes will simply pass around the object.</para>
       <para id="para-00027">Second, solid objects are more likely to transmit sound waves than visible light waves. Low-frequency sounds in particular are more easily transmitted through solids, which is why you can hear construction noises through solid walls and the bass line from your downstairs neighbor’s music. At higher frequencies, solids tend to reflect sound. Reflections cause an acoustical phenomenon called <term id="term-00020">reverberation</term>, in which echoes of a sound reach the same point at slightly different times. For example, if you are in a large room with a concrete floor and metal walls, and someone a few meters away from you claps, you will hear not only the wave coming directly from the source to your ears, but all the other waves that reflect off the floor and the walls. The reflected waves have longer to travel, and because the speed of sound is around 343 m/s, there can be a perceptible delay between the time when the direct wave and its reflections arrive. Reverberations with long delays are heard as distinct echoes. Reverberations with short delays tend to fuse with the main sound, making it sound more “alive”. Surfaces that are soft or uneven are better able to absorb sound, reducing the intensity of the reverberation, and rooms that have little reverberation sound muffled or “dead”. With practice, people can learn to use the acoustical characteristics of different materials as cues to their location within a room, an ability akin to the specialized echolocation of bats and dolphins.</para>
       <para id="para-00028">The long wavelengths and reflectiveness of sound cause another phenomenon called <term id="term-00021">resonance</term>. If sound waves enter a space where they can reflect back and forth between two surfaces, they will interact with each other through <term id="term-00022">interference</term>. If the sound has a wavelength the same as the distance between the two surfaces (or an integral fraction of the distance), the peaks and valleys of the wave going in one direction will overlap with the wave going in the other direction, leading to constructive interference. Wavelengths that are not an integral fraction of the difference will not overlap, leading to destructive interference. For complex sounds comprising waves of multiple frequencies, resonance boosts certain frequencies (wavelengths) while attenuating others. This effect is also known as <term id="term-00023">filtering</term>. When you blow across the mouth of a bottle, the aperiodic noise produced by turbulence resonates in the bottle, boosting a single frequency (and its harmonics) to produce a tone.</para>
       <para id="para-00029">Filtering is important to the production of speech. Recall that vowels are produced by periodic motion of the vocal folds. But how do we make different vowels? You can illustrate this by singing “aah” and then changing to “ooh” while holding the same pitch. If you pay close attention to your tongue and lips, you’ll notice that the shape of your mouth changes as you transition between different vowels. What’s happening as you move those muscles is that the sizes of the oral and pharyngeal cavities in your airway are changing to create different resonances that boost and suppress specific frequencies in the sound coming from your larynx.</para>
-      <para id="para-00030">A consequence of these phenomena is that it is common for a listener to hear many different sound sources simultaneously. This is an advantage in that it is possible to hear sounds without having to look at them, to take in an entire auditory scene in full 360-degree surround, and to hear multiple instruments or singers making music together. It also makes a difficult task for the auditory system, which has to separate out multiple sound sources and determine their locations. As we shall see, the structure of the ear performs a part of this task, separating complex sounds into their component frequencies, but the central nervous system still has an enormous amount of work to do to transform auditory scenes into coherent perception.</para></section>
+      <para id="para-00030">A consequence of these phenomena is that it is common for a listener to hear many different sound sources simultaneously. This is an advantage in that it is possible to hear sounds without having to look at them, to take in an entire auditory scene in full 360-degree surround, and to hear multiple instruments or singers making music together. It also makes a difficult task for the auditory system, which has to separate out multiple sound sources and determine their locations. As we shall see, the structure of the ear performs a part of this task, separating complex sounds into their component frequencies, but the central nervous system still has an enormous amount of work to do to transform auditory scenes into coherent perception.</para>
+    </section>
 
     <section class="section-summary" id="sect-00005">
       <title>Summary</title>
-      <para id="para-00031">
-        https://openstax.org/r/Neuro6Summary
-        <media alt="placeholder">
-          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro6Summary"/>
-          </media>
-          Hearing is a critical sense that allows animals to detect objects and events in their environments. It is based on the perception of sound, acoustic pressure waves that travel through the air. Understanding the different ways sounds are generated and how sound waves interact with the physical environment lays the groundwork for examining how the ear senses sound and how the brain processes acoustic information.</para>
-      </section>
+      <para id="para-00031"> https://openstax.org/r/Neuro6Summary <media alt="placeholder">
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro6Summary" />
+        </media> Hearing is a critical sense that allows animals to detect objects and events in their environments. It is based on the perception of sound, acoustic pressure waves that travel through the air. Understanding the different ways sounds are generated and how sound waves interact with the physical environment lays the groundwork for examining how the ear senses sound and how the brain processes acoustic information.</para>
+    </section>
 
     <section class="key-terms" id="sect-00006">
-       <title>Key Terms</title>
-       <list display="inline" id="list-00002">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
         <item>amplitude</item>
         <item>complex harmonic motion</item>
         <item>cue</item>
@@ -162,7 +167,7 @@
         <item>sinusoid</item>
         <item>spectrum</item>
         <item>speech</item>
-       </list>
+      </list>
     </section>
 
     <section class="references" id="sect-00007">
@@ -182,34 +187,34 @@
       <para id="para-00059">Sayigh LS, Tyack PL, Wells RS, Solow AR, Scott MD, Irvine AB (1999) Individual recognition in wild bottlenose dolphins: a field test using playback experiments. Anim Behav 57:41–50.</para>
 
       <para id="para-00060">Seyfarth RM, Cheney D (1990) The assessment by vervet monkeys of their own and another species’ alarm calls. Anim Behav 40:754–764.</para>
-      
+
       <para id="para-00061">Surlykke A, Ghose K, Moss CF (2009) Acoustic scanning of natural scenes by echolocation in the big brown bat, Eptesicus fuscus. J Exp Biol 212:1011–1020.</para>
     </section>
-    <section class="multiple-choice" id="sect-00008"> 
+    <section class="multiple-choice" id="sect-00008">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-07-01-007"/></para>
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-07-01-007" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-07-01-008"/></para>
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-07-01-008" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-07-01-009"/></para>
+          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-07-01-009" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-07-01-010"/></para>
+          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-07-01-010" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-07-01-011"/></para>
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-07-01-011" /></para>
         </problem>
       </exercise>
     </section>

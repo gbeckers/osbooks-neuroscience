@@ -15,104 +15,29 @@
         <item>Differentiate between pain treatment modalities and their mechanisms of action.</item>
       </list>
     </section>
-    <para id="para-00040">There are various ways to treat pain. For acute pain, people can use
-      over-the-counter medication including acetaminophen, aspirin, and ibuprofen. Physical therapy,
-      massage, acupuncture, etc. are also popular, widely available pain relievers. In more severe
-      cases, a prescription drug can be used, such as potent and effective opiate medication. Of
-      course, though opioids are effective, they are also highly addictive, and users quickly
-      develop tolerance, causing them to use more and more (see <link document="m00049">
-      Psychopharmacology</link>). The recent opioid epidemic in the United States is a result of
-      these properties of opioids, which lead people to overdose after consuming higher and higher
-      doses.</para>
-    <para id="para-00041">In most cases, if the pain is due to infection of the tissue, or actual
-      injury of the tissue, after the infection is treated or the injury is healed, the pain will be
-      relieved. If pain is not relieved after healing, and chronic pain emerges, there are several
-      treatments available beyond those typically used for acute pain. Opioids are one possibility,
-      though the potential for addiction is high when taken chronically. For some people, an
-      integrative biopsychosocial cognitive therapy can be helpful (Gatchel et al., 2007). Some
-      non-invasive treatments are also potentially useful, such as <term id="term-00001">magnetic
-      stimulation</term>, <term id="term-00002">transcranial electrical stimulation</term>, and <term id="term-00003">transcutaneous electrical nerve stimulation (TENS)</term>. If any of these
-      treatments are not effective in relieving chronic pain, surgical intervention, or implantation
-      of electrodes for electrical stimulation in peripheral nerve, spinal cord, or brain areas will
-      serve as the last option. In this section, we will review these major approaches to pain
-      management</para>
+    <para id="para-00040">There are various ways to treat pain. For acute pain, people can use over-the-counter medication including acetaminophen, aspirin, and ibuprofen. Physical therapy, massage, acupuncture, etc. are also popular, widely available pain relievers. In more severe cases, a prescription drug can be used, such as potent and effective opiate medication. Of course, though opioids are effective, they are also highly addictive, and users quickly develop tolerance, causing them to use more and more (see <link document="m00049"> Psychopharmacology</link>). The recent opioid epidemic in the United States is a result of these properties of opioids, which lead people to overdose after consuming higher and higher doses.</para>
+    <para id="para-00041">In most cases, if the pain is due to infection of the tissue, or actual injury of the tissue, after the infection is treated or the injury is healed, the pain will be relieved. If pain is not relieved after healing, and chronic pain emerges, there are several treatments available beyond those typically used for acute pain. Opioids are one possibility, though the potential for addiction is high when taken chronically. For some people, an integrative biopsychosocial cognitive therapy can be helpful (Gatchel et al., 2007). Some non-invasive treatments are also potentially useful, such as <term id="term-00001">magnetic stimulation</term>, <term id="term-00002">transcranial electrical stimulation</term>, and <term id="term-00003">transcutaneous electrical nerve stimulation (TENS)</term>. If any of these treatments are not effective in relieving chronic pain, surgical intervention, or implantation of electrodes for electrical stimulation in peripheral nerve, spinal cord, or brain areas will serve as the last option. In this section, we will review these major approaches to pain management</para>
     <section id="sect-00005">
       <title>Placebos</title>
-      <para id="para-00042">One of the most perplexing aspects of pain treatment is the placebo
-        effect—this is when pain is relieved just because someone <emphasis effect="italics">thinks</emphasis>
-        they are receiving treatment, even when the “treatment” does not actually have any
-        biological action on its own. A placebo is, by definition, inactive, and yet produces
-        analgesia, i.e., pain relief (Klinger et al., 2014, 2018; Wager and Atlas, 2015; Mundt et
-        al., 2017; Schafer et al., 2018; Vase and Wartolowska, 2019). (See <link document="m00049">
-        Psychopharmacology</link>). A placebo can take the form of a dummy tablet, nasal spray, sham
-        surgical procedure, magnetic treatment, or topical cream. The fact that the most effective
-        analgesic placebo manipulations are (1) the presence of sensory cues that have been
-        associated with effective treatment or pain relief in the past and (2) the expectation of
-        pain relief, suggests that placebo effects are tied to learned associations with previous
-        pain relief.</para>
-      <para id="para-00043">A placebo analgesic effect can be elicited acutely in a very large
-        percentage of individuals in both experimental and clinical contexts. In many ways, the
-        effect of a placebo is very real. Placebo analgesia has been linked with activity in the
-        prefrontal cortex, and endogenous opioid release in both the descending antinociceptive
-        systems and forebrain structures. In addition, placebo-induced reduction of responses to
-        noxious stimulation in regions of the anterior cingulate and insular cortex, thalamus, and
-        spinal cord correlate with reported pain relief. Placebo analgesic effects have been
-        consistently demonstrated for pain conditions, such as dental postoperative pain,
-        post-thoracotomy pain, low back pain, IBS pain, chronic neuropathic pain, and experimental
-        somatic pain caused by noxious heat, electric shock, intramuscular saline injections, and
-        exercise under ischemic conditions. Proper estimation of the placebo effect during the
-        treatment of pain should be carefully considered, due to ethical issues. And just because
-        the placebo effect can provide genuine relief of pain temporarily, it should not be relied
-        on as a clinical tool by itself.</para>
+      <para id="para-00042">One of the most perplexing aspects of pain treatment is the placebo effect—this is when pain is relieved just because someone <emphasis effect="italics">thinks</emphasis> they are receiving treatment, even when the “treatment” does not actually have any biological action on its own. A placebo is, by definition, inactive, and yet produces analgesia, i.e., pain relief (Klinger et al., 2014, 2018; Wager and Atlas, 2015; Mundt et al., 2017; Schafer et al., 2018; Vase and Wartolowska, 2019). (See <link document="m00049"> Psychopharmacology</link>). A placebo can take the form of a dummy tablet, nasal spray, sham surgical procedure, magnetic treatment, or topical cream. The fact that the most effective analgesic placebo manipulations are (1) the presence of sensory cues that have been associated with effective treatment or pain relief in the past and (2) the expectation of pain relief, suggests that placebo effects are tied to learned associations with previous pain relief.</para>
+      <para id="para-00043">A placebo analgesic effect can be elicited acutely in a very large percentage of individuals in both experimental and clinical contexts. In many ways, the effect of a placebo is very real. Placebo analgesia has been linked with activity in the prefrontal cortex, and endogenous opioid release in both the descending antinociceptive systems and forebrain structures. In addition, placebo-induced reduction of responses to noxious stimulation in regions of the anterior cingulate and insular cortex, thalamus, and spinal cord correlate with reported pain relief. Placebo analgesic effects have been consistently demonstrated for pain conditions, such as dental postoperative pain, post-thoracotomy pain, low back pain, IBS pain, chronic neuropathic pain, and experimental somatic pain caused by noxious heat, electric shock, intramuscular saline injections, and exercise under ischemic conditions. Proper estimation of the placebo effect during the treatment of pain should be carefully considered, due to ethical issues. And just because the placebo effect can provide genuine relief of pain temporarily, it should not be relied on as a clinical tool by itself.</para>
     </section>
     <section id="sect-00004">
       <title>Over-the-counter treatments, physical therapy, and massage </title>
-      <para id="para-00044">The easiest and most common starting point to treat pain is
-        over-the-counter (<term id="term-00004">OTC</term>) drugs, which mostly work by reducing
-        inflammation. Aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs) like
-        ibuprofen (Motrin), and acetaminophen (Tylenol) work by blocking the production of
-        inflammatory molecules, which in turn reduces pain, inflammation, and fever. While the
-        inflammatory response is critical to fighting pathogens and stimulating tissue healing (see <link document="m00072">Neuroimmunology</link>), it can also go overboard, lasting too long
-        (chronic pain) or being too intense (excessively high fever). Anti-inflammatory NSAIDS can
-        therefore be an effective and beneficial tool that reduces pain while facilitating recovery. <term id="term-00005">Physical therapy</term> and <term id="term-00006">massage</term> (e.g.,
-        physical manipulation of the area, ultrasound therapy, thermal therapy, dry needling, etc.)
-        can work by relaxing and/or strengthening muscles that modulate sources of pain. In
-        addition, traditional Chinese <term id="term-00007">acupuncture</term> is an alternative
-        option. It involves the insertion of extremely fine needles into the skin at specific
-        "acupoints." This may relieve pain by releasing endorphins, or through activation of the
-        Gate Control theory.</para>
+      <para id="para-00044">The easiest and most common starting point to treat pain is over-the-counter (<term id="term-00004">OTC</term>) drugs, which mostly work by reducing inflammation. Aspirin and other non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Motrin), and acetaminophen (Tylenol) work by blocking the production of inflammatory molecules, which in turn reduces pain, inflammation, and fever. While the inflammatory response is critical to fighting pathogens and stimulating tissue healing (see <link document="m00072">Neuroimmunology</link>), it can also go overboard, lasting too long (chronic pain) or being too intense (excessively high fever). Anti-inflammatory NSAIDS can therefore be an effective and beneficial tool that reduces pain while facilitating recovery. <term id="term-00005">Physical therapy</term> and <term id="term-00006">massage</term> (e.g., physical manipulation of the area, ultrasound therapy, thermal therapy, dry needling, etc.) can work by relaxing and/or strengthening muscles that modulate sources of pain. In addition, traditional Chinese <term id="term-00007">acupuncture</term> is an alternative option. It involves the insertion of extremely fine needles into the skin at specific "acupoints." This may relieve pain by releasing endorphins, or through activation of the Gate Control theory.</para>
     </section>
     <section id="sect-00006">
       <title>Opioids and endorphins</title>
-      <para id="para-00045">The use of opium as a drug dates back thousands of years BC. Morphine is
-        one of the oldest drugs known and has become the “gold standard” analgesic to which all
-        others are compared. Opioids produce their analgesic effects by binding to their three main
-        (or “classic”) opiate receptors—mu, delta, and kappa–as well as one more recently identified
-        ORL1 receptor. These receptors are located at a number of sites within the central nervous
-        system, including the spinal cord and several specific supraspinal structures (Corder et
-        al., 2018; Bagley and Ingram, 2020). These receptors do not exist to respond to opioid
-        drugs, of course. They evolved to respond to our own endogenous opioid-like
-        neurotransmitters, endorphins. Endorphins (β-Endorphin, enkephalins, dynorphins,
-        nociceptin/orphanin FQ) bind to mu, delta, kappa, and ORL1 receptors, respectively (see <link document="m00027">Basic Neurochemistry</link>). <link target-id="Image-9.15"/> reviews
-        the major endogenous opioids and also introduces morphine and naloxone as major exogenous
-        opiates. While morphine (the agonist) mainly binds to the mu receptor, naloxone (the mu
-        receptor antagonist) blocks all three receptor sites. Naloxone is most commonly used to
-        counteract opiate overdoses in emergency settings. It can restore breathing in someone who
-        has slowed or stopped normal breathing due to excessive intake of opioids such as heroine,
-        fentanyl, oxycodone (OxyContin®), hydrocodone (Vicodin®), codeine, and morphine. It does
-        this by out-competing the ingested opioid to bind to receptors, stopping current receptor
-        activation and preventing further activation while the body metabolizes the remaining
-        ingested opioid.</para>
+      <para id="para-00045">The use of opium as a drug dates back thousands of years BC. Morphine is one of the oldest drugs known and has become the “gold standard” analgesic to which all others are compared. Opioids produce their analgesic effects by binding to their three main (or “classic”) opiate receptors—mu, delta, and kappa–as well as one more recently identified ORL1 receptor. These receptors are located at a number of sites within the central nervous system, including the spinal cord and several specific supraspinal structures (Corder et al., 2018; Bagley and Ingram, 2020). These receptors do not exist to respond to opioid drugs, of course. They evolved to respond to our own endogenous opioid-like neurotransmitters, endorphins. Endorphins (β-Endorphin, enkephalins, dynorphins, nociceptin/orphanin FQ) bind to mu, delta, kappa, and ORL1 receptors, respectively (see <link document="m00027">Basic Neurochemistry</link>). <link target-id="Image-9.15" /> reviews the major endogenous opioids and also introduces morphine and naloxone as major exogenous opiates. While morphine (the agonist) mainly binds to the mu receptor, naloxone (the mu receptor antagonist) blocks all three receptor sites. Naloxone is most commonly used to counteract opiate overdoses in emergency settings. It can restore breathing in someone who has slowed or stopped normal breathing due to excessive intake of opioids such as heroine, fentanyl, oxycodone (OxyContin®), hydrocodone (Vicodin®), codeine, and morphine. It does this by out-competing the ingested opioid to bind to receptors, stopping current receptor activation and preventing further activation while the body metabolizes the remaining ingested opioid.</para>
       <table id="Image-9.15" summary="Table of classic endogenous opioids and exogenous opioids, plus their precursors, and receptors. Actions of the exogenous opioids is included.">
         <tgroup cols="4">
-          <colspec colnum="1" colname="c1"/>
-          <colspec colnum="2" colname="c2"/>
-          <colspec colnum="3" colname="c3"/>
-          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
           <tbody>
             <row>
-              <entry namest="c1" nameend="c4" align="center"><emphasis>Classic endogenous (see
-                Chapter 3)</emphasis></entry>
+              <entry namest="c1" nameend="c4" align="center"><emphasis>Classic endogenous (see Chapter 3)</emphasis></entry>
             </row>
             <row>
               <entry><emphasis>Family</emphasis></entry>
@@ -123,20 +48,19 @@
             <row>
               <entry>Endorphins</entry>
               <entry>Proopiomelanocrtin (POMC)</entry>
-              <entry>α-Endorphin<newline/> β-Endorphin<newline/> γ-Endorphin </entry>
+              <entry>α-Endorphin<newline /> β-Endorphin<newline /> γ-Endorphin </entry>
               <entry>µ-Opioid</entry>
             </row>
             <row>
               <entry>Enkephalins</entry>
               <entry>Proenkephalin (PENK)</entry>
-              <entry>Met-Enkephalin<newline/> Leu-Enkephalin</entry>
-              <entry>Δ-Opioid<newline/> µ-Opioid</entry>
+              <entry>Met-Enkephalin<newline /> Leu-Enkephalin</entry>
+              <entry>Δ-Opioid<newline /> µ-Opioid</entry>
             </row>
             <row>
               <entry>Dynorphins</entry>
               <entry>Prodynorphins (PDYN)</entry>
-              <entry>Dynorphin A<newline/> Dynorphin B<newline/> α-Neoendorphin<newline/>
-                β-Neoendorphin</entry>
+              <entry>Dynorphin A<newline /> Dynorphin B<newline /> α-Neoendorphin<newline /> β-Neoendorphin</entry>
               <entry>κ-Opioid</entry>
             </row>
             <row>
@@ -159,238 +83,100 @@
               <entry>Naloxone</entry>
               <entry>Morphine</entry>
               <entry>Antagonist</entry>
-              <entry>µ-Opioid<newline/> Δ-Opioid<newline/> κ-Opioid</entry>
+              <entry>µ-Opioid<newline /> Δ-Opioid<newline /> κ-Opioid</entry>
             </row>
           </tbody>
         </tgroup>
-        <caption/>
+        <caption />
       </table>
 
-      <para id="para-00046">All opioid receptors are activated through G protein-coupled receptor
-        (GPCR) mechanisms (see <link document="m00027">Basic Neurochemistry</link>). Via GPCRs,
-        opioids inhibit voltage-dependent calcium channels or activate inwardly rectifying potassium
-        channels, thereby decreasing neuronal excitability. Opioids also inhibit the cyclic
-        adenosine monophosphate pathway and activate mitogen-activated protein kinase cascades, both
-        activities affecting cytoplasmic events and transcriptional activity of the cell.</para>
-      <para id="para-00047"><link target-id="Image-9.26"/> summarizes the changes at the level of
-        nociceptor neurons and the spinal cord due to opiate exposure. The left side of the image
-        shows normal sensory input from a nociceptor neuron to a spinal projection neuron. The right
-        side shows the changes that occur in both the nociceptor neuron primary afferent and
-        projection neuron with opiates present. Opiates like morphine or endorphin can bind to the
-        mu receptors in the presynaptic terminals of the primary afferents, or to spinal cord
-        projection neurons. Binding to the presynaptic terminals elicits presynaptic inhibition,
-        leading to reduced neurotransmitter release (e.g., glutamate or SP); on the other hand,
-        binding to projection neurons will directly inhibit their activity. Both presynaptic and
-        postsynaptic inhibition contribute to spinal analgesia.</para>
+      <para id="para-00046">All opioid receptors are activated through G protein-coupled receptor (GPCR) mechanisms (see <link document="m00027">Basic Neurochemistry</link>). Via GPCRs, opioids inhibit voltage-dependent calcium channels or activate inwardly rectifying potassium channels, thereby decreasing neuronal excitability. Opioids also inhibit the cyclic adenosine monophosphate pathway and activate mitogen-activated protein kinase cascades, both activities affecting cytoplasmic events and transcriptional activity of the cell.</para>
+      <para id="para-00047"><link target-id="Image-9.26" /> summarizes the changes at the level of nociceptor neurons and the spinal cord due to opiate exposure. The left side of the image shows normal sensory input from a nociceptor neuron to a spinal projection neuron. The right side shows the changes that occur in both the nociceptor neuron primary afferent and projection neuron with opiates present. Opiates like morphine or endorphin can bind to the mu receptors in the presynaptic terminals of the primary afferents, or to spinal cord projection neurons. Binding to the presynaptic terminals elicits presynaptic inhibition, leading to reduced neurotransmitter release (e.g., glutamate or SP); on the other hand, binding to projection neurons will directly inhibit their activity. Both presynaptic and postsynaptic inhibition contribute to spinal analgesia.</para>
       <figure id="Image-9.26">
         <title>Opioid receptor mechanism in the spinal cord</title>
         <media alt="Left: Diagram of a nociceptor sensory neuron synapsing on a projection neuron. Line drawing of sensory input recording shows depolarization in nociceptor. Line drawing of potential in projection neuron shows a flat line for no sensory input and a depolarization in the presence of sensory input. Right: Diagram of a nociceptor sensory neuron synapsing on a projection neuron with morphine present andinteracting with receptors on both neurons. Line drawing of sensory input recording shows depolarization in nociceptor. Line drawing of potential in projection neuron shows hyperpolarization for no sensory input and only a small depolarization in the presence of sensory input.">
-          <image mime-type="image/png" src="../../media/Image-9.26_Opioid-receptor-mechanism-in-the-spinal-cord.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.26_Opioid-receptor-mechanism-in-the-spinal-cord.png" />
         </media>
       </figure>
-      <para id="para-00048">Opiates also have effects at supraspinal sites such as the thalamus, the
-        amygdala, and the sensory cortex. Opiate activity in these areas are likely to play key
-        roles in the overall analgesic state. The midbrain and brainstem structures (i.e., the
-        periaqueductal gray [PAG] and the rostroventral medulla [RVM]) are particularly important
-        central regions where opioids act. We first learned about these regions as part of the
-        descending inhibition pathways for pain (<link document="m00010" target-id="Image-9.10"/>). <link target-id="Image-9.14"/> shows how direct injection of morphine into either of these
-        sites causes antinociception (pain relief) via increased activity in the descending
-        inhibitory effect on the dorsal horn of the spinal cord.</para>
+      <para id="para-00048">Opiates also have effects at supraspinal sites such as the thalamus, the amygdala, and the sensory cortex. Opiate activity in these areas are likely to play key roles in the overall analgesic state. The midbrain and brainstem structures (i.e., the periaqueductal gray [PAG] and the rostroventral medulla [RVM]) are particularly important central regions where opioids act. We first learned about these regions as part of the descending inhibition pathways for pain (<link document="m00010" target-id="Image-9.10" />). <link target-id="Image-9.14" /> shows how direct injection of morphine into either of these sites causes antinociception (pain relief) via increased activity in the descending inhibitory effect on the dorsal horn of the spinal cord.</para>
       <figure id="Image-9.14">
         <title>Central analgesia targets</title>
         <media alt="Anatomical diagram of horizontal spinal cord and brainstem sections with descending pain pathways diagrammed. Color-coded needles point to sites where opiates act to activate these pathways">
-          <image mime-type="image/png" src="../../media/Image-9.14_Central-analgesia-targets.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.14_Central-analgesia-targets.png" />
         </media>
       </figure>
     </section>
     <section id="sect-00007">
       <title>Cannabinoids</title>
-      <para id="para-00049">Marijuana is from a plant called hemp. Its main, active ingredient is <term id="term-00008">THC</term> (short for delta-9-tetrahydrocannabinol). THC is active in
-        modulating pain because it interacts with our endogenous cannabinoid (endocannabinoid)
-        system. The most commonly studied endocannabinoid systems include anandamide, and
-        2-arachidonylglycerol (<term id="term-00009">2-AG</term>). Both anandamide and 2-AG bind to
-        receptors (cannabinoid receptor-1, and -2 (CB1-R, CB2-R)) found throughout the body and
-        nervous system. CB1-Rs are mainly in the brain, particularly in the substantia nigra, the
-        basal ganglia, limbic system, hippocampus, and cerebellum, but are also expressed in the
-        peripheral nervous system. <link target-id="Image-9.18"/> shows an example of CB1-R
-        distribution in the human brain. CB2-Rs are mostly expressed in immune cells, the spleen and
-        the gastrointestinal system, and to some extent in the brain and peripheral nervous system.</para>
+      <para id="para-00049">Marijuana is from a plant called hemp. Its main, active ingredient is <term id="term-00008">THC</term> (short for delta-9-tetrahydrocannabinol). THC is active in modulating pain because it interacts with our endogenous cannabinoid (endocannabinoid) system. The most commonly studied endocannabinoid systems include anandamide, and 2-arachidonylglycerol (<term id="term-00009">2-AG</term>). Both anandamide and 2-AG bind to receptors (cannabinoid receptor-1, and -2 (CB1-R, CB2-R)) found throughout the body and nervous system. CB1-Rs are mainly in the brain, particularly in the substantia nigra, the basal ganglia, limbic system, hippocampus, and cerebellum, but are also expressed in the peripheral nervous system. <link target-id="Image-9.18" /> shows an example of CB1-R distribution in the human brain. CB2-Rs are mostly expressed in immune cells, the spleen and the gastrointestinal system, and to some extent in the brain and peripheral nervous system.</para>
       <figure id="Image-9.18">
         <title>Cannabinoid receptor distribution</title>
         <media alt="PET images of human brains with sagittal, coronal and horizontal view show abundant coloring to indicate receptor binding particularly in the cingulate gyrus and basal ganglia.">
-          <image mime-type="image/png" src="../../media/Image-9.18_Cannabinoid-receptor-distribution.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.18_Cannabinoid-receptor-distribution.png" />
         </media>
-        <caption>Binding of CB1 receptor averaged over 35 men shows high binding in many brain
-          regions, including basal ganglia and cingulate gyrus. Image credit: Kantonen, T.,
-          Karjalainen, T., Pekkarinen, L. et al. Cerebral μ-opioid and CB1 receptor systems have
-          distinct roles in human feeding behavior. Transl Psychiatry 11, 442 (2021).
-          https://doi.org/10.1038/s41398-021-01559-5. CC BY 4.0</caption>
+        <caption>Binding of CB1 receptor averaged over 35 men shows high binding in many brain regions, including basal ganglia and cingulate gyrus. Image credit: Kantonen, T., Karjalainen, T., Pekkarinen, L. et al. Cerebral μ-opioid and CB1 receptor systems have distinct roles in human feeding behavior. Transl Psychiatry 11, 442 (2021). https://doi.org/10.1038/s41398-021-01559-5. CC BY 4.0</caption>
       </figure>
-      <para id="para-00050">CB1-R modulates pain signaling in several regions in the peripheral and
-        central nervous system, including the primary afferent terminals, the dorsal root ganglion
-        (DRG), the dorsal horn of the spinal cord, the periaqueductal gray matter, the ventral
-        posterolateral thalamus, and cortical regions associated with central pain processing,
-        including the anterior cingulate cortex, amygdala and prefrontal cortex (Hill et al., 2017). <link target-id="Image-9.16"/> shows how CB receptor activation inhibits presynaptic release, a
-        reminder of processes we learned about in <link document="m00027">Basic Neurochemistry</link>.
-        Through activation of the G-protein mechanism, CB1-Rs modulate the activity of a number of
-        ion channels via inhibiting presynaptic voltage-dependent Ca<sup>2+</sup> channels to reduce
-        synaptic vesicle release, and also opening inwardly rectifying K<sup>+</sup> channels to
-        hyperpolarize the presynaptic terminal.</para>
+      <para id="para-00050">CB1-R modulates pain signaling in several regions in the peripheral and central nervous system, including the primary afferent terminals, the dorsal root ganglion (DRG), the dorsal horn of the spinal cord, the periaqueductal gray matter, the ventral posterolateral thalamus, and cortical regions associated with central pain processing, including the anterior cingulate cortex, amygdala and prefrontal cortex (Hill et al., 2017). <link target-id="Image-9.16" /> shows how CB receptor activation inhibits presynaptic release, a reminder of processes we learned about in <link document="m00027">Basic Neurochemistry</link>. Through activation of the G-protein mechanism, CB1-Rs modulate the activity of a number of ion channels via inhibiting presynaptic voltage-dependent Ca<sup>2+</sup> channels to reduce synaptic vesicle release, and also opening inwardly rectifying K<sup>+</sup> channels to hyperpolarize the presynaptic terminal.</para>
       <figure id="Image-9.16">
         <title>Function of endocannabinoid receptors</title>
         <media alt="Diagram of a synapse, showing presynaptic terminal with vesicles being released on postsynaptic spine. Production of DGLa and PLD to generate 1-AG and anandamide is shown. AG and anandamide are sown signaling to presynaptic CB1 receptors, initiating several pre-synaptic changes">
-          <image mime-type="image/png" src="../../media/Image-9.16_Function-of-endocannabinoid-receptors.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.16_Function-of-endocannabinoid-receptors.png" />
         </media>
       </figure>
-      <para id="para-00051">The net consequence of the CB1-R is therefore to augment membrane
-        hyperpolarization and inhibit the release of neurotransmitters in several central and
-        peripheral regions responsible for mediating pain signals. Exogenous cannabinoids, such as
-        the THC in marijuana, can tap into this endogenous pain modulation network by activating CB
-        receptors in the brain, spinal cord, and peripheral sites. For example, cannabinoid-induced
-        analgesia has been demonstrated for both neuropathic pain and cancer pain (Atakan, 2012;
-        Whiting et al., 2015; Stockings et al., 2018; Lossignol, 2019; Bouchet and Ingram, 2020;
-        Finn et al., 2021).</para>
+      <para id="para-00051">The net consequence of the CB1-R is therefore to augment membrane hyperpolarization and inhibit the release of neurotransmitters in several central and peripheral regions responsible for mediating pain signals. Exogenous cannabinoids, such as the THC in marijuana, can tap into this endogenous pain modulation network by activating CB receptors in the brain, spinal cord, and peripheral sites. For example, cannabinoid-induced analgesia has been demonstrated for both neuropathic pain and cancer pain (Atakan, 2012; Whiting et al., 2015; Stockings et al., 2018; Lossignol, 2019; Bouchet and Ingram, 2020; Finn et al., 2021).</para>
     </section>
     <section id="sect-00008">
       <title>Capsaicin</title>
-      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main
-        active ingredient of the hot chili pepper. We first introduced the capsaicin receptor when
-        we learned about its role in activating temperature sensitive TRP channels. TRP channels
-        belong to a superfamily of 28 cation permeable channels and each one is sensitive to a
-        specific range of temperatures (Samanta et al., 2018). Many of them also activate in
-        response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who
-        discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997)
-        (see <link document="m00007" target-id="Figure-9.Y"/>). This transient receptor potential
-        vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower
-        pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it
-        is mainly presented in the C-fibers and Aδ fibers.</para>
-      <para id="para-00053">TRPV1 channels are non-selective cation channels that are permeable to
-        Ca<sup>2+</sup>, Na<sup>+</sup>, and K<sup>+</sup>, meaning they net depolarize a cell.
-        Activation of enough TRPV1 channels can ultimately result in action potential generation,
-        leading to nociception. Interestingly, although the sensation associated with capsaicin in
-        the short term is pain, in the long term, repeatedly treated tissue can become desensitized
-        to subsequent noxious stimuli. Excessive Ca<sup>2+</sup> influx leads to excitotoxicity
-        (literally death from too much excitation) that causes nerve degeneration and loss of pain
-        sensation. It has been found that baby rats treated with capsaicin lose their nociceptive
-        behavior after they grow up (Ruda et al., 2000; Peng et al., 2003). This property has been
-        explored for analgesic purposes (try to find capzasin cream over the counter in any
-        pharmacy). This is also why people can build up a tolerance to spicy foods by eating them
-        repeatedly.</para>
+      <para id="para-00052"><term class="no=emphasis" id="term-00010">Capsaicin</term> is the main active ingredient of the hot chili pepper. We first introduced the capsaicin receptor when we learned about its role in activating temperature sensitive TRP channels. TRP channels belong to a superfamily of 28 cation permeable channels and each one is sensitive to a specific range of temperatures (Samanta et al., 2018). Many of them also activate in response to specific chemicals. In 2021, a Nobel prize was awarded to the scientist who discovered a TRP channel that specifically responded to capsaicin (Caterina et al., 1997) (see <link document="m00007" target-id="Figure-9.Y" />). This transient receptor potential vanilloid type 1 (TRPV1, formerly VR1) receptor is also activated by heat and protons (lower pH or acidic). It is located in both peripheral and central nervous systems. In the PNS, it is mainly presented in the C-fibers and Aδ fibers.</para>
+      <para id="para-00053">TRPV1 channels are non-selective cation channels that are permeable to Ca<sup>2+</sup>, Na<sup>+</sup>, and K<sup>+</sup>, meaning they net depolarize a cell. Activation of enough TRPV1 channels can ultimately result in action potential generation, leading to nociception. Interestingly, although the sensation associated with capsaicin in the short term is pain, in the long term, repeatedly treated tissue can become desensitized to subsequent noxious stimuli. Excessive Ca<sup>2+</sup> influx leads to excitotoxicity (literally death from too much excitation) that causes nerve degeneration and loss of pain sensation. It has been found that baby rats treated with capsaicin lose their nociceptive behavior after they grow up (Ruda et al., 2000; Peng et al., 2003). This property has been explored for analgesic purposes (try to find capzasin cream over the counter in any pharmacy). This is also why people can build up a tolerance to spicy foods by eating them repeatedly.</para>
     </section>
     <section id="sect-00009">
       <title>Surgical treatment</title>
-      <para id="para-00054">Surgical approaches to treating pain fall within four broad classes:
-        decompression, reconstruction, ablation, and modulation.</para>
-      <para id="para-00055"><term id="term-00011">Decompression</term> procedures are commonly
-        performed to release entrapped sensory structures and potentially relieve pain. For example,
-        carpal tunnel for the median nerve and fibular head for the common peroneal nerve is the
-        most common place where the nerve can be compressed leading to pain. Cutting the carpal
-        tunnel ligament can release the compression of the median nerve, which in turn, relieves
-        pain.</para>
-      <para id="para-00056"><term id="term-00012">Reconstruction</term> refers to attempts to
-        directly repair injured neural elements, such as the nerve grafting following peripheral
-        nerve transection or nerve root replantation following brachial plexus avulsion (a tear of
-        the nerve roots from the cervical segments due to extensive lateral bending of the head or
-        pull of arm).</para>
-      <para id="para-00057"><term id="term-00013">Ablation</term> procedures aim to disrupt or
-        transect the pain-signaling pathways in the periphery (e.g., peripheral neurectomy, dorsal
-        rhizotomy, dorsal root ganglionectomy), spinal cord (e.g., anterolateral cordotomy, to cut
-        the anterior lateral part of the spinal cord), brainstem, or pain-processing centers in the
-        diencephalon and telencephalon. Cingulotomy (disconnecting the cingulate cortex from the
-        rest of the brain) is a CNS ablation technique that evolved from frontal lobotomy (chop off
-        a part of a lobe) that was developed to avoid the neurocognitive complications of lobotomy.
-        The anterior cingulate cortex is a structure that has been implicated in contributing to the
-        emotional aspects of pain. However, caution should be taken since bilateral cingulotomy for
-        chronic pain showed side effects of worse executive function, attention, and self-initiated
-        behavior, though language, motor control, and memory were not affected.</para>
-      <para id="para-00058"><term id="term-00014">Modulation</term> aims to alter pain signaling or
-        processing either electrically (nerve stimulators) or pharmacologically (intrathecal drug
-        pumps). The next section discusses stimulation-based pain relief in more detail.</para>
+      <para id="para-00054">Surgical approaches to treating pain fall within four broad classes: decompression, reconstruction, ablation, and modulation.</para>
+      <para id="para-00055"><term id="term-00011">Decompression</term> procedures are commonly performed to release entrapped sensory structures and potentially relieve pain. For example, carpal tunnel for the median nerve and fibular head for the common peroneal nerve is the most common place where the nerve can be compressed leading to pain. Cutting the carpal tunnel ligament can release the compression of the median nerve, which in turn, relieves pain.</para>
+      <para id="para-00056"><term id="term-00012">Reconstruction</term> refers to attempts to directly repair injured neural elements, such as the nerve grafting following peripheral nerve transection or nerve root replantation following brachial plexus avulsion (a tear of the nerve roots from the cervical segments due to extensive lateral bending of the head or pull of arm).</para>
+      <para id="para-00057"><term id="term-00013">Ablation</term> procedures aim to disrupt or transect the pain-signaling pathways in the periphery (e.g., peripheral neurectomy, dorsal rhizotomy, dorsal root ganglionectomy), spinal cord (e.g., anterolateral cordotomy, to cut the anterior lateral part of the spinal cord), brainstem, or pain-processing centers in the diencephalon and telencephalon. Cingulotomy (disconnecting the cingulate cortex from the rest of the brain) is a CNS ablation technique that evolved from frontal lobotomy (chop off a part of a lobe) that was developed to avoid the neurocognitive complications of lobotomy. The anterior cingulate cortex is a structure that has been implicated in contributing to the emotional aspects of pain. However, caution should be taken since bilateral cingulotomy for chronic pain showed side effects of worse executive function, attention, and self-initiated behavior, though language, motor control, and memory were not affected.</para>
+      <para id="para-00058"><term id="term-00014">Modulation</term> aims to alter pain signaling or processing either electrically (nerve stimulators) or pharmacologically (intrathecal drug pumps). The next section discusses stimulation-based pain relief in more detail.</para>
     </section>
     <section id="sect-00010">
       <title>Electrical/magnetic stimulation</title>
-      <para id="para-00059">Electrical stimulation of nerves, spinal cord, and/or brain can be used
-        to relieve pain. Magnetic stimulation of the brain has also been successfully used to treat
-        pain (Tan and Kuner, 2021).</para>
-      <para id="para-00060"><term id="term-00015">Peripheral nerve stimulation</term> can be used to
-        relieve pain via both invasive and non-invasive methods. <term id="term-00016">Transcutaneous
-        electrical nerve stimulation</term>, <term id="term-00017">TENS</term>, is a non-invasive
-        method for stimulating the peripheral nerve. In TENS, electrodes on the skin transmit small
-        electrical pulses to provide pain relief (<link target-id="Image-9.19"/>).</para>
+      <para id="para-00059">Electrical stimulation of nerves, spinal cord, and/or brain can be used to relieve pain. Magnetic stimulation of the brain has also been successfully used to treat pain (Tan and Kuner, 2021).</para>
+      <para id="para-00060"><term id="term-00015">Peripheral nerve stimulation</term> can be used to relieve pain via both invasive and non-invasive methods. <term id="term-00016">Transcutaneous electrical nerve stimulation</term>, <term id="term-00017">TENS</term>, is a non-invasive method for stimulating the peripheral nerve. In TENS, electrodes on the skin transmit small electrical pulses to provide pain relief (<link target-id="Image-9.19" />).</para>
       <figure id="Image-9.19">
         <title>Transcutaneous electrical nerve stimulation for pain</title>
         <media alt="Photograph of a person with electrodes stuck on his back.">
-          <image mime-type="image/png" src="../../media/Image-9.19_Transcutaneous-electrical-nerve-stimulation-for-pain.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.19_Transcutaneous-electrical-nerve-stimulation-for-pain.png" />
         </media>
-        <caption>In transcutaneous electrical nerve stimulation, electrodes are placed on the skin
-          and small electrical pulses are delivered to relieve pain. Image credit: By Wisser68, CC
-          BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
+        <caption>In transcutaneous electrical nerve stimulation, electrodes are placed on the skin and small electrical pulses are delivered to relieve pain. Image credit: By Wisser68, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30217768)</caption>
       </figure>
-      <para id="para-00061"><term id="term-00018">Spinal cord stimulation</term> (<term id="term-00019">SCS</term>) emerged as a direct clinical application of the gate control
-        theory of Melzack and Wall published in 1965. It was designed to be effective in suppressing
-        pain of a nociceptive nature (both acute and chronic), and has been in use since the early
-        1970s. It is now one of the mainstream treatments of neuropathic pain. This technique is
-        based on the original idea that antidromic (against the action potential propagation
-        direction) stimulation of the large fibers in the dorsal columns may activate the proposed
-        gating mechanisms in the dorsal horn. It is also called dorsal column stimulation because of
-        this focus on stimulating dorsal pathways. <link target-id="Image-9.13"/> shows an example
-        of this kind of electrode placement. The frequency is usually 60–100 Hz, and the pulse width
-        is between 100 and 500 μsec. The effective amplitude varies but should be set to produce
-        comfortable paresthesias, usually in the range of 2–6 V for "constant-voltage" systems
-        (Sdrulla et al., 2018; Rock et al., 2019; Schmidt, 2019; Fontaine, 2021; Sun et al., 2021).</para>
+      <para id="para-00061"><term id="term-00018">Spinal cord stimulation</term> (<term id="term-00019">SCS</term>) emerged as a direct clinical application of the gate control theory of Melzack and Wall published in 1965. It was designed to be effective in suppressing pain of a nociceptive nature (both acute and chronic), and has been in use since the early 1970s. It is now one of the mainstream treatments of neuropathic pain. This technique is based on the original idea that antidromic (against the action potential propagation direction) stimulation of the large fibers in the dorsal columns may activate the proposed gating mechanisms in the dorsal horn. It is also called dorsal column stimulation because of this focus on stimulating dorsal pathways. <link target-id="Image-9.13" /> shows an example of this kind of electrode placement. The frequency is usually 60–100 Hz, and the pulse width is between 100 and 500 μsec. The effective amplitude varies but should be set to produce comfortable paresthesias, usually in the range of 2–6 V for "constant-voltage" systems (Sdrulla et al., 2018; Rock et al., 2019; Schmidt, 2019; Fontaine, 2021; Sun et al., 2021).</para>
       <figure id="Image-9.13">
         <title>Spinal cord stimulation (SCS)</title>
         <media alt="Diagram of human with pulse generator near their hip, wires extending up into the spine and arrows indicating flow upwards.">
-          <image mime-type="image/png" src="../../media/Image-9.13_Spinal-cord-stimulation-(SCS).png"/>
+          <image mime-type="image/png" src="../../media/Image-9.13_Spinal-cord-stimulation-(SCS).png" />
         </media>
       </figure>
-      <para id="para-00062"><term id="term-00020">Motor cortex stimulation</term> (<term id="term-00021">MCS</term>) has been found to be effective against some otherwise
-        extremely therapy-resistant pain conditions: central post-stroke pain (as the consequence of
-        damage of the thalamus by stroke) and trigeminal deafferentation pain (results from injury
-        to the trigeminal nerve from trauma or surgery). Notably, central post-stroke pain is one of
-        the most therapy-resistant neuropathic pain conditions, and MCS is one of the only
-        treatments that have been shown to provide relief in this condition.</para>
-      <para id="para-00063">Intracerebral stimulation, or <term id="term-00022">deep brain
-        stimulation (DBS)</term>, is also useful for the management of pain otherwise resistant to
-        any therapeutic modality. Two major target regions for stimulation are shown in <link target-id="Image-9.17"/>: (1) the sensory thalamic (STh) nuclei (ventral posterior medial
-        [VPM], ventral posterior lateral [VPL]), and (2) the PAG/PVG region. There is solid evidence
-        that stimulation in the sensory thalamus is selectively effective for neuropathic
-        (deafferentation) pain whereas PAG/PVG stimulation appears to preferentially influence
-        nociceptive or mixed forms of pain (Lefaucheur, 2017; Hussein et al., 2018; Senatus et al.,
-        2020; Knotkova et al., 2021; Nüssel et al., 2021; Ramos-Fresnedo et al., 2022).</para>
+      <para id="para-00062"><term id="term-00020">Motor cortex stimulation</term> (<term id="term-00021">MCS</term>) has been found to be effective against some otherwise extremely therapy-resistant pain conditions: central post-stroke pain (as the consequence of damage of the thalamus by stroke) and trigeminal deafferentation pain (results from injury to the trigeminal nerve from trauma or surgery). Notably, central post-stroke pain is one of the most therapy-resistant neuropathic pain conditions, and MCS is one of the only treatments that have been shown to provide relief in this condition.</para>
+      <para id="para-00063">Intracerebral stimulation, or <term id="term-00022">deep brain stimulation (DBS)</term>, is also useful for the management of pain otherwise resistant to any therapeutic modality. Two major target regions for stimulation are shown in <link target-id="Image-9.17" />: (1) the sensory thalamic (STh) nuclei (ventral posterior medial [VPM], ventral posterior lateral [VPL]), and (2) the PAG/PVG region. There is solid evidence that stimulation in the sensory thalamus is selectively effective for neuropathic (deafferentation) pain whereas PAG/PVG stimulation appears to preferentially influence nociceptive or mixed forms of pain (Lefaucheur, 2017; Hussein et al., 2018; Senatus et al., 2020; Knotkova et al., 2021; Nüssel et al., 2021; Ramos-Fresnedo et al., 2022).</para>
       <figure id="Image-9.17">
         <title>Deep brain stimulation for pain</title>
         <media alt="Left: diagram of human head/torso with DBS generator shown in chest and wires extending on top of head, connecting to a wire the penetrates into the brain. Right: Midline sagittal section of human brain showing DBS wires targeting 2 different brain nuclei.">
-          <image mime-type="image/png" src="../../media/Image-9.17_Deep-brain-stimulation-for-pain.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.17_Deep-brain-stimulation-for-pain.png" />
         </media>
-        <caption>Two common sites for deep brain stimulation to relieve chronic pain are the sensory
-          nuclei of the thalamus and the periaqueductal gray.</caption>
+        <caption>Two common sites for deep brain stimulation to relieve chronic pain are the sensory nuclei of the thalamus and the periaqueductal gray.</caption>
       </figure>
-      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term>
-        (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has
-        been used to treat chronic pain, in addition to studying various cognitive functions with
-        various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic
-        field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21"/>) (see <link document="m00106" target-id="">Methods: rTMS</link>). These pulses
-        induce changes in cortical excitability at the stimulation site and transynaptically at
-        distant areas to achieve its effect. It is found that rTMS is beneficial for treating
-        neuropathic pain of various origins, such as central pain, pain from peripheral nerve
-        disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
+      <para id="para-00064"><term id="term-00023">Repetitive transcranial magnetic stimulation</term> (<term id="term-00024">rTMS</term>) is a non-invasive and relatively painless tool that has been used to treat chronic pain, in addition to studying various cognitive functions with various neuropsychiatric disorders. It uses an electromagnetic coil to generate a magnetic field that passes easily and painlessly through the skull and into the brain (see <link target-id="Image-9.21" />) (see <link document="m00106" target-id="">Methods: rTMS</link>). These pulses induce changes in cortical excitability at the stimulation site and transynaptically at distant areas to achieve its effect. It is found that rTMS is beneficial for treating neuropathic pain of various origins, such as central pain, pain from peripheral nerve disorders, fibromyalgia, and migraine (Gatzinsky et al., 2021; Zang et al., 2021).</para>
       <figure id="Image-9.21">
         <title>Repetitive transcranial magnetic stimulation for pain</title>
         <media alt="Diagram of human torso/head with TMS coil shown above the top of the head and red dotted lines representing magnetic fields.">
-          <image mime-type="image/png" src="../../media/Image-9.21_Repetitive-transcranial-magnetic-stimulation-for-pain.png"/>
+          <image mime-type="image/png" src="../../media/Image-9.21_Repetitive-transcranial-magnetic-stimulation-for-pain.png" />
         </media>
-        <caption>In repetitive transcranial magnetic stimulation, an electromagnetic coil generates
-          a magnetic field that changes electrical activity of cortical neurons. This can relieve
-          chronic pain in some conditions.</caption>
+        <caption>In repetitive transcranial magnetic stimulation, an electromagnetic coil generates a magnetic field that changes electrical activity of cortical neurons. This can relieve chronic pain in some conditions.</caption>
       </figure>
     </section>
     <section class="section-summary" id="sect-00011">
       <title>Summary</title>
-      <para id="para-00065">Treatment of pain can be delivered through various strategies, from the
-        over-the-counter medication to prescription drugs, behavioral cognitive treatment to
-        physical therapy, and other instrumental measures including invasive or non-invasive
-        stimulation of the nervous system (peripheral and central), and finally, surgical options.</para>
+      <para id="para-00065">Treatment of pain can be delivered through various strategies, from the over-the-counter medication to prescription drugs, behavioral cognitive treatment to physical therapy, and other instrumental measures including invasive or non-invasive stimulation of the nervous system (peripheral and central), and finally, surgical options.</para>
     </section>
     <section class="key-terms" id="sect-00001">
       <title>Key Terms</title>
@@ -411,127 +197,42 @@
     </section>
     <section class="references" id="sect-00002">
       <title>References</title>
-      <para id="para-00001">Atakan, Z. (2012). Cannabis, a complex plant: Different compounds and different effects
-        on individuals. <emphasis effect="italics">Therapeutic Advances in Psychopharmacology</emphasis>
-        , <emphasis effect="italics">2</emphasis>(6), 241–254.
-        https://doi.org/10.1177/2045125312457586</para>
-      <para id="para-00002">Bagley, E. E., &amp; Ingram, S. L. (2020). Endogenous opioid peptides in the descending
-        pain modulatory circuit. <emphasis effect="italics">Neuropharmacology</emphasis>, <emphasis effect="italics">173</emphasis>, 108131. https://doi.org/10.1016/j.neuropharm.2020.108131</para>
-      <para id="para-00003">Bouchet, C. A., &amp; Ingram, S. L. (2020). Cannabinoids in the descending pain
-        modulatory circuit: Role in inflammation. <emphasis effect="italics">Pharmacology &amp;
-        Therapeutics</emphasis>, <emphasis effect="italics">209</emphasis>, 107495.
-        https://doi.org/10.1016/j.pharmthera.2020.107495</para>
-      <para id="para-00004">Corder, G., Castro, D. C., Bruchas, M. R., &amp; Scherrer, G. (2018). Endogenous and
-        exogenous opioids in pain. <emphasis effect="italics">Annual Review of Neuroscience</emphasis>
-        , <emphasis effect="italics">41</emphasis>, 453–473.
-        https://doi.org/10.1146/annurev-neuro-080317-061522</para>
-      <para id="para-00005">Finn, D. P., Haroutounian, S., Hohmann, A. G., Krane, E., Soliman, N., &amp; Rice, A. S.
-        C. (2021). Cannabinoids, the endocannabinoid system, and pain: A review of preclinical
-        studies. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">162</emphasis>(Suppl
-        1), S5–S25. https://doi.org/10.1097/j.pain.0000000000002268</para>
-      <para id="para-00006">Fontaine, D. (2021). Spinal cord stimulation for neuropathic pain. <emphasis effect="italics">Revue Neurologique</emphasis>, <emphasis effect="italics">177</emphasis>(7),
-        838–842. https://doi.org/10.1016/j.neurol.2021.07.014</para>
-      <para id="para-00007">Gatchel, R. J., Peng, Y. B., Peters, M. L., Fuchs, P. N., &amp; Turk, D. C. (2007). The
-        biopsychosocial approach to chronic pain: Scientific advances and future directions. <emphasis effect="italics">Psychological Bulletin</emphasis>, <emphasis effect="italics">133</emphasis>(4),
-        581–624. https://doi.org/10.1037/0033-2909.133.4.581</para>
-      <para id="para-00008">Gatzinsky, K., Bergh, C., Liljegren, A., Silander, H., Samuelsson, J., Svanberg, T.,
-        &amp; Samuelsson, O. (2020). Repetitive transcranial magnetic stimulation of the primary
-        motor cortex in management of chronic neuropathic pain: A systematic review. <emphasis effect="italics">Scandinavian Journal of Pain</emphasis>, <emphasis effect="italics">21</emphasis>(1),
-        8–21. https://doi.org/10.1515/sjpain-2020-0054</para>
-      <para id="para-00009">Hill, K. P., Palastro, M. D., Johnson, B., &amp; Ditre, J. W. (2017). Cannabis and pain:
-        A clinical review. <emphasis effect="italics">Cannabis and Cannabinoid Research</emphasis>, <emphasis effect="italics">2</emphasis>(1), 96–104. https://doi.org/10.1089/can.2017.0017</para>
-      <para id="para-00010">Hofmann, S. G., Asnaani, A., Vonk, I. J., Sawyer, A. T., &amp; Fang, A. (2012). The
-        efficacy of cognitive behavioral therapy: A review of meta-analyses. <emphasis effect="italics">Cognitive Therapy and Research</emphasis>, <emphasis effect="italics">36</emphasis>(5),
-        427–440. https://doi.org/10.1007/s10608-012-9476-1</para>
-      <para id="para-00011">Hussein, A. E., Esfahani, D. R., Moisak, G. I., Rzaev, J. A., &amp; Slavin, K. V.
-        (2018). Motor cortex stimulation for deafferentation pain. <emphasis effect="italics">Current
-        Pain and Headache Reports</emphasis>, <emphasis effect="italics">22</emphasis>(6), 45.
-        https://doi.org/10.1007/s11916-018-0697-1</para>
-      <para id="para-00012">Klinger, R., Colloca, L., Bingel, U., &amp; Flor, H. (2014). Placebo analgesia: Clinical
-        applications. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">155</emphasis>(6),
-        1055–1058. https://doi.org/10.1016/j.pain.2013.12.007</para>
-      <para id="para-00013">Klinger, R., Stuhlreyer, J., Schwartz, M., Schmitz, J., &amp; Colloca, L. (2018).
-        Clinical use of placebo effects in patients with pain disorders. <emphasis effect="italics">International
-        Review of Neurobiology</emphasis>, <emphasis effect="italics">139</emphasis>, 107–128.
-        https://doi.org/10.1016/bs.irn.2018.07.015</para>
-      <para id="para-00014">Knotkova, H., Hamani, C., Sivanesan, E., Le Beuffe, M. F. E., Moon, J. Y., Cohen, S. P.,
-        &amp; Huntoon, M. A. (2021). Neuromodulation for chronic pain. <emphasis effect="italics">Lancet
-        (London, England)</emphasis>, <emphasis effect="italics">397</emphasis>(10289), 2111–2124.
-        https://doi.org/10.1016/S0140-6736(21)00794-7</para>
-      <para id="para-00015">Lefaucheur, J. P. (2017). The complex relationship between pain and motor cortex. <emphasis effect="italics">Brain Stimulation</emphasis>, <emphasis effect="italics">10</emphasis>(2),
-        382. https://doi.org/10.1016/j.brs.2017.01.130</para>
-      <para id="para-00016">Lossignol, D. (2019). Cannabinoids: A new approach for pain control?. <emphasis effect="italics">Current Opinion in Oncology</emphasis>, <emphasis effect="italics">31</emphasis>(4),
-        275–279. https://doi.org/10.1097/CCO.0000000000000523</para>
-      <para id="para-00017">McCracken, L. M., &amp; Turk, D. C. (2002). Behavioral and cognitive-behavioral
-        treatment for chronic pain: Outcome, predictors of outcome, and treatment process. <emphasis effect="italics">Spine</emphasis>, <emphasis effect="italics">27</emphasis>(22),
-        2564–2573. https://doi.org/10.1097/00007632-200211150-00033</para>
-      <para id="para-00018">Melzack, R. (2001). Pain and the neuromatrix in the brain. <emphasis effect="italics">Journal
-        of Dental Education</emphasis>, <emphasis effect="italics">65</emphasis>(12), 1378–1382.</para>
-      <para id="para-00019">Melzack, R. (2005). Evolution of the neuromatrix theory of pain. The Prithvi Raj
-        Lecture: Presented at the third World Congress of World Institute of Pain, Barcelona 2004. <emphasis effect="italics">Pain Practice: The Official Journal of World Institute of Pain</emphasis>
-        , <emphasis effect="italics">5</emphasis>(2), 85–94.
-        https://doi.org/10.1111/j.1533-2500.2005.05203.x</para>
-      <para id="para-00020">Mundt, J. M., Roditi, D., &amp; Robinson, M. E. (2017). A comparison of deceptive and
-        non-deceptive placebo analgesia: Efficacy and ethical consequences. <emphasis effect="italics">Annals of Behavioral Medicine: A Publication of the Society of Behavioral
-        Medicine</emphasis>, <emphasis effect="italics">51</emphasis>(2), 307–315.
-        https://doi.org/10.1007/s12160-016-9854-0</para>
-      <para id="para-00021">Nüssel, M., Hamperl, M., Maslarova, A., Chaudhry, S. R., Köhn, J., Stadlbauer, A.,
-        Buchfelder, M., &amp; Kinfe, T. (2021). Burst motor cortex stimulation evokes sustained
-        suppression of thalamic stroke pain: A narrative review and single-case overview. <emphasis effect="italics">Pain and Therapy</emphasis>, <emphasis effect="italics">10</emphasis>(1),
-        101–114. https://doi.org/10.1007/s40122-020-00221-0</para>
-      <para id="para-00022">Peng, Y. B., Ling, Q. D., Ruda, M. A., &amp; Kenshalo, D. R. (2003).
-        Electrophysiological changes in adult rat dorsal horn neurons after neonatal peripheral
-        inflammation. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">90</emphasis>(1), 73–80. https://doi.org/10.1152/jn.01019.2002</para>
-      <para id="para-00023">Ramos-Fresnedo, A., Perez-Vega, C., Domingo, R. A., Cheshire, W. P., Middlebrooks, E.
-        H., &amp; Grewal, S. S. (2022). Motor cortex stimulation for pain: A narrative review of
-        indications, techniques, and outcomes. <emphasis effect="italics">Neuromodulation: Journal
-        of the International Neuromodulation Society</emphasis>, <emphasis effect="italics">25</emphasis>(2),
-        211–221. https://doi.org/10.1016/j.neurom.2021.10.025</para>
-      <para id="para-00024">Rock, A. K., Truong, H., Park, Y. L., &amp; Pilitsis, J. G. (2019). Spinal cord
-        stimulation. <emphasis effect="italics">Neurosurgery Clinics of North America</emphasis>, <emphasis effect="italics">30</emphasis>(2), 169–194. https://doi.org/10.1016/j.nec.2018.12.003</para>
-      <para id="para-00025">Ruda, M. A., Ling, Q. D., Hohmann, A. G., Peng, Y. B., &amp; Tachibana, T. (2000).
-        Altered nociceptive neuronal circuits after neonatal peripheral inflammation. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">289</emphasis>(5479),
-        628–631. https://doi.org/10.1126/science.289.5479.628</para>
-      <para id="para-00026">Schafer, S. M., Geuter, S., &amp; Wager, T. D. (2018). Mechanisms of placebo analgesia:
-        A dual-process model informed by insights from cross-species comparisons. <emphasis effect="italics">Progress in Neurobiology</emphasis>, <emphasis effect="italics">160</emphasis>,
-        101–122. https://doi.org/10.1016/j.pneurobio.2017.10.008</para>
-      <para id="para-00027">Schmidt, G. L. (2019). The use of spinal cord stimulation/neuromodulation in the
-        management of chronic pain. <emphasis effect="italics">The Journal of the American Academy
-        of Orthopaedic Surgeons</emphasis>, <emphasis effect="italics">27</emphasis>(9), e401–e407.
-        https://doi.org/10.5435/JAAOS-D-17-00829</para>
-      <para id="para-00028">Sdrulla, A. D., Guan, Y., &amp; Raja, S. N. (2018). Spinal cord stimulation: Clinical
-        efficacy and potential mechanisms. <emphasis effect="italics">Pain Practice: The Official
-        Journal of World Institute of Pain</emphasis>, <emphasis effect="italics">18</emphasis>(8),
-        1048–1067. https://doi.org/10.1111/papr.12692</para>
-      <para id="para-00029">Senatus, P., Zurek, S., &amp; Deogaonkar, M. (2020). Deep brain stimulation and motor
-        cortex stimulation for chronic pain. <emphasis effect="italics">Neurology India</emphasis>, <emphasis effect="italics">68</emphasis>(Supplement), S235–S240.
-        https://doi.org/10.4103/0028-3886.302471</para>
-      <para id="para-00030">Stockings, E., Campbell, G., Hall, W. D., Nielsen, S., Zagic, D., Rahman, R., Murnion,
-        B., Farrell, M., Weier, M., &amp; Degenhardt, L. (2018). Cannabis and cannabinoids for the
-        treatment of people with chronic noncancer pain conditions: A systematic review and
-        meta-analysis of controlled and observational studies. <emphasis effect="italics">Pain</emphasis>
-        , <emphasis effect="italics">159</emphasis>(10), 1932–1954.
-        https://doi.org/10.1097/j.pain.0000000000001293</para>
-      <para id="para-00031">Sun, L., Peng, C., Joosten, E., Cheung, C. W., Tan, F., Jiang, W., &amp; Shen, X.
-        (2021). Spinal cord stimulation and treatment of peripheral or central neuropathic pain:
-        Mechanisms and clinical application. <emphasis effect="italics">Neural Plasticity</emphasis>
-        , <emphasis effect="italics">2021</emphasis>, 5607898. https://doi.org/10.1155/2021/5607898</para>
-      <para id="para-00032">Tan, L. L., &amp; Kuner, R. (2021). Neocortical circuits in pain and pain relief. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">22</emphasis>(8),
-        458–471. https://doi.org/10.1038/s41583-021-00468-2</para>
-      <para id="para-00033">Vase, L., &amp; Wartolowska, K. (2019). Pain, placebo, and test of treatment efficacy: A
-        narrative review. <emphasis effect="italics">British Journal of Anaesthesia</emphasis>, <emphasis effect="italics">123</emphasis>(2), e254–e262. https://doi.org/10.1016/j.bja.2019.01.040</para>
-      <para id="para-00034">Wager, T. D., &amp; Atlas, L. Y. (2015). The neuroscience of placebo effects: Connecting
-        context, learning and health. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>
-        , <emphasis effect="italics">16</emphasis>(7), 403–418. https://doi.org/10.1038/nrn3976</para>
-      <para id="para-00035">Whiting, P. F., Wolff, R. F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A. V.,
-        Keurentjes, J. C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M., &amp;
-        Kleijnen, J. (2015). Cannabinoids for medical use: A systematic review and meta-analysis. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">313</emphasis>(24),
-        2456–2473. https://doi.org/10.1001/jama.2015.6358</para>
-      <para id="para-00036">Zang, Y., Zhang, Y., Lai, X., Yang, Y., Guo, J., Gu, S., &amp; Zhu, Y. (2021).
-        Repetitive transcranial magnetic stimulation for neuropathic pain on the non-motor cortex:
-        An evidence mapping of systematic reviews. <emphasis effect="italics">Evidence-Based
-        Complementary and Alternative Medicine: eCAM</emphasis>, <emphasis effect="italics">2021</emphasis>,
-        3671800. https://doi.org/10.1155/2021/3671800</para>
+      <para id="para-00001">Atakan, Z. (2012). Cannabis, a complex plant: Different compounds and different effects on individuals. <emphasis effect="italics">Therapeutic Advances in Psychopharmacology</emphasis> , <emphasis effect="italics">2</emphasis>(6), 241–254. https://doi.org/10.1177/2045125312457586</para>
+      <para id="para-00002">Bagley, E. E., &amp; Ingram, S. L. (2020). Endogenous opioid peptides in the descending pain modulatory circuit. <emphasis effect="italics">Neuropharmacology</emphasis>, <emphasis effect="italics">173</emphasis>, 108131. https://doi.org/10.1016/j.neuropharm.2020.108131</para>
+      <para id="para-00003">Bouchet, C. A., &amp; Ingram, S. L. (2020). Cannabinoids in the descending pain modulatory circuit: Role in inflammation. <emphasis effect="italics">Pharmacology &amp; Therapeutics</emphasis>, <emphasis effect="italics">209</emphasis>, 107495. https://doi.org/10.1016/j.pharmthera.2020.107495</para>
+      <para id="para-00004">Corder, G., Castro, D. C., Bruchas, M. R., &amp; Scherrer, G. (2018). Endogenous and exogenous opioids in pain. <emphasis effect="italics">Annual Review of Neuroscience</emphasis> , <emphasis effect="italics">41</emphasis>, 453–473. https://doi.org/10.1146/annurev-neuro-080317-061522</para>
+      <para id="para-00005">Finn, D. P., Haroutounian, S., Hohmann, A. G., Krane, E., Soliman, N., &amp; Rice, A. S. C. (2021). Cannabinoids, the endocannabinoid system, and pain: A review of preclinical studies. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">162</emphasis>(Suppl 1), S5–S25. https://doi.org/10.1097/j.pain.0000000000002268</para>
+      <para id="para-00006">Fontaine, D. (2021). Spinal cord stimulation for neuropathic pain. <emphasis effect="italics">Revue Neurologique</emphasis>, <emphasis effect="italics">177</emphasis>(7), 838–842. https://doi.org/10.1016/j.neurol.2021.07.014</para>
+      <para id="para-00007">Gatchel, R. J., Peng, Y. B., Peters, M. L., Fuchs, P. N., &amp; Turk, D. C. (2007). The biopsychosocial approach to chronic pain: Scientific advances and future directions. <emphasis effect="italics">Psychological Bulletin</emphasis>, <emphasis effect="italics">133</emphasis>(4), 581–624. https://doi.org/10.1037/0033-2909.133.4.581</para>
+      <para id="para-00008">Gatzinsky, K., Bergh, C., Liljegren, A., Silander, H., Samuelsson, J., Svanberg, T., &amp; Samuelsson, O. (2020). Repetitive transcranial magnetic stimulation of the primary motor cortex in management of chronic neuropathic pain: A systematic review. <emphasis effect="italics">Scandinavian Journal of Pain</emphasis>, <emphasis effect="italics">21</emphasis>(1), 8–21. https://doi.org/10.1515/sjpain-2020-0054</para>
+      <para id="para-00009">Hill, K. P., Palastro, M. D., Johnson, B., &amp; Ditre, J. W. (2017). Cannabis and pain: A clinical review. <emphasis effect="italics">Cannabis and Cannabinoid Research</emphasis>, <emphasis effect="italics">2</emphasis>(1), 96–104. https://doi.org/10.1089/can.2017.0017</para>
+      <para id="para-00010">Hofmann, S. G., Asnaani, A., Vonk, I. J., Sawyer, A. T., &amp; Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. <emphasis effect="italics">Cognitive Therapy and Research</emphasis>, <emphasis effect="italics">36</emphasis>(5), 427–440. https://doi.org/10.1007/s10608-012-9476-1</para>
+      <para id="para-00011">Hussein, A. E., Esfahani, D. R., Moisak, G. I., Rzaev, J. A., &amp; Slavin, K. V. (2018). Motor cortex stimulation for deafferentation pain. <emphasis effect="italics">Current Pain and Headache Reports</emphasis>, <emphasis effect="italics">22</emphasis>(6), 45. https://doi.org/10.1007/s11916-018-0697-1</para>
+      <para id="para-00012">Klinger, R., Colloca, L., Bingel, U., &amp; Flor, H. (2014). Placebo analgesia: Clinical applications. <emphasis effect="italics">Pain</emphasis>, <emphasis effect="italics">155</emphasis>(6), 1055–1058. https://doi.org/10.1016/j.pain.2013.12.007</para>
+      <para id="para-00013">Klinger, R., Stuhlreyer, J., Schwartz, M., Schmitz, J., &amp; Colloca, L. (2018). Clinical use of placebo effects in patients with pain disorders. <emphasis effect="italics">International Review of Neurobiology</emphasis>, <emphasis effect="italics">139</emphasis>, 107–128. https://doi.org/10.1016/bs.irn.2018.07.015</para>
+      <para id="para-00014">Knotkova, H., Hamani, C., Sivanesan, E., Le Beuffe, M. F. E., Moon, J. Y., Cohen, S. P., &amp; Huntoon, M. A. (2021). Neuromodulation for chronic pain. <emphasis effect="italics">Lancet (London, England)</emphasis>, <emphasis effect="italics">397</emphasis>(10289), 2111–2124. https://doi.org/10.1016/S0140-6736(21)00794-7</para>
+      <para id="para-00015">Lefaucheur, J. P. (2017). The complex relationship between pain and motor cortex. <emphasis effect="italics">Brain Stimulation</emphasis>, <emphasis effect="italics">10</emphasis>(2), 382. https://doi.org/10.1016/j.brs.2017.01.130</para>
+      <para id="para-00016">Lossignol, D. (2019). Cannabinoids: A new approach for pain control?. <emphasis effect="italics">Current Opinion in Oncology</emphasis>, <emphasis effect="italics">31</emphasis>(4), 275–279. https://doi.org/10.1097/CCO.0000000000000523</para>
+      <para id="para-00017">McCracken, L. M., &amp; Turk, D. C. (2002). Behavioral and cognitive-behavioral treatment for chronic pain: Outcome, predictors of outcome, and treatment process. <emphasis effect="italics">Spine</emphasis>, <emphasis effect="italics">27</emphasis>(22), 2564–2573. https://doi.org/10.1097/00007632-200211150-00033</para>
+      <para id="para-00018">Melzack, R. (2001). Pain and the neuromatrix in the brain. <emphasis effect="italics">Journal of Dental Education</emphasis>, <emphasis effect="italics">65</emphasis>(12), 1378–1382.</para>
+      <para id="para-00019">Melzack, R. (2005). Evolution of the neuromatrix theory of pain. The Prithvi Raj Lecture: Presented at the third World Congress of World Institute of Pain, Barcelona 2004. <emphasis effect="italics">Pain Practice: The Official Journal of World Institute of Pain</emphasis> , <emphasis effect="italics">5</emphasis>(2), 85–94. https://doi.org/10.1111/j.1533-2500.2005.05203.x</para>
+      <para id="para-00020">Mundt, J. M., Roditi, D., &amp; Robinson, M. E. (2017). A comparison of deceptive and non-deceptive placebo analgesia: Efficacy and ethical consequences. <emphasis effect="italics">Annals of Behavioral Medicine: A Publication of the Society of Behavioral Medicine</emphasis>, <emphasis effect="italics">51</emphasis>(2), 307–315. https://doi.org/10.1007/s12160-016-9854-0</para>
+      <para id="para-00021">Nüssel, M., Hamperl, M., Maslarova, A., Chaudhry, S. R., Köhn, J., Stadlbauer, A., Buchfelder, M., &amp; Kinfe, T. (2021). Burst motor cortex stimulation evokes sustained suppression of thalamic stroke pain: A narrative review and single-case overview. <emphasis effect="italics">Pain and Therapy</emphasis>, <emphasis effect="italics">10</emphasis>(1), 101–114. https://doi.org/10.1007/s40122-020-00221-0</para>
+      <para id="para-00022">Peng, Y. B., Ling, Q. D., Ruda, M. A., &amp; Kenshalo, D. R. (2003). Electrophysiological changes in adult rat dorsal horn neurons after neonatal peripheral inflammation. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">90</emphasis>(1), 73–80. https://doi.org/10.1152/jn.01019.2002</para>
+      <para id="para-00023">Ramos-Fresnedo, A., Perez-Vega, C., Domingo, R. A., Cheshire, W. P., Middlebrooks, E. H., &amp; Grewal, S. S. (2022). Motor cortex stimulation for pain: A narrative review of indications, techniques, and outcomes. <emphasis effect="italics">Neuromodulation: Journal of the International Neuromodulation Society</emphasis>, <emphasis effect="italics">25</emphasis>(2), 211–221. https://doi.org/10.1016/j.neurom.2021.10.025</para>
+      <para id="para-00024">Rock, A. K., Truong, H., Park, Y. L., &amp; Pilitsis, J. G. (2019). Spinal cord stimulation. <emphasis effect="italics">Neurosurgery Clinics of North America</emphasis>, <emphasis effect="italics">30</emphasis>(2), 169–194. https://doi.org/10.1016/j.nec.2018.12.003</para>
+      <para id="para-00025">Ruda, M. A., Ling, Q. D., Hohmann, A. G., Peng, Y. B., &amp; Tachibana, T. (2000). Altered nociceptive neuronal circuits after neonatal peripheral inflammation. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">289</emphasis>(5479), 628–631. https://doi.org/10.1126/science.289.5479.628</para>
+      <para id="para-00026">Schafer, S. M., Geuter, S., &amp; Wager, T. D. (2018). Mechanisms of placebo analgesia: A dual-process model informed by insights from cross-species comparisons. <emphasis effect="italics">Progress in Neurobiology</emphasis>, <emphasis effect="italics">160</emphasis>, 101–122. https://doi.org/10.1016/j.pneurobio.2017.10.008</para>
+      <para id="para-00027">Schmidt, G. L. (2019). The use of spinal cord stimulation/neuromodulation in the management of chronic pain. <emphasis effect="italics">The Journal of the American Academy of Orthopaedic Surgeons</emphasis>, <emphasis effect="italics">27</emphasis>(9), e401–e407. https://doi.org/10.5435/JAAOS-D-17-00829</para>
+      <para id="para-00028">Sdrulla, A. D., Guan, Y., &amp; Raja, S. N. (2018). Spinal cord stimulation: Clinical efficacy and potential mechanisms. <emphasis effect="italics">Pain Practice: The Official Journal of World Institute of Pain</emphasis>, <emphasis effect="italics">18</emphasis>(8), 1048–1067. https://doi.org/10.1111/papr.12692</para>
+      <para id="para-00029">Senatus, P., Zurek, S., &amp; Deogaonkar, M. (2020). Deep brain stimulation and motor cortex stimulation for chronic pain. <emphasis effect="italics">Neurology India</emphasis>, <emphasis effect="italics">68</emphasis>(Supplement), S235–S240. https://doi.org/10.4103/0028-3886.302471</para>
+      <para id="para-00030">Stockings, E., Campbell, G., Hall, W. D., Nielsen, S., Zagic, D., Rahman, R., Murnion, B., Farrell, M., Weier, M., &amp; Degenhardt, L. (2018). Cannabis and cannabinoids for the treatment of people with chronic noncancer pain conditions: A systematic review and meta-analysis of controlled and observational studies. <emphasis effect="italics">Pain</emphasis> , <emphasis effect="italics">159</emphasis>(10), 1932–1954. https://doi.org/10.1097/j.pain.0000000000001293</para>
+      <para id="para-00031">Sun, L., Peng, C., Joosten, E., Cheung, C. W., Tan, F., Jiang, W., &amp; Shen, X. (2021). Spinal cord stimulation and treatment of peripheral or central neuropathic pain: Mechanisms and clinical application. <emphasis effect="italics">Neural Plasticity</emphasis> , <emphasis effect="italics">2021</emphasis>, 5607898. https://doi.org/10.1155/2021/5607898</para>
+      <para id="para-00032">Tan, L. L., &amp; Kuner, R. (2021). Neocortical circuits in pain and pain relief. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">22</emphasis>(8), 458–471. https://doi.org/10.1038/s41583-021-00468-2</para>
+      <para id="para-00033">Vase, L., &amp; Wartolowska, K. (2019). Pain, placebo, and test of treatment efficacy: A narrative review. <emphasis effect="italics">British Journal of Anaesthesia</emphasis>, <emphasis effect="italics">123</emphasis>(2), e254–e262. https://doi.org/10.1016/j.bja.2019.01.040</para>
+      <para id="para-00034">Wager, T. D., &amp; Atlas, L. Y. (2015). The neuroscience of placebo effects: Connecting context, learning and health. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis> , <emphasis effect="italics">16</emphasis>(7), 403–418. https://doi.org/10.1038/nrn3976</para>
+      <para id="para-00035">Whiting, P. F., Wolff, R. F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A. V., Keurentjes, J. C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M., &amp; Kleijnen, J. (2015). Cannabinoids for medical use: A systematic review and meta-analysis. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">313</emphasis>(24), 2456–2473. https://doi.org/10.1001/jama.2015.6358</para>
+      <para id="para-00036">Zang, Y., Zhang, Y., Lai, X., Yang, Y., Guo, J., Gu, S., &amp; Zhu, Y. (2021). Repetitive transcranial magnetic stimulation for neuropathic pain on the non-motor cortex: An evidence mapping of systematic reviews. <emphasis effect="italics">Evidence-Based Complementary and Alternative Medicine: eCAM</emphasis>, <emphasis effect="italics">2021</emphasis>, 3671800. https://doi.org/10.1155/2021/3671800</para>
 
     </section>
     <section class="multiple-choice" id="sect-00012">
@@ -539,7 +240,7 @@
 
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-09-04-029"/></para>
+          <para id="para-00067"><link class="os-embed" url="#exercise/Neuro-09-04-029" /></para>
         </problem>
       </exercise>
     </section>
@@ -547,7 +248,7 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-006"/></para>
+          <para id="para-00068"><link class="os-embed" url="#exercise/Neuro-09-04-006" /></para>
         </problem>
       </exercise>
     </section>

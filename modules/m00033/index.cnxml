@@ -9,70 +9,80 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Explain the concept of homology.</item>
-          <item>Articulate differences in structural organization of the telencephalon of birds and mammals.</item>
-          <item>Explain two opposing views to define homologies across the vertebrate telencephalon.</item></list>
+      <list id="list-00001">
+        <item>Explain the concept of homology.</item>
+        <item>Articulate differences in structural organization of the telencephalon of birds and mammals.</item>
+        <item>Explain two opposing views to define homologies across the vertebrate telencephalon.</item>
+      </list>
     </section>
-    <para id="para-00002">There are several challenges in comparing the nervous systems of different species. As is evident from <link target-id="Image-4.06"/>, brain structures are highly diverse.</para>
-    <figure id="Image-4.06"><title>Diversity of brains</title>
+    <para id="para-00002">There are several challenges in comparing the nervous systems of different species. As is evident from <link target-id="Image-4.06" />, brain structures are highly diverse.</para>
+    <figure id="Image-4.06">
+      <title>Diversity of brains</title>
       <media alt="An array of photos of mammalian brains posied at the ends of a phylogentic tree representing the evolutionary relationships of the species. Brains have many different sizes. Some have sulci/gyri while others are smooth.">
-        <image mime-type="image/png" src="../../media/Image-4.06_Diversity-of-brains.png"/>
+        <image mime-type="image/png" src="../../media/Image-4.06_Diversity-of-brains.png" />
       </media>
-    <caption>Image credit: Herculano-Houzel, Suzana (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. PNAS 109 (Supplement 1) 10661-10668. Reproduced with permission.</caption>
+      <caption>Image credit: Herculano-Houzel, Suzana (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. PNAS 109 (Supplement 1) 10661-10668. Reproduced with permission.</caption>
     </figure>
-    
+
     <para id="para-00003">Comparative neuroscientists use the concept of <term id="term-00001">homology</term> to compare neural structures across species. Homology is a fundamental concept in comparative neuroscience and in biology generally. We will provide examples below. It is the term used to describe structures or organs that evolved from a shared ancestor. Identifying homologous structures may seem easy, especially when considering two closely related species where brain regions appear similar, as is the case in humans and chimpanzees. However, identifying equivalent brain regions becomes increasingly challenging in distantly related species because they share relatively few structural and genetic similarities. In those species that are distantly related, homologies can be controversial.</para>
-    
-    <section id="sect-00002"><title>Comparing neural structures</title><para id="para-00004">In this section, we discuss homology and how it is used to compare neural structures in different species. As mentioned above, homologous structures share an evolutionary ancestry. Organ systems can be considered homologous regardless as to their function. One well known example concerns the mammalian forelimbs, which are homologous across mammals. These structures are considered homologous across species because they have similar patterns in bone structure, which reflect their shared ancestry. Yet, forelimbs take on many functions. For example, bats have evolved wings to fly, whales have evolved fins to swim, and horses have long hoofed legs to walk and gallop. Although forelimbs support different functions in different animals, forelimbs are homologous across mammals because the anatomical structures that make up forelimbs are recognizable across mammals and arise from a common ancestor.</para>
-    
-    <para id="para-00005">Comparative neuroscience typically relies on identifying corresponding brain parts across species. Major anatomical divisions and brain nuclei are considered homologous if these structures emerge from shared ancestry (i.e., homology). While this concept might appear relatively straightforward at first, identifying corresponding brain parts becomes a thorny problem when applied to distantly related species (Striedter, 2005). Scientists seeking to define homologous structures search for shared similarities in traits present in the last common ancestor. But which similarities they focus on can vary. Homologous characters may be neuroanatomical features (e.g., connectivity patterns) or genes expressed by different cell populations in adulthood, but they can also be based on developmental processes such as spatiotemporal patterns of gene expression. Importantly, focusing on developmental or adult phenotypes as a basis for homology can yield different conclusions (Medina and Reiner, 2000; Briscoe, 2019).</para>
-    
-    <para id="para-00006">In the next section, we will discuss the issue of defining homologies across the brains of birds and mammals as one controversial example. We will discuss how the use of different characters to define homologous structures may lead to different conclusions. We will also discuss this challenging case because it is the investigation of challenging cases that deepens our understanding of homology.</para>
+
+    <section id="sect-00002">
+      <title>Comparing neural structures</title>
+      <para id="para-00004">In this section, we discuss homology and how it is used to compare neural structures in different species. As mentioned above, homologous structures share an evolutionary ancestry. Organ systems can be considered homologous regardless as to their function. One well known example concerns the mammalian forelimbs, which are homologous across mammals. These structures are considered homologous across species because they have similar patterns in bone structure, which reflect their shared ancestry. Yet, forelimbs take on many functions. For example, bats have evolved wings to fly, whales have evolved fins to swim, and horses have long hoofed legs to walk and gallop. Although forelimbs support different functions in different animals, forelimbs are homologous across mammals because the anatomical structures that make up forelimbs are recognizable across mammals and arise from a common ancestor.</para>
+
+      <para id="para-00005">Comparative neuroscience typically relies on identifying corresponding brain parts across species. Major anatomical divisions and brain nuclei are considered homologous if these structures emerge from shared ancestry (i.e., homology). While this concept might appear relatively straightforward at first, identifying corresponding brain parts becomes a thorny problem when applied to distantly related species (Striedter, 2005). Scientists seeking to define homologous structures search for shared similarities in traits present in the last common ancestor. But which similarities they focus on can vary. Homologous characters may be neuroanatomical features (e.g., connectivity patterns) or genes expressed by different cell populations in adulthood, but they can also be based on developmental processes such as spatiotemporal patterns of gene expression. Importantly, focusing on developmental or adult phenotypes as a basis for homology can yield different conclusions (Medina and Reiner, 2000; Briscoe, 2019).</para>
+
+      <para id="para-00006">In the next section, we will discuss the issue of defining homologies across the brains of birds and mammals as one controversial example. We will discuss how the use of different characters to define homologous structures may lead to different conclusions. We will also discuss this challenging case because it is the investigation of challenging cases that deepens our understanding of homology.</para>
     </section>
-    
-    <section id="sect-00003"><title>Marked differences in anatomical organization between birds and mammals</title><para id="para-00007">As discussed previously, the brain is typically divided into three major regions that can be defined early in development. These are the forebrain, midbrain, and hindbrain. The forebrain is composed of the telencephalon and diencephalon. The <term id="term-00002">telencephalon</term> includes the <term id="term-00007">cerebral cortex</term> and several subcortical structures (e.g., basal ganglia, amygdala, hippocampus) (see <link document="m00026">Structure and function of the nervous system</link>). In some species, the cerebral cortex makes up much of the telencephalon. We first discuss the basic features of the mammalian telencephalon before discussing how this basic organization of the mammalian telencephalon differs from that of birds.</para>
-    
-    <para id="para-00008">The mammalian cerebral cortex consists of grey and white matter (see <link document="m00026">Structure and function of the nervous system</link>). The <term id="term-00003">grey matter</term> largely contains cell bodies of neurons and glial cells. The <term id="term-00004">white matter</term> contains glial cells and axons coursing within and across cortical and subcortical structures. In the white matter, many of these axons are surrounded by a fatty sheath called myelin. It is myelin that gives the white matter its white color. In mammals, there is a clear distinction between the white and grey matter with cell bodies of neurons separated from the white matter, which consists of axons. The top half of <link target-id="Image-4.21"/> show this segregated organization in a human and a mouse brain, on the left and right respectively.</para>
-          <figure id="Image-4.21"><title>White and gray matter in birds and mammals</title>
+
+    <section id="sect-00003">
+      <title>Marked differences in anatomical organization between birds and mammals</title>
+      <para id="para-00007">As discussed previously, the brain is typically divided into three major regions that can be defined early in development. These are the forebrain, midbrain, and hindbrain. The forebrain is composed of the telencephalon and diencephalon. The <term id="term-00002">telencephalon</term> includes the <term id="term-00007">cerebral cortex</term> and several subcortical structures (e.g., basal ganglia, amygdala, hippocampus) (see <link document="m00026">Structure and function of the nervous system</link>). In some species, the cerebral cortex makes up much of the telencephalon. We first discuss the basic features of the mammalian telencephalon before discussing how this basic organization of the mammalian telencephalon differs from that of birds.</para>
+
+      <para id="para-00008">The mammalian cerebral cortex consists of grey and white matter (see <link document="m00026">Structure and function of the nervous system</link>). The <term id="term-00003">grey matter</term> largely contains cell bodies of neurons and glial cells. The <term id="term-00004">white matter</term> contains glial cells and axons coursing within and across cortical and subcortical structures. In the white matter, many of these axons are surrounded by a fatty sheath called myelin. It is myelin that gives the white matter its white color. In mammals, there is a clear distinction between the white and grey matter with cell bodies of neurons separated from the white matter, which consists of axons. The top half of <link target-id="Image-4.21" /> show this segregated organization in a human and a mouse brain, on the left and right respectively.</para>
+      <figure id="Image-4.21">
+        <title>White and gray matter in birds and mammals</title>
         <media alt="Three part image. 1) Microscopy image of a one half of a human brain coronal slice with a blue stain that shows dense staining at the edges and center of the tissue and with more light tissue between the dark layers. It is paired with an image where the white matter in the middle is highlighted in green. 2) Microscopy image of a one half of a mouse brain coronal slice with a purple stain that shows dense staining at the edges and center of the tissue and with more light tissue between the dark layers. It is paired with an image where the white matter is highlighted in green. 3) Microscopy image of a one half of a bird brain sagittal slice with a purple stain that diffuse purple stain throughout the slice, with no distinct regions of gray and white matter.">
-          <image mime-type="image/png" src="../../media/Image-4.21_White-and-gray-matter-in-birds-and-mammals.png"/>
+          <image mime-type="image/png" src="../../media/Image-4.21_White-and-gray-matter-in-birds-and-mammals.png" />
         </media>
-      <caption>Image credit: Mouse and human brain slices from Allen Brain Atlas.https://atlas.brain-map.org/. Zebrafinch brain slice from zebrafinchatlas.org</caption>
+        <caption>Image credit: Mouse and human brain slices from Allen Brain Atlas.https://atlas.brain-map.org/. Zebrafinch brain slice from zebrafinchatlas.org</caption>
       </figure>
-    <para id="para-00009">The grey matter also has a specific organization of interest. The mammalian cerebral cortex grey matter is typically organized into six <term id="term-00008">layers</term> (layers I-VI), shown in a mouse brain on the left side of <link target-id="Image-4.23"/>. Each cortical layer has a characteristic distribution of neuronal and glial populations with each layer possessing stereotypical patterns of efferent (outgoing) and afferent (incoming) projections.</para>
-    
-      <figure id="Image-4.23"><title>Cortical cell organization in birds vs mammals</title>
+      <para id="para-00009">The grey matter also has a specific organization of interest. The mammalian cerebral cortex grey matter is typically organized into six <term id="term-00008">layers</term> (layers I-VI), shown in a mouse brain on the left side of <link target-id="Image-4.23" />. Each cortical layer has a characteristic distribution of neuronal and glial populations with each layer possessing stereotypical patterns of efferent (outgoing) and afferent (incoming) projections.</para>
+
+      <figure id="Image-4.23">
+        <title>Cortical cell organization in birds vs mammals</title>
         <media alt="Four-part image. 1) Microscopy image of mouse cortex labeled with purple Nissl-stained cell bodies stain to show several, distinct layers of cells. 2) Microscopy image of zebrafinch cortex labeled with purple Nissl-stained cell bodies stain to show nuclei (large curved regions) rather than layers. 3) A microcopy image of an entire sagittal slice of mouse brain with labels for motor cortex, somatosensory cortex and visual cortex going from rostral to caudal on the dorsal surface. Striatum is labeled underneath cortex. 4) A microcopy image of an entire sagittal slice of zebrafinch brain with labels for hyperpallium (visual), mesopallium (auditory), nidopallium (somatosensory) and striatum, arranged from rostral to caudal through the entire hemisphere.">
-          <image mime-type="image/png" src="../../media/Image-4.23_Cortical-cell-organization-in-birds-vs-mammals.png"/>
+          <image mime-type="image/png" src="../../media/Image-4.23_Cortical-cell-organization-in-birds-vs-mammals.png" />
         </media>
-      <caption>Image credit: Mouse brain images from Allen Brain Atlas. https://atlas.brain-map.org/ Zebrafinch brain images from zebrafinchatlas.org</caption>
+        <caption>Image credit: Mouse brain images from Allen Brain Atlas. https://atlas.brain-map.org/ Zebrafinch brain images from zebrafinchatlas.org</caption>
       </figure>
 
-    <para id="para-00010">The basic organization of the mammalian cerebral cortex stands in sharp contrast to the structural organization of the avian telencephalon. At first glance, the telencephalon of birds appears drastically different from mammals. First, whereas the mammalian cerebral cortex consists of grey and white matter, there is no such distinction between grey versus white matter in the avian telencephalon, shown on the bottom of <link target-id="Image-4.21"/>. Rather, the axons of bird brains course through cell bodies with no segregation between cell bodies and axons. Second, whereas the mammalian cerebral cortex is organized into layers, neurons and glial cells in birds are primarily clustered into <term id="term-00009">nuclei</term>, shown on the right side of <link target-id="Image-4.23"/>.</para>
-    
-    <para id="para-00011">The nomenclature to define regions of the avian telencephalon are also distinct from those used in mammals. The avian telencephalon is subdivided into the striatum, and the hyper, meso, and nidopallium. The meso- and nidopallium are organized into nuclei whereas the dorsal pallium has a layered organization, but only consists of at most three layers. These major differences in anatomical structures have contributed to challenges in defining homologies across the telencephalon of birds and mammals.</para>
-    
-    <para id="para-00012">The differences in structural organization between birds and mammals are accompanied by differences in connectivity patterns, which further complicates the search for homologies. The hyper, meso, and nidopallium of the bird cortex receive input from the thalamus and process sensory information, including visual, somatosensory and auditory information. For example, the hyperpallium receives extensive visual input and the nidopallium processes somatosensory information. In mammals, in contrast, these kinds of sensory inputs project primarily to layer IV neurons spread along the cortical surface. The bottom of <link target-id="Image-4.23"/> exemplifies these two organizations.</para>
-    
-    <para id="para-00013">Some researchers have used connectivity patterns as a tool to define homologies, but others have used other criteria to define homologous structures across the telencephalon of birds and mammals. Depending on what criteria a researcher uses, they can come up with completely different ideas of which structures are homologous in birds and mammals. In the next section, we will learn more about one specific area of uncertainty in this field.</para>
+      <para id="para-00010">The basic organization of the mammalian cerebral cortex stands in sharp contrast to the structural organization of the avian telencephalon. At first glance, the telencephalon of birds appears drastically different from mammals. First, whereas the mammalian cerebral cortex consists of grey and white matter, there is no such distinction between grey versus white matter in the avian telencephalon, shown on the bottom of <link target-id="Image-4.21" />. Rather, the axons of bird brains course through cell bodies with no segregation between cell bodies and axons. Second, whereas the mammalian cerebral cortex is organized into layers, neurons and glial cells in birds are primarily clustered into <term id="term-00009">nuclei</term>, shown on the right side of <link target-id="Image-4.23" />.</para>
+
+      <para id="para-00011">The nomenclature to define regions of the avian telencephalon are also distinct from those used in mammals. The avian telencephalon is subdivided into the striatum, and the hyper, meso, and nidopallium. The meso- and nidopallium are organized into nuclei whereas the dorsal pallium has a layered organization, but only consists of at most three layers. These major differences in anatomical structures have contributed to challenges in defining homologies across the telencephalon of birds and mammals.</para>
+
+      <para id="para-00012">The differences in structural organization between birds and mammals are accompanied by differences in connectivity patterns, which further complicates the search for homologies. The hyper, meso, and nidopallium of the bird cortex receive input from the thalamus and process sensory information, including visual, somatosensory and auditory information. For example, the hyperpallium receives extensive visual input and the nidopallium processes somatosensory information. In mammals, in contrast, these kinds of sensory inputs project primarily to layer IV neurons spread along the cortical surface. The bottom of <link target-id="Image-4.23" /> exemplifies these two organizations.</para>
+
+      <para id="para-00013">Some researchers have used connectivity patterns as a tool to define homologies, but others have used other criteria to define homologous structures across the telencephalon of birds and mammals. Depending on what criteria a researcher uses, they can come up with completely different ideas of which structures are homologous in birds and mammals. In the next section, we will learn more about one specific area of uncertainty in this field.</para>
     </section>
-    
-    <section id="sect-00004"><title>Definition and challenges: comparing bird brains to those of mammals</title>
-    <para id="para-00014">In this section, we detail conflicting definitions of homologous structures across the mammalian telencephalic structures in birds. Two opposing hypotheses in this debate are illustrated in <link target-id="Image-4.05"/>. As we will see below, some of the conflicting views here arise depending on which scale of investigation a researcher uses. Recall that scale refers to the biological level of organization. Here, we will see conflicting results between what the macro-scale (connectivity) suggests are homologous structures in birds and mammals and what the micro-scale (developmental gene expression) suggests are homologous structures.</para>
-    <figure id="Image-4.05"><title>Bird vs mammalian telencephalon</title>
-      <media alt="Diagram of a mouse brain coronal slice and bird brain coronal slice. In one half of the diagram (claustroamygdala-DVR hypothesis), the avian DVR and hyperpallium are colored coded to indicate that they are homologous to the mammalian claustroamygdalar complex (C-A), and isocortex, respectively. In the other half of the diagram (the isocortex-DVR hypothesis), the avian DVR and hyperpallium are color coded to indicate that they are both homologous to the mammalian isocortex.">
-        <image mime-type="image/png" src="../../media/Image-4.05_Bird-vs-mammalian-telencephalon.png"/>
-      </media>
-    <caption>Image credit: Image and box text inspired by Faunes M, Francisco Botelho J, Ahumada Galleguillos P and Mpodozis J (2015) On the hodological criterion for homology. Front. Neurosci. 9:223. doi: 10.3389/fnins.2015.00223. CC BY.</caption>
-    </figure>    
-    <para id="para-00015"><title><emphasis>Perspective from connections</emphasis>:</title> Some researchers have focused especially on patterns of afferent and efferent projections in the avian pallium to define homologous structures between the avian and mammalian telencephalon (Karten, 1991). As we discussed above, in mammals, much of the cerebral cortex consists of primary cortical areas that receive extensive thalamic input and process sensory information. Those areas include the primary visual cortex, the primary somatosensory cortex, and the primary auditory cortex (see <link document="m00006">Touch and Pain</link>, <link document="m00087">Vision</link>, and <link document="m00001">Hearing and Balance</link>). The avian dorsal ventricular ridge (DVR) contains discrete nuclei (including those of the mesopallium and nidopallium) that receive extensive thalamic input (Butler, 1995; Butler et al., 2000). Researchers have used these insights to argue that the dorsal ventricular ridge of birds is homologous to the mammalian cerebral cortex. This is known as the <term id="term-00005">isocortex-DVR hypothesis</term>.</para>
-    
-    <para id="para-00016"><title><emphasis>Perspective from development</emphasis>:</title>  Other researchers have reminded the community that homologous structures can take on different functions across species. That is, homology between structures arises from shared ancestry, which may or may not serve the same function across species. Think back to how bat wings fly, whale fins swim, etc. In this case, we are not looking at function. Rather, we are considering the evolutionary origins of populations of cells, an area called <term id="term-00010">field homology</term>. Field homology refers to populations of cells that derive from evolutionary conserved regions but may be populated across diverse morphological structures. Indeed, there are a number of cases where cells are generated in one location and migrate over long distances in the central nervous system (Corbin et al., 2001). Many researchers focus on developmental field homologies to define homologous cell populations. Typically, looking at developmental fields means that researchers focus on transcriptional (gene expression) landscapes in the embryo as a basis for defining homologies. These fields thus represent the basic units for comparisons.</para>
-    
-    <para id="para-00017">To better understand what we mean when we say we are defining a developmental field, let’s consider transcriptionally defined subdivisions as it applies to defining the homologous structure for the bird DVR in mammals. In this case, researchers have used a combination of genes to transcriptionally define fields (populations of cells that are similar to each other) and define comparable brain regions across species. For example, there are several genes, including Pax6, Tbr1, Nkx-2.1, and Dlx-2 that are expressed in specific locations during development. These genes are expressed in clusters of cells and can be used to define homologous areas because we know of their migratory patterns so we know where they will end up in adulthood. Evaluating spatiotemporal patterns of gene expression during development has been used to argue that the precursors in the DVR give rise to the amygdala in mammals and give rise to nido- and mesopallium in birds (Puelles et al., 2002). Therefore, large regions of the avian telencephalon that might be considered homologous to the cerebral cortex in mammals based on adult connectivity could be considered homologous to the mammalian amygdala when considered based on developmental fields (Striedter, 1994). In this case, consideration of homology based on developmental fields is called the <term id="term-00006">claustroamygdala-DVR hypothesis</term>, which stipulates that mammalian homologues of the DVR consist of the claustrum, endopiriform nuclei, and amygdala (Butler et al., 2012).</para>
-    
-    <para id="para-00018">Defining homologous structures between species is a crucial effort, as this effort forms the foundation for any comparison between species. We have focused on developmental processes and connectivity patterns as two different ways to identify homologous structures. Researchers who focus on adult patterns of connectivity consider the lateral and ventral pallium to be homologous to the mammalian cortex because the lateral and ventral pallium of birds and the cortex of mammals both receive inputs from sensory thalamus. Researchers who focus on gene expression from a developmental perspective place an emphasis on developmental patterns. In contrast, other researchers may support the notion that the meso and nidopallium in birds are homologous to the mammalian amygdala. This challenging case illustrates the difficulty in defining which features are relevant and should be used as a basis to compare highly divergent brains.</para>
+
+    <section id="sect-00004">
+      <title>Definition and challenges: comparing bird brains to those of mammals</title>
+      <para id="para-00014">In this section, we detail conflicting definitions of homologous structures across the mammalian telencephalic structures in birds. Two opposing hypotheses in this debate are illustrated in <link target-id="Image-4.05" />. As we will see below, some of the conflicting views here arise depending on which scale of investigation a researcher uses. Recall that scale refers to the biological level of organization. Here, we will see conflicting results between what the macro-scale (connectivity) suggests are homologous structures in birds and mammals and what the micro-scale (developmental gene expression) suggests are homologous structures.</para>
+      <figure id="Image-4.05">
+        <title>Bird vs mammalian telencephalon</title>
+        <media alt="Diagram of a mouse brain coronal slice and bird brain coronal slice. In one half of the diagram (claustroamygdala-DVR hypothesis), the avian DVR and hyperpallium are colored coded to indicate that they are homologous to the mammalian claustroamygdalar complex (C-A), and isocortex, respectively. In the other half of the diagram (the isocortex-DVR hypothesis), the avian DVR and hyperpallium are color coded to indicate that they are both homologous to the mammalian isocortex.">
+          <image mime-type="image/png" src="../../media/Image-4.05_Bird-vs-mammalian-telencephalon.png" />
+        </media>
+        <caption>Image credit: Image and box text inspired by Faunes M, Francisco Botelho J, Ahumada Galleguillos P and Mpodozis J (2015) On the hodological criterion for homology. Front. Neurosci. 9:223. doi: 10.3389/fnins.2015.00223. CC BY.</caption>
+      </figure>
+      <para id="para-00015"><title><emphasis>Perspective from connections</emphasis>:</title> Some researchers have focused especially on patterns of afferent and efferent projections in the avian pallium to define homologous structures between the avian and mammalian telencephalon (Karten, 1991). As we discussed above, in mammals, much of the cerebral cortex consists of primary cortical areas that receive extensive thalamic input and process sensory information. Those areas include the primary visual cortex, the primary somatosensory cortex, and the primary auditory cortex (see <link document="m00006">Touch and Pain</link>, <link document="m00087">Vision</link>, and <link document="m00001">Hearing and Balance</link>). The avian dorsal ventricular ridge (DVR) contains discrete nuclei (including those of the mesopallium and nidopallium) that receive extensive thalamic input (Butler, 1995; Butler et al., 2000). Researchers have used these insights to argue that the dorsal ventricular ridge of birds is homologous to the mammalian cerebral cortex. This is known as the <term id="term-00005">isocortex-DVR hypothesis</term>.</para>
+
+      <para id="para-00016"><title><emphasis>Perspective from development</emphasis>:</title> Other researchers have reminded the community that homologous structures can take on different functions across species. That is, homology between structures arises from shared ancestry, which may or may not serve the same function across species. Think back to how bat wings fly, whale fins swim, etc. In this case, we are not looking at function. Rather, we are considering the evolutionary origins of populations of cells, an area called <term id="term-00010">field homology</term>. Field homology refers to populations of cells that derive from evolutionary conserved regions but may be populated across diverse morphological structures. Indeed, there are a number of cases where cells are generated in one location and migrate over long distances in the central nervous system (Corbin et al., 2001). Many researchers focus on developmental field homologies to define homologous cell populations. Typically, looking at developmental fields means that researchers focus on transcriptional (gene expression) landscapes in the embryo as a basis for defining homologies. These fields thus represent the basic units for comparisons.</para>
+
+      <para id="para-00017">To better understand what we mean when we say we are defining a developmental field, let’s consider transcriptionally defined subdivisions as it applies to defining the homologous structure for the bird DVR in mammals. In this case, researchers have used a combination of genes to transcriptionally define fields (populations of cells that are similar to each other) and define comparable brain regions across species. For example, there are several genes, including Pax6, Tbr1, Nkx-2.1, and Dlx-2 that are expressed in specific locations during development. These genes are expressed in clusters of cells and can be used to define homologous areas because we know of their migratory patterns so we know where they will end up in adulthood. Evaluating spatiotemporal patterns of gene expression during development has been used to argue that the precursors in the DVR give rise to the amygdala in mammals and give rise to nido- and mesopallium in birds (Puelles et al., 2002). Therefore, large regions of the avian telencephalon that might be considered homologous to the cerebral cortex in mammals based on adult connectivity could be considered homologous to the mammalian amygdala when considered based on developmental fields (Striedter, 1994). In this case, consideration of homology based on developmental fields is called the <term id="term-00006">claustroamygdala-DVR hypothesis</term>, which stipulates that mammalian homologues of the DVR consist of the claustrum, endopiriform nuclei, and amygdala (Butler et al., 2012).</para>
+
+      <para id="para-00018">Defining homologous structures between species is a crucial effort, as this effort forms the foundation for any comparison between species. We have focused on developmental processes and connectivity patterns as two different ways to identify homologous structures. Researchers who focus on adult patterns of connectivity consider the lateral and ventral pallium to be homologous to the mammalian cortex because the lateral and ventral pallium of birds and the cortex of mammals both receive inputs from sensory thalamus. Researchers who focus on gene expression from a developmental perspective place an emphasis on developmental patterns. In contrast, other researchers may support the notion that the meso and nidopallium in birds are homologous to the mammalian amygdala. This challenging case illustrates the difficulty in defining which features are relevant and should be used as a basis to compare highly divergent brains.</para>
     </section>
 
     <section class="section-summary" id="sect-00005">
@@ -82,64 +92,78 @@
     <section class="key-terms" id="sect-00006">
       <title>Key Terms</title>
       <list display="inline" id="list-00002">
-<item>Homology</item>
-<item>telencephalic/telencephalon</item>
-<item>cerebral cortex</item>
-<item>grey matter</item>
-<item>white matter</item>
-<item>layers</item>
-<item>nuclei</item>
-<item>field homology</item>
-<item>isocortex-DVR hypothesis</item>
-<item>claustroamygdala-DVR hypothesis</item>
+        <item>Homology</item>
+        <item>telencephalic/telencephalon</item>
+        <item>cerebral cortex</item>
+        <item>grey matter</item>
+        <item>white matter</item>
+        <item>layers</item>
+        <item>nuclei</item>
+        <item>field homology</item>
+        <item>isocortex-DVR hypothesis</item>
+        <item>claustroamygdala-DVR hypothesis</item>
       </list>
     </section>
     <section class="references" id="sect-00007">
       <title>References</title>
-      
-<para id="para-00020">Briscoe, S. D. (2019). Field homology: Still a meaningless concept. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">93</emphasis>, 1–3. https://doi.org/10.1159/000500770</para>
 
-<para id="para-00021">Butler, A. B. (1995). The dorsal thalamus of jawed vertebrates: A comparative viewpoint. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">46</emphasis>(4–5), 209–223. https://doi.org/10.1159/000113275</para>
+      <para id="para-00020">Briscoe, S. D. (2019). Field homology: Still a meaningless concept. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">93</emphasis>, 1–3. https://doi.org/10.1159/000500770</para>
 
-<para id="para-00022">Butler, A. B., &amp; Saidel, W. M. (2000). Defining sameness: Historical, biological, and generative homology. <emphasis effect="italics">BioEssays</emphasis>, <emphasis effect="italics">22</emphasis>(9), 846–853.</para>
+      <para id="para-00021">Butler, A. B. (1995). The dorsal thalamus of jawed vertebrates: A comparative viewpoint. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">46</emphasis>(4–5), 209–223. https://doi.org/10.1159/000113275</para>
 
-<para id="para-00023">Butler, A. B., Reiner, A., &amp; Karten, H. J. (2011). Evolution of the amniote pallium and the origins of mammalian neocortex. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis>, <emphasis effect="italics">1225</emphasis>(1), 14–27. https://doi.org/10.1111/j.1749-6632.2011.06006.x</para>
+      <para id="para-00022">Butler, A. B., &amp; Saidel, W. M. (2000). Defining sameness: Historical, biological, and generative homology. <emphasis effect="italics">BioEssays</emphasis>, <emphasis effect="italics">22</emphasis>(9), 846–853.</para>
 
-<para id="para-00024">de Sousa, A. A., Rigby Dames, B. A., Graff, E. C., Mohamedelhassan, R., Vassilopoulos, T., &amp; Charvet, C. J. (2023). Going beyond established model systems of Alzheimer's disease: Companion animals provide novel insights into the neurobiology of aging. <emphasis effect="italics">Communications Biology</emphasis>, <emphasis effect="italics">6</emphasis>, 655. https://doi.org/10.1038/s42003-023-05034-3</para>
+      <para id="para-00023">Butler, A. B., Reiner, A., &amp; Karten, H. J. (2011). Evolution of the amniote pallium and the origins of mammalian neocortex. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis>, <emphasis effect="italics">1225</emphasis>(1), 14–27. https://doi.org/10.1111/j.1749-6632.2011.06006.x</para>
 
-<para id="para-00025">Karten, H. J. (1991). Homology and evolutionary origins of the “neocortex”. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">38</emphasis>(4-5), 264–272. https://doi.org/10.1159/000114393</para>
+      <para id="para-00024">de Sousa, A. A., Rigby Dames, B. A., Graff, E. C., Mohamedelhassan, R., Vassilopoulos, T., &amp; Charvet, C. J. (2023). Going beyond established model systems of Alzheimer's disease: Companion animals provide novel insights into the neurobiology of aging. <emphasis effect="italics">Communications Biology</emphasis>, <emphasis effect="italics">6</emphasis>, 655. https://doi.org/10.1038/s42003-023-05034-3</para>
 
-<para id="para-00026">Medina, L., &amp; Reiner, A. (2000). Do birds possess homologues of mammalian primary visual, somatosensory and motor cortices? <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">23</emphasis>(1), 1–12. https://doi.org/10.1016/s0166-2236(99)01486-1</para>
+      <para id="para-00025">Karten, H. J. (1991). Homology and evolutionary origins of the “neocortex”. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">38</emphasis>(4-5), 264–272. https://doi.org/10.1159/000114393</para>
 
-<para id="para-00027">Puelles, L., Kuwana, E., Puelles, E., Bulfone, A., Shimamura, K., Keleher, J., Smiga, S., &amp; Rubenstein, J. L. R. (2000). Pallial and subpallial derivatives in the embryonic chick and mouse telencephalon, traced by the expression of the genes Dlx-2, Emx-1, Nkx-2.1, Pax-6 and Tbr-1. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">424</emphasis>(3), 409–438.</para>
+      <para id="para-00026">Medina, L., &amp; Reiner, A. (2000). Do birds possess homologues of mammalian primary visual, somatosensory and motor cortices? <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">23</emphasis>(1), 1–12. https://doi.org/10.1016/s0166-2236(99)01486-1</para>
 
-<para id="para-00028">Striedter, G. F. (1997). The telencephalon of tetrapods in evolution. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">49</emphasis>(4), 179–213. https://doi.org/10.1159/000112991</para>
+      <para id="para-00027">Puelles, L., Kuwana, E., Puelles, E., Bulfone, A., Shimamura, K., Keleher, J., Smiga, S., &amp; Rubenstein, J. L. R. (2000). Pallial and subpallial derivatives in the embryonic chick and mouse telencephalon, traced by the expression of the genes Dlx-2, Emx-1, Nkx-2.1, Pax-6 and Tbr-1. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">424</emphasis>(3), 409–438.</para>
 
-<para id="para-00029">Striedter, G. F. (2005). <emphasis effect="italics">Principles of brain evolution</emphasis>. Sinauer Associates.</para>
-     
+      <para id="para-00028">Striedter, G. F. (1997). The telencephalon of tetrapods in evolution. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">49</emphasis>(4), 179–213. https://doi.org/10.1159/000112991</para>
+
+      <para id="para-00029">Striedter, G. F. (2005). <emphasis effect="italics">Principles of brain evolution</emphasis>. Sinauer Associates.</para>
+
     </section>
-    <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title>
+    <section class="multiple-choice" id="sect-00008">
+      <title>Multiple Choice</title>
       <exercise id="exer-00001">
-          <problem id="prob-00001">
-      <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-04-02-001"/></para></problem></exercise>
-            <exercise id="exer-00002">
-          <problem id="prob-00002">
-      <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-04-02-002"/></para></problem></exercise>
-            <exercise id="exer-00003">
-          <problem id="prob-00003">
-      <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-04-02-003"/></para></problem></exercise>
-            <exercise id="exer-00004">
-          <problem id="prob-00004">
-      <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-04-02-004"/></para></problem></exercise>
-            <exercise id="exer-00005">
-          <problem id="prob-00005">
-      <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-04-02-005"/></para></problem></exercise>
-       </section>
-      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title>
+        <problem id="prob-00001">
+          <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-04-02-001" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-04-02-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-04-02-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-04-02-004" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-04-02-005" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00009">
+      <title>Fill in the Blank</title>
       <exercise id="exer-00006">
-          <problem id="prob-00006">
-      <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-04-02-006"/></para></problem></exercise>
-      </section>
-      
+        <problem id="prob-00006">
+          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-04-02-006" /></para>
+        </problem>
+      </exercise>
+    </section>
+
   </content>
 </document>

@@ -10,572 +10,143 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
-        <item>Describe how information conveyed from sensory systems and autonomic nervous system
-          inputs to the CNS influence the functioning of limbic areas to generate emotions.</item>
-        <item>Discuss how the coordination of neural input into limbic brain structures are
-          integrated to produce characteristic patterns of physiological and neural changes that
-          evolve into appropriate emotional responses to a given external stimulus.</item>
-        <item>Describe an example of a limitation in generalizing findings from animal studies to
-          humans.</item>
-        <item>Define the roles of specific cortical limbic structures in appraisal of
-          emotionally-salient stimuli, generating the “feelings” from appraisals to develop adaptive
-          strategies, and generating decisions and motor plans for responding to emotional stimuli.</item>
+        <item>Describe how information conveyed from sensory systems and autonomic nervous system inputs to the CNS influence the functioning of limbic areas to generate emotions.</item>
+        <item>Discuss how the coordination of neural input into limbic brain structures are integrated to produce characteristic patterns of physiological and neural changes that evolve into appropriate emotional responses to a given external stimulus.</item>
+        <item>Describe an example of a limitation in generalizing findings from animal studies to humans.</item>
+        <item>Define the roles of specific cortical limbic structures in appraisal of emotionally-salient stimuli, generating the “feelings” from appraisals to develop adaptive strategies, and generating decisions and motor plans for responding to emotional stimuli.</item>
       </list>
     </section>
-    <para id="para-00002">An extensive amount of research is directed toward identifying the source
-      or substrate of individual emotions in the brain. These efforts are quite challenging since
-      distinct brain regions have multiple inter-connections with a diffuse set of other regions
-      that in themselves process different types of internal and external stimuli. Thus, the search
-      for a specific “neural signature or fingerprint” for each category of emotions has been a
-      difficult process. The large variation in neural patterns observed within brain circuits
-      during different states of internal arousal may explain why individual emotions are perceived
-      as feeling different from one another. Still, decades of research in animal models and in
-      humans have given us some insight into the major structures that mediate the experience of
-      emotion and our behavioral/physiological responses to it. In this section, you will then learn
-      how the brain integrates information from both internal systems and external sensory
-      perception to form cognitive appraisal and evaluative functions to generate emotions that are
-      appropriate for any given circumstance.</para>
+    <para id="para-00002">An extensive amount of research is directed toward identifying the source or substrate of individual emotions in the brain. These efforts are quite challenging since distinct brain regions have multiple inter-connections with a diffuse set of other regions that in themselves process different types of internal and external stimuli. Thus, the search for a specific “neural signature or fingerprint” for each category of emotions has been a difficult process. The large variation in neural patterns observed within brain circuits during different states of internal arousal may explain why individual emotions are perceived as feeling different from one another. Still, decades of research in animal models and in humans have given us some insight into the major structures that mediate the experience of emotion and our behavioral/physiological responses to it. In this section, you will then learn how the brain integrates information from both internal systems and external sensory perception to form cognitive appraisal and evaluative functions to generate emotions that are appropriate for any given circumstance.</para>
 
     <section id="sect-00002">
       <title>Papez circuit overview</title>
-      <para id="para-00003">The complicated but essential process of emotional experience and
-        expression is regulated in part by an assembly of brain structures that comprise the <term id="term-00001">Papez Circuit</term> (Papez, 1937; MacLean, 1952). The important
-        contributors to this neural system include the <term id="term-00002">thalamus</term>, <term id="term-00003">hypothalamus</term>, <term id="term-00004">amygdala</term>, <term id="term-00005">hippocampus</term>, <term id="term-00006">anterior cingulate cortex</term>
-        ,
-   <term id="term-00007">orbitofrontal cortex</term>, <term id="term-00008">insula cortex</term>
-        and striatum. This interconnected circuit of cortical and subcortical brain regions takes
-        inputs from the internal and external environment and helps to evaluate those cues to
-        generate emotional responses to them. <link target-id="Image-13.23"/> shows the anatomical
-        location of several of these major structures, as well as a schematic for how they connect
-        to one another.</para>
+      <para id="para-00003">The complicated but essential process of emotional experience and expression is regulated in part by an assembly of brain structures that comprise the <term id="term-00001">Papez Circuit</term> (Papez, 1937; MacLean, 1952). The important contributors to this neural system include the <term id="term-00002">thalamus</term>, <term id="term-00003">hypothalamus</term>, <term id="term-00004">amygdala</term>, <term id="term-00005">hippocampus</term>, <term id="term-00006">anterior cingulate cortex</term> , <term id="term-00007">orbitofrontal cortex</term>, <term id="term-00008">insula cortex</term> and striatum. This interconnected circuit of cortical and subcortical brain regions takes inputs from the internal and external environment and helps to evaluate those cues to generate emotional responses to them. <link target-id="Image-13.23" /> shows the anatomical location of several of these major structures, as well as a schematic for how they connect to one another.</para>
       <figure id="Image-13.23">
         <title>Papez circuit and interrelated structures</title>
         <media alt="Top: A diagram of a brain with Papez circuit structures highlighted. Arrows show connections between regions. Bottom: Circuit diagram showing order of connections from sensory input through Papez circuit structures to subjective feelings and bodily response.">
-          <image mime-type="image/png" src="../../media/Image-13.23_Papez-circuit-and-interrelated-structures.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.23_Papez-circuit-and-interrelated-structures.png" />
         </media>
-        <caption>The limbic and subcortical structures of the Papez circuit allow organisms to adapt
-          to changes in the environment. These structures initiate neural and behavioral programs
-          that return internal physiological and psychological states to an ideal balance. Image
-          inspired by work of Dalgleish, T. The emotional brain. (2004). Nature Reviews
-          Neuroscience, 5, 583–589.</caption>
+        <caption>The limbic and subcortical structures of the Papez circuit allow organisms to adapt to changes in the environment. These structures initiate neural and behavioral programs that return internal physiological and psychological states to an ideal balance. Image inspired by work of Dalgleish, T. The emotional brain. (2004). Nature Reviews Neuroscience, 5, 583–589.</caption>
       </figure>
-      <para id="para-00004">The initial evidence that structures in the Papez circuit are involved
-        in constructing emotions was provided by Heinrich Klüver and Paul Bucy (1938). These
-        scientists removed large parts of the temporal lobe in monkeys that included the amygdala,
-        hippocampus and selective white matter tracts or nerve bundles that connect some of the
-        components comprising the Papez circuit. The range of behavioral and emotional deficits
-        produced by removing these critical brain areas is now commonly known as the <term id="term-00009">Kluver-Bucy Syndrome</term>. One key deficit in Kluver-Bucy syndrome that
-        pointed to the importance of these temporal lobe regions in emotion is a complete absence of
-        the agonistic emotions of anger or fear to threatening stimuli (placidity).
-        Appetitive-related emotional responses involving feeding are also severely impaired as
-        subjects that have been satiated by a previous meal will still eat excessive quantities of
-        food or other objects that do not even resemble food. Other perceptual and behavioral
-        impairments included difficulty in identifying objects by sight, the sound of stimuli or
-        touch, even when there is no damage to brain areas that process these three stimulus
-        modalities. There is also severe global amnesia manifested by the inability to convert
-        short-term memory into long-term memory, most likely due to the selective damage to the
-        amygdala or hippocampus (see <link document="m00060">Learning and Memory</link>).
-        Compulsive-like interests in exploring the immediate environment (hypermetamorphosis) is
-        also frequently observed in Kluver-Bucy syndrome. These types of impairments were first
-        observed in early studies of monkeys and cats and then were later observed clinically in
-        humans with temporal lobe damage from accidents or following bilateral temporal lobe surgery
-        to alleviate the debilitating symptoms of epilepsy.</para>
-      <para id="para-00005">Kluver-Bucy syndrome provided some clues to the functions of several
-        components of the Papez circuitry. We now have a more detailed understanding of the unique
-        roles that each brain area in the Papez circuit plays. In the subsequent sections, we will
-        walk through the specific roles of several of these regions.</para>
+      <para id="para-00004">The initial evidence that structures in the Papez circuit are involved in constructing emotions was provided by Heinrich Klüver and Paul Bucy (1938). These scientists removed large parts of the temporal lobe in monkeys that included the amygdala, hippocampus and selective white matter tracts or nerve bundles that connect some of the components comprising the Papez circuit. The range of behavioral and emotional deficits produced by removing these critical brain areas is now commonly known as the <term id="term-00009">Kluver-Bucy Syndrome</term>. One key deficit in Kluver-Bucy syndrome that pointed to the importance of these temporal lobe regions in emotion is a complete absence of the agonistic emotions of anger or fear to threatening stimuli (placidity). Appetitive-related emotional responses involving feeding are also severely impaired as subjects that have been satiated by a previous meal will still eat excessive quantities of food or other objects that do not even resemble food. Other perceptual and behavioral impairments included difficulty in identifying objects by sight, the sound of stimuli or touch, even when there is no damage to brain areas that process these three stimulus modalities. There is also severe global amnesia manifested by the inability to convert short-term memory into long-term memory, most likely due to the selective damage to the amygdala or hippocampus (see <link document="m00060">Learning and Memory</link>). Compulsive-like interests in exploring the immediate environment (hypermetamorphosis) is also frequently observed in Kluver-Bucy syndrome. These types of impairments were first observed in early studies of monkeys and cats and then were later observed clinically in humans with temporal lobe damage from accidents or following bilateral temporal lobe surgery to alleviate the debilitating symptoms of epilepsy.</para>
+      <para id="para-00005">Kluver-Bucy syndrome provided some clues to the functions of several components of the Papez circuitry. We now have a more detailed understanding of the unique roles that each brain area in the Papez circuit plays. In the subsequent sections, we will walk through the specific roles of several of these regions.</para>
     </section>
 
     <section id="sect-00003">
       <title>The thalamus relays interoceptive and exteroceptive sensory information</title>
 
-      <para id="para-00006">We will begin our tour of the individual components of the Papez circuit
-        by first understanding the sensory information inputs that generate emotional responses.
-        According to a recent view, emotions are constructed when internal physiological sensations
-        are so intense that they are in the foreground of our awareness. This process of monitoring
-        internal physiological conditions is called <term id="term-00010">interoception</term>. It
-        stands in contrast to <term id="term-00011">exteroception</term>, which is our sensory
-        perception of the external environment (<link target-id="Image-13.35"/>). Both of these
-        senses contribute to our emotions. The converted signals from collective receptor cells of
-        both forms of sensation (interoceptors and exteroceptors) are conveyed by different nerve
-        pathways to individual regions of the thalamus. The thalamus, in turn, relays this
-        information to both the hypothalamus and amygdala as shown in <link target-id="Image-13.23"/>.
-        Both of these downstream structures are considered reflexive in nature, in that thalamic
-        activation of particular regions within either structure automatically initiates behavioral,
-        emotional and physiological responses without conscious awareness or thought.</para>
+      <para id="para-00006">We will begin our tour of the individual components of the Papez circuit by first understanding the sensory information inputs that generate emotional responses. According to a recent view, emotions are constructed when internal physiological sensations are so intense that they are in the foreground of our awareness. This process of monitoring internal physiological conditions is called <term id="term-00010">interoception</term>. It stands in contrast to <term id="term-00011">exteroception</term>, which is our sensory perception of the external environment (<link target-id="Image-13.35" />). Both of these senses contribute to our emotions. The converted signals from collective receptor cells of both forms of sensation (interoceptors and exteroceptors) are conveyed by different nerve pathways to individual regions of the thalamus. The thalamus, in turn, relays this information to both the hypothalamus and amygdala as shown in <link target-id="Image-13.23" />. Both of these downstream structures are considered reflexive in nature, in that thalamic activation of particular regions within either structure automatically initiates behavioral, emotional and physiological responses without conscious awareness or thought.</para>
       <figure id="Image-13.35">
         <title>Interoception and exteroception</title>
         <media alt="A diagram of the human body and brain showing interoception coming from internal organs and exteroception coming from external sensory organs into the brain.">
-          <image mime-type="image/png" src="../../media/Image-13.35_Interoception-and-exteroception.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.35_Interoception-and-exteroception.png" />
         </media>
       </figure>
     </section>
     <section id="sect-00004">
       <title>The reflexive emotional responses generated by the hypothalamus</title>
 
-      <para id="para-00007">The hypothalamus is critical to coordinating our bodily and
-        psychological responses to the changing demands of our environment. Organisms must
-        constantly adapt to changing environmental conditions in order to survive and reproduce.
-        Fortunately, humans and animals are successful in adapting to dynamic external changes
-        through the aid of body machinery and selective behavioral programs that return internal
-        physiological and psychological states to some comfortable, ideal balance when a change in
-        the environment occurs. We refer to the desired, ideal balance as <term id="term-00012">
-        homeostasis</term> (see <link document="m00054">Homeostasis</link>). The coordinated set of
-        actions in the body and brain that govern homeostasis is known as <term id="term-00014">
-        allostasis</term>. Allostasis involves the regulation of changes within the organism's
-        internal environment to meet both the perceived and anticipated demands from the external
-        environment (see <link document="m00078">Stress</link>). The hypothalamus receives
-        interoceptive input from throughout the body, via the relays in the thalamus, which it then
-        uses to direct a number of physiological and behavioral responses.</para>
-      <para id="para-00008">The hypothalamus is composed of many individual nuclei, each of which
-        can elicit specific emotion-related behaviors and their accompanying physiological changes.
-        These behaviors fall broadly in to 3 categories:<term id="term-00015">appetitive responses</term>
-        (<emphasis effect="italics">e.g. energy needs, replacement of nutrients and temperature
-        regulation)</emphasis>, <term id="term-00016">agonistic behaviors</term> (<emphasis effect="italics">e.g. self-protecting defending or attack behaviors) </emphasis>and <term id="term-00017">reproductive mating instincts</term>. The early German researcher Walter
-        Hess (1933) demonstrated in awake cats how applying electrical stimulation to activate
-        neurons in discrete regions of the hypothalamus would produce a host of agonistic,
-        appetitive or autonomic changes. For example, stimulation directed at one group of
-        hypothalamic nuclei could cause the appearance of the emotions of fear and anger (agonistic
-        behaviors). These readily observable emotional signs were accompanied by intense
-        physiological changes in autonomic functioning (e.g. increased heart rate), as well as motor
-        signs and instinctive behaviors where the stimulated cat would attack the first available
-        object in its environment. Moreover, this set of bodily, emotional and behavioral changes
-        persisted as long as the stimulation was applied and ceased only when the stimulation was
-        terminated. In contrast, stimulation applied to other divisions of the hypothalamus slowed
-        down the cat’s heart rate and rendered the animal calm, tame, and sleepy (appetitive
-        responses). These and other related findings of the provocation of physiological, emotional
-        and behavioral changes by artificial stimulation of the brain strengthened the belief that
-        physiological changes in the body lead to the development of discrete emotions that in turn
-        determined the nature of behavioral responses an organism will emit on external
-        environmental stimuli. These new discoveries also pointed to a critical contribution of the
-        hypothalamus as a major initiator of behavior and physiological response to emotional
-        stimuli.</para>
+      <para id="para-00007">The hypothalamus is critical to coordinating our bodily and psychological responses to the changing demands of our environment. Organisms must constantly adapt to changing environmental conditions in order to survive and reproduce. Fortunately, humans and animals are successful in adapting to dynamic external changes through the aid of body machinery and selective behavioral programs that return internal physiological and psychological states to some comfortable, ideal balance when a change in the environment occurs. We refer to the desired, ideal balance as <term id="term-00012"> homeostasis</term> (see <link document="m00054">Homeostasis</link>). The coordinated set of actions in the body and brain that govern homeostasis is known as <term id="term-00014"> allostasis</term>. Allostasis involves the regulation of changes within the organism's internal environment to meet both the perceived and anticipated demands from the external environment (see <link document="m00078">Stress</link>). The hypothalamus receives interoceptive input from throughout the body, via the relays in the thalamus, which it then uses to direct a number of physiological and behavioral responses.</para>
+      <para id="para-00008">The hypothalamus is composed of many individual nuclei, each of which can elicit specific emotion-related behaviors and their accompanying physiological changes. These behaviors fall broadly in to 3 categories:<term id="term-00015">appetitive responses</term> (<emphasis effect="italics">e.g. energy needs, replacement of nutrients and temperature regulation)</emphasis>, <term id="term-00016">agonistic behaviors</term> (<emphasis effect="italics">e.g. self-protecting defending or attack behaviors) </emphasis>and <term id="term-00017">reproductive mating instincts</term>. The early German researcher Walter Hess (1933) demonstrated in awake cats how applying electrical stimulation to activate neurons in discrete regions of the hypothalamus would produce a host of agonistic, appetitive or autonomic changes. For example, stimulation directed at one group of hypothalamic nuclei could cause the appearance of the emotions of fear and anger (agonistic behaviors). These readily observable emotional signs were accompanied by intense physiological changes in autonomic functioning (e.g. increased heart rate), as well as motor signs and instinctive behaviors where the stimulated cat would attack the first available object in its environment. Moreover, this set of bodily, emotional and behavioral changes persisted as long as the stimulation was applied and ceased only when the stimulation was terminated. In contrast, stimulation applied to other divisions of the hypothalamus slowed down the cat’s heart rate and rendered the animal calm, tame, and sleepy (appetitive responses). These and other related findings of the provocation of physiological, emotional and behavioral changes by artificial stimulation of the brain strengthened the belief that physiological changes in the body lead to the development of discrete emotions that in turn determined the nature of behavioral responses an organism will emit on external environmental stimuli. These new discoveries also pointed to a critical contribution of the hypothalamus as a major initiator of behavior and physiological response to emotional stimuli.</para>
     </section>
     <section id="sect-00005">
       <title>The amygdala’s reflexive role in emotional learning and fear</title>
-      <para id="para-00009">The response profiles in the amygdala are similar to those in the
-        hypothalamus. One characteristic distinction between the two is that subdivisions of nuclei
-        within the amygdala may produce reflexive changes not only to important external stimuli
-        that are immediately threatening or rewarding, but also to neutral or once <emphasis effect="italics">unattended stimuli</emphasis> that occur in concert with important
-        events. In other words, the amygdala can form memories about the relationships between two
-        or more stimuli that occur together or even in some sequential fashion during our daily
-        interactions if one of the stimuli has emotional importance. For example, the hypothalamus
-        may initiate feelings of hunger when children are in a classroom simply through olfactory
-        stimuli associated with the smell of food from the cafeteria. The amygdala, however, may
-        generate the same feelings of hunger by simply seeing students from an adjacent class line
-        up in the hallway to head to the cafeteria. This extension is produced by the capacity of
-        amygdala neurons to form associations between previously neutral stimuli (i.e. students from
-        a neighboring class proceeding to the cafeteria to eat) that serve to predict the eventual
-        satisfaction of a meal you will eventually encounter in the cafeteria. The previous scenario
-        is an example of associative learning that takes place in the amygdala, yet not in the
-        hypothalamus. These learned associations equip humans and animals to use the predictive
-        value of once <emphasis effect="italics">unattended stimuli</emphasis> to anticipate
-        appetitive or aversive events (see <link document="m00060">Learning and Memory</link>).</para>
-      <para id="para-00010">In addition to mediating emotion-related learning, the amygdala also
-        appears to have a particular importance for generating the emotion of fear. Key evidence for
-        the necessity of the amygdala for generating fear in humans has come from study of rare
-        disorders that impair amygdala function, such as Urbach-Wiethe’s disease. Urbach-Wiethe’s
-        disease is a rare disorder that causes a slow bilateral calcification and destruction of the
-        amygdala starting around age 10 (Markowitsch, 1994) in roughly 50 to 75% of cases examined
-        thus far (Staut &amp; Naidich, 1998).</para>
-      <para id="para-00011">One of the most extensive case studies of Urbach-Wiethe’s disease
-        involves patient SM who was first documented by Tranel &amp; Hyman in 1990. The late onset
-        of the disease (starting in later childhood and progressing slowly from there) may explain
-        why patient SM failed to notice that she did not feel the emotion of fear or threat until
-        she went to the hospital for treatment of epilepsy at age 20. It was during these exams that
-        SM was given brain scans with computed tomography (CT), and later magnetic resonance imaging
-        (MRI), to reveal severe atrophy and destruction of the amygdala in both hemispheres.</para>
-      <para id="para-00012">Further neuropsychological exams revealed that SM showed unique highly
-        specialized deficits associated with the expression of fear (Adolphs, Tranel &amp; Damasio,
-        1994). She also failed to recognize facial expressions of fear in photographs similar to
-        those used in the research discussed by Ekman and Pulchik discussed in <link document="m00045">Foundational and contemporary theories of emotion</link>. She had
-        difficulty discerning what fearful facial expressions mean, yet expressions of happiness,
-        disgust or joy were easily identified. SM is actually an experienced artist, but could not
-        draw or sketch a scared face, since she expressed no knowledge of what such a face would
-        look like. One researcher noted that SM displayed little if any emotional reactions when
-        discussing highly emotional and traumatic life experiences (Tranel et al., 2006). The
-        apparent damage to each of SM’s amygdala was also manifested by major impairments in memory
-        for nonverbal visual information, social behavior, and executive control functions, however,
-        other specialized test confirmed that SM’s general intelligence and language were no
-        different than normal healthy adults (Tranel and Hyman, 1990). You can read more about the
-        kinds of test done with SM in <link target-id="SMnote"/>.</para>
+      <para id="para-00009">The response profiles in the amygdala are similar to those in the hypothalamus. One characteristic distinction between the two is that subdivisions of nuclei within the amygdala may produce reflexive changes not only to important external stimuli that are immediately threatening or rewarding, but also to neutral or once <emphasis effect="italics">unattended stimuli</emphasis> that occur in concert with important events. In other words, the amygdala can form memories about the relationships between two or more stimuli that occur together or even in some sequential fashion during our daily interactions if one of the stimuli has emotional importance. For example, the hypothalamus may initiate feelings of hunger when children are in a classroom simply through olfactory stimuli associated with the smell of food from the cafeteria. The amygdala, however, may generate the same feelings of hunger by simply seeing students from an adjacent class line up in the hallway to head to the cafeteria. This extension is produced by the capacity of amygdala neurons to form associations between previously neutral stimuli (i.e. students from a neighboring class proceeding to the cafeteria to eat) that serve to predict the eventual satisfaction of a meal you will eventually encounter in the cafeteria. The previous scenario is an example of associative learning that takes place in the amygdala, yet not in the hypothalamus. These learned associations equip humans and animals to use the predictive value of once <emphasis effect="italics">unattended stimuli</emphasis> to anticipate appetitive or aversive events (see <link document="m00060">Learning and Memory</link>).</para>
+      <para id="para-00010">In addition to mediating emotion-related learning, the amygdala also appears to have a particular importance for generating the emotion of fear. Key evidence for the necessity of the amygdala for generating fear in humans has come from study of rare disorders that impair amygdala function, such as Urbach-Wiethe’s disease. Urbach-Wiethe’s disease is a rare disorder that causes a slow bilateral calcification and destruction of the amygdala starting around age 10 (Markowitsch, 1994) in roughly 50 to 75% of cases examined thus far (Staut &amp; Naidich, 1998).</para>
+      <para id="para-00011">One of the most extensive case studies of Urbach-Wiethe’s disease involves patient SM who was first documented by Tranel &amp; Hyman in 1990. The late onset of the disease (starting in later childhood and progressing slowly from there) may explain why patient SM failed to notice that she did not feel the emotion of fear or threat until she went to the hospital for treatment of epilepsy at age 20. It was during these exams that SM was given brain scans with computed tomography (CT), and later magnetic resonance imaging (MRI), to reveal severe atrophy and destruction of the amygdala in both hemispheres.</para>
+      <para id="para-00012">Further neuropsychological exams revealed that SM showed unique highly specialized deficits associated with the expression of fear (Adolphs, Tranel &amp; Damasio, 1994). She also failed to recognize facial expressions of fear in photographs similar to those used in the research discussed by Ekman and Pulchik discussed in <link document="m00045">Foundational and contemporary theories of emotion</link>. She had difficulty discerning what fearful facial expressions mean, yet expressions of happiness, disgust or joy were easily identified. SM is actually an experienced artist, but could not draw or sketch a scared face, since she expressed no knowledge of what such a face would look like. One researcher noted that SM displayed little if any emotional reactions when discussing highly emotional and traumatic life experiences (Tranel et al., 2006). The apparent damage to each of SM’s amygdala was also manifested by major impairments in memory for nonverbal visual information, social behavior, and executive control functions, however, other specialized test confirmed that SM’s general intelligence and language were no different than normal healthy adults (Tranel and Hyman, 1990). You can read more about the kinds of test done with SM in <link target-id="SMnote" />.</para>
       <note id="SMnote" class="boxed-feature">
         <title>Diagnostic tests of patient SM</title>
-  <para id="para-00013">Patient SM had a rare
-        genetic disorder that caused her bilateral amygdala to be destroyed. Careful study of her
-        emotional responses helped reveal a specific deficit in experiencing or expressing fear in a
-        variety of contexts. In a study conducted by Feinstein, Adolphs, Damasio, and Tranel (2011),
-        the emotional reactions of SM were examined under three conditions that produce moderate to
-        extreme fear in normal adults. As shown in the top of <link target-id="Image-13.25"/>, SM
-        was taken to an exotic pet store and actually handled both a large threatening snake and
-        frightening tarantula spider. Despite her stated hate for snakes and spiders, when asked to
-        rate her fear during these encounters from “0” (no fear) to “10” (intense fear), her fear
-        levels never exceeded the rating of 2. Although, she did express the feeling of extreme
-        curiosity, rather than fear. She also was accompanied by researchers into the building shown
-        in top right of <link target-id="Image-13.25"/>, the previous Waverly Hills Sanatorium, one
-        of the most notorious “naturally haunted” buildings in existence. It is converted into a
-        tourist attraction during Halloween. This tourist attraction-made-“lab test” for SM was
-        complete with haunting noises, monsters, and actors dressed in horrifying costumes that
-        would often jump out from hidden locations to scare and frighten visitors. SM failed to
-        display the slightest emotion of fright or fear during the tour but rather was observed
-        laughing and scaring the monsters by poking them in the head. In a separate component of the
-        study, Feinstein’s group also documented SM’s emotional response to a series of short movies
-        that elicit different emotional reactions and included ten video clips from notable horror
-        films. As shown in the middle of <link target-id="Image-13.25"/>, the maximum amount of
-        fear elicited by these scary film clips in SM involved a rating of “1”. Note how different
-        the emotion of fear was expressed in SM relative to healthy controls who rated their
-        subjective feelings of being frightened by the scary clips from “5 to 8”.</para>
+  <para id="para-00013">Patient SM had a rare genetic disorder that caused her bilateral amygdala to be destroyed. Careful study of her emotional responses helped reveal a specific deficit in experiencing or expressing fear in a variety of contexts. In a study conducted by Feinstein, Adolphs, Damasio, and Tranel (2011), the emotional reactions of SM were examined under three conditions that produce moderate to extreme fear in normal adults. As shown in the top of <link target-id="Image-13.25" />, SM was taken to an exotic pet store and actually handled both a large threatening snake and frightening tarantula spider. Despite her stated hate for snakes and spiders, when asked to rate her fear during these encounters from “0” (no fear) to “10” (intense fear), her fear levels never exceeded the rating of 2. Although, she did express the feeling of extreme curiosity, rather than fear. She also was accompanied by researchers into the building shown in top right of <link target-id="Image-13.25" />, the previous Waverly Hills Sanatorium, one of the most notorious “naturally haunted” buildings in existence. It is converted into a tourist attraction during Halloween. This tourist attraction-made-“lab test” for SM was complete with haunting noises, monsters, and actors dressed in horrifying costumes that would often jump out from hidden locations to scare and frighten visitors. SM failed to display the slightest emotion of fright or fear during the tour but rather was observed laughing and scaring the monsters by poking them in the head. In a separate component of the study, Feinstein’s group also documented SM’s emotional response to a series of short movies that elicit different emotional reactions and included ten video clips from notable horror films. As shown in the middle of <link target-id="Image-13.25" />, the maximum amount of fear elicited by these scary film clips in SM involved a rating of “1”. Note how different the emotion of fear was expressed in SM relative to healthy controls who rated their subjective feelings of being frightened by the scary clips from “5 to 8”.</para>
   <figure id="Image-13.25">
           <title>The human amygdala and the induction and experience of fear</title>
           <media alt="Top: Photos of a person holding a snake, a tarantula and an old building. Middle: Bar graph of film clips (x axis) versus maximum amount of fear (y-axis) in healthy comparisons and patient SM. Bottom: Box and whiskers plot of recognition accuracy (y-axis)  for 5 different emotions in healthy controls and SM">
-            <image mime-type="image/png" src="../../media/Image-13.25_The-human-amygdala-and-the-induction-and-experience-of-fear.png"/>
+            <image mime-type="image/png" src="../../media/Image-13.25_The-human-amygdala-and-the-induction-and-experience-of-fear.png" />
           </media>
-          <caption>Image credit: Top photo and middle graph: Reprinted from Current Biology, Vol 21,
-        Feinstein, J. S., Adolphs, R., Damasio, A., Tranel, D. The Human Amygdala and the Induction
-        and Experience of Fear, Pages No. 34-38, Copyright 2011, with permission from Elsevier;
-        Bottom box plot: Cardinale, E. M., Rever, J., O'Cpnnell, K., Turkeltaub, P. E., Trancel, D.,
-        Buchanan, T. W., Marsh, A.A. (2021). Bilateral amygdala damage linked to impaired ability to
-        predict others' fear but preserved moral judgements about causing others fear. Proceedings
-        of the Royal Society B. Vol 288 (1943). https://doi.org/10.1098/rspb.2020.2651. Reproduced
-        with permission</caption>
+          <caption>Image credit: Top photo and middle graph: Reprinted from Current Biology, Vol 21, Feinstein, J. S., Adolphs, R., Damasio, A., Tranel, D. The Human Amygdala and the Induction and Experience of Fear, Pages No. 34-38, Copyright 2011, with permission from Elsevier; Bottom box plot: Cardinale, E. M., Rever, J., O'Cpnnell, K., Turkeltaub, P. E., Trancel, D., Buchanan, T. W., Marsh, A.A. (2021). Bilateral amygdala damage linked to impaired ability to predict others' fear but preserved moral judgements about causing others fear. Proceedings of the Royal Society B. Vol 288 (1943). https://doi.org/10.1098/rspb.2020.2651. Reproduced with permission</caption>
         </figure>
-  <para id="para-00014">More recent findings with
-        patient SM verified a role of the amygdala in recognizing and appraising fear related
-        stimuli in social conditions (Cardinale, et al., 2021). SM and healthy controls were given a
-        series of 100 written statements previously shown to cause the reader to experience
-        different levels of fear. The phrases included statements such as <emphasis effect="italics">(‘I
-        could easily hurt you’, ‘I don’t want to be friends anymore’)</emphasis>. Both SM and
-        controls were tasked with predicting which emotion category (i.e. anger, disgust, fear,
-        happiness or sadness) someone would experience when a given statement was directed to them.
-        The results, displayed in the bottom of <link target-id="Image-13.25"/>, confirm the
-        essential nature of the amygdala in registering and generating emotional responses to fear
-        and threat-related environment stimuli. SM’s ability to accurately recognize verbal stimuli
-        that generates fear and sadness was significantly poorer than controls. In contrast, her
-        capacity to identify statements leading to the emotions of happiness, disgust or anger were
-        no different than the control group. The reliability of these results was demonstrated by
-        documenting SM’s performance across two separate test sessions. She displayed consistent
-        poor emotion recognition performance for fear-eliciting statements in both sessions with a
-        score of 55% accuracy relative to controls performance of 98% in the first session and an
-        even worse 36% accuracy vs the control performance of 99% during the final testing session.
-        The documented inability to experience fear as a result of bilateral and almost complete
-        destruction of the amygdala in the case study involving SM provides convincing support for
-        the important role played by the amygdala in both the appraisal and expression of one
-        category of emotions involving both fear and sadness. These findings are supported by the
-        growing amount of evidence showing a critical role of the amygdala in emotion-related
-        disorders such as post-traumatic stress disorder (PTSD), anxiety and depression.</para></note>
+  <para id="para-00014">More recent findings with patient SM verified a role of the amygdala in recognizing and appraising fear related stimuli in social conditions (Cardinale, et al., 2021). SM and healthy controls were given a series of 100 written statements previously shown to cause the reader to experience different levels of fear. The phrases included statements such as <emphasis effect="italics">(‘I could easily hurt you’, ‘I don’t want to be friends anymore’)</emphasis>. Both SM and controls were tasked with predicting which emotion category (i.e. anger, disgust, fear, happiness or sadness) someone would experience when a given statement was directed to them. The results, displayed in the bottom of <link target-id="Image-13.25" />, confirm the essential nature of the amygdala in registering and generating emotional responses to fear and threat-related environment stimuli. SM’s ability to accurately recognize verbal stimuli that generates fear and sadness was significantly poorer than controls. In contrast, her capacity to identify statements leading to the emotions of happiness, disgust or anger were no different than the control group. The reliability of these results was demonstrated by documenting SM’s performance across two separate test sessions. She displayed consistent poor emotion recognition performance for fear-eliciting statements in both sessions with a score of 55% accuracy relative to controls performance of 98% in the first session and an even worse 36% accuracy vs the control performance of 99% during the final testing session. The documented inability to experience fear as a result of bilateral and almost complete destruction of the amygdala in the case study involving SM provides convincing support for the important role played by the amygdala in both the appraisal and expression of one category of emotions involving both fear and sadness. These findings are supported by the growing amount of evidence showing a critical role of the amygdala in emotion-related disorders such as post-traumatic stress disorder (PTSD), anxiety and depression.</para></note>
 
-      <note class="inthe-lab" id="note-00001"><title>Neuroscientific Approaches in examining
-        Fear/Threat Conditioning: An animal model of fear and anxiety in humans</title>
+      <note class="inthe-lab" id="note-00001"><title>Neuroscientific Approaches in examining Fear/Threat Conditioning: An animal model of fear and anxiety in humans</title>
 
-  <para id="para-00015">The section above highlighted the role of the amygdala in producing the
-        emotion of fear in response to threat related stimuli from the environment. In addition to
-        studying diseases like Urbach-Weithe’s disease, a great deal of animal research has
-        confirmed the role of the amygdala in fear by showing that experimental lesions of parts of
-        this brain region led to the apparent absence of fear. Today, more sophisticated approaches
-        such as <term id="term-00018">optogenetics</term> are now available to study how brain
-        regions mediate emotions in animal models. Optogenetics takes advantage of the finding that
-        light sensitive proteins known as <term id="term-00019">Channelrhodopsins-2 (ChR2)</term>
-        become active when exposed to light and release a number of excitatory ions that can be used
-        to activate neurons in specific neural circuits. <link document="m00106" target-id="">Methods:
-        Optogenetics</link> has more details about this method, but in short, by genetically
-        expressing ChR2 in neurons and then shining a fiberoptic light on those neurons researchers
-        can make neurons fire and then study what kinds of behavioral responses they see.</para>
-  <para id="para-00016">A study conducted by Kwon and colleagues (Kwon et al., 2014) employed the
-        optogenetic technique to reveal how <term id="term-00020">associative learning</term> (<emphasis effect="italics">i.e. forming learned associations between 2 or more events that occur
-        together in space or time</emphasis>) in a fear conditioning task produces specific, plastic
-        changes within the amygdala that results in the emotional expression of fear (see <link document="m00060">Learning and Memory</link>). In traditional forms of fear conditioning
-        (top of <link target-id="Image-13.27"/>), a neutral tone is presented at a decibel that
-        does not scare or induce any fear reactions in an animal. After 30 seconds of tone
-        presentation, a mildly aversive footshock is administered to the animal’s paws through the
-        metal grid panels in the floor. Generally, only 5 to 6 “tone-footshock” pairings are
-        necessary before the animal learns the predictive value of the “once-neutral” tone and
-        begins to exhibit extreme emotional fear responses to the neutral tone, even before the
-        footshock appears. The characteristic response indicative of the emotion of fear is the
-        agonistic “freezing response”. This form of associative learning discussed earlier is
-        produced by the amygdala forming associations between the external auditory “tone” stimulus
-        with the threatening and painful “footshock” stimulus applied to the animal’s paws.</para>
+  <para id="para-00015">The section above highlighted the role of the amygdala in producing the emotion of fear in response to threat related stimuli from the environment. In addition to studying diseases like Urbach-Weithe’s disease, a great deal of animal research has confirmed the role of the amygdala in fear by showing that experimental lesions of parts of this brain region led to the apparent absence of fear. Today, more sophisticated approaches such as <term id="term-00018">optogenetics</term> are now available to study how brain regions mediate emotions in animal models. Optogenetics takes advantage of the finding that light sensitive proteins known as <term id="term-00019">Channelrhodopsins-2 (ChR2)</term> become active when exposed to light and release a number of excitatory ions that can be used to activate neurons in specific neural circuits. <link document="m00106" target-id="">Methods: Optogenetics</link> has more details about this method, but in short, by genetically expressing ChR2 in neurons and then shining a fiberoptic light on those neurons researchers can make neurons fire and then study what kinds of behavioral responses they see.</para>
+  <para id="para-00016">A study conducted by Kwon and colleagues (Kwon et al., 2014) employed the optogenetic technique to reveal how <term id="term-00020">associative learning</term> (<emphasis effect="italics">i.e. forming learned associations between 2 or more events that occur together in space or time</emphasis>) in a fear conditioning task produces specific, plastic changes within the amygdala that results in the emotional expression of fear (see <link document="m00060">Learning and Memory</link>). In traditional forms of fear conditioning (top of <link target-id="Image-13.27" />), a neutral tone is presented at a decibel that does not scare or induce any fear reactions in an animal. After 30 seconds of tone presentation, a mildly aversive footshock is administered to the animal’s paws through the metal grid panels in the floor. Generally, only 5 to 6 “tone-footshock” pairings are necessary before the animal learns the predictive value of the “once-neutral” tone and begins to exhibit extreme emotional fear responses to the neutral tone, even before the footshock appears. The characteristic response indicative of the emotion of fear is the agonistic “freezing response”. This form of associative learning discussed earlier is produced by the amygdala forming associations between the external auditory “tone” stimulus with the threatening and painful “footshock” stimulus applied to the animal’s paws.</para>
   <figure id="Image-13.27">
           <title>Optogenetic activation of fear memory</title>
           <media alt="Left (traditional fear conditioning): Picture of a mouse in a box with metal grid floor, a speaker playing sound and electric shock above a picture of a mouse in a cylinder with a speaker playing sound. Right (optogenetic fear conditioning): Picture of a mouse in a box with metal grid floor, a light probe shining in its brain, and electric shock above a picture of a mouse in a cylinder with a light probe shining in its brain. Bottom: A bar graph if %freezing (y-axis) in response to 4 different conditions: GFP paired, ChR2 CS only, ChR2 Unpaired and ChR2 Paired. Pre-CS and CS are shown as bars in each condition.">
-            <image mime-type="image/png" src="../../media/Image-13.27_Optogenetic-activation-of-fear-memory.png"/>
+            <image mime-type="image/png" src="../../media/Image-13.27_Optogenetic-activation-of-fear-memory.png" />
           </media>
-          <caption>Data from: Kwon et al., "Optogenetic activation of presynaptic inputs in lateral
-        amygdala forms associative fear memory." Learn Mem. 2014 Nov; 21(11): 627–633. CC BY-NC 4.0</caption>
+          <caption>Data from: Kwon et al., "Optogenetic activation of presynaptic inputs in lateral amygdala forms associative fear memory." Learn Mem. 2014 Nov; 21(11): 627–633. CC BY-NC 4.0</caption>
         </figure>
-  <para id="para-00017">Kwon’s group used optogenetics to determine if the amygdala is the actual
-        site where associations between the tone is formed with the footshock during the generation
-        of fear to neutral stimuli. The main manipulation involved using viral vectors to
-        incorporate ChR2 within the parts of the auditory cortex that provide one source of auditory
-        input to the lateral amygdala. The clever part of this study involved substituting the
-        neutral tone with optogenetic activation of the auditory projections. To produce associative
-        learning in this study, experimental animals received six pairings of optogenetic
-        stimulation of auditory axons innervating the amygdala with a footshock, <emphasis effect="italics">rather than tone</emphasis>-shock pairings (middle of <link target-id="Image-13.27"/>). The main question of interest here is whether associative
-        memories develop following this artificial form of simulating auditory stimuli and pairing
-        this experience with a threatening event.</para>
-  <para id="para-00018">This question was
-        assessed twenty-four hours later by placing the animals in a new context (Context B), void
-        of any previous associations and essentially fearless since no footshock was presented
-        during this memory test. While in this neutral context, auditory inputs innervating the
-        lateral amygdala were activated once again with optogenetic blue lights to represent the
-        stimulus that was previously paired with the fearful footshock. The authors found that
-        reactivating the connections between auditory inputs and the lateral amygdala (i.e. ChR2
-        paired group) was sufficient to produce the emotional response of fear even though no
-        footshock was given in this new context. Notice in the graph in the bottom of <link target-id="Image-13.27"/>, the low level of fear learning observed in mice that
-        received only optogenetic stimulation without footshock (ChR2 CS only) or those given
-        optogenetic activation of auditory inputs that were not paired directly with footshock
-        delivery (i.e. ChR2 Unpaired). The absence of associative learning in these group reveal
-        that stimulation of inputs to the amygdala is not sufficient to produce emotional learning.
-        Associative processes leading to learning in the lateral amygdala occurs only when auditory
-        stimulation is paired with some emotion provoking event such as footshock delivery. The
-        findings demonstrate that activation of auditory signals in the lateral amygdala serve as a
-        potent conditioned stimulus that forms long term memories with the footshock to produce
-        emotional responses of fear.</para></note>
+  <para id="para-00017">Kwon’s group used optogenetics to determine if the amygdala is the actual site where associations between the tone is formed with the footshock during the generation of fear to neutral stimuli. The main manipulation involved using viral vectors to incorporate ChR2 within the parts of the auditory cortex that provide one source of auditory input to the lateral amygdala. The clever part of this study involved substituting the neutral tone with optogenetic activation of the auditory projections. To produce associative learning in this study, experimental animals received six pairings of optogenetic stimulation of auditory axons innervating the amygdala with a footshock, <emphasis effect="italics">rather than tone</emphasis>-shock pairings (middle of <link target-id="Image-13.27" />). The main question of interest here is whether associative memories develop following this artificial form of simulating auditory stimuli and pairing this experience with a threatening event.</para>
+  <para id="para-00018">This question was assessed twenty-four hours later by placing the animals in a new context (Context B), void of any previous associations and essentially fearless since no footshock was presented during this memory test. While in this neutral context, auditory inputs innervating the lateral amygdala were activated once again with optogenetic blue lights to represent the stimulus that was previously paired with the fearful footshock. The authors found that reactivating the connections between auditory inputs and the lateral amygdala (i.e. ChR2 paired group) was sufficient to produce the emotional response of fear even though no footshock was given in this new context. Notice in the graph in the bottom of <link target-id="Image-13.27" />, the low level of fear learning observed in mice that received only optogenetic stimulation without footshock (ChR2 CS only) or those given optogenetic activation of auditory inputs that were not paired directly with footshock delivery (i.e. ChR2 Unpaired). The absence of associative learning in these group reveal that stimulation of inputs to the amygdala is not sufficient to produce emotional learning. Associative processes leading to learning in the lateral amygdala occurs only when auditory stimulation is paired with some emotion provoking event such as footshock delivery. The findings demonstrate that activation of auditory signals in the lateral amygdala serve as a potent conditioned stimulus that forms long term memories with the footshock to produce emotional responses of fear.</para></note>
     </section>
     <section id="sect-00006">
       <title>Insula Cortex</title>
-      <para id="para-00019">Thus far, we have discussed more reflexive regions of the Papez circuit,
-        the amygdala and hypothalamus. Now, we will move on to brain regions that form cognitive
-        appraisal and evaluative functions to generate emotions that are appropriate for any given
-        circumstance. One major area that is involved in this process is the insula cortex. Insula
-        cortex activity leads to an awareness of affective feelings and eventual emotions. Early
-        studies conducted by the famous neurosurgeon Walter Penfield established that patients
-        receiving electrical stimulation in the insula cortex reported unusual visceral sensations
-        consistent with the experience of disgust associated with uneasy sensations in the stomach
-        or throat, smelling or tasting something bad, and the experience of nausea (Penfield &amp;
-        Faulk 1955). In subsequent studies, it was found that insula stimulation produces a range of
-        other emotions including feelings of empathy, intuition, unfairness, risk and uncertainty,
-        trust and cooperation. The unique behavioral deficits that emerge after damage to the
-        anterior insula cortex provide even greater clues to its function in emotions. Following
-        insula lesions, patients do not express the emotion of disgust to unpleasant scenes
-        involving body products, mutilations, etc. that are evoked in humans with an intact insula
-        (Adolphs et al. 2003). They are also impaired in identifying signs of other emotions from
-        either the facial expressions or inflections in voice produced by others.</para>
-      <para id="para-00020">The clinical and empirical observations discussed above make sense,
-        given that the insula receives representations of the current state of internal bodily
-        sensations (interoception) along with recreated replicas of the external environment
-        (exteroception). The insula also has bi-directional communication with a variety of other
-        cortical brain regions involved in emotion, memory, language and reasoning, such as the
-        amygdala, ventral striatum, <term id="term-00021">ventral medial prefrontal cortex</term>, <term id="term-00022">dorsolateral prefrontal cortex</term> and anterior cingulate cortex. These
-        connections are shown in <link target-id="Image-13.28"/>. Together, communication between
-        these regions permit the insula to form appraisals of each emotional event by incorporating
-        interoceptive and exteroceptive changes already processed in this area, with subjective
-        feelings, personal reflections on the feelings and the cognitive resources to express them.</para>
+      <para id="para-00019">Thus far, we have discussed more reflexive regions of the Papez circuit, the amygdala and hypothalamus. Now, we will move on to brain regions that form cognitive appraisal and evaluative functions to generate emotions that are appropriate for any given circumstance. One major area that is involved in this process is the insula cortex. Insula cortex activity leads to an awareness of affective feelings and eventual emotions. Early studies conducted by the famous neurosurgeon Walter Penfield established that patients receiving electrical stimulation in the insula cortex reported unusual visceral sensations consistent with the experience of disgust associated with uneasy sensations in the stomach or throat, smelling or tasting something bad, and the experience of nausea (Penfield &amp; Faulk 1955). In subsequent studies, it was found that insula stimulation produces a range of other emotions including feelings of empathy, intuition, unfairness, risk and uncertainty, trust and cooperation. The unique behavioral deficits that emerge after damage to the anterior insula cortex provide even greater clues to its function in emotions. Following insula lesions, patients do not express the emotion of disgust to unpleasant scenes involving body products, mutilations, etc. that are evoked in humans with an intact insula (Adolphs et al. 2003). They are also impaired in identifying signs of other emotions from either the facial expressions or inflections in voice produced by others.</para>
+      <para id="para-00020">The clinical and empirical observations discussed above make sense, given that the insula receives representations of the current state of internal bodily sensations (interoception) along with recreated replicas of the external environment (exteroception). The insula also has bi-directional communication with a variety of other cortical brain regions involved in emotion, memory, language and reasoning, such as the amygdala, ventral striatum, <term id="term-00021">ventral medial prefrontal cortex</term>, <term id="term-00022">dorsolateral prefrontal cortex</term> and anterior cingulate cortex. These connections are shown in <link target-id="Image-13.28" />. Together, communication between these regions permit the insula to form appraisals of each emotional event by incorporating interoceptive and exteroceptive changes already processed in this area, with subjective feelings, personal reflections on the feelings and the cognitive resources to express them.</para>
       <figure id="Image-13.28">
         <title>Insula cortex connections and function</title>
         <media alt="A diagram of a brain, sliced sagittally at midline. The insula and its input/output structures are highlighted.">
-          <image mime-type="image/png" src="../../media/Image-13.28_Insula-cortex-connections-and-function.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.28_Insula-cortex-connections-and-function.png" />
         </media>
       </figure>
     </section>
     <section id="sect-00007">
       <title>Prefrontal Cortex</title>
 
-      <para id="para-00021">The prefrontal cortex can be functionally divided into two major areas:
-        the orbitofrontal cortex and the dorsolateral prefrontal cortex. <link target-id="Image-13.36"/> shows the relative locations of these regions on a 3D human
-        brain surface rendering. Each of these regions has distinct functions in emotions.</para>
+      <para id="para-00021">The prefrontal cortex can be functionally divided into two major areas: the orbitofrontal cortex and the dorsolateral prefrontal cortex. <link target-id="Image-13.36" /> shows the relative locations of these regions on a 3D human brain surface rendering. Each of these regions has distinct functions in emotions.</para>
       <figure id="Image-13.36">
         <title>Prefrontal cortex regions</title>
         <media alt="A 3D surface rendering of the brain with dorsolateral and orbitofrontal cortex highlighted.">
-          <image mime-type="image/png" src="../../media/Image-13.36_Prefrontal-cortex-regions.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.36_Prefrontal-cortex-regions.png" />
         </media>
-        <caption>Image By Natalie M. Zahr, Ph.D., and Edith V. Sullivan, Ph.D. - Natalie M. Zahr,
-          Ph.D., and Edith V. Sullivan, Ph.D. &amp;quot;Translational Studies of Alcoholism Bridging
-          the Gap&amp;quot; Alcohol Research &amp;amp; Health, Volume 31, Number 3, p.215-
-          (2008)[1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=8663554</caption>
+        <caption>Image By Natalie M. Zahr, Ph.D., and Edith V. Sullivan, Ph.D. - Natalie M. Zahr, Ph.D., and Edith V. Sullivan, Ph.D. &amp;quot;Translational Studies of Alcoholism Bridging the Gap&amp;quot; Alcohol Research &amp;amp; Health, Volume 31, Number 3, p.215- (2008)[1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=8663554</caption>
       </figure>
       <section id="sect-00008">
         <title>Orbitofrontal cortex</title>
-        <para id="para-00022">As shown in <link target-id="Image-13.14"/>, the ventromedial
-          prefrontal cortex is a part of the prefrontal cortex, located just above the eye sockets
-          (or orbits). This location is why it is also called the orbitofrontal cortex.</para>
+        <para id="para-00022">As shown in <link target-id="Image-13.14" />, the ventromedial prefrontal cortex is a part of the prefrontal cortex, located just above the eye sockets (or orbits). This location is why it is also called the orbitofrontal cortex.</para>
         <figure id="Image-13.14">
           <title>Ventromedial prefrontal cortex</title>
           <media alt="A diagram of a brain, sliced sagittally at midline. The ventromedial prefrontal cortex and its input/output structures are highlighted.">
-            <image mime-type="image/png" src="../../media/Image-13.14_Ventromedial-prefrontal-cortex.png"/>
+            <image mime-type="image/png" src="../../media/Image-13.14_Ventromedial-prefrontal-cortex.png" />
           </media>
         </figure>
-        <para id="para-00023">The orbitofrontal cortex has multiple reported roles in emotion but we
-          will focus here on 2 major ones: 1) assessing the goal-relevance of exteroceptive signals
-          from the environment and 2) using internally generated thoughts pertaining to both
-          episodic memories (<emphasis effect="italics">i.e. memory for personal events</emphasis>)
-          and imagined future events to determine the types of responses an organism should display
-          to maintain allostasis in the face of new circumstances. The product of these internally
-          generated processes in the orbitofrontal cortex is submitted to the insula to assist in
-          the appraisal of new events. The importance of this evaluative process makes it easier to
-          understand why humans that lack the vital contribution of the orbitofrontal cortex due to
-          damage or surgery display extreme states of anger, lack self-control, and are more prone
-          to rapid aggression without thinking about the consequences of these negative responses.
-          Below, we discuss some of the connections in the brain that facilitate these two
-          functions, which are also exemplified in <link target-id="Image-13.14"/>.</para>
+        <para id="para-00023">The orbitofrontal cortex has multiple reported roles in emotion but we will focus here on 2 major ones: 1) assessing the goal-relevance of exteroceptive signals from the environment and 2) using internally generated thoughts pertaining to both episodic memories (<emphasis effect="italics">i.e. memory for personal events</emphasis>) and imagined future events to determine the types of responses an organism should display to maintain allostasis in the face of new circumstances. The product of these internally generated processes in the orbitofrontal cortex is submitted to the insula to assist in the appraisal of new events. The importance of this evaluative process makes it easier to understand why humans that lack the vital contribution of the orbitofrontal cortex due to damage or surgery display extreme states of anger, lack self-control, and are more prone to rapid aggression without thinking about the consequences of these negative responses. Below, we discuss some of the connections in the brain that facilitate these two functions, which are also exemplified in <link target-id="Image-13.14" />.</para>
         <list type="enumerated" id="list-00002">
-          <item><emphasis effect="italics">Assessing goal-relevance of exteroceptive signals</emphasis>:
-            Orbitofrontal cortex neurons are supplied with neural signals representing every
-            stimulus modality (exteroceptors) in the outer world. This arrangement may explain why
-            neural activity in the orbitofrontal cortex is elevated when humans are exposed to
-            somatosensory stimulation, visually presented scenes of erotic images, or facial
-            expression involving either rewarding stimuli such as smiles or aversive stimuli in the
-            form of angry expressions (for a review see, Dixon, Thiruchselvam, Todd, &amp;
-            Christoff, 2017). Interconnections with the amygdala, hypothalamus, and periaqueductal
-            gray then help with assessing the goal-relevance of these exteroceptive signals. These
-            areas provide information regarding rewards, punishment, current physiological needs and
-            the agonistic or appetitive behaviors to exert on the environment to achieve these
-            goals. The orbitofrontal cortex uses this information to assign positive or negative
-            emotional labels to exteroceptive stimuli by considering how responses exerted on the
-            environment in the past led to either favorable or undesirable consequences for the
-            organism. The assessment role of the orbitofrontal cortex is in many ways an extension
-            of the role of the amygdala in assigning affective value to sensory stimuli. The
-            orbitofrontal cortex extends the role of the amygdala by learning the ever-changing
-            relationships between sensory features of exteroceptive stimuli.</item>
-          <item><emphasis effect="italics">Using internal thoughts, memories and imagined events to
-            determine a response</emphasis>: The orbitofrontal cortex receives a great deal of
-            information from brain structures involved in planning and simulating “if/then”
-            scenarios of the possible outcomes of a given response. It is also the recipient of
-            inputs from brain regions that store long term episodic memories of the outcomes of
-            responses made in the past to exteroceptive stimuli including the hippocampus and
-            cingulate cortex. These kinds of connections are the reason that activity of some
-            orbitofrontal cortex neurons are more readily observed when humans are engaged in
-            internally oriented thinking, but inhibited when it is necessary to focus attention on
-            externally presented stimuli. The orbitofrontal cortex draws on these connections to
-            contribute to an organism’s personal appraisal of higher-order internal events,
-            self-reflection of thoughts and memories triggered by a given event. </item>
+          <item><emphasis effect="italics">Assessing goal-relevance of exteroceptive signals</emphasis>: Orbitofrontal cortex neurons are supplied with neural signals representing every stimulus modality (exteroceptors) in the outer world. This arrangement may explain why neural activity in the orbitofrontal cortex is elevated when humans are exposed to somatosensory stimulation, visually presented scenes of erotic images, or facial expression involving either rewarding stimuli such as smiles or aversive stimuli in the form of angry expressions (for a review see, Dixon, Thiruchselvam, Todd, &amp; Christoff, 2017). Interconnections with the amygdala, hypothalamus, and periaqueductal gray then help with assessing the goal-relevance of these exteroceptive signals. These areas provide information regarding rewards, punishment, current physiological needs and the agonistic or appetitive behaviors to exert on the environment to achieve these goals. The orbitofrontal cortex uses this information to assign positive or negative emotional labels to exteroceptive stimuli by considering how responses exerted on the environment in the past led to either favorable or undesirable consequences for the organism. The assessment role of the orbitofrontal cortex is in many ways an extension of the role of the amygdala in assigning affective value to sensory stimuli. The orbitofrontal cortex extends the role of the amygdala by learning the ever-changing relationships between sensory features of exteroceptive stimuli.</item>
+          <item><emphasis effect="italics">Using internal thoughts, memories and imagined events to determine a response</emphasis>: The orbitofrontal cortex receives a great deal of information from brain structures involved in planning and simulating “if/then” scenarios of the possible outcomes of a given response. It is also the recipient of inputs from brain regions that store long term episodic memories of the outcomes of responses made in the past to exteroceptive stimuli including the hippocampus and cingulate cortex. These kinds of connections are the reason that activity of some orbitofrontal cortex neurons are more readily observed when humans are engaged in internally oriented thinking, but inhibited when it is necessary to focus attention on externally presented stimuli. The orbitofrontal cortex draws on these connections to contribute to an organism’s personal appraisal of higher-order internal events, self-reflection of thoughts and memories triggered by a given event. </item>
         </list>
       </section>
       <section id="sect-00009">
         <title>Dorsolateral Prefrontal Cortex.</title>
 
-        <para id="para-00024">The dorsolateral prefrontal cortex is a separate structure attributed
-          a role in the process of emotional appraisal. Cognitive mechanisms in the dorsolateral
-          prefrontal cortex are quite complex and perform a range of high-level computations on the
-          behavioral actions an organism makes. Dorsolateral prefrontal cortex neurons are given the
-          executive task of understanding the rules governing any given social environment, the
-          goals of the organism in terms of allostasis and performing continuous updates or
-          corrections of one’s ongoing emotional state (see <link document="m00065">Attention and
-          Executive Function</link>). This highly complex responsibility is a necessary component of <term id="term-00023">emotion regulation</term>, the process where value is assigned to
-          emotional feelings created by initial appraisal processes and the behavioral actions that
-          were generated as a result. The dorsolateral prefrontal cortex sits in the “executive’s
-          seat” by attending to the emotional evaluation process occurring in the cortical and
-          subcortical structures discussed above. It uses this information to guide responses in
-          specific contexts away from non-adaptive, short term payoffs of immediate rewards, towards
-          more favorable behavioral actions that materialize into beneficial future outcomes.</para>
+        <para id="para-00024">The dorsolateral prefrontal cortex is a separate structure attributed a role in the process of emotional appraisal. Cognitive mechanisms in the dorsolateral prefrontal cortex are quite complex and perform a range of high-level computations on the behavioral actions an organism makes. Dorsolateral prefrontal cortex neurons are given the executive task of understanding the rules governing any given social environment, the goals of the organism in terms of allostasis and performing continuous updates or corrections of one’s ongoing emotional state (see <link document="m00065">Attention and Executive Function</link>). This highly complex responsibility is a necessary component of <term id="term-00023">emotion regulation</term>, the process where value is assigned to emotional feelings created by initial appraisal processes and the behavioral actions that were generated as a result. The dorsolateral prefrontal cortex sits in the “executive’s seat” by attending to the emotional evaluation process occurring in the cortical and subcortical structures discussed above. It uses this information to guide responses in specific contexts away from non-adaptive, short term payoffs of immediate rewards, towards more favorable behavioral actions that materialize into beneficial future outcomes.</para>
       </section>
     </section>
     <section id="sect-00010">
       <title>Anterior Cingulate Cortex</title>
 
-      <para id="para-00025">The theories proposed by James-Lange and Cannon-Bard both stressed the
-        importance of physiological reactions within the body as contributors to the development of
-        emotions. We now know that this component of both theories is mediated by neural activation
-        of the anterior cingulate cortex. The functions of the anterior cingulate cortex can be
-        divided into 3 domains, summarized in <link target-id="Image-13.17"/>.</para>
+      <para id="para-00025">The theories proposed by James-Lange and Cannon-Bard both stressed the importance of physiological reactions within the body as contributors to the development of emotions. We now know that this component of both theories is mediated by neural activation of the anterior cingulate cortex. The functions of the anterior cingulate cortex can be divided into 3 domains, summarized in <link target-id="Image-13.17" />.</para>
       <figure id="Image-13.17">
         <title>Anterior cingulate cortex and emotion</title>
         <media alt="A diagram of a brain, sliced sagittally at midline. The anterior cingulate cortex and its input/output structures are highlighted.">
-          <image mime-type="image/png" src="../../media/Image-13.17_anterior-cingulate-cortex-and-emotion.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.17_anterior-cingulate-cortex-and-emotion.png" />
         </media>
       </figure>
-      <para id="para-00026">First, the anterior cingulate monitors internal physiology (e.g. heart
-        rate, respiration) and makes evaluations to determine what level or intensity of
-        physiological bodily adjustments are necessary to cope with the challenges posed by new
-        experiences. To make these assessments, it uses important inputs from the orbitofrontal
-        cortex, amygdala and hippocampus that project understanding of the inherent value, meaning,
-        and also anticipated outcomes of a given situation. Downstream connections to the
-        hypothalamus and other brainstem regions then allow it to influence internal physiological
-        reactions.</para>
-      <para id="para-00027">Second, the cingulate cortex gives conceptual meaning to the
-        physiological information it receives. It generates feelings of satisfaction when it deems
-        the physiological information to reflect adaptation to external events, or states of
-        displeasure when it assesses the behavioral and internal changes as not beneficial to the
-        organism. Please note that the previous sections identified other brainstem and cortical
-        structures that also process interoceptive signals. The contribution of the anterior
-        cingulate cortex to emotions is somewhat different, however, since the appraisal processes
-        undertaken in this area results in organisms developing<emphasis effect="italics">conceptual
-        meanings</emphasis> to the bodily sensations they experience. For example, many individuals
-        avoid public speaking and the anticipation of even being in the stimulus context of an
-        audience produces heightened levels of arousal and a number of unwanted interoceptive
-        changes including raised heart rate, heavy breathing, tight feeling in the stomach or
-        butterflies. These interoceptive changes also occur in experienced speakers, yet the<emphasis effect="italics">conceptual meaning</emphasis> they apply to these changes may not be
-        fear, anxiety or fright, but simply a suite of necessary signals to mark or denote the
-        significance of the behavioral responses they are about to exert on the environment (i.e.
-        public audience). The same application of <emphasis effect="italics">conceptual meaning</emphasis>
-        to internal changes is what distinguishes experienced, accomplished athletes from those who
-        crumble under the stress and anxiety produced by these same interoceptive changes. The
-        cognitive processing that takes place in the anterior cingulate cortex is what engenders one
-        to not only to be aware of fluctuations in their interoceptive sensations, but to use
-        conceptual knowledge to understand and regulate their emotional feelings that emerge in
-        different contextual settings.</para>
-      <para id="para-00028">Third, the anterior cingulate cortex also assigns some positive or
-        negative value to potential actions. It does this by assessing the degree of effort required
-        to produce any potential action and maintaining a record of the observed consequences of the
-        behavioral response (i.e. favorable or unfavorable) during an emotional encounter (Rangel,
-        Camerer, &amp; Montague, 2008). Direct anatomical connections with areas of the motor system
-        allow the cingulate to create action or response plans (see <link document="m00017">Motor
-        Control</link>).</para>
+      <para id="para-00026">First, the anterior cingulate monitors internal physiology (e.g. heart rate, respiration) and makes evaluations to determine what level or intensity of physiological bodily adjustments are necessary to cope with the challenges posed by new experiences. To make these assessments, it uses important inputs from the orbitofrontal cortex, amygdala and hippocampus that project understanding of the inherent value, meaning, and also anticipated outcomes of a given situation. Downstream connections to the hypothalamus and other brainstem regions then allow it to influence internal physiological reactions.</para>
+      <para id="para-00027">Second, the cingulate cortex gives conceptual meaning to the physiological information it receives. It generates feelings of satisfaction when it deems the physiological information to reflect adaptation to external events, or states of displeasure when it assesses the behavioral and internal changes as not beneficial to the organism. Please note that the previous sections identified other brainstem and cortical structures that also process interoceptive signals. The contribution of the anterior cingulate cortex to emotions is somewhat different, however, since the appraisal processes undertaken in this area results in organisms developing<emphasis effect="italics">conceptual meanings</emphasis> to the bodily sensations they experience. For example, many individuals avoid public speaking and the anticipation of even being in the stimulus context of an audience produces heightened levels of arousal and a number of unwanted interoceptive changes including raised heart rate, heavy breathing, tight feeling in the stomach or butterflies. These interoceptive changes also occur in experienced speakers, yet the<emphasis effect="italics">conceptual meaning</emphasis> they apply to these changes may not be fear, anxiety or fright, but simply a suite of necessary signals to mark or denote the significance of the behavioral responses they are about to exert on the environment (i.e. public audience). The same application of <emphasis effect="italics">conceptual meaning</emphasis> to internal changes is what distinguishes experienced, accomplished athletes from those who crumble under the stress and anxiety produced by these same interoceptive changes. The cognitive processing that takes place in the anterior cingulate cortex is what engenders one to not only to be aware of fluctuations in their interoceptive sensations, but to use conceptual knowledge to understand and regulate their emotional feelings that emerge in different contextual settings.</para>
+      <para id="para-00028">Third, the anterior cingulate cortex also assigns some positive or negative value to potential actions. It does this by assessing the degree of effort required to produce any potential action and maintaining a record of the observed consequences of the behavioral response (i.e. favorable or unfavorable) during an emotional encounter (Rangel, Camerer, &amp; Montague, 2008). Direct anatomical connections with areas of the motor system allow the cingulate to create action or response plans (see <link document="m00017">Motor Control</link>).</para>
 
       <note class="across-species" id="note-00002">
         <title> Generalization of findings of fear, threat and anxiety across species</title>
-  <para id="para-00029">Much of our study of emotions has been informed by animal studies,
-        especially in rodents. While animal studies have greatly advanced our understanding of
-        neural circuitry underlying emotion, not all results from animals have generalized well to
-        humans. The neural circuitry supporting fear provides a good example of the challenges of
-        generalizing from animal models to humans. Fear is a particularly well-studied emotion in
-        rodent models because rodents have characteristic fear-related behaviors that are easy to
-        observe, such as freezing. Early work in animal studies generated the idea that a dedicated
-        fear circuit exists in the brains of both rodents and humans to serve an evolutionary
-        function of survival. The key to the fear circuit idea is that it is a single system and
-        each piece is necessary to produce fear. Numerous animal studies have supported the
-        existence of a fear circuit in rodent models with the amygdala performing a particularly
-        critical role in generating fear.</para>
-  <para id="para-00030">More contemporary viewpoints
-        challenge the fear circuitry position and propose that emotional responses are generated by
-        a network of brain systems which differ in humans and rodents. Evidence against the fear
-        circuit view in humans was obtained by studies demonstrating that humans with amygdala
-        damage continued to display emotions of fear and threat despite an absence of the primary
-        structure involved in the “fear circuit”. This study permitted three amygdala-lesioned
-        participants to inhale 35% carbon dioxide CO2, which is known to produce panic attacks and
-        fear in normal participants. Despite having extensive amygdala damage as a result of
-        Urbach-Wieth disease, all three participants displayed excessive fear responses, panic
-        attacks, and elevated physiological markers of fear such as increased respiration and heart
-        rate (Feinstein, et al., 2013). These findings are unique in that previous studies reported
-        a complete absence of fear or threat in Urbach-Wieth participants during presentation of
-        fearful external stimuli including live snakes, spiders, tour of a haunted house or
-        emotionally evocative horror films (Feinstein, Adolphs, Damasio &amp; Tranel, 2011). These
-        findings support the idea of a network of brain emotional systems in humans. This network is
-        capable of responding to external threats (mediated via the amygdala). In addition, other
-        brain emotion systems may elicit fear and threat through connections with acid-detecting
-        chemoreceptors that are sensitive to internal changes produced by elevated concentrations of
-        CO2 within the body.</para>The network position considers that, in humans, subjective
-        feelings are mental states of <emphasis effect="italics">feeling</emphasis> that are
-        generated by higher order brain structures such as the prefrontal cortex, insula and
-        cingulate cortices. These cortical structures are involved in planning, decision making,
-        emotional regulation and emotional appraisal processing. According to this view, brain
-        systems that generate<emphasis effect="italics">feelings</emphasis> are completely separate
-        from subcortical structures such as the amygdala and hypothalamus that play primary roles in
-        detecting fear or threat. The major function of the subcortical systems are to prepare the
-        organism by directing physiological changes in the body and defensive behavioral responses
-        when organisms detect immediate sources of harm or danger such as those depicted in <link document="m00048" target-id="Image-13.10"/>, (or <emphasis effect="italics">a rapidly
-        approaching vehicle, animal or human; a surprise quiz</emphasis>), or when these
-        uncomfortable states are uncertain or implied by some form of environmental stimuli (<emphasis effect="italics">e.g. plummeting economy that directly affects your line of employment;
-        changes in the criteria for acceptance into graduate, medical, law or business school</emphasis>
-        ).</note>
+  <para id="para-00029">Much of our study of emotions has been informed by animal studies, especially in rodents. While animal studies have greatly advanced our understanding of neural circuitry underlying emotion, not all results from animals have generalized well to humans. The neural circuitry supporting fear provides a good example of the challenges of generalizing from animal models to humans. Fear is a particularly well-studied emotion in rodent models because rodents have characteristic fear-related behaviors that are easy to observe, such as freezing. Early work in animal studies generated the idea that a dedicated fear circuit exists in the brains of both rodents and humans to serve an evolutionary function of survival. The key to the fear circuit idea is that it is a single system and each piece is necessary to produce fear. Numerous animal studies have supported the existence of a fear circuit in rodent models with the amygdala performing a particularly critical role in generating fear.</para>
+  <para id="para-00030">More contemporary viewpoints challenge the fear circuitry position and propose that emotional responses are generated by a network of brain systems which differ in humans and rodents. Evidence against the fear circuit view in humans was obtained by studies demonstrating that humans with amygdala damage continued to display emotions of fear and threat despite an absence of the primary structure involved in the “fear circuit”. This study permitted three amygdala-lesioned participants to inhale 35% carbon dioxide CO2, which is known to produce panic attacks and fear in normal participants. Despite having extensive amygdala damage as a result of Urbach-Wieth disease, all three participants displayed excessive fear responses, panic attacks, and elevated physiological markers of fear such as increased respiration and heart rate (Feinstein, et al., 2013). These findings are unique in that previous studies reported a complete absence of fear or threat in Urbach-Wieth participants during presentation of fearful external stimuli including live snakes, spiders, tour of a haunted house or emotionally evocative horror films (Feinstein, Adolphs, Damasio &amp; Tranel, 2011). These findings support the idea of a network of brain emotional systems in humans. This network is capable of responding to external threats (mediated via the amygdala). In addition, other brain emotion systems may elicit fear and threat through connections with acid-detecting chemoreceptors that are sensitive to internal changes produced by elevated concentrations of CO2 within the body.</para>The network position considers that, in humans, subjective feelings are mental states of <emphasis effect="italics">feeling</emphasis> that are generated by higher order brain structures such as the prefrontal cortex, insula and cingulate cortices. These cortical structures are involved in planning, decision making, emotional regulation and emotional appraisal processing. According to this view, brain systems that generate<emphasis effect="italics">feelings</emphasis> are completely separate from subcortical structures such as the amygdala and hypothalamus that play primary roles in detecting fear or threat. The major function of the subcortical systems are to prepare the organism by directing physiological changes in the body and defensive behavioral responses when organisms detect immediate sources of harm or danger such as those depicted in <link document="m00048" target-id="Image-13.10" />, (or <emphasis effect="italics">a rapidly approaching vehicle, animal or human; a surprise quiz</emphasis>), or when these uncomfortable states are uncertain or implied by some form of environmental stimuli (<emphasis effect="italics">e.g. plummeting economy that directly affects your line of employment; changes in the criteria for acceptance into graduate, medical, law or business school</emphasis> ).</note>
     </section>
 
     <section class="section-summary" id="sect-00011">
       <title>Summary</title>
-      <para id="para-00031">The three components essential for emotional awareness involves an
-        evaluation of exteroceptive stimuli, their impact on interoceptive physiological changes and
-        complicated appraisal processes that inform the body of which goal directed “agonistic or
-        appetitive” responses to generate to stimuli within the immediate environment. The Papez
-        circuit is critical to all of these components. Subcortical structures of the Papez circuit,
-        like the hypothalamus and amygdala, operate in the background, out of conscious awareness,
-        to control many of the mind/body interactions that permit organisms to detect the
-        significance of a given circumstances and to select the appropriate adaptive responses to
-        preserve a state of homeostasis and allostasis. The combination of appraisal, conceptual,
-        decision-making and motor planning exercises performed within the cortical regions of the
-        Papez circuit allows organisms to successfully meet the appetitive or agonistic challenges
-        in the environment. Some caution must be exerted however, in translating findings from
-        animal studies to direct applications in humans. One challenge for all of neuroscience
-        research is to understand which neural circuits underlying emotions in animals are also
-        found in humans. </para>
+      <para id="para-00031">The three components essential for emotional awareness involves an evaluation of exteroceptive stimuli, their impact on interoceptive physiological changes and complicated appraisal processes that inform the body of which goal directed “agonistic or appetitive” responses to generate to stimuli within the immediate environment. The Papez circuit is critical to all of these components. Subcortical structures of the Papez circuit, like the hypothalamus and amygdala, operate in the background, out of conscious awareness, to control many of the mind/body interactions that permit organisms to detect the significance of a given circumstances and to select the appropriate adaptive responses to preserve a state of homeostasis and allostasis. The combination of appraisal, conceptual, decision-making and motor planning exercises performed within the cortical regions of the Papez circuit allows organisms to successfully meet the appetitive or agonistic challenges in the environment. Some caution must be exerted however, in translating findings from animal studies to direct applications in humans. One challenge for all of neuroscience research is to understand which neural circuits underlying emotions in animals are also found in humans. </para>
     </section>
     <section class="key-terms" id="sect-00012">
       <title>Key Terms</title>
@@ -605,69 +176,26 @@
     </section>
     <section class="references" id="sect-00013">
       <title>References</title>
-      <para id="para-00032">Adolphs, R., Tranel, D., Damasio, H., &amp; Damasio, A. (1994). Impaired recognition of
-        emotion in facial expressions following bilateral damage to the human amygdala. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">372</emphasis>(6507),
-        669–672. https://doi.org/10.1038/372669a0</para>
-      <para id="para-00033">Barrett, L. F., &amp; Satpute, A. B. (2019). Historical pitfalls and new directions in
-        the neuroscience of emotion. <emphasis effect="italics">Neuroscience Letters</emphasis>, <emphasis effect="italics">693</emphasis>, 9–18. https://doi.org/10.1016/j.neulet.2017.07.045</para>
-      <para id="para-00034">Boyden, E. S., Zhang, F., Bamberg, E., Nagel, G., &amp; Deisseroth, K. (2005).
-        Millisecond-timescale, genetically targeted optical control of neural activity. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">8</emphasis>(9),
-        1263–1268. https://doi.org/10.1038/nn1525</para>
-      <para id="para-00035">Cardinale, E. M., Reber, J., O'Connell, K., Turkeltaub, P. E., Tranel, D., Buchanan, T.
-        W., &amp; Marsh, A. A. (2021). Bilateral amygdala damage linked to impaired ability to
-        predict others' fear but preserved moral judgements about causing others fear. <emphasis effect="italics">Proceedings. Biological Sciences</emphasis>, <emphasis effect="italics">
-        288</emphasis>(1943), 20202651. https://doi.org/10.1098/rspb.2020.2651</para>
-      <para id="para-00036">Feinstein, J. S., Adolphs, R., Damasio, A., &amp; Tranel, D. (2011). The human amygdala
-        and the induction and experience of fear. <emphasis effect="italics">Current Biology: CB</emphasis>
-        , <emphasis effect="italics">21</emphasis>(1), 34–38.
-        https://doi.org/10.1016/j.cub.2010.11.042</para>
-      <para id="para-00037">Feinstein, J. S., Buzza, C., Hurlemann, R., Follmer, R. L., Dahdaleh, N. S., Coryell, W.
-        H., Welsh, M. J., Tranel, D., &amp; Wemmie, J. A. (2013). Fear and panic in humans with
-        bilateral amygdala damage. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">16</emphasis>(3), 270–272. https://doi.org/10.1038/nn.3323</para>
-      <para id="para-00038">Hess, W. R. (1933). Der Schlaf. <emphasis effect="italics">Klinische Wochenschrift</emphasis>
-        , <emphasis effect="italics">12</emphasis>, 129–134.</para>
-      <para id="para-00039">Kaloupek, D. G., &amp; Levis, D. J. (1983). Issues in the assessment of fear: Response
-        concordance and prediction of avoidance behavior. <emphasis effect="italics">Journal of
-        Behavioral Assessment</emphasis>, <emphasis effect="italics">5</emphasis>, 239–260.</para>
-      <para id="para-00040">Klüver, H., &amp; Bucy, P. C. (1938). An analysis of certain effects of bilateral
-        temporal lobectomy in the rhesus monkey, with special reference to “psychic blindness”. <emphasis effect="italics">Journal of Psychology</emphasis>, <emphasis effect="italics">5</emphasis>,
-        33–54.</para>
-      <para id="para-00041">Kwon, J. T., Nakajima, R., Kim, H. S., Jeong, Y., Augustine, G. J., &amp; Han, J. H.
-        (2014). Optogenetic activation of presynaptic inputs in lateral amygdala forms associative
-        fear memory. <emphasis effect="italics">Learning &amp; Memory (Cold Spring Harbor, N.Y.)</emphasis>
-        , <emphasis effect="italics">21</emphasis>(11), 627–633.
-        https://doi.org/10.1101/lm.035816.114</para>
-      <para id="para-00042">Lee, S. C., Amir, A., Haufler, D., &amp; Pare, D. (2017). Differential recruitment of
-        competing valence-related amygdala networks during anxiety. <emphasis effect="italics">
-        Neuron</emphasis>, <emphasis effect="italics">96</emphasis>(1), 81–88.e5.
-        https://doi.org/10.1016/j.neuron.2017.09.002</para>
-      <para id="para-00043">MacLean, P. D. (1952). Some psychiatric implications of physiological studies on
-        frontotemporal portion of limbic system (visceral brain). <emphasis effect="italics">Electroencephalography
-        and Clinical Neurophysiology</emphasis>, <emphasis effect="italics">4</emphasis>(4),
-        407–418. https://doi.org/10.1016/0013-4694(52)90073-4</para>
-      <para id="para-00044">Markowitsch, H. J., Calabrese, P., Würker, M., Durwen, H. F., Kessler, J., Babinsky, R.,
-        Brechtelsbauer, D., Heuser, L., &amp; Gehlen, W. (1994). The amygdala's contribution to
-        memory--a study on two patients with Urbach-Wiethe disease. <emphasis effect="italics">
-        Neuroreport</emphasis>, <emphasis effect="italics">5</emphasis>(11), 1349–1352.</para>
-      <para id="para-00045">Papez, J. W. (1937). A proposed mechanism of emotion. <emphasis effect="italics">Archives
-        of Neurology &amp; Psychiatry</emphasis>, <emphasis effect="italics">38</emphasis>, 725–743.</para>
-      <para id="para-00046">Pitkänen, A., &amp; Amaral, D. G. (1998). Organization of the intrinsic connections of
-        the monkey amygdaloid complex: projections originating in the lateral nucleus. <emphasis effect="italics">The Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">398</emphasis>(3), 431–458.
-        https://doi.org/10.1002/(sici)1096-9861(19980831)398:3&lt;431::aid-cne9>3.0.co;2-0</para>
-      <para id="para-00047">Sah, P. (2017). Fear, anxiety, and the amygdala. <emphasis effect="italics">Neuron</emphasis>
-        , <emphasis effect="italics">96</emphasis>(1), 1–2.
-        https://doi.org/10.1016/j.neuron.2017.09.013</para>
-      <para id="para-00048">Sangha, S., Diehl, M. M., Bergstrom, H. C., &amp; Drew, M. R. (2020). Know safety, no
-        fear. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">108</emphasis>, 218–230. https://doi.org/10.1016/j.neubiorev.2019.11.006</para>
-      <para id="para-00049">Staut, C. C., &amp; Naidich, T. P. (1998). Urbach-Wiethe disease (Lipoid proteinosis). <emphasis effect="italics">Pediatric Neurosurgery</emphasis>, <emphasis effect="italics">28</emphasis>(4),
-        212–214. https://doi.org/10.1159/000028653</para>
-      <para id="para-00050">Tranel, D., &amp; Hyman, B. T. (1990). Neuropsychological correlates of bilateral
-        amygdala damage. <emphasis effect="italics">Archives of Neurology</emphasis>, <emphasis effect="italics">47</emphasis>(3), 349–355.
-        https://doi.org/10.1001/archneur.1990.00530030131029</para>
-      <para id="para-00051">Tranel, D., Gullickson, G., Koch, M., &amp; Adolphs, R. (2006). Altered experience of
-        emotion following bilateral amygdala damage. <emphasis effect="italics">Cognitive
-        Neuropsychiatry</emphasis>, <emphasis effect="italics">11</emphasis>(3), 219–232.
-        https://doi.org/10.1080/13546800444000281</para>
+      <para id="para-00032">Adolphs, R., Tranel, D., Damasio, H., &amp; Damasio, A. (1994). Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">372</emphasis>(6507), 669–672. https://doi.org/10.1038/372669a0</para>
+      <para id="para-00033">Barrett, L. F., &amp; Satpute, A. B. (2019). Historical pitfalls and new directions in the neuroscience of emotion. <emphasis effect="italics">Neuroscience Letters</emphasis>, <emphasis effect="italics">693</emphasis>, 9–18. https://doi.org/10.1016/j.neulet.2017.07.045</para>
+      <para id="para-00034">Boyden, E. S., Zhang, F., Bamberg, E., Nagel, G., &amp; Deisseroth, K. (2005). Millisecond-timescale, genetically targeted optical control of neural activity. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">8</emphasis>(9), 1263–1268. https://doi.org/10.1038/nn1525</para>
+      <para id="para-00035">Cardinale, E. M., Reber, J., O'Connell, K., Turkeltaub, P. E., Tranel, D., Buchanan, T. W., &amp; Marsh, A. A. (2021). Bilateral amygdala damage linked to impaired ability to predict others' fear but preserved moral judgements about causing others fear. <emphasis effect="italics">Proceedings. Biological Sciences</emphasis>, <emphasis effect="italics"> 288</emphasis>(1943), 20202651. https://doi.org/10.1098/rspb.2020.2651</para>
+      <para id="para-00036">Feinstein, J. S., Adolphs, R., Damasio, A., &amp; Tranel, D. (2011). The human amygdala and the induction and experience of fear. <emphasis effect="italics">Current Biology: CB</emphasis> , <emphasis effect="italics">21</emphasis>(1), 34–38. https://doi.org/10.1016/j.cub.2010.11.042</para>
+      <para id="para-00037">Feinstein, J. S., Buzza, C., Hurlemann, R., Follmer, R. L., Dahdaleh, N. S., Coryell, W. H., Welsh, M. J., Tranel, D., &amp; Wemmie, J. A. (2013). Fear and panic in humans with bilateral amygdala damage. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">16</emphasis>(3), 270–272. https://doi.org/10.1038/nn.3323</para>
+      <para id="para-00038">Hess, W. R. (1933). Der Schlaf. <emphasis effect="italics">Klinische Wochenschrift</emphasis> , <emphasis effect="italics">12</emphasis>, 129–134.</para>
+      <para id="para-00039">Kaloupek, D. G., &amp; Levis, D. J. (1983). Issues in the assessment of fear: Response concordance and prediction of avoidance behavior. <emphasis effect="italics">Journal of Behavioral Assessment</emphasis>, <emphasis effect="italics">5</emphasis>, 239–260.</para>
+      <para id="para-00040">Klüver, H., &amp; Bucy, P. C. (1938). An analysis of certain effects of bilateral temporal lobectomy in the rhesus monkey, with special reference to “psychic blindness”. <emphasis effect="italics">Journal of Psychology</emphasis>, <emphasis effect="italics">5</emphasis>, 33–54.</para>
+      <para id="para-00041">Kwon, J. T., Nakajima, R., Kim, H. S., Jeong, Y., Augustine, G. J., &amp; Han, J. H. (2014). Optogenetic activation of presynaptic inputs in lateral amygdala forms associative fear memory. <emphasis effect="italics">Learning &amp; Memory (Cold Spring Harbor, N.Y.)</emphasis> , <emphasis effect="italics">21</emphasis>(11), 627–633. https://doi.org/10.1101/lm.035816.114</para>
+      <para id="para-00042">Lee, S. C., Amir, A., Haufler, D., &amp; Pare, D. (2017). Differential recruitment of competing valence-related amygdala networks during anxiety. <emphasis effect="italics"> Neuron</emphasis>, <emphasis effect="italics">96</emphasis>(1), 81–88.e5. https://doi.org/10.1016/j.neuron.2017.09.002</para>
+      <para id="para-00043">MacLean, P. D. (1952). Some psychiatric implications of physiological studies on frontotemporal portion of limbic system (visceral brain). <emphasis effect="italics">Electroencephalography and Clinical Neurophysiology</emphasis>, <emphasis effect="italics">4</emphasis>(4), 407–418. https://doi.org/10.1016/0013-4694(52)90073-4</para>
+      <para id="para-00044">Markowitsch, H. J., Calabrese, P., Würker, M., Durwen, H. F., Kessler, J., Babinsky, R., Brechtelsbauer, D., Heuser, L., &amp; Gehlen, W. (1994). The amygdala's contribution to memory--a study on two patients with Urbach-Wiethe disease. <emphasis effect="italics"> Neuroreport</emphasis>, <emphasis effect="italics">5</emphasis>(11), 1349–1352.</para>
+      <para id="para-00045">Papez, J. W. (1937). A proposed mechanism of emotion. <emphasis effect="italics">Archives of Neurology &amp; Psychiatry</emphasis>, <emphasis effect="italics">38</emphasis>, 725–743.</para>
+      <para id="para-00046">Pitkänen, A., &amp; Amaral, D. G. (1998). Organization of the intrinsic connections of the monkey amygdaloid complex: projections originating in the lateral nucleus. <emphasis effect="italics">The Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">398</emphasis>(3), 431–458. https://doi.org/10.1002/(sici)1096-9861(19980831)398:3&lt;431::aid-cne9>3.0.co;2-0</para>
+      <para id="para-00047">Sah, P. (2017). Fear, anxiety, and the amygdala. <emphasis effect="italics">Neuron</emphasis> , <emphasis effect="italics">96</emphasis>(1), 1–2. https://doi.org/10.1016/j.neuron.2017.09.013</para>
+      <para id="para-00048">Sangha, S., Diehl, M. M., Bergstrom, H. C., &amp; Drew, M. R. (2020). Know safety, no fear. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">108</emphasis>, 218–230. https://doi.org/10.1016/j.neubiorev.2019.11.006</para>
+      <para id="para-00049">Staut, C. C., &amp; Naidich, T. P. (1998). Urbach-Wiethe disease (Lipoid proteinosis). <emphasis effect="italics">Pediatric Neurosurgery</emphasis>, <emphasis effect="italics">28</emphasis>(4), 212–214. https://doi.org/10.1159/000028653</para>
+      <para id="para-00050">Tranel, D., &amp; Hyman, B. T. (1990). Neuropsychological correlates of bilateral amygdala damage. <emphasis effect="italics">Archives of Neurology</emphasis>, <emphasis effect="italics">47</emphasis>(3), 349–355. https://doi.org/10.1001/archneur.1990.00530030131029</para>
+      <para id="para-00051">Tranel, D., Gullickson, G., Koch, M., &amp; Adolphs, R. (2006). Altered experience of emotion following bilateral amygdala damage. <emphasis effect="italics">Cognitive Neuropsychiatry</emphasis>, <emphasis effect="italics">11</emphasis>(3), 219–232. https://doi.org/10.1080/13546800444000281</para>
 
     </section>
 
@@ -675,17 +203,17 @@
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-13-03-001"/></para>
+          <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-13-03-001" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-13-03-002"/></para>
+          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-13-03-002" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-13-03-003"/></para>
+          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-13-03-003" /></para>
         </problem>
       </exercise>
     </section>
@@ -693,17 +221,17 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-13-04-004"/></para>
+          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-13-04-004" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-13-03-005"/></para>
+          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-13-03-005" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00006">
         <problem id="prob-00006">
-          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-13-03-006"/></para>
+          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-13-03-006" /></para>
         </problem>
       </exercise>
     </section>

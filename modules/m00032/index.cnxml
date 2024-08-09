@@ -9,86 +9,95 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Explain how you would choose a model system.</item>
-          <item>Explain how to obtain institutional approvals to use an animal for study.</item>
-        </list>
+      <list id="list-00001">
+        <item>Explain how you would choose a model system.</item>
+        <item>Explain how to obtain institutional approvals to use an animal for study.</item>
+      </list>
     </section>
     <para id="para-00006">In this section, we will discuss how scientists select a model system to study, as well as some of the rules governing use of animals in research.</para>
-    <section id="sect-00002"><title>Selecting a model system</title>
+    <section id="sect-00002">
+      <title>Selecting a model system</title>
       <para id="para-00002">A model organism or <term id="term-00001">model system</term> is an animal that is studied to gain understanding about biological phenomena, with the expectation that what is learned will apply broadly across other species. The choice of model system depends on several key criteria. In behavioral neuroscience, it is primarily based on the behavior or dysfunction we aim to understand.</para>
 
       <para id="para-00003">Scientists sometimes select closely related species with very different behaviors so that they may understand how differences in neural systems support differences in behaviors. For example, we will see in subsequent sections that several species of voles are conducive to studying social bonding because they are closely related to each other but show highly divergent social behaviors. These studies have helped researchers understand how neural organization of voles underlie social behaviors. </para>
-      
+
       <para id="para-00004">The selection of a model system can also be guided by its extraordinary ability. For example, bats use echolocation to navigate their environment. They send out sonic signals, which they then use to interpret the shape of their environment based on what sound bounces back. Bats integrate this information with visual information, making them good models to understand the neural basis of multi-sensory integration (Moss and Sinha, 2003).</para>
-      
+
       <para id="para-00005">Finally, phylogenetic proximity to humans is a key benefit when we want to use model organisms to understand human biology. For example, we will discuss how macaques have helped us understand human neurodevelopment because they are closely related to us. There are many other examples that illustrate the importance of letting behavior guide the choice of a model system. While researchers may each have a preferred model system for studying their question, the integration of information across model systems provides a comprehensive understanding of the neurobiological mechanisms of a behavior.</para>
-      
+
       <para id="para-00007">In addition to having the behavior drive model selection, there are practical concerns associated with the use of model species. In many cases, scientists are concerned about how easily the model organism can breed and be housed in a laboratory. While experiments in the wild can be informative, laboratory environments provide much greater control over what animals experience and how data are collected. Mice are by far the most used laboratory species in biomedical research because they are sufficiently similar to humans, and because they are readily (and cheaply) maintained in a controlled lab setting (de Sousa et al., 2023). They are also amenable to study because scientists can obtain many of them. Other model systems include rats, voles, hamsters, guinea pigs, naked-mole rats, rabbits, opossums, and cats (Clancy et al., 2001). Non-human primates are also used in research and include macaques and marmosets. Each of these organisms has practical drawbacks and benefits in their use.</para>
     </section>
-    <section id="sect-00003"><title>History and regulation of animal research</title>
-  <para id="para-00008">Humans have been using animal models for centuries. For example, researchers in ancient Greece dissected animals with the goal of better understanding human anatomy. This is because there were taboos of studying human anatomy. Prominent physicians also performed surgeries on live animals called vivisections to learn about living anatomy in ways they could not in humans (Allen Shotwell, 2013). Today, we have different ethical standards than we did in the past, and scientists must follow a strict code of conduct when it comes to experimenting on animals or humans. That is, researchers must follow strict guidelines to perform research on animals.</para>
+    <section id="sect-00003">
+      <title>History and regulation of animal research</title>
+      <para id="para-00008">Humans have been using animal models for centuries. For example, researchers in ancient Greece dissected animals with the goal of better understanding human anatomy. This is because there were taboos of studying human anatomy. Prominent physicians also performed surgeries on live animals called vivisections to learn about living anatomy in ways they could not in humans (Allen Shotwell, 2013). Today, we have different ethical standards than we did in the past, and scientists must follow a strict code of conduct when it comes to experimenting on animals or humans. That is, researchers must follow strict guidelines to perform research on animals.</para>
 
-<para id="para-00009">Any research on animals must first be approved by an <term id="term-00002">Institutional animal care and use committee (IACUC)</term> at the researcher’s home institution. The IACUC is composed of scientists, as well as members of the general public. The first step in the process is for a researcher to write a proposal that articulates the necessity of using animals in research and explains the benefit to society. The IACUC reviews this proposal and evaluates whether the proposed study is sufficiently justified to warrant the use of animals in a research study (Prentice et al., 1992). A major focus for the IACUC is to ensure that measures are used to minimize pain. In addition, the IACUC considers how many animals the researcher proposes to use to make sure they are not proposing either more or less than are needed to yield reliable results. Therefore, IACUC plays a critical role in fostering ethical and responsible animal research, which benefits researchers as well as the community at large.</para>
+      <para id="para-00009">Any research on animals must first be approved by an <term id="term-00002">Institutional animal care and use committee (IACUC)</term> at the researcher’s home institution. The IACUC is composed of scientists, as well as members of the general public. The first step in the process is for a researcher to write a proposal that articulates the necessity of using animals in research and explains the benefit to society. The IACUC reviews this proposal and evaluates whether the proposed study is sufficiently justified to warrant the use of animals in a research study (Prentice et al., 1992). A major focus for the IACUC is to ensure that measures are used to minimize pain. In addition, the IACUC considers how many animals the researcher proposes to use to make sure they are not proposing either more or less than are needed to yield reliable results. Therefore, IACUC plays a critical role in fostering ethical and responsible animal research, which benefits researchers as well as the community at large.</para>
 
-<para id="para-00010">The use of animals in research has a proven track record of saving human lives. There are emerging alternatives that may reduce the need for animal models. Later in this chapter, we will discuss one exciting new frontier which has much potential to reduce the need for animals. We are making reference to organoids. Organoids are derived from stem cells and are grown into clumps that share many features with actual organs. Theoretically, these organoids can be grown from stem cells of any species. Organoids can be used to study biological processes in rare and endangered species, and to test possible treatments for disease. We can take skin cells, reprogram them to stem cells, grow organoids, and test possible treatments for disease (Quadrato et al., 2016). Testing treatments in organoids is a viable option, especially in cases where testing treatments directly in humans would be unethical. Therefore, these stem cell-based approaches open up new and exciting possibilities for research. They also provide insights about systems that would otherwise be unethical or impractical to study in a model system.</para></section>
-<section class="section-summary" id="sect-00004">
-  <title>Summary</title>
-  <para id="para-00017"><link url="https://openstax.org/r/Neuro4Summary">Author's summary</link></para>
-  <para id="para-00018">Animal models are used to understand biological phenomena and behaviors that can be applied to a broad range of species. The choice of model organisms is based on behavioral characteristics, breeding, ease of handling and/or exceptional abilities. Animal research must follow strict guidelines and be approved by an ethics committee called IACUC. While animal models have a proven track record in saving human lives, there are emerging alternatives such as organoids that may reduce the need for animal testing.</para></section>
-<section class="key-terms" id="sect-00005">
-  <title>Key Terms</title>
-  <list display="inline" id="list-00002"><item>Model system</item><item>IACUC</item></list>
-</section>
-<section class="references" id="sect-00006">
-  <title>References</title>
-  <para id="para-00011">Allen Shotwell, R. (2013). The revival of vivisection in the sixteenth century. <emphasis effect="italics">Journal of the History of Biology</emphasis>, <emphasis effect="italics">46</emphasis>(2), 171–197. https://doi.org/10.1007/s10739-012-9326-8</para>
+      <para id="para-00010">The use of animals in research has a proven track record of saving human lives. There are emerging alternatives that may reduce the need for animal models. Later in this chapter, we will discuss one exciting new frontier which has much potential to reduce the need for animals. We are making reference to organoids. Organoids are derived from stem cells and are grown into clumps that share many features with actual organs. Theoretically, these organoids can be grown from stem cells of any species. Organoids can be used to study biological processes in rare and endangered species, and to test possible treatments for disease. We can take skin cells, reprogram them to stem cells, grow organoids, and test possible treatments for disease (Quadrato et al., 2016). Testing treatments in organoids is a viable option, especially in cases where testing treatments directly in humans would be unethical. Therefore, these stem cell-based approaches open up new and exciting possibilities for research. They also provide insights about systems that would otherwise be unethical or impractical to study in a model system.</para>
+    </section>
+    <section class="section-summary" id="sect-00004">
+      <title>Summary</title>
+      <para id="para-00017"><link url="https://openstax.org/r/Neuro4Summary">Author's summary</link></para>
+      <para id="para-00018">Animal models are used to understand biological phenomena and behaviors that can be applied to a broad range of species. The choice of model organisms is based on behavioral characteristics, breeding, ease of handling and/or exceptional abilities. Animal research must follow strict guidelines and be approved by an ethics committee called IACUC. While animal models have a proven track record in saving human lives, there are emerging alternatives such as organoids that may reduce the need for animal testing.</para>
+    </section>
+    <section class="key-terms" id="sect-00005">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Model system</item>
+        <item>IACUC</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00006">
+      <title>References</title>
+      <para id="para-00011">Allen Shotwell, R. (2013). The revival of vivisection in the sixteenth century. <emphasis effect="italics">Journal of the History of Biology</emphasis>, <emphasis effect="italics">46</emphasis>(2), 171–197. https://doi.org/10.1007/s10739-012-9326-8</para>
 
-  <para id="para-00012">Buffenstein, R., Park, T., Hanes, M., &amp; Artwohl, J. E. (2012). Naked mole rat. In <emphasis effect="italics">The laboratory rabbit, guinea pig, hamster, and other rodents</emphasis> (pp. 1055–1074). Academic Press.</para>
-  
-  <para id="para-00013">Clancy, B., Darlington, R. B., &amp; Finlay, B. L. (2001). Translating developmental time across mammalian species. <emphasis effect="italics">Neuroscience</emphasis>, <emphasis effect="italics">105</emphasis>(1), 7–17. https://doi.org/10.1016/S0306-4522(01)00171-3</para>
-  
-  <para id="para-00014">Daw, N. W. (2009). The foundations of development and deprivation in the visual system. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">587</emphasis>(12), 2769–2773. https://doi.org/10.1113/jphysiol.2009.170001</para>
-  
-  <para id="para-00015">de Sousa, A. A., Rigby Dames, B. A., Graff, E. C., Mohamedelhassan, R., Vassilopoulos, T., &amp; Charvet, C. J. (2023). Going beyond established model systems of Alzheimer's disease: Companion animals provide novel insights into the neurobiology of aging. <emphasis effect="italics">Communications Biology</emphasis>, <emphasis effect="italics">6</emphasis>(1), 655. https://doi.org/10.1038/s42003-023-05034-3</para>
-  
-  <para id="para-00016">Moss, C. F., &amp; Sinha, S. R. (2003). Neurobiology of echolocation in bats. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis effect="italics">13</emphasis>(6), 751–758. https://doi.org/10.1016/j.conb.2003.10.016</para>
-  
-  <para id="para-00019">Prentice, E. D., Crouse, D. A., &amp; Mann, M. D. (1992). Scientific merit review: The role of the IACUC. <emphasis effect="italics">ILAR Journal</emphasis>, <emphasis effect="italics">34</emphasis>(1-2), 15–19. https://doi.org/10.1093/ilar.34.1-2.15</para>
-  
-  <para id="para-00020">Quadrato, G., Brown, J., &amp; Arlotta, P. (2016). The promises and challenges of human brain organoids as models of neuropsychiatric disease. <emphasis effect="italics">Nature Medicine</emphasis>, <emphasis effect="italics">22</emphasis>(11), 1220–1228. https://doi.org/10.1038/nm.4214</para>
-  
-  <para id="para-00021">Schwiening, C. J. (2012). A brief historical perspective: Hodgkin and Huxley. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">590</emphasis>(11), 2571–2575. https://doi.org/10.1113/jphysiol.2012.230458</para>
-  
-  <para id="para-00022">Striedter, G. F. (2005). <emphasis effect="italics">Principles of brain evolution</emphasis>. Sinauer Associates.</para>
-  
-  <para id="para-00027">Striedter, G. F. (2016). <emphasis effect="italics">Neurobiology: A functional approach</emphasis>. Oxford University Press.</para>
-  
-  
-</section>
-<section class="multiple-choice" id="sect-00007"> 
-  <title>Multiple Choice</title>
-  <exercise id="exer-00001">
-    <problem id="prob-00001">
-      <para id="para-00023"><link class="os-embed" url="#exercise/Neuro-04-01-001"/></para>
-    </problem>
-  </exercise>
-  <exercise id="exer-00002">
-    <problem id="prob-00002">
-      <para id="para-00024"><link class="os-embed" url="#exercise/Neuro-04-01-002"/></para>
-    </problem>
-  </exercise>
-  <exercise id="exer-00003">
-    <problem id="prob-00003">
-      <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-04-01-003"/></para>
-    </problem>
-  </exercise></section>
-<section class="fillin-blank" id="sect-00008"> 
-  <title>Fill in the Blank</title>
-  <exercise id="exer-00004">
-    <problem id="prob-00004">
-<para id="para-00026"><link class="os-embed" url="#exercise/Neuro-04-01-004"/></para>    </problem>
-  </exercise>
-</section>
+      <para id="para-00012">Buffenstein, R., Park, T., Hanes, M., &amp; Artwohl, J. E. (2012). Naked mole rat. In <emphasis effect="italics">The laboratory rabbit, guinea pig, hamster, and other rodents</emphasis> (pp. 1055–1074). Academic Press.</para>
+
+      <para id="para-00013">Clancy, B., Darlington, R. B., &amp; Finlay, B. L. (2001). Translating developmental time across mammalian species. <emphasis effect="italics">Neuroscience</emphasis>, <emphasis effect="italics">105</emphasis>(1), 7–17. https://doi.org/10.1016/S0306-4522(01)00171-3</para>
+
+      <para id="para-00014">Daw, N. W. (2009). The foundations of development and deprivation in the visual system. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">587</emphasis>(12), 2769–2773. https://doi.org/10.1113/jphysiol.2009.170001</para>
+
+      <para id="para-00015">de Sousa, A. A., Rigby Dames, B. A., Graff, E. C., Mohamedelhassan, R., Vassilopoulos, T., &amp; Charvet, C. J. (2023). Going beyond established model systems of Alzheimer's disease: Companion animals provide novel insights into the neurobiology of aging. <emphasis effect="italics">Communications Biology</emphasis>, <emphasis effect="italics">6</emphasis>(1), 655. https://doi.org/10.1038/s42003-023-05034-3</para>
+
+      <para id="para-00016">Moss, C. F., &amp; Sinha, S. R. (2003). Neurobiology of echolocation in bats. <emphasis effect="italics">Current Opinion in Neurobiology</emphasis>, <emphasis effect="italics">13</emphasis>(6), 751–758. https://doi.org/10.1016/j.conb.2003.10.016</para>
+
+      <para id="para-00019">Prentice, E. D., Crouse, D. A., &amp; Mann, M. D. (1992). Scientific merit review: The role of the IACUC. <emphasis effect="italics">ILAR Journal</emphasis>, <emphasis effect="italics">34</emphasis>(1-2), 15–19. https://doi.org/10.1093/ilar.34.1-2.15</para>
+
+      <para id="para-00020">Quadrato, G., Brown, J., &amp; Arlotta, P. (2016). The promises and challenges of human brain organoids as models of neuropsychiatric disease. <emphasis effect="italics">Nature Medicine</emphasis>, <emphasis effect="italics">22</emphasis>(11), 1220–1228. https://doi.org/10.1038/nm.4214</para>
+
+      <para id="para-00021">Schwiening, C. J. (2012). A brief historical perspective: Hodgkin and Huxley. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">590</emphasis>(11), 2571–2575. https://doi.org/10.1113/jphysiol.2012.230458</para>
+
+      <para id="para-00022">Striedter, G. F. (2005). <emphasis effect="italics">Principles of brain evolution</emphasis>. Sinauer Associates.</para>
+
+      <para id="para-00027">Striedter, G. F. (2016). <emphasis effect="italics">Neurobiology: A functional approach</emphasis>. Oxford University Press.</para>
+
+
+    </section>
+    <section class="multiple-choice" id="sect-00007">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00023"><link class="os-embed" url="#exercise/Neuro-04-01-001" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00024"><link class="os-embed" url="#exercise/Neuro-04-01-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-04-01-003" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00008">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-04-01-004" /></para>
+        </problem>
+      </exercise>
+    </section>
   </content>
 </document>

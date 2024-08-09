@@ -8,15 +8,15 @@
   <content class="introduction">
     <figure class="splash" id="fig-00001">
       <media alt="A Brainbow, where each individual neuron stands out due to a different shade of color.">
-        <image mime-type="image/jpg" src="../../media/ch01-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch01-splash.jpg" />
       </media>
       <caption>Brainbow with each neuron a different color. Image credit: Stephen J Smith, CC BY 3.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Irina Calin-Jageman, PhD</title>
       <para id="para-00001"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro1Author"/>
-</media></para>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro1Author" />
+        </media></para>
     </note>
     <para id="para-00002">The human brain contains about 86 billion neurons and roughly 80% of these are found in a part of the brain called the cerebellum (Herculano-Houzel, 2009). Yet, case studies of individuals lacking a cerebellum indicate that for the most part, these individuals function relatively well, sometimes not even discovering their lack of a cerebellum until adulthood. There are other examples of functional and mostly ‘normal’ individuals missing large parts of their brains or even the connection fibers between the left and right sides of the brain (the corpus callosum). Although perhaps less than standard, the brains of these individuals can adapt and function despite a catastrophic loss of brain cells. Compensatory mechanisms often take over allowing other brain regions to perform tasks normally carried out by missing or damaged parts. This tells us something very important about the human brain. We may be tempted to compare it to a machine or a computer. However, our brains are almost nothing like the machines that we know and have created. Removing 80% of a car or a computer would hinder normal operation and make the machine unrecognizable.</para>
     <para id="para-00003">The human brain, which is part of our nervous system, is astonishing and mysterious. Our quest to understand it has been an ongoing human endeavor for centuries. Despite tremendous progress, we are just scratching the surface in fully understanding this complex system. We have acquired basic knowledge of how some nervous system functions map onto specific locations/regions of the brain, but much remains to be learned. While there is good evidence of a strong association of brain function to brain structure, it is also clear from the examples above that for the most part our brains do not fit into a one-to-one ratio of region to function. Complex tasks such as learning, memory, reasoning, fear, compassion, love and hate and everything that makes us human are carried out by multiple brain regions connected through intricate and complex networks. And most importantly, these complex networks in the human brain can reorganize to compensate when something goes wrong.</para>
@@ -25,13 +25,13 @@
     <para id="para-00006">This chapter will focus on the human nervous system and aims to give you the big picture, an overview of its structure and function. In subsequent chapters you will zoom in on details. We will start with the building blocks of the nervous system (its cellular composition) and then go on to the organization of the nervous system and its two main divisions, the central nervous system (CNS) and the peripheral nervous system (PNS). This chapter will lay the foundation for your journey through neuroscience, providing you with basic knowledge about anatomy and function. In later chapters, you will have the opportunity to delve into more detail.</para>
     <section class="references" id="sect-00001">
       <title>References</title>
-      
+
       <para id="para-00007">Eagleman , D., Trackman, T., &amp; Barden, G. (2015). The brain with Dr. David Eagleman. <emphasis effect="italics">Blink Films</emphasis> https://films.com/id/115956/What_is_Reality_Part_1_The_Brain_with_David_Eagleman.htm</para>
 
-<para id="para-00008">Herculano-Houzel, S. (2009). The human brain in numbers: a linearly scaled-up primate brain. <emphasis effect="italics">Frontiers in Human Neuroscience</emphasis>,<emphasis effect="italics">3</emphasis>, 31. https://doi.org/10.3389/neuro.09.031.2009</para>
+      <para id="para-00008">Herculano-Houzel, S. (2009). The human brain in numbers: a linearly scaled-up primate brain. <emphasis effect="italics">Frontiers in Human Neuroscience</emphasis>,<emphasis effect="italics">3</emphasis>, 31. https://doi.org/10.3389/neuro.09.031.2009</para>
 
-<para id="para-00009">Thomson, H. (2014, September 10). Woman of 24 found to have no cerebellum in her brain. <emphasis effect="italics">New Scientist</emphasis>. https://www.newscientist.com/article/mg22329861-900-woman-of-24-found-to-have-no-cerebellum-in-her-brain/</para>
+      <para id="para-00009">Thomson, H. (2014, September 10). Woman of 24 found to have no cerebellum in her brain. <emphasis effect="italics">New Scientist</emphasis>. https://www.newscientist.com/article/mg22329861-900-woman-of-24-found-to-have-no-cerebellum-in-her-brain/</para>
     </section>
-      
+
   </content>
 </document>

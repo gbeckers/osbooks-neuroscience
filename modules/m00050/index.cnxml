@@ -9,109 +9,127 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>List the factors that contribute to bioavailability and describe how they can influence an individual’s response to a drug.</item>
-          <item>Describe how drugs impact neuronal signaling via their interaction with receptors and the neurotransmitter life cycle.</item>
-        </list>
+      <list id="list-00001">
+        <item>List the factors that contribute to bioavailability and describe how they can influence an individual’s response to a drug.</item>
+        <item>Describe how drugs impact neuronal signaling via their interaction with receptors and the neurotransmitter life cycle.</item>
+      </list>
     </section>
-  <para id="para-00002">The physiological and behavioral effects of drugs, also known as <term id="term-00001">pharmacodynamics</term>, are a result of their molecular interactions with receptors located throughout the body. To reach these receptors, the drug must enter the body and cross into the blood circulatory system. However, the amount of drug consumed or administered does not always equal the amount of drug that is available to bind and produce an effect. The proportion of the drug that ultimately reaches the circulation system, referred to as <term id="term-00002">bioavailability</term>, is a key variable in predicting an individual's response to the drug. The range of doses in which a drug is effective without causing adverse effects is known as the <term id="term-00003">therapeutic window</term>. Lower plasma concentrations of a drug are more likely to be ineffective, whereas higher concentrations run the risk of being toxic or even lethal. The ideal drug has a large therapeutic window, meaning there is a large range of concentrations in which the drug is both safe and effective.</para>
-  <section id="sect-00002"><title>Factors affecting drug availability</title>
-<para id="para-00003">The bioavailability of a particular drug is influenced by <term id="term-00004">pharmacokinetics</term> or the movement of the drug throughout the body. Factors such as route of administration, and the rate of absorption, distribution, metabolism, and excretion all have the potential to impact drug bioavailability.</para>
-    <section id="sect-00003"><title>Route of administration</title>
-    <para id="para-00004">The route of administration refers to how a drug is introduced to the body. Although there are several different methods for drug administration, they fall broadly into two categories: <term id="term-00005">enteral</term> administration, which involves the gastrointestinal system, and <term id="term-00006">parenteral</term> administration, which does not. The route of administration plays an important role in determining the onset of action, or the amount of time it takes to experience a drug’s effect. In general, enteral administration is associated with slower onset compared to parenteral administration. Furthermore, the route of administration is often dependent on the chemical structure of the drug since certain formulations may only be effective when delivered a specific way. A few of the more common routes of administration are discussed below and diagrammed in <link target-id="Image-14.21"/>.</para>
-  <figure id="Image-14.21"><title>Routes of drug administration and time of action onset</title>
-    <media alt="Cartoon representations of drugs being administered intravenously (1min), intranasally (1-2 min), via inhalation (1-2 min), orally (20min-1hr) and transdermal (hours)">
-      <image mime-type="image/png" src="../../media/Image-14.21_Routes-of-drug-administration-and-time-of-action-onset.png"/>
-    </media>
-  </figure>
-<para id="para-00005"><term id="term-00007">Oral</term> administration is one of the most frequently used forms of drug administration because it is generally safe, simple, and convenient to self-administer. Drugs designed for oral administration are often formulated as capsules, pills, or tablets, but can also be delivered through a liquid solution. Once ingested, the drug moves through the stomach into the small intestines where it is absorbed into the portal vein and passed through the liver before entering the main circulatory system. This process is known as first-pass metabolism. Enzymes in the liver can chemically alter the drug, resulting in less of it reaching the binding site. Certain protein-based drugs, such as insulin, are destroyed by gastric acids in the stomach before even being absorbed into the portal vein. This is why insulin is typically administered via a subcutaneous (under the skin) injection. The onset of action for orally administered drugs typically ranges from 20 minutes to an hour.</para>
+    <para id="para-00002">The physiological and behavioral effects of drugs, also known as <term id="term-00001">pharmacodynamics</term>, are a result of their molecular interactions with receptors located throughout the body. To reach these receptors, the drug must enter the body and cross into the blood circulatory system. However, the amount of drug consumed or administered does not always equal the amount of drug that is available to bind and produce an effect. The proportion of the drug that ultimately reaches the circulation system, referred to as <term id="term-00002">bioavailability</term>, is a key variable in predicting an individual's response to the drug. The range of doses in which a drug is effective without causing adverse effects is known as the <term id="term-00003">therapeutic window</term>. Lower plasma concentrations of a drug are more likely to be ineffective, whereas higher concentrations run the risk of being toxic or even lethal. The ideal drug has a large therapeutic window, meaning there is a large range of concentrations in which the drug is both safe and effective.</para>
+    <section id="sect-00002">
+      <title>Factors affecting drug availability</title>
+      <para id="para-00003">The bioavailability of a particular drug is influenced by <term id="term-00004">pharmacokinetics</term> or the movement of the drug throughout the body. Factors such as route of administration, and the rate of absorption, distribution, metabolism, and excretion all have the potential to impact drug bioavailability.</para>
+      <section id="sect-00003">
+        <title>Route of administration</title>
+        <para id="para-00004">The route of administration refers to how a drug is introduced to the body. Although there are several different methods for drug administration, they fall broadly into two categories: <term id="term-00005">enteral</term> administration, which involves the gastrointestinal system, and <term id="term-00006">parenteral</term> administration, which does not. The route of administration plays an important role in determining the onset of action, or the amount of time it takes to experience a drug’s effect. In general, enteral administration is associated with slower onset compared to parenteral administration. Furthermore, the route of administration is often dependent on the chemical structure of the drug since certain formulations may only be effective when delivered a specific way. A few of the more common routes of administration are discussed below and diagrammed in <link target-id="Image-14.21"/>.</para>
+        <figure id="Image-14.21">
+          <title>Routes of drug administration and time of action onset</title>
+          <media alt="Cartoon representations of drugs being administered intravenously (1min), intranasally (1-2 min), via inhalation (1-2 min), orally (20min-1hr) and transdermal (hours)">
+            <image mime-type="image/png" src="../../media/Image-14.21_Routes-of-drug-administration-and-time-of-action-onset.png"/>
+          </media>
+        </figure>
+        <para id="para-00005"><term id="term-00007">Oral</term> administration is one of the most frequently used forms of drug administration because it is generally safe, simple, and convenient to self-administer. Drugs designed for oral administration are often formulated as capsules, pills, or tablets, but can also be delivered through a liquid solution. Once ingested, the drug moves through the stomach into the small intestines where it is absorbed into the portal vein and passed through the liver before entering the main circulatory system. This process is known as first-pass metabolism. Enzymes in the liver can chemically alter the drug, resulting in less of it reaching the binding site. Certain protein-based drugs, such as insulin, are destroyed by gastric acids in the stomach before even being absorbed into the portal vein. This is why insulin is typically administered via a subcutaneous (under the skin) injection. The onset of action for orally administered drugs typically ranges from 20 minutes to an hour.</para>
 
-<para id="para-00006"><term id="term-00008">Intravenous (IV)</term> administration is the delivery of a drug directly into the bloodstream via a hypodermic needle. In contrast to oral administration, IV administration has a very rapid onset of action (within 1 minute). Furthermore, bioavailability is essentially 100% seeing as this route of administration bypasses the gastrointestinal system and first-pass metabolism. While this is certainly advantageous when fast effects are needed, this form of administration can also lead to overdoses or other adverse effects if the drug is impure or if the dose is not calculated correctly. IV drug use can also pose additional health hazards when done without sterile equipment.</para>
+        <para id="para-00006"><term id="term-00008">Intravenous (IV)</term> administration is the delivery of a drug directly into the bloodstream via a hypodermic needle. In contrast to oral administration, IV administration has a very rapid onset of action (within 1 minute). Furthermore, bioavailability is essentially 100% seeing as this route of administration bypasses the gastrointestinal system and first-pass metabolism. While this is certainly advantageous when fast effects are needed, this form of administration can also lead to overdoses or other adverse effects if the drug is impure or if the dose is not calculated correctly. IV drug use can also pose additional health hazards when done without sterile equipment.</para>
 
-<para id="para-00007"><term id="term-00009">Inhalation</term> is a route of administration that allows the drug to be absorbed into the circulatory system via the lungs. For this method of delivery, the drug must be burned to create smoke (such as with a cigarette) or volatilized into a vapor. The inhaled smoke or vapor passes through the lungs and is absorbed by the surrounding pulmonary capillaries, which quickly carry the drug into the circulatory system. For this reason, drug delivery by inhalation also produces a fairly rapid onset of action. However, inhalation of non-gaseous particles can cause damage to the airways and lungs.</para>
+        <para id="para-00007"><term id="term-00009">Inhalation</term> is a route of administration that allows the drug to be absorbed into the circulatory system via the lungs. For this method of delivery, the drug must be burned to create smoke (such as with a cigarette) or volatilized into a vapor. The inhaled smoke or vapor passes through the lungs and is absorbed by the surrounding pulmonary capillaries, which quickly carry the drug into the circulatory system. For this reason, drug delivery by inhalation also produces a fairly rapid onset of action. However, inhalation of non-gaseous particles can cause damage to the airways and lungs.</para>
 
-<para id="para-00008"><term id="term-00010">Intranasal</term> drug delivery is achieved by inhaling a substance through the nostrils or directly applying the drug to the mucous membranes of the nasal passage. The drug is then absorbed into the blood vessels that line the nasal cavity and carried into the circulatory system. Oxytocin, a peptide hormone involved in social bonding and reproduction (see <link document="m00101">Sexual Development and Behavior</link>), is sometimes delivered intranasally through a spray to facilitate breastfeeding after childbirth. Although this route of administration also results in a rapid onset of action, contaminants present in the drug may irritate the nasal passage and lead to tissue damage.</para>
+        <para id="para-00008"><term id="term-00010">Intranasal</term> drug delivery is achieved by inhaling a substance through the nostrils or directly applying the drug to the mucous membranes of the nasal passage. The drug is then absorbed into the blood vessels that line the nasal cavity and carried into the circulatory system. Oxytocin, a peptide hormone involved in social bonding and reproduction (see <link document="m00101">Sexual Development and Behavior</link>), is sometimes delivered intranasally through a spray to facilitate breastfeeding after childbirth. Although this route of administration also results in a rapid onset of action, contaminants present in the drug may irritate the nasal passage and lead to tissue damage.</para>
 
-<para id="para-00009"><term id="term-00011">Transdermal</term> administration delivers drugs through the skin’s surface into the underlying blood vessels via a skin patch or ointment. This route is unique from topical administration, in which the drug is intended to remain on the skin surface. Hormonal contraceptives that contain estrogen and progesterone can be administered transdermally through a skin patch. This route of administration allows for a sustained diffusion of drugs over an extended time, which eliminates the need to remember to take a daily pill or injection. Although transdermal administration has a slow onset of action, it can provide extended periods of drug delivery (up to a week in some cases). The utility of this route of administration is limited by the fact that only certain types of drugs can penetrate the skin.</para></section>
-<section id="sect-00004"><title>Absorption and distribution</title>
-<para id="para-00010">As discussed earlier, a drug must be absorbed into the bloodstream and distributed throughout the body to reach its target binding site. The speed at which this occurs depends on the route of administration. Drugs delivered directly into the bloodstream will be absorbed and distributed much faster than drugs that must travel through the gastrointestinal system. For enteral methods of administration, most drug absorption occurs in the small intestines. Therefore, the time it takes the drug to reach the bloodstream is heavily dependent on how long it takes for the stomach to empty into the small intestines. The absorption process can also be affected by food being digested in the stomach. For example, calcium molecules found in dairy products, such as milk, yogurt, and cheese, can bind to certain antibiotics and prevent them from being absorbed. Similarly, medications used to treat hypothyroidism, such as levothyroxine, need to be taken on an empty stomach to enhance absorption.</para>
-<para id="para-00011">One factor that can impact absorption and distribution in the brain is the <term id="term-00032">blood-brain barrier (BBB)</term>, a lining of cells that acts as a border between blood vessels and extracellular fluid in the brain (<link target-id="Image-14.16"/>) (see <link document="m00026">Structure and Function of the Nervous System</link>).</para> 
-<figure id="Image-14.16"><title>Molecule characteristics that influence absorption across the blood-brain barrier</title>
-  <media alt="Diagram of the blood-brain-barrier showing endothelial cell tight junctions and astrocyte processes between those cells/junctions and the brain. Large, charged or lipid insoluble molecules are shown being kept out of the brain while small, uncharged and lipid soluble molecules are more likely to cross the blood brain barrier. List of molecule characteristics that influence absorption: 1) molecular size, 2) electrical charge, 3) lipid solubility.">
-    <image mime-type="image/png" src="../../media/Image-14.16_Molecule-characteristics-that-influence-absorption-across-the-blood-brain-barrier.png"/>
-  </media>
-</figure>
-  <para id="para-00012">The relatively impermeable nature of the BBB prevents the vast majority of molecules from diffusing into the brain since most compounds found in the blood are large, electrically charged or lipid insoluble. The BBB tightly regulates the entry of select nutrients and molecules into the brain via passive and active transport channels. This selectivity helps to protect the central nervous system (CNS) from pathogens that could cause systemic infection but can also prevent certain drugs from reaching the brain. Drugs with high <term id="term-00012">lipid-solubility</term>, or the ability to dissolve through the cell membrane, are more likely to cross the BBB. Many psychoactive drugs (e.g. cocaine, nicotine, fentanyl) are highly lipid-soluble molecules, a property which allows them to penetrate the BBB and interact with their targets in the brain. The BBB continues to present a challenge for developing pharmaceutical treatments for central nervous system (CNS) disorders since pharmaceutical drugs cannot always be designed as small or lipid-soluble molecules.</para>
-</section>
-<section id="sect-00005"><title>Metabolism</title>
-  <para id="para-00013">Drugs can be chemically altered by enzymes located throughout the body, although the majority of drug metabolism takes place in the liver and gastrointestinal tract. The rate of metabolism for a particular drug is influenced by how quickly these enzymes alter the drug, which differs depending on genetics, age, sex, and body weight. This process can potentially inactivate the drug, thereby reducing bioavailability. For example, alcohol is broken down in the stomach and liver by alcohol dehydrogenase enzymes which transform the drug first into acetaldehyde and then into acetic acid. In contrast, <term id="term-00013">prodrugs</term> are drugs that are inactive until they are metabolized by the body. Codeine, an opiate drug derived from the opium poppy, has very little drug effect until it is metabolized by the liver to produce morphine, a much more potent drug.</para>
-  <para id="para-00014">There are several ways that changes in liver enzyme function can alter drug metabolism and thereby end up changing how a drug ultimately impacts a person. Liver damage or dysfunction can lead to unpredictable changes in drug clearance and metabolism, for example. Using a drug chronically can increase the number of liver enzymes that degrade it, which over time may reduce the amount of drug that is absorbed into the bloodstream. The administration of multiple drugs at the same time can cause <term id="term-00014">drug-drug interactions</term>, in which one drug impacts the activity of another. In addition, increased levels of one or more of the drugs may accumulate in the bloodstream if they are metabolized by the same enzyme. This phenomenon is known as <term id="term-00015">competitive enzyme inhibition</term>. Essentially, the enzyme that would be helping to break down and clear one drug is too busy breaking down the other drug. For example, cisapride, a drug used to treat gastroesophageal reflux disease, and ketoconazole, an antifungal medication, are both metabolized by cytochrome P450 (CYP) liver enzymes. When these drugs are taken together, blood levels of cisapride can reach toxic levels, which may increase the risk of adverse side effects.</para>
-</section>
-<section id="sect-00006"><title>Excretion</title>
-  <para id="para-00015">The primary way that drugs and their metabolites are removed from the body is via the kidney, which filters the blood and excretes waste materials through urine. Drugs can also be excreted from the body through feces, sweat and saliva. The amount of time it takes for the blood concentration of a drug to reach 50% of its original value is commonly referred to as the <term id="term-00016">half-life</term>. The half-life of a drug can be influenced by the route of administration. Drugs that are taken orally enter and exit the bloodstream more slowly than those injected directly into a blood vessel. A drug with a short half-life may have to be administered multiple times a day to maintain its effects, whereas the effects of a drug with a long half-life may persist for over a day with only a single administration. A long half-life may seem ideal for therapeutic purposes. However, it may also prolong unwanted or dangerous side effects of the drug. These factors, along with absorption and distribution, contribute to the drug plasma concentration over time (<link target-id="Image-14.01"/>). The length of time a drug remains at a therapeutic or effective concentration is considered the <term id="term-00017">duration of action</term>.</para>
-  <figure id="Image-14.01"><title>Plasma concentration over time</title>
-    <media alt="Graph of plasma concentration (ng/L, y axis) versus time (hours). 3 curves show the plasma concentration of a drug over time for low, middle and high dose, revealing different absorption rates. Only the middle curve shows plasma concentrations within the therapeutic range (above “ineffective”) without inducing toxic effects.">
-      <image mime-type="image/png" src="../../media/Image-14.01_Plasma-concentration-over-time.png"/>
-    </media><caption>Each curve shows the plasma concentration of a drug over time, revealing different absorption rates. Only the middle (blue) curve shows plasma concentrations within the therapeutic range without inducing toxic effects.</caption>
-  </figure>
-  </section>
-  </section>
-  <section id="sect-00007">
-    <title>Drug interactions with neurotransmitter lifecycle</title>
-    <para id="para-00016">In addition to their interactions with receptors, drugs can also impact neuronal functioning indirectly by interfering with different stages of synaptic transmission (<link target-id="Image-14.15"/>) (see <link document="m00027">Basic Neurochemistry</link>).</para>
-    <figure id="Image-14.15"><title>Sites of drug action</title>
-      <media alt="Diagram of a synapse, including astrocytic process wrapping around one side of it. The 7 steps described in the main text as sites of drug modulation are each labeled. Step 8, not in text, is “neurotransmitter release (autoreceptor).">
-        <image mime-type="image/png" src="../../media/Image-14.15_Sites-of-drug-action.png"/>
-      </media>
-    </figure>
-    <para id="para-00017">At the root of synaptic transmission is the arrival of an action potential, a step that can be altered by drugs (step 1 in <link target-id="Image-14.15"/>). For example, lidocaine, a local anesthetic, can inhibit the propagation of an action potential by blocking voltage-gated sodium channels, and ultimately prevent neurotransmitter release.</para>
-    <para id="para-00018">Neurotransmitters must also be synthesized to be available at the synapse. During the synthesis stage, enzymes catalyze reactions between precursor molecules to create the final neurotransmitter. Drugs that impact synthesis can either reduce or enhance the level of neurotransmitters produced in the brain (step 2 in <link target-id="Image-14.15"/>). For example, metyrosine, a drug used to treat hypertension, is known to inhibit tyrosine hydroxylase, an enzyme that is necessary for the synthesis of catecholamines like dopamine, norepinephrine, and epinephrine. Within the peripheral nervous system, elevated levels of norepinephrine and epinephrine contribute to increased heart rate and blood pressure. Thus, the depletion of these neurotransmitters can help treat high blood pressure.</para>
+        <para id="para-00009"><term id="term-00011">Transdermal</term> administration delivers drugs through the skin’s surface into the underlying blood vessels via a skin patch or ointment. This route is unique from topical administration, in which the drug is intended to remain on the skin surface. Hormonal contraceptives that contain estrogen and progesterone can be administered transdermally through a skin patch. This route of administration allows for a sustained diffusion of drugs over an extended time, which eliminates the need to remember to take a daily pill or injection. Although transdermal administration has a slow onset of action, it can provide extended periods of drug delivery (up to a week in some cases). The utility of this route of administration is limited by the fact that only certain types of drugs can penetrate the skin.</para>
+      </section>
+      <section id="sect-00004">
+        <title>Absorption and distribution</title>
+        <para id="para-00010">As discussed earlier, a drug must be absorbed into the bloodstream and distributed throughout the body to reach its target binding site. The speed at which this occurs depends on the route of administration. Drugs delivered directly into the bloodstream will be absorbed and distributed much faster than drugs that must travel through the gastrointestinal system. For enteral methods of administration, most drug absorption occurs in the small intestines. Therefore, the time it takes the drug to reach the bloodstream is heavily dependent on how long it takes for the stomach to empty into the small intestines. The absorption process can also be affected by food being digested in the stomach. For example, calcium molecules found in dairy products, such as milk, yogurt, and cheese, can bind to certain antibiotics and prevent them from being absorbed. Similarly, medications used to treat hypothyroidism, such as levothyroxine, need to be taken on an empty stomach to enhance absorption.</para>
+        <para id="para-00011">One factor that can impact absorption and distribution in the brain is the <term id="term-00032">blood-brain barrier (BBB)</term>, a lining of cells that acts as a border between blood vessels and extracellular fluid in the brain (<link target-id="Image-14.16"/>) (see <link document="m00026">Structure and Function of the Nervous System</link>).</para>
+        <figure id="Image-14.16">
+          <title>Molecule characteristics that influence absorption across the blood-brain barrier</title>
+          <media alt="Diagram of the blood-brain-barrier showing endothelial cell tight junctions and astrocyte processes between those cells/junctions and the brain. Large, charged or lipid insoluble molecules are shown being kept out of the brain while small, uncharged and lipid soluble molecules are more likely to cross the blood brain barrier. List of molecule characteristics that influence absorption: 1) molecular size, 2) electrical charge, 3) lipid solubility.">
+            <image mime-type="image/png" src="../../media/Image-14.16_Molecule-characteristics-that-influence-absorption-across-the-blood-brain-barrier.png"/>
+          </media>
+        </figure>
+        <para id="para-00012">The relatively impermeable nature of the BBB prevents the vast majority of molecules from diffusing into the brain since most compounds found in the blood are large, electrically charged or lipid insoluble. The BBB tightly regulates the entry of select nutrients and molecules into the brain via passive and active transport channels. This selectivity helps to protect the central nervous system (CNS) from pathogens that could cause systemic infection but can also prevent certain drugs from reaching the brain. Drugs with high <term id="term-00012">lipid-solubility</term>, or the ability to dissolve through the cell membrane, are more likely to cross the BBB. Many psychoactive drugs (e.g. cocaine, nicotine, fentanyl) are highly lipid-soluble molecules, a property which allows them to penetrate the BBB and interact with their targets in the brain. The BBB continues to present a challenge for developing pharmaceutical treatments for central nervous system (CNS) disorders since pharmaceutical drugs cannot always be designed as small or lipid-soluble molecules.</para>
+      </section>
+      <section id="sect-00005">
+        <title>Metabolism</title>
+        <para id="para-00013">Drugs can be chemically altered by enzymes located throughout the body, although the majority of drug metabolism takes place in the liver and gastrointestinal tract. The rate of metabolism for a particular drug is influenced by how quickly these enzymes alter the drug, which differs depending on genetics, age, sex, and body weight. This process can potentially inactivate the drug, thereby reducing bioavailability. For example, alcohol is broken down in the stomach and liver by alcohol dehydrogenase enzymes which transform the drug first into acetaldehyde and then into acetic acid. In contrast, <term id="term-00013">prodrugs</term> are drugs that are inactive until they are metabolized by the body. Codeine, an opiate drug derived from the opium poppy, has very little drug effect until it is metabolized by the liver to produce morphine, a much more potent drug.</para>
+        <para id="para-00014">There are several ways that changes in liver enzyme function can alter drug metabolism and thereby end up changing how a drug ultimately impacts a person. Liver damage or dysfunction can lead to unpredictable changes in drug clearance and metabolism, for example. Using a drug chronically can increase the number of liver enzymes that degrade it, which over time may reduce the amount of drug that is absorbed into the bloodstream. The administration of multiple drugs at the same time can cause <term id="term-00014">drug-drug interactions</term>, in which one drug impacts the activity of another. In addition, increased levels of one or more of the drugs may accumulate in the bloodstream if they are metabolized by the same enzyme. This phenomenon is known as <term id="term-00015">competitive enzyme inhibition</term>. Essentially, the enzyme that would be helping to break down and clear one drug is too busy breaking down the other drug. For example, cisapride, a drug used to treat gastroesophageal reflux disease, and ketoconazole, an antifungal medication, are both metabolized by cytochrome P450 (CYP) liver enzymes. When these drugs are taken together, blood levels of cisapride can reach toxic levels, which may increase the risk of adverse side effects.</para>
+      </section>
+      <section id="sect-00006">
+        <title>Excretion</title>
+        <para id="para-00015">The primary way that drugs and their metabolites are removed from the body is via the kidney, which filters the blood and excretes waste materials through urine. Drugs can also be excreted from the body through feces, sweat and saliva. The amount of time it takes for the blood concentration of a drug to reach 50% of its original value is commonly referred to as the <term id="term-00016">half-life</term>. The half-life of a drug can be influenced by the route of administration. Drugs that are taken orally enter and exit the bloodstream more slowly than those injected directly into a blood vessel. A drug with a short half-life may have to be administered multiple times a day to maintain its effects, whereas the effects of a drug with a long half-life may persist for over a day with only a single administration. A long half-life may seem ideal for therapeutic purposes. However, it may also prolong unwanted or dangerous side effects of the drug. These factors, along with absorption and distribution, contribute to the drug plasma concentration over time (<link target-id="Image-14.01"/>). The length of time a drug remains at a therapeutic or effective concentration is considered the <term id="term-00017">duration of action</term>.</para>
+        <figure id="Image-14.01">
+          <title>Plasma concentration over time</title>
+          <media alt="Graph of plasma concentration (ng/L, y axis) versus time (hours). 3 curves show the plasma concentration of a drug over time for low, middle and high dose, revealing different absorption rates. Only the middle curve shows plasma concentrations within the therapeutic range (above “ineffective”) without inducing toxic effects.">
+            <image mime-type="image/png" src="../../media/Image-14.01_Plasma-concentration-over-time.png"/>
+          </media>
+          <caption>Each curve shows the plasma concentration of a drug over time, revealing different absorption rates. Only the middle (blue) curve shows plasma concentrations within the therapeutic range without inducing toxic effects.</caption>
+        </figure>
+      </section>
+    </section>
+    <section id="sect-00007">
+      <title>Drug interactions with neurotransmitter lifecycle</title>
+      <para id="para-00016">In addition to their interactions with receptors, drugs can also impact neuronal functioning indirectly by interfering with different stages of synaptic transmission (<link target-id="Image-14.15"/>) (see <link document="m00027">Basic Neurochemistry</link>).</para>
+      <figure id="Image-14.15">
+        <title>Sites of drug action</title>
+        <media alt="Diagram of a synapse, including astrocytic process wrapping around one side of it. The 7 steps described in the main text as sites of drug modulation are each labeled. Step 8, not in text, is “neurotransmitter release (autoreceptor).">
+          <image mime-type="image/png" src="../../media/Image-14.15_Sites-of-drug-action.png"/>
+        </media>
+      </figure>
+      <para id="para-00017">At the root of synaptic transmission is the arrival of an action potential, a step that can be altered by drugs (step 1 in <link target-id="Image-14.15"/>). For example, lidocaine, a local anesthetic, can inhibit the propagation of an action potential by blocking voltage-gated sodium channels, and ultimately prevent neurotransmitter release.</para>
+      <para id="para-00018">Neurotransmitters must also be synthesized to be available at the synapse. During the synthesis stage, enzymes catalyze reactions between precursor molecules to create the final neurotransmitter. Drugs that impact synthesis can either reduce or enhance the level of neurotransmitters produced in the brain (step 2 in <link target-id="Image-14.15"/>). For example, metyrosine, a drug used to treat hypertension, is known to inhibit tyrosine hydroxylase, an enzyme that is necessary for the synthesis of catecholamines like dopamine, norepinephrine, and epinephrine. Within the peripheral nervous system, elevated levels of norepinephrine and epinephrine contribute to increased heart rate and blood pressure. Thus, the depletion of these neurotransmitters can help treat high blood pressure.</para>
 
-<para id="para-00019">After the synthesis process, neurotransmitters are then packaged into a vesicle and stored in the axon terminal. The influx of calcium from voltage-gated calcium channels following an action potential promotes vesicle docking and fusion at the axon terminal, which ultimately leads to the release of neurotransmitters. Several classes of psychoactive drugs act by altering packaging (step 3 in <link target-id="Image-14.15"/>) and/or release (step 4 in <link target-id="Image-14.15"/>) of neurotransmitters. For example, methamphetamine interferes with the functioning of dopamine transporter proteins on synaptic vesicles, which results in the escape of dopamine molecules into the cytosol. Methamphetamine also reverses dopamine transporter proteins located on the axon terminal, ultimately leading to increased dopamine release in the synaptic cleft.</para>
+      <para id="para-00019">After the synthesis process, neurotransmitters are then packaged into a vesicle and stored in the axon terminal. The influx of calcium from voltage-gated calcium channels following an action potential promotes vesicle docking and fusion at the axon terminal, which ultimately leads to the release of neurotransmitters. Several classes of psychoactive drugs act by altering packaging (step 3 in <link target-id="Image-14.15"/>) and/or release (step 4 in <link target-id="Image-14.15"/>) of neurotransmitters. For example, methamphetamine interferes with the functioning of dopamine transporter proteins on synaptic vesicles, which results in the escape of dopamine molecules into the cytosol. Methamphetamine also reverses dopamine transporter proteins located on the axon terminal, ultimately leading to increased dopamine release in the synaptic cleft.</para>
 
-<para id="para-00021">To end signaling to the postsynaptic cell, neurotransmitters are either broken down in the synaptic cleft or brought back into the presynaptic cell via reuptake (steps 6 and 7 in <link target-id="Image-14.15"/>). Drugs that prevent termination may enhance postsynaptic signaling. For example, selective serotonin reuptake inhibitors (SSRIs), a class of antidepressant drugs, prevent the reuptake of serotonin into the presynaptic terminal, thereby elevating concentrations of serotonin in the synaptic cleft.</para>
-  </section>
-  <section id="sect-00008"><title>Drug-receptor interactions</title>
-<para id="para-00022">Some drugs impart their neurobiological effects through interaction with receptors located on target cells in the CNS (step 5 in <link target-id="Image-14.15"/>). Most receptors are transmembrane proteins that contain an extracellular surface with a <term id="term-00018">binding site</term> where neurotransmitters, hormones, drugs, or other molecules can bind. Broadly, any molecule that can bind to a receptor’s binding site is referred to as a <term id="term-00019">ligand</term>. Drug-receptor interactions can also be characterized by the <term id="term-00020">binding affinity</term> or strength of the interaction. A high-affinity ligand tends to bind to a particular receptor more than a low-affinity ligand.</para>
-<section id="sect-00009"><title>Receptors</title>
-  <para id="para-00023">There are two main categories of ligand-binding receptors, both shown in <link target-id="Image-14.22"/> (see <link document="m00027">Basic Neurochemistry</link>).</para>
-  <figure id="Image-14.22"><title>Ionotropic vs metabotropic receptors</title>
-    <media alt="Left diagram of ligand-gated ion channel in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby opening the receptor channel and allowing ions to flow across the membrane. Right diagram of G protein coupled receptor in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby activating a G protein (effector protein) and secondary messengers, which then open a separate ion channel. Ions flow through the ion channel.">
-      <image mime-type="image/png" src="../../media/Image-14.22_Ionotropic-vs-metabotropic-receptors.png"/>
-    </media>
-  </figure>
-    <para id="para-00025"><term id="term-00021">Ligand-gated channels</term> (also known as <term id="term-00022">ionotropic receptors</term>) are ion channels composed of proteins embedded in the cell membrane. When a ligand binds to the binding site, the membrane-spanning portions of the receptor open to form a channel that allows specific ions to cross into the cell. If the receptor is on a neuron, which is often the case for psychoactive drugs, this movement can result in either excitation or inhibition of the neuron. This response usually occurs within a millisecond of the ligand binding.</para>
+      <para id="para-00021">To end signaling to the postsynaptic cell, neurotransmitters are either broken down in the synaptic cleft or brought back into the presynaptic cell via reuptake (steps 6 and 7 in <link target-id="Image-14.15"/>). Drugs that prevent termination may enhance postsynaptic signaling. For example, selective serotonin reuptake inhibitors (SSRIs), a class of antidepressant drugs, prevent the reuptake of serotonin into the presynaptic terminal, thereby elevating concentrations of serotonin in the synaptic cleft.</para>
+    </section>
+    <section id="sect-00008">
+      <title>Drug-receptor interactions</title>
+      <para id="para-00022">Some drugs impart their neurobiological effects through interaction with receptors located on target cells in the CNS (step 5 in <link target-id="Image-14.15"/>). Most receptors are transmembrane proteins that contain an extracellular surface with a <term id="term-00018">binding site</term> where neurotransmitters, hormones, drugs, or other molecules can bind. Broadly, any molecule that can bind to a receptor’s binding site is referred to as a <term id="term-00019">ligand</term>. Drug-receptor interactions can also be characterized by the <term id="term-00020">binding affinity</term> or strength of the interaction. A high-affinity ligand tends to bind to a particular receptor more than a low-affinity ligand.</para>
+      <section id="sect-00009">
+        <title>Receptors</title>
+        <para id="para-00023">There are two main categories of ligand-binding receptors, both shown in <link target-id="Image-14.22"/> (see <link document="m00027">Basic Neurochemistry</link> ).</para>
+        <figure id="Image-14.22">
+          <title>Ionotropic vs metabotropic receptors</title>
+          <media alt="Left diagram of ligand-gated ion channel in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby opening the receptor channel and allowing ions to flow across the membrane. Right diagram of G protein coupled receptor in a cell membrane showing neurotransmitter binding the membrane-spanning receptor, thereby activating a G protein (effector protein) and secondary messengers, which then open a separate ion channel. Ions flow through the ion channel.">
+            <image mime-type="image/png" src="../../media/Image-14.22_Ionotropic-vs-metabotropic-receptors.png"/>
+          </media>
+        </figure>
+        <para id="para-00025"><term id="term-00021">Ligand-gated channels</term> (also known as <term id="term-00022">ionotropic receptors</term>) are ion channels composed of proteins embedded in the cell membrane. When a ligand binds to the binding site, the membrane-spanning portions of the receptor open to form a channel that allows specific ions to cross into the cell. If the receptor is on a neuron, which is often the case for psychoactive drugs, this movement can result in either excitation or inhibition of the neuron. This response usually occurs within a millisecond of the ligand binding.</para>
 
-      <para id="para-00026"><term id="term-00023">Metabotropic receptors</term> (also known as G protein-coupled receptors) also have an extracellular active site, but these receptors do not form an ion channel. Instead, they are composed of seven transmembrane proteins that are physically linked to intracellular proteins called <term id="term-00024">G proteins</term>. When a ligand binds to the active site, the G protein disassociates from the receptor complex. Once unbound, the G protein can go on to open or close ion channels located on the cell membrane or activate or inhibit intracellular signaling cascades. Because metabotropic receptors are indirectly linked with ion channels and signaling transduction, compared to ionotropic receptors, their effects on neuronal activity occur at a slower pace and can persist for a longer period.</para>
-</section>
-<section id="sect-00010"><title>Receptor ligands</title>
-  <para id="para-00027">Ligands can be naturally produced within the body or derived from a source outside of the body. For example, endocannabinoids are neurotransmitters that are produced within the central and peripheral nervous system and bind to cannabinoid (CB) receptors (see <link document="m00027">Basic Neurochemistry</link>). Because they are synthesized within the brain, endocannabinoids are considered the endogenous ligand for CB receptors. The primary psychoactive chemical in cannabis (THC) also binds to CB receptors. However, it is derived from a plant and is thus considered an exogenous ligand.</para>
+        <para id="para-00026"><term id="term-00023">Metabotropic receptors</term> (also known as G protein-coupled receptors) also have an extracellular active site, but these receptors do not form an ion channel. Instead, they are composed of seven transmembrane proteins that are physically linked to intracellular proteins called <term id="term-00024">G proteins</term>. When a ligand binds to the active site, the G protein disassociates from the receptor complex. Once unbound, the G protein can go on to open or close ion channels located on the cell membrane or activate or inhibit intracellular signaling cascades. Because metabotropic receptors are indirectly linked with ion channels and signaling transduction, compared to ionotropic receptors, their effects on neuronal activity occur at a slower pace and can persist for a longer period.</para>
+      </section>
+      <section id="sect-00010">
+        <title>Receptor ligands</title>
+        <para id="para-00027">Ligands can be naturally produced within the body or derived from a source outside of the body. For example, endocannabinoids are neurotransmitters that are produced within the central and peripheral nervous system and bind to cannabinoid (CB) receptors (see <link document="m00027">Basic Neurochemistry</link>). Because they are synthesized within the brain, endocannabinoids are considered the endogenous ligand for CB receptors. The primary psychoactive chemical in cannabis (THC) also binds to CB receptors. However, it is derived from a plant and is thus considered an exogenous ligand.</para>
 
-  <para id="para-00028">A <term id="term-00025">dose-response curve</term> plots the relationship between the level of receptor response and the dose of the drug (<link target-id="Image-14.02"/>).</para>
-  <figure id="Image-14.02"><title>Ligand receptor interactions</title>
-    <media alt="Top half shows diagrams of full agonist, partial agonist, antagonist and inverse agonist interactions of a drug with a receptor, as described in the main text. Bottom half shows a graph of receptor response (y-axis) versus drug concentration (x-axis, low to high). Curves are plotted. Full agonist shows the biggest increase in response with increasing dose, followed by partial agonist. Antagonist shows no response with increasing dose and inverse agonist shows decreasing response with increasing dose.">
-      <image mime-type="image/png" src="../../media/Image-14.02_Ligand-receptor-interactions.png"/>
-    </media>
-  </figure>
-  
-  <para id="para-00029">A <term id="term-00026">full agonist</term> is a ligand or drug that is capable of binding to and activating a receptor with maximal efficacy. Epinephrine is an example of a full agonist at the adrenergic receptor. A <term id="term-00027">partial agonist</term> also can activate a receptor upon binding. However, it elicits a reduced receptor response compared to a full agonist, even with increasing concentration of the ligand. Buprenorphine, an opioid drug used to treat opioid use disorder, is a partial agonist at the mu-opioid receptor (MOR). Buprenorphine’s reduced efficacy at the MOR decreases the risk of overdose.</para>
-  
-  <para id="para-00030">In some cases, a receptor can produce a biological response in the absence of an agonist binding. This phenomenon is referred to as <term id="term-00028">constitutive activity</term>. An <term id="term-00029">inverse agonist</term> is a drug that inhibits the same binding site as a full agonist but reduces activity in a receptor that would otherwise be constitutively active. For example, certain histamine receptors exhibit agonist-independent activity, which is thought to contribute to many allergy symptoms. Antihistamines, drugs used to alleviate allergy symptoms, bind to histamine receptors and reduce their biological response instead of increasing it, thereby making them inverse agonists.</para>
-  
-  <para id="para-00031">An <term id="term-00030">antagonist</term> is a ligand that blocks the activation of the receptor by preventing agonists from binding. In contrast to the inverse agonist, an antagonist does not have any intrinsic activity on the receptor itself, it simply blocks agonists from interacting with the receptor. For example, caffeine is an antagonist at adenosine receptors, which typically induce drowsiness when activated by their endogenous ligand.</para>
-  
-  <para id="para-00032">Another type of agonist interaction sometimes seen with G protein-coupled receptors is biased agonism or functional selectivity. This occurs when the unique structure of a ligand allows it to preferentially activate certain intracellular signaling cascades over others. A major goal in drug development research is to design ligands that induce signaling cascades that promote the therapeutic effects of drugs while minimizing the activation of cascades associated with adverse side effects. In 2020, the Food and Drug Administration (FDA) approved the first biased mu-opioid receptor agonist for the treatment of severe pain. When tested in clinical studies, this drug produced a similar degree of analgesia (pain relief) but less nausea and respiratory depression compared to morphine (DeWire et al., 2013).</para>
-  
-  <para id="para-00033">Certain ligands, called <term id="term-00031">allosteric modulators</term>, can regulate receptor activity without interacting with a receptor’s orthosteric site, the location where an agonist would typically bind. Instead, allosteric modulators bind to a different part of the receptor (referred to as the allosteric site), which can ultimately alter the effects of ligands that bind to the orthosteric site. Positive allosteric modulators increase the efficacy of agonists that bind to the receptor, whereas negative allosteric modulators reduce the ability of agonists to activate the receptor. Benzodiazepines, drugs used to treat anxiety disorders, are an example of positive allosteric modulators of the GABA<sub>A</sub> receptor (<link target-id="Image-14.09"/>). When both GABA and benzodiazepines are bound to the GABA<sub>A</sub> receptor, the ion channel opens more frequently or for a longer period, allowing more chloride ions to enter the cell. This results in a greater inhibitory effect compared to when only GABA is present. In contrast to an agonist, benzodiazepines have no effect on GABA<sub>A</sub> receptor activation on their own.</para>
-  <figure id="Image-14.09"><title>GABA<sub>A</sub> receptor agonists</title>
-    <media alt="Diagram of a GABA-A receptor in a cell membrane, showing how sedatives (benzodiazepine, alcohol) bind at different sites than GABA to help open the ion pore.">
-      <image mime-type="image/png" src="../../media/Image-14.09_GABA-Areceptor-agonists.png"/>
-    </media><caption>Many sedatives work by binding to and activating GABA<sub>A</sub> receptors.</caption>
-  </figure>
-</section>
-  </section>
-  <note class="boxed-feature" id="note-00001">
-    <title>Drug Approval Process in the United States</title>
+        <para id="para-00028">A <term id="term-00025">dose-response curve</term> plots the relationship between the level of receptor response and the dose of the drug (<link target-id="Image-14.02"/>).</para>
+        <figure id="Image-14.02">
+          <title>Ligand receptor interactions</title>
+          <media alt="Top half shows diagrams of full agonist, partial agonist, antagonist and inverse agonist interactions of a drug with a receptor, as described in the main text. Bottom half shows a graph of receptor response (y-axis) versus drug concentration (x-axis, low to high). Curves are plotted. Full agonist shows the biggest increase in response with increasing dose, followed by partial agonist. Antagonist shows no response with increasing dose and inverse agonist shows decreasing response with increasing dose.">
+            <image mime-type="image/png" src="../../media/Image-14.02_Ligand-receptor-interactions.png"/>
+          </media>
+        </figure>
+
+        <para id="para-00029">A <term id="term-00026">full agonist</term> is a ligand or drug that is capable of binding to and activating a receptor with maximal efficacy. Epinephrine is an example of a full agonist at the adrenergic receptor. A <term id="term-00027">partial agonist</term> also can activate a receptor upon binding. However, it elicits a reduced receptor response compared to a full agonist, even with increasing concentration of the ligand. Buprenorphine, an opioid drug used to treat opioid use disorder, is a partial agonist at the mu-opioid receptor (MOR). Buprenorphine’s reduced efficacy at the MOR decreases the risk of overdose.</para>
+
+        <para id="para-00030">In some cases, a receptor can produce a biological response in the absence of an agonist binding. This phenomenon is referred to as <term id="term-00028">constitutive activity</term>. An <term id="term-00029">inverse agonist</term> is a drug that inhibits the same binding site as a full agonist but reduces activity in a receptor that would otherwise be constitutively active. For example, certain histamine receptors exhibit agonist-independent activity, which is thought to contribute to many allergy symptoms. Antihistamines, drugs used to alleviate allergy symptoms, bind to histamine receptors and reduce their biological response instead of increasing it, thereby making them inverse agonists.</para>
+
+        <para id="para-00031">An <term id="term-00030">antagonist</term> is a ligand that blocks the activation of the receptor by preventing agonists from binding. In contrast to the inverse agonist, an antagonist does not have any intrinsic activity on the receptor itself, it simply blocks agonists from interacting with the receptor. For example, caffeine is an antagonist at adenosine receptors, which typically induce drowsiness when activated by their endogenous ligand.</para>
+
+        <para id="para-00032">Another type of agonist interaction sometimes seen with G protein-coupled receptors is biased agonism or functional selectivity. This occurs when the unique structure of a ligand allows it to preferentially activate certain intracellular signaling cascades over others. A major goal in drug development research is to design ligands that induce signaling cascades that promote the therapeutic effects of drugs while minimizing the activation of cascades associated with adverse side effects. In 2020, the Food and Drug Administration (FDA) approved the first biased mu-opioid receptor agonist for the treatment of severe pain. When tested in clinical studies, this drug produced a similar degree of analgesia (pain relief) but less nausea and respiratory depression compared to morphine (DeWire et al., 2013).</para>
+
+        <para id="para-00033">Certain ligands, called <term id="term-00031">allosteric modulators</term>, can regulate receptor activity without interacting with a receptor’s orthosteric site, the location where an agonist would typically bind. Instead, allosteric modulators bind to a different part of the receptor (referred to as the allosteric site), which can ultimately alter the effects of ligands that bind to the orthosteric site. Positive allosteric modulators increase the efficacy of agonists that bind to the receptor, whereas negative allosteric modulators reduce the ability of agonists to activate the receptor. Benzodiazepines, drugs used to treat anxiety disorders, are an example of positive allosteric modulators of the GABA<sub>A</sub> receptor (<link target-id="Image-14.09"/>). When both GABA and benzodiazepines are bound to the GABA<sub>A</sub> receptor, the ion channel opens more frequently or for a longer period, allowing more chloride ions to enter the cell. This results in a greater inhibitory effect compared to when only GABA is present. In contrast to an agonist, benzodiazepines have no effect on GABA<sub>A</sub> receptor activation on their own.</para>
+        <figure id="Image-14.09">
+          <title>GABA<sub>A</sub> receptor agonists</title>
+          <media alt="Diagram of a GABA-A receptor in a cell membrane, showing how sedatives (benzodiazepine, alcohol) bind at different sites than GABA to help open the ion pore.">
+            <image mime-type="image/png" src="../../media/Image-14.09_GABA-Areceptor-agonists.png"/>
+          </media>
+          <caption>Many sedatives work by binding to and activating GABA<sub>A</sub> receptors.</caption>
+        </figure>
+      </section>
+    </section>
+    <note class="boxed-feature" id="note-00001">
+      <title>Drug Approval Process in the United States</title>
     <para id="para-00034">The U.S. Food and Drug Administration (FDA) is a federal agency within the Department of Health and Human Services that is tasked with ensuring the safety and efficacy of food, drugs, and biomedical products among other things in the U.S. The FDA’s Center for Drug Evaluation and Research is specifically responsible for reviewing new drugs before they can be sold to consumers.</para>
 
     <para id="para-00036">Before a new drug can reach the store shelf it must pass through multiple stages of testing and evaluation. First, the drug must be tested in multiple animal models to determine its safety and pharmacological profile, and whether it is effective. Next, the pharmaceutical company must submit an Investigational New Drug (IND) application, which includes the results of the initial rounds of animal testing, information on the drug composition and manufacturing, and a detailed plan for how the drug will be tested in humans. Once the FDA reviews and approves the IND, the pharmaceutical company can begin conducting clinical trials in humans.</para>
@@ -119,52 +137,60 @@
     <para id="para-00038">There are generally three stages of clinical testing: Phase 1, Phase 2, and Phase 3. The main goals of Phase 1 are to evaluate the safety of the drug, identify any adverse side effects, and determine how the drug is metabolized. These trials are made up entirely of healthy volunteers. Phase 2 trials include patients who have the disease or condition that the new drug is proposed to treat. The main goal of this phase is to determine how the drug performs compared to a placebo (a substance that has no therapeutic action) or a different drug that is already approved for treatment. Both Phase 1 and Phase 2 trials tend to have a small number of participants (100 or less). In contrast, Phase 3 trials are considered large-scale studies and typically recruit over 1000 participants. The main goal of this phase is to gather more information on the safety and efficacy of the drug across different populations.</para>
 
     <para id="para-00040">Following the completion of clinical testing, which can take several years, the analyses of all the data collected from both animal and human studies are submitted to the FDA as a New Drug Application (NDA). An independent team made up of physicians and scientists carefully reviews the submitted data to determine if the health benefits of the drug outweigh the risks. If the drug meets these criteria, the FDA will grant approval for marketing the drug in the U.S. The review process for approving an NDA can take up to 6-10 months to complete. However, in the case of public health emergencies, such as the Covid-19 epidemic, the FDA can enact its Emergency Use Authorization to allow non-FDA-approved medications to be used in certain conditions.</para>
-  </note>
-  <section class="section-summary" id="sect-00011"><title>Summary</title>
+    </note>
+    <section class="section-summary" id="sect-00011">
+      <title>Summary</title>
       <para id="para-00024"><link url="https://openstax.org/r/Neuro14Summary">Author's summary</link></para>
-<para id="para-00041">Factors such as the route of administration and the rate of absorption, metabolism, and excretion can impact the ultimate concentration of a drug that ends up in the circulatory system. Drugs that can cross the blood-brain barrier can interact with neurotransmitters and receptors in the brain through a variety of mechanisms that can ultimately impact neuronal signaling. Understanding the pharmacodynamic and pharmacokinetic profile of drugs is essential for predicting their effects on mood, cognition and behavior.</para> </section>
-    <section class="key-terms" id="sect-00012"><title>Key Terms</title> <list display="inline" id="list-00002">
-    <item>pharmacodynamics</item>
-    <item>bioavailability</item>
-    <item>therapeutic window</item>
-    <item>pharmacokinetics</item>
-    <item>enteral</item>
-    <item>parenteral</item>
-    <item>onset of action</item>
-    <item>oral</item>
-    <item>first-pass metabolism</item>
-    <item>intravenous</item>
-    <item>inhalation</item>
-    <item>intranasal</item>
-    <item>transdermal</item>
-    <item>blood-brain barrier</item>
-    <item>lipid-solubility</item>
-    <item>prodrugs</item>
-    <item>drug-drug interactions</item>
-    <item>competitive enzyme inhibition</item>
-    <item>half-life</item>
-    <item>duration of action</item>
-    <item>binding site</item>
-    <item>ligand</item>
-    <item>binding affinity</item>
-    <item>ligand-gated ion channels</item>
-    <item>metabotropic receptors</item>
-    <item>endogenous ligand</item>
-    <item>exogenous ligand</item>
-    <item>dose-response curve</item>
-    <item>full agonist</item>
-    <item>partial agonist</item>
-    <item>constitutive activity</item>
-    <item>inverse agonist</item>
-    <item>antagonist</item>
-    <item>biased agonism</item>
-    <item>allosteric modulator</item>
-    </list> </section>
-    <section class="references" id="sect-00013"><title>References</title> 
-      <para id="para-00042">DeWire, S. M., Yamashita, D. S., Rominger, D. H., Liu, G., Cowan, C. L., Graczyk, T. M., ... &amp; Violin, J. D. (2013). A G protein-biased ligand at the μ-opioid receptor is potently analgesic with reduced gastrointestinal and respiratory dysfunction compared with morphine. <emphasis effect="italics">Journal of Pharmacology and Experimental Therapeutics</emphasis>, <emphasis effect="italics">344</emphasis>(3), 708–717.</para>
-     </section>
-    
-    <section class="multiple-choice" id="sect-00014"><title>Multiple Choice</title> 
+      <para id="para-00041">Factors such as the route of administration and the rate of absorption, metabolism, and excretion can impact the ultimate concentration of a drug that ends up in the circulatory system. Drugs that can cross the blood-brain barrier can interact with neurotransmitters and receptors in the brain through a variety of mechanisms that can ultimately impact neuronal signaling. Understanding the pharmacodynamic and pharmacokinetic profile of drugs is essential for predicting their effects on mood, cognition and behavior.</para>
+    </section>
+    <section class="key-terms" id="sect-00012">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>pharmacodynamics</item>
+        <item>bioavailability</item>
+        <item>therapeutic window</item>
+        <item>pharmacokinetics</item>
+        <item>enteral</item>
+        <item>parenteral</item>
+        <item>onset of action</item>
+        <item>oral</item>
+        <item>first-pass metabolism</item>
+        <item>intravenous</item>
+        <item>inhalation</item>
+        <item>intranasal</item>
+        <item>transdermal</item>
+        <item>blood-brain barrier</item>
+        <item>lipid-solubility</item>
+        <item>prodrugs</item>
+        <item>drug-drug interactions</item>
+        <item>competitive enzyme inhibition</item>
+        <item>half-life</item>
+        <item>duration of action</item>
+        <item>binding site</item>
+        <item>ligand</item>
+        <item>binding affinity</item>
+        <item>ligand-gated ion channels</item>
+        <item>metabotropic receptors</item>
+        <item>endogenous ligand</item>
+        <item>exogenous ligand</item>
+        <item>dose-response curve</item>
+        <item>full agonist</item>
+        <item>partial agonist</item>
+        <item>constitutive activity</item>
+        <item>inverse agonist</item>
+        <item>antagonist</item>
+        <item>biased agonism</item>
+        <item>allosteric modulator</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00013">
+      <title>References</title>
+      <para id="para-00042">DeWire, S. M., Yamashita, D. S., Rominger, D. H., Liu, G., Cowan, C. L., Graczyk, T. M., Chen, X. T., Pitis, P. M., Gotchev, D., Yuan, C., Koblish, M., Lark, M. W., &amp; Violin, J. D. (2013). A G protein-biased ligand at the μ-opioid receptor is potently analgesic with reduced gastrointestinal and respiratory dysfunction compared with morphine. <emphasis effect="italics">The Journal of Pharmacology and Experimental Therapeutics</emphasis>, <emphasis effect="italics">344</emphasis>(3), 708–717. https://doi.org/10.1124/jpet.112.201616</para>
+
+    </section>
+
+    <section class="multiple-choice" id="sect-00014">
+      <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
           <para id="para-00020"><link class="os-embed" url="#exercise/Neuro-14-01-001"/></para>
@@ -211,7 +237,8 @@
         </problem>
       </exercise>
     </section>
-    <section class="fillin-blank" id="sect-00015"><title>Fill in the Blank</title> 
+    <section class="fillin-blank" id="sect-00015">
+      <title>Fill in the Blank</title>
       <exercise id="exer-00010">
         <problem id="prob-00010">
           <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-14-01-010"/></para>
@@ -221,7 +248,8 @@
         <problem id="prob-00011">
           <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-14-01-011"/></para>
         </problem>
-      </exercise> </section>
-    
+      </exercise>
+    </section>
+
   </content>
 </document>

@@ -9,202 +9,295 @@
     <section class="learning-objectives" id="sect-00002">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Explain neurite outgrowth and the structural components of a growth cone.</item>
-          <item>Describe polyneuronal innervation and experience related innervation modifications.</item>
-        </list>
-    </section> 
-    
+      <list id="list-00001">
+        <item>Explain neurite outgrowth and the structural components of a growth cone.</item>
+        <item>Describe polyneuronal innervation and experience related innervation modifications.</item>
+      </list>
+    </section>
+
     <para id="para-00010">The creation of neurons and glia is only the first step in creating a functional brain. For neurons to function in meaningful ways, they have to connect to each other. Making (and keeping) these connections requires several steps. Here, we will discuss the formation of the growing axon (neurite) and major influences guiding final contact and synapse formation. We will end by describing polyneuronal innervation, our first window of opportunity to observe the potential for synaptic plasticity.</para>
-    <section id="sect-00003"><title>Communication by electrical impulse</title>
-      <para id="para-00011">The anatomist Santiago Ramón y Cajal was the first to describe fibers radiating from individual neurons (Cajal, 1995). He postulated that neurons were separate entities and used long fibers and connections to communicate. How the brain communicates through synapses was previously discussed in <link document="m00011">Neurophysiology</link>. Here we will provide a short review of this process because it is integral to the formation of synaptic connections early in development. Neurons communicate with each other via the <term id="term-00001">synapse</term> which can be seen in <link target-id="Image-5.13"/>.</para>
-      <figure id="Image-5.13"><title>Reminder of synaptic transmission</title>
-        <media alt="Left shows one neuron contacting another at a synapse. Right shows a zoom-in on that synapse, highlighting presynaptic neuron with synaptic vesicles. Neurotransmitter is released on postsynaptic neuron via the synaptic cleft. Neurotransmitter binds receptors of the postsynaptic side. Ions flow into the postsynaptic cell."> <image mime-type="image/png" src="../../media/Image-5.13_Reminder-of-synaptic-transmission.png"/> </media> </figure>
-      
-      
-      <para id="para-00012">The <term id="term-00002">presynaptic neuron</term> (sending the signal) is in close proximity with the <term id="term-00003">postsynaptic neuron</term> (receiving the signal) and can use signaling molecules and <term id="term-00004">neurotransmitters</term> to either increase or decrease the probability that the postsynaptic neuron fires an action potential. This communication occurs at the synaptic cleft (<link target-id="Image-5.13"/>). Complex mechanisms are required to ensure that the correct presynaptic neuron pairs with the appropriate postsynaptic neuron/tissue during development. Neurons extend and grow their axon using multiple cues and once they encounter their partner, they will test their match using temporary junctions, cell signaling and adhesion molecules, combined with electrical activity. Such signals, if positive, will then promote formation of a mature synapse.</para>
-      
-      <para id="para-00013">During development, neurons extend a specialized structure from the tip of a growing axon or dendrite. This structure was first described by Ramon y Cajal and was coined the <term id="term-00005">growth cone</term> (<link target-id="Image-5.16"/>). Growth cones are dynamic, in that they sense and respond to the environment in search of a target tissue to innervate (connect to via a synapse). Growth cones change shape by extending outward a leading edge (<link target-id="Image-5.16"/>), which interacts with the environment. The leading edge of the growth cone appears as a hand with fingertips. The outstretched fingertips are called <term id="term-00006">filopodia</term> (plural). Each filopodium (singular) samples the environment for attractive and repulsive signals that help to determine the direction of growth. In between each filopodium is a flat structure called the <term id="term-00007">lamellipodium</term> (<link target-id="Image-5.16"/>). Growth cones express various molecules on their surface that interact with the environment. Therefore, two unique growth cones may respond differently to the same environment.</para>
-      <figure id="Image-5.16"><title>Growth cones</title>
-        <media alt="An immunofluorescent image of a growth cone. It shows a fan of filopodia and lamellipodia extending from a long stalk (the growing axon shaft). The appearance is like a many-fingered hand extending from an arm."> <image mime-type="image/png" src="../../media//Image-5.16_Growth-cones.png"/> </media> <caption>Image credit: Microscopy image Public Domain, https://commons.wikimedia.org/w/index.php?curid=1321398. Labels added.</caption> </figure>
-      
-      
+    <section id="sect-00003">
+      <title>Communication by electrical impulse</title>
+      <para id="para-00011">The anatomist Santiago Ramón y Cajal was the first to describe fibers radiating from individual neurons (Cajal, 1995). He postulated that neurons were separate entities and used long fibers and connections to communicate. How the brain communicates through synapses was previously discussed in <link document="m00011">Neurophysiology</link>. Here we will provide a short review of this process because it is integral to the formation of synaptic connections early in development. Neurons communicate with each other via the <term id="term-00001">synapse</term> which can be seen in <link target-id="Image-5.13" />.</para>
+      <figure id="Image-5.13">
+        <title>Reminder of synaptic transmission</title>
+        <media alt="Left shows one neuron contacting another at a synapse. Right shows a zoom-in on that synapse, highlighting presynaptic neuron with synaptic vesicles. Neurotransmitter is released on postsynaptic neuron via the synaptic cleft. Neurotransmitter binds receptors of the postsynaptic side. Ions flow into the postsynaptic cell.">
+          <image mime-type="image/png" src="../../media/Image-5.13_Reminder-of-synaptic-transmission.png" />
+        </media>
+      </figure>
+
+
+      <para id="para-00012">The <term id="term-00002">presynaptic neuron</term> (sending the signal) is in close proximity with the <term id="term-00003">postsynaptic neuron</term> (receiving the signal) and can use signaling molecules and <term id="term-00004">neurotransmitters</term> to either increase or decrease the probability that the postsynaptic neuron fires an action potential. This communication occurs at the synaptic cleft (<link target-id="Image-5.13" />). Complex mechanisms are required to ensure that the correct presynaptic neuron pairs with the appropriate postsynaptic neuron/tissue during development. Neurons extend and grow their axon using multiple cues and once they encounter their partner, they will test their match using temporary junctions, cell signaling and adhesion molecules, combined with electrical activity. Such signals, if positive, will then promote formation of a mature synapse.</para>
+
+      <para id="para-00013">During development, neurons extend a specialized structure from the tip of a growing axon or dendrite. This structure was first described by Ramon y Cajal and was coined the <term id="term-00005">growth cone</term> (<link target-id="Image-5.16" />). Growth cones are dynamic, in that they sense and respond to the environment in search of a target tissue to innervate (connect to via a synapse). Growth cones change shape by extending outward a leading edge (<link target-id="Image-5.16" />), which interacts with the environment. The leading edge of the growth cone appears as a hand with fingertips. The outstretched fingertips are called <term id="term-00006">filopodia</term> (plural). Each filopodium (singular) samples the environment for attractive and repulsive signals that help to determine the direction of growth. In between each filopodium is a flat structure called the <term id="term-00007">lamellipodium</term> (<link target-id="Image-5.16" />). Growth cones express various molecules on their surface that interact with the environment. Therefore, two unique growth cones may respond differently to the same environment.</para>
+      <figure id="Image-5.16">
+        <title>Growth cones</title>
+        <media alt="An immunofluorescent image of a growth cone. It shows a fan of filopodia and lamellipodia extending from a long stalk (the growing axon shaft). The appearance is like a many-fingered hand extending from an arm.">
+          <image mime-type="image/png" src="../../media//Image-5.16_Growth-cones.png" />
+        </media>
+        <caption>Image credit: Microscopy image Public Domain, https://commons.wikimedia.org/w/index.php?curid=1321398. Labels added.</caption>
+      </figure>
+
+
       <para id="para-00014">The growth cone is dynamic, and when it meets attractive cues, a structural protein inside the budding growth cone called <term id="term-00008">actin</term> facilitates changes in the direction of the growth cone. Actin subunits can come together in a process called <term id="term-00009">polymerization</term> to move the growth cone. Actin filaments are primarily located in the filopodia.If a repulsive signal is detected, in contrast, actin subunits detach from each other, which is commonly referred to as <term id="term-00010">depolymerization</term>. Actin subunits are essential for growth cone movements, but the axon itself is not made of actin. It is produced from a more rigid protein called tubulin. Tubulin subunits come together at the opposite end of the leading edge of the growth cone to elongate the axon.</para>
-      
-      <section id="sect-00004"><title>Types of receptors expressed on the growth cone</title>
-      <para id="para-00015">There are several different classes of molecules expressed on the surface of a growth cone. <link target-id="Image-5.39"/> shows three of these major classes.</para>
-      <figure id="Image-5.39"><title>Signals guiding the growth cone</title>
-        <media alt="A diagram showing a filopodium extending into extracellular space. Actin filaments are polymerizing within the filopodium, helping to push the leading edge downward. Receptors are present on the filopodium for chemorepulsive and chemoattractive soluble cues, which are being secreted by other cells. Integrins are transmembrane proteins in the filopodium that are interacting with extracellular matrix structures in the extracellular environment. Cell adhesion molecules protrude from the filopodium and interact with matching cell adhesion molecules on a neighboring cell. The leading edge of the filopodium is turning towards the chemoattractive cues, the other cell expressing cell adhesion molecules and the side where integrins are bound to extracellular matrix."> <image mime-type="image/png" src="../../media/Image-5.39_Signals-guiding-the-grown-cone.png"/> </media></figure>
-      
-      
-      <para id="para-00016"><term id="term-00011">Cell adhesion molecules</term> (CAMs) such as neural cell adhesion molecule (NCAM) bind to other CAMs on neighboring cells. These molecules can bind to each other in a process called homophilic binding (bind to the same receptor on another cell) or can bind to other CAMs through heterophilic binding (binding to a different receptor on another cell). CAMs are unique from <term id="term-00012">calcium dependent cell adhesion molecules</term> (cadherins) because cadherins require calcium for an interaction and bind via homophilic binding. Cadherins are similar to CAMs because they are receptors present on adjacent cells which interact. Both CAMs and cadherins are unique from a third class of membrane bound receptors called <term id="term-00013">integrins</term>. Integrins bind and interact with components of the extracellular matrix. These components include laminin, fibronectin, and collagen.</para>
-      
-      <para id="para-00017">Additional cues can be received through <term id="term-00014">ephrins</term>, <term id="term-00015">semaphorins</term>, and <term id="term-00016">netrin</term>. Ephrins bind to Eph receptors while semaphorins bind to plexin or neuropilin receptors. Netrins are secreted factors that bind to the Unc-5/DCC receptor. Semaphorins are mostly inhibitory but under some circumstances can present attractive signals to the growing axon. There are two classes of ephrins, A and B, class A ephrins are anchored into the membrane and class B are transmembrane receptors that have an intracellular and extracellular domain. In vertebrates, netrin binds to the receptor DCC, which is expressed on the growth cone. The interaction between DCC and netrin is an attractive signal for the growth cone. Interestingly, netrin can also bind to the UNC5 receptor and when it does, it provides a repulsive cue. Thus, netrin can provide both attractive and repulsive cues.</para>
-      
+
+      <section id="sect-00004">
+        <title>Types of receptors expressed on the growth cone</title>
+        <para id="para-00015">There are several different classes of molecules expressed on the surface of a growth cone. <link target-id="Image-5.39" /> shows three of these major classes.</para>
+        <figure id="Image-5.39">
+          <title>Signals guiding the growth cone</title>
+          <media alt="A diagram showing a filopodium extending into extracellular space. Actin filaments are polymerizing within the filopodium, helping to push the leading edge downward. Receptors are present on the filopodium for chemorepulsive and chemoattractive soluble cues, which are being secreted by other cells. Integrins are transmembrane proteins in the filopodium that are interacting with extracellular matrix structures in the extracellular environment. Cell adhesion molecules protrude from the filopodium and interact with matching cell adhesion molecules on a neighboring cell. The leading edge of the filopodium is turning towards the chemoattractive cues, the other cell expressing cell adhesion molecules and the side where integrins are bound to extracellular matrix.">
+            <image mime-type="image/png" src="../../media/Image-5.39_Signals-guiding-the-grown-cone.png" />
+          </media>
+        </figure>
+
+
+        <para id="para-00016"><term id="term-00011">Cell adhesion molecules</term> (CAMs) such as neural cell adhesion molecule (NCAM) bind to other CAMs on neighboring cells. These molecules can bind to each other in a process called homophilic binding (bind to the same receptor on another cell) or can bind to other CAMs through heterophilic binding (binding to a different receptor on another cell). CAMs are unique from <term id="term-00012">calcium dependent cell adhesion molecules</term> (cadherins) because cadherins require calcium for an interaction and bind via homophilic binding. Cadherins are similar to CAMs because they are receptors present on adjacent cells which interact. Both CAMs and cadherins are unique from a third class of membrane bound receptors called <term id="term-00013">integrins</term>. Integrins bind and interact with components of the extracellular matrix. These components include laminin, fibronectin, and collagen.</para>
+
+        <para id="para-00017">Additional cues can be received through <term id="term-00014">ephrins</term>, <term id="term-00015">semaphorins</term>, and <term id="term-00016">netrin</term>. Ephrins bind to Eph receptors while semaphorins bind to plexin or neuropilin receptors. Netrins are secreted factors that bind to the Unc-5/DCC receptor. Semaphorins are mostly inhibitory but under some circumstances can present attractive signals to the growing axon. There are two classes of ephrins, A and B, class A ephrins are anchored into the membrane and class B are transmembrane receptors that have an intracellular and extracellular domain. In vertebrates, netrin binds to the receptor DCC, which is expressed on the growth cone. The interaction between DCC and netrin is an attractive signal for the growth cone. Interestingly, netrin can also bind to the UNC5 receptor and when it does, it provides a repulsive cue. Thus, netrin can provide both attractive and repulsive cues.</para>
+
       </section>
       <note class="boxed-feature" id="note-00001"><title>Mechanisms of axon guidance at the midline: lessons from invertebrates</title>
-      <para id="para-00018">Much knowledge has been gained by studying axon guidance in the spinal cord of invertebrates. One particular piece of development that has revealed many insights into how axons find their way through the developing nervous system is how developing spinal axons in the neural tube decide whether to cross the midline in flies (Drosophila, specifically). Interneurons of the spinal cord are produced at the dorsal side of the neural tube. The growing axons of these cells are observed to first extend ventrally, toward the floor plate on the most ventral side of the developing spinal cord (<link target-id="Image-5.40"/>). Once at the floor plate, the axons must make a choice: some must stay on that side of the midline (<term id="term-00017">ipsilateral</term>) while others must cross the midline to the opposite side. Axons that cross the midline form a commissure and we refer to them as the <term id="term-00018">commissural</term> neurons. Both types of axons are needed for proper circuit formation and the balance between them is critical to later function.</para>
-      <figure id="Image-5.40"><title>Growth cone signaling in the developing fly neural tube</title>
-        <media alt=" Left shows a horizontal section of developing spinal cord, with floor plate on the ventral side and an elongated ventricle in the middle. Netrin is shown emanating from the floor plate area. Two neurons are shown with cell bodies on the dorsal, left side. Ipsilateral axons extend from the body to the ipsilateral floor plate. Commissural axons extend through the floor plate area to the right, ventral side. Right shows a zoom-in of the floor plate area. Netrin is shown again, and now the protein Slit is also shown coming from the floor plate. Ipsilateral axons have netrin receptors (frazzled) and slit receptors (robo). Commissural axons have only netrin receptors. Ipsilateral growth cones are stopped by repulsion to slit at the midline. Commissural growth cones are not repulsed by slit because they do not express its receptor robo. They cross the midline.t"> <image mime-type="image/png" src="../../media/Image-5.40_Growth-cone-signaling-in-the-developing-fly-neural-tube.png"/> </media></figure>
+      <para id="para-00018">Much knowledge has been gained by studying axon guidance in the spinal cord of invertebrates. One particular piece of development that has revealed many insights into how axons find their way through the developing nervous system is how developing spinal axons in the neural tube decide whether to cross the midline in flies (Drosophila, specifically). Interneurons of the spinal cord are produced at the dorsal side of the neural tube. The growing axons of these cells are observed to first extend ventrally, toward the floor plate on the most ventral side of the developing spinal cord (<link target-id="Image-5.40" />). Once at the floor plate, the axons must make a choice: some must stay on that side of the midline (<term id="term-00017">ipsilateral</term>) while others must cross the midline to the opposite side. Axons that cross the midline form a commissure and we refer to them as the <term id="term-00018">commissural</term> neurons. Both types of axons are needed for proper circuit formation and the balance between them is critical to later function.</para>
+      <figure id="Image-5.40">
+          <title>Growth cone signaling in the developing fly neural tube</title>
+          <media alt=" Left shows a horizontal section of developing spinal cord, with floor plate on the ventral side and an elongated ventricle in the middle. Netrin is shown emanating from the floor plate area. Two neurons are shown with cell bodies on the dorsal, left side. Ipsilateral axons extend from the body to the ipsilateral floor plate. Commissural axons extend through the floor plate area to the right, ventral side. Right shows a zoom-in of the floor plate area. Netrin is shown again, and now the protein Slit is also shown coming from the floor plate. Ipsilateral axons have netrin receptors (frazzled) and slit receptors (robo). Commissural axons have only netrin receptors. Ipsilateral growth cones are stopped by repulsion to slit at the midline. Commissural growth cones are not repulsed by slit because they do not express its receptor robo. They cross the midline.t">
+            <image mime-type="image/png" src="../../media/Image-5.40_Growth-cone-signaling-in-the-developing-fly-neural-tube.png" />
+          </media>
+        </figure>
       
       <para id="para-00019">Studies in Drosophila, the fruit fly, have helped us understand the signals that guide these movements of the spinal interneuron axons. First, researchers found that growth cones grow towards the floor plate through interactions between netrin and frazzled receptors. Frazzled receptors are the fruit fly equivalent to vertebrate DCC. The expression of frazzled attracts axons to the midline. However, this interaction alone does not fully describe the decision of an axon to cross the midline.</para>
       
       <para id="para-00020">In Drosophila, the floor plate in the midline also secretes another protein, called slit. Slit provides a repulsive signal. Slit binds to the receptor robo, which is expressed on the growth cone. When slit binds to robo, axons that arrive at the floor plate due to their attraction to netrin are repelled from the midline and will not cross the midline. Mutations in slit or robo lead to an abnormal number of crossings. But if slit-robo interactions repel the growth cone, how do any axons cross-the midline? Robo expression at the growth cone must be suppressed in order for an axon to cross the midline. In the fruit fly, a protein called comm regulates the expression of robo at the surface of the growth cone. Comm suppresses robo just long enough for axons to cross the midline. A very analogous process occurs in higher vertebrates except that the Robo-like receptor Rig1, when expressed in the proper form, will allow crossing of the midline.</para>
-      </note></section>
-      <section id="sect-00005"><title>Synaptogenesis</title>
-      <para id="para-00021">Ultimately, the growth cone is directed by those attractive and repulsive signals to a putative target cell to form a mature synapse. The mature synapse has basic structural components that facilitate neuronal activity. The mature synapse contains vesicles of neurotransmitters, ionic channels (calcium channels), components to release neurotransmitters, a synaptic cleft, and a postsynaptic density (PSD) (<link target-id="Image-5.13"/>). These are all features that develop as a result of the pre- and postsynaptic cells interacting to help each other mature. When the presynaptic cell first meets the postsynaptic target, the synapse has immature characteristics, exemplified in <link target-id="Image-5.15"/>.</para>
-      <figure id="Image-5.15"><title>Immature v. mature synapses</title>
-        <media alt="Diagram of major features of a mature and immature synapse. The mature synapse is shown having many vesicles and a PSD. The immature synapse has fewer vesicles and lacks a PSD."> <image mime-type="image/png" src="../../media/Image-5.15_Immature-v-mature-synapses.png"/> </media></figure>
-      
-      
-      <para id="para-00022">There are two major classes of synapses: electrical and chemical (see <link document="m00011">Neurophysiology</link>). Chemical synapses communicate through the release of neurotransmitters, which are located in vesicles within the presynaptic neuron. The early immature chemical synapse lacks a PSD and has only very few vesicles in the presynaptic neuron. This immature chemical synapse has the ability to signal via neurotransmitter release, though it is not as robust as a mature synapse will eventually be (<link target-id="Image-5.15"/>). Rudimentary neurotransmitter release is required for chemical synapse maturation. Electrical synapses are fewer in number relative to chemical synapses and function through gap junctions that allow the electrical current to move from one cell to the next. Recent studies have shown that the components of an electrical synapse (i.e. gap junctions) are required for the development of chemical synapses (Todd et al., 2010). Thus, there is evidence that neurons first form transient electrical synapses before chemical synapses develop.</para>
-      
+      </note>
+    </section>
+    <section id="sect-00005">
+      <title>Synaptogenesis</title>
+      <para id="para-00021">Ultimately, the growth cone is directed by those attractive and repulsive signals to a putative target cell to form a mature synapse. The mature synapse has basic structural components that facilitate neuronal activity. The mature synapse contains vesicles of neurotransmitters, ionic channels (calcium channels), components to release neurotransmitters, a synaptic cleft, and a postsynaptic density (PSD) (<link target-id="Image-5.13" />). These are all features that develop as a result of the pre- and postsynaptic cells interacting to help each other mature. When the presynaptic cell first meets the postsynaptic target, the synapse has immature characteristics, exemplified in <link target-id="Image-5.15" />.</para>
+      <figure id="Image-5.15">
+        <title>Immature v. mature synapses</title>
+        <media alt="Diagram of major features of a mature and immature synapse. The mature synapse is shown having many vesicles and a PSD. The immature synapse has fewer vesicles and lacks a PSD.">
+          <image mime-type="image/png" src="../../media/Image-5.15_Immature-v-mature-synapses.png" />
+        </media>
+      </figure>
+
+
+      <para id="para-00022">There are two major classes of synapses: electrical and chemical (see <link document="m00011">Neurophysiology</link>). Chemical synapses communicate through the release of neurotransmitters, which are located in vesicles within the presynaptic neuron. The early immature chemical synapse lacks a PSD and has only very few vesicles in the presynaptic neuron. This immature chemical synapse has the ability to signal via neurotransmitter release, though it is not as robust as a mature synapse will eventually be (<link target-id="Image-5.15" />). Rudimentary neurotransmitter release is required for chemical synapse maturation. Electrical synapses are fewer in number relative to chemical synapses and function through gap junctions that allow the electrical current to move from one cell to the next. Recent studies have shown that the components of an electrical synapse (i.e. gap junctions) are required for the development of chemical synapses (Todd et al., 2010). Thus, there is evidence that neurons first form transient electrical synapses before chemical synapses develop.</para>
+
       <para id="para-00023">Developing a synapse entails 3 main steps. The growing axon must 1) detect a postsynaptic target and defasciculate, 2) form temporary contact with the target cells, and 3) undergo matching between the neurotransmitters of the presynaptic cell with the receptors on the target postsynaptic cell. During axon outgrowth, like-minded axons, those with similar growth trajectories, form bundles called <term id="term-00019">fascicles</term> (Stoeckli and Landmesser, 1995). Therefore, when an axon recognizes a potential postsynaptic match, the axon must undergo <term id="term-00020">defasciculation</term>. Defasciculation is when the axon breaks away from the bundle of axons to encounter its target cell. After detachment, the axon will undergo a matchmaking process that relies on cell adhesion. Cell adhesion is a process of connecting to neighboring cells in the environment using cell surface receptors. Cell contacts between the pre and postsynaptic neuron hold the two cells together long enough to initiate synaptogenesis. Subsequent signaling between the two cells ensures that the presynaptic cell synthesizes, packages, and releases an appropriate neurotransmitter that the postsynaptic cell can respond to via expression of appropriate receptors in its PSD.</para>
-      </section>
-      <section id="sect-00006"><title>Neuronal survival and cell death</title>
+    </section>
+    <section id="sect-00006">
+      <title>Neuronal survival and cell death</title>
       <para id="para-00024">The developing brain undergoes significant expansion of neural stem cells, which are required for the development of neurons and glia. Interestingly, the developing brain initially produces too many neurons, meaning that the number of cells produced is more than what is needed for adult function. How does the brain compensate for this overproduction of neurons? As it turns out, the developing brain undergoes a process called programmed cell death, or <term id="term-00021">apoptosis</term>. Through apoptosis, excess neurons die, and the developing brain is refined.</para>
-      
-      <para id="para-00025">Neuronal survival is regulated by multiple mechanisms, one of which is the size of the target tissue which a neuron will innervate. In 1909, Marian Lydia Shorey first demonstrated that there was a correlation between target tissue size and the number of surviving neurons (Shorey, 1909). Removal of the budding limb from chick embryos led to a decrease in the total number of neurons innervating the tissue whereas adding an extra limb tissue increased the total number of neurons. Subsequent experiments by Viktor Hamburger (1934) later revealed that neurons underwent cell death after the target tissue was removed (Hamburger, 1934). <link target-id="Image-5.34"/> shows an example of this kind of experiment and the resulting loss of motor neurons in the lumbar spine of developing chicks.</para>
-      <figure id="Image-5.34"><title>Tissue size and neuronal survival in development</title>
-        <media alt="Left shows a diagram of a chick with a line to indicate a limb was removed at embryonic day 4.5. Right is a line graph of motoneuron number (y-axis) versus age (from embryonic day 4.5 to 18.5). Intact chick embryos showed the usual increase and decrease in lumbar motor neurons. Chicks that lost a limb also lost many more motor neurons over development. These findings show that target tissue size controls neuron survival in development."> <image mime-type="image/png" src="../../media/Image-5.34_Tissue-size-and-neuronal-survival-in-development.png"/> </media> <caption>Data from: Peripheral Target Regulation of the Development and Survival of Spinal Sensory and Motor Neurons in the Chick Embryo. Jordi Calderó, David Prevette, Xun Mei, Robert A. Oakley, Ling Li, Carol Milligan, Lucien Houenou, Michael Burek, Ronald W. Oppenheim. Journal of Neuroscience 1 January 1998, 18 (1) 356-370; DOI: 10.1523/JNEUROSCI.18-01-00356.1998 (c) Journal of Neuroscience</caption> </figure>
-      
-      <para id="para-00026">These studies show that neuronal survival is not a random process and is influenced by the ability of tissues to form connections. How might the embryo decide which neurons die and which should survive? Neuronal survival is mediated by a class of molecules called <term id="term-00022">neurotrophins</term> that bind to a family of cell surface receptors called <term id="term-00023">Trk receptors</term>. Neurons that have inadequate signaling between neurotrophins and Trk receptors ultimately undergo apoptosis. Neurons have to compete with each other for access to these neurotrophins (<link target-id="Image-5.41"/>). Tissues producing less neurotrophins will support the survival of fewer neurons. This competition will also favor the survival of neurons that start to make better connections with sources of neurotrophin. In the chick limb bud removal experiments, the loss of the limb bud tissue removed a major source of neurotrophins, causing motor neurons headed towards that tissue to die off while others that found more neurotrophin-abundant targets in other tissues survived. This selection is one of the reasons we refer to this step as part of nervous system <term id="term-00024">refinement</term>. It is not random which neurons die and which survive, but rather driven by the connections the neurons are starting to form.</para>
-      <figure id="Image-5.41"><title>Neurotrophin and cell survival</title>
-        <media alt="A diagram showing neurons extending axons toward a target issue, which produces neurotrophin."> <image mime-type="image/png" src="../../media/Image-5.41_Neurotrophin-and-cell-survival.png"/> </media><caption>Neurons that make the strongest connections get best access to neurotrophins and survive. Others with poorer connections die.</caption></figure>
-      
-      </section>
-      <note class="boxed-feature" id="note-00002"><title>People behind the science: Discovery of nerve growth factor (NGF)</title>
-      <para id="para-00027">In the 1940s, studies from the laboratory of Viktor Hamburger began exploring the use of tumor transplants in the chick embryo as a means of identifying and characterizing the factors that promote neuronal survival. As part of these studies, Rita Levi-Montalcini (<link target-id="Image-5.42"/>), a research associate in the Hamburger lab, transplanted tumor cells on one side of the body wall of the chick embryo. When comparing the transplanted side with the non-transplanted side of the embryo, Dr. Levi-Montalcini found that the presence of the tumor increased the number of nerve fibers innervating the tumor and the size of the adjacent <term id="term-00025">dorsal root ganglia</term>. Dorsal root ganglia are clusters of cell bodies found at the base of a spinal nerve. Thus, the tumor secreted a factor that promoted survival of the nerve fibers. Subsequent experiments ultimately used ganglion explants that were cultured at a distance from the tumor. She used various types of tumors and tissue to find that sarcoma tumors could promote neurite outgrowth.</para>
-      <figure id="Image-5.42"><title>Rita Levi Montalchini</title>
-        <media alt="Photo of Rita Levi-Montalchini"> <image mime-type="image/png" src="../../media/Image-5.42_Rita-Levi-Montalchini.png"/> </media> <caption>"Image credit: Photo by Diario de Madrid - Diario de Madrid - La científica y premio Nobel Rita Levi, vista por su sobrina nieta, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=99838777</caption> </figure>
+
+      <para id="para-00025">Neuronal survival is regulated by multiple mechanisms, one of which is the size of the target tissue which a neuron will innervate. In 1909, Marian Lydia Shorey first demonstrated that there was a correlation between target tissue size and the number of surviving neurons (Shorey, 1909). Removal of the budding limb from chick embryos led to a decrease in the total number of neurons innervating the tissue whereas adding an extra limb tissue increased the total number of neurons. Subsequent experiments by Viktor Hamburger (1934) later revealed that neurons underwent cell death after the target tissue was removed (Hamburger, 1934). <link target-id="Image-5.34" /> shows an example of this kind of experiment and the resulting loss of motor neurons in the lumbar spine of developing chicks.</para>
+      <figure id="Image-5.34">
+        <title>Tissue size and neuronal survival in development</title>
+        <media alt="Left shows a diagram of a chick with a line to indicate a limb was removed at embryonic day 4.5. Right is a line graph of motoneuron number (y-axis) versus age (from embryonic day 4.5 to 18.5). Intact chick embryos showed the usual increase and decrease in lumbar motor neurons. Chicks that lost a limb also lost many more motor neurons over development. These findings show that target tissue size controls neuron survival in development.">
+          <image mime-type="image/png" src="../../media/Image-5.34_Tissue-size-and-neuronal-survival-in-development.png" />
+        </media>
+        <caption>Data from: Peripheral Target Regulation of the Development and Survival of Spinal Sensory and Motor Neurons in the Chick Embryo. Jordi Calderó, David Prevette, Xun Mei, Robert A. Oakley, Ling Li, Carol Milligan, Lucien Houenou, Michael Burek, Ronald W. Oppenheim. Journal of Neuroscience 1 January 1998, 18 (1) 356-370; DOI: 10.1523/JNEUROSCI.18-01-00356.1998 (c) Journal of Neuroscience</caption>
+      </figure>
+
+      <para id="para-00026">These studies show that neuronal survival is not a random process and is influenced by the ability of tissues to form connections. How might the embryo decide which neurons die and which should survive? Neuronal survival is mediated by a class of molecules called <term id="term-00022">neurotrophins</term> that bind to a family of cell surface receptors called <term id="term-00023">Trk receptors</term>. Neurons that have inadequate signaling between neurotrophins and Trk receptors ultimately undergo apoptosis. Neurons have to compete with each other for access to these neurotrophins (<link target-id="Image-5.41" />). Tissues producing less neurotrophins will support the survival of fewer neurons. This competition will also favor the survival of neurons that start to make better connections with sources of neurotrophin. In the chick limb bud removal experiments, the loss of the limb bud tissue removed a major source of neurotrophins, causing motor neurons headed towards that tissue to die off while others that found more neurotrophin-abundant targets in other tissues survived. This selection is one of the reasons we refer to this step as part of nervous system <term id="term-00024">refinement</term>. It is not random which neurons die and which survive, but rather driven by the connections the neurons are starting to form.</para>
+      <figure id="Image-5.41">
+        <title>Neurotrophin and cell survival</title>
+        <media alt="A diagram showing neurons extending axons toward a target issue, which produces neurotrophin.">
+          <image mime-type="image/png" src="../../media/Image-5.41_Neurotrophin-and-cell-survival.png" />
+        </media>
+        <caption>Neurons that make the strongest connections get best access to neurotrophins and survive. Others with poorer connections die.</caption>
+      </figure>
+
+    </section>
+    <note class="boxed-feature" id="note-00002"><title>People behind the science: Discovery of nerve growth factor (NGF)</title>
+      <para id="para-00027">In the 1940s, studies from the laboratory of Viktor Hamburger began exploring the use of tumor transplants in the chick embryo as a means of identifying and characterizing the factors that promote neuronal survival. As part of these studies, Rita Levi-Montalcini (<link target-id="Image-5.42" />), a research associate in the Hamburger lab, transplanted tumor cells on one side of the body wall of the chick embryo. When comparing the transplanted side with the non-transplanted side of the embryo, Dr. Levi-Montalcini found that the presence of the tumor increased the number of nerve fibers innervating the tumor and the size of the adjacent <term id="term-00025">dorsal root ganglia</term>. Dorsal root ganglia are clusters of cell bodies found at the base of a spinal nerve. Thus, the tumor secreted a factor that promoted survival of the nerve fibers. Subsequent experiments ultimately used ganglion explants that were cultured at a distance from the tumor. She used various types of tumors and tissue to find that sarcoma tumors could promote neurite outgrowth.</para>
+      <figure id="Image-5.42">
+        <title>Rita Levi Montalchini</title>
+        <media alt="Photo of Rita Levi-Montalchini">
+          <image mime-type="image/png" src="../../media/Image-5.42_Rita-Levi-Montalchini.png" />
+        </media>
+        <caption>"Image credit: Photo by Diario de Madrid - Diario de Madrid - La científica y premio Nobel Rita Levi, vista por su sobrina nieta, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=99838777</caption>
+      </figure>
       
       <para id="para-00028">The experiments performed ultimately paved the way for the discovery of nerve growth factor, a protein that we now know binds to TrkA receptor. Dr. Levi-Montalcini was awarded the Nobel Prize in 1986 alongside her colleague Stanley Cohen. Her story is particularly inspiring because in 1938 laws against those of Jewish descent prevented her from working in university laboratories. She spent her early career conducting experiments in her bedroom, which she later published, providing her the opportunity to work in the laboratory of Dr. Hamburger. She worked in the Hamburger lab for many years before establishing her own laboratory.</para>
-      </note>
-      <section id="sect-00007"><title>Synapse refinement</title>
+    </note>
+    <section id="sect-00007">
+      <title>Synapse refinement</title>
       <para id="para-00029">Early prenatal brain development combines coordinated control of various signals to produce an elaborate foundational unit capable of precise control of the human body. However, it is important to note that this unit represents only a foundation and is subject to refinement. We discussed refinement above in terms of which neurons survive. Synapse refinement is also a prominent feature of the developing nervous system. Synapse refinement is the process by which the early synapses are modified or eliminated because of specific signaling events.</para>
-      
-      <para id="para-00030">The <term id="term-00026">neuromuscular junction</term> (NMJ) is a well-defined example of synapse refinement after birth (Bishop et al., 2004). We have learned a great deal about the capacity for refinement by studying the NMJ. The NMJ represents the synapse between the axon of a <term id="term-00027">motor neuron</term> and a <term id="term-00028">muscle fiber</term> (<link document="m00017">Motor Control</link>). Muscle fibers are regulated by a single motor neuron in adults, but it has been established that in newborn rats, muscle fibers are innervated by a minimum of 2 different motor neurons. This type of innervation is called <term id="term-00029">polyneuronal innervation</term>. After birth, motor neuron innervations are reduced, but not because of neuronal cell death. Rather, the branches are eliminated or refined to target only a single muscle fiber (<link target-id="Image-5.17"/>) (Brown et al., 1976).</para>
-      <figure id="Image-5.17"><title>Muscle innervation development</title>
-        <media alt="Diagram of 3 motor neuron axons contacting 3 muscle fibers in early development and later on. In early development, motor neurons innervate multiple muscle fibers. During maturation, synapses are eliminated such that motor neuron axons synapse on only 1 muscle fiber."> <image mime-type="image/png" src="../../media/Image-5.17_Muscle-innervation-development.png"/> </media></figure>
-      
+
+      <para id="para-00030">The <term id="term-00026">neuromuscular junction</term> (NMJ) is a well-defined example of synapse refinement after birth (Bishop et al., 2004). We have learned a great deal about the capacity for refinement by studying the NMJ. The NMJ represents the synapse between the axon of a <term id="term-00027">motor neuron</term> and a <term id="term-00028">muscle fiber</term> (<link document="m00017">Motor Control</link>). Muscle fibers are regulated by a single motor neuron in adults, but it has been established that in newborn rats, muscle fibers are innervated by a minimum of 2 different motor neurons. This type of innervation is called <term id="term-00029">polyneuronal innervation</term>. After birth, motor neuron innervations are reduced, but not because of neuronal cell death. Rather, the branches are eliminated or refined to target only a single muscle fiber (<link target-id="Image-5.17" />) (Brown et al., 1976).</para>
+      <figure id="Image-5.17">
+        <title>Muscle innervation development</title>
+        <media alt="Diagram of 3 motor neuron axons contacting 3 muscle fibers in early development and later on. In early development, motor neurons innervate multiple muscle fibers. During maturation, synapses are eliminated such that motor neuron axons synapse on only 1 muscle fiber.">
+          <image mime-type="image/png" src="../../media/Image-5.17_Muscle-innervation-development.png" />
+        </media>
+      </figure>
+
       <para id="para-00031">The process of transitioning from polyneuronal innervation to mono-neuronal innervation is dependent on electrical activity and competition between two innervating neurons. It is critical for the precise recruitment of the motor unit during force and contraction generation (Lee, 2020). Should it be dysfunctional, more than one neuron would control the activity of a muscle cell. This phenomenon is not limited to the NMJ and has been demonstrated in the CNS. For example, Purkinje cells of the cerebellum that are innervated by climbing fiber inputs of the inferior olive are poly-innervated at birth, but by 2 weeks of age, the synapses are refined to a single innervation per Purkinje cell (Mariani and Changeux, 1981).</para>
-      
-      <section id="sect-00009"><title>Synapse refinement in the CNS</title>
-      <para id="para-00032">We have discussed synapse refinement at the NMJ as a model for how synaptic connections are reorganized postnatally. Similar processes are occurring in the CNS, but what drives this process in the CNS? It turns out that, similar to how neurons must compete for neurotrophin survival cues, competition is also critical to synapse survival.In short, synapses that get used more get strengthened and those that are not used are lost. The most effective synapses are those that have a strong association between presynaptic neurotransmitter release and postsynaptic firing. Presynaptic neurons that fire in unison are especially effective at competing as a team to maintain strong connections that cause the postsynaptic neuron to fire. <link target-id="Image-5.18"/> shows a representation of this principle. Early in development, a postsynaptic neuron may receive multiple inputs (# 1), some of which fire together (# 2) and others of which do not (# 3). The correlated inputs are much more likely to cause the postsynaptic cell to fire, because they are working together. As development proceeds, those correlated connections get stronger (# 5) and uncorrelated ones get weaker.</para>
-      <figure id="Image-5.18"><title>Synaptic correlation</title>
-        <media alt="Diagram of a neuron receiving multiple inputs early in development, some of which fire together and others which don’t. The ones that fire together are stronger and survive. The ones that do not are weaker and are eliminated. Steps are also described in main text."> <image mime-type="image/png" src="../../media/Image-5.18_Synaptic-correlation.png"/> </media></figure>
-      
-      <para id="para-00033">What happens to those “weaker” synapses? Rival synapses that cannot fire synchronously with a neuron or a target cell and receive little input eventually lose synaptic connection and are eliminated through <term id="term-00030">pruning</term> (# 4 in <link target-id="Image-5.18"/>). Why do we need to eliminate synapses? Consider it like how tree roots compete for water in the rainforest. To survive and strengthen, the roots that branch out towards areas which fortify the livelihood of the tree will grow stronger, and those that fail in this sense weaken and die. Synapse numbers tend to peak during childhood in humans, with pruning then extending from late childhood through adolescence (<link target-id="Image-5.24"/>).</para>
-      <figure id="Image-5.24"><title>Synapse formation and pruning</title>
-        <media alt="A line graph of synapse density per volume (y axis) versus developmental age, ranging from conception through 20 years post-birth. Lines for visual and auditory cortex rise from just prior to birth and peak in the 1st year of life then show a shallow decline into young adulthood. Prefrontal cortex peaks later in childhood (age 5-10 and is more actively declining during adolescence into young adulthood."> <image mime-type="image/png" src="../../media/Image-5.24_Synapse-formation-and-pruning.png"/> </media><caption>Synapses are over-produced and then pruned. Less active synapses are pruned while active synapses are preserved.</caption></figure>
-      
-      <para id="para-00034">Pruning requires a balance; too little or too much can reduce the efficiency of brain function. Aberrant pruning can result in cognitive disorders due to faulty wiring in early life stages (Johnston, 2004; Sakai, 2020). For example, patients diagnosed with schizophrenia, a debilitating psychiatric illness with a myriad of hallucinogenic symptoms, show fewer synapses (over pruning) in brain scans relative to healthy individuals (see <link document="m00065">Attention and Executive Function</link>). The loss of synaptic connections is pronounced in the prefrontal cortex, a region where pruning peaks during adolescence, an active period of synapse elimination, coinciding with the onset of the disorder. In contrast, disorders such as autism have shown an excess in connections, suggesting failure to eliminate synapses. Findings like these suggest that CNS disorders can result from excessive or insufficient pruning during childhood and adolescence.</para>
+
+      <section id="sect-00009">
+        <title>Synapse refinement in the CNS</title>
+        <para id="para-00032">We have discussed synapse refinement at the NMJ as a model for how synaptic connections are reorganized postnatally. Similar processes are occurring in the CNS, but what drives this process in the CNS? It turns out that, similar to how neurons must compete for neurotrophin survival cues, competition is also critical to synapse survival.In short, synapses that get used more get strengthened and those that are not used are lost. The most effective synapses are those that have a strong association between presynaptic neurotransmitter release and postsynaptic firing. Presynaptic neurons that fire in unison are especially effective at competing as a team to maintain strong connections that cause the postsynaptic neuron to fire. <link target-id="Image-5.18" /> shows a representation of this principle. Early in development, a postsynaptic neuron may receive multiple inputs (# 1), some of which fire together (# 2) and others of which do not (# 3). The correlated inputs are much more likely to cause the postsynaptic cell to fire, because they are working together. As development proceeds, those correlated connections get stronger (# 5) and uncorrelated ones get weaker.</para>
+        <figure id="Image-5.18">
+          <title>Synaptic correlation</title>
+          <media alt="Diagram of a neuron receiving multiple inputs early in development, some of which fire together and others which don’t. The ones that fire together are stronger and survive. The ones that do not are weaker and are eliminated. Steps are also described in main text.">
+            <image mime-type="image/png" src="../../media/Image-5.18_Synaptic-correlation.png" />
+          </media>
+        </figure>
+
+        <para id="para-00033">What happens to those “weaker” synapses? Rival synapses that cannot fire synchronously with a neuron or a target cell and receive little input eventually lose synaptic connection and are eliminated through <term id="term-00030">pruning</term> (# 4 in <link target-id="Image-5.18" />). Why do we need to eliminate synapses? Consider it like how tree roots compete for water in the rainforest. To survive and strengthen, the roots that branch out towards areas which fortify the livelihood of the tree will grow stronger, and those that fail in this sense weaken and die. Synapse numbers tend to peak during childhood in humans, with pruning then extending from late childhood through adolescence (<link target-id="Image-5.24" />).</para>
+        <figure id="Image-5.24">
+          <title>Synapse formation and pruning</title>
+          <media alt="A line graph of synapse density per volume (y axis) versus developmental age, ranging from conception through 20 years post-birth. Lines for visual and auditory cortex rise from just prior to birth and peak in the 1st year of life then show a shallow decline into young adulthood. Prefrontal cortex peaks later in childhood (age 5-10 and is more actively declining during adolescence into young adulthood.">
+            <image mime-type="image/png" src="../../media/Image-5.24_Synapse-formation-and-pruning.png" />
+          </media>
+          <caption>Synapses are over-produced and then pruned. Less active synapses are pruned while active synapses are preserved.</caption>
+        </figure>
+
+        <para id="para-00034">Pruning requires a balance; too little or too much can reduce the efficiency of brain function. Aberrant pruning can result in cognitive disorders due to faulty wiring in early life stages (Johnston, 2004; Sakai, 2020). For example, patients diagnosed with schizophrenia, a debilitating psychiatric illness with a myriad of hallucinogenic symptoms, show fewer synapses (over pruning) in brain scans relative to healthy individuals (see <link document="m00065">Attention and Executive Function</link>). The loss of synaptic connections is pronounced in the prefrontal cortex, a region where pruning peaks during adolescence, an active period of synapse elimination, coinciding with the onset of the disorder. In contrast, disorders such as autism have shown an excess in connections, suggesting failure to eliminate synapses. Findings like these suggest that CNS disorders can result from excessive or insufficient pruning during childhood and adolescence.</para>
       </section>
-      <section id="sect-00010"><title>Myelination and plasticity</title>
-      <para id="para-00035">Myelin is a sheath that surrounds axons to promote the rate of electrical signaling. It is made of proteins and lipids and deposition of myelin on axons begins 1-2 months before birth. This makes <term id="term-00031">myelination</term> one of the later steps in nervous system development (<link target-id="Image-5.23"/>).</para>
-      <figure id="Image-5.23"><title>Primate neurodevelopment</title>
-      <media alt="A diagram representing the timeline of 6 major developmental processes and when they peak. Before birth, neurogenesis then neuronal migration peak and end. Gliogenesis begins before birth but peaks shortly after it. Synaptogenesis begins right around birth and peaks in the 1st year, along with gliogenesis. Myelination begins after birth and peaks around age 10. Synaptic pruning being around age 5 and peaks between age 10-15."> <image mime-type="image/png" src="../../media/Image-5.23_Primate-neurodevelopment.png"/> </media></figure>
-      
-      <para id="para-00036">Myelin is produced by oligodendrocytes in the CNS and Schwann cells in the peripheral nervous system (see <link document="m00026">Structure and function of the nervous system</link>). Both of these are glial cells produced during gliogenesis. Myelination does not occur all at once, but rather in a progression. Generally, axons in the peripheral nervous system are myelinated first, followed by spinal cord axons and finally axons in the brain. <link target-id="Image-5.36"/> shows MRI images of the brain during the first year of life, showing rapid accumulation of myelin (pseudocolored red) in the brain. This first year is when the peak of myelination occurs in humans. A parallel in the first month of life in rodents can also be seen in the bottom panel of <link target-id="Image-5.36"/>, where myelin has been stained dark in brains from rats aged postnatal day 7 to 35.</para>
-      <figure id="Image-5.36"><title>Myelination in the developing brain</title>
-        <media alt=" Top shows MRI scans of human brain from brith to 18 months. Pseuodcoloring is used to show that the increase in myelin is substantial in the first year of life in humans. Bottom shows stained rat brain sections where darkly-stained myelin becomes more and more evident from postnatal day 7 to day 35."> <image mime-type="image/png" src="../../media/Image-5.36_Myelination-in-the-developing-brain.png"/> </media> <caption>Images from: Erik van Tilborg , Caroline G M de Theije, Maurik van Hal, Nienke Wagenaar, Linda S de Vries, Manon J Benders, David H Rowitch, Cora H Nijboer. 2018. Origin and dynamics of oligodendrocytes in the developing brain: Implications for perinatal white matter injury. Glia, 66(2): 221-238, doi: 10.1002/glia.23256. CC BY 4.0</caption> </figure>
-      
-      <para id="para-00037">Though the first year is when most myelination happens in humans, myelination continues in the forebrain well into childhood and adolescence and accounts for some degree of plasticity during these time periods. Interestingly, extensive piano playing is associated with increased myelination (Fields, 2005). In adolescence, increased risk-taking behavior can be the result of incomplete development of the forebrain, which includes reduced white matter (myelination) development (Beckman, 2004). But how does the environment affect myelin deposition? For the CNS, the answer probably lies in how sensitive developing oligodendrocytes are to environmental stimuli. Oligodendrocytes are glial cells of the CNS that produce and deposit myelin. For example, when rats were raised in an enriching environment, with toys and other rats to play with, the number of oligodendrocytes in their cortex actually increased (Szeligo and Leblond, 1977). Consistent with the increase in the number of oligodendrocytes, an enriching environment is also associated with an increase in the number of myelinated axons (Juraska, 1988). These studies were performed in rats, but there is also evidence for white matter developmental plasticity in humans. For example, neglect during childhood has been shown to decrease white matter by 17% in the corpus callosum (Teicher et al., 2004). We will discuss more about experience-dependent plasticity in neurodevelopment, but these examples help to highlight how development is not a simple series of steps but a constant interplay between developing systems and their environment.</para></section></section>
+      <section id="sect-00010">
+        <title>Myelination and plasticity</title>
+        <para id="para-00035">Myelin is a sheath that surrounds axons to promote the rate of electrical signaling. It is made of proteins and lipids and deposition of myelin on axons begins 1-2 months before birth. This makes <term id="term-00031">myelination</term> one of the later steps in nervous system development (<link target-id="Image-5.23" />).</para>
+        <figure id="Image-5.23">
+          <title>Primate neurodevelopment</title>
+          <media alt="A diagram representing the timeline of 6 major developmental processes and when they peak. Before birth, neurogenesis then neuronal migration peak and end. Gliogenesis begins before birth but peaks shortly after it. Synaptogenesis begins right around birth and peaks in the 1st year, along with gliogenesis. Myelination begins after birth and peaks around age 10. Synaptic pruning being around age 5 and peaks between age 10-15.">
+            <image mime-type="image/png" src="../../media/Image-5.23_Primate-neurodevelopment.png" />
+          </media>
+        </figure>
 
-    <section class="section-summary" id="sect-00011"> <title>Summary</title> <para id="para-00038">A differentiating neuron undergoes significant changes which produce a growth cone that migrates through a milieu of signaling to find a target tissue. Upon selection, additional cues are provided to promote the formation of a mature synapse. Specific signaling events regulate maturation of the synapse as well as neuronal survival prior to birth, but after birth the nervous system continues to undergo refinement of synapses. In the subsequent sections, we will focus more on critical periods and provide examples of disorders that arise as a consequence of changes in our environment.</para> </section>
-<section class="key-terms" id="sect-00012"> <title>Key Terms</title> <list display="inline" id="list-00002"><item>Synapse</item>
-  <item>presynaptic neuron</item>
-  <item>postsynaptic neuron</item>
-  <item>neurotransmitters</item>
-  <item>actin</item>
-  <item>polymerization</item>
-  <item>depolymerization</item>
-  <item>cell adhesion molecules</item>
-  <item>calcium dependent cell adhesion molecules</item>
-  <item>integrins</item>
-  <item>fascicles</item>
-  <item>ephrins</item>
-  <item>semaphorins</item>
-  <item>netrin</item>
-  <item>ipsilateral</item>
-  <item>commissural</item>
-  <item>fascicles</item>
-  <item>defasciculation</item>
-  <item>apoptosis</item>
-  <item>neurotrophins</item>
-  <item>Trk receptors</item>
-  <item>refinement</item>
-  <item>dorsal root ganglia</item>
-  <item>neuromuscular junction</item>
-  <item>motor neuron</item>
-  <item>muscle fiber</item>
-  <item>polyneuronal innervation</item>
-  <item>pruning</item>
-  <item>myelination</item></list> </section>
+        <para id="para-00036">Myelin is produced by oligodendrocytes in the CNS and Schwann cells in the peripheral nervous system (see <link document="m00026">Structure and function of the nervous system</link>). Both of these are glial cells produced during gliogenesis. Myelination does not occur all at once, but rather in a progression. Generally, axons in the peripheral nervous system are myelinated first, followed by spinal cord axons and finally axons in the brain. <link target-id="Image-5.36" /> shows MRI images of the brain during the first year of life, showing rapid accumulation of myelin (pseudocolored red) in the brain. This first year is when the peak of myelination occurs in humans. A parallel in the first month of life in rodents can also be seen in the bottom panel of <link target-id="Image-5.36" />, where myelin has been stained dark in brains from rats aged postnatal day 7 to 35.</para>
+        <figure id="Image-5.36">
+          <title>Myelination in the developing brain</title>
+          <media alt=" Top shows MRI scans of human brain from brith to 18 months. Pseuodcoloring is used to show that the increase in myelin is substantial in the first year of life in humans. Bottom shows stained rat brain sections where darkly-stained myelin becomes more and more evident from postnatal day 7 to day 35.">
+            <image mime-type="image/png" src="../../media/Image-5.36_Myelination-in-the-developing-brain.png" />
+          </media>
+          <caption>Images from: Erik van Tilborg , Caroline G M de Theije, Maurik van Hal, Nienke Wagenaar, Linda S de Vries, Manon J Benders, David H Rowitch, Cora H Nijboer. 2018. Origin and dynamics of oligodendrocytes in the developing brain: Implications for perinatal white matter injury. Glia, 66(2): 221-238, doi: 10.1002/glia.23256. CC BY 4.0</caption>
+        </figure>
 
-<section class="references" id="sect-00013">
-  <title>References</title>
-  <para id="para-00039">Beckman, M. (2004). Crime, culpability, and the adolescent brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">305</emphasis>(5684), 596–599. https://doi.org/10.1126/science.305.5684.596
-  </para>
+        <para id="para-00037">Though the first year is when most myelination happens in humans, myelination continues in the forebrain well into childhood and adolescence and accounts for some degree of plasticity during these time periods. Interestingly, extensive piano playing is associated with increased myelination (Fields, 2005). In adolescence, increased risk-taking behavior can be the result of incomplete development of the forebrain, which includes reduced white matter (myelination) development (Beckman, 2004). But how does the environment affect myelin deposition? For the CNS, the answer probably lies in how sensitive developing oligodendrocytes are to environmental stimuli. Oligodendrocytes are glial cells of the CNS that produce and deposit myelin. For example, when rats were raised in an enriching environment, with toys and other rats to play with, the number of oligodendrocytes in their cortex actually increased (Szeligo and Leblond, 1977). Consistent with the increase in the number of oligodendrocytes, an enriching environment is also associated with an increase in the number of myelinated axons (Juraska, 1988). These studies were performed in rats, but there is also evidence for white matter developmental plasticity in humans. For example, neglect during childhood has been shown to decrease white matter by 17% in the corpus callosum (Teicher et al., 2004). We will discuss more about experience-dependent plasticity in neurodevelopment, but these examples help to highlight how development is not a simple series of steps but a constant interplay between developing systems and their environment.</para>
+      </section>
+    </section>
 
-  <para id="para-00040">Bishop, D. L., Misgeld, T., Walsh, M. K., Gan, W.-B., &amp; Lichtman, J. W. (2004). Axon branch removal at developing synapses by axosome shedding. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">44</emphasis>(4), 651–661. https://doi.org/10.1016/j.neuron.2004.10.026</para>
+    <section class="section-summary" id="sect-00011">
+      <title>Summary</title>
+      <para id="para-00038">A differentiating neuron undergoes significant changes which produce a growth cone that migrates through a milieu of signaling to find a target tissue. Upon selection, additional cues are provided to promote the formation of a mature synapse. Specific signaling events regulate maturation of the synapse as well as neuronal survival prior to birth, but after birth the nervous system continues to undergo refinement of synapses. In the subsequent sections, we will focus more on critical periods and provide examples of disorders that arise as a consequence of changes in our environment.</para>
+    </section>
+    <section class="key-terms" id="sect-00012">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Synapse</item>
+        <item>presynaptic neuron</item>
+        <item>postsynaptic neuron</item>
+        <item>neurotransmitters</item>
+        <item>actin</item>
+        <item>polymerization</item>
+        <item>depolymerization</item>
+        <item>cell adhesion molecules</item>
+        <item>calcium dependent cell adhesion molecules</item>
+        <item>integrins</item>
+        <item>fascicles</item>
+        <item>ephrins</item>
+        <item>semaphorins</item>
+        <item>netrin</item>
+        <item>ipsilateral</item>
+        <item>commissural</item>
+        <item>fascicles</item>
+        <item>defasciculation</item>
+        <item>apoptosis</item>
+        <item>neurotrophins</item>
+        <item>Trk receptors</item>
+        <item>refinement</item>
+        <item>dorsal root ganglia</item>
+        <item>neuromuscular junction</item>
+        <item>motor neuron</item>
+        <item>muscle fiber</item>
+        <item>polyneuronal innervation</item>
+        <item>pruning</item>
+        <item>myelination</item>
+      </list>
+    </section>
 
-  <para id="para-00041">Brown, M. C., Jansen, J. K., &amp; Van Essen, D. (1976). Polyneuronal innervation of skeletal muscle in new-born rats and its elimination during maturation. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">261</emphasis>(2), 387–422. https://doi.org/10.1113/jphysiol.1976.sp011565</para>
+    <section class="references" id="sect-00013">
+      <title>References</title>
+      <para id="para-00039">Beckman, M. (2004). Crime, culpability, and the adolescent brain. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">305</emphasis>(5684), 596–599. https://doi.org/10.1126/science.305.5684.596 </para>
 
-  <para id="para-00042">Cajal, S. R. (1995). <emphasis effect="italics">Histology of the nervous system of man and vertebrates</emphasis>. History of Neuroscience (Oxford University Press).</para>
+      <para id="para-00040">Bishop, D. L., Misgeld, T., Walsh, M. K., Gan, W.-B., &amp; Lichtman, J. W. (2004). Axon branch removal at developing synapses by axosome shedding. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">44</emphasis>(4), 651–661. https://doi.org/10.1016/j.neuron.2004.10.026</para>
 
-  <para id="para-00043">Fields, R. D. (2005). Myelination: an overlooked mechanism of synaptic plasticity? <emphasis effect="italics">The Neuroscientist</emphasis>, <emphasis effect="italics">11</emphasis>(6), 528-531. https://doi.org/10.1177/1073858405282304</para>
+      <para id="para-00041">Brown, M. C., Jansen, J. K., &amp; Van Essen, D. (1976). Polyneuronal innervation of skeletal muscle in new-born rats and its elimination during maturation. <emphasis effect="italics">Journal of Physiology</emphasis>, <emphasis effect="italics">261</emphasis>(2), 387–422. https://doi.org/10.1113/jphysiol.1976.sp011565</para>
 
-  <para id="para-00044">Hamburger, V. (1934). The effects of wing bud extirpation on the development of the central nervous system in chick embryos. <emphasis effect="italics">Journal of Experimental Zoology</emphasis>, <emphasis effect="italics">68</emphasis>(3), 449-494. https://doi.org/10.1002/jez.1400680305</para>
+      <para id="para-00042">Cajal, S. R. (1995). <emphasis effect="italics">Histology of the nervous system of man and vertebrates</emphasis>. History of Neuroscience (Oxford University Press).</para>
 
-  <para id="para-00045">Johnston, M. V. (2004). Clinical disorders of brain plasticity. <emphasis effect="italics">Brain and Development</emphasis>, <emphasis effect="italics">26</emphasis>(2), 73–80. https://doi.org/10.1016/S0387-7604(03)00102-5</para>
+      <para id="para-00043">Fields, R. D. (2005). Myelination: an overlooked mechanism of synaptic plasticity? <emphasis effect="italics">The Neuroscientist</emphasis>, <emphasis effect="italics">11</emphasis>(6), 528-531. https://doi.org/10.1177/1073858405282304</para>
 
-  <para id="para-00046">Juraska, J. M., &amp; Kopcik, J. R. (1988). Sex and environmental influences on the size and ultrastructure of the rat corpus callosum. <emphasis effect="italics">Brain Research</emphasis>, <emphasis effect="italics">450</emphasis>(1), 1–8. https://doi.org/10.1016/0006-8993(88)91538-7</para>
+      <para id="para-00044">Hamburger, V. (1934). The effects of wing bud extirpation on the development of the central nervous system in chick embryos. <emphasis effect="italics">Journal of Experimental Zoology</emphasis>, <emphasis effect="italics">68</emphasis>(3), 449-494. https://doi.org/10.1002/jez.1400680305</para>
 
-  <para id="para-00047">Lee, Y. I. (2020). Developmental neuromuscular synapse elimination: Activity-dependence and potential downstream effector mechanisms. <emphasis effect="italics">Neuroscience Letters</emphasis>, <emphasis effect="italics">718</emphasis>, 134724. https://doi.org/10.1016/j.neulet.2019.134724</para>
+      <para id="para-00045">Johnston, M. V. (2004). Clinical disorders of brain plasticity. <emphasis effect="italics">Brain and Development</emphasis>, <emphasis effect="italics">26</emphasis>(2), 73–80. https://doi.org/10.1016/S0387-7604(03)00102-5</para>
 
-  <para id="para-00048">Mariani, J., &amp; Changeux, J. P. (1981). Ontogenesis of olivocerebellar relationships. II. Spontaneous activity of inferior olivary neurons and climbing fiber-mediated activity of cerebellar Purkinje cells in developing rats. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">1</emphasis>(7), 703–709. https://doi.org/10.1523/jneurosci.01-07-00703.1981</para>
+      <para id="para-00046">Juraska, J. M., &amp; Kopcik, J. R. (1988). Sex and environmental influences on the size and ultrastructure of the rat corpus callosum. <emphasis effect="italics">Brain Research</emphasis>, <emphasis effect="italics">450</emphasis>(1), 1–8. https://doi.org/10.1016/0006-8993(88)91538-7</para>
 
-  <para id="para-00049">Sakai, J. (2020). Core Concept: How synaptic pruning shapes neural wiring during development and, possibly, in disease. <emphasis effect="italics">Proceedings of the National Academy of Sciences USA</emphasis>, <emphasis effect="italics">117</emphasis>(28), 16096–16099. https://doi.org/10.1073/pnas.2010281117</para>
+      <para id="para-00047">Lee, Y. I. (2020). Developmental neuromuscular synapse elimination: Activity-dependence and potential downstream effector mechanisms. <emphasis effect="italics">Neuroscience Letters</emphasis>, <emphasis effect="italics">718</emphasis>, 134724. https://doi.org/10.1016/j.neulet.2019.134724</para>
 
-  <para id="para-00052">Shorey, M. L. (1909). <emphasis effect="italics">The effect of the destruction of peripheral areas on the differentiation of the neuroblasts...</emphasis> University of Chicago.</para>
+      <para id="para-00048">Mariani, J., &amp; Changeux, J. P. (1981). Ontogenesis of olivocerebellar relationships. II. Spontaneous activity of inferior olivary neurons and climbing fiber-mediated activity of cerebellar Purkinje cells in developing rats. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">1</emphasis>(7), 703–709. https://doi.org/10.1523/jneurosci.01-07-00703.1981</para>
 
-  <para id="para-00051">Stoeckli, E. T., &amp; Landmesser, L. T. (1995). Axonin-1, Nr-CAM, and Ng-CAM play different roles in the in vivo guidance of chick commissural neurons. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">14</emphasis>(6), 1165–1179. https://doi.org/10.1016/0896-6273(95)90264-3</para>
+      <para id="para-00049">Sakai, J. (2020). Core Concept: How synaptic pruning shapes neural wiring during development and, possibly, in disease. <emphasis effect="italics">Proceedings of the National Academy of Sciences USA</emphasis>, <emphasis effect="italics">117</emphasis>(28), 16096–16099. https://doi.org/10.1073/pnas.2010281117</para>
 
-  <para id="para-00050">Szeligo, F., &amp; Leblond, C. P. (1977). Response of the three main types of glial cells of cortex and corpus callosum in rats handled during suckling or exposed to enriched control and impoverished environments following weaning. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">172</emphasis>(2), 247–63.</para>
+      <para id="para-00052">Shorey, M. L. (1909). <emphasis effect="italics">The effect of the destruction of peripheral areas on the differentiation of the neuroblasts...</emphasis> University of Chicago.</para>
 
-  <para id="para-00053">Teicher, M. H., Dumont, N. L., Ito, Y., Vaituzis, C., Giedd, J. N., &amp; Andersen, S. L. (2004). Childhood neglect is associated with reduced corpus callosum area. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">56</emphasis>(2), 80–85. https://doi.org/10.1016/j.biopsych.2004.03.016</para>
+      <para id="para-00051">Stoeckli, E. T., &amp; Landmesser, L. T. (1995). Axonin-1, Nr-CAM, and Ng-CAM play different roles in the in vivo guidance of chick commissural neurons. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">14</emphasis>(6), 1165–1179. https://doi.org/10.1016/0896-6273(95)90264-3</para>
 
-  <para id="para-00054">Todd, K. L., Kristan, W. B., Jr., &amp; French, K. A. (2010). Gap junction expression is required for normal chemical synapse formation. <emphasis effect="italics">The Journal of Neuroscience</emphasis>, <emphasis effect="italics">30</emphasis>(45), 15277–15285. https://doi.org/10.1523/JNEUROSCI.2331-10.2010</para>
-  </section>
-    <section class="multiple-choice" id="sect-00001"><title>Multiple Choice</title>
+      <para id="para-00050">Szeligo, F., &amp; Leblond, C. P. (1977). Response of the three main types of glial cells of cortex and corpus callosum in rats handled during suckling or exposed to enriched control and impoverished environments following weaning. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">172</emphasis>(2), 247–63.</para>
+
+      <para id="para-00053">Teicher, M. H., Dumont, N. L., Ito, Y., Vaituzis, C., Giedd, J. N., &amp; Andersen, S. L. (2004). Childhood neglect is associated with reduced corpus callosum area. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">56</emphasis>(2), 80–85. https://doi.org/10.1016/j.biopsych.2004.03.016</para>
+
+      <para id="para-00054">Todd, K. L., Kristan, W. B., Jr., &amp; French, K. A. (2010). Gap junction expression is required for normal chemical synapse formation. <emphasis effect="italics">The Journal of Neuroscience</emphasis>, <emphasis effect="italics">30</emphasis>(45), 15277–15285. https://doi.org/10.1523/JNEUROSCI.2331-10.2010</para>
+    </section>
+    <section class="multiple-choice" id="sect-00001">
+      <title>Multiple Choice</title>
       <exercise id="exer-00001">
-          <problem id="prob-00001">
-      <para id="para-00002"><link class="os-embed" url="#exercise/Neuro-05-03-001"/></para></problem></exercise>
+        <problem id="prob-00001">
+          <para id="para-00002"><link class="os-embed" url="#exercise/Neuro-05-03-001" /></para>
+        </problem>
+      </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-    <para id="para-00003"><link class="os-embed" url="#exercise/Neuro-05-03-002"/></para></problem></exercise>
-    <exercise id="exer-00003">
-      <problem id="prob-00003">
-  <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-05-03-003"/></para></problem></exercise>
-  <exercise id="exer-00004">
-    <problem id="prob-00004">
-<para id="para-00005"><link class="os-embed" url="#exercise/Neuro-05-03-004"/></para></problem></exercise>
-<exercise id="exer-00005">
-  <problem id="prob-00005">
-<para id="para-00006"><link class="os-embed" url="#exercise/Neuro-05-03-005"/></para></problem></exercise>
-<exercise id="exer-00006">
-  <problem id="prob-00006">
-<para id="para-00007"><link class="os-embed" url="#exercise/Neuro-05-03-006"/></para></problem></exercise>
-<exercise id="exer-00007">
-  <problem id="prob-00007">
-<para id="para-00008"><link class="os-embed" url="#exercise/Neuro-05-03-007"/></para></problem></exercise>
-      
-       </section>
-      <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
-        <exercise id="exer-00008">
-          <problem id="prob-00008">
-      <para id="para-00009"><link class="os-embed" url="#exercise/Neuro-05-03-008"/></para></problem></exercise>
-      </section>
+          <para id="para-00003"><link class="os-embed" url="#exercise/Neuro-05-03-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00004"><link class="os-embed" url="#exercise/Neuro-05-03-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00005"><link class="os-embed" url="#exercise/Neuro-05-03-004" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00006"><link class="os-embed" url="#exercise/Neuro-05-03-005" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-05-03-006" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00008"><link class="os-embed" url="#exercise/Neuro-05-03-007" /></para>
+        </problem>
+      </exercise>
+
+    </section>
+    <section class="fillin-blank" id="sect-00008">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00008">
+        <problem id="prob-00008">
+          <para id="para-00009"><link class="os-embed" url="#exercise/Neuro-05-03-008" /></para>
+        </problem>
+      </exercise>
+    </section>
   </content>
 </document>

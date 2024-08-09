@@ -9,114 +9,154 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Name and define different biological rhythms.</item>
-          <item>Draw and label the components of a circadian rhythm.</item>
-          <item>Draw and label the components of a phase response curve.</item>
-        </list>
+      <list id="list-00001">
+        <item>Name and define different biological rhythms.</item>
+        <item>Draw and label the components of a circadian rhythm.</item>
+        <item>Draw and label the components of a phase response curve.</item>
+      </list>
     </section>
-    <section id="sect-00007"><title>Neuroscience Across Species: Why Are Rhythms Important?</title>
+    <section id="sect-00007">
+      <title>Neuroscience Across Species: Why Are Rhythms Important?</title>
       <para id="para-00018">The earth orbits the sun with a period of about 365 days and rotates on its axis every 24 hours. These rotations create a cyclical and predictable environment including rhythmic changes in light and dark, ambient temperature, and resource availability. Animals, plants, fungus and bacteria evolved during these predictable environments and have adapted their biological systems as a result. Thus, one significant benefit of biological rhythms is to synchronize the biology of an organism to environmental cycles in anticipation of recurring events. For example, organisms can increase their survival by avoiding predation, preparing for hibernation, gathering food, or finding mates when they can anticipate changes in the environment. Mammals increase their metabolism prior to the start of their active period when they eat their first meal of the day, mobilizing energy reserves in anticipation of increased demands on the body. Another example is that the mechanisms responsible for clearing out metabolic by-products from the brain go into high gear when we are sleeping, potentially helping create a neural environment conducive to new learning. Arctic mammals can prepare for a cold winter by reducing their metabolic rate and body temperature and hibernating for a portion of the year, and adult fruit flies emerge from their pupa in a timed manner, about 1-2 hours before dawn, which is the onset of their active period.</para>
-      </section>
-      <section id="sect-00008"><title>Examples of Rhythms</title>
-      <para id="para-00019">There are many different types of rhythms, with periods ranging in length from seconds to hours to days (<link target-id="Image-15.14"/>). Neuron electrical action potentials within the brain can occur at the level of milliseconds, neuronal firing rates can show spontaneous 24 hour rhythms, hormone surges such as the morning rise in cortisol can occur every 24 hours, and the reproductive or ovulatory cycle in laboratory rodents occurs every 4-5 days whereas it can occur around every 28 days in humans.</para>
-      <figure id="Image-15.14"><title>Types of rhythms</title>
-        <media alt="A timeline with illustrations above it of 4 different kinds of rhythms. Ultradian is less than 24 hours, for example ocean tides. Circadian is 24 hours, for example sleep-wake cycle. Infradian is greater than 24 hours, for example cycles of the moon. Circannual is approximately 1 year, for example hibernation."> <image mime-type="image/png" src="../../media/Image-15.14_Types-of-rhythms.png"/> </media></figure>
-      
+    </section>
+    <section id="sect-00008">
+      <title>Examples of Rhythms</title>
+      <para id="para-00019">There are many different types of rhythms, with periods ranging in length from seconds to hours to days (<link target-id="Image-15.14" />). Neuron electrical action potentials within the brain can occur at the level of milliseconds, neuronal firing rates can show spontaneous 24 hour rhythms, hormone surges such as the morning rise in cortisol can occur every 24 hours, and the reproductive or ovulatory cycle in laboratory rodents occurs every 4-5 days whereas it can occur around every 28 days in humans.</para>
+      <figure id="Image-15.14">
+        <title>Types of rhythms</title>
+        <media alt="A timeline with illustrations above it of 4 different kinds of rhythms. Ultradian is less than 24 hours, for example ocean tides. Circadian is 24 hours, for example sleep-wake cycle. Infradian is greater than 24 hours, for example cycles of the moon. Circannual is approximately 1 year, for example hibernation.">
+          <image mime-type="image/png" src="../../media/Image-15.14_Types-of-rhythms.png" />
+        </media>
+      </figure>
+
       <para id="para-00020"><term id="term-00001">Circadian</term> rhythms (circa = about, dia = day) describe rhythms with a period of about 24 hours and the best known of these is the daily rhythm of sleeping and wakefulness that many animals experience.</para>
-      
+
       <para id="para-00021"><term id="term-00002">Ultradian</term> rhythms have periods significantly shorter than 24 hours. An example of this would be heart rate, or the occurrence of multiple sleep cycles during the night (see below). Another type of ultradian rhythm are those that follow the cycles of tides; these are called <term id="term-00003">circatidal</term> and occur around every 12.4 hours. Marine organisms such as crabs time their locomotor activity to the occurrence of tides.</para>
-      
+
       <para id="para-00022"><term id="term-00004">Infradian</term> rhythms have periods significantly longer than 24 hours. For example, the reproductive rhythm (menstrual cycle) of women is a type of infradian rhythm. <term id="term-00005">Circalunar</term> rhythms are a type of infradian rhythm that follow the amount of moonlight that is available and last about 29.5 days. Examples of circalunar rhythms are seen in the reproductive cycles of marine animals. <term id="term-00006">Circannual</term> rhythms are another type of infradian rhythms—these are cycles that recur with a period of about 1 year. The onset of hibernation each year in Arctic ground squirrels would be a circannual rhythm.</para>
-      </section>
-      <section id="sect-00009"><title>Qualities of a Rhythm</title>
-      <para id="para-00023">A <term id="term-00007">rhythm</term> is a repeating event that occurs with a regular pattern (<link target-id="Image-15.01"/>). We can characterize the features of a rhythm by describing its <term id="term-00008">period</term> or the duration of time it takes one cycle of the rhythm to occur. The <term id="term-00009">phase</term> of a rhythm describes a marker or point in a daily rhythm. A phase could be measured at the peak of a daily rhythm, such as the peak of melatonin secretion, or a trough in a rhythm such as the time when your body temperature is the lowest. A <term id="term-00010">phase relationship</term> or <term id="term-00011">phase difference</term> is the timing of the phase of a rhythm in relation to another daily timing event. For example, we can talk about the phase difference between when you wake up each day (the phase) and the time when your alarm goes off. The <term id="term-00012">mesor</term> of a rhythm is the average level of the rhythm across a full cycle, and the <term id="term-00013">amplitude</term> of a rhythm is the difference between the peak and trough of that rhythm. <term id="term-00014">Frequency</term> describes how often the rhythm occurs within a period of time. For example, pulses of luteinizing hormone secretion might occur at a frequency of 4 per hour <link document="m00101">Sexual Development and Behavior</link>.</para>
-      <figure id="Image-15.01"><title>Circadian rhythm</title>
-        <media alt="A graph of time (x axis) vs Level (gene expression, activity hormone level, etc.). Time is divided into night and day repeating twice, followed by a bar for continuous darkness. A repeating wave is shown that recycles after every day-night pair and continues to cycle in the continuous darkness. The features from the main text are highlighted."> <image mime-type="image/png" src="../../media/Image-15.01_Circadian-rhythm.png"/> </media><caption>A biological rhythm has many independent components that can be analyzed.</caption></figure>
-      
+    </section>
+    <section id="sect-00009">
+      <title>Qualities of a Rhythm</title>
+      <para id="para-00023">A <term id="term-00007">rhythm</term> is a repeating event that occurs with a regular pattern (<link target-id="Image-15.01" />). We can characterize the features of a rhythm by describing its <term id="term-00008">period</term> or the duration of time it takes one cycle of the rhythm to occur. The <term id="term-00009">phase</term> of a rhythm describes a marker or point in a daily rhythm. A phase could be measured at the peak of a daily rhythm, such as the peak of melatonin secretion, or a trough in a rhythm such as the time when your body temperature is the lowest. A <term id="term-00010">phase relationship</term> or <term id="term-00011">phase difference</term> is the timing of the phase of a rhythm in relation to another daily timing event. For example, we can talk about the phase difference between when you wake up each day (the phase) and the time when your alarm goes off. The <term id="term-00012">mesor</term> of a rhythm is the average level of the rhythm across a full cycle, and the <term id="term-00013">amplitude</term> of a rhythm is the difference between the peak and trough of that rhythm. <term id="term-00014">Frequency</term> describes how often the rhythm occurs within a period of time. For example, pulses of luteinizing hormone secretion might occur at a frequency of 4 per hour <link document="m00101">Sexual Development and Behavior</link>.</para>
+      <figure id="Image-15.01">
+        <title>Circadian rhythm</title>
+        <media alt="A graph of time (x axis) vs Level (gene expression, activity hormone level, etc.). Time is divided into night and day repeating twice, followed by a bar for continuous darkness. A repeating wave is shown that recycles after every day-night pair and continues to cycle in the continuous darkness. The features from the main text are highlighted.">
+          <image mime-type="image/png" src="../../media/Image-15.01_Circadian-rhythm.png" />
+        </media>
+        <caption>A biological rhythm has many independent components that can be analyzed.</caption>
+      </figure>
+
       <para id="para-00024">One fascinating concept about biological rhythms is that they are <term id="term-00015">endogenous</term>, meaning that they are driven by internal physiology rather than being entirely generated by external or <term id="term-00016">exogenous</term> cues. This means that rhythms will continue to be expressed even if the organism is isolated from the environment. For example, a variety of circadian rhythms continue to be expressed, even when the organism is maintained in an environment with constant lighting conditions, which lack any cues as to the time of day. This experiment has been done with numerous species including placing humans in underground apartments, or housing laboratory rodents or fruit flies in constant darkness. These experiments demonstrate that biological rhythms continue to oscillate in a consistent manner, though this rhythm may not perfectly match the solar day or other rhythmic environmental cues such as temperature fluctuations. For example, if you were to live in dim light in a sleep lab for seven days and we measured the time when you woke up each day, we would learn that the period of your daily sleep-wake cycle may run slightly faster or slightly slower than 24 hours. Under these constant conditions the rhythm is described as <term id="term-00017">free-running</term>. Humans can have a free-running period that normally ranges from 23.5 to 24.7 hours. In nocturnal lab rodents, a typical free-running period can range from 23-25 hours long, and in fruit flies population rhythms in emergence from the pupa and individual activity rhythm is about 24.5 hours. Of course, most organisms do not live in environments absent of cues, thus when an organism's internally generated rhythm is synchronized to the rhythms of the external environment we refer to this as <term id="term-00018">entrainment</term>.</para>
-      </section>
-      
-      <section id="sect-00010"><title>Chronotypes</title>
+    </section>
+
+    <section id="sect-00010">
+      <title>Chronotypes</title>
       <para id="para-00025">Are you someone who tends to stay up late into the night? A "night owl"? Or perhaps you go to bed early and wake up early? A “lark”? The tendencies of your body towards sleeping at some hours of the day and being more alert at other times of day is called a <term id="term-00019">chronotype</term>. Chronotypes exist on a spectrum and can be influenced by age, gender, and genetics. Chronotype has been linked to health outcomes, mood such as anxiety and depression, and the time of day you are most productive. For example, evening types ("owls") are more likely to have depression, anxiety, obesity, and lower grades compared to morning types ("larks") (van der Merwe, Munch, and Kruger, 2022; Walsh, Repa, and Garland, 2022; Yeo et al., 2023). Individuals with severe morningness or eveningness chronotypes may be diagnosed with conditions such as advanced sleep-wake phase disorder or delayed sleep-wake phase disorder (see <link document="m00098">Disorders of Sleep and Circadian Rhythms</link>).</para>
-      
+
       <para id="para-00026">Your chronotype typically changes across your lifespan. Young children tend towards a morning preference and wake up and go to bed relatively early, whereas after adolescence, teenagers and young adults have difficulties falling asleep before 11 pm and may struggle to wake up for an early morning class or job. The peak in an evening chronotype occurs around age 19 after which the chronotype begins to shift to an earlier time. Thus, older individuals tend to be morning types, and this tendency to be a morning type continues to increase from age 35-80 (Roenneberg et al., 2007). Interestingly, there is also a sex difference in chronotypes, with women typically being earlier (larks) compared to men (Fischer et al., 2017). Some researchers hypothesized that these sex differences could be attributed to circulating hormones. This is supported by the fact that as women age and go through menopause and hormone depletion around the age of 40-50, the sex difference in chronotype goes away.</para>
-      
+
       <para id="para-00027">Although you can adapt your circadian rhythms to new environmental light cycles, such as would occur if you traveled to another time zone, it is difficult to intentionally change a chronotype. However, light therapy, melatonin treatment, and adherence to a sleep schedule (<term id="term-00020">sleep hygiene</term>) can help shift the timing of rhythms. People with an evening chronotype report that shifting their rhythms towards a morning chronotype can reduce depression and stress, improve mood, and improve cognitive performance (Facer-Child et al., 2019).</para>
-      </section>
-      <section id="sect-00011"><note class="inthe-lab" id="note-00001"><title>Photic Phase Response Curve</title>
+    </section>
+    <section id="sect-00011">
+      <note class="inthe-lab" id="note-00001"><title>Photic Phase Response Curve</title>
       <para id="para-00028">How does your internal clock adjust your sleep-wake pattern when you fly to a new time zone? How does your body stay entrained to your rhythmic environment without drifting? There are many types of environmental cues that can entrain a biological rhythm including cycling changes in temperature, humidity, food availability, and social cues. However, the strongest entraining cue for most animals is the light:dark cycle driven by the earth’s rotation. In mammals, the biological clock in our brains responds to light cues and helps synchronize it to the external rhythm. If the endogenous clock isn’t in alignment with the 24 hr day/night cycle, the clock needs to be adjusted to bring it back in synchrony with the environment. Both the magnitude of the response and the direction of that response depend upon when the light cue is perceived by the clock. To phrase this another way, your body can respond to light cues and "reset" the clock. However, the degree to which your clock is adjusted depends upon the time when you were exposed to a light cue.</para>
       
-      <para id="para-00030">Consider an experiment where we house a laboratory rodent in constant darkness and measure the onset of their daily bout of activity in a running wheel. This wheel running occurs during the animal’s active time of day, thus in this nocturnal animal wheel running would reflect its <term id="term-00021">subjective night</term>. When the rodent is sleeping, it would reflect the <term id="term-00022">subjective day</term>. We use the term “subjective” because it reflects the brain’s internal interpretation of time, not the actual environmental condition experienced. <link target-id="Image-15.21"/> shows how we often represent the data from an experiment like this, where a single bar represents a 24h period and light and dark shading within that bar represent periods of low and high activity, which we learn by recording turns of the running wheel.</para>
-      <figure id="Image-15.21"><title>Measuring rhythms in rodents</title>
-        <media alt="Illustration showing a rodent and a running wheel. 1) Rodent wheel running increases during the night, when rodents are most active. Subjective day and night are shown aligning with lights on versus off. 2) When shifted to constant darkness, the rodent maintains a 24h rhythm of activity. Lights are off but subjective day and night remain aligned with inactive vs active phases, respectively."> <image mime-type="image/png" src="../../media/Image-15.21_Measuring-rhythms-in-rodents.png"/> </media></figure>
+      <para id="para-00030">Consider an experiment where we house a laboratory rodent in constant darkness and measure the onset of their daily bout of activity in a running wheel. This wheel running occurs during the animal’s active time of day, thus in this nocturnal animal wheel running would reflect its <term id="term-00021">subjective night</term>. When the rodent is sleeping, it would reflect the <term id="term-00022">subjective day</term>. We use the term “subjective” because it reflects the brain’s internal interpretation of time, not the actual environmental condition experienced. <link target-id="Image-15.21" /> shows how we often represent the data from an experiment like this, where a single bar represents a 24h period and light and dark shading within that bar represent periods of low and high activity, which we learn by recording turns of the running wheel.</para>
+      <figure id="Image-15.21">
+          <title>Measuring rhythms in rodents</title>
+          <media alt="Illustration showing a rodent and a running wheel. 1) Rodent wheel running increases during the night, when rodents are most active. Subjective day and night are shown aligning with lights on versus off. 2) When shifted to constant darkness, the rodent maintains a 24h rhythm of activity. Lights are off but subjective day and night remain aligned with inactive vs active phases, respectively.">
+            <image mime-type="image/png" src="../../media/Image-15.21_Measuring-rhythms-in-rodents.png" />
+          </media>
+        </figure>
       
       
-      <para id="para-00031">In the lab, we can use rodent activity to study how biological clocks entrain to external cues depending on when they are given. For example, we can expose animals living in constant darkness to a 10-min pulse of light at various times across their subjective day and subjective night. We then measure the effect of that light cue on the timing of the wheel running onset. The observed change from the original activity onset to the new, adjusted onset is called a phase shift. We can plot phase shifts using a <term id="term-00023">phase response curve</term> (<link target-id="Image-15.07"/>).</para>
+      <para id="para-00031">In the lab, we can use rodent activity to study how biological clocks entrain to external cues depending on when they are given. For example, we can expose animals living in constant darkness to a 10-min pulse of light at various times across their subjective day and subjective night. We then measure the effect of that light cue on the timing of the wheel running onset. The observed change from the original activity onset to the new, adjusted onset is called a phase shift. We can plot phase shifts using a <term id="term-00023">phase response curve</term> (<link target-id="Image-15.07" />).</para>
       
-      <figure id="Image-15.07"><title>Circadian shift</title>
-        <media alt="Top of the diagram shows the active period of a rodent in 5 hypothetical scenarios represented as dark bars. With lights cycling, dark bars stay aligned with lights off. After a shift to constant darkness, bars begin to drift later each day. A light pulse is shown at the times described in the main text. The resulting shift (or lack thereof) is shown as dark bars shifting later or earlier. A line graph at the bottom also plots these changes as subjective time of day (x-axis) vs Amount shifted (y-axis). Light pulses in the subjective day mostly lead to no shift (dead zone). Light pulses in the beginning of subjective night shift towards a delay and those at the end of subjective night shift towards an advance."> <image mime-type="image/png" src="../../media/Image-15.07_Circadian-shift.png"/> </media></figure>
+      <figure id="Image-15.07">
+          <title>Circadian shift</title>
+          <media alt="Top of the diagram shows the active period of a rodent in 5 hypothetical scenarios represented as dark bars. With lights cycling, dark bars stay aligned with lights off. After a shift to constant darkness, bars begin to drift later each day. A light pulse is shown at the times described in the main text. The resulting shift (or lack thereof) is shown as dark bars shifting later or earlier. A line graph at the bottom also plots these changes as subjective time of day (x-axis) vs Amount shifted (y-axis). Light pulses in the subjective day mostly lead to no shift (dead zone). Light pulses in the beginning of subjective night shift towards a delay and those at the end of subjective night shift towards an advance.">
+            <image mime-type="image/png" src="../../media/Image-15.07_Circadian-shift.png" />
+          </media>
+        </figure>
       
       <para id="para-00032">Conventionally, we plot advances (waking up earlier) in the timing of activity as positive numbers and delays (waking up later) as negative numbers, against the time of day when the animals were exposed to the light pulse. By plotting the response to light pulses, we can see there is a pattern in sensitivity to the light cue. Generally speaking, if the animal was given a pulse of light during its subjective day there is little to no change in the onset of the wheel running the next day. This is to be expected because this is the time of day when light would normally be present. This part of the curve is referred to as a <term id="term-00024">dead zone</term>. However, when exposed to light in the early portion of the night, animals have a dramatic shift in the timing of wheel running or activity, such that it is delayed compared to when it was predicted to occur. Conceptually, think of this as the animal’s brain interpreting the light as meaning that it is still daytime, the animal got up too early, and therefore tomorrow it should become active at a later time. Conversely, light pulses given in the second half of the evening result in advances in the timing of the wheel running onset (the animal stayed up too late—it should shift its activity to an earlier time). This light sensitivity that varies as a function of the time of day is a critical function for how biological clocks synchronize to the environment. This same methodology has been used to determine the phase response curve in a variety of other species including fruit flies (Vinayak et al., 2013), sparrows (Binkley and Mosher, 1987), and flying squirrels (DeCoursey, 1960).</para>
       
       <para id="para-00033">Interestingly, the shape of the phase response curve looks remarkably similar in <term id="term-00025">diurnal</term> and <term id="term-00026">nocturnal</term> organisms suggesting that there are similar clock processes underlying this response to light, despite behavioral rhythms having different patterns. Diurnal animals are those who are most active during the daytime hours whereas nocturnal animals are those who are active during the dark period of the day. Humans, and many species of primates, squirrels, and birds are diurnal. Similarly, there are birds such as owls, and primates such as lemurs that are nocturnal. Much of the basic research done on biological rhythms uses laboratory rodents which are either nocturnal or diurnal, or fruit flies, which are diurnal, but the principles of biological clock function are remarkably conserved across species and ecological niches.</para>
       </note>
-      <section id="sect-00012"><title>People Behind the Science: Dr. Pat DeCoursey</title>
-      <para id="para-00034">The very first phase response curve has been credited to Dr. Pat DeCoursey. Dr. DeCoursey was always interested in science and while in high school conducted a census of songbirds in a tract in Long Island, NY. She entered her project into a science talent contest where she won scholarship money that helped her attend Cornell University. This was followed by graduate school at University of Wisconsin, Madison where she studied the emerging field of chronobiology. She was working with flying squirrels which have a precise free running period of nearly 24 hours and she was interested in asking questions about entrainment. She gave the animals light pulses and plotted their dramatic shifts in activity onset to create the first photic phase response curve. In her long career in biological rhythms, she worked with numerous species including Eastern chipmunks, antelope squirrels, hamsters, and golden mantled ground squirrels and she helped write and edit a textbook entitled <emphasis effect="italics">Chronobiology</emphasis>. Later in her career, she performed exceptionally challenging experiments designed to examine the importance of a functional circadian clock to the survival of animals in the wild.</para></section>
+      <section id="sect-00012">
+        <title>People Behind the Science: Dr. Pat DeCoursey</title>
+        <para id="para-00034">The very first phase response curve has been credited to Dr. Pat DeCoursey. Dr. DeCoursey was always interested in science and while in high school conducted a census of songbirds in a tract in Long Island, NY. She entered her project into a science talent contest where she won scholarship money that helped her attend Cornell University. This was followed by graduate school at University of Wisconsin, Madison where she studied the emerging field of chronobiology. She was working with flying squirrels which have a precise free running period of nearly 24 hours and she was interested in asking questions about entrainment. She gave the animals light pulses and plotted their dramatic shifts in activity onset to create the first photic phase response curve. In her long career in biological rhythms, she worked with numerous species including Eastern chipmunks, antelope squirrels, hamsters, and golden mantled ground squirrels and she helped write and edit a textbook entitled <emphasis effect="italics">Chronobiology</emphasis>. Later in her career, she performed exceptionally challenging experiments designed to examine the importance of a functional circadian clock to the survival of animals in the wild.</para>
       </section>
-    <section class="section-summary" id="sect-00002"> <title>Summary</title>
+    </section>
+    <section class="section-summary" id="sect-00002">
+      <title>Summary</title>
       <para id="para-00029"><link url="https://openstax.org/r/Neuro15Summary">Author's summary</link></para>
 
-      <para id="para-00002">Endogenous biological rhythms are found in nearly every organism on the planet. Internal clocks can help an organism anticipate changes in their environment. There are many types of biological rhythms that can range from seconds to hours to years; circadian rhythms are those that take about 24 hours to complete a cycle. We can characterize the components of a rhythm by analyzing their period, phase, amplitude, mesor and frequency. Furthermore, we can determine how an internal clock responds to the environment by constructing a phase response curve. </para> </section>
-<section class="key-terms" id="sect-00003"> <title>Key Terms</title> <list display="inline" id="list-00002">
-  <item>Chronobiology</item>
-  <item>circadian</item>
-  <item>ultradian</item>
-  <item>circatidal</item>
-  <item>infradian</item>
-  <item>circannual</item>
-  <item>circalunar</item>
-  <item>rhythm</item>
-  <item>period</item>
-  <item>phase</item>
-  <item>phase difference</item>
-  <item>amplitude</item>
-  <item>mesor</item>
-  <item>frequency</item>
-  <item>endogenous</item>
-  <item>exogenous</item>
-  <item>free running</item>
-  <item>entrainment</item>
-  <item>chronotype</item>
-  <item>sleep hygiene</item>
-  <item>subjective day</item>
-  <item>subjective night</item>
-  <item>phase response curve</item>
-  <item>dead zone</item>
-  <item>diurnal</item>
-  <item>nocturnal</item>
-</list> </section>
-<section class="references" id="sect-00004"> <title>References</title>
-  <para id="para-00003">Binkley, S., &amp; Mosher, K. (1987). Circadian rhythm resetting in sparrows: Early response to doublet light pulses. <emphasis effect="italics">Journal of Biological Rhythms</emphasis>, <emphasis effect="italics">2</emphasis>(1), 1–11.</para>
-  <para id="para-00004">Danner, F., &amp; Phillips, B. (2008). Adolescent sleep, school start times, and teen motor vehicle crashes. <emphasis effect="italics">Journal of Clinical Sleep Medicine: JCSM: Official Publication of the American Academy of Sleep Medicine</emphasis>, <emphasis effect="italics">4</emphasis>, 533–535.</para>
-  <para id="para-00005">DeCoursey, P. J. (1960). Daily light sensitivity rhythm in a rodent. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">131</emphasis>, 33–55.</para>
-  <para id="para-00006">Dunlap, J. C., Loros, J. J., &amp; DeCoursey, P. J. (2004). <emphasis effect="italics">Chronobiology: Biological Timekeeping</emphasis>. Sunderland, MA: Sinauer Associates.</para>
-  <para id="para-00007">Dunster, G. P., de la Iglesia, L., Ben-Hamo, M., Nave, C., Fleischer, J. G., Panda, S., &amp; de la Iglesia, H. O. (2018). Sleepmore in Seattle: Later school start times are associated with more sleep and better performance in high school students. <emphasis effect="italics">Sci Adv</emphasis>, <emphasis effect="italics">4</emphasis>:eaau6200.</para>
-  <para id="para-00008">Facer-Childs, E. R., Middleton, B., Skene, D. J., &amp; Bagshaw, A. P. (2019). Resetting the late timing of ‘night owls’ has a positive impact on mental health and performance. <emphasis effect="italics">Sleep Medicine</emphasis>, <emphasis effect="italics">60</emphasis>, 236–247.</para>
-  <para id="para-00009">Fischer, D., Lombardi, D. A., Marucci-Wellman, H., &amp; Roenneberg, T. (2017). Chronotypes in the US – Influence of age and sex. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">12</emphasis>:e0178782.</para>
-  <para id="para-00010">NSF (2014). 2014 Sleep in America (R) Poll: Sleep in the modern family (pp. 1-51). Arlington, VA: National Sleep Foundation.</para>
-  <para id="para-00011">Sawyer, H., &amp; Taie, W. S. (2020). Start time for U.S. public high schools. National Center for Educational Statistics, pub. 2020006.</para>
-  <para id="para-00012">van der Merwe, C., Munch, M., &amp; Kruger, R. (2022). Chronotype differences in body composition, dietary intake, and eating behavior outcomes: A scoping systematic review. <emphasis effect="italics">Adv Nutr</emphasis>, <emphasis effect="italics">13</emphasis>(6), 2357–2405.</para>
-  <para id="para-00013">Vinayak, P., Coupar, J., Hughes, S. E., Fozdar, P., Kilby, J., Garren, E., Yoshii, T., &amp; Hirsh, J. (2013). Exquisite light sensitivity of Drosophila melanogaster Cryptochrome. <emphasis effect="italics">PLoS Genetics</emphasis>, <emphasis effect="italics">9</emphasis>:e1003615. <emphasis effect="italics">https://doi.org/10.1371/journal.pgen.1003615</emphasis></para>
-  <para id="para-00014">Walsh, N. A., Repa, L. M., &amp; Garland, S. N. (2022). Mindful larks and lonely owls: The relationship between chronotype, mental health, sleep quality, and social support in young adults. <emphasis effect="italics">Journal of Sleep Research</emphasis>, <emphasis effect="italics">31</emphasis>(1).</para>
-  <para id="para-00015">Yeo, S. C., Yabuki, H., Charoenthammanon, R. S., &amp; Gooley, J. J. (2023). University students' diurnal learning-directed behavior is strongly influenced by school start times with implications for grades. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">46</emphasis>(7).</para>
-  </section>
-<section class="multiple-choice" id="sect-00005"><title>Multiple Choice</title> 
-<exercise id="exer-00001"> <problem id="prob-00001"> <para id="para-00016"></para> </problem> </exercise>
-</section>
-<section class="fillin-blank" id="sect-00006"><title>Fill in the Blank</title>
-<exercise id="exer-00002"> <problem id="prob-00002"> <para id="para-00017"></para> </problem> </exercise>
-</section>
+      <para id="para-00002">Endogenous biological rhythms are found in nearly every organism on the planet. Internal clocks can help an organism anticipate changes in their environment. There are many types of biological rhythms that can range from seconds to hours to years; circadian rhythms are those that take about 24 hours to complete a cycle. We can characterize the components of a rhythm by analyzing their period, phase, amplitude, mesor and frequency. Furthermore, we can determine how an internal clock responds to the environment by constructing a phase response curve. </para>
+    </section>
+    <section class="key-terms" id="sect-00003">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Chronobiology</item>
+        <item>circadian</item>
+        <item>ultradian</item>
+        <item>circatidal</item>
+        <item>infradian</item>
+        <item>circannual</item>
+        <item>circalunar</item>
+        <item>rhythm</item>
+        <item>period</item>
+        <item>phase</item>
+        <item>phase difference</item>
+        <item>amplitude</item>
+        <item>mesor</item>
+        <item>frequency</item>
+        <item>endogenous</item>
+        <item>exogenous</item>
+        <item>free running</item>
+        <item>entrainment</item>
+        <item>chronotype</item>
+        <item>sleep hygiene</item>
+        <item>subjective day</item>
+        <item>subjective night</item>
+        <item>phase response curve</item>
+        <item>dead zone</item>
+        <item>diurnal</item>
+        <item>nocturnal</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00004">
+      <title>References</title>
+      <para id="para-00003">Binkley, S., &amp; Mosher, K. (1987). Circadian rhythm resetting in sparrows: Early response to doublet light pulses. <emphasis effect="italics">Journal of Biological Rhythms</emphasis>, <emphasis effect="italics">2</emphasis>(1), 1–11.</para>
+      <para id="para-00004">Danner, F., &amp; Phillips, B. (2008). Adolescent sleep, school start times, and teen motor vehicle crashes. <emphasis effect="italics">Journal of Clinical Sleep Medicine: JCSM: Official Publication of the American Academy of Sleep Medicine</emphasis>, <emphasis effect="italics">4</emphasis>, 533–535.</para>
+      <para id="para-00005">DeCoursey, P. J. (1960). Daily light sensitivity rhythm in a rodent. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">131</emphasis>, 33–55.</para>
+      <para id="para-00006">Dunlap, J. C., Loros, J. J., &amp; DeCoursey, P. J. (2004). <emphasis effect="italics">Chronobiology: Biological Timekeeping</emphasis>. Sunderland, MA: Sinauer Associates.</para>
+      <para id="para-00007">Dunster, G. P., de la Iglesia, L., Ben-Hamo, M., Nave, C., Fleischer, J. G., Panda, S., &amp; de la Iglesia, H. O. (2018). Sleepmore in Seattle: Later school start times are associated with more sleep and better performance in high school students. <emphasis effect="italics">Sci Adv</emphasis>, <emphasis effect="italics">4</emphasis>:eaau6200.</para>
+      <para id="para-00008">Facer-Childs, E. R., Middleton, B., Skene, D. J., &amp; Bagshaw, A. P. (2019). Resetting the late timing of ‘night owls’ has a positive impact on mental health and performance. <emphasis effect="italics">Sleep Medicine</emphasis>, <emphasis effect="italics">60</emphasis>, 236–247.</para>
+      <para id="para-00009">Fischer, D., Lombardi, D. A., Marucci-Wellman, H., &amp; Roenneberg, T. (2017). Chronotypes in the US – Influence of age and sex. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">12</emphasis>:e0178782.</para>
+      <para id="para-00010">NSF (2014). 2014 Sleep in America (R) Poll: Sleep in the modern family (pp. 1-51). Arlington, VA: National Sleep Foundation.</para>
+      <para id="para-00011">Sawyer, H., &amp; Taie, W. S. (2020). Start time for U.S. public high schools. National Center for Educational Statistics, pub. 2020006.</para>
+      <para id="para-00012">van der Merwe, C., Munch, M., &amp; Kruger, R. (2022). Chronotype differences in body composition, dietary intake, and eating behavior outcomes: A scoping systematic review. <emphasis effect="italics">Adv Nutr</emphasis>, <emphasis effect="italics">13</emphasis>(6), 2357–2405.</para>
+      <para id="para-00013">Vinayak, P., Coupar, J., Hughes, S. E., Fozdar, P., Kilby, J., Garren, E., Yoshii, T., &amp; Hirsh, J. (2013). Exquisite light sensitivity of Drosophila melanogaster Cryptochrome. <emphasis effect="italics">PLoS Genetics</emphasis>, <emphasis effect="italics">9</emphasis>:e1003615. <emphasis effect="italics">https://doi.org/10.1371/journal.pgen.1003615</emphasis></para>
+      <para id="para-00014">Walsh, N. A., Repa, L. M., &amp; Garland, S. N. (2022). Mindful larks and lonely owls: The relationship between chronotype, mental health, sleep quality, and social support in young adults. <emphasis effect="italics">Journal of Sleep Research</emphasis>, <emphasis effect="italics">31</emphasis>(1).</para>
+      <para id="para-00015">Yeo, S. C., Yabuki, H., Charoenthammanon, R. S., &amp; Gooley, J. J. (2023). University students' diurnal learning-directed behavior is strongly influenced by school start times with implications for grades. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">46</emphasis>(7).</para>
+    </section>
+    <section class="multiple-choice" id="sect-00005">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00016"></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00006">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00017"></para>
+        </problem>
+      </exercise>
+    </section>
 
   </content>
 </document>

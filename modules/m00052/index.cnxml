@@ -9,19 +9,22 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Identify the major brain regions involved in the dopamine reward pathway.</item>
-          <item>Describe three different mechanisms for how a drug can enhance dopamine release within the reward pathway.</item>
-        </list>
+      <list id="list-00001">
+        <item>Identify the major brain regions involved in the dopamine reward pathway.</item>
+        <item>Describe three different mechanisms for how a drug can enhance dopamine release within the reward pathway.</item>
+      </list>
     </section>
     <para id="para-00002">There are certain basic physiological needs, such as food, water, and procreation, that are essential for the survival of the individual and the species. From an evolutionary perspective, it stands to reason that behaviors that promote survival would be perceived as enjoyable to encourage the continued expression of the behavior. The dopamine reward pathway is critical in mediating motivated behavior for rewarding stimuli.</para>
 
-    <section id="sect-00002"><title>Dopamine reward pathway</title>
+    <section id="sect-00002">
+      <title>Dopamine reward pathway</title>
       <para id="para-00003">The most well-characterized reward circuit in the brain originates in the <term id="term-00001">ventral tegmental area (VTA)</term>, which is located in the midbrain. Within the VTA are the cell bodies of dopaminergic neurons, which are cells that synthesize the neurotransmitter dopamine. VTA dopamine neurons have two major projections: the <term id="term-00002">mesolimbic pathway</term> and the <term id="term-00003">mesocortical pathway</term>. Together, these two pathways are collectively referred to as the <term id="term-00004">mesocorticolimbic dopamine pathway</term>. <link target-id="Image-14.03"/> shows these connections for a human brain on the left. The right image shows the parallel circuitry in a mouse brain, revealing how highly conserved these connections are between species.</para>
-      <figure id="Image-14.03"><title>Dopaminergic pathways</title>
+      <figure id="Image-14.03">
+        <title>Dopaminergic pathways</title>
         <media alt="Diagrams of sagittal views of human and rodent brain showing similar connections of VTA (in the brainstem) to NAc (in frontal lobe) and to PFC (in frontal lobe).">
           <image mime-type="image/png" src="../../media/Image-14.03_Dopaminergic-pathways.png"/>
-        </media><caption>Dopaminergic pathways from the VTA project to PFC and NAc in both humans and rodents. </caption>
+        </media>
+        <caption>Dopaminergic pathways from the VTA project to PFC and NAc in both humans and rodents. </caption>
       </figure>
 
       <para id="para-00004">The mesolimbic pathway is composed of dopaminergic neurons that innervate cells in the <term id="term-00005">nucleus accumbens (NAc)</term>, a region of the brain highly implicated in motivation and goal-directed behavior. The impact of rewarding stimuli on dopamine signaling in the NAc was first established using <term id="term-00006">microdialysis</term>, a sampling technique in which extracellular fluid is continuously collected from a probe inserted into brain tissue. The collected fluid, also known as dialysate, can then be analyzed to determine the concentration of specific neurotransmitters at different time intervals. Early microdialysis studies in rats demonstrated increased dopamine release in the NAc in response to several different types of psychoactive drugs (Di Chiara &amp; Imperato, 1988). Similarly, positron emission tomography (PET) studies in humans show that rapid increases in dopamine concentration in the NAc are associated with the reinforcing effects of psychoactive drugs (Volkow et al., 1999).</para>
@@ -30,215 +33,232 @@
 
       <para id="para-00006">Although the NAc and PFC are important targets of the brain reward pathway, there are several other brain regions and neurotransmitters that mediate the cognitive processes that encode pleasurable experiences and reinforce reward-seeking behaviors. The hippocampus and amygdala, for example, are also innervated by dopaminergic neurons that originate in the VTA and play an important role in forming memories and contextual cues associated with rewarding stimuli. To prevent the constant firing of dopaminergic neurons, GABAergic interneurons in the VTA maintain a basal tone by inhibiting dopamine release in the absence of a reward. Brain regions involved with mood regulation and stress reactivity, such as the hypothalamus and lateral habenula, can also modulate the dopamine pathway through both glutamatergic and GABAergic inputs.</para>
       <note class="inthe-lab" id="note-00001">
-      <title>Role of dopamine signaling in reward</title>
+        <title>Role of dopamine signaling in reward</title>
       <para id="para-00007">Dopamine activity within the mesocorticolimbic pathway is a vital component of reward processing. However, the hypothesized functional role of the neurotransmitter in the brain reward system has varied throughout history. The <term id="term-00008">hedonia hypothesis</term>, first coined by Roy Wise in 1980, proposed that dopamine release directly correlates with the hedonic value, or “liking” of a pleasurable stimulus (Wise, 1980). This hypothesis was later challenged by taste reactivity studies in rodents. Similar to humans, rodents exhibit distinct facial expressions in response to appetitive versus aversive tastes. Interestingly, animals who had reduced dopamine levels in the brain reward pathway showed similar appetitive responses to a sweet taste compared to animals who had an intact dopamine system but exhibited less motivation to seek out food rewards (Berridge, Venier, &amp; Robinson, 1989). These findings suggested that while dopamine activity is not necessary for hedonic “liking”, it is important for motivational drive.</para>
 
       <para id="para-00008">A separate series of electrophysiological experiments conducted in monkeys provided support for dopamine’s involvement in reward-based associative learning as opposed to “liking”. Monkeys who were presented with an unexpected appetitive stimulus exhibited increased firing of dopaminergic neurons in the VTA (Schultz, 1986). This effect was not seen when animals were presented with an aversive stimulus. After repeated pairings of an environmental cue with the appetitive stimulus, the VTA dopamine neurons began firing in response to the cue rather than the reward itself (Schultz et al., 1992). If animals were presented with the cue but did not receive the reward, VTA dopamine activity was significantly decreased compared to baseline (Schultz, Apicella, &amp; Ljungberg, 1993).</para>
 
       <para id="para-00009">Together, these observations gave rise to the <term id="term-00009">reward prediction error hypothesis</term>, which argues that dopamine activity encodes the error, or deviation, between predicted and experienced rewards. As illustrated in <link target-id="Image-14.26"/>, before learning, an unexpected reward elicits a strong dopamine response, which reflects a greater reward than anticipated. Once reward-based associations have been formed with the environmental cue, the cue serves as a predictor of an upcoming reward. Thus, dopamine neurons will fire in response to the cue but not the reward itself, seeing as if the reward is received there is no error between the prediction and outcome. In contrast, the presentation of a cue without the reward results in the suppression of dopamine activity, which indicates that the outcome was less than expected. These signals ultimately serve as an adaptive learning mechanism for seeking out and obtaining rewards.</para>
-      <figure id="Image-14.26"><title>Dopamine neurons report prediction error</title>
-        <media alt="Three-part diagram. Each part shows bars representing summed firing on top of a series of dots that represent individual DA neurons firing. 1) No reward prediction, most firing is right after a reward. 2) Predicted (cued) reward occurs, most firing is right after a cue. A later reward does not change firing. 3) Predicted (cued) reward does not occur, most firing is right after the cue. The gap where a reward would have occurred shows a decrease in firing below baseline rates.">
-          <image mime-type="image/png" src="../../media/Image-14.26_Dopamine-neurons-report-prediction-error.png"/>
-        </media>
-      </figure>
+      <figure id="Image-14.26">
+          <title>Dopamine neurons report prediction error</title>
+          <media alt="Three-part diagram. Each part shows bars representing summed firing on top of a series of dots that represent individual DA neurons firing. 1) No reward prediction, most firing is right after a reward. 2) Predicted (cued) reward occurs, most firing is right after a cue. A later reward does not change firing. 3) Predicted (cued) reward does not occur, most firing is right after the cue. The gap where a reward would have occurred shows a decrease in firing below baseline rates.">
+            <image mime-type="image/png" src="../../media/Image-14.26_Dopamine-neurons-report-prediction-error.png"/>
+          </media>
+        </figure>
 
       <para id="para-00010">While the reward prediction error hypothesis helped to establish a role for dopamine in learning, more recent theories also consider the role of dopamine in modulating motivational drive in response to changing physiological and emotional states. For example, an advertisement featuring food may induce a stronger urge to seek out food in a person who is hungry compared to a person who recently consumed a meal. The magnitude of desire or “wanting” for a rewarding stimulus is referred to as incentive salience. The <term id="term-00010">incentive salience theory</term> posits that increased dopamine activity in the mesocorticolimbic pathway enhances motivational “wanting” for previously learned reward-associated cues, thereby increasing the likelihood that the reward will be sought out in the future. Building off of this, the incentive-sensitization theory of addiction hypothesizes that chronic use of psychoactive drugs, such as cocaine and heroin, dysregulates the dopamine reward pathway and enhances the incentive salience of drug-related cues to the point where they are compulsively “wanted”, even in the absence of “liking” (Berridge, 2012).</para></note>
-      </section>
-      <section id="sect-00003">
+    </section>
+    <section id="sect-00003">
       <title>Commonly used psychoactive drugs</title>
       <para id="para-00011">In the United States, certain psychoactive drugs are regulated by the FDA and the Drug Enforcement Agency (DEA). These drugs are categorized into one of five schedules based on accepted medical use and potential for addiction (<link target-id="Image-14.19"/>). Schedule I drugs are characterized as having the highest risk for physical and psychological dependence and no accepted medical use, whereas Schedule V drugs have the lowest potential for dependence, although these assessments do not always coincide with current scientific knowledge.</para>
       <table id="Image-14.19" summary="Current scheduling system for psychoactive drugs in the United States.">
         <tgroup cols="3">
-        <thead>
-          <row>
-            <entry>Schedule</entry>
-            <entry>Description</entry>
-            <entry>Example</entry>
-          </row>
-        </thead>
-        <tbody>
-          <row>
-            <entry>Schedule 1</entry>
-            <entry>No currently accepted medical use in the US, lack of accepted safety, high potential for psychological and physical dependence</entry>
-            <entry>Heroin, LSD, marijuana, ecstasy</entry>
-          </row>
-          <row>
-            <entry>Schedule 2</entry>
-            <entry>High potential for psychological and physical dependence</entry>
-            <entry>Cocaine, oxycodone, fentanyl, methamphetamine</entry>
-          </row>
-          <row>
-            <entry>Schedule 3</entry>
-            <entry>Moderate to low potential for psychological and physical dependence</entry>
-            <entry>Buprenorphine, ketamine, anabolic steroids</entry>
-          </row>
-          <row>
-            <entry>Schedule 4</entry>
-            <entry>Low potential for psychological and physical dependence</entry>
-            <entry>Alprazolam (Xanax), zolpidem (Ambien), diazepam (Valium)</entry>
-          </row>
-          <row>
-            <entry>Schedule 5</entry>
-            <entry>Lower potential for psychological and physical dependence than Schedule 4</entry>
-            <entry>cough medicines with low doses of codeine (Robitussin AC)</entry>
-          </row>
-        </tbody>
+          <thead>
+            <row>
+              <entry>Schedule</entry>
+              <entry>Description</entry>
+              <entry>Example</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Schedule 1</entry>
+              <entry>No currently accepted medical use in the US, lack of accepted safety, high potential for psychological and physical dependence</entry>
+              <entry>Heroin, LSD, marijuana, ecstasy</entry>
+            </row>
+            <row>
+              <entry>Schedule 2</entry>
+              <entry>High potential for psychological and physical dependence</entry>
+              <entry>Cocaine, oxycodone, fentanyl, methamphetamine</entry>
+            </row>
+            <row>
+              <entry>Schedule 3</entry>
+              <entry>Moderate to low potential for psychological and physical dependence</entry>
+              <entry>Buprenorphine, ketamine, anabolic steroids</entry>
+            </row>
+            <row>
+              <entry>Schedule 4</entry>
+              <entry>Low potential for psychological and physical dependence</entry>
+              <entry>Alprazolam (Xanax), zolpidem (Ambien), diazepam (Valium)</entry>
+            </row>
+            <row>
+              <entry>Schedule 5</entry>
+              <entry>Lower potential for psychological and physical dependence than Schedule 4</entry>
+              <entry>cough medicines with low doses of codeine (Robitussin AC)</entry>
+            </row>
+          </tbody>
         </tgroup>
-        </table>
+      </table>
 
       <para id="para-00012">The most commonly used psychoactive drugs fall into four main categories, as shown in <link target-id="Image-14.17"/>.</para>
 
       <table id="Image-14.17" summary="The most commonly used psychoactive drugs.">
         <tgroup cols="3">
-        <thead>
-          <row>
-            <entry>Category</entry>
-            <entry>Effect</entry>
-            <entry>Examples</entry>
-          </row>
-        </thead>
-        <tbody>
-          <row>
-            <entry>Stimulant</entry>
-            <entry>Increases CNS activity</entry>
-            <entry>Amphetamine, cocaine, nicotine</entry>
-           </row>
-           <row>
-            <entry>Depressant</entry>
-            <entry>Decreases CNS activity</entry>
-            <entry>Alcohol, Benzodiazepines</entry>
-           </row>
-           <row>
-            <entry>Opioid</entry>
-            <entry>Pain relief, sedation, euphoria</entry>
-            <entry>Fentanyl, heroin, morphine</entry>
-           </row>
-           <row>
-            <entry>Hallucinogen</entry>
-            <entry>Altered sensory perception</entry>
-            <entry>Ketamine, LSD, psilocybin</entry>
-           </row>
+          <thead>
+            <row>
+              <entry>Category</entry>
+              <entry>Effect</entry>
+              <entry>Examples</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Stimulant</entry>
+              <entry>Increases CNS activity</entry>
+              <entry>Amphetamine, cocaine, nicotine</entry>
+            </row>
+            <row>
+              <entry>Depressant</entry>
+              <entry>Decreases CNS activity</entry>
+              <entry>Alcohol, Benzodiazepines</entry>
+            </row>
+            <row>
+              <entry>Opioid</entry>
+              <entry>Pain relief, sedation, euphoria</entry>
+              <entry>Fentanyl, heroin, morphine</entry>
+            </row>
+            <row>
+              <entry>Hallucinogen</entry>
+              <entry>Altered sensory perception</entry>
+              <entry>Ketamine, LSD, psilocybin</entry>
+            </row>
           </tbody>
-      </tgroup>
-    </table>
+        </tgroup>
+      </table>
 
 
       <para id="para-00013"><term id="term-00011">Stimulants</term> increase levels of physiological or central nervous system activity in the body, whereas <term id="term-00012">depressants</term> reduce CNS activity. <term id="term-00013">Hallucinogens</term> are drugs that can alter your perceptions or produce changes in cognition, emotion, and consciousness to a degree that is not typically experienced with other drug categories. The term <term id="term-00014">narcotics</term>, which comes from the Greek word for “stupor”, was originally used to describe any psychoactive compound with sleep-inducing properties. Nowadays, the term refers specifically to opium derivatives and synthetics. Virtually all psychoactive drugs either stimulate dopamine release or enhance dopamine receptor activity in the NAc, resulting in increased dopamine signaling within the reward pathway. <link target-id="Image-14.04"/> shows the actions of several common classes of psychoactive drugs on the mesolimbic dopaminergic system, many of which we will describe further in the sections that follow.</para>
 
-      <figure id="Image-14.04"><title>Drugs of abuse site of action summary</title>
+      <figure id="Image-14.04">
+        <title>Drugs of abuse site of action summary</title>
         <media alt="A diagram of a dopaminergic VTA neuron releasing DA on a nucleus accumbens neuron. The VTA neuron receives input from: glutamatergic inputs (e.g. amygdala), GABA interneuron. The GABA neuron receives input from opioid peptide releasing neuron. Stimulants promote DA release. Nicotine promotes glutamate release and VTA neuron activity directly. It also promotes opioid release. Alcohol promotes opioid release. Cannabinoid inhibits GABA release.">
           <image mime-type="image/png" src="../../media/Image-14.04_Drugs-of-abuse-site-of-action-summary.png"/>
         </media>
       </figure>
 
       <section id="sect-00004">
-      <title>Opioids</title>
+        <title>Opioids</title>
 
-      <para id="para-00014">The powerful analgesic and euphoric properties of opioids were recognized as early as 3400 BC. The term opiate refers to substances derived from the opium poppy plant, including morphine, codeine, and heroin (see <link document="m00006">Touch and Pain</link>). Semi-synthetic opioids, such as oxycodone and hydrocodone, are drugs that are created from natural opiates. Synthetic opioids, such as fentanyl, are manufactured entirely in a laboratory but have similar cellular and physiological effects to opiates. Opioids are most commonly administered orally via pills or injected intravenously.</para>
+        <para id="para-00014">The powerful analgesic and euphoric properties of opioids were recognized as early as 3400 BC. The term opiate refers to substances derived from the opium poppy plant, including morphine, codeine, and heroin (see <link document="m00006">Touch and Pain</link>). Semi-synthetic opioids, such as oxycodone and hydrocodone, are drugs that are created from natural opiates. Synthetic opioids, such as fentanyl, are manufactured entirely in a laboratory but have similar cellular and physiological effects to opiates. Opioids are most commonly administered orally via pills or injected intravenously.</para>
 
-      <para id="para-00015">Opioid receptors are inhibitory G-protein coupled receptors. Within the dopamine reward pathway, opioid receptors are primarily located on GABAergic interneurons that synapse onto dopaminergic VTA neurons. Activation of these opioid receptors hyperpolarizes the GABAergic interneurons, leading to reduced GABA release. In the absence of inhibitory input, VTA dopamine neurons become more active, resulting in increased dopamine release in the NAc. Another way to describe this mechanism is that opioids disinhibit dopamine neurons in the VTA via their inhibition of GABAergic interneurons.</para>
+        <para id="para-00015">Opioid receptors are inhibitory G-protein coupled receptors. Within the dopamine reward pathway, opioid receptors are primarily located on GABAergic interneurons that synapse onto dopaminergic VTA neurons. Activation of these opioid receptors hyperpolarizes the GABAergic interneurons, leading to reduced GABA release. In the absence of inhibitory input, VTA dopamine neurons become more active, resulting in increased dopamine release in the NAc. Another way to describe this mechanism is that opioids disinhibit dopamine neurons in the VTA via their inhibition of GABAergic interneurons.</para>
 
-      <para id="para-00016">Opioid receptors are also highly expressed on neurons in the brainstem that control breathing. High doses of opioids (or co-administration of opioids with other depressants) can hyperpolarize these cells, resulting in slowed or stopped breathing, also known as <term id="term-00015">respiratory depression</term>. If not treated, respiratory depression may lead to loss of consciousness, coma, or even death. <term id="term-00016">Naloxone</term> (Narcan) is an opioid receptor antagonist that rapidly blocks the effects of opioid drugs already in the body and can restore normal breathing in a person who is experiencing an overdose.</para>
+        <para id="para-00016">Opioid receptors are also highly expressed on neurons in the brainstem that control breathing. High doses of opioids (or co-administration of opioids with other depressants) can hyperpolarize these cells, resulting in slowed or stopped breathing, also known as <term id="term-00015">respiratory depression</term>. If not treated, respiratory depression may lead to loss of consciousness, coma, or even death. <term id="term-00016">Naloxone</term> (Narcan) is an opioid receptor antagonist that rapidly blocks the effects of opioid drugs already in the body and can restore normal breathing in a person who is experiencing an overdose.</para>
       </section>
-      <section id="sect-00005"><title>Alcohol</title>
-      <para id="para-00017">Alcohol, a depressant, is one of the oldest and most widely used psychoactive drugs in the world. It is produced as a byproduct of the fermentation of sugars by yeast. In 2021, 84% of Americans aged 18 or older reported drinking alcohol at some point in their lifetime (SAMHSA, 2021).</para>
+      <section id="sect-00005">
+        <title>Alcohol</title>
+        <para id="para-00017">Alcohol, a depressant, is one of the oldest and most widely used psychoactive drugs in the world. It is produced as a byproduct of the fermentation of sugars by yeast. In 2021, 84% of Americans aged 18 or older reported drinking alcohol at some point in their lifetime (SAMHSA, 2021).</para>
 
-      <para id="para-00018">Several different receptor types and neurotransmitters in the brain are affected by alcohol. The reinforcing properties of alcohol are thought to be mediated in part by its modulation of the endogenous opioid system. Alcohol administration increases the synthesis of opioid peptides (i.e. beta-endorphin) in the brain. Similar to exogenous opioid drugs, these peptides also bind to mu-opioid receptors on GABAergic interneurons in the VTA and disinhibit dopamine release in the NAc.</para>
+        <para id="para-00018">Several different receptor types and neurotransmitters in the brain are affected by alcohol. The reinforcing properties of alcohol are thought to be mediated in part by its modulation of the endogenous opioid system. Alcohol administration increases the synthesis of opioid peptides (i.e. beta-endorphin) in the brain. Similar to exogenous opioid drugs, these peptides also bind to mu-opioid receptors on GABAergic interneurons in the VTA and disinhibit dopamine release in the NAc.</para>
 
-      <para id="para-00019">As a positive allosteric modulator of the GABA<sub>A</sub> receptor, alcohol also enhances inhibitory signaling in the brain, leading to an overall reduction in arousal.Many of the sedative effects of alcohol, such as slurred speech, incoordination, and slowed reaction time, are mediated by its activity at the GABA<sub>A</sub> receptor. Alcohol also suppresses glutamate release and inhibits NMDA receptor signaling, which further reduces CNS activity and also contributes to memory loss and impaired cognitive functioning. As with all drugs, the acute behavioral and physiological effects of alcohol are heavily dependent on the amount that is absorbed into the bloodstream. Whereas lower concentrations of alcohol may only produce mild symptoms, rapid and excessive alcohol consumption, also known as <term id="term-00017">binge drinking</term>, increases the risk of adverse effects, such as loss of consciousness, coma, or death.</para>
+        <para id="para-00019">As a positive allosteric modulator of the GABA<sub>A</sub> receptor, alcohol also enhances inhibitory signaling in the brain, leading to an overall reduction in arousal.Many of the sedative effects of alcohol, such as slurred speech, incoordination, and slowed reaction time, are mediated by its activity at the GABA<sub>A</sub> receptor. Alcohol also suppresses glutamate release and inhibits NMDA receptor signaling, which further reduces CNS activity and also contributes to memory loss and impaired cognitive functioning. As with all drugs, the acute behavioral and physiological effects of alcohol are heavily dependent on the amount that is absorbed into the bloodstream. Whereas lower concentrations of alcohol may only produce mild symptoms, rapid and excessive alcohol consumption, also known as <term id="term-00017">binge drinking</term>, increases the risk of adverse effects, such as loss of consciousness, coma, or death.</para>
       </section>
-      <section id="sect-00006"><title>Nicotine</title>
-      <para id="para-00020">Nicotine, a stimulant substance naturally found in tobacco leaves, is the primary psychoactive chemical in tobacco products such as cigarettes and cigars. Although inhalation is a common route of administration for nicotine, it can also be chewed, snorted, or absorbed through the skin via a patch. In 2021, 22% of Americans aged 12 or older reported using tobacco products or nicotine vaping devices (such as electronic cigarettes) in the past month (SAMHSA, 2021).</para>
+      <section id="sect-00006">
+        <title>Nicotine</title>
+        <para id="para-00020">Nicotine, a stimulant substance naturally found in tobacco leaves, is the primary psychoactive chemical in tobacco products such as cigarettes and cigars. Although inhalation is a common route of administration for nicotine, it can also be chewed, snorted, or absorbed through the skin via a patch. In 2021, 22% of Americans aged 12 or older reported using tobacco products or nicotine vaping devices (such as electronic cigarettes) in the past month (SAMHSA, 2021).</para>
 
-      <para id="para-00021">Nicotine is an exogenous ligand for the <term id="term-00018">nicotinic acetylcholine receptor (nAChR)</term>, an excitatory ligand-gated ion channel expressed widely throughout the brain and peripheral nervous system, although nicotine has a higher affinity for nAChRs in the brain than those in the neuromuscular junction. The reinforcing effects of nicotine are mediated by the activation of nAChRs located within the mesolimbic dopamine pathway. Stimulation of nAChRs expressed on glutamatergic inputs to dopaminergic VTA neurons, and the VTA neurons themselves, elevates dopamine release in the NAc. Similar to alcohol, nicotine also increases the synthesis of endogenous opioid peptides. Nicotine’s stimulant effects, including increased heart rate and blood pressure, are due to the activation of nAChRs on the adrenal glands which stimulate the release of epinephrine and norepinephrine. These mechanisms have also been associated with enhanced attention and cognitive performance.</para>
+        <para id="para-00021">Nicotine is an exogenous ligand for the <term id="term-00018">nicotinic acetylcholine receptor (nAChR)</term>, an excitatory ligand-gated ion channel expressed widely throughout the brain and peripheral nervous system, although nicotine has a higher affinity for nAChRs in the brain than those in the neuromuscular junction. The reinforcing effects of nicotine are mediated by the activation of nAChRs located within the mesolimbic dopamine pathway. Stimulation of nAChRs expressed on glutamatergic inputs to dopaminergic VTA neurons, and the VTA neurons themselves, elevates dopamine release in the NAc. Similar to alcohol, nicotine also increases the synthesis of endogenous opioid peptides. Nicotine’s stimulant effects, including increased heart rate and blood pressure, are due to the activation of nAChRs on the adrenal glands which stimulate the release of epinephrine and norepinephrine. These mechanisms have also been associated with enhanced attention and cognitive performance.</para>
       </section>
-      <section id="sect-00007"><title>Cocaine</title>
-      <para id="para-00022">Cocaine is a stimulant chemical derived from the coca plant, which is indigenous to South America. It first became popularized in Western medicine in the 1800s as a cure-all and continues to be used today in medical contexts as a topical analgesic. Small concentrations of cocaine can be ingested by chewing the leaves of the coca plant. However, in modern recreational usage, it is more commonly snorted, smoked, or solubilized and injected intravenously.</para>
+      <section id="sect-00007">
+        <title>Cocaine</title>
+        <para id="para-00022">Cocaine is a stimulant chemical derived from the coca plant, which is indigenous to South America. It first became popularized in Western medicine in the 1800s as a cure-all and continues to be used today in medical contexts as a topical analgesic. Small concentrations of cocaine can be ingested by chewing the leaves of the coca plant. However, in modern recreational usage, it is more commonly snorted, smoked, or solubilized and injected intravenously.</para>
 
-      <para id="para-00023">Rather than binding to a receptor directly, cocaine exerts its molecular effects by inhibiting reuptake transporter proteins. These proteins are located in the cell membrane and are responsible for removing neurotransmitters from the synaptic cleft by drawing the molecules back into the presynaptic axon terminal. Thus, in the presence of cocaine, dopamine can stay in the synapse longer and continue binding to its receptor on the postsynaptic neuron (<link target-id="Image-14.23"/>). Similar to nicotine, cocaine also increases physiological arousal by enhancing epinephrine and norepinephrine release in the periphery.</para>
-      <figure id="Image-14.23"><title>Cocaine effects at the synapse</title>
-        <media alt="Two diagrams of norepinephrine/dopamine/serotonin synapses, one with normal function and another with drug present (cocaine). Normal: Released monoamine neurotransmitter binds to postsynaptic receptors and is cleared by reuptake into the presynaptic terminal. With drug: Blocked reuptake increases neurotransmitter in the synapse and postsynaptic signaling.">
-          <image mime-type="image/png" src="../../media/Image-14.23_Cocaine-effects-at-the-synapse.png"/>
-        </media>
-      </figure>
+        <para id="para-00023">Rather than binding to a receptor directly, cocaine exerts its molecular effects by inhibiting reuptake transporter proteins. These proteins are located in the cell membrane and are responsible for removing neurotransmitters from the synaptic cleft by drawing the molecules back into the presynaptic axon terminal. Thus, in the presence of cocaine, dopamine can stay in the synapse longer and continue binding to its receptor on the postsynaptic neuron (<link target-id="Image-14.23"/>). Similar to nicotine, cocaine also increases physiological arousal by enhancing epinephrine and norepinephrine release in the periphery.</para>
+        <figure id="Image-14.23">
+          <title>Cocaine effects at the synapse</title>
+          <media alt="Two diagrams of norepinephrine/dopamine/serotonin synapses, one with normal function and another with drug present (cocaine). Normal: Released monoamine neurotransmitter binds to postsynaptic receptors and is cleared by reuptake into the presynaptic terminal. With drug: Blocked reuptake increases neurotransmitter in the synapse and postsynaptic signaling.">
+            <image mime-type="image/png" src="../../media/Image-14.23_Cocaine-effects-at-the-synapse.png"/>
+          </media>
+        </figure>
       </section>
       <section id="sect-00008">
-      <title>Tetrahydrocannabinol (THC)</title>
-      <para id="para-00024">The primary psychoactive substance in cannabis (also known as marijuana) is the cannabinoid tetrahydrocannabinol (THC). Cannabis, which is derived from the cannabis plant, is commonly administered via inhalation, although edible formulations have become popular. THC is the exogenous ligand for the <term id="term-00019">cannabinoid (CB) receptor</term>, a G-protein coupled receptor located throughout the body. There are two subtypes of CB receptors. The CB<sub>1</sub> receptor is expressed primarily in the brain, whereas CB2 receptors are found mainly within the immune system.</para>
+        <title>Tetrahydrocannabinol (THC)</title>
+        <para id="para-00024">The primary psychoactive substance in cannabis (also known as marijuana) is the cannabinoid tetrahydrocannabinol (THC). Cannabis, which is derived from the cannabis plant, is commonly administered via inhalation, although edible formulations have become popular. THC is the exogenous ligand for the <term id="term-00019">cannabinoid (CB) receptor</term>, a G-protein coupled receptor located throughout the body. There are two subtypes of CB receptors. The CB<sub>1</sub> receptor is expressed primarily in the brain, whereas CB2 receptors are found mainly within the immune system.</para>
 
-      <para id="para-00025">The reinforcing effects of THC are mediated by its activity at presynaptic CB<sub>1</sub> receptors located on GABAergic interneurons that innervate dopamine cells. CB<sub>1</sub> receptors are primarily inhibitory G-protein coupled receptors. Therefore, the binding of THC to the receptor hyperpolarizes the GABAergic interneuron and disinhibits dopamine release in the NAc. At low doses, THC can enhance mood and increase relaxation. Higher doses of THC may distort sensory perceptions and induce paranoia, though these effects appear to be rare and may be dependent on the strain, or genotype, of the plant. Cannabidiol (CBD) is another type of cannabinoid found in cannabis that also binds to CB<sub>1</sub> receptors. However, in contrast to THC, CBD does not have any intoxicating effects. This may be because CBD is a negative allosteric modulator of the CB<sub>1</sub> receptor and thus suppresses receptor activation.</para>
+        <para id="para-00025">The reinforcing effects of THC are mediated by its activity at presynaptic CB<sub>1</sub> receptors located on GABAergic interneurons that innervate dopamine cells. CB<sub>1</sub> receptors are primarily inhibitory G-protein coupled receptors. Therefore, the binding of THC to the receptor hyperpolarizes the GABAergic interneuron and disinhibits dopamine release in the NAc. At low doses, THC can enhance mood and increase relaxation. Higher doses of THC may distort sensory perceptions and induce paranoia, though these effects appear to be rare and may be dependent on the strain, or genotype, of the plant. Cannabidiol (CBD) is another type of cannabinoid found in cannabis that also binds to CB<sub>1</sub> receptors. However, in contrast to THC, CBD does not have any intoxicating effects. This may be because CBD is a negative allosteric modulator of the CB<sub>1</sub> receptor and thus suppresses receptor activation.</para>
 
-      <para id="para-00026">At the federal level, cannabis and its derivatives are currently classified as a Schedule 1 drug, although there is strong evidence that cannabinoids are effective in treating certain medical conditions (Whiting et al., 2015). As of 2023, 38 states have legalized the use of cannabis for medical purposes and 23 states and Washington D.C. have legalized cannabis for recreational use by people 21 or older.</para>
-      </section></section>
+        <para id="para-00026">At the federal level, cannabis and its derivatives are currently classified as a Schedule 1 drug, although there is strong evidence that cannabinoids are effective in treating certain medical conditions (Whiting et al., 2015). As of 2023, 38 states have legalized the use of cannabis for medical purposes and 23 states and Washington D.C. have legalized cannabis for recreational use by people 21 or older.</para>
+      </section>
+    </section>
 
 
-    <section class="section-summary" id="sect-00009"><title>Summary</title>
-      <para id="para-00027">The mesocorticolimbic dopamine reward pathway plays a crucial role in the reward-related cognitive processes that reinforce pleasurable stimuli and experiences. Consequently, the anticipation of these positive emotions contributes to motivation to seek out the rewarding stimulus. The majority of commonly used psychoactive drugs activate the mesocorticolimbic dopamine system in some manner. Enhanced dopamine release in the nucleus accumbens is believed to underlie the reinforcing effects of these drugs.
-</para> </section>
-      <section class="key-terms" id="sect-00010"><title>Key Terms</title> <list display="inline" id="list-00002">
-      <item>ventral tegmental area</item>
-      <item>mesolimbic pathway</item>
-      <item>mesocortical pathway</item>
-      <item>mesocorticolimbic dopamine pathway</item>
-      <item>nucleus accumbens</item>
-      <item>microdialysis</item>
-      <item>prefrontal cortex</item>
-      <item>hedonia hypothesis</item>
-      <item>reward prediction error hypothesis</item>
-      <item>incentive salience theory</item>
-      <item>stimulants</item>
-      <item>depressants</item>
-      <item>hallucinogens</item>
-      <item>narcotics</item>
-      <item>opiate</item>
-      <item>respiratory depression</item>
-      <item>naloxone</item>
-      <item>binge drinking</item>
-      <item>nicotinic acetylcholine receptor</item>
-      <item>cannabinoid receptor</item>
-      </list> </section>
-      <section class="references" id="sect-00011"><title>References</title>
-        <para id="para-00028">Berridge, K. C., Venier, I. L., &amp;amp; Robinson, T. E. (1989). Taste reactivity analysis of 6-hydroxydopamine-induced aphagia: implications for arousal and anhedonia hypotheses of dopamine function. <emphasis effect="italics">Behavioral Neuroscience</emphasis>, <emphasis effect="italics">103</emphasis>(1), 36.</para>
-        <para id="para-00029">Berridge, K. C. (2012). From prediction error to incentive salience: mesolimbic computation of reward motivation. <emphasis effect="italics">European Journal of Neuroscience</emphasis>, <emphasis effect="italics">35</emphasis>(7), 1124-1143.</para>
-        <para id="para-00030">Di Chiara, G., &amp;amp; Imperato, A. (1988). Drugs abused by humans preferentially increase synaptic dopamine concentrations in the mesolimbic system of freely moving rats. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">85</emphasis>(14), 5274-5278.</para>
-        <para id="para-00031">Kalivas, P. W., &amp;amp; O'Brien, C. (2008). Drug addiction as a pathology of staged neuroplasticity. <emphasis effect="italics">Neuropsychopharmacology</emphasis>, <emphasis effect="italics">33</emphasis>(1), 166-180.</para>
-        <para id="para-00032">Substance Abuse and Mental Health Services Administration (SAMHSA), Center for Behavioral Health Statistics and Quality. (2023). National Survey on Drug Use and Health 2021. Retrieved from https://datafiles.samhsa.gov/</para>
-        <para id="para-00033">Schultz, W. (1986). Responses of midbrain dopamine neurons to behavioral trigger stimuli in the monkey. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">56</emphasis>(5), 1439-1461.</para>
-        <para id="para-00034">Schultz, W., Apicella, P., Scarnati, E., &amp;amp; Ljungberg, T. (1992). Neuronal activity in monkey ventral striatum related to the expectation of reward. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">12</emphasis>(12), 4595-4610.</para>
-        <para id="para-00035">Schultz, W., Apicella, P., &amp;amp; Ljungberg, T. (1993). Responses of monkey dopamine neurons to reward and conditioned stimuli during successive steps of learning a delayed response task. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">13</emphasis>(3), 900-913.</para>
-        <para id="para-00036">Volkow, N. D., Wang, G. J., Fowler, J. S., Logan, J., Gatley, S. J., Wong, C., ... &amp;amp; Pappas, N. R. (1999). Reinforcing effects of psychostimulants in humans are associated with increases in brain dopamine and occupancy of D2 receptors. <emphasis effect="italics">Journal of Pharmacology and Experimental Therapeutics</emphasis>, <emphasis effect="italics">291</emphasis>(1), 409-415.</para>
-        <para id="para-00037">Whiting, P. F., Wolff, R. F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A. V., ... &amp;amp; Kleijnen, J. (2015). Cannabinoids for medical use: a systematic review and meta-analysis. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">313</emphasis>(24), 2456-2473.</para>
-        <para id="para-00038">Wise, R. A. (1980). The dopamine synapse and the notion of ‘pleasure centers’ in the brain. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">3</emphasis>(4), 91-95.</para>
+    <section class="section-summary" id="sect-00009">
+      <title>Summary</title>
+      <para id="para-00027">The mesocorticolimbic dopamine reward pathway plays a crucial role in the reward-related cognitive processes that reinforce pleasurable stimuli and experiences. Consequently, the anticipation of these positive emotions contributes to motivation to seek out the rewarding stimulus. The majority of commonly used psychoactive drugs activate the mesocorticolimbic dopamine system in some manner. Enhanced dopamine release in the nucleus accumbens is believed to underlie the reinforcing effects of these drugs. </para>
+    </section>
+    <section class="key-terms" id="sect-00010">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>ventral tegmental area</item>
+        <item>mesolimbic pathway</item>
+        <item>mesocortical pathway</item>
+        <item>mesocorticolimbic dopamine pathway</item>
+        <item>nucleus accumbens</item>
+        <item>microdialysis</item>
+        <item>prefrontal cortex</item>
+        <item>hedonia hypothesis</item>
+        <item>reward prediction error hypothesis</item>
+        <item>incentive salience theory</item>
+        <item>stimulants</item>
+        <item>depressants</item>
+        <item>hallucinogens</item>
+        <item>narcotics</item>
+        <item>opiate</item>
+        <item>respiratory depression</item>
+        <item>naloxone</item>
+        <item>binge drinking</item>
+        <item>nicotinic acetylcholine receptor</item>
+        <item>cannabinoid receptor</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00011">
+      <title>References</title>
+      <para id="para-00028">Berridge, K. C., Venier, I. L., &amp; Robinson, T. E. (1989). Taste reactivity analysis of 6-hydroxydopamine-induced aphagia: implications for arousal and anhedonia hypotheses of dopamine function. <emphasis effect="italics">Behavioral Neuroscience</emphasis>, <emphasis effect="italics">103</emphasis>(1), 36–45. https://doi.org/10.1037//0735-7044.103.1.36</para>
+      <para id="para-00029">Berridge, K. C. (2012). From prediction error to incentive salience: mesolimbic computation of reward motivation. <emphasis effect="italics">The European Journal of Neuroscience</emphasis>, <emphasis effect="italics">35</emphasis>(7), 1124–1143. https://doi.org/10.1111/j.1460-9568.2012.07990.x</para>
+      <para id="para-00030">Di Chiara, G., &amp; Imperato, A. (1988). Drugs abused by humans preferentially increase synaptic dopamine concentrations in the mesolimbic system of freely moving rats. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">85</emphasis>(14), 5274–5278. https://doi.org/10.1073/pnas.85.14.5274</para>
+      <para id="para-00031">Kalivas, P. W., &amp; O'Brien, C. (2008). Drug addiction as a pathology of staged neuroplasticity. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">33</emphasis>(1), 166–180. https://doi.org/10.1038/sj.npp.1301564</para>
+      <para id="para-00032">Substance Abuse and Mental Health Services Administration (SAMHSA), Center for Behavioral Health Statistics and Quality. (2023). National Survey on Drug Use and Health 2021. Retrieved from https://datafiles.samhsa.gov/</para>
+      <para id="para-00033">Schultz, W. (1986). Responses of midbrain dopamine neurons to behavioral trigger stimuli in the monkey. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">56</emphasis>(5), 1439–1461. https://doi.org/10.1152/jn.1986.56.5.1439</para>
+      <para id="para-00034">Schultz, W., Apicella, P., Scarnati, E., &amp; Ljungberg, T. (1992). Neuronal activity in monkey ventral striatum related to the expectation of reward. <emphasis effect="italics">The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">12</emphasis>(12), 4595–4610. https://doi.org/10.1523/JNEUROSCI.12-12-04595.1992</para>
+      <para id="para-00035">Schultz, W., Apicella, P., &amp; Ljungberg, T. (1993). Responses of monkey dopamine neurons to reward and conditioned stimuli during successive steps of learning a delayed response task. <emphasis effect="italics">The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">13</emphasis>(3), 900–913. https://doi.org/10.1523/JNEUROSCI.13-03-00900.1993</para>
+      <para id="para-00036">Volkow, N. D., Wang, G. J., Fowler, J. S., Logan, J., Gatley, S. J., Wong, C., Hitzemann, R., &amp; Pappas, N. R. (1999). Reinforcing effects of psychostimulants in humans are associated with increases in brain dopamine and occupancy of D(2) receptors. <emphasis effect="italics">The Journal of Pharmacology and Experimental Therapeutics</emphasis>, <emphasis effect="italics">291</emphasis>(1), 409–415.</para>
+      <para id="para-00037">Whiting, P. F., Wolff, R. F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A. V., Keurentjes, J. C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M., &amp; Kleijnen, J. (2015). Cannabinoids for medical use: A systematic review and meta-analysis. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">313</emphasis>(24), 2456–2473. https://doi.org/10.1001/jama.2015.6358</para>
+      <para id="para-00038">Wise, R. A. (1980). The dopamine synapse and the notion of ‘pleasure centers’ in the brain. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">3</emphasis>(4), 91–95.</para>
 
-       </section>
 
-      <section class="multiple-choice" id="sect-00012"><title>Multiple Choice</title>
-        <exercise id="exer-00001">
-          <problem id="prob-00001">
-            <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-14-03-001"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00002">
-          <problem id="prob-00002">
-            <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-14-03-002"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00003">
-          <problem id="prob-00003">
-            <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-14-03-003"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00004">
-          <problem id="prob-00004">
-            <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-14-03-004"/></para>
-          </problem>
-        </exercise> </section>
-      <section class="fillin-blank" id="sect-00013"><title>Fill in the Blank</title>
-        <exercise id="exer-00005">
-          <problem id="prob-00005">
-            <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-14-03-005"/></para>
-          </problem>
-        </exercise> </section>
+    </section>
 
-    </content>
+    <section class="multiple-choice" id="sect-00012">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-14-03-001"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-14-03-002"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00041"><link class="os-embed" url="#exercise/Neuro-14-03-003"/></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00042"><link class="os-embed" url="#exercise/Neuro-14-03-004"/></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00013">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-14-03-005"/></para>
+        </problem>
+      </exercise>
+    </section>
+
+  </content>
 </document>

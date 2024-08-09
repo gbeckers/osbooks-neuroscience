@@ -9,99 +9,120 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Explain how brain organoids are grown in the laboratory.</item>
-          <item>Explain how to measure RNA expression from sequencing.</item>
-          <item>Explain a major finding from studying brain organoids.</item>
-        </list>
+      <list id="list-00001">
+        <item>Explain how brain organoids are grown in the laboratory.</item>
+        <item>Explain how to measure RNA expression from sequencing.</item>
+        <item>Explain a major finding from studying brain organoids.</item>
+      </list>
     </section>
     <para id="para-00002">Certain ethics limit the use of experimentation on humans, and some alternate species are not readily available for study. For example, many great apes are endangered, and it is difficult to study how their brains compare with humans or other mammals. <term id="term-00002">Brain organoids</term> are emerging as interesting tools to study brains in groups that are otherwise difficult to study. Organoids are three-dimensional spheres grown in vitro from stem cells. Cells from any organism can be selected and grown to become different cell types, forming a variety of types of organoids including brain organoids. In this section, we discuss how brain organoids are generated in the laboratory, and we discuss recent findings that have emerged from their use in the laboratory.</para>
     <section id="sect-00002">
-    <title>How to grow stem cells into brain organoids</title>
-    <para id="para-00003">Organoids are generated from embryonic stem cells or <term id="term-00001">induced pluripotent stem cells</term>, which are a kind of stem cell made from a mature cell (like a skin cell) in the laboratory. As diagrammed in <link target-id="Image-4.12"/>, the stem cells are grown in a dish in the lab (step 1) and allowed to form small embryoid bodies (or collections of cells that stick to each other in a small ball) (step 2). Those balls of cells are then moved into a droplet of Matrigel, a substance filled with proteins that will support the further growth of the sphere and encourage the differentiation of cells into cell-specific fates such as the neuroectoderm lineage, which are developmental precursors of our nervous system (step 3 in <link target-id="Image-4.12"/>) (see <link document="m00086">Neurodevelopment</link>). Those bits of neuroectoderm are then spun at high speed (step 4 in <link target-id="Image-4.12"/>). The spinning forces make them stick to each other as cells grow. Remarkably, these cells self-assemble into a collection of progenitor cells (cells that can divide but are not as uncommitted as stem cells) that can give rise to neurons and glial cells that in many ways resemble pieces of a real brain.</para>
-    <figure id="Image-4.12"><title>Organoids</title>
-      <media alt="op half of image is a step-by-step diagram of how to make organoids. The steps shown are described in the main text. The bottom half is an illustration of a cerebral organoid as a sphere, from which a middle slice is extracted. The middle slice is shown as a thick donut shape, with neural progenitor cells around the inner hollow part and neurons moving towards the outer edges, as discussed in the main text.">
-        <image mime-type="image/png" src="../../media/Image-4.12_Organoids.png"/>
-      </media>
-    <caption>Image credit: 3D organoid image from: Gabriel at el., 2020. "Human brain organoids to decode mechanisms of microcephaly." Front. Cell. Neurosci., https://doi.org/10.3389/fncel.2020.00115. CC BY 4.0 International</caption>
-    </figure>
-    
-    <para id="para-00004">Brain organoids express patterns of gene expression reminiscent of the developing nervous system, and form functional networks, thus resembling miniature versions of brains. They also show cellular organization similar to developing brains. For example, the bottom of <link target-id="Image-4.12"/> shows how the inside of a brain organoid has a ring of progenitor cells that give rise to neurons that migrate outwards. This arrangement strongly resembles the migration of developing neurons in the cortex that we discussed in <link document="m00036">How can model species help us make inferences about human neurobiology?</link>.</para>
-    
-    <para id="para-00005">Because of their similarity to real brain networks, brain organoids are providing exciting tools that can be geared for personalized medicine. For example, characterizing and testing therapies on organoids provides a new opportunity to define and evaluate the effectiveness of treatments to help individuals suffering from disorders (Schörnig et al., 2021). Mature cells from a given individual can be induced into pluripotency (i.e., a proliferative state), and grown into a brain organoid. In theory, this kind of model could allow screening of therapies for individual patients using tiny brains generated from their own cells.</para>
-    
-    <para id="para-00006">Below, we will provide a few examples to show how brain organoids have provided new insights into the evolution of the brain. Many of these studies rely on gene expression to investigate species differences in organoids. We will therefore briefly describe how RNA is measured from sequencing methods in the brain before discussing how they are used to identify species differences from brain organoids.</para>
-    <section id="sect-00009">
-    <title>Measuring RNA from sequencing technologies</title>
-    <para id="para-00008">The emergence of sequencing techniques has created many new and exciting opportunities to study transcriptional variation across species. Though there are multiple techniques to study gene expression, here we will focus on <term id="term-00003">RNA sequencing</term>, which is a method that probes gene expression very broadly in cells. RNA sequencing is a technique to measure the abundance of RNA transcripts. While many techniques for measuring RNA require that you pick which RNAs to measure ahead of time, RNA sequencing measures RNAs from many thousands of genes.</para>
-    
-    <para id="para-00009">The basic process of RNA sequencing is shown in <link target-id="Image-4.14"/>.</para>
-    <figure id="Image-4.14"><title>Sequencing technologies</title>
-      <media alt="A diagram of the steps in RNA sequencing. 1) Isolate RNA from samples. 2) Fragment RNA into short segments. 3) Convert RNA fragments into cDNA. 4) Ligate sequencing adapters and amplify. 5) Perform NGS sequencing. 6) Mao sequencing reads to the transcriptome/genome.">
-        <image mime-type="image/png" src="../../media/Image-4.14_Sequencing-technologies_RNAseq.png"/>
-      </media>
-    </figure>    
-    <para id="para-00010">Tissue is extracted and then RNA is isolated via a series of steps that capture and purify it (step 1 and 2 in <link target-id="Image-4.14"/>). Unlike DNA, which is double-stranded and stable, RNA is single stranded so that it easily degrades. Researchers turn their RNA into double stranded DNA to keep it stable (step 3 in <link target-id="Image-4.14"/>). The process of turning RNA back into DNA is called reverse transcription and we call the resulting DNA “cDNA” because it is copied (or complimentary) from the RNA it was made from. These cDNA fragments are sequenced (step 4 and 5 in <link target-id="Image-4.14"/>). This means that each nucleotide (adenine, uracil, guanine, cytosine) is read by a sequencing machine. Relatively short strings of nucleotides read at a time. The transcript reads are then aligned to the genome, which involves matching up sequences of nucleotides from the transcripts to the genome template (step 6 in <link target-id="Image-4.14"/>). This effectively aligns the transcripts to the corresponding gene. In a typical experiment, the process of generating read alignment will cause some genes to have many aligned transcripts. Whereas other genes will have very few or no aligned transcripts. The number of reads aligned to each gene is used as an index of gene expression (Finotello and Di Camillo, 2015; Van den Berge et al., 2019). Using these techniques, we can compare gene expression between a diseased state and a healthy control, but we can also use these data to compare transcription across development and across the brains of different species. We can relate variation in gene expression with behavior in healthy and in diseased states.</para>
-    
-    <para id="para-00011">Originally, researchers sequenced RNA from whole organs, or a piece of tissue, but this approach has limitations. Using whole pieces of tissue is a limitation because tissue is composed of a heterogeneous population of cells (e.g., neuron types, glial cells), and there is no way to tell which cells or cell populations express genes of interest. More recently, researchers developed novel methods to capture RNA sequencing from individual cells. We can now identify the transcriptional profiles from individual cells within a tissue rather than the whole piece of tissue as is the case with RNA sequencing from bulk samples. Various methods exist to measure gene expression from individual cells. <link target-id="Image-4.15"/> shows one common way to approach single cell RNA sequencing.</para>
-    <figure id="Image-4.15"><title>Single cell RNA sequencing of primate brain</title>
-      <media alt="Top is a diagram of the steps in a single cell RNAseq experiment. Steps are described in the main text. Bottom has 2 examples of single cell RNAseq, one from human and one from marmoset. Individual dots represent individual cells isolated from post-mortem motor cortex of humans or marmoset monkeys. Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome). There are more than a dozen clusters, each with a unique color, in a cloud-like array.">
-        <image mime-type="image/png" src="../../media/Image-4.15_Single-cell-RNAseq-of-primate-brain.png"/>
-      </media>
-    <caption>Image credit: Example single cell data from Bakken et al., Evolution of cellular diversity in primary motor cortex of human, marmoset monkey and mouse. biorXiv. https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2CC-BY-NC-ND 4.0</caption>
-    </figure>    
-    <para id="para-00012">In this workflow, tissue is dissected (step 1 in <link target-id="Image-4.15"/>) and broken apart into a suspension where cells float separate from one another (step 2 in <link target-id="Image-4.15"/>). Sometimes, specific subpopulations of cells are selected using fluorescence activated cell sorting (FACS) (step 3 in <link target-id="Image-4.15"/>). FACS uses a machine to sort cells into separate tubes based on their fluorescence. We can make specific cells fluoresce using antibody labeling (see <link document="m00106" target-id="">Methods: Immunohistochemistry</link>) or by using transgenic model organisms that express fluorescent reporters in specific cell classes (see <link document="m00106" target-id="">Methods: Transgenic organisms</link>). Once the cells of interest are collected, RNA sequencing is performed from individual cells, keeping transcripts from each cell separate (step 4 in <link target-id="Image-4.15"/>). This approach permits capturing transcriptional information from the individual cells that comprise a particular tissue. Researchers can now consider all of the transcriptional profiles from different cell populations (step 5 in <link target-id="Image-4.15"/>).</para>
-    
-    <para id="para-00013">The data from single cell RNA sequencing can be visualized in several ways but one common way is in the kind of plots shown in the bottom of <link target-id="Image-4.15"/> (also step 6 in <link target-id="Image-4.15"/>). On these plots, individual cells are represented as dots. Cells (dots) that are close to others are considered similar to each other. If cells are similar enough, they are considered a cluster. Clusters are shown as the color coding of the dots in <link target-id="Image-4.15"/>. These clusters are thought to represent different cell populations. For instance, glial cell subpopulations cluster together as do different neuronal populations. These methods have been used to investigate species differences in cell composition of different brain regions. Much of this work has been unfolding in the very recent years and we are in the early stages of using these techniques to learn about species differences in cellular composition. There are several interesting findings to emerge from this work already. For example, researchers have identified conservation but also modifications in cortical cell types across species (Bakken et al., 2021; Campagnola et al., 2022; Kim et al., 2023), and they have even identified novel cell types in the primate lineage (Krienen et al., 2020). Much work is ongoing to uncover species variations from single cell RNA sequencing. We now return to brain organoids and how these sequencing technologies have been used to assess species differences in brain organoids.</para>
-    </section></section>
-    <section id="sect-00003">
-    <title>Species differences revealed from brain organoids</title>
-    <para id="para-00014">Comparative analyses of brain organoids at different stages of maturity have revealed interesting insights about the evolution of brains. In these studies, researchers selected mature cells from humans and great apes, induced them into pluripotency, and grew them in the laboratory as brain organoids. They then sampled these brain organoids at different ages in different species and measured variables like gene expression and anatomy. For example, one study compared transcriptional profiles using RNA sequencing across the brain organoids of humans and chimpanzees (Pollen et al., 2019). They found that the maturation of brain organoids was similar in the early phases of organoid development, but later diverged between human and non-human primates. Another study relied on single cell RNA sequencing data in humans, chimpanzees, and macaques and found that the maturation of brain organoids in humans was slower than in other non-human primates (Kanton et al., 2019). Studies such as these have converged on the finding that the maturation of brain organoids is protracted in humans relative to other primates (Schörnig et al.. 2021). Yet, an unresolved question is how observations made from brain organoids translate to the full organism, and whether media used to grow these primate brain organoids are appropriate for other species.</para></section>
-    <section class="section-summary" id="sect-00004"><title>Summary</title>
-      <para id="para-00015">The use of brain organoids coupled with RNA sequencing technology have provided new insights into the evolution of the human brain. Comparative analyses have converged on the finding that brain maturation in humans is extended relative to great apes. Questions remain as to how information gained from brain organoids relates to the individual. Nevertheless, these methods are exciting and open new avenues of research. Indeed, there is much left to learn about the evolution of the nervous systems. The field of comparative neuroscience is well positioned to make important contributions to many areas of biomedical sciences.</para></section>
-      <section class="key-terms" id="sect-00005"><title>Key Terms</title> <list display="inline" id="list-00002">
-      <item>Brain organoids</item>
-      <item>induced pluripotent stem cells</item>
-      <item>RNA sequencing</item>
-      </list> </section>
-      <section class="references" id="sect-00006"><title>References</title> 
-        <para id="para-00016">Bakken, T. E., Jorstad, N. L., Hu, Q., et al. (2021). Comparative cellular analysis of motor cortex in human, marmoset and mouse. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">598</emphasis>, 111–119. https://doi.org/10.1038/s41586-021-03465-8</para>
+      <title>How to grow stem cells into brain organoids</title>
+      <para id="para-00003">Organoids are generated from embryonic stem cells or <term id="term-00001">induced pluripotent stem cells</term>, which are a kind of stem cell made from a mature cell (like a skin cell) in the laboratory. As diagrammed in <link target-id="Image-4.12" />, the stem cells are grown in a dish in the lab (step 1) and allowed to form small embryoid bodies (or collections of cells that stick to each other in a small ball) (step 2). Those balls of cells are then moved into a droplet of Matrigel, a substance filled with proteins that will support the further growth of the sphere and encourage the differentiation of cells into cell-specific fates such as the neuroectoderm lineage, which are developmental precursors of our nervous system (step 3 in <link target-id="Image-4.12" />) (see <link document="m00086">Neurodevelopment</link>). Those bits of neuroectoderm are then spun at high speed (step 4 in <link target-id="Image-4.12" />). The spinning forces make them stick to each other as cells grow. Remarkably, these cells self-assemble into a collection of progenitor cells (cells that can divide but are not as uncommitted as stem cells) that can give rise to neurons and glial cells that in many ways resemble pieces of a real brain.</para>
+      <figure id="Image-4.12">
+        <title>Organoids</title>
+        <media alt="op half of image is a step-by-step diagram of how to make organoids. The steps shown are described in the main text. The bottom half is an illustration of a cerebral organoid as a sphere, from which a middle slice is extracted. The middle slice is shown as a thick donut shape, with neural progenitor cells around the inner hollow part and neurons moving towards the outer edges, as discussed in the main text.">
+          <image mime-type="image/png" src="../../media/Image-4.12_Organoids.png" />
+        </media>
+        <caption>Image credit: 3D organoid image from: Gabriel at el., 2020. "Human brain organoids to decode mechanisms of microcephaly." Front. Cell. Neurosci., https://doi.org/10.3389/fncel.2020.00115. CC BY 4.0 International</caption>
+      </figure>
 
-        <para id="para-00017">Finotello, F., &amp; Di Camillo, B. (2015). Measuring differential gene expression with RNA-seq: Challenges and strategies for data analysis. <emphasis effect="italics">Briefings in Functional Genomics</emphasis>, <emphasis effect="italics">14</emphasis>(2), 130–142. https://doi.org/10.1093/bfgp/elu035</para>
-        
-        <para id="para-00019">Kanton, S., Boyle, M. J., He, Z., et al. (2019). Organoid single-cell genomic atlas uncovers human-specific features of brain development. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">574</emphasis>, 418–422. https://doi.org/10.1038/s41586-019-1654-9</para>
-        
-        <para id="para-00018">Khrameeva, E., Kurochkin, I., Han, D., et al. (2020). Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains. <emphasis effect="italics">Genome Research</emphasis>, <emphasis effect="italics">30</emphasis>(5), 776–789. https://doi.org/10.1101/gr.256958.119</para>
+      <para id="para-00004">Brain organoids express patterns of gene expression reminiscent of the developing nervous system, and form functional networks, thus resembling miniature versions of brains. They also show cellular organization similar to developing brains. For example, the bottom of <link target-id="Image-4.12" /> shows how the inside of a brain organoid has a ring of progenitor cells that give rise to neurons that migrate outwards. This arrangement strongly resembles the migration of developing neurons in the cortex that we discussed in <link document="m00036">How can model species help us make inferences about human neurobiology?</link>.</para>
 
-        <para id="para-00020">Kim, M. H., Radaelli, C., Thomsen, E. R., et al. (2023). Target cell-specific synaptic dynamics of excitatory to inhibitory neuron connections in supragranular layers of human neocortex. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">12</emphasis>, e81863. https://doi.org/10.7554/eLife.81863</para>
-        
-        <para id="para-00022">Krienen, F. M., Goldman, M., Zhang, Q., et al. (2020). Innovations present in the primate interneuron repertoire. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">586</emphasis>, 262–269. https://doi.org/10.1038/s41586-020-2781-z</para>
+      <para id="para-00005">Because of their similarity to real brain networks, brain organoids are providing exciting tools that can be geared for personalized medicine. For example, characterizing and testing therapies on organoids provides a new opportunity to define and evaluate the effectiveness of treatments to help individuals suffering from disorders (Schörnig et al., 2021). Mature cells from a given individual can be induced into pluripotency (i.e., a proliferative state), and grown into a brain organoid. In theory, this kind of model could allow screening of therapies for individual patients using tiny brains generated from their own cells.</para>
 
-        <para id="para-00021">Ozsolak, F., &amp; Milos, P. M. (2010). RNA sequencing: Advances, challenges and opportunities. <emphasis effect="italics">Nature Reviews Genetics</emphasis>, <emphasis effect="italics">12</emphasis>(2), 87–98. https://doi.org/10.1038/nrg2934</para>
-        
-        <para id="para-00023">Pollen, A. A., Bhaduri, A., Andrews, M. G., et al. (2019). Establishing cerebral organoids as models of human-specific brain evolution. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">176</emphasis>(4), 743–756. https://doi.org/10.1016/j.cell.2019.01.017</para>
-        
-        <para id="para-00024">Schörnig, M., Ju, X., Fast, L., et al. (2021). Comparison of induced neurons reveals slower structural and functional maturation in humans than in apes. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">10</emphasis>, e59323. https://doi.org/10.7554/elife.59323</para>
-        
-        <para id="para-00028">Van den Berge, K., Hembach, K. M., Soneson, C., Tiberi, S., Clement, L., Love, M. I., Patro, R., &amp; Robinson, M. D. (2019). RNA sequencing data: Hitchhiker's guide to expression analysis. <emphasis effect="italics">Annual Review of Biomedical Data Science</emphasis>, <emphasis effect="italics">2</emphasis>(1), 139–173. https://doi.org/10.1146/annurev-biodatasci-072018-021255</para>        
-        
+      <para id="para-00006">Below, we will provide a few examples to show how brain organoids have provided new insights into the evolution of the brain. Many of these studies rely on gene expression to investigate species differences in organoids. We will therefore briefly describe how RNA is measured from sequencing methods in the brain before discussing how they are used to identify species differences from brain organoids.</para>
+      <section id="sect-00009">
+        <title>Measuring RNA from sequencing technologies</title>
+        <para id="para-00008">The emergence of sequencing techniques has created many new and exciting opportunities to study transcriptional variation across species. Though there are multiple techniques to study gene expression, here we will focus on <term id="term-00003">RNA sequencing</term>, which is a method that probes gene expression very broadly in cells. RNA sequencing is a technique to measure the abundance of RNA transcripts. While many techniques for measuring RNA require that you pick which RNAs to measure ahead of time, RNA sequencing measures RNAs from many thousands of genes.</para>
+
+        <para id="para-00009">The basic process of RNA sequencing is shown in <link target-id="Image-4.14" />.</para>
+        <figure id="Image-4.14">
+          <title>Sequencing technologies</title>
+          <media alt="A diagram of the steps in RNA sequencing. 1) Isolate RNA from samples. 2) Fragment RNA into short segments. 3) Convert RNA fragments into cDNA. 4) Ligate sequencing adapters and amplify. 5) Perform NGS sequencing. 6) Mao sequencing reads to the transcriptome/genome.">
+            <image mime-type="image/png" src="../../media/Image-4.14_Sequencing-technologies_RNAseq.png" />
+          </media>
+        </figure>
+        <para id="para-00010">Tissue is extracted and then RNA is isolated via a series of steps that capture and purify it (step 1 and 2 in <link target-id="Image-4.14" />). Unlike DNA, which is double-stranded and stable, RNA is single stranded so that it easily degrades. Researchers turn their RNA into double stranded DNA to keep it stable (step 3 in <link target-id="Image-4.14" />). The process of turning RNA back into DNA is called reverse transcription and we call the resulting DNA “cDNA” because it is copied (or complimentary) from the RNA it was made from. These cDNA fragments are sequenced (step 4 and 5 in <link target-id="Image-4.14" />). This means that each nucleotide (adenine, uracil, guanine, cytosine) is read by a sequencing machine. Relatively short strings of nucleotides read at a time. The transcript reads are then aligned to the genome, which involves matching up sequences of nucleotides from the transcripts to the genome template (step 6 in <link target-id="Image-4.14" />). This effectively aligns the transcripts to the corresponding gene. In a typical experiment, the process of generating read alignment will cause some genes to have many aligned transcripts. Whereas other genes will have very few or no aligned transcripts. The number of reads aligned to each gene is used as an index of gene expression (Finotello and Di Camillo, 2015; Van den Berge et al., 2019). Using these techniques, we can compare gene expression between a diseased state and a healthy control, but we can also use these data to compare transcription across development and across the brains of different species. We can relate variation in gene expression with behavior in healthy and in diseased states.</para>
+
+        <para id="para-00011">Originally, researchers sequenced RNA from whole organs, or a piece of tissue, but this approach has limitations. Using whole pieces of tissue is a limitation because tissue is composed of a heterogeneous population of cells (e.g., neuron types, glial cells), and there is no way to tell which cells or cell populations express genes of interest. More recently, researchers developed novel methods to capture RNA sequencing from individual cells. We can now identify the transcriptional profiles from individual cells within a tissue rather than the whole piece of tissue as is the case with RNA sequencing from bulk samples. Various methods exist to measure gene expression from individual cells. <link target-id="Image-4.15" /> shows one common way to approach single cell RNA sequencing.</para>
+        <figure id="Image-4.15">
+          <title>Single cell RNA sequencing of primate brain</title>
+          <media alt="Top is a diagram of the steps in a single cell RNAseq experiment. Steps are described in the main text. Bottom has 2 examples of single cell RNAseq, one from human and one from marmoset. Individual dots represent individual cells isolated from post-mortem motor cortex of humans or marmoset monkeys. Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome). There are more than a dozen clusters, each with a unique color, in a cloud-like array.">
+            <image mime-type="image/png" src="../../media/Image-4.15_Single-cell-RNAseq-of-primate-brain.png" />
+          </media>
+          <caption>Image credit: Example single cell data from Bakken et al., Evolution of cellular diversity in primary motor cortex of human, marmoset monkey and mouse. biorXiv. https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2CC-BY-NC-ND 4.0</caption>
+        </figure>
+        <para id="para-00012">In this workflow, tissue is dissected (step 1 in <link target-id="Image-4.15" />) and broken apart into a suspension where cells float separate from one another (step 2 in <link target-id="Image-4.15" />). Sometimes, specific subpopulations of cells are selected using fluorescence activated cell sorting (FACS) (step 3 in <link target-id="Image-4.15" />). FACS uses a machine to sort cells into separate tubes based on their fluorescence. We can make specific cells fluoresce using antibody labeling (see <link document="m00106" target-id="">Methods: Immunohistochemistry</link>) or by using transgenic model organisms that express fluorescent reporters in specific cell classes (see <link document="m00106" target-id="">Methods: Transgenic organisms</link>). Once the cells of interest are collected, RNA sequencing is performed from individual cells, keeping transcripts from each cell separate (step 4 in <link target-id="Image-4.15" />). This approach permits capturing transcriptional information from the individual cells that comprise a particular tissue. Researchers can now consider all of the transcriptional profiles from different cell populations (step 5 in <link target-id="Image-4.15" />).</para>
+
+        <para id="para-00013">The data from single cell RNA sequencing can be visualized in several ways but one common way is in the kind of plots shown in the bottom of <link target-id="Image-4.15" /> (also step 6 in <link target-id="Image-4.15" />). On these plots, individual cells are represented as dots. Cells (dots) that are close to others are considered similar to each other. If cells are similar enough, they are considered a cluster. Clusters are shown as the color coding of the dots in <link target-id="Image-4.15" />. These clusters are thought to represent different cell populations. For instance, glial cell subpopulations cluster together as do different neuronal populations. These methods have been used to investigate species differences in cell composition of different brain regions. Much of this work has been unfolding in the very recent years and we are in the early stages of using these techniques to learn about species differences in cellular composition. There are several interesting findings to emerge from this work already. For example, researchers have identified conservation but also modifications in cortical cell types across species (Bakken et al., 2021; Campagnola et al., 2022; Kim et al., 2023), and they have even identified novel cell types in the primate lineage (Krienen et al., 2020). Much work is ongoing to uncover species variations from single cell RNA sequencing. We now return to brain organoids and how these sequencing technologies have been used to assess species differences in brain organoids.</para>
       </section>
-      <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
-        <exercise id="exer-00001">
-            <problem id="prob-00001">
-        <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-04-06-001"/></para></problem></exercise>
-        <exercise id="exer-00002">
-          <problem id="prob-00002">
-      <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-04-06-002"/></para></problem></exercise>
+    </section>
+    <section id="sect-00003">
+      <title>Species differences revealed from brain organoids</title>
+      <para id="para-00014">Comparative analyses of brain organoids at different stages of maturity have revealed interesting insights about the evolution of brains. In these studies, researchers selected mature cells from humans and great apes, induced them into pluripotency, and grew them in the laboratory as brain organoids. They then sampled these brain organoids at different ages in different species and measured variables like gene expression and anatomy. For example, one study compared transcriptional profiles using RNA sequencing across the brain organoids of humans and chimpanzees (Pollen et al., 2019). They found that the maturation of brain organoids was similar in the early phases of organoid development, but later diverged between human and non-human primates. Another study relied on single cell RNA sequencing data in humans, chimpanzees, and macaques and found that the maturation of brain organoids in humans was slower than in other non-human primates (Kanton et al., 2019). Studies such as these have converged on the finding that the maturation of brain organoids is protracted in humans relative to other primates (Schörnig et al.. 2021). Yet, an unresolved question is how observations made from brain organoids translate to the full organism, and whether media used to grow these primate brain organoids are appropriate for other species.</para>
+    </section>
+    <section class="section-summary" id="sect-00004">
+      <title>Summary</title>
+      <para id="para-00015">The use of brain organoids coupled with RNA sequencing technology have provided new insights into the evolution of the human brain. Comparative analyses have converged on the finding that brain maturation in humans is extended relative to great apes. Questions remain as to how information gained from brain organoids relates to the individual. Nevertheless, these methods are exciting and open new avenues of research. Indeed, there is much left to learn about the evolution of the nervous systems. The field of comparative neuroscience is well positioned to make important contributions to many areas of biomedical sciences.</para>
+    </section>
+    <section class="key-terms" id="sect-00005">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Brain organoids</item>
+        <item>induced pluripotent stem cells</item>
+        <item>RNA sequencing</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00006">
+      <title>References</title>
+      <para id="para-00016">Bakken, T. E., Jorstad, N. L., Hu, Q., et al. (2021). Comparative cellular analysis of motor cortex in human, marmoset and mouse. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">598</emphasis>, 111–119. https://doi.org/10.1038/s41586-021-03465-8</para>
+
+      <para id="para-00017">Finotello, F., &amp; Di Camillo, B. (2015). Measuring differential gene expression with RNA-seq: Challenges and strategies for data analysis. <emphasis effect="italics">Briefings in Functional Genomics</emphasis>, <emphasis effect="italics">14</emphasis>(2), 130–142. https://doi.org/10.1093/bfgp/elu035</para>
+
+      <para id="para-00019">Kanton, S., Boyle, M. J., He, Z., et al. (2019). Organoid single-cell genomic atlas uncovers human-specific features of brain development. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">574</emphasis>, 418–422. https://doi.org/10.1038/s41586-019-1654-9</para>
+
+      <para id="para-00018">Khrameeva, E., Kurochkin, I., Han, D., et al. (2020). Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains. <emphasis effect="italics">Genome Research</emphasis>, <emphasis effect="italics">30</emphasis>(5), 776–789. https://doi.org/10.1101/gr.256958.119</para>
+
+      <para id="para-00020">Kim, M. H., Radaelli, C., Thomsen, E. R., et al. (2023). Target cell-specific synaptic dynamics of excitatory to inhibitory neuron connections in supragranular layers of human neocortex. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">12</emphasis>, e81863. https://doi.org/10.7554/eLife.81863</para>
+
+      <para id="para-00022">Krienen, F. M., Goldman, M., Zhang, Q., et al. (2020). Innovations present in the primate interneuron repertoire. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">586</emphasis>, 262–269. https://doi.org/10.1038/s41586-020-2781-z</para>
+
+      <para id="para-00021">Ozsolak, F., &amp; Milos, P. M. (2010). RNA sequencing: Advances, challenges and opportunities. <emphasis effect="italics">Nature Reviews Genetics</emphasis>, <emphasis effect="italics">12</emphasis>(2), 87–98. https://doi.org/10.1038/nrg2934</para>
+
+      <para id="para-00023">Pollen, A. A., Bhaduri, A., Andrews, M. G., et al. (2019). Establishing cerebral organoids as models of human-specific brain evolution. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">176</emphasis>(4), 743–756. https://doi.org/10.1016/j.cell.2019.01.017</para>
+
+      <para id="para-00024">Schörnig, M., Ju, X., Fast, L., et al. (2021). Comparison of induced neurons reveals slower structural and functional maturation in humans than in apes. <emphasis effect="italics">eLife</emphasis>, <emphasis effect="italics">10</emphasis>, e59323. https://doi.org/10.7554/elife.59323</para>
+
+      <para id="para-00028">Van den Berge, K., Hembach, K. M., Soneson, C., Tiberi, S., Clement, L., Love, M. I., Patro, R., &amp; Robinson, M. D. (2019). RNA sequencing data: Hitchhiker's guide to expression analysis. <emphasis effect="italics">Annual Review of Biomedical Data Science</emphasis>, <emphasis effect="italics">2</emphasis>(1), 139–173. https://doi.org/10.1146/annurev-biodatasci-072018-021255</para>
+
+    </section>
+    <section class="multiple-choice" id="sect-00007">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00007"><link class="os-embed" url="#exercise/Neuro-04-06-001" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00025"><link class="os-embed" url="#exercise/Neuro-04-06-002" /></para>
+        </problem>
+      </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-    <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-04-06-003"/></para></problem></exercise>
-         </section>
-        <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
-          <exercise id="exer-00004">
-            <problem id="prob-00004">
-        <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-04-06-004"/></para></problem></exercise>
-        </section>
-        
+          <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-04-06-003" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00008">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-04-06-004" /></para>
+        </problem>
+      </exercise>
+    </section>
+
   </content>
 </document>

@@ -9,124 +9,150 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Describe what tract-tracers label in the brain.</item>
-          <item>Describe an advantage and a limitation in the use of tract-tracers.</item>
-          <item>Describe a major difference in organization between pathways.</item>
-        </list>
+      <list id="list-00001">
+        <item>Describe what tract-tracers label in the brain.</item>
+        <item>Describe an advantage and a limitation in the use of tract-tracers.</item>
+        <item>Describe a major difference in organization between pathways.</item>
+      </list>
     </section>
     <para id="para-00002">The mammalian nervous system is made up of a network of interconnected cells. In this section, we will discuss the evolution of the cellular composition of brains with a specific focus on methods. We use these data to map the structural organization of pathways and connections in the human brain. This is a topic that shows the importance of using model systems to understand connections in humans. Much of our understanding of human brain pathways has been inferred from model systems.</para>
 
     <para id="para-00003">Scientists have traditionally used information from rodents (e.g., mice, rats), carnivores (e.g., cats), marsupial mammals (e.g., opossum), and non-human primates (e.g., rhesus macaques) to make inferences about pathways and connectivity patterns in humans. The reason the human brain connectome is largely inferred from animals is because of the methods we use to study them. In general, methods available in model systems are invasive, and would be unethical to study in humans. These methods do have relatively fewer uncertainties in interpretation than those used to study humans. Methods available to model systems typically set gold standards whereas methods used to study humans are generally associated with uncertainties in their interpretation. Researchers typically integrate gold standards from model systems with non-invasive <term id="term-00001">neuroimaging</term> methods in humans to make inferences about connections in the human brain.</para>
-    
+
     <para id="para-00004">Below, we explore the different methods available in model systems and in humans, how they have moved us forward to understand brain organization, their limitations, as well as exciting topics for future research (Axer and Amunts, 2022). This section will show how we can use the principle of conservation to make inferences about connectivity patterns in humans.</para>
     <section id="sect-00002">
-    <title>Techniques to study the evolution of connections in model systems</title>
-    <para id="para-00005">The toolbox available in model systems typically relies on studying specific populations of neurons to identify afferent (incoming) and efferent (outgoing) connections. Methods available to trace pathways in model systems include <term id="term-00002">tract-tracers</term> and <term id="term-00008">diffusible dyes</term> (see <link target-id="note-00001">Inorganic dyes</link>). We first discuss neural tract tracing techniques because these methods have been used for decades and are a major source of what we know about projection patterns.</para>
-    
-    <para id="para-00006"><term class="no-emphasis" id="term-00003">Tract-tracers</term> are injected in a region of interest and actively diffuse across neurons. Traditionally, tract-tracers are injected in the living brain, and post-mortem brains are cut into micron-thick sections to visualize labeled axons from histological material (Oh et al., 2014). There are various kinds of tract-tracers. Those include anterograde, retrograde, monosynaptic and trans-synaptic tracers (<link target-id="Image-4.08"/>). Anterograde tracers are taken up by neuronal cell bodies at the injection site and diffuse along the axon towards terminal processes. In contrast, retrograde tracers are taken up by a neuron’s terminals and diffuse back towards (i.e., retrogradely) the soma. Mono-synaptic tract-tracers remain within the neuron they penetrated and do not diffuse to neighboring neurons. Other tract-tracers spread trans-synaptically (across synapses) to diffuse throughout the network. Therefore, there are many variant forms of tract-tracers that are available for study, though they only permit visualizing a few projections in the brain at a time.</para>
-    
-    <figure id="Image-4.08"><title>Retrograde and anterograde tracers</title>
-      <media alt="Top of image shows a diagram of a needle infusing a tracer near the axon terminals of one neuron and near the dendrites of another. Anterograde tracers are shown being transported from cell body to axon terminal, including moving into neurons connected to the first neuron (polysynaptic). Retrograde tracers are shown being transported from axon to cell body, including moving into neurons connected to the first neuron (polysynaptic). The bottom of the image shows a 3D rendering of a pathway extending from the rostral end of a mouse brain to the caudal end. An anterograde, polysynaptic tracer was injected in the left retina of a mouse. Projections are mapped through the optic chiasm, to their first synapse in bilateral lateral geniculate nuclei of the thalamus (LGN). Thalamic projections then go to the visual cortex (V1).">
-        <image mime-type="image/png" src="../../media/Image-4.08_Retrograde-and-anterograde-tracers.png"/>
-      </media>
-    <caption>Image credit: Mouse anterograde tracer image from Allen Brain Atlas: https://connectivity.brain-map.org/ Retina Kcng4-Cre image.</caption>
-    </figure>
-    
-    <para id="para-00007">Tract-tracers have been used extensively to trace pathways across model systems and in different species. The bottom of <link target-id="Image-4.08"/> shows three views of an example 3D reconstruction of tract-tracing performed using a trans-synaptic anterograde tracer injected in the left retina of a mouse. The tracer is seen extending from the eye, through the lateral geniculate nuclei of the thalamus, and on to the primary visual cortices  (see <link document="m00087">Vision</link>). These methods enable the identification of anatomical pathways between brain regions. </para>
-    
-    <para id="para-00008">Tract-tracers are invasive and permit only studying a few pathways at a given time. Combining the work of many researchers over many years has enhanced our understanding of how connections have evolved, and these methods have heavily influenced our understanding of vertebrate brain evolution. For example, researchers used this method to show connections from the thalamus to the DVR in birds, and these observations were used to support the notion that the DVR is homologous to the mammalian cortex (as discussed above).</para>
-    
-    <para id="para-00009">As another example, this compendium of information on tract-tracers has yielded insights about pathway properties, and principles that explain how axons target other cells (Modha et al., 2010; Liu et al., 2020). One principle to emerge from these comprehensive analyses is that local projections are more common than long-range projections, and this is true whether we consider small or large brains. Brain networks follow a small-world organization, in that they are composed of highly connected cells coupled with sparse long-range projections (Liao et al., 2017). The example of connections from retina to the thalamus to the occipital cortex in <link target-id="Image-4.08"/> makes striking 3D images, but these kinds of long-range connections are the minority of connections in the brain. Mostly, connections happen between neurons that are close neighbors.</para>
-    
-    <para id="para-00037">As we will learn more in the next section, the direct study of human connections derives from non-invasive neuroimaging techniques, which are open to interpretation. We therefore use the principle of conservation to make inferences about connectivity patterns in the human brain.</para>
+      <title>Techniques to study the evolution of connections in model systems</title>
+      <para id="para-00005">The toolbox available in model systems typically relies on studying specific populations of neurons to identify afferent (incoming) and efferent (outgoing) connections. Methods available to trace pathways in model systems include <term id="term-00002">tract-tracers</term> and <term id="term-00008">diffusible dyes</term> (see <link target-id="note-00001">Inorganic dyes</link>). We first discuss neural tract tracing techniques because these methods have been used for decades and are a major source of what we know about projection patterns.</para>
 
-    <note class="boxed-feature" id="note-00001"> <title>Inorganic dyes</title>
+      <para id="para-00006"><term class="no-emphasis" id="term-00003">Tract-tracers</term> are injected in a region of interest and actively diffuse across neurons. Traditionally, tract-tracers are injected in the living brain, and post-mortem brains are cut into micron-thick sections to visualize labeled axons from histological material (Oh et al., 2014). There are various kinds of tract-tracers. Those include anterograde, retrograde, monosynaptic and trans-synaptic tracers (<link target-id="Image-4.08" />). Anterograde tracers are taken up by neuronal cell bodies at the injection site and diffuse along the axon towards terminal processes. In contrast, retrograde tracers are taken up by a neuron’s terminals and diffuse back towards (i.e., retrogradely) the soma. Mono-synaptic tract-tracers remain within the neuron they penetrated and do not diffuse to neighboring neurons. Other tract-tracers spread trans-synaptically (across synapses) to diffuse throughout the network. Therefore, there are many variant forms of tract-tracers that are available for study, though they only permit visualizing a few projections in the brain at a time.</para>
+
+      <figure id="Image-4.08">
+        <title>Retrograde and anterograde tracers</title>
+        <media alt="Top of image shows a diagram of a needle infusing a tracer near the axon terminals of one neuron and near the dendrites of another. Anterograde tracers are shown being transported from cell body to axon terminal, including moving into neurons connected to the first neuron (polysynaptic). Retrograde tracers are shown being transported from axon to cell body, including moving into neurons connected to the first neuron (polysynaptic). The bottom of the image shows a 3D rendering of a pathway extending from the rostral end of a mouse brain to the caudal end. An anterograde, polysynaptic tracer was injected in the left retina of a mouse. Projections are mapped through the optic chiasm, to their first synapse in bilateral lateral geniculate nuclei of the thalamus (LGN). Thalamic projections then go to the visual cortex (V1).">
+          <image mime-type="image/png" src="../../media/Image-4.08_Retrograde-and-anterograde-tracers.png" />
+        </media>
+        <caption>Image credit: Mouse anterograde tracer image from Allen Brain Atlas: https://connectivity.brain-map.org/ Retina Kcng4-Cre image.</caption>
+      </figure>
+
+      <para id="para-00007">Tract-tracers have been used extensively to trace pathways across model systems and in different species. The bottom of <link target-id="Image-4.08" /> shows three views of an example 3D reconstruction of tract-tracing performed using a trans-synaptic anterograde tracer injected in the left retina of a mouse. The tracer is seen extending from the eye, through the lateral geniculate nuclei of the thalamus, and on to the primary visual cortices (see <link document="m00087">Vision</link>). These methods enable the identification of anatomical pathways between brain regions. </para>
+
+      <para id="para-00008">Tract-tracers are invasive and permit only studying a few pathways at a given time. Combining the work of many researchers over many years has enhanced our understanding of how connections have evolved, and these methods have heavily influenced our understanding of vertebrate brain evolution. For example, researchers used this method to show connections from the thalamus to the DVR in birds, and these observations were used to support the notion that the DVR is homologous to the mammalian cortex (as discussed above).</para>
+
+      <para id="para-00009">As another example, this compendium of information on tract-tracers has yielded insights about pathway properties, and principles that explain how axons target other cells (Modha et al., 2010; Liu et al., 2020). One principle to emerge from these comprehensive analyses is that local projections are more common than long-range projections, and this is true whether we consider small or large brains. Brain networks follow a small-world organization, in that they are composed of highly connected cells coupled with sparse long-range projections (Liao et al., 2017). The example of connections from retina to the thalamus to the occipital cortex in <link target-id="Image-4.08" /> makes striking 3D images, but these kinds of long-range connections are the minority of connections in the brain. Mostly, connections happen between neurons that are close neighbors.</para>
+
+      <para id="para-00037">As we will learn more in the next section, the direct study of human connections derives from non-invasive neuroimaging techniques, which are open to interpretation. We therefore use the principle of conservation to make inferences about connectivity patterns in the human brain.</para>
+
+      <note class="boxed-feature" id="note-00001">
+        <title>Inorganic dyes</title>
     
     <para id="para-00010">Inorganic dyes can also be used to visualize pathways. Dyes move through brain cells via passive transport and are useful to identify projections in fixed tissue postmortem. This is a method that can be used on human tissues. Typically, dyes are applied to the surface of formalin-fixed tissue blocks, and these dyes diffuse in anterograde and retrograde directions via the lipid portion of neuronal membranes, resulting in complete labeling of the soma and dendritic tree. However, these dyes travel very short distances. As a result of their short travel distance, dyes have been used to primarily study developing pathways (i.e., relatively short axons) during fetal development in small model animals and in humans.</para></note>
     </section>
     <section id="sect-00003">
-    <title>Techniques to study the evolution of connections in humans</title>
-    <para id="para-00011">Neuroimaging techniques are widely used in neuroscience to visualize neural activity and connections across the lifespan in humans. The non-invasive nature of neuroimaging has revolutionized the field of neuroscience. Here, we discuss a subset of neuroimaging techniques, which are used to make inferences about connectivity patterns from brain activity. <link target-id="Image-4.20"/> provides an overview of several broad classes of neuroimaging techniques.</para>
-    <figure id="Image-4.20"><title>Imaging the live human brain</title>
-      <media alt="Example scans from functional MR, structural MR, resting states MR and diffusion MR. Each example shows multiple slice images. Functional MR shows colorful hot spots in discrete pockets. Structural MR shows brain structure. Resting states MR shows colorful hotspots like function MR but the spots are larger and cover more of the brain. Diffusion MR is a cluster of multicolored strings representing white matter pathways. In aggregate, they create a brain-shaped outline. The substrates measures by each technique are also summarized from the main text.">
-        <image mime-type="image/png" src="../../media/Image-4.20_Imaging-the-live-human-brain.png"/>
-      </media>
-    <caption>Image credit: Tavazzi E, Cazzoli M, Pirastru A, Blasi V, Rovaris M, Bergsland N and Baglio F (2021) Neuroplasticity and Motor Rehabilitation in Multiple Sclerosis: A Systematic Review on MRI Markers of Functional and Structural Changes. Front. Neurosci. 15:707675. doi: 10.3389/fnins.2021.707675. CC BY 4.0.</caption>
-    </figure>
-    
-    <para id="para-00012">We will cover structural and functional magnetic resonance imaging (MRI) (see <link document="m00106" target-id="">Methods: fMRI</link>). Structural MRI evaluates the tissue structure from the soft tissue structure of the brain. Functional magnetic resonance imaging relies on blood fluctuations (measured as BOLD or blood-oxygen-level-dependent signal) to infer neuronal activity levels. Two notable techniques used to study connectivity in the live human brain that rely on MRI imaging are <term id="term-00004">resting states fMRI</term> and <term id="term-00005">diffusion MRI</term> (right side of <link target-id="Image-4.20"/>). We will discuss how these methods work, how they have contributed to mapping pathways in humans, and what uncertainties they have. We will highlight the need for information from model systems to trace pathways in the human brain.</para>
+      <title>Techniques to study the evolution of connections in humans</title>
+      <para id="para-00011">Neuroimaging techniques are widely used in neuroscience to visualize neural activity and connections across the lifespan in humans. The non-invasive nature of neuroimaging has revolutionized the field of neuroscience. Here, we discuss a subset of neuroimaging techniques, which are used to make inferences about connectivity patterns from brain activity. <link target-id="Image-4.20" /> provides an overview of several broad classes of neuroimaging techniques.</para>
+      <figure id="Image-4.20">
+        <title>Imaging the live human brain</title>
+        <media alt="Example scans from functional MR, structural MR, resting states MR and diffusion MR. Each example shows multiple slice images. Functional MR shows colorful hot spots in discrete pockets. Structural MR shows brain structure. Resting states MR shows colorful hotspots like function MR but the spots are larger and cover more of the brain. Diffusion MR is a cluster of multicolored strings representing white matter pathways. In aggregate, they create a brain-shaped outline. The substrates measures by each technique are also summarized from the main text.">
+          <image mime-type="image/png" src="../../media/Image-4.20_Imaging-the-live-human-brain.png" />
+        </media>
+        <caption>Image credit: Tavazzi E, Cazzoli M, Pirastru A, Blasi V, Rovaris M, Bergsland N and Baglio F (2021) Neuroplasticity and Motor Rehabilitation in Multiple Sclerosis: A Systematic Review on MRI Markers of Functional and Structural Changes. Front. Neurosci. 15:707675. doi: 10.3389/fnins.2021.707675. CC BY 4.0.</caption>
+      </figure>
 
-    <para id="para-00013"><term id="term-00006">fMRI and Resting states</term>: Many fMRI studies focus on BOLD signals that occur while the subject is performing certain tasks. Resting-state fMRI, in contrast, measures spontaneous low-frequency fluctuations in the BOLD signal at rest so that it can be used to investigate the functional architecture of the brain. Comparing the timing of BOLD activations at rest across regions can give clues about connections (Lee et al., 2013; Murphy et al., 2013). In this method, observations of covarying fluctuations in brain activity are used as an indirect means to infer connections between regions. Covariance of activity patterns (increases or decreases at the same time in two brain areas) suggests that the areas are in some way connected. A benefit of resting state fMRI is that it broadly surveys patterns of blood flow across the brain and can be studied in many individuals. This broad survey is in contrast with tract-tracers, which provide detailed but sparse information about projection patterns in model systems. One major limitation of resting states fMRI is that coordinated patterns of connectivity do not address the underlying pathways. A finding that regions co-activate doesn’t necessarily mean that there are actual physical pathways that underlie the covariance in activity. That is, coordinated activity may arise without any direct connections (Murphy et al., 2013).</para>
-    <para id="para-00014"><term id="term-00007">Diffusion MRI</term> relies on the diffusion of water molecules to make inferences about the composition of neural structures. More specifically, diffusion MRI detects movement of water and relies on the principles that water diffuses preferentially along the axons. By measuring the direction of water diffusion, which correlates with the direction of axon fibers, we can reconstruct the location and orientation of fibers coursing through the adult and developing brain (Wedeen et al., 2005, 2008). Diffusion MRI tractography can be used to document similarities and differences in the projection patterns of different species.</para>
-    
-    <para id="para-00015">There are certain limitations imposed by diffusion MRI tractography that have precluded its use at the level of detail needed to map some connections in the developing and adult brain. First, scans capture information at millimeters resolution (i.e., macroscale) and therefore can be used to average biological information that spans micro- and cellular scales. This limitation in resolution means large amounts of critical biological information is lost. Another major issue is that the pathway reconstructions from diffusion MRI are not always accurate. In many cases, there is much uncertainty in what the correct pathway reconstructions are in the human brain. There is a lack of alternative methods to evaluate the accuracy of neuroimaging techniques in humans. Therefore, scientists use the principle of conservation from model systems to make inferences about human pathway reconstructions. There are a number of cases where reconstructed fibers from diffusion MRI tractography in the human brain appear very improbable (based on what we know about model systems). Overcoming these issues is an active area of research.</para>
-    
-    <para id="para-00016">Despite these limitations, diffusion MRI tractography has yielded some interesting findings. For example, tractography studies have shown that some pathways connecting cortical areas are enlarged in humans relative to other species. For example, the arcuate fasciculus, which is a pathway that connects the lateral frontal and temporal lobe, is very large in humans compared to nonhuman primates. The arcuate fasciculus is of particular interest because it is a pathway thought to be associated with language comprehension (mediated by the parietal and temporal lobes) and production (mediated by lateral frontal cortical areas). Tractography studies have revealed a disproportionately expanded arcuate fasciculus in humans compared with both chimpanzees and macaques (Rilling et al., 2008). These observations have been used to argue that the expansion of the arcuate fasciculus may be linked to language in humans. While it is clear that the arcuate fasciculus is big in big-brained primates such as humans, it is still possible that the arcuate fasciculus has an allometry. That is, the arcuate fasciculus may have become disproportionately bigger in big brained species. The tractography has yet to be validated and we have very few tools available to ensure the accuracy of these projection reconstructions in humans versus great apes.</para>
+      <para id="para-00012">We will cover structural and functional magnetic resonance imaging (MRI) (see <link document="m00106" target-id="">Methods: fMRI</link>). Structural MRI evaluates the tissue structure from the soft tissue structure of the brain. Functional magnetic resonance imaging relies on blood fluctuations (measured as BOLD or blood-oxygen-level-dependent signal) to infer neuronal activity levels. Two notable techniques used to study connectivity in the live human brain that rely on MRI imaging are <term id="term-00004">resting states fMRI</term> and <term id="term-00005">diffusion MRI</term> (right side of <link target-id="Image-4.20" />). We will discuss how these methods work, how they have contributed to mapping pathways in humans, and what uncertainties they have. We will highlight the need for information from model systems to trace pathways in the human brain.</para>
+
+      <para id="para-00013"><term id="term-00006">fMRI and Resting states</term>: Many fMRI studies focus on BOLD signals that occur while the subject is performing certain tasks. Resting-state fMRI, in contrast, measures spontaneous low-frequency fluctuations in the BOLD signal at rest so that it can be used to investigate the functional architecture of the brain. Comparing the timing of BOLD activations at rest across regions can give clues about connections (Lee et al., 2013; Murphy et al., 2013). In this method, observations of covarying fluctuations in brain activity are used as an indirect means to infer connections between regions. Covariance of activity patterns (increases or decreases at the same time in two brain areas) suggests that the areas are in some way connected. A benefit of resting state fMRI is that it broadly surveys patterns of blood flow across the brain and can be studied in many individuals. This broad survey is in contrast with tract-tracers, which provide detailed but sparse information about projection patterns in model systems. One major limitation of resting states fMRI is that coordinated patterns of connectivity do not address the underlying pathways. A finding that regions co-activate doesn’t necessarily mean that there are actual physical pathways that underlie the covariance in activity. That is, coordinated activity may arise without any direct connections (Murphy et al., 2013).</para>
+      <para id="para-00014"><term id="term-00007">Diffusion MRI</term> relies on the diffusion of water molecules to make inferences about the composition of neural structures. More specifically, diffusion MRI detects movement of water and relies on the principles that water diffuses preferentially along the axons. By measuring the direction of water diffusion, which correlates with the direction of axon fibers, we can reconstruct the location and orientation of fibers coursing through the adult and developing brain (Wedeen et al., 2005, 2008). Diffusion MRI tractography can be used to document similarities and differences in the projection patterns of different species.</para>
+
+      <para id="para-00015">There are certain limitations imposed by diffusion MRI tractography that have precluded its use at the level of detail needed to map some connections in the developing and adult brain. First, scans capture information at millimeters resolution (i.e., macroscale) and therefore can be used to average biological information that spans micro- and cellular scales. This limitation in resolution means large amounts of critical biological information is lost. Another major issue is that the pathway reconstructions from diffusion MRI are not always accurate. In many cases, there is much uncertainty in what the correct pathway reconstructions are in the human brain. There is a lack of alternative methods to evaluate the accuracy of neuroimaging techniques in humans. Therefore, scientists use the principle of conservation from model systems to make inferences about human pathway reconstructions. There are a number of cases where reconstructed fibers from diffusion MRI tractography in the human brain appear very improbable (based on what we know about model systems). Overcoming these issues is an active area of research.</para>
+
+      <para id="para-00016">Despite these limitations, diffusion MRI tractography has yielded some interesting findings. For example, tractography studies have shown that some pathways connecting cortical areas are enlarged in humans relative to other species. For example, the arcuate fasciculus, which is a pathway that connects the lateral frontal and temporal lobe, is very large in humans compared to nonhuman primates. The arcuate fasciculus is of particular interest because it is a pathway thought to be associated with language comprehension (mediated by the parietal and temporal lobes) and production (mediated by lateral frontal cortical areas). Tractography studies have revealed a disproportionately expanded arcuate fasciculus in humans compared with both chimpanzees and macaques (Rilling et al., 2008). These observations have been used to argue that the expansion of the arcuate fasciculus may be linked to language in humans. While it is clear that the arcuate fasciculus is big in big-brained primates such as humans, it is still possible that the arcuate fasciculus has an allometry. That is, the arcuate fasciculus may have become disproportionately bigger in big brained species. The tractography has yet to be validated and we have very few tools available to ensure the accuracy of these projection reconstructions in humans versus great apes.</para>
     </section>
-    <section class="section-summary" id="sect-00004"> <title>Summary</title> <para id="para-00017">We discussed methods used to study brain pathways. It’s a tricky subject and most of the pathways we study in human neuroscience are inferred from model systems. Some methods are only available in model systems (e.g., tracers) but others (e.g., diffusion imaging) are also available for use in humans. The map of human brain pathways remains a work-in-progress. Due to the inherent limitations of methods for studying human brain connectivity, many researchers use the principle of conservation to make inferences about connectivity profiles in humans. We rely on features that are constant across diverse mammalian species to extrapolate the map of human brain pathways. Yet, some pathways should be specific to humans, and we have yet to identify many of the pathway types that are unique to humans. Some researchers have turned to integration of large-scale maps from neuroimaging with genetics to identify how pathways have evolved across species (Charvet et al., 2022).
- </para>
-  </section>
-<section class="key-terms" id="sect-00005"> <title>Key Terms</title> <list display="inline" id="list-00002">
-  <item>Neuroimaging</item>
-  <item>tract-tracers</item>
-  <item>diffusible dyes</item>
-  <item>resting states fMRI</item>
-  <item>diffusion MR imaging 
-</item></list></section>
-<section class="references" id="sect-00006"> <title>References</title>
-<para id="para-00018">Axer, M., &amp; Amunts, K. (2022). Scale matters: The nested human connectome. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">378</emphasis>(6619), 500–504. https://doi.org/10.1126/science.abq2599</para>
+    <section class="section-summary" id="sect-00004">
+      <title>Summary</title>
+      <para id="para-00017">We discussed methods used to study brain pathways. It’s a tricky subject and most of the pathways we study in human neuroscience are inferred from model systems. Some methods are only available in model systems (e.g., tracers) but others (e.g., diffusion imaging) are also available for use in humans. The map of human brain pathways remains a work-in-progress. Due to the inherent limitations of methods for studying human brain connectivity, many researchers use the principle of conservation to make inferences about connectivity profiles in humans. We rely on features that are constant across diverse mammalian species to extrapolate the map of human brain pathways. Yet, some pathways should be specific to humans, and we have yet to identify many of the pathway types that are unique to humans. Some researchers have turned to integration of large-scale maps from neuroimaging with genetics to identify how pathways have evolved across species (Charvet et al., 2022). </para>
+    </section>
+    <section class="key-terms" id="sect-00005">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Neuroimaging</item>
+        <item>tract-tracers</item>
+        <item>diffusible dyes</item>
+        <item>resting states fMRI</item>
+        <item>diffusion MR imaging </item>
+      </list>
+    </section>
+    <section class="references" id="sect-00006">
+      <title>References</title>
+      <para id="para-00018">Axer, M., &amp; Amunts, K. (2022). Scale matters: The nested human connectome. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">378</emphasis>(6619), 500–504. https://doi.org/10.1126/science.abq2599</para>
 
-<para id="para-00019">Charvet, C. J., Ofori, K., Baucum, C., Sun, J., Modrell, M. S., Hekmatyar, K., Edlow, B. L., &amp; van der Kouwe, A. J. (2022). Tracing modification to cortical circuits in human and nonhuman primates from high-resolution tractography, transcription, and temporal dimensions. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">42</emphasis>(18), 3749–3767. https://doi.org/10.1523/JNEUROSCI.1506-21.2022</para>
+      <para id="para-00019">Charvet, C. J., Ofori, K., Baucum, C., Sun, J., Modrell, M. S., Hekmatyar, K., Edlow, B. L., &amp; van der Kouwe, A. J. (2022). Tracing modification to cortical circuits in human and nonhuman primates from high-resolution tractography, transcription, and temporal dimensions. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">42</emphasis>(18), 3749–3767. https://doi.org/10.1523/JNEUROSCI.1506-21.2022</para>
 
-<para id="para-00020">Lee, M. H., Smyser, C. D., &amp; Shimony, J. S. (2013). Resting-state fMRI: A review of methods and clinical applications. <emphasis effect="italics">American Journal of Neuroradiology</emphasis>, <emphasis effect="italics">34</emphasis>(10), 1866–1872. https://doi.org/10.3174/ajnr.A3263</para>
+      <para id="para-00020">Lee, M. H., Smyser, C. D., &amp; Shimony, J. S. (2013). Resting-state fMRI: A review of methods and clinical applications. <emphasis effect="italics">American Journal of Neuroradiology</emphasis>, <emphasis effect="italics">34</emphasis>(10), 1866–1872. https://doi.org/10.3174/ajnr.A3263</para>
 
-<para id="para-00021">Liao, X., Vasilakos, A. V., &amp; He, Y. (2017). Small-world human brain networks: Perspectives and challenges. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">77</emphasis>, 286–300. https://doi.org/10.1016/j.neubiorev.2017.03.018</para>
+      <para id="para-00021">Liao, X., Vasilakos, A. V., &amp; He, Y. (2017). Small-world human brain networks: Perspectives and challenges. <emphasis effect="italics">Neuroscience and Biobehavioral Reviews</emphasis>, <emphasis effect="italics">77</emphasis>, 286–300. https://doi.org/10.1016/j.neubiorev.2017.03.018</para>
 
-<para id="para-00022">Liu, Z. Q., Zheng, Y. Q., &amp; Misic, B. (2020). Network topology of the marmoset connectome. <emphasis effect="italics">Network Neuroscience</emphasis>, <emphasis effect="italics">4</emphasis>(4), 1181–1196. https://doi.org/10.1162/netn_a_00159</para>
+      <para id="para-00022">Liu, Z. Q., Zheng, Y. Q., &amp; Misic, B. (2020). Network topology of the marmoset connectome. <emphasis effect="italics">Network Neuroscience</emphasis>, <emphasis effect="italics">4</emphasis>(4), 1181–1196. https://doi.org/10.1162/netn_a_00159</para>
 
-<para id="para-00023">Modha, D. S., &amp; Singh, R. (2010). Network architecture of the long-distance pathways in the macaque brain. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">107</emphasis>(30), 13485–13490. https://doi.org/10.1073/pnas.1008054107</para>
+      <para id="para-00023">Modha, D. S., &amp; Singh, R. (2010). Network architecture of the long-distance pathways in the macaque brain. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">107</emphasis>(30), 13485–13490. https://doi.org/10.1073/pnas.1008054107</para>
 
-<para id="para-00024">Murphy, K., Birn, R. M., &amp; Bandettini, P. A. (2013). Resting-state fMRI confounds and cleanup. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">80</emphasis>, 349–359. https://doi.org/10.1016/j.neuroimage.2013.04.001</para>
+      <para id="para-00024">Murphy, K., Birn, R. M., &amp; Bandettini, P. A. (2013). Resting-state fMRI confounds and cleanup. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">80</emphasis>, 349–359. https://doi.org/10.1016/j.neuroimage.2013.04.001</para>
 
-<para id="para-00026">Oh, S. W., Harris, J. A., Ng, L., Winslow, B., Cain, N., Mihalas, S., Wang, Q., Lau, C., Kuan, L., Henry, A. M., Mortrud, M. T., Ouellette, B., Nguyen, T. N., Sorensen, S. A., Slaughterbeck, C. R., Wakeman, W., Li, Y., Feng, D., Ho, A., Nicholas, E., Hirokawa, K. E., Bohn, P., Joines, K. M., Peng, H., Hawrylycz, M. J., Phillips, J. W., Hohmann, J. G., Wohnoutka, P., Gerfen, C. R., Koch, C., Bernard, A., Dang, C., Jones, A. R., &amp; Zeng, H. (2014). A mesoscale connectome of the mouse brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">508</emphasis>, 207–214. https://doi.org/10.1038/nature13186</para>
+      <para id="para-00026">Oh, S. W., Harris, J. A., Ng, L., Winslow, B., Cain, N., Mihalas, S., Wang, Q., Lau, C., Kuan, L., Henry, A. M., Mortrud, M. T., Ouellette, B., Nguyen, T. N., Sorensen, S. A., Slaughterbeck, C. R., Wakeman, W., Li, Y., Feng, D., Ho, A., Nicholas, E., Hirokawa, K. E., Bohn, P., Joines, K. M., Peng, H., Hawrylycz, M. J., Phillips, J. W., Hohmann, J. G., Wohnoutka, P., Gerfen, C. R., Koch, C., Bernard, A., Dang, C., Jones, A. R., &amp; Zeng, H. (2014). A mesoscale connectome of the mouse brain. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">508</emphasis>, 207–214. https://doi.org/10.1038/nature13186</para>
 
-<para id="para-00025">Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., &amp; Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>(4), 426–428. https://doi.org/10.1038/nn2072</para>
+      <para id="para-00025">Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., &amp; Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>(4), 426–428. https://doi.org/10.1038/nn2072</para>
 
-<para id="para-00028">Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., &amp; Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. <emphasis effect="italics">Magnetic Resonance in Medicine</emphasis>, <emphasis effect="italics">54</emphasis>(6), 1377–1386. https://doi.org/10.1002/mrm.20642</para>
+      <para id="para-00028">Wedeen, V. J., Hagmann, P., Tseng, W. Y. I., Reese, T. G., &amp; Weisskoff, R. M. (2005). Mapping complex tissue architecture with diffusion spectrum magnetic resonance imaging. <emphasis effect="italics">Magnetic Resonance in Medicine</emphasis>, <emphasis effect="italics">54</emphasis>(6), 1377–1386. https://doi.org/10.1002/mrm.20642</para>
 
-<para id="para-00027">Wedeen, V. J., Wang, R. P., Schmahmann, J. D., Benner, T., Tseng, W. Y. I., Dai, G., Pandya, D. N., Hagmann, P., D'Arceuil, H., &amp; de Crespigny, A. J. (2008). Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">41</emphasis>(4), 1267–1277. https://doi.org/10.1016/j.neuroimage.2008.03.036</para>
+      <para id="para-00027">Wedeen, V. J., Wang, R. P., Schmahmann, J. D., Benner, T., Tseng, W. Y. I., Dai, G., Pandya, D. N., Hagmann, P., D'Arceuil, H., &amp; de Crespigny, A. J. (2008). Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">41</emphasis>(4), 1267–1277. https://doi.org/10.1016/j.neuroimage.2008.03.036</para>
 
-  </section>
+    </section>
 
-  <section class="multiple-choice" id="sect-00007"><title>Multiple Choice</title>
-    <exercise id="exer-00001">
+    <section class="multiple-choice" id="sect-00007">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
         <problem id="prob-00001">
-    <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-04-04-001"/></para></problem></exercise>
-        <exercise id="exer-00002">
-      <problem id="prob-00002">
-  <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-04-04-002"/></para></problem></exercise>
-  <exercise id="exer-00003">
-    <problem id="prob-00003">
-<para id="para-00031"><link class="os-embed" url="#exercise/Neuro-04-04-003"/></para></problem></exercise>
-<exercise id="exer-00004">
-  <problem id="prob-00004">
-<para id="para-00032"><link class="os-embed" url="#exercise/Neuro-04-04-004"/></para></problem></exercise>
-<exercise id="exer-00005">
-  <problem id="prob-00005">
-<para id="para-00033"><link class="os-embed" url="#exercise/Neuro-04-04-005"/></para></problem></exercise>
-<exercise id="exer-00006">
-  <problem id="prob-00006">
-<para id="para-00034"><link class="os-embed" url="#exercise/Neuro-04-04-006"/></para></problem></exercise>
-<exercise id="exer-00007">
-  <problem id="prob-00007">
-<para id="para-00035"><link class="os-embed" url="#exercise/Neuro-04-04-007"/></para></problem></exercise>
-     </section>
-    <section class="fillin-blank" id="sect-00008"><title>Fill in the Blank</title>
+          <para id="para-00029"><link class="os-embed" url="#exercise/Neuro-04-04-001" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00030"><link class="os-embed" url="#exercise/Neuro-04-04-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00031"><link class="os-embed" url="#exercise/Neuro-04-04-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00032"><link class="os-embed" url="#exercise/Neuro-04-04-004" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00033"><link class="os-embed" url="#exercise/Neuro-04-04-005" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00034"><link class="os-embed" url="#exercise/Neuro-04-04-006" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00007">
+        <problem id="prob-00007">
+          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-04-04-007" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00008">
+      <title>Fill in the Blank</title>
       <exercise id="exer-00008">
         <problem id="prob-00008">
-      <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-04-008"/></para></problem></exercise>
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-04-008" /></para>
+        </problem>
+      </exercise>
     </section>
-    
+
   </content>
 </document>

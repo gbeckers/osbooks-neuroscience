@@ -9,36 +9,40 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00002">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Describe the rhythmic behavior produced by the simple swim circuit in <emphasis effect="italics">Tritonia diomedea</emphasis>.</item>
-          <item>Define some of the key features of neural circuits: parallel processing, feedback, efficiency, and a careful balance between excitation and inhibition.</item>
-          <item>Describe the work of computational neuroscientists to build mathematical models of neurons and neural circuits.</item>
-        </list>
+      <list id="list-00001">
+        <item>Describe the rhythmic behavior produced by the simple swim circuit in <emphasis effect="italics">Tritonia diomedea</emphasis>.</item>
+        <item>Define some of the key features of neural circuits: parallel processing, feedback, efficiency, and a careful balance between excitation and inhibition.</item>
+        <item>Describe the work of computational neuroscientists to build mathematical models of neurons and neural circuits.</item>
+      </list>
     </section>
     <para id="para-00001">As specialists in communication, neurons do not work on their own, but in interconnected groups, often called a neural circuit or a neural network. Even small numbers of neurons can generate remarkably complex behavior. To see this, let’s examine a very simple neural circuit: the “swim” network in the sea slug <emphasis effect="italics">Tritonia diomedea</emphasis>.</para>
-    <section id="sect-00002"><title>In the swim circuit of <emphasis effect="italics">Tritonia diomedea</emphasis> a few neurons produce rhythmic behavior important for survival</title>
-    <para id="para-00003"><emphasis effect="italics">Tritonia</emphasis> is a species of slimy mollusk that glides along the ocean floor off the west coast of the United States and Canada. The mortal enemy of a <emphasis effect="italics">Tritonia</emphasis> is the Pacific sea star, a voracious predator that loves to dine on <emphasis effect="italics">Tritonia</emphasis>. To avoid this fate, a <emphasis effect="italics">Tritonia</emphasis> “swims” away if it feels the touch of a sea star. Well, actually the <emphasis effect="italics">Tritonia</emphasis> kind of thrashes about, arching its back, then relaxing, then arching again, in a rhythmic motion that helps it move up into the ocean current. When the <emphasis effect="italics">Tritonia</emphasis> stops swimming, it sinks back down to the ocean floor, hopefully far away from the hungry sea star.  Check out a video of a <emphasis effect="italics">Tritonia</emphasis> escaping a sea star here:</para>
-          <media alt="Tritonia">
-            <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroTritonia"/>
-          </media>
-     <para id="para-00004">Researchers have found that <emphasis effect="italics">Tritonia</emphasis> swim away from danger with the help of a relatively simple neural circuit (Willows and Hoyle, 1969; Getting, 1983), consisting of sensory neurons, motor neurons, a partner neuron, and an inhibitory neuron.</para>
-     <figure id="Image-2.16"><title>The swim circuit in <emphasis effect="italics">Tritonia diomedea</emphasis></title>
-      <media alt="Top 1/3 of image: Drawing of a Tritonia and a starfish. Bottom 2/3 of image: Top: drawings of tritonis at different phases of its escape swimming response. Middle: Diagram of the neural circuit mediating the swim response, showing which neurons are firing at each step.. Bottom:  Line diagrams representing firing of the different neurons of the swim circuit at each phase of the swim response.">
-        <image mime-type="image/png" src="../../media/Image-2.16_The-swim-circuit-in-Tritonia-Diomedea.png"/>
+    <section id="sect-00002">
+      <title>In the swim circuit of <emphasis effect="italics">Tritonia diomedea</emphasis> a few neurons produce rhythmic behavior important for survival</title>
+      <para id="para-00003"><emphasis effect="italics">Tritonia</emphasis> is a species of slimy mollusk that glides along the ocean floor off the west coast of the United States and Canada. The mortal enemy of a <emphasis effect="italics">Tritonia</emphasis> is the Pacific sea star, a voracious predator that loves to dine on <emphasis effect="italics">Tritonia</emphasis>. To avoid this fate, a <emphasis effect="italics">Tritonia</emphasis> “swims” away if it feels the touch of a sea star. Well, actually the <emphasis effect="italics">Tritonia</emphasis> kind of thrashes about, arching its back, then relaxing, then arching again, in a rhythmic motion that helps it move up into the ocean current. When the <emphasis effect="italics">Tritonia</emphasis> stops swimming, it sinks back down to the ocean floor, hopefully far away from the hungry sea star. Check out a video of a <emphasis effect="italics">Tritonia</emphasis> escaping a sea star here:</para>
+      <media alt="Tritonia">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroTritonia" />
       </media>
-    <caption>Image credit: Tamvacakis AN, Lillvis JL, Sakurai A and Katz PS (2022) The Consistency of Gastropod Identified Neurons Distinguishes Intra-Individual Plasticity From Inter-Individual Variability in Neural Circuits. Front. Behav. Neurosci. 16:855235. doi: 10.3389/fnbeh.2022.855235. CC BY 4.0</caption>
-    </figure>
-      <para id="para-00005">The sensory neurons in the skin are tuned to specific chemicals on the tentacles of the Pacific sea star. When these are detected, the sensory neurons become very excited, firing a long-lasting barrage of action potentials (Step 2 in <link target-id="Image-2.16"/>; each hash line represents an action potential). The sensory neurons release excitatory transmitter onto a set of 3 motor neurons which control the muscles of the back. When these motor neurons reach threshold they fire action potentials, contracting the back muscles to produce the arching movement that forms the first half of the ‘swim’ rhythm (a behavior that is cyclical or periodic).</para>
-      <para id="para-00006">This is not all the motor neurons do. They also release excitatory transmitter onto a partner neuron, which in turn excites an inhibitory neuron (Step 3 in <link target-id="Image-2.16"/>). This inhibitory neuron provides feedback to the circuit, inhibiting the motor neurons. When this happens, the inhibition overwhelms the excitatory input from the sensory neurons, and the motor neurons are pushed below threshold. With the motor neurons inactive, the back muscles relax and the <emphasis effect="italics">Tritonia</emphasis> straightens out. At this point, it has arched back and then relaxed forward, completing a ‘swim’ rhythm.</para>
-      <para id="para-00007">Can you predict what will happen next? Stop and think about it for a moment. If you predicted that the whole cycle would begin again, you’re spot on: with the motor neurons inactive, the partner neuron and, in turn, the inhibitory neuron are no longer being excited, so they stop firing action potentials and the motor neuron is released from inhibition. That means the long-lasting activity in the sensory neurons is again able to activate the motor neurons, producing another arching of the back (Step 4), followed by another round of inhibition that again relaxes the animal forward (Step 5 in <link target-id="Image-2.16"/>). The whole cycle repeats over and over again until the sensory neurons stop firing, which usually takes 10 to 30 seconds (far longer than the brief touch of the predator).  Thus, just a few neurons in the <emphasis effect="italics">Tritonia</emphasis> nervous system transform an outside event (a sea star touch) into a complex and long-lasting rhythm that ‘swims’ it away from danger.</para>
-      <para id="para-00008">The <emphasis effect="italics">Tritonia</emphasis> swim network is not only rhythmic; it is also dynamic, changing based on the  <emphasis effect="italics">Tritonia</emphasis>’s experience. For example, if a <emphasis effect="italics">Tritonia</emphasis> is injured, the sensory neurons become hyper-excitable, firing at a lower threshold and for longer times. This shifts the <emphasis effect="italics">Tritonia</emphasis> to be more likely to swim and to swim more vigorously, hopefully protecting it from further injury (but also using precious energy). The swim network can also shift in the other direction. If a <emphasis effect="italics">Tritonia</emphasis> is gently touched over and over again, the sensory neurons produce smaller and smaller EPSPs, and the network begins to ignore this gentle touch, learning that it does not pose a real danger (Brown, 1998; Hoppe, 1998). The dynamic nature of the swim network helps the <emphasis effect="italics">Tritonia</emphasis> strategically allocate its energy based on its experiences—to swim away from real danger while also saving energy by ignoring events that are innocuous (meaning harmless or non-threatening).</para>
+      <para id="para-00004">Researchers have found that <emphasis effect="italics">Tritonia</emphasis> swim away from danger with the help of a relatively simple neural circuit (Willows and Hoyle, 1969; Getting, 1983), consisting of sensory neurons, motor neurons, a partner neuron, and an inhibitory neuron.</para>
+      <figure id="Image-2.16">
+        <title>The swim circuit in <emphasis effect="italics">Tritonia diomedea</emphasis></title>
+        <media alt="Top 1/3 of image: Drawing of a Tritonia and a starfish. Bottom 2/3 of image: Top: drawings of tritonis at different phases of its escape swimming response. Middle: Diagram of the neural circuit mediating the swim response, showing which neurons are firing at each step.. Bottom:  Line diagrams representing firing of the different neurons of the swim circuit at each phase of the swim response.">
+          <image mime-type="image/png" src="../../media/Image-2.16_The-swim-circuit-in-Tritonia-Diomedea.png" />
+        </media>
+        <caption>Image credit: Tamvacakis AN, Lillvis JL, Sakurai A and Katz PS (2022) The Consistency of Gastropod Identified Neurons Distinguishes Intra-Individual Plasticity From Inter-Individual Variability in Neural Circuits. Front. Behav. Neurosci. 16:855235. doi: 10.3389/fnbeh.2022.855235. CC BY 4.0</caption>
+      </figure>
+      <para id="para-00005">The sensory neurons in the skin are tuned to specific chemicals on the tentacles of the Pacific sea star. When these are detected, the sensory neurons become very excited, firing a long-lasting barrage of action potentials (Step 2 in <link target-id="Image-2.16" />; each hash line represents an action potential). The sensory neurons release excitatory transmitter onto a set of 3 motor neurons which control the muscles of the back. When these motor neurons reach threshold they fire action potentials, contracting the back muscles to produce the arching movement that forms the first half of the ‘swim’ rhythm (a behavior that is cyclical or periodic).</para>
+      <para id="para-00006">This is not all the motor neurons do. They also release excitatory transmitter onto a partner neuron, which in turn excites an inhibitory neuron (Step 3 in <link target-id="Image-2.16" />). This inhibitory neuron provides feedback to the circuit, inhibiting the motor neurons. When this happens, the inhibition overwhelms the excitatory input from the sensory neurons, and the motor neurons are pushed below threshold. With the motor neurons inactive, the back muscles relax and the <emphasis effect="italics">Tritonia</emphasis> straightens out. At this point, it has arched back and then relaxed forward, completing a ‘swim’ rhythm.</para>
+      <para id="para-00007">Can you predict what will happen next? Stop and think about it for a moment. If you predicted that the whole cycle would begin again, you’re spot on: with the motor neurons inactive, the partner neuron and, in turn, the inhibitory neuron are no longer being excited, so they stop firing action potentials and the motor neuron is released from inhibition. That means the long-lasting activity in the sensory neurons is again able to activate the motor neurons, producing another arching of the back (Step 4), followed by another round of inhibition that again relaxes the animal forward (Step 5 in <link target-id="Image-2.16" />). The whole cycle repeats over and over again until the sensory neurons stop firing, which usually takes 10 to 30 seconds (far longer than the brief touch of the predator). Thus, just a few neurons in the <emphasis effect="italics">Tritonia</emphasis> nervous system transform an outside event (a sea star touch) into a complex and long-lasting rhythm that ‘swims’ it away from danger.</para>
+      <para id="para-00008">The <emphasis effect="italics">Tritonia</emphasis> swim network is not only rhythmic; it is also dynamic, changing based on the <emphasis effect="italics">Tritonia</emphasis>’s experience. For example, if a <emphasis effect="italics">Tritonia</emphasis> is injured, the sensory neurons become hyper-excitable, firing at a lower threshold and for longer times. This shifts the <emphasis effect="italics">Tritonia</emphasis> to be more likely to swim and to swim more vigorously, hopefully protecting it from further injury (but also using precious energy). The swim network can also shift in the other direction. If a <emphasis effect="italics">Tritonia</emphasis> is gently touched over and over again, the sensory neurons produce smaller and smaller EPSPs, and the network begins to ignore this gentle touch, learning that it does not pose a real danger (Brown, 1998; Hoppe, 1998). The dynamic nature of the swim network helps the <emphasis effect="italics">Tritonia</emphasis> strategically allocate its energy based on its experiences—to swim away from real danger while also saving energy by ignoring events that are innocuous (meaning harmless or non-threatening).</para>
       <para id="para-00009">Even though the <emphasis effect="italics">Tritonia</emphasis> swim circuit is simple, it can still malfunction. If the connection to the inhibitory neuron is weakened, there will not be enough inhibition to pause activity in the circuit, and instead the circuit will produce constant activity that could lock up the back muscles, freezing the <emphasis effect="italics">Tritonia</emphasis> in an arched position that will make it into an easy dinner. Too much inhibition is also problematic. If the inhibitory neuron releases too much neurotransmitter, the circuit would pause for too long, letting the animal drop back down to the ocean floor before it has managed to get away from the sea star. Generating the swim rhythm that keeps a <emphasis effect="italics">Tritonia</emphasis> safe requires just the right balance between excitation and inhibition to keep the circuit moderately but not excessively activated (Katz and Frost, 1997; Calin-Jageman et al., 2007).</para>
     </section>
-    <section id="sect-00003"><title>Studying neural circuits reveals important principles about how nervous systems generate behavior</title>
-      <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of <emphasis effect="italics">Tritonia</emphasis> we can glean a few key insights (<link target-id="Image-2.29"/>):</para>
-      <figure id="Image-2.29"><title>Five principles of neural networks</title>
+    <section id="sect-00003">
+      <title>Studying neural circuits reveals important principles about how nervous systems generate behavior</title>
+      <para id="para-00010">You probably never thought about the swimming behaviors of slimy mollusks before, but hopefully you found it exciting (pun intended!) to learn how just a few neurons can produce a life-saving behavior. One of the key goals of neuroscience is to uncover the secrets of more complex neural networks, such as the ones operating in your nervous system to produce language, emotions, and thought. There is still a lot we do not know, but even from the simple swim circuit of <emphasis effect="italics">Tritonia</emphasis> we can glean a few key insights (<link target-id="Image-2.29" />):</para>
+      <figure id="Image-2.29">
+        <title>Five principles of neural networks</title>
         <media alt="5 panels, top to bottom. 1) Diagram of one neuron sending output to 3 pathways. 2) Diagram of 3 neurons connected in a circuit. 3) Left: Diagram of a neuron with a line graph of repeating action potentials next to it. Right: Diagram of heart with a heart beat monitor next to it. 4) Cartoons of a scale tipped too far one way or the other (or balance in the middle). 5) Cartoon showing a neuron vs a battery and a cell phone vs a battery">
-          <image mime-type="image/png" src="../../media/Image-2.29_5-principles-of-neural-networks.png"/>
+          <image mime-type="image/png" src="../../media/Image-2.29_5-principles-of-neural-networks.png" />
         </media>
       </figure>
       <para id="para-00011">Neural networks feature parallel processing, meaning that information spreads along multiple pathways. In the <emphasis effect="italics">Tritonia</emphasis> swim network, the motor neurons form synapses onto the muscles and onto a partner neuron that activates inhibition, sending messages along two distinct pathways at the same time.</para>
@@ -46,94 +50,96 @@
       <para id="para-00013">Neural networks are often rhythmic or cyclical, exhibiting repeating patterns of activity and inactivity. This is reflected in the fact that many of our behaviors are also rhythmic: walking, sleep/wake cycles, breathing, and more. The chapter on <link document="m00094">Biological Rhythms and Sleep</link> digs into detail on these fascinating cycles of neural activity.</para>
       <para id="para-00014">Neural circuits can malfunction. They operate best at moderate levels of activity. They can easily be overwhelmed with excitation (which shows up in behavior as seizures or muscle spasticity) or inhibition (which shows up in behavior as torpor or muscle flaccidity). To work well, networks need both inhibition and excitation, and in the right balance.</para>
       <para id="para-00015">Neural networks are highly efficient. <emphasis effect="italics">Tritonia</emphasis> can swim away from danger with a network of less than a dozen neurons. Even with the large numbers of neurons in the mammalian nervous system, the efficiency of operation is incredible. Your entire brain uses about 20 watts of electrical power (Balasubramanian, 2021). For comparison, a modern Xbox or Playstation draws up to 160 watts of power. It is true that your brain uses a large fraction of your daily energy budget (about 500 kilocalories per day, or 25% of a typical 2,000 kilocalorie daily energy budget; Herculano-Houzel, 2012), but nervous systems are still remarkably efficient relative to the electronics around us.</para>
-      <para id="para-00016">What makes neural networks even more incredible is that they are self-assembled, following genetic and environmental signals to create and maintain the functioning of the network. How, exactly, this happens is still deeply mysterious. The chapter on <link document="m00086">Neurodevelopment</link> explains some of what we’ve learned about how neural circuits assemble.</para></section>
-      <note class="inthe-lab" id="note-00001">
-        <title>Computational neuroscience</title>
+      <para id="para-00016">What makes neural networks even more incredible is that they are self-assembled, following genetic and environmental signals to create and maintain the functioning of the network. How, exactly, this happens is still deeply mysterious. The chapter on <link document="m00086">Neurodevelopment</link> explains some of what we’ve learned about how neural circuits assemble.</para>
+    </section>
+    <note class="inthe-lab" id="note-00001">
+      <title>Computational neuroscience</title>
         <para id="para-00017">Scientists frequently express and check our understanding of natural phenomena by creating models and comparing our models to reality. This is the guiding principle for computational neuroscience, a diverse subfield of neuroscience dedicated to developing and exploring mathematical models of neurons and neural networks. Computational neuroscientists simulate neurons, meaning that they specify a set of mathematical rules to stand in for a real neuron, and then use computers to repeatedly apply those rules, producing data on how their models would perform under different conditions.</para>
         <para id="para-00018">Some simulations use very simple models of neurons. For example, in an integrate-and-fire model, each “neuron” is represented in the computer as a set of inputs and a threshold, and there is just one simple rule: if the sum of a neuron’s inputs is greater than its threshold it fires, sending a temporary input to its partners; otherwise, it stays silent. Even such simple simulations of neurons are capable of producing complex behaviors that can mimic the operation of real nervous systems, to some extent. Computational neuroscientists have also developed highly detailed models of neurons, where a complete 3-d reconstruction of a real neuron is simulated, sometimes even down to the level of individual molecules. Different levels of abstraction allow computational neuroscientists to test ideas about what aspects of neurons are especially important for different functions of the nervous system.</para>
         <para id="para-00019">Many computational neuroscientists explore neural simulations simply to better understand the brain and to generate predictions which can then be tested experimentally. In addition, simulated neural networks have many practical applications. In fact, every time you ask Siri or Google to play some music, a simulated neural network is used to convert your spoken command into a text-based representation of your music choice that can then be played on your smartphone. Artificial neural networks have also become key technologies for processing images (that’s how you can search for ‘cute dogs’ in your photostream) and are at the heart of AI technology like ChatGPT.</para>
-        <para id="para-00020">As computational neuroscientists become even more skilled at simulating neurons, they have begun exploring using their simulations to replace or repair parts of living nervous systems. For example, Rosa Chan at Hong Kong University is one member of a large team of collaborators who have been working to develop a neural prosthetic, a device that could replace or repair a part of the nervous system. In one set of studies, the researchers implanted a rat with electrodes to record some of the inputs and outputs to its hippocampus as it completed a memory task (Berger et al., 2011; Deadwyler et al., 2013). The researchers analyzed how the rat’s real hippocampus works, and used these recordings to fine-tune a simulated hippocampus, tweaking it so that when given the real inputs from the rat their simulation generated similar outputs. This “simulated hippocampus” is diagrammed in the top of <link target-id="Image-2.30"/>.</para>
-        <figure id="Image-2.30"><title>Simulated hippocampus and performance improvements</title>
-          <media alt="Top half: Left: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the prosthetic. Center: Laptop with image of CA3 firing pattern on it. Right: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the hippocampus. Bottom half: Cartoon bar graph of Mean % correct (y-axis) for 3 different groups (control, hippocampus disrupted, hippocampus disrupted, stimulus replacement).">
-            <image mime-type="image/png" src="../../media/Image-2.30_Simulated-hippocampus-and-performance-improvements.png"/>
-          </media>
-          <caption>Image credit: CA3 firing pattern image by Salz, D. M., Tiganj, Z., Khasnabish, S., Kohley, A., Sheehan, D., Howard, M. W., &amp; Eichenbaum, H. (2016). Time cells in hippocampal area CA3. Journal of Neuroscience, 36(28), 7476–7484. https://doi.org/10.1523/jneurosci.0087-16.2016</caption>
-        </figure>
-        <para id="para-00021">To test the simulation, the researchers measured the rat’s ability to complete a memory task that involves the hippocampus (bottom of <link target-id="Image-2.30"/>). Under normal circumstances, the rats performed well (green bar in <link target-id="Image-2.30"/>). Next, the researchers temporarily shut down processing in the real hippocampus by cooling it, an intervention that disrupts activity in the hippocampus but not the inputs coming into it. When this happened, the rat began to fail the memory task (blue bar in <link target-id="Image-2.30"/>), as it no longer had help processing new memories from the hippocampus. Finally, the researchers “replaced” the rat’s hippocampus with the simulation, feeding into it the inputs the real hippocampus should have been receiving and sending the simulation’s outputs back into the rat’s brain. Amazingly, the rat began to succeed at the memory task again (magenta bar in <link target-id="Image-2.30"/>), though not quite with the same accuracy as when its real hippocampus was available. Preliminary testing of this type of system is now underway with humans (Hampson et al., 2018). This incredible achievement takes us back to this foundational idea in computational modeling: the researcher’s ability to simulate a hippocampus shows that they have understood something essential about what the hippocampus actually does. It’s also an inspiring invitation into computational neuroscience: who knows what you could achieve or do by using computers to simulate the incredible power of neurons?</para>
-      </note>
-      <section class="section-summary" id="sect-00004">
-        <title>Summary</title>
-        <para id="para-00022">Communication between neurons allows them to form circuits that can generate complex rhythms and behaviors. In the <emphasis effect="italics">Tritonia</emphasis> swim network, attack from a predator activates sensory neurons as well as inhibitory feedback that generates cycles of contraction and relaxation that “swim” the animal away from danger. This example typifies some of the key properties of neural networks: they are highly efficient, operate in parallel, feature extensive and complex forms of feedback, but are susceptible to malfunction from either too much or too little activity. The field of computational neuroscience explores mathematical models of neurons that can be simulated on a computer; this field is succeeding in producing artificial networks that can mimic many of the remarkable behaviors produced by animal nervous systems.</para>
-      </section>
-      <section class="key-terms" id="sect-00005">
-        <title>Key Terms</title>
-        <list display="inline" id="list-00002">
-          <item>Rhythm</item>
-          <item>Feedback</item>
-          <item>Parallel processing</item>
-          <item>Model</item>
-          <item>Computational neuroscience</item>
-          <item>Simulation</item>
-          <item>Abstraction</item>
-          <item>Neural prosthetic</item>
-        </list>
-      </section>
-      <section class="references" id="sect-00006">
-        <title>References</title>
-        <para id="para-00023">Balasubramanian, V. (2021.) Brain power. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">118</emphasis>(32), e2107022118. https://doi.org/10.1073/pnas.2107022118</para>
-        
-        <para id="para-00024">Berger, T.W., Hampson, R.E., Song, D., Goonawardena, A., Marmarelis, V.Z., &amp; Deadwyler, S.A. (2011). A cortical neural prosthesis for restoring and enhancing memory. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">8</emphasis>(4), 046017. https://doi.org/10.1088/1741-2560/8/4/046017</para>
-        
-        <para id="para-00025">Berger, T.W., Song, D., Chan, R.H.M., Marmarelis, V.Z., LaCoss, J., Wills, J., Hampson, R.E., Deadwyler, S.A., &amp; Granacki, J.J. (2012). A hippocampal cognitive prosthesis: Multi-input, multi-output nonlinear modeling and VLSI implementation. <emphasis effect="italics">IEEE Transactions on Neural Systems and Rehabilitation Engineering</emphasis>, <emphasis effect="italics">20</emphasis>(2), 198–211. https://doi.org/10.1109/TNSRE.2012.2189133</para>
-        
-        <para id="para-00026">Brown, G.D. (1998). Nonassociative learning processes affecting swimming probability in the seaslug Tritonia diomedea: habituation, sensitization and inhibition. <emphasis effect="italics">Behavioural Brain Research</emphasis>, <emphasis effect="italics">95</emphasis>(2), 151–165. https://doi.org/10.1016/S0166-4328(98)00072-2</para>
-        
-        <para id="para-00027">Calin-Jageman, R.J., Tunstall, M.J., Mensh, B.D., Katz, P.S., &amp; Frost, W.N. (2007). Parameter space analysis suggests multi-site plasticity contributes to motor pattern initiation in Tritonia. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">98</emphasis>(4), 2382–2398. https://doi.org/10.1152/jn.00572.2007</para>
-        
-        <para id="para-00028">Deadwyler, S.A., Berger, T.W., Sweatt, A.J., Song, D., Chan, R.H.M., Opris, I., Gerhardt, G.A., Marmarelis, V.Z., &amp; Hampson, R.E. (2013). Donor/recipient enhancement of memory in rat hippocampus. <emphasis effect="italics">Frontiers in Systems Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>. https://doi.org/10.3389/fnsys.2013.00120</para>
-        
-        <para id="para-00029">Getting, P.A. (1983). Mechanisms of pattern generation underlying swimming in Tritonia. II. Network reconstruction. <emphasis effect="italics">Journal of Neurophysiology,</emphasis>, <emphasis effect="italics">49</emphasis>(4), 1017–1035. https://doi.org/10.1152/jn.1983.49.4.1017</para>
-        
-        <para id="para-00030">Hampson, R.E., Song, D., Robinson, B.S., Fetterhoff, D., Dakos, A.S., Roeder, B.M., She, X., Wicks, R.T., Witcher, M.R., Couture, D.E., Laxton, A.W., Munger-Clary, H., Popli, G., Sollman, M.J., Whitlow, C.T., Marmarelis, V.Z., Berger, T.W., &amp; Deadwyler, S.A. (2018). Developing a hippocampal neural prosthetic to facilitate human memory encoding and recall. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">15</emphasis>(3), 036014. https://doi.org/10.1088/1741-2552/aaaed7</para>
-        
-        <para id="para-00031">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics"> 109</emphasis>(Supplement 1), 10661–10668. https://doi.org/10.1073/pnas.1201895109</para>
-        
-        <para id="para-00032">Hoppe, T. (1998). <emphasis effect="italics">An evaluation of the role of synaptic depression at afferent synapses in habituation of the escape swim response of Tritonia diomedea</emphasis>. Master's thesis,The University of Texas Health Science Center at Houston.
-        </para>
-        
-        <para id="para-00033">Katz, P.S., &amp; Frost, W.N. (1997). Removal of spike frequency adaptation via neuromodulation intrinsic to the Tritonia escape swim central pattern generator. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">17</emphasis>,(20), 7703–7713. https://doi.org/10.1523/jneurosci.17-20-07703.1997</para>
-       
-        <para id="para-00034">Willows, A.O.D., &amp; Hoyle, G. (1969). Neuronal network triggering a fixed action pattern. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">166</emphasis>(3912), 1549–1551. https://doi.org/10.1126/science.166.3912.1549</para>
-      </section>
-      <section class="multiple-choice" id="sect-00007">
-        <title>Multiple Choice</title>
-        <exercise id="exer-00001">
-          <problem id="prob-00001">
-            <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-02-02-001"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00002">
-          <problem id="prob-00002">
-            <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-02-02-002"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00003">
-          <problem id="prob-00003">
-            <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-02-02-003"/></para>
-          </problem>
-        </exercise>
-        <exercise id="exer-00004">
-          <problem id="prob-00004">
-            <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-02-02-004"/></para>
-          </problem>
-        </exercise>
-      </section>
-      <section class="fillin-blank" id="sect-00008">
-        <title>Fill in the Blank</title>
-        <exercise id="exer-00005">
-          <problem id="prob-00005">
-            <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-02-02-005"/></para>
-          </problem>
-        </exercise>      </section>
+        <para id="para-00020">As computational neuroscientists become even more skilled at simulating neurons, they have begun exploring using their simulations to replace or repair parts of living nervous systems. For example, Rosa Chan at Hong Kong University is one member of a large team of collaborators who have been working to develop a neural prosthetic, a device that could replace or repair a part of the nervous system. In one set of studies, the researchers implanted a rat with electrodes to record some of the inputs and outputs to its hippocampus as it completed a memory task (Berger et al., 2011; Deadwyler et al., 2013). The researchers analyzed how the rat’s real hippocampus works, and used these recordings to fine-tune a simulated hippocampus, tweaking it so that when given the real inputs from the rat their simulation generated similar outputs. This “simulated hippocampus” is diagrammed in the top of <link target-id="Image-2.30" />.</para>
+        <figure id="Image-2.30">
+        <title>Simulated hippocampus and performance improvements</title>
+        <media alt="Top half: Left: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the prosthetic. Center: Laptop with image of CA3 firing pattern on it. Right: Diagram of a rodent hippocampus with a neural prosthetic inserted; arrows show information going into the hippocampus. Bottom half: Cartoon bar graph of Mean % correct (y-axis) for 3 different groups (control, hippocampus disrupted, hippocampus disrupted, stimulus replacement).">
+          <image mime-type="image/png" src="../../media/Image-2.30_Simulated-hippocampus-and-performance-improvements.png" />
+        </media>
+        <caption>Image credit: CA3 firing pattern image by Salz, D. M., Tiganj, Z., Khasnabish, S., Kohley, A., Sheehan, D., Howard, M. W., &amp; Eichenbaum, H. (2016). Time cells in hippocampal area CA3. Journal of Neuroscience, 36(28), 7476–7484. https://doi.org/10.1523/jneurosci.0087-16.2016</caption>
+      </figure>
+        <para id="para-00021">To test the simulation, the researchers measured the rat’s ability to complete a memory task that involves the hippocampus (bottom of <link target-id="Image-2.30" />). Under normal circumstances, the rats performed well (green bar in <link target-id="Image-2.30" />). Next, the researchers temporarily shut down processing in the real hippocampus by cooling it, an intervention that disrupts activity in the hippocampus but not the inputs coming into it. When this happened, the rat began to fail the memory task (blue bar in <link target-id="Image-2.30" />), as it no longer had help processing new memories from the hippocampus. Finally, the researchers “replaced” the rat’s hippocampus with the simulation, feeding into it the inputs the real hippocampus should have been receiving and sending the simulation’s outputs back into the rat’s brain. Amazingly, the rat began to succeed at the memory task again (magenta bar in <link target-id="Image-2.30" />), though not quite with the same accuracy as when its real hippocampus was available. Preliminary testing of this type of system is now underway with humans (Hampson et al., 2018). This incredible achievement takes us back to this foundational idea in computational modeling: the researcher’s ability to simulate a hippocampus shows that they have understood something essential about what the hippocampus actually does. It’s also an inspiring invitation into computational neuroscience: who knows what you could achieve or do by using computers to simulate the incredible power of neurons?</para>
+    </note>
+    <section class="section-summary" id="sect-00004">
+      <title>Summary</title>
+      <para id="para-00022">Communication between neurons allows them to form circuits that can generate complex rhythms and behaviors. In the <emphasis effect="italics">Tritonia</emphasis> swim network, attack from a predator activates sensory neurons as well as inhibitory feedback that generates cycles of contraction and relaxation that “swim” the animal away from danger. This example typifies some of the key properties of neural networks: they are highly efficient, operate in parallel, feature extensive and complex forms of feedback, but are susceptible to malfunction from either too much or too little activity. The field of computational neuroscience explores mathematical models of neurons that can be simulated on a computer; this field is succeeding in producing artificial networks that can mimic many of the remarkable behaviors produced by animal nervous systems.</para>
+    </section>
+    <section class="key-terms" id="sect-00005">
+      <title>Key Terms</title>
+      <list display="inline" id="list-00002">
+        <item>Rhythm</item>
+        <item>Feedback</item>
+        <item>Parallel processing</item>
+        <item>Model</item>
+        <item>Computational neuroscience</item>
+        <item>Simulation</item>
+        <item>Abstraction</item>
+        <item>Neural prosthetic</item>
+      </list>
+    </section>
+    <section class="references" id="sect-00006">
+      <title>References</title>
+      <para id="para-00023">Balasubramanian, V. (2021.) Brain power. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">118</emphasis>(32), e2107022118. https://doi.org/10.1073/pnas.2107022118</para>
+
+      <para id="para-00024">Berger, T.W., Hampson, R.E., Song, D., Goonawardena, A., Marmarelis, V.Z., &amp; Deadwyler, S.A. (2011). A cortical neural prosthesis for restoring and enhancing memory. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">8</emphasis>(4), 046017. https://doi.org/10.1088/1741-2560/8/4/046017</para>
+
+      <para id="para-00025">Berger, T.W., Song, D., Chan, R.H.M., Marmarelis, V.Z., LaCoss, J., Wills, J., Hampson, R.E., Deadwyler, S.A., &amp; Granacki, J.J. (2012). A hippocampal cognitive prosthesis: Multi-input, multi-output nonlinear modeling and VLSI implementation. <emphasis effect="italics">IEEE Transactions on Neural Systems and Rehabilitation Engineering</emphasis>, <emphasis effect="italics">20</emphasis>(2), 198–211. https://doi.org/10.1109/TNSRE.2012.2189133</para>
+
+      <para id="para-00026">Brown, G.D. (1998). Nonassociative learning processes affecting swimming probability in the seaslug Tritonia diomedea: habituation, sensitization and inhibition. <emphasis effect="italics">Behavioural Brain Research</emphasis>, <emphasis effect="italics">95</emphasis>(2), 151–165. https://doi.org/10.1016/S0166-4328(98)00072-2</para>
+
+      <para id="para-00027">Calin-Jageman, R.J., Tunstall, M.J., Mensh, B.D., Katz, P.S., &amp; Frost, W.N. (2007). Parameter space analysis suggests multi-site plasticity contributes to motor pattern initiation in Tritonia. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">98</emphasis>(4), 2382–2398. https://doi.org/10.1152/jn.00572.2007</para>
+
+      <para id="para-00028">Deadwyler, S.A., Berger, T.W., Sweatt, A.J., Song, D., Chan, R.H.M., Opris, I., Gerhardt, G.A., Marmarelis, V.Z., &amp; Hampson, R.E. (2013). Donor/recipient enhancement of memory in rat hippocampus. <emphasis effect="italics">Frontiers in Systems Neuroscience</emphasis>, <emphasis effect="italics">7</emphasis>. https://doi.org/10.3389/fnsys.2013.00120</para>
+
+      <para id="para-00029">Getting, P.A. (1983). Mechanisms of pattern generation underlying swimming in Tritonia. II. Network reconstruction. <emphasis effect="italics">Journal of Neurophysiology,</emphasis>, <emphasis effect="italics">49</emphasis>(4), 1017–1035. https://doi.org/10.1152/jn.1983.49.4.1017</para>
+
+      <para id="para-00030">Hampson, R.E., Song, D., Robinson, B.S., Fetterhoff, D., Dakos, A.S., Roeder, B.M., She, X., Wicks, R.T., Witcher, M.R., Couture, D.E., Laxton, A.W., Munger-Clary, H., Popli, G., Sollman, M.J., Whitlow, C.T., Marmarelis, V.Z., Berger, T.W., &amp; Deadwyler, S.A. (2018). Developing a hippocampal neural prosthetic to facilitate human memory encoding and recall. <emphasis effect="italics">Journal of Neural Engineering</emphasis>, <emphasis effect="italics">15</emphasis>(3), 036014. https://doi.org/10.1088/1741-2552/aaaed7</para>
+
+      <para id="para-00031">Herculano-Houzel, S. (2012). The remarkable, yet not extraordinary, human brain as a scaled-up primate brain and its associated cost. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics"> 109</emphasis>(Supplement 1), 10661–10668. https://doi.org/10.1073/pnas.1201895109</para>
+
+      <para id="para-00032">Hoppe, T. (1998). <emphasis effect="italics">An evaluation of the role of synaptic depression at afferent synapses in habituation of the escape swim response of Tritonia diomedea</emphasis>. Master's thesis,The University of Texas Health Science Center at Houston. </para>
+
+      <para id="para-00033">Katz, P.S., &amp; Frost, W.N. (1997). Removal of spike frequency adaptation via neuromodulation intrinsic to the Tritonia escape swim central pattern generator. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">17</emphasis>,(20), 7703–7713. https://doi.org/10.1523/jneurosci.17-20-07703.1997</para>
+
+      <para id="para-00034">Willows, A.O.D., &amp; Hoyle, G. (1969). Neuronal network triggering a fixed action pattern. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">166</emphasis>(3912), 1549–1551. https://doi.org/10.1126/science.166.3912.1549</para>
+    </section>
+    <section class="multiple-choice" id="sect-00007">
+      <title>Multiple Choice</title>
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00035"><link class="os-embed" url="#exercise/Neuro-02-02-001" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-02-02-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-02-02-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-02-02-004" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00008">
+      <title>Fill in the Blank</title>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-02-02-005" /></para>
+        </problem>
+      </exercise>
+    </section>
   </content>
 </document>

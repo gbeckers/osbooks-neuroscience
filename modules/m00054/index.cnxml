@@ -8,30 +8,32 @@
   <content class="introduction">
     <figure class="splash" id="fig-00001">
       <media alt="Neurons in the hypothalamus are visible in a micrograph that appears mostly dark blue. Some, AgRP neurons, concentrated toward the bottom of the tube shape in the frame, are highlighted in red.">
-        <image mime-type="image/jpg" src="../../media/ch16-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch16-splash.jpg" />
       </media>
       <caption>AgRP neurons (red) in the hypothalamus that regulate the motivation to eat. Image credit Matthew Carter, CC BY-NC-SA 4.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Matt Carter, Ph.D.</title>
       <para id="para-00001"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro16Author"/>
-</media></para>
-    </note><para id="para-00002">How long can you hold your breath? Most people can comfortably hold their breath for about 30-60 seconds. Trained athletes and people who regularly regulate their breathing (for example, musicians who sing or play wind instruments) can hold their breath for several minutes. The world record for holding the breath is over 20 minutes!</para>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro16Author" />
+        </media></para>
+    </note>
+    <para id="para-00002">How long can you hold your breath? Most people can comfortably hold their breath for about 30-60 seconds. Trained athletes and people who regularly regulate their breathing (for example, musicians who sing or play wind instruments) can hold their breath for several minutes. The world record for holding the breath is over 20 minutes!</para>
 
     <para id="para-00003">No matter how long you can hold your breath, at some point, everyone feels the overwhelming compulsion to finally breathe in and out. Because all living cells require a steady source of oxygen, animals must constantly measure and maintain optimal internal oxygenation levels to survive. In response to a low oxygenation state, animals engage in response mechanisms to correct for the deficiency—in this case, taking in a deep breath of air.</para>
-    
+
     <para id="para-00004">Indeed, to survive and flourish, all animals must maintain optimal levels of many life-sustaining factors. In addition to oxygen, animals thrive within an optimal temperature range such that they are not too hot or cold. Animals must ingest an optimal amount of calories from food to provide for their daily metabolic energy needs. Animals must also regularly ingest an optimal amount of water to keep their cells and tissues properly hydrated. Failure to obtain appropriate levels of these factors can lead to unhealthy or even lethal outcomes.</para>
-    
-    <para id="para-00005"><term id="term-00001">Homeostasis</term> (from the Greek roots <emphasis effect="italics">homeo</emphasis>, meaning “similar,” and <emphasis effect="italics">stasis</emphasis>, meaning “stable”) is the maintenance of a stable internal environment. To maintain an optimal range of oxygen, temperature, calories, and water, the nervous system must sense the internal environment and ultimately influence physiology and behavior to motivate an animal to take a breath, to move to a warmer/cooler environment, to eat a meal, or to take a drink of water (<link target-id="Image-16.01"/>). Our sensations of being hot/cold, hungry/full, and thirsty/satiated are all manifestations of our central homeostatic systems attempting to keep us alive.</para>
-    <figure id="Image-16.01"><title>Homeostasis</title>
+
+    <para id="para-00005"><term id="term-00001">Homeostasis</term> (from the Greek roots <emphasis effect="italics">homeo</emphasis>, meaning “similar,” and <emphasis effect="italics">stasis</emphasis>, meaning “stable”) is the maintenance of a stable internal environment. To maintain an optimal range of oxygen, temperature, calories, and water, the nervous system must sense the internal environment and ultimately influence physiology and behavior to motivate an animal to take a breath, to move to a warmer/cooler environment, to eat a meal, or to take a drink of water (<link target-id="Image-16.01" />). Our sensations of being hot/cold, hungry/full, and thirsty/satiated are all manifestations of our central homeostatic systems attempting to keep us alive.</para>
+    <figure id="Image-16.01">
+      <title>Homeostasis</title>
       <media alt="mage of human torso with text “Homeostasis is the maintenance of a stable environment for factors necessary for survival” Icons to present balance in blood oxygen levels, body temperature, caloric intake and fluid intake are shown.">
-        <image mime-type="image/png" src="../../media/Image-16.01_Homeostasis.png"/>
+        <image mime-type="image/png" src="../../media/Image-16.01_Homeostasis.png" />
       </media>
     </figure>
-    
+
     <para id="para-00006">The purpose of this chapter is to describe the neurobiology of homeostasis. First, we will discuss fundamental principles of homeostasis and the general mechanisms by which the nervous system measures and maintains internal states. Then, we will survey the mechanisms by which the nervous system maintains homeostasis for oxygen, temperature, calories, and water. Some behaviors, not described in this chapter, are also homeostatically regulated. For example, sleep (see <link document="m00094">Biological Rhythms and Sleep</link>) is a behavior under homeostatic control–the more an animal is sleep deprived, the more the nervous system increases the drive to sleep to make up for the deficiency. In some animals, social behavior is thought to be homeostatic, as isolation from peers for too long produces a stronger desire to engage with others.</para>
-    
+
     <para id="para-00007">In addition to the systems described in this chapter, there are other mammalian homeostatic systems that are not regulated by the nervous system. Instead, these systems are predominantly regulated by endocrine glands throughout the body that release hormones to cause physiological effects. For example, the amount of sugar in the blood (glucose homeostasis) is regulated by the release of the hormones insulin and glucagon from the pancreas. Details on these homeostatic mechanisms can be found elsewhere–for this chapter, we will focus on homeostatic systems regulated by the nervous system.</para>
-      </content>
+  </content>
 </document>

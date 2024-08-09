@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml"  class="introduction">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Introduction</md:title>
@@ -8,17 +8,17 @@
   <content class="introduction">
     <figure class="splash" id="splosh">
       <media alt="MRIs of adult brain highlighting regions associated with emotion and motivation (amygdala, hippocampus, rostral ACC, OFC) and higher order functions such as working memory and attention (basal ganglia, DLPFC, dorsal ACC, cerebellum). These are brain regions where functional and structural changes are prominent as a result of mistreatment.">
-        <image mime-type="image/jpg" src="../../media/ch05-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch05-splash.jpg" />
       </media>
       <caption> Brain MRI highlighting the brain regions where functional and structural changes are prominent as a result of mistreatment. The pink areas are regions that mediate emotion and motivation. Blue areas support higher order functions such as working memory and attention. Image credit: Hart H and Rubia K (2012) Neuroimaging of child abuse: a critical review. Front. Hum. Neurosci. 6:52. doi: 10.3389/fnhum.2012.00052. CC BY 4.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
-    <title>Briana E. Pinales, Victoria L. Castro PhD, and Anita M. Quintana PhD</title>
+      <title>Briana E. Pinales, Victoria L. Castro PhD, and Anita M. Quintana PhD</title>
     <para id="para-00002"><media alt="atoms_isotopes">
-<iframe width="660" height="371.4" src="https://openstax.org/r/Neuro5Author"/>
-</media></para>
-  </note>
-  <para id="para-00001">Our nervous system is the body’s command center. It is a well-tuned communication system that transmits signals at the speed of 220 miles/hour to coordinate the body’s organs, movements, and sensations. The nervous system connects our 12 body systems and uses a central processing unit, the brain, to coordinate the proper function of the entire human body. The brain has a unique architecture that is partitioned into different regions, totaling billions of neurons, that if put end to end, would total 37 miles. But how does such a complex system emerge? Will an understanding of how the nervous system is built aid in our ability to treat common and rare brain disorders?</para>
-  <para id="para-00003">In this chapter, we will learn about the early formation of the central nervous system (CNS). We will discuss cell-to-cell communication and movements that ultimately produce an intricate structure with region-specific functions. These structures continue to develop postnatally and are highly influenced by environmental factors/experience, ultimately shaping how we interact with and perceive the world. Throughout the chapter we will provide examples, using clinical case studies and disease discussions, to understand the critical importance of genetics and environment in shaping normal brain development.</para>
+          <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro5Author" />
+        </media></para>
+    </note>
+    <para id="para-00001">Our nervous system is the body’s command center. It is a well-tuned communication system that transmits signals at the speed of 220 miles/hour to coordinate the body’s organs, movements, and sensations. The nervous system connects our 12 body systems and uses a central processing unit, the brain, to coordinate the proper function of the entire human body. The brain has a unique architecture that is partitioned into different regions, totaling billions of neurons, that if put end to end, would total 37 miles. But how does such a complex system emerge? Will an understanding of how the nervous system is built aid in our ability to treat common and rare brain disorders?</para>
+    <para id="para-00003">In this chapter, we will learn about the early formation of the central nervous system (CNS). We will discuss cell-to-cell communication and movements that ultimately produce an intricate structure with region-specific functions. These structures continue to develop postnatally and are highly influenced by environmental factors/experience, ultimately shaping how we interact with and perceive the world. Throughout the chapter we will provide examples, using clinical case studies and disease discussions, to understand the critical importance of genetics and environment in shaping normal brain development.</para>
   </content>
 </document>

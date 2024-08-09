@@ -10,313 +10,79 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
-        <item>Provide an overview of what is currently known regarding the etiology of mood
-          disorders.</item>
+        <item>Provide an overview of what is currently known regarding the etiology of mood disorders.</item>
         <item>Delineate the distinct and overlapping neural circuits underlying depression.</item>
-        <item>Understand the origin of current therapeutic approaches for treating the symptoms
-          underlying depression.</item>
+        <item>Understand the origin of current therapeutic approaches for treating the symptoms underlying depression.</item>
       </list>
     </section>
-    <para id="para-00002">We have learned the critical roles of the amygdala, hypothalamus, insula,
-      anterior cingulate and prefrontal cortex in the regulation of emotions. Disorders of emotion
-      are so difficult to treat because malfunctions within any of these structures, or more
-      commonly between their interconnections, can lead to severe disturbances in behavior. Many of
-      the symptoms of mood disorders involving anxiety or depression include severe changes in the
-      appetitive and agonistic behaviors that are governed by the hypothalamus. Hypothalamic
-      functioning is regulated through strong projections from the amygdala. Hypoactivity in these
-      inputs lead to the characteristic symptoms associated with depression that are described in
-      detail in the <term id="term-00001">Diagnostic and Statistical Manual of Mental Disorders</term>
-      (DSM). The DSM is the handbook psychologists and psychiatrists use to develop diagnoses of
-      patients with mental disorders. Symptoms of depression are manifested by reduced appetite, sex
-      drive, motivation, sleep disturbances and sympathetic autonomic activity. Disruptions in these
-      agonistic behaviors is accompanied by more higher-level disturbances in cognitive functioning
-      leading to increased worrying, obsessive anxiety, sadness, hopelessness, irritability and
-      withdrawal from social forms of engagement. Cortical areas in the Papez circuit add a layer of
-      higher cognitive subjective evaluation of how we think and feel about our environment.
-      Disturbances in this circuitry may constrain the amygdala and hypothalamus to improperly
-      regulate agonistic and appetitive behaviors that are targets of emotional disorders. One
-      variable that distinguishes mental disorders of depression or anxiety from the natural changes
-      in fear or sadness routinely experienced by all is the actual duration the emotional
-      disturbances persist within an individual. For example, a diagnosis of depression in the DSM
-      includes each of the above disturbances in body and thinking that extends consistently beyond
-      a period of two-weeks. This section will explore our emerging understanding of the neural
-      circuitry of depression.</para>
+    <para id="para-00002">We have learned the critical roles of the amygdala, hypothalamus, insula, anterior cingulate and prefrontal cortex in the regulation of emotions. Disorders of emotion are so difficult to treat because malfunctions within any of these structures, or more commonly between their interconnections, can lead to severe disturbances in behavior. Many of the symptoms of mood disorders involving anxiety or depression include severe changes in the appetitive and agonistic behaviors that are governed by the hypothalamus. Hypothalamic functioning is regulated through strong projections from the amygdala. Hypoactivity in these inputs lead to the characteristic symptoms associated with depression that are described in detail in the <term id="term-00001">Diagnostic and Statistical Manual of Mental Disorders</term> (DSM). The DSM is the handbook psychologists and psychiatrists use to develop diagnoses of patients with mental disorders. Symptoms of depression are manifested by reduced appetite, sex drive, motivation, sleep disturbances and sympathetic autonomic activity. Disruptions in these agonistic behaviors is accompanied by more higher-level disturbances in cognitive functioning leading to increased worrying, obsessive anxiety, sadness, hopelessness, irritability and withdrawal from social forms of engagement. Cortical areas in the Papez circuit add a layer of higher cognitive subjective evaluation of how we think and feel about our environment. Disturbances in this circuitry may constrain the amygdala and hypothalamus to improperly regulate agonistic and appetitive behaviors that are targets of emotional disorders. One variable that distinguishes mental disorders of depression or anxiety from the natural changes in fear or sadness routinely experienced by all is the actual duration the emotional disturbances persist within an individual. For example, a diagnosis of depression in the DSM includes each of the above disturbances in body and thinking that extends consistently beyond a period of two-weeks. This section will explore our emerging understanding of the neural circuitry of depression.</para>
     <section id="sect-00002">
       <title>Neurochemical imbalances as a cause of depression</title>
-      <para id="para-00003">The internal psychological and physiological changes associated with
-        this disease may develop from either extreme reaction to unfortunate environmental events or
-        may be endogenous or internal in nature. Some environmental events producing depression
-        include loneliness, traumatic experiences, grief, romantic rejection, long-term stress, or
-        loss of status or hierarchy from unemployment. The endogenous contributors to depression
-        involve identifiable chemical imbalances in the neural circuits that regulate the
-        neurotransmitters, norepinephrine, serotonin or glutamate.</para>
-      <para id="para-00004">One of the first clues prompting scientists to examine the role of
-        neurotransmitters in depression originated from observations of patients in Sea View
-        Hospital on Staten Island, New York in the 1950’s (reviewed in López-Muñoz, Alamo, Juckel,
-        &amp; Assion, 2007). These patients were forced into the sanitorium after being diagnosed
-        with the very contagious and fatal disease of tuberculosis. You can imagine how patients
-        would develop extreme depression based on the severity of this disease, isolation from
-        family and friends due to forced confinement and loss of employment and careers while being
-        sanctioned to a sanitorium. The patients were treated with the drug <term id="term-00002">
-        iproniazid</term> because of its potent effects on the respiratory system and capacity to
-        increase activity in the central nervous system. These actions are produced by preventing
-        enzymatic breakdown of the neurotransmitter norepinephrine by inhibiting the enzyme <term id="term-00003">monoamine oxidase (MAO)</term>. The MAO enzyme plays a role in destroying
-        the residual <term id="term-00004">norepinephrine</term> that is taken back up into the cell
-        after it is released in the synaptic cleft following an action potential. Inhibiting MAO
-        results in elevated levels of norepinephrine that serves as a potent transmitter in
-        activating the amygdala, hypothalamus, hippocampus and several other arousal related
-        structures in the Papez circuit. Surprisingly, patients treated with the MAO inhibitor
-        iproniazid were described as dancing in the halls, in a constant “party mood”, and
-        frequently euphoric despite having holes in their lungs from tuberculosis and no hope of a
-        cure from this fatal disease. This effective mood improving drug was soon discontinued
-        because of its toxic effects on the liver and a search for new classes of antidepressants
-        began.</para>
-      <para id="para-00005">A greater understanding of iproniazid’s effectiveness prompted
-        investigations to study a new class of MAO inhibiting drugs known as <term id="term-00005">tricyclic
-        antidepressants</term>. In the 1950’s and 60’s, clinical signs of depression were
-        experimentally reproduced in the lab by injecting the drug reserpine in monkeys and rabbits
-        (Sandler, 1990). Reserpine treatment destroys norepinephrine molecules within the synaptic
-        vesicles of axons. Administration of the tricyclic antidepressant <term id="term-00006">
-        imipramine</term> was very effective in reversing the depression produced by reserpine
-        treatment and restoring the animals to a sense of well-being. Later investigations revealed
-        that MAO inhibition also elevated brain concentrations of the neurotransmitter serotonin,
-        and this finding is the basis for the discovery of a class of drugs known as <term id="term-00007">selective serotonin reuptake inhibitors</term> (SSRI).</para>
-      <para id="para-00006">SSRIs work by blocking the reuptake of serotonin at serotonergic
-        synapses (<link target-id="Image-13.38"/>) (see <link document="m00049">Psychopharmacology</link>).
-        This blockade allows serotonin to build up in the synapse and therefore increase activation
-        of postsynaptic receptors.</para>
+      <para id="para-00003">The internal psychological and physiological changes associated with this disease may develop from either extreme reaction to unfortunate environmental events or may be endogenous or internal in nature. Some environmental events producing depression include loneliness, traumatic experiences, grief, romantic rejection, long-term stress, or loss of status or hierarchy from unemployment. The endogenous contributors to depression involve identifiable chemical imbalances in the neural circuits that regulate the neurotransmitters, norepinephrine, serotonin or glutamate.</para>
+      <para id="para-00004">One of the first clues prompting scientists to examine the role of neurotransmitters in depression originated from observations of patients in Sea View Hospital on Staten Island, New York in the 1950’s (reviewed in López-Muñoz, Alamo, Juckel, &amp; Assion, 2007). These patients were forced into the sanitorium after being diagnosed with the very contagious and fatal disease of tuberculosis. You can imagine how patients would develop extreme depression based on the severity of this disease, isolation from family and friends due to forced confinement and loss of employment and careers while being sanctioned to a sanitorium. The patients were treated with the drug <term id="term-00002"> iproniazid</term> because of its potent effects on the respiratory system and capacity to increase activity in the central nervous system. These actions are produced by preventing enzymatic breakdown of the neurotransmitter norepinephrine by inhibiting the enzyme <term id="term-00003">monoamine oxidase (MAO)</term>. The MAO enzyme plays a role in destroying the residual <term id="term-00004">norepinephrine</term> that is taken back up into the cell after it is released in the synaptic cleft following an action potential. Inhibiting MAO results in elevated levels of norepinephrine that serves as a potent transmitter in activating the amygdala, hypothalamus, hippocampus and several other arousal related structures in the Papez circuit. Surprisingly, patients treated with the MAO inhibitor iproniazid were described as dancing in the halls, in a constant “party mood”, and frequently euphoric despite having holes in their lungs from tuberculosis and no hope of a cure from this fatal disease. This effective mood improving drug was soon discontinued because of its toxic effects on the liver and a search for new classes of antidepressants began.</para>
+      <para id="para-00005">A greater understanding of iproniazid’s effectiveness prompted investigations to study a new class of MAO inhibiting drugs known as <term id="term-00005">tricyclic antidepressants</term>. In the 1950’s and 60’s, clinical signs of depression were experimentally reproduced in the lab by injecting the drug reserpine in monkeys and rabbits (Sandler, 1990). Reserpine treatment destroys norepinephrine molecules within the synaptic vesicles of axons. Administration of the tricyclic antidepressant <term id="term-00006"> imipramine</term> was very effective in reversing the depression produced by reserpine treatment and restoring the animals to a sense of well-being. Later investigations revealed that MAO inhibition also elevated brain concentrations of the neurotransmitter serotonin, and this finding is the basis for the discovery of a class of drugs known as <term id="term-00007">selective serotonin reuptake inhibitors</term> (SSRI).</para>
+      <para id="para-00006">SSRIs work by blocking the reuptake of serotonin at serotonergic synapses (<link target-id="Image-13.38" />) (see <link document="m00049">Psychopharmacology</link>). This blockade allows serotonin to build up in the synapse and therefore increase activation of postsynaptic receptors.</para>
       <figure id="Image-13.38">
         <title>SSRI mechanism</title>
         <media alt="Diagram of a presynaptic terminal. Left shows normal function (neurotransmitter released and binds to g-protein coupled receptors on postsynaptic cell; being re-uptaken by presynaptic cell). Right shows a SSRI blocking the reuptake pump. Neurotransmitter builds up in the synaptic cleft.">
-          <image mime-type="image/png" src="../../media/Image-13.38_SSRI-mechanism.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.38_SSRI-mechanism.png" />
         </media>
       </figure>
-      <para id="para-00007">The most commonly known SSRI is Prozac, although other compounds in this
-        class such as Paxil and Zoloft are just as effective in alleviating symptoms of depression.
-        All of these SSRIs elevate serotonin in the brain without any direct actions on
-        norepinephrine.</para>
-      <para id="para-00008">Restoring deficiencies in brain concentrations of norepinephrine and
-        serotonin does alleviate depressive symptoms, but these changes alone are not the only
-        culprits contributing to this disruptive mood disorder. As a reminder from <link document="m00027">Basic Neurochemistry</link>, serotonergic and norepinephrine axons
-        originate primarily in discrete brainstem nuclei (the raphe nucleus and locus coeruleus) (<link target-id="Image-13.37"/>). They send their axons broadly throughout the brain, releasing
-        neurotransmitter in many brain regions of the Papez circuit and in the prefrontal structures
-        that can regulate the Papez circuit.</para>
+      <para id="para-00007">The most commonly known SSRI is Prozac, although other compounds in this class such as Paxil and Zoloft are just as effective in alleviating symptoms of depression. All of these SSRIs elevate serotonin in the brain without any direct actions on norepinephrine.</para>
+      <para id="para-00008">Restoring deficiencies in brain concentrations of norepinephrine and serotonin does alleviate depressive symptoms, but these changes alone are not the only culprits contributing to this disruptive mood disorder. As a reminder from <link document="m00027">Basic Neurochemistry</link>, serotonergic and norepinephrine axons originate primarily in discrete brainstem nuclei (the raphe nucleus and locus coeruleus) (<link target-id="Image-13.37" />). They send their axons broadly throughout the brain, releasing neurotransmitter in many brain regions of the Papez circuit and in the prefrontal structures that can regulate the Papez circuit.</para>
       <figure id="Image-13.37">
         <title>Serotonergic and norepinephrine systems</title>
         <media alt="Diagrams of brains showing source and projections of serotonin neurons of the raphe nuclei and norepinephrine neurons of the locus coeruleus.">
-          <image mime-type="image/png" src="../../media/Image-13.37_Serotonergic-and-norepinephrine-systems.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.37_Serotonergic-and-norepinephrine-systems.png" />
         </media>
       </figure>
-      <para id="para-00009">Neurotransmitters play a special role in facilitating or inhibiting
-        neural communication between brain structures, therefore a closer examination of <emphasis effect="italics">where</emphasis> these restorative changes take place will increase our
-        understanding of the etiology of depression. To better understand the brain regions
-        contributing to depression, we next turn to evidence for the role of the prefrontal cortex
-        in onset and relief of depression.</para>
+      <para id="para-00009">Neurotransmitters play a special role in facilitating or inhibiting neural communication between brain structures, therefore a closer examination of <emphasis effect="italics">where</emphasis> these restorative changes take place will increase our understanding of the etiology of depression. To better understand the brain regions contributing to depression, we next turn to evidence for the role of the prefrontal cortex in onset and relief of depression.</para>
     </section>
     <section id="sect-00003">
       <title>Prefrontal cortical dysfunction as a cause of depression</title>
-      <para id="para-00010">Michael Koenigs at the University of Wisconsin reported on two unusual
-        case studies that provided answers to the potential sources of depression within
-        emotion-related brain structures comprising the Papez circuit. The two separate case studies
-        involved a woman and man who attempted suicide by self-inflicted wounds to the brain by a
-        gunshot (Koenigs, Huey, Calamia, Raymont, Tranel, &amp; Grafman, 2008) and a cross-bow,
-        respectively (Ellenbogen, Hurford, Liebeskind, Neimark, &amp; Weiss, 2005). Both attempts at
-        suicide were unsuccessful and the patients recovered. In both patients, the wounds produced
-        profound damage to the ventromedial prefrontal cortex (which includes the orbitofrontal
-        cortex) in both hemispheres (see red circles in <link target-id="Image-13.29"/> for the
-        location of the gunshot wound) but spared the dorsolateral prefrontal cortex.</para>
+      <para id="para-00010">Michael Koenigs at the University of Wisconsin reported on two unusual case studies that provided answers to the potential sources of depression within emotion-related brain structures comprising the Papez circuit. The two separate case studies involved a woman and man who attempted suicide by self-inflicted wounds to the brain by a gunshot (Koenigs, Huey, Calamia, Raymont, Tranel, &amp; Grafman, 2008) and a cross-bow, respectively (Ellenbogen, Hurford, Liebeskind, Neimark, &amp; Weiss, 2005). Both attempts at suicide were unsuccessful and the patients recovered. In both patients, the wounds produced profound damage to the ventromedial prefrontal cortex (which includes the orbitofrontal cortex) in both hemispheres (see red circles in <link target-id="Image-13.29" /> for the location of the gunshot wound) but spared the dorsolateral prefrontal cortex.</para>
       <figure id="Image-13.29">
         <title>Damage in vmPFC after suicide attempts</title>
         <media alt="Brain images showing large empty spot where ventromedial prefrontal cortex should be. Plus a cartoon diagram of the human brain with the vmPPC highlighted">
-          <image mime-type="image/png" src="../../media/Image-13.29_Damage-in-vmPFC-after-suicide-attempts.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.29_Damage-in-vmPFC-after-suicide-attempts.png" />
         </media>
-        <caption>An attempt at suicide with a gunshot wound that damaged the ventromedial PFC in
-          both hemispheres but spared the dorsolateral PFC. The patient reported absolutely no
-          feelings of sadness or suicidal thoughts after recovering. Image credits: Gunshot image
-          from Koenigs M, Huey ED, Calamia M, Raymont V, Tranel D, Grafman J. Distinct regions of
-          prefrontal cortex mediate resistance and vulnerability to depression. J Neurosci. 2008 Nov
-          19;28(47):12341-8. Copyright 2008 Society for Neuroscience.
-          https://www.jneurosci.org/content/28/47/12341</caption>
+        <caption>An attempt at suicide with a gunshot wound that damaged the ventromedial PFC in both hemispheres but spared the dorsolateral PFC. The patient reported absolutely no feelings of sadness or suicidal thoughts after recovering. Image credits: Gunshot image from Koenigs M, Huey ED, Calamia M, Raymont V, Tranel D, Grafman J. Distinct regions of prefrontal cortex mediate resistance and vulnerability to depression. J Neurosci. 2008 Nov 19;28(47):12341-8. Copyright 2008 Society for Neuroscience. https://www.jneurosci.org/content/28/47/12341</caption>
       </figure>
-      <para id="para-00011">Surprisingly, the woman reported absolutely no feelings of sadness or
-        suicidal thoughts after recovering. Her personal observations were corroborated by the
-        patient’s boyfriend and clinicians. They all noted a complete absence of depressive symptoms
-        and that her mood disorder was essentially cured after her injury. The man who produced
-        similar damage to this area was reported to be “<emphasis effect="italics">inappropriately
-        cheerful and completely indifferent</emphasis>” to his new state of brain injury. Together,
-        the findings pointed to the ventromedial prefrontal cortex as possible generator of
-        melancholic, morbid and depressive symptoms and highlighted a key brain region where
-        clinicians may exploit to alleviate symptoms of this disease.</para>
-      <para id="para-00012">Take a moment and consider the magnitude of implications surrounding
-        this discovery. First, the intensity and degree of depression was so severe that both
-        individuals consciously chose death as an alternative to continuing to live in such a
-        debilitating emotional state. This decision also reveals the symptoms they experienced were
-        not mild or moderate forms of depression but the more deep and unrelenting forms that are
-        often unresponsive to therapy or antidepressant treatment. Fortunately, the outcomes of
-        these case studies afforded scientists and clinicians an opportunity to narrow down and
-        isolate a single region of the brain as the dysfunctional key to unlock a mystery of this
-        disease.</para>
-      <para id="para-00013">While these two case studies are compelling, they cannot prove that loss
-        of the ventromedial prefrontal cortex specifically caused the improved mood of the patients.
-        To provide more conclusive proof, a more formal empirical study was conducted by Michael
-        Koenigs’ group in 2008 to determine if abnormal activity in the ventromedial prefrontal
-        cortex contributes to the aberrant emotional symptoms common to depression. Koenig initiated
-        a large-scale study that included participants from the Vietnam Head Injury Study registry
-        and the Patient Registry of the Cognitive Neuroscience Division at the University of Iowa.
-        They limited their selection to individuals with verifiable brain injuries to either the
-        ventromedial prefrontal cortex or dorsolateral prefrontal cortex from penetrating head
-        wounds incurred during the Vietnam War or Iowans with injury to these areas after stroke,
-        accidents or surgery. The <term id="term-00008">Beck Depression Inventory (BDI)</term> was
-        the tool used to assess the severity of depression present in the two groups of brain
-        injured participants. The BDI uses a scale of where scores of 8 or below indicate “no or low
-        depression” whereas “high depression” is marked by scores above 20. Koenig’s group not only
-        replicated the observations noted in the case studies, that ventromedial prefrontal cortex
-        damage alleviates depression, but they also discovered that damage to the dorsolateral
-        prefrontal cortex actually exacerbates symptoms associated with this disease.</para>
-      <para id="para-00014">The overall findings of this study are shown in (<link target-id="Image-13.30"/>).</para>
+      <para id="para-00011">Surprisingly, the woman reported absolutely no feelings of sadness or suicidal thoughts after recovering. Her personal observations were corroborated by the patient’s boyfriend and clinicians. They all noted a complete absence of depressive symptoms and that her mood disorder was essentially cured after her injury. The man who produced similar damage to this area was reported to be “<emphasis effect="italics">inappropriately cheerful and completely indifferent</emphasis>” to his new state of brain injury. Together, the findings pointed to the ventromedial prefrontal cortex as possible generator of melancholic, morbid and depressive symptoms and highlighted a key brain region where clinicians may exploit to alleviate symptoms of this disease.</para>
+      <para id="para-00012">Take a moment and consider the magnitude of implications surrounding this discovery. First, the intensity and degree of depression was so severe that both individuals consciously chose death as an alternative to continuing to live in such a debilitating emotional state. This decision also reveals the symptoms they experienced were not mild or moderate forms of depression but the more deep and unrelenting forms that are often unresponsive to therapy or antidepressant treatment. Fortunately, the outcomes of these case studies afforded scientists and clinicians an opportunity to narrow down and isolate a single region of the brain as the dysfunctional key to unlock a mystery of this disease.</para>
+      <para id="para-00013">While these two case studies are compelling, they cannot prove that loss of the ventromedial prefrontal cortex specifically caused the improved mood of the patients. To provide more conclusive proof, a more formal empirical study was conducted by Michael Koenigs’ group in 2008 to determine if abnormal activity in the ventromedial prefrontal cortex contributes to the aberrant emotional symptoms common to depression. Koenig initiated a large-scale study that included participants from the Vietnam Head Injury Study registry and the Patient Registry of the Cognitive Neuroscience Division at the University of Iowa. They limited their selection to individuals with verifiable brain injuries to either the ventromedial prefrontal cortex or dorsolateral prefrontal cortex from penetrating head wounds incurred during the Vietnam War or Iowans with injury to these areas after stroke, accidents or surgery. The <term id="term-00008">Beck Depression Inventory (BDI)</term> was the tool used to assess the severity of depression present in the two groups of brain injured participants. The BDI uses a scale of where scores of 8 or below indicate “no or low depression” whereas “high depression” is marked by scores above 20. Koenig’s group not only replicated the observations noted in the case studies, that ventromedial prefrontal cortex damage alleviates depression, but they also discovered that damage to the dorsolateral prefrontal cortex actually exacerbates symptoms associated with this disease.</para>
+      <para id="para-00014">The overall findings of this study are shown in (<link target-id="Image-13.30" />).</para>
       <figure id="Image-13.30">
         <title>Severity of depression in patients with vmPFC vs dlPFC lesions</title>
         <media alt="Top: Left: Diagram of 2 brains showing the location of the ventromedial prefrontal cortex and dorsolateral prefrontal cortex. Right: Bar graph of Proportion of Individuals across 4 injury conditions (no injury, non-PFC, vmPFC, dorsal PFC). Bars shown for low, intermediate and high beck Depression Inventory ratings. Bottom: Point graph for Mean severity of depression score across >12 specific symptoms. Data points shown for vmPFC, dorsal PFC, NonPFC and NBD.">
-          <image mime-type="image/png" src="../../media/Image-13.30_Severity-of-depression-in-patients-with-vmPFC-vs-dlPFC-lesions.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.30_Severity-of-depression-in-patients-with-vmPFC-vs-dlPFC-lesions.png" />
         </media>
-        <caption>Graphs from Koenigs M, Huey ED, Calamia M, Raymont V, Tranel D, Grafman J. Distinct
-          regions of prefrontal cortex mediate resistance and vulnerability to depression. J
-          Neurosci. 2008 Nov 19;28(47):12341-8. Copyright 2008 Society for Neuroscience.
-          https://www.jneurosci.org/content/28/47/12341</caption>
+        <caption>Graphs from Koenigs M, Huey ED, Calamia M, Raymont V, Tranel D, Grafman J. Distinct regions of prefrontal cortex mediate resistance and vulnerability to depression. J Neurosci. 2008 Nov 19;28(47):12341-8. Copyright 2008 Society for Neuroscience. https://www.jneurosci.org/content/28/47/12341</caption>
       </figure>
-      <para id="para-00015">It is important to note that almost 100% of participants with
-        ventromedial prefrontal cortex damage were diagnosed with little or no depression on the
-        BDI. In contrast, over 75% of participants with dorsolateral prefrontal cortex damage
-        displayed symptoms that correspond to high levels of depression on the BDI scale. The graph
-        in <link target-id="Image-13.30"/> provides a more comprehensive description of the suite
-        of “Cognitive/Affective” vs “Somatic” or bodily depressive symptoms assessed with the BDI.
-        Note the absence of ratings in most categories by participants with bilateral damage to the
-        ventromedial prefrontal cortex and the opposite results of much higher ratings of
-        pathological symptoms in those with bilateral damage to the dorsolateral prefrontal cortex.
-        A separate important finding to take away from this study is that the behavioral outcomes
-        produced by ventromedial prefrontal cortex damage renders these individuals less susceptible
-        to depression than normal healthy controls (i.e. no lesion group).</para>
-      <para id="para-00016">So how can the anecdotal case studies and findings from this study be
-        integrated with your understanding of how cortical structures contribute to the development
-        of emotions? In review, we know the range of physiological changes accompanying negative
-        emotions are coordinated through top-down control from the ventromedial prefrontal cortex to
-        the periaqueductal gray, hypothalamus, and amygdala. Thus, damage to this area most likely
-        diminishes the type of physiological responses these patients experience in response to
-        emotional stimuli that generates negative mood in normal individuals. The ventromedial
-        prefrontal cortex is also associated with self-awareness and self-reflection and lesions to
-        this area produce a loss of self-insight that is characterized by reduced negative affect
-        and diminished ability to experience negative emotions such as shame, guilt, embarrassment,
-        and regret, self-dislike, and even sadness (Fitzgerald, 2003). As a consequence, damage to
-        the ventromedial prefrontal cortex may decrease symptoms of depression by blunting
-        self-awareness and self-reflection (Beer, John, Scabini, &amp; Knight, 2006) which is
-        consistent with the self-reported levels of these emotional reactions by ventromedial
-        prefrontal cortex damaged subjects shown in <link target-id="Image-13.30"/>.</para>
-      <para id="para-00017">The heightened level of depression evident following dorsolateral
-        prefrontal cortex  lesions may be related to the multiple cognitive functions that occur
-        simultaneously in this area. For example, activity in the dorsolateral prefrontal cortex is
-        observed when an individual maintains events in working memory, or is engaged in abstract
-        reasoning or in the process of forming intentions that will be converted into goal directed
-        actions (Phan, Fitzgerald, Nathan, Moore, Uhde, &amp;Tancer, 2005). The consequence or
-        readout of this reappraisal of goal strategies is mediated through dorsolateral prefrontal
-        cortex projections to the pre-, supplemental and motor cortex that ends in some
-        physiological and behavioral response to emotional stimuli. Therefore, if the reappraisal
-        process that may inhibit negative emotions is normally adaptive in protecting against
-        depression, it is clear how disruptions in this process with dorsolateral prefrontal cortex
-        damage may lead to increased symptoms of depression (Ongur &amp; Price, 2000).</para>
+      <para id="para-00015">It is important to note that almost 100% of participants with ventromedial prefrontal cortex damage were diagnosed with little or no depression on the BDI. In contrast, over 75% of participants with dorsolateral prefrontal cortex damage displayed symptoms that correspond to high levels of depression on the BDI scale. The graph in <link target-id="Image-13.30" /> provides a more comprehensive description of the suite of “Cognitive/Affective” vs “Somatic” or bodily depressive symptoms assessed with the BDI. Note the absence of ratings in most categories by participants with bilateral damage to the ventromedial prefrontal cortex and the opposite results of much higher ratings of pathological symptoms in those with bilateral damage to the dorsolateral prefrontal cortex. A separate important finding to take away from this study is that the behavioral outcomes produced by ventromedial prefrontal cortex damage renders these individuals less susceptible to depression than normal healthy controls (i.e. no lesion group).</para>
+      <para id="para-00016">So how can the anecdotal case studies and findings from this study be integrated with your understanding of how cortical structures contribute to the development of emotions? In review, we know the range of physiological changes accompanying negative emotions are coordinated through top-down control from the ventromedial prefrontal cortex to the periaqueductal gray, hypothalamus, and amygdala. Thus, damage to this area most likely diminishes the type of physiological responses these patients experience in response to emotional stimuli that generates negative mood in normal individuals. The ventromedial prefrontal cortex is also associated with self-awareness and self-reflection and lesions to this area produce a loss of self-insight that is characterized by reduced negative affect and diminished ability to experience negative emotions such as shame, guilt, embarrassment, and regret, self-dislike, and even sadness (Fitzgerald, 2003). As a consequence, damage to the ventromedial prefrontal cortex may decrease symptoms of depression by blunting self-awareness and self-reflection (Beer, John, Scabini, &amp; Knight, 2006) which is consistent with the self-reported levels of these emotional reactions by ventromedial prefrontal cortex damaged subjects shown in <link target-id="Image-13.30" />.</para>
+      <para id="para-00017">The heightened level of depression evident following dorsolateral prefrontal cortex  lesions may be related to the multiple cognitive functions that occur simultaneously in this area. For example, activity in the dorsolateral prefrontal cortex is observed when an individual maintains events in working memory, or is engaged in abstract reasoning or in the process of forming intentions that will be converted into goal directed actions (Phan, Fitzgerald, Nathan, Moore, Uhde, &amp;Tancer, 2005). The consequence or readout of this reappraisal of goal strategies is mediated through dorsolateral prefrontal cortex projections to the pre-, supplemental and motor cortex that ends in some physiological and behavioral response to emotional stimuli. Therefore, if the reappraisal process that may inhibit negative emotions is normally adaptive in protecting against depression, it is clear how disruptions in this process with dorsolateral prefrontal cortex damage may lead to increased symptoms of depression (Ongur &amp; Price, 2000).</para>
     </section>
     <note class="boxed-feature" id="note-00001">
-      <title>Translational applications of understanding the role of cortical and subcortical
-      structures in mood disorders</title>
+      <title>Translational applications of understanding the role of cortical and subcortical structures in mood disorders</title>
 
-<para id="para-00018">Dr. Helen Mayberg is an initial
-      pioneer in the use of <term id="term-00009">deep-brain stimulation (DBS)</term> as an
-      alternative approach to alleviate mood disorders in patients with persistent depression after
-      prolonged, yet ineffective drug or psychotherapy treatment (Mayberg, 2009) (see <link document="m00106" target-id="">Methods: Deep brain stimulation</link>). She is co-inventor
-      of using chronic intermittent DBS therapy to target <term id="term-00010">Area 25 (the
-      subcallosal cingulate or SCC)</term> and this approach is now licensed to the pharmaceutical
-      company, Abbott Laboratories. The SCC and nerve tracts surrounding Area 25 are “emotional
-      hubs” in the brain because they communicate the processing of negative, unpleasant, and sad
-      emotional content to other brain regions through the many white matter or nerve pathways
-      depicted in the tractography image in the top right of (<link target-id="Image-13.31"/>)
-      (Vogt, 2005). These important connections carry the products of emotional processing in
-      temporal lobe structures, hippocampus, amygdala and medial prefrontal cortex to other regions
-      of the emotional circuit (Harnett, Ference, Knight, &amp; Knight, 2020).</para>
+<para id="para-00018">Dr. Helen Mayberg is an initial pioneer in the use of <term id="term-00009">deep-brain stimulation (DBS)</term> as an alternative approach to alleviate mood disorders in patients with persistent depression after prolonged, yet ineffective drug or psychotherapy treatment (Mayberg, 2009) (see <link document="m00106" target-id="">Methods: Deep brain stimulation</link>). She is co-inventor of using chronic intermittent DBS therapy to target <term id="term-00010">Area 25 (the subcallosal cingulate or SCC)</term> and this approach is now licensed to the pharmaceutical company, Abbott Laboratories. The SCC and nerve tracts surrounding Area 25 are “emotional hubs” in the brain because they communicate the processing of negative, unpleasant, and sad emotional content to other brain regions through the many white matter or nerve pathways depicted in the tractography image in the top right of (<link target-id="Image-13.31" />) (Vogt, 2005). These important connections carry the products of emotional processing in temporal lobe structures, hippocampus, amygdala and medial prefrontal cortex to other regions of the emotional circuit (Harnett, Ference, Knight, &amp; Knight, 2020).</para>
 <figure id="Image-13.31">
         <title>Work of Helen Mayberg</title>
         <media alt="Top left: Photograph of woman, smiling. Top right: Brain image with colorful tracts shown extending from a focal point. Bottom left: Xray of human head showing electrodes in the brain space. Bottom right: Screenshot of quotes from patients. ">
-          <image mime-type="image/png" src="../../media/Image-13.31_Work-of-Helen-Mayberg.png"/>
+          <image mime-type="image/png" src="../../media/Image-13.31_Work-of-Helen-Mayberg.png" />
         </media>
-        <caption>Image of Helen Mayberg from Heiden P, Pieczewski J and Andrade P (2022) Women in
-      Neuromodulation: Innovative Contributions to Stereotactic and Functional Neurosurgery. Front.
-      Hum. Neurosci. 15:756039. doi: 10.3389/fnhum.2021.756039. CC BY 4.0. Image of tractography
-      courtesy of Wald, L.Reproduced with permission. Image of DBS probes in a braincourtesy of
-      Helen Mayberg, MD. Icahn Scool of Medicine Mount Sinai. Reproduced with permission.</caption>
+        <caption>Image of Helen Mayberg from Heiden P, Pieczewski J and Andrade P (2022) Women in Neuromodulation: Innovative Contributions to Stereotactic and Functional Neurosurgery. Front. Hum. Neurosci. 15:756039. doi: 10.3389/fnhum.2021.756039. CC BY 4.0. Image of tractography courtesy of Wald, L.Reproduced with permission. Image of DBS probes in a braincourtesy of Helen Mayberg, MD. Icahn Scool of Medicine Mount Sinai. Reproduced with permission.</caption>
       </figure>
 
-<para id="para-00021">Dr. Mayberg was motivated to examine Area 25 after several reports noted
-      hypermetabolism and <emphasis effect="italics">overactivity</emphasis> in this brain region of
-      depressed patients. Other studies demonstrated that activity in Area 25 was normalized (i.e.
-      reduced) in patients experiencing beneficial outcomes in depressive symptoms after successful
-      drug treatment (reviewed in Mayberg, 2009). It may seem counterintuitive to introduce
-      additional stimulation through DBS to an area already known to be abnormally hyperactive in
-      depressed patients. However, Dr. Mayberg reasoned that stimulating white fiber pathways
-      running under the SCC would serve to reboot or reset the overactivity in the SCC. DBS
-      generally increases neuronal activity in a given area, but the opposite occurs when
-      stimulation affects a large pool of neurons containing the inhibitory neurotransmitter GABA.
-      Activation of this pool of inhibitory neurons surrounding the SCC serves to reduce ongoing
-      activity in this region and correct or re-balance the overactive signals projected from the
-      SCC to other emotion-processing areas through the nerve tracts shown in <link target-id="Image-13.31"/>.</para>
-<para id="para-00022">Detailed descriptions and
-      interviews of Dr. Mayberg’s discovery are profiled in a “CNN Presents” segment hosted by Dr.
-      Sanjay Gupta and a “News Focus” paper in the journal Science, by Emily Underwood (Underwood,
-      2013). These segments described the initial successful DBS surgeries Dr. Mayberg performed at
-      Emory University with the patient Mrs. Edi Guyton (https://openstax.org/r/Neuro13Gupta). The
-      interview with Mrs. Guyton reveals that prior to the DBS, she couldn’t smile, be happy or even
-      express to others how she felt which led to cutting both of her wrists at attempts of suicide
-      while a college student. This pattern continued for over 40 years with two additional attempts
-      at suicide despite psychotherapy and drug treatment. Mrs. Guyton agreed to surgery to implant
-      electrodes that provide the stimulation to nerve fibers around the SCC.</para>
-<para id="para-00023">The lower left X-ray in <link target-id="Image-13.31"/> shows what
-      placement of electrodes looks like. Patients for this type of surgery are awake, although
-      lightly sedated so the surgeons may analyze their mental and emotional state prior to, during
-      and after the initial stimulation of area 25 ensues. When Mrs. Guyton used a scale from 1
-      (feeling pretty good) to 10 (very depressed) to rate her feelings before the stimulation, she
-      offered a score of 8 (8 = dread). Once the DBS electrodes were turned on to deliver electrical
-      pulses to Area 25, she stated “I just almost smiled; something I have not done in a long
-      time”. The stimulation also made her think about playing with her granddaughter Susan, even
-      though she stated these are feelings that had never occurred before. In essence, she thought
-      they were gone. Linda Patterson is another one of Dr. Mayberg’s patients who noted after the
-      surgery “I felt the best I’ve felt in my entire life and capable of experiencing the emotions
-      of joy, exhilaration, the calming feeling of contentment as though I’m living in a different
-      world.”</para>
-<para id="para-00024">What is striking about these positive testimonies is they
-      evolve immediately after the first or second pulses of electricity are emitted through the
-      nerve tracts surrounding the SCC, not after 2 to 3 weeks of stimulation. Two to 3 weeks is the
-      normal time-course for antidepressant drugs to render any positive effects in reducing
-      depression symptoms. A list of some of the phrases Dr. Mayberg’s patients expressed in surgery
-      following the initial stimulations of the SCC are shown in the bottom right of <link target-id="Image-13.31"/>. Follow-up evaluations of Mrs. Guyton 5 years after the surgery
-      for DBS electrodes, revealed that “she feels good, all the time; If there is joy in my life, I
-      have the capacity to feel it. She is thankful for her new life.” These testimonies attest to
-      the promise of this new approach of resetting patterns of aberrant neural activity in the
-      junction between Area 25 and the highway of emotion-related pathways that run under this area.</para></note>
+<para id="para-00021">Dr. Mayberg was motivated to examine Area 25 after several reports noted hypermetabolism and <emphasis effect="italics">overactivity</emphasis> in this brain region of depressed patients. Other studies demonstrated that activity in Area 25 was normalized (i.e. reduced) in patients experiencing beneficial outcomes in depressive symptoms after successful drug treatment (reviewed in Mayberg, 2009). It may seem counterintuitive to introduce additional stimulation through DBS to an area already known to be abnormally hyperactive in depressed patients. However, Dr. Mayberg reasoned that stimulating white fiber pathways running under the SCC would serve to reboot or reset the overactivity in the SCC. DBS generally increases neuronal activity in a given area, but the opposite occurs when stimulation affects a large pool of neurons containing the inhibitory neurotransmitter GABA. Activation of this pool of inhibitory neurons surrounding the SCC serves to reduce ongoing activity in this region and correct or re-balance the overactive signals projected from the SCC to other emotion-processing areas through the nerve tracts shown in <link target-id="Image-13.31" />.</para>
+<para id="para-00022">Detailed descriptions and interviews of Dr. Mayberg’s discovery are profiled in a “CNN Presents” segment hosted by Dr. Sanjay Gupta and a “News Focus” paper in the journal Science, by Emily Underwood (Underwood, 2013). These segments described the initial successful DBS surgeries Dr. Mayberg performed at Emory University with the patient Mrs. Edi Guyton (https://openstax.org/r/Neuro13Gupta). The interview with Mrs. Guyton reveals that prior to the DBS, she couldn’t smile, be happy or even express to others how she felt which led to cutting both of her wrists at attempts of suicide while a college student. This pattern continued for over 40 years with two additional attempts at suicide despite psychotherapy and drug treatment. Mrs. Guyton agreed to surgery to implant electrodes that provide the stimulation to nerve fibers around the SCC.</para>
+<para id="para-00023">The lower left X-ray in <link target-id="Image-13.31" /> shows what placement of electrodes looks like. Patients for this type of surgery are awake, although lightly sedated so the surgeons may analyze their mental and emotional state prior to, during and after the initial stimulation of area 25 ensues. When Mrs. Guyton used a scale from 1 (feeling pretty good) to 10 (very depressed) to rate her feelings before the stimulation, she offered a score of 8 (8 = dread). Once the DBS electrodes were turned on to deliver electrical pulses to Area 25, she stated “I just almost smiled; something I have not done in a long time”. The stimulation also made her think about playing with her granddaughter Susan, even though she stated these are feelings that had never occurred before. In essence, she thought they were gone. Linda Patterson is another one of Dr. Mayberg’s patients who noted after the surgery “I felt the best I’ve felt in my entire life and capable of experiencing the emotions of joy, exhilaration, the calming feeling of contentment as though I’m living in a different world.”</para>
+<para id="para-00024">What is striking about these positive testimonies is they evolve immediately after the first or second pulses of electricity are emitted through the nerve tracts surrounding the SCC, not after 2 to 3 weeks of stimulation. Two to 3 weeks is the normal time-course for antidepressant drugs to render any positive effects in reducing depression symptoms. A list of some of the phrases Dr. Mayberg’s patients expressed in surgery following the initial stimulations of the SCC are shown in the bottom right of <link target-id="Image-13.31" />. Follow-up evaluations of Mrs. Guyton 5 years after the surgery for DBS electrodes, revealed that “she feels good, all the time; If there is joy in my life, I have the capacity to feel it. She is thankful for her new life.” These testimonies attest to the promise of this new approach of resetting patterns of aberrant neural activity in the junction between Area 25 and the highway of emotion-related pathways that run under this area.</para></note>
 
     <section class="section-summary" id="sect-00004">
       <title>Summary</title>
-      <para id="para-00025">Emotional disturbances associated with depression continue to baffle
-        scientists, clinicians and mental health providers. These causes of depression-related
-        disorders are challenging to dissect because they can result from dysregulation of any of
-        the structures within the Papez circuit or interconnections between them. The two main
-        causes of depression involve extreme negative reactions to environmental events or from an
-        internal imbalance in neurotransmitter functioning. Although the latter cause is effectively
-        treated in most cases by restoring deficiencies in brain neurochemicals, more resistant
-        forms of depression may involve alterations in the activity of emotion circuits in the
-        brain. Contemporary research and clinical findings reveal an important contribution of the
-        ventromedial prefrontal cortex as possible generator of melancholic, morbid and depressive
-        symptoms while the dorsolateral prefrontal cortex may protect against depression by
-        inhibiting negative emotions through conceptual and reappraisal processing. Findings
-        emerging from these types of investigations are affording the scientific community
-        opportunities to narrow down the possible substrates underlying depression and to target
-        specific neural circuits to unlock the mystery of this disease.</para>
+      <para id="para-00025">Emotional disturbances associated with depression continue to baffle scientists, clinicians and mental health providers. These causes of depression-related disorders are challenging to dissect because they can result from dysregulation of any of the structures within the Papez circuit or interconnections between them. The two main causes of depression involve extreme negative reactions to environmental events or from an internal imbalance in neurotransmitter functioning. Although the latter cause is effectively treated in most cases by restoring deficiencies in brain neurochemicals, more resistant forms of depression may involve alterations in the activity of emotion circuits in the brain. Contemporary research and clinical findings reveal an important contribution of the ventromedial prefrontal cortex as possible generator of melancholic, morbid and depressive symptoms while the dorsolateral prefrontal cortex may protect against depression by inhibiting negative emotions through conceptual and reappraisal processing. Findings emerging from these types of investigations are affording the scientific community opportunities to narrow down the possible substrates underlying depression and to target specific neural circuits to unlock the mystery of this disease.</para>
     </section>
     <section class="key-terms" id="sect-00005">
       <title>Key Terms</title>
@@ -335,59 +101,23 @@
     </section>
     <section class="references" id="sect-00006">
       <title>References</title>
-      <para id="para-00019">Adolphs, R., Tranel, D., &amp; Damasio, A. R. (2003). Dissociable neural systems for
-        recognizing emotions. <emphasis effect="italics">Brain and Cognition</emphasis>, <emphasis effect="italics">52</emphasis>(1), 61–69. https://doi.org/10.1016/s0278-2626(03)00009-5</para>
-      <para id="para-00020">Beer, J. S., John, O. P., Scabini, D., &amp; Knight, R. T. (2006). Orbitofrontal cortex
-        and social behavior: integrating self-monitoring and emotion-cognition interactions. <emphasis effect="italics">Journal of Cognitive Neuroscience</emphasis>, <emphasis effect="italics">
-        18</emphasis>(6), 871–879. https://doi.org/10.1162/jocn.2006.18.6.871</para>
-      <para id="para-00026">Dixon, M. L., Thiruchselvam, R., Todd, R., &amp; Christoff, K. (2017). Emotion and the
-        prefrontal cortex: An integrative review. <emphasis effect="italics">Psychological Bulletin</emphasis>
-        , <emphasis effect="italics">143</emphasis>(10), 1033–1081.
-        https://doi.org/10.1037/bul0000096</para>
-      <para id="para-00027">Ellenbogen, J. M., Hurford, M. O., Liebeskind, D. S., Neimark, G. B., &amp; Weiss, D.
-        (2005). Ventromedial frontal lobe trauma. <emphasis effect="italics">Neurology</emphasis>, <emphasis effect="italics">64</emphasis>(4), 757. https://doi.org/10.1212/wnl.64.4.757</para>
-      <para id="para-00028">Fitzgerald, P. B., Brown, T. L., Marston, N. A., Daskalakis, Z. J., De Castella, A.,
-        &amp; Kulkarni, J. (2003). Transcranial magnetic stimulation in the treatment of depression:
-        a double-blind, placebo-controlled trial. <emphasis effect="italics">Archives of General
-        Psychiatry</emphasis>, <emphasis effect="italics">60</emphasis>(10), 1002–1008.
-        https://doi.org/10.1001/archpsyc.60.9.1002</para>
-      <para id="para-00029">Harnett, N. G., Ference, E. W., 3rd, Knight, A. J., &amp; Knight, D. C. (2020). White
-        matter microstructure varies with post-traumatic stress severity following medical trauma. <emphasis effect="italics">Brain Imaging and Behavior</emphasis>, <emphasis effect="italics">14</emphasis>(4),
-        1012–1024. https://doi.org/10.1007/s11682-018-9995-9</para>
-      <para id="para-00030">Koenigs, M., Huey, E. D., Raymont, V., Cheon, B., Solomon, J., Wassermann, E. M., &amp;
-        Grafman, J. (2008). Focal brain damage protects against post-traumatic stress disorder in
-        combat veterans. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>(2), 232–237. https://doi.org/10.1038/nn2032</para>
-      <para id="para-00031">Koenigs, M., Huey, E. D., Calamia, M., Raymont, V., Tranel, D., &amp; Grafman, J.
-        (2008). Distinct regions of prefrontal cortex mediate resistance and vulnerability to
-        depression. <emphasis effect="italics">The Journal of Neuroscience: The Official Journal of
-        the Society for Neuroscience</emphasis>, <emphasis effect="italics">28</emphasis>(47),
-        12341–12348. https://doi.org/10.1523/JNEUROSCI.2324-08.2008</para>
-      <para id="para-00032">López-Muñoz, F., Alamo, C., Juckel, G., &amp; Assion, H. J. (2007). Half a century of
-        antidepressant drugs: on the clinical introduction of monoamine oxidase inhibitors,
-        tricyclics, and tetracyclics. Part I: monoamine oxidase inhibitors. <emphasis effect="italics">Journal of Clinical Psychopharmacology</emphasis>, <emphasis effect="italics">27</emphasis>(6), 555–559. https://doi.org/10.1097/jcp.0b013e3181bb617</para>
-      <para id="para-00033">Mayberg, H. S. (2009). Targeted electrode-based modulation of neural circuits for
-        depression. <emphasis effect="italics">The Journal of Clinical Investigation</emphasis>, <emphasis effect="italics">119</emphasis>(4), 717–725. https://doi.org/10.1172/JCI38454</para>
-      <para id="para-00034">Ongür, D., &amp; Price, J. L. (2000). The organization of networks within the orbital
-        and medial prefrontal cortex of rats, monkeys and humans. <emphasis effect="italics">Cerebral
-        Cortex (New York, N.Y.: 1991)</emphasis>, <emphasis effect="italics">10</emphasis>(3),
-        206–219. https://doi.org/10.1093/cercor/10.3.206</para>
-      <para id="para-00035">Penfield, W., &amp; Faulk, M. E., Jr (1955). The insula; further observations on its
-        function. <emphasis effect="italics">Brain: A Journal of Neurology</emphasis>, <emphasis effect="italics">78</emphasis>(4), 445–470. https://doi.org/10.1093/brain/78.4.445</para>
-      <para id="para-00036">Phan, K. L., Fitzgerald, D. A., Nathan, P. J., Moore, G. J., Uhde, T. W., &amp; Tancer,
-        M. E. (2005). Neural substrates for voluntary suppression of negative affect: a functional
-        magnetic resonance imaging study. <emphasis effect="italics">Biological Psychiatry</emphasis>
-        , <emphasis effect="italics">57</emphasis>(3), 210–219.
-        https://doi.org/10.1016/j.biopsych.2004.10.030</para>
-      <para id="para-00037">Rangel, A., Camerer, C., &amp; Montague, P. R. (2008). A framework for studying the
-        neurobiology of value-based decision making. <emphasis effect="italics">Nature Reviews
-        Neuroscience</emphasis>, <emphasis effect="italics">9</emphasis>(7), 545–556.
-        https://doi.org/10.1038/nrn2357</para>
+      <para id="para-00019">Adolphs, R., Tranel, D., &amp; Damasio, A. R. (2003). Dissociable neural systems for recognizing emotions. <emphasis effect="italics">Brain and Cognition</emphasis>, <emphasis effect="italics">52</emphasis>(1), 61–69. https://doi.org/10.1016/s0278-2626(03)00009-5</para>
+      <para id="para-00020">Beer, J. S., John, O. P., Scabini, D., &amp; Knight, R. T. (2006). Orbitofrontal cortex and social behavior: integrating self-monitoring and emotion-cognition interactions. <emphasis effect="italics">Journal of Cognitive Neuroscience</emphasis>, <emphasis effect="italics"> 18</emphasis>(6), 871–879. https://doi.org/10.1162/jocn.2006.18.6.871</para>
+      <para id="para-00026">Dixon, M. L., Thiruchselvam, R., Todd, R., &amp; Christoff, K. (2017). Emotion and the prefrontal cortex: An integrative review. <emphasis effect="italics">Psychological Bulletin</emphasis> , <emphasis effect="italics">143</emphasis>(10), 1033–1081. https://doi.org/10.1037/bul0000096</para>
+      <para id="para-00027">Ellenbogen, J. M., Hurford, M. O., Liebeskind, D. S., Neimark, G. B., &amp; Weiss, D. (2005). Ventromedial frontal lobe trauma. <emphasis effect="italics">Neurology</emphasis>, <emphasis effect="italics">64</emphasis>(4), 757. https://doi.org/10.1212/wnl.64.4.757</para>
+      <para id="para-00028">Fitzgerald, P. B., Brown, T. L., Marston, N. A., Daskalakis, Z. J., De Castella, A., &amp; Kulkarni, J. (2003). Transcranial magnetic stimulation in the treatment of depression: a double-blind, placebo-controlled trial. <emphasis effect="italics">Archives of General Psychiatry</emphasis>, <emphasis effect="italics">60</emphasis>(10), 1002–1008. https://doi.org/10.1001/archpsyc.60.9.1002</para>
+      <para id="para-00029">Harnett, N. G., Ference, E. W., 3rd, Knight, A. J., &amp; Knight, D. C. (2020). White matter microstructure varies with post-traumatic stress severity following medical trauma. <emphasis effect="italics">Brain Imaging and Behavior</emphasis>, <emphasis effect="italics">14</emphasis>(4), 1012–1024. https://doi.org/10.1007/s11682-018-9995-9</para>
+      <para id="para-00030">Koenigs, M., Huey, E. D., Raymont, V., Cheon, B., Solomon, J., Wassermann, E. M., &amp; Grafman, J. (2008). Focal brain damage protects against post-traumatic stress disorder in combat veterans. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">11</emphasis>(2), 232–237. https://doi.org/10.1038/nn2032</para>
+      <para id="para-00031">Koenigs, M., Huey, E. D., Calamia, M., Raymont, V., Tranel, D., &amp; Grafman, J. (2008). Distinct regions of prefrontal cortex mediate resistance and vulnerability to depression. <emphasis effect="italics">The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</emphasis>, <emphasis effect="italics">28</emphasis>(47), 12341–12348. https://doi.org/10.1523/JNEUROSCI.2324-08.2008</para>
+      <para id="para-00032">López-Muñoz, F., Alamo, C., Juckel, G., &amp; Assion, H. J. (2007). Half a century of antidepressant drugs: on the clinical introduction of monoamine oxidase inhibitors, tricyclics, and tetracyclics. Part I: monoamine oxidase inhibitors. <emphasis effect="italics">Journal of Clinical Psychopharmacology</emphasis>, <emphasis effect="italics">27</emphasis>(6), 555–559. https://doi.org/10.1097/jcp.0b013e3181bb617</para>
+      <para id="para-00033">Mayberg, H. S. (2009). Targeted electrode-based modulation of neural circuits for depression. <emphasis effect="italics">The Journal of Clinical Investigation</emphasis>, <emphasis effect="italics">119</emphasis>(4), 717–725. https://doi.org/10.1172/JCI38454</para>
+      <para id="para-00034">Ongür, D., &amp; Price, J. L. (2000). The organization of networks within the orbital and medial prefrontal cortex of rats, monkeys and humans. <emphasis effect="italics">Cerebral Cortex (New York, N.Y.: 1991)</emphasis>, <emphasis effect="italics">10</emphasis>(3), 206–219. https://doi.org/10.1093/cercor/10.3.206</para>
+      <para id="para-00035">Penfield, W., &amp; Faulk, M. E., Jr (1955). The insula; further observations on its function. <emphasis effect="italics">Brain: A Journal of Neurology</emphasis>, <emphasis effect="italics">78</emphasis>(4), 445–470. https://doi.org/10.1093/brain/78.4.445</para>
+      <para id="para-00036">Phan, K. L., Fitzgerald, D. A., Nathan, P. J., Moore, G. J., Uhde, T. W., &amp; Tancer, M. E. (2005). Neural substrates for voluntary suppression of negative affect: a functional magnetic resonance imaging study. <emphasis effect="italics">Biological Psychiatry</emphasis> , <emphasis effect="italics">57</emphasis>(3), 210–219. https://doi.org/10.1016/j.biopsych.2004.10.030</para>
+      <para id="para-00037">Rangel, A., Camerer, C., &amp; Montague, P. R. (2008). A framework for studying the neurobiology of value-based decision making. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">9</emphasis>(7), 545–556. https://doi.org/10.1038/nrn2357</para>
       <para id="para-00038">Sandler, M. (1990). Monoamine oxidase inhibitors in depression: history and mythology. <emphasis effect="italics">Journal of Psychopharmacology (Oxford, England)</emphasis>, <emphasis effect="italics">4</emphasis>(3), 136–139. https://doi.org/10.1177/026988119000400307</para>
-      <para id="para-00039">Underwood, E. (2013). Short-circuiting depression. <emphasis effect="italics">Science
-        (New York, N.Y.)</emphasis>, <emphasis effect="italics">342</emphasis>(6158), 548–551.
-        https://doi.org/10.1126/science.342.6158.548</para>
-      <para id="para-00040">Vogt, B. A. (2005). Pain and emotion interactions in subregions of the cingulate gyrus. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">6</emphasis>(7),
-        533–544. https://doi.org/10.1038/nrn1704</para>
+      <para id="para-00039">Underwood, E. (2013). Short-circuiting depression. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">342</emphasis>(6158), 548–551. https://doi.org/10.1126/science.342.6158.548</para>
+      <para id="para-00040">Vogt, B. A. (2005). Pain and emotion interactions in subregions of the cingulate gyrus. <emphasis effect="italics">Nature Reviews Neuroscience</emphasis>, <emphasis effect="italics">6</emphasis>(7), 533–544. https://doi.org/10.1038/nrn1704</para>
 
 
     </section>
@@ -397,22 +127,22 @@
 
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-13-04-001"/></para>
+          <para id="para-00043"><link class="os-embed" url="#exercise/Neuro-13-04-001" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-13-04-002"/></para>
+          <para id="para-00044"><link class="os-embed" url="#exercise/Neuro-13-04-002" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-13-04-003"/></para>
+          <para id="para-00045"><link class="os-embed" url="#exercise/Neuro-13-04-003" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-13-04-004"/></para>
+          <para id="para-00046"><link class="os-embed" url="#exercise/Neuro-13-04-004" /></para>
         </problem>
       </exercise>
     </section>

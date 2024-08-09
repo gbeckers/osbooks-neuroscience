@@ -9,51 +9,55 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
-        <list id="list-00001">
-          <item>Define allometry.</item>
-          <item>Describe how the size of the human cerebral cortex compares with other mammals.</item>
-        </list>
+      <list id="list-00001">
+        <item>Define allometry.</item>
+        <item>Describe how the size of the human cerebral cortex compares with other mammals.</item>
+      </list>
     </section>
     <para id="para-00002">While comparative neuroscience involves the study of many species, one species in particular has captured a disproportionate amount of attention: humans (de Sousa et al., 2023). A great deal of research has focused on what makes human brains special, such as why we can read, grow crops, and travel to outer space, while other species cannot. One of the most obvious features about the human brain is that it is large in absolute size compared with many (but not all) other mammals. Another notable feature about the human brain is that it is large relative to our body compared with other species. Accordingly, the field of comparative neuroscience began with an investigation of brain size, its parts, and how brain size correlates with sensory and cognitive capacities (Aboitiz, 1996; Hofman, 2014; de Sousa et al., 2023). Below, we evaluate the evidence supporting the notion that the expansion of brain regions is linked to specializations. We also discuss how some characteristic features of the human brain might appear to be unique to humans but may in fact be accounted for by total brain size (Finlay and Darlington, 1995; Reep et al., 2007; Yopak et al., 2010). The size of brain parts alone may be insufficient to explain human cognitive capacities. Additional changes at the molecular level likely have played an important role in human cognitive capacities.</para>
     <section id="sect-00002">
-    <title>The human brain is very big in comparison with many other species</title>
-    <para id="para-00003">One noticeable feature about humans is that our brains are large relative to many other mammals. However, the human brain is not the largest of mammals. For example, elephants and whales have larger brains than those of humans (<link document="m00033" target-id="Image-4.06"/>). Nevertheless, the observation that the human brain is approximately 3 times larger than that of great apes (i.e., chimpanzees, orangutans, gorillas) and any other nonhuman primates has led many researchers to suggest that it is the size of the human brain that confers humans with enhanced cognitive capacities. Indeed, there is a positive relationship between brain size and cognitive abilities across species. Yet, brain size accounts for only a small percentage of the variance in cognitive capacities across species. Importantly, these correlative analyses are unreliable indicators of causative relationships because correlations do not mean causation. It is therefore clear that size of the brain does not explain everything about human cognitive capacities, and that other factors must play a role in cognitive capacities.</para>
+      <title>The human brain is very big in comparison with many other species</title>
+      <para id="para-00003">One noticeable feature about humans is that our brains are large relative to many other mammals. However, the human brain is not the largest of mammals. For example, elephants and whales have larger brains than those of humans (<link document="m00033" target-id="Image-4.06" />). Nevertheless, the observation that the human brain is approximately 3 times larger than that of great apes (i.e., chimpanzees, orangutans, gorillas) and any other nonhuman primates has led many researchers to suggest that it is the size of the human brain that confers humans with enhanced cognitive capacities. Indeed, there is a positive relationship between brain size and cognitive abilities across species. Yet, brain size accounts for only a small percentage of the variance in cognitive capacities across species. Importantly, these correlative analyses are unreliable indicators of causative relationships because correlations do not mean causation. It is therefore clear that size of the brain does not explain everything about human cognitive capacities, and that other factors must play a role in cognitive capacities.</para>
     </section>
     <section id="sect-00003">
-    <title>Relative brain regions vary across species</title>
-    <para id="para-00004">One salient feature about the human brain is that the human cerebral cortex is very big, and that it occupies a large proportion of our brain, more so than in many other species. For example, the cerebral cortex occupies approximately 80% of the brain in humans but the cerebral cortex only occupies 20% of brain volume in mice. It might therefore seem reasonable to assume that our proportionally enlarged cerebral cortex sets humans apart from other mammals. But, it is well known that the size of brain parts, including the cerebral cortex, varies allometrically. <term id="term-00001">Allometry</term> means that proportions change with overall size (Dial et al., 2008). We will explain the concept of allometry in greater detail.</para>
-    
-    <para id="para-00005">Brain region volumes vary across species. <link target-id="Image-4.19"/> depicts brains of mice, rhesus macaques and humans.</para>
-    <figure id="Image-4.19"><title>Brain regions vary allometrically</title>
-      <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) These three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
-        <image mime-type="image/png" src="../../media/Image-4.19_Brain-regions-vary-allometrically.png"/>
-      </media><caption>A greater relative contribution of cortex to total brain mass is seen in monkeys and humans compared to mice, reflecting the positive allometry of the cortex.</caption>
-    </figure>
-    
-    <para id="para-00006">As can be seen from the to-scale images in the far right, these brains have very different total sizes. One noticeable observation from <link target-id="Image-4.19"/> is that larger brains are preferentially composed of the cerebral cortex. This observation is true when we consider these species, but it also holds when we consider other mammals. Brain allometry means that as overall brains vary in size, some brain regions come to occupy a relatively large proportion of the brain while other brain regions occupy a relatively small proportion of the brain.</para>
-      
-    <para id="para-00041">A formal way to describe proportional changes in the relative size of brain parts is to say that brain regions vary <term id="term-00002">allometrically</term> (Stephan et al., 1981; Reep et al., 2007; Yopak et al., 2010; Bush and Allman, 2004). Saying that the cerebral cortex has a positive allometry means that the cerebral cortex becomes relatively enlarged in bigger brains. Species such as humans, whales, and elephants possess a big brain and a relatively enlarged cortex. In contrast, small-brained mammals such as mice, rats, hamsters, and mole rats have relatively small cerebral cortices by virtue of their small brain.</para>
-    
-    <para id="para-00007">The human brain is by far the biggest of all primates and the human cortex occupies the largest proportion of the brain among primates. There are many debates as to whether the size of human brain regions, like the cortex, is unusually small, large or within the expected range considering the size of the human brain. It is possible our large cerebral cortex is exactly the size one would expect of a primate based on the total human brain size. The controversy as to whether human brain parts are small or large based on our brain size arises because we have no nonhuman primate brain of the same size for comparison, which fuels debate as to whether human cerebral cortices are unusual in size or the consequence of allometric changes. Given these debates, it is still a mystery as to whether the human cortex-to-brain ratio is large relative to other species. </para>
-    
-    <para id="para-00009">Some brain regions vary across species as allometry would predict. That is, proportional differences in brain region volume are explained by changes in total brain volume. In other cases, we observe <term id="term-00003">grade shifts</term>. Grade shifts are relative changes in size of a brain region after controlling for brain size (Barton and Harvey, 2000; Charvet et al., 2012). In other words, brain regions may be larger or smaller than they should be based on what we would expect for a given brain size. What a grade shift means in terms of brain function, though, is still difficult to predict based on brain region size. We will discuss this topic below. </para>
-    
-    <para id="para-00010">Grade shifts are evident in different groups of mammals (including primates), and they are observed in different regions. Some primate species, including great apes, and monkeys possess a disproportionately enlarged cerebral cortex relative to other mammals (Barton and Harvey, 2000, Finlay et al., 1998, Stephan et al., 1981). In the case of the cerebral cortex, the cerebral cortex is much bigger than that of other mammals of similar brain size. What is interesting is that we see grade shifts multiple times across different groups of mammals. For example, the cerebral cortex is bigger in monkey species relative to other rodents of similar brain size. For example, monkeys have relatively enlarged cortices even though these groups live in diverse environments each with species-specific life histories. The presence of these grade shifts shows that there is no clear one-to-one connection between the size of brain parts and behavior or environmental demands. Rather, changes in relative size of brain regions apply to whole groups of species.</para>
+      <title>Relative brain regions vary across species</title>
+      <para id="para-00004">One salient feature about the human brain is that the human cerebral cortex is very big, and that it occupies a large proportion of our brain, more so than in many other species. For example, the cerebral cortex occupies approximately 80% of the brain in humans but the cerebral cortex only occupies 20% of brain volume in mice. It might therefore seem reasonable to assume that our proportionally enlarged cerebral cortex sets humans apart from other mammals. But, it is well known that the size of brain parts, including the cerebral cortex, varies allometrically. <term id="term-00001">Allometry</term> means that proportions change with overall size (Dial et al., 2008). We will explain the concept of allometry in greater detail.</para>
+
+      <para id="para-00005">Brain region volumes vary across species. <link target-id="Image-4.19" /> depicts brains of mice, rhesus macaques and humans.</para>
+      <figure id="Image-4.19">
+        <title>Brain regions vary allometrically</title>
+        <media alt="Three part diagram. 1) Bar graph showing cortex proportional of total brain volume with mouse less then macaque less than human. This represents positive allometry. 2) Diagrams of mouse, rhesus macaque and human brains scaled to be the same size with cortex highlighted, showing more cortex in human than in rhesus macaque than in mouse. 3) These three brains drawn to scale, with mouse being much smaller than macaque which is much smaller than human.">
+          <image mime-type="image/png" src="../../media/Image-4.19_Brain-regions-vary-allometrically.png" />
+        </media>
+        <caption>A greater relative contribution of cortex to total brain mass is seen in monkeys and humans compared to mice, reflecting the positive allometry of the cortex.</caption>
+      </figure>
+
+      <para id="para-00006">As can be seen from the to-scale images in the far right, these brains have very different total sizes. One noticeable observation from <link target-id="Image-4.19" /> is that larger brains are preferentially composed of the cerebral cortex. This observation is true when we consider these species, but it also holds when we consider other mammals. Brain allometry means that as overall brains vary in size, some brain regions come to occupy a relatively large proportion of the brain while other brain regions occupy a relatively small proportion of the brain.</para>
+
+      <para id="para-00041">A formal way to describe proportional changes in the relative size of brain parts is to say that brain regions vary <term id="term-00002">allometrically</term> (Stephan et al., 1981; Reep et al., 2007; Yopak et al., 2010; Bush and Allman, 2004). Saying that the cerebral cortex has a positive allometry means that the cerebral cortex becomes relatively enlarged in bigger brains. Species such as humans, whales, and elephants possess a big brain and a relatively enlarged cortex. In contrast, small-brained mammals such as mice, rats, hamsters, and mole rats have relatively small cerebral cortices by virtue of their small brain.</para>
+
+      <para id="para-00007">The human brain is by far the biggest of all primates and the human cortex occupies the largest proportion of the brain among primates. There are many debates as to whether the size of human brain regions, like the cortex, is unusually small, large or within the expected range considering the size of the human brain. It is possible our large cerebral cortex is exactly the size one would expect of a primate based on the total human brain size. The controversy as to whether human brain parts are small or large based on our brain size arises because we have no nonhuman primate brain of the same size for comparison, which fuels debate as to whether human cerebral cortices are unusual in size or the consequence of allometric changes. Given these debates, it is still a mystery as to whether the human cortex-to-brain ratio is large relative to other species. </para>
+
+      <para id="para-00009">Some brain regions vary across species as allometry would predict. That is, proportional differences in brain region volume are explained by changes in total brain volume. In other cases, we observe <term id="term-00003">grade shifts</term>. Grade shifts are relative changes in size of a brain region after controlling for brain size (Barton and Harvey, 2000; Charvet et al., 2012). In other words, brain regions may be larger or smaller than they should be based on what we would expect for a given brain size. What a grade shift means in terms of brain function, though, is still difficult to predict based on brain region size. We will discuss this topic below. </para>
+
+      <para id="para-00010">Grade shifts are evident in different groups of mammals (including primates), and they are observed in different regions. Some primate species, including great apes, and monkeys possess a disproportionately enlarged cerebral cortex relative to other mammals (Barton and Harvey, 2000, Finlay et al., 1998, Stephan et al., 1981). In the case of the cerebral cortex, the cerebral cortex is much bigger than that of other mammals of similar brain size. What is interesting is that we see grade shifts multiple times across different groups of mammals. For example, the cerebral cortex is bigger in monkey species relative to other rodents of similar brain size. For example, monkeys have relatively enlarged cortices even though these groups live in diverse environments each with species-specific life histories. The presence of these grade shifts shows that there is no clear one-to-one connection between the size of brain parts and behavior or environmental demands. Rather, changes in relative size of brain regions apply to whole groups of species.</para>
     </section>
     <section id="sect-00004">
-    <title>Sensory and motor specializations across mammals</title>
-    <para id="para-00011">A standard approach to testing whether a brain region is unusually large or small is to ask whether a brain region is expanded or reduced after controlling for its overall brain size. Our example of the cerebral cortex in primates above suggests that just seeing an enlarged brain region does not necessarily tell us its function. That is not to say that brain region sizes have no relationship to behavior. On the contrary, there are several prominent examples where brain region size tells us a lot about the behaviors of a species. The link between size and function is especially evident when considering animals with a loss of sensory capability or if they show a specialization. In those cases, there is generally an association between cortical area size and sensory ability after accounting for allometric variation in brain region size. For instance, the platypus detects vibrations in the water, and possesses an expanded primary somatosensory cortex, which is responsible for processing somatosensory information from the bill (Krubitzer, 1995; Krubitzer et al., 1995; Krubitzer and Prescott, 2018). The top of <link target-id="Image-4.09"/> shows some representative brains from several species, which show how relative proportions of cortical areas vary across species.</para>
-    <figure id="Image-4.09"><title>Evolution of cortical areas</title>
+      <title>Sensory and motor specializations across mammals</title>
+      <para id="para-00011">A standard approach to testing whether a brain region is unusually large or small is to ask whether a brain region is expanded or reduced after controlling for its overall brain size. Our example of the cerebral cortex in primates above suggests that just seeing an enlarged brain region does not necessarily tell us its function. That is not to say that brain region sizes have no relationship to behavior. On the contrary, there are several prominent examples where brain region size tells us a lot about the behaviors of a species. The link between size and function is especially evident when considering animals with a loss of sensory capability or if they show a specialization. In those cases, there is generally an association between cortical area size and sensory ability after accounting for allometric variation in brain region size. For instance, the platypus detects vibrations in the water, and possesses an expanded primary somatosensory cortex, which is responsible for processing somatosensory information from the bill (Krubitzer, 1995; Krubitzer et al., 1995; Krubitzer and Prescott, 2018). The top of <link target-id="Image-4.09" /> shows some representative brains from several species, which show how relative proportions of cortical areas vary across species.</para>
+      <figure id="Image-4.09">
+        <title>Evolution of cortical areas</title>
         <media alt="Two-part image. 1) A phylogenetic tree starting with a common ancestor to marsupials and several placentals, including rodents, carnivores and primates. Colorcoding highlights major cortical areas and shows great variation in the relative portion of cortex occupied by different cortical areas by species. These are attributed to species-specific adaptation. 2) Photo of a mole rat, a small furry rodent with no eyes plus a diagram of the cortical surface of a mole rat showing an enlarge somatosensory cortex at the expense of visual and auditory areas, reflecting its strong reliance on touch sensation to navigate underground.">
-        <image mime-type="image/png" src="../../media/Image-4.09_Evolution-of-cortical-areas.png"/>
-      </media>
-    <caption>Image credit: Mole Image by Bassem18. "Palestine Mole-rat" (2007) CC BY SA 3.0 https://commons.wikimedia.org/wiki/File:Palestine_Mole-rat_1.jpg</caption>
-    </figure>    
-    <para id="para-00012">This variation is shaped by allometry as well as species-specific behavioral adaptations. If we compare the relative size of the rodent somatosensory area with that of primates, we see that rodents have expanded somatosensory cortex dedicated to input from their whiskers. This situation is similar to that observed in the platypus, which show an expanded somatosensory cortex linked to their bill (as described above). Primates, in contrast, rely far less on somatosensory input and have a much smaller relative somatosensory cortex. The expansion of somatosensory areas in rodents typically comes at a cost to visual and other sensory areas. Rodent species with reduced or no visual capabilities provide a particularly notable example of this kind of specialization. This is the case in blind mole rats, which are nearly blind (<link target-id="Image-4.09"/>). These blind mole rats have reduced cortical territory devoted to processing visual information and a massively expanded somatosensory cortex to process sensory information from the body. </para>
-    
-    <para id="para-00013">A relevant question at this point is where these variations in cortical size come from? Are they “hard-wired” into each species or do they arise from experience and therefore can change? The answer is a bit of both. Much of the size differences in brain regions across species is encoded in the genome. That is, a human cannot increase their exposure to touch sensation and develop a somatosensory cortex to rival a platypus. Yet, experience can shape the size of brain regions to some extent. Indeed, a range of studies focused on the neural basis of experience-dependent plasticity and cross-species comparisons have systematically shown a link between experience and size in cortical territories. For example, musicians have an expanded auditory cortex, and this is thought to be because of their sustained attention to listening and playing music (described below; Strait et al., 2014; Moreno and Bidelman, 2014).</para>
-    
-    <para id="para-00014">Studies from experimental models further demonstrate that cortical areas change with experience, and others show the importance of attention in mediating changes in cortical territory (Dooley et al., 2017; Ramamurthy and Krubitzer, 2018; Dooley and Krubitzer, 2019). Animals may be exposed to stimuli or be deprived from stimuli, and their cortices reorganize in response to this input. See <link document="m00001">Hearing and Balance</link> for an interesting example of how the auditory cortex reorganizes based on the frequencies of sound during development. Experimental results combined with cross-species analysis of sensory and motor specialization demonstrate that cortical plasticity is determined by the environment.</para></section>
+          <image mime-type="image/png" src="../../media/Image-4.09_Evolution-of-cortical-areas.png" />
+        </media>
+        <caption>Image credit: Mole Image by Bassem18. "Palestine Mole-rat" (2007) CC BY SA 3.0 https://commons.wikimedia.org/wiki/File:Palestine_Mole-rat_1.jpg</caption>
+      </figure>
+      <para id="para-00012">This variation is shaped by allometry as well as species-specific behavioral adaptations. If we compare the relative size of the rodent somatosensory area with that of primates, we see that rodents have expanded somatosensory cortex dedicated to input from their whiskers. This situation is similar to that observed in the platypus, which show an expanded somatosensory cortex linked to their bill (as described above). Primates, in contrast, rely far less on somatosensory input and have a much smaller relative somatosensory cortex. The expansion of somatosensory areas in rodents typically comes at a cost to visual and other sensory areas. Rodent species with reduced or no visual capabilities provide a particularly notable example of this kind of specialization. This is the case in blind mole rats, which are nearly blind (<link target-id="Image-4.09" />). These blind mole rats have reduced cortical territory devoted to processing visual information and a massively expanded somatosensory cortex to process sensory information from the body. </para>
+
+      <para id="para-00013">A relevant question at this point is where these variations in cortical size come from? Are they “hard-wired” into each species or do they arise from experience and therefore can change? The answer is a bit of both. Much of the size differences in brain regions across species is encoded in the genome. That is, a human cannot increase their exposure to touch sensation and develop a somatosensory cortex to rival a platypus. Yet, experience can shape the size of brain regions to some extent. Indeed, a range of studies focused on the neural basis of experience-dependent plasticity and cross-species comparisons have systematically shown a link between experience and size in cortical territories. For example, musicians have an expanded auditory cortex, and this is thought to be because of their sustained attention to listening and playing music (described below; Strait et al., 2014; Moreno and Bidelman, 2014).</para>
+
+      <para id="para-00014">Studies from experimental models further demonstrate that cortical areas change with experience, and others show the importance of attention in mediating changes in cortical territory (Dooley et al., 2017; Ramamurthy and Krubitzer, 2018; Dooley and Krubitzer, 2019). Animals may be exposed to stimuli or be deprived from stimuli, and their cortices reorganize in response to this input. See <link document="m00001">Hearing and Balance</link> for an interesting example of how the auditory cortex reorganizes based on the frequencies of sound during development. Experimental results combined with cross-species analysis of sensory and motor specialization demonstrate that cortical plasticity is determined by the environment.</para>
+    </section>
 
     <section class="section-summary" id="sect-00005">
       <title>Summary</title>
@@ -71,39 +75,39 @@
       <para id="para-00016">Aboitiz, F. (1996). Does bigger mean better? Evolutionary determinants of brain size and structure. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">47</emphasis>(5), 225–245. https://doi.org/10.1159/000113243</para>
 
       <para id="para-00017">Barton, R. A., &amp; Harvey, P. H. (2000). Mosaic evolution of brain structure in mammals. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">405</emphasis>, 1055–1058. https://doi.org/10.1038/35016580</para>
-      
+
       <para id="para-00018">Bush, E. C., &amp; Allman, J. M. (2004). The scaling of frontal cortex in primates and carnivores. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">101</emphasis>(11), 3962–3966. https://doi.org/10.1073/pnas.0305760101</para>
-      
+
       <para id="para-00019">Corbin, J. G., Nery, S., &amp; Fishell, G. (2001). Telencephalic cells take a tangent: Non-radial migration in the mammalian forebrain. <emphasis effect="italics">Nature Neuroscience</emphasis>, <emphasis effect="italics">4</emphasis>(11), 1177–1182. https://doi.org/10.1038/nn749</para>
-      
+
       <para id="para-00020">de Sousa, A. A., Beaudet, A., Calvey, T., Bardo, A., Benoit, J., Charvet, C. J., Dehay, C., Gómez-Robles, A., Gunz, P., Heuer, K., van den Heuvel, M. P., Hurst, S., Lauters, P., Reed, D., Salagnon, M., Sherwood, C. C., Ströckens, F., Tawane, M., Todorov, O. S., Toro, R., &amp; Wei, Y. (2023). From fossils to mind. <emphasis effect="italics">Communications Biology</emphasis>, <emphasis effect="italics">6</emphasis>, 636. https://doi.org/10.1038/s42003-023-04803-4</para>
-      
+
       <para id="para-00021">Dial, K. P., Greene, E., &amp; Irschick, D. J. (2008). Allometry of behavior. <emphasis effect="italics">Trends in Ecology &amp; Evolution</emphasis>, <emphasis effect="italics">23</emphasis>(7), 394–401. https://doi.org/10.1016/j.tree.2008.03.005</para>
-      
+
       <para id="para-00028">Dooley, J. C., Donaldson, M. S., &amp; Krubitzer, L. A. (2017). Cortical plasticity following stripe rearing in the marsupial Monodelphis domestica: Neural response properties of V1. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">117</emphasis>(2), 566–581. https://doi.org/10.1152/jn.00431.2016</para>
-      
+
       <para id="para-00029">Dooley, J. C., &amp; Krubitzer, L. A. (2019). Alterations in cortical and thalamic connections of somatosensory cortex following early loss of vision. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">527</emphasis>(10), 1675–1688. https://doi.org/10.1002/cne.24582</para>
 
       <para id="para-00022">Hofman, M. A. (2014). Evolution of the human brain: When bigger is better. <emphasis effect="italics">Frontiers in Neuroanatomy</emphasis>, <emphasis effect="italics">8</emphasis>, 15. https://doi.org/10.3389/fnana.2014.00015</para>
-      
+
       <para id="para-00023">Finlay, B. L., &amp; Darlington, R. B. (1995). Linked regularities in the development and evolution of mammalian brains. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">268</emphasis>(5217), 1578–1584. https://doi.org/10.1126/science.7777856</para>
-      
+
       <para id="para-00024">Finlay, B. L., Darlington, R. B., &amp; Nicastro, N. (2001). Developmental structure in brain evolution. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">24</emphasis>(2), 263–278.</para>
-      
+
       <para id="para-00025">Krubitzer, L. (1995). The organization of neocortex in mammals: Are species differences really so different? <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>(9), 408–417. https://doi.org/10.1016/0166-2236(95)93938-T</para>
-      
+
       <para id="para-00026">Krubitzer, L. A., &amp; Prescott, T. J. (2018). The combinatorial creature: Cortical phenotypes within and across lifetimes. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">41</emphasis>, 744–762. https://doi.org/10.1016/j.tins.2018.08.002</para>
-      
+
       <para id="para-00027">Krubitzer, L., Manger, P., Pettigrew, J., &amp; Calford, M. (1995). Organization of somatosensory cortex in monotremes: In search of the prototypical plan. <emphasis effect="italics">Journal of Comparative Neurology</emphasis>, <emphasis effect="italics">351</emphasis>(2), 261–306. https://doi.org/10.1002/cne.903510206</para>
-      
+
       <para id="para-00030">Moreno, S., &amp; Bidelman, G. M. (2014). Examining neural plasticity and cognitive benefit through the unique lens of musical training. <emphasis effect="italics">Hearing Research</emphasis>, <emphasis effect="italics">308</emphasis>, 84–97. https://doi.org/10.1016/j.heares.2013.09.012</para>
-      
+
       <para id="para-00031">Ramamurthy, D. L., &amp; Krubitzer, L. A. (2018). Neural coding of whisker-mediated touch in primary somatosensory cortex is altered following early blindness. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">38</emphasis>(27), 6172–6189. https://doi.org/10.1523/JNEUROSCI.0066-18.2018</para>
-      
+
       <para id="para-00035">Recanzone, G. H., Merzenich, M. M., Jenkins, W. M., Grajski, K. A., &amp; Dinse, H. R. (1992). Topographic reorganization of the hand representation in cortical area 3b owl monkeys trained in a frequency-discrimination task. <emphasis effect="italics">Journal of Neurophysiology</emphasis>, <emphasis effect="italics">67</emphasis>(5), 1031–1056. https://doi.org/10.1152/jn.1992.67.5.1031</para>
-      
+
       <para id="para-00042">Recanzone, G. H., Schreiner, C. E., &amp; Merzenich, M. M. (1993). Plasticity in the frequency representation of primary auditory cortex following discrimination training in adult owl monkeys. <emphasis effect="italics">Journal of Neuroscience</emphasis>, <emphasis effect="italics">13</emphasis>(1), 87–103. https://doi.org/10.1523/jneurosci.13-01-00087.1993</para>
-      
+
       <para id="para-00033">Reep, R. L., Finlay, B. L., &amp; Darlington, R. B. (2007). The limbic system in mammalian brain evolution. <emphasis effect="italics">Brain, Behavior and Evolution</emphasis>, <emphasis effect="italics">70</emphasis>(1), 57–70. https://doi.org/10.1159/000101491</para>
 
       <para id="para-00032">Stephan, H., Frahm, H., &amp; Baron, G. (1981). New and revised data on volumes of brain structures in insectivores and primates. <emphasis effect="italics">Folia Primatologica</emphasis>, <emphasis effect="italics">35</emphasis>(1), 1–29. https://doi.org/10.1159/000155963</para>
@@ -111,28 +115,40 @@
       <para id="para-00043">Strait, D. L., &amp; Kraus, N. (2014). Biological impact of auditory expertise across the life span: Musicians as a model of auditory learning. <emphasis effect="italics">Hearing Research</emphasis>, <emphasis effect="italics">308</emphasis>, 109–121. https://doi.org/10.1016/j.heares.2013.08.004</para>
 
       <para id="para-00034">Yopak, K. E., Lisney, T. J., Darlington, R. B., Collin, S. P., Montgomery, J. C., &amp; Finlay, B. L. (2010). A conserved pattern of brain scaling from sharks to primates. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">107</emphasis>(29), 12946–12951. https://doi.org/10.1073/pnas.1002195107</para>
-      
-      
+
+
     </section>
-    <section class="multiple-choice" id="sect-00008"><title>Multiple Choice</title>
+    <section class="multiple-choice" id="sect-00008">
+      <title>Multiple Choice</title>
       <exercise id="exer-00001">
-          <problem id="prob-00001">
-      <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-03-001"/></para></problem></exercise>
+        <problem id="prob-00001">
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-04-03-001" /></para>
+        </problem>
+      </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-    <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-04-03-002"/></para></problem></exercise>
-    <exercise id="exer-00003">
-      <problem id="prob-00003">
-  <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-04-03-003"/></para></problem></exercise>
-  <exercise id="exer-00004">
-    <problem id="prob-00004">
-<para id="para-00039"><link class="os-embed" url="#exercise/Neuro-04-03-004"/></para></problem></exercise>
-       </section>
-      <section class="fillin-blank" id="sect-00009"><title>Fill in the Blank</title>
+          <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-04-03-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00038"><link class="os-embed" url="#exercise/Neuro-04-03-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00039"><link class="os-embed" url="#exercise/Neuro-04-03-004" /></para>
+        </problem>
+      </exercise>
+    </section>
+    <section class="fillin-blank" id="sect-00009">
+      <title>Fill in the Blank</title>
       <exercise id="exer-00005">
-          <problem id="prob-00005">
-      <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-04-03-005"/></para></problem></exercise>
-      </section>
-      
+        <problem id="prob-00005">
+          <para id="para-00040"><link class="os-embed" url="#exercise/Neuro-04-03-005" /></para>
+        </problem>
+      </exercise>
+    </section>
+
   </content>
 </document>

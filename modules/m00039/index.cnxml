@@ -10,307 +10,103 @@
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you should be able to</para>
       <list id="list-00001">
-        <item>List the basic taste modalities, and for each, provide examples of the type of
-          molecules they represent; for these examples describe why it might be important for an
-          organism to detect those types of molecules.</item>
-        <item>Describe behaviors that rely on olfactory cues in their environment and how these
-          behaviors promote survival.</item>
+        <item>List the basic taste modalities, and for each, provide examples of the type of molecules they represent; for these examples describe why it might be important for an organism to detect those types of molecules.</item>
+        <item>Describe behaviors that rely on olfactory cues in their environment and how these behaviors promote survival.</item>
       </list>
     </section>
-    <para id="para-00002"><term id="term-00001">Signal integration</term> is arguably the most
-      fundamental function of the nervous system. While our brain can integrate information from any
-      of our senses, our perception of taste and smell is likely the most profound sensory
-      integration a human commonly experiences. One often-used example of this phenomenon is how a
-      head cold alters the perception of food. Who among us has not sought the comfort in a favorite
-      food while unwell only to be shocked at the incredible blandness? We might have even thought
-      or said: “I cannot ‘taste’ anything today.” However, this perception is typically not the
-      result of dysfunction in any signaling proteins, receptor cells, or sensory neurons of the
-      “taste” neural system. Instead, in this example, our perception of altered taste is caused by
-      the absence of the olfactory signals that typically occur while feeding. Our brains so tightly
-      interweave the signals produced by the chemical senses during feeding that the common
-      definitions of taste and smell lack the precision needed for describing the underlying
-      neurobiology.</para>
+    <para id="para-00002"><term id="term-00001">Signal integration</term> is arguably the most fundamental function of the nervous system. While our brain can integrate information from any of our senses, our perception of taste and smell is likely the most profound sensory integration a human commonly experiences. One often-used example of this phenomenon is how a head cold alters the perception of food. Who among us has not sought the comfort in a favorite food while unwell only to be shocked at the incredible blandness? We might have even thought or said: “I cannot ‘taste’ anything today.” However, this perception is typically not the result of dysfunction in any signaling proteins, receptor cells, or sensory neurons of the “taste” neural system. Instead, in this example, our perception of altered taste is caused by the absence of the olfactory signals that typically occur while feeding. Our brains so tightly interweave the signals produced by the chemical senses during feeding that the common definitions of taste and smell lack the precision needed for describing the underlying neurobiology.</para>
 
-    <para id="para-00003">The complex connections between taste and smell can also make
-      communicating about these systems challenging. While the common definitions of taste and smell
-      are imprecise, they are helpful in accurately describing human perceptions that motivate
-      fundamental animal behaviors. Thus, in this chapter, we use the term <term id="term-00007">
-      smell</term> when referring to the chemosensory perception of inhaled air but use olfaction
-      when describing the chemosensory system housed primarily in the nasal cavity. Similarly, the
-      term <term id="term-00002">taste</term> commonly refers to the chemosensory perception of the
-      oral cavity, but gustation specifically refers to the chemosensory system housed primarily in
-      the oral cavity. To make this distinction even more explicit, <term id="term-00003">flavor</term>
-      is the preferred term neuroscientists use to refer to the perception of oral chemosensation,
-      which is produced when the brain integrates signals from the gustatory, olfactory and
-      somatosensory systems. Comprehending these distinctions is the first step in understanding the
-      neuroscience of the chemical senses and the vital behaviors they mediate. In this section, we
-      will use the above vocabulary to explain the basic functioning of chemosensory systems before
-      we explore how each system produces specific sensations in subsequent sections.</para>
+    <para id="para-00003">The complex connections between taste and smell can also make communicating about these systems challenging. While the common definitions of taste and smell are imprecise, they are helpful in accurately describing human perceptions that motivate fundamental animal behaviors. Thus, in this chapter, we use the term <term id="term-00007"> smell</term> when referring to the chemosensory perception of inhaled air but use olfaction when describing the chemosensory system housed primarily in the nasal cavity. Similarly, the term <term id="term-00002">taste</term> commonly refers to the chemosensory perception of the oral cavity, but gustation specifically refers to the chemosensory system housed primarily in the oral cavity. To make this distinction even more explicit, <term id="term-00003">flavor</term> is the preferred term neuroscientists use to refer to the perception of oral chemosensation, which is produced when the brain integrates signals from the gustatory, olfactory and somatosensory systems. Comprehending these distinctions is the first step in understanding the neuroscience of the chemical senses and the vital behaviors they mediate. In this section, we will use the above vocabulary to explain the basic functioning of chemosensory systems before we explore how each system produces specific sensations in subsequent sections.</para>
     <section id="sect-00002">
       <title>Taste-mediated behaviors</title>
-      <para id="para-00004">The primary role of the sense of <term id="term-00004">gustation</term>
-        is to determine the chemical composition of substances we are about to ingest. The gustatory
-        system is capable of detecting only a few specific types of molecules when in high
-        concentration at close proximity with receptor cells, and it triggers only a handful of
-        sensations or modalities (Sweet, Umami, Salty, Sour, Bitter, etc.). While this is relatively
-        few modalities compared to olfaction, gustation is essential for survival. It is the final
-        mechanism by which animals decide if materials are full of life-giving nutrients or
-        life-threatening poisons.</para>
+      <para id="para-00004">The primary role of the sense of <term id="term-00004">gustation</term> is to determine the chemical composition of substances we are about to ingest. The gustatory system is capable of detecting only a few specific types of molecules when in high concentration at close proximity with receptor cells, and it triggers only a handful of sensations or modalities (Sweet, Umami, Salty, Sour, Bitter, etc.). While this is relatively few modalities compared to olfaction, gustation is essential for survival. It is the final mechanism by which animals decide if materials are full of life-giving nutrients or life-threatening poisons.</para>
       <section id="sect-00003">
         <title>Acquiring molecules essential for life</title>
-        <para id="para-00005">All animals consume food for energy and to obtain the chemical
-          building blocks used to construct and repair their bodies. In humans and most other
-          species, there are several broad classes of molecules that must be identified by the
-          organism and ingested. Specifically, the detection of carbohydrates and/or protein
-          (strings of amino acids) in food are critically important for most animals. Many animals
-          also require a source of essential fatty acids that they cannot synthesize <emphasis
-            effect="italics">de novo</emphasis>, as well as external sources of salts to help
-          maintain healthy fluid balance. The ability of animals to perceive carbohydrates, amino
-          acids, fatty acids, and salts in food is largely mediated by the gustatory system. Each of
-          these molecules plays an indispensable role in the fundamental physiological and metabolic
-          processes of animals and must be acquired through ingesting food. Thus, one of the most
-          important roles the gustatory system plays in animal behavior is to allow an animal to
-          determine the nutritive value of a particular food before it is ingested and mediate
-          decisions about which food sources to pursue. For humans, the positive hedonic experience
-          provided by consuming sweet, umami, fatty, and salty foods drives food choices that
-          exacerbate some of the most prevalent diseases in the developed world (see <link
-            document="m00054">Homeostasis</link>). Therefore, understanding how the gustatory system
-          and brain work in concert to decide which foods an animal seeks out is of primary
-          importance to understanding animal behaviors and managing human diseases.</para>
+        <para id="para-00005">All animals consume food for energy and to obtain the chemical building blocks used to construct and repair their bodies. In humans and most other species, there are several broad classes of molecules that must be identified by the organism and ingested. Specifically, the detection of carbohydrates and/or protein (strings of amino acids) in food are critically important for most animals. Many animals also require a source of essential fatty acids that they cannot synthesize <emphasis
+            effect="italics">de novo</emphasis>, as well as external sources of salts to help maintain healthy fluid balance. The ability of animals to perceive carbohydrates, amino acids, fatty acids, and salts in food is largely mediated by the gustatory system. Each of these molecules plays an indispensable role in the fundamental physiological and metabolic processes of animals and must be acquired through ingesting food. Thus, one of the most important roles the gustatory system plays in animal behavior is to allow an animal to determine the nutritive value of a particular food before it is ingested and mediate decisions about which food sources to pursue. For humans, the positive hedonic experience provided by consuming sweet, umami, fatty, and salty foods drives food choices that exacerbate some of the most prevalent diseases in the developed world (see <link
+            document="m00054">Homeostasis</link>). Therefore, understanding how the gustatory system and brain work in concert to decide which foods an animal seeks out is of primary importance to understanding animal behaviors and managing human diseases.</para>
       </section>
       <section id="sect-00004">
         <title>Rejection of potentially toxic or poisonous chemicals</title>
-        <para id="para-00006">Of equal importance to the gustatory system’s role in the selecting of
-          nutritious foods is its capacity to detect dangerous chemicals. Consuming essential
-          molecules is a constant necessity for animal life, but mistakenly ingesting toxic,
-          poisonous, or infectious materials only once can be a fatal error! Accordingly, the
-          detection of compounds that indicate contamination with microorganisms or potential
-          poisons can trigger the rejection or avoidance of those foods. For example, many
-          vertebrate animals, including human infants, find sour foods aversive. Humans describe the
-          taste of acids as being sour. Weakly acidic compounds are often produced in high
-          concentrations by microorganisms metabolizing biomolecules—a process called fermentation.
-          A possible explanation for the tendency of most animals to avoid sour substances is that
-          foods with a high concentration of weak acids were likely decaying and were possibly
-          dangerous to consume. Nevertheless, most adult humans readily consume foods that are
-          fermented, like alcoholic beverages, yogurt, miso, kimchi, sauerkraut, garum, and certain
-          types of sausages and cheeses. However, almost all these foods are thought of as “acquired
-          tastes” that are avoided by inexperienced eaters. This phenomenon highlights the
-          plasticity of the gustatory system and is an indication of how experience can shape the
-          hedonic valence of the foods we consume.</para>
+        <para id="para-00006">Of equal importance to the gustatory system’s role in the selecting of nutritious foods is its capacity to detect dangerous chemicals. Consuming essential molecules is a constant necessity for animal life, but mistakenly ingesting toxic, poisonous, or infectious materials only once can be a fatal error! Accordingly, the detection of compounds that indicate contamination with microorganisms or potential poisons can trigger the rejection or avoidance of those foods. For example, many vertebrate animals, including human infants, find sour foods aversive. Humans describe the taste of acids as being sour. Weakly acidic compounds are often produced in high concentrations by microorganisms metabolizing biomolecules—a process called fermentation. A possible explanation for the tendency of most animals to avoid sour substances is that foods with a high concentration of weak acids were likely decaying and were possibly dangerous to consume. Nevertheless, most adult humans readily consume foods that are fermented, like alcoholic beverages, yogurt, miso, kimchi, sauerkraut, garum, and certain types of sausages and cheeses. However, almost all these foods are thought of as “acquired tastes” that are avoided by inexperienced eaters. This phenomenon highlights the plasticity of the gustatory system and is an indication of how experience can shape the hedonic valence of the foods we consume.</para>
       </section>
 
-      <para id="para-00007">Another example of a taste that potentially signals danger is
-        bitterness. Humans perceive several classes of molecules as being bitter. These molecules
-        are usually found in plants and are likely to have physiological or psychoactive effects on
-        animals. Analogous to “acquiring a taste” for fermented foods, many humans also acquire a
-        taste for bitter compounds that alter their physiology; alcohol, caffeine, nicotine, and
-        cocaine are all perceived as being intensely bitter, but humans commonly will learn to
-        tolerate the bitter taste of these drugs in pursuit of the psychoactive effects. Conversely,
-        the bitter taste of many pharmaceuticals can cause individuals to avoid ingesting
-        therapeutic drugs, and some green vegetables that have health benefits are also avoided
-        because of their bitter taste. Despite these last two examples, perceiving compounds as
-        bitter likely warns of a substance that could detrimentally alter an animal's health.</para>
+      <para id="para-00007">Another example of a taste that potentially signals danger is bitterness. Humans perceive several classes of molecules as being bitter. These molecules are usually found in plants and are likely to have physiological or psychoactive effects on animals. Analogous to “acquiring a taste” for fermented foods, many humans also acquire a taste for bitter compounds that alter their physiology; alcohol, caffeine, nicotine, and cocaine are all perceived as being intensely bitter, but humans commonly will learn to tolerate the bitter taste of these drugs in pursuit of the psychoactive effects. Conversely, the bitter taste of many pharmaceuticals can cause individuals to avoid ingesting therapeutic drugs, and some green vegetables that have health benefits are also avoided because of their bitter taste. Despite these last two examples, perceiving compounds as bitter likely warns of a substance that could detrimentally alter an animal's health.</para>
 
 
-      <para id="para-00008">The primary behavior mediated by the gustatory system is the acceptance
-        or rejection of particular foods. However, it is the integration of these signals with
-        olfactory signals and even the somatosensory system (see <link document="m00040">Chemethesis,
-        Spices, and Solitary Chemosensory Cells</link>) by the brain that creates the sensation we
-        refer to as “taste” or more precisely flavor.</para>
+      <para id="para-00008">The primary behavior mediated by the gustatory system is the acceptance or rejection of particular foods. However, it is the integration of these signals with olfactory signals and even the somatosensory system (see <link document="m00040">Chemethesis, Spices, and Solitary Chemosensory Cells</link>) by the brain that creates the sensation we refer to as “taste” or more precisely flavor.</para>
     </section>
     <section id="sect-00005">
       <title>Olfactory-mediated behaviors</title>
-      <para id="para-00009">The function of the <term id="term-00005">olfactory system</term> stands
-        in contrast to the gustatory system. While the gustatory system detects only a handful of
-        molecules, the olfactory system can detect almost any type of volatile (e.g. air-borne)
-        organic molecule, producing a seemingly inexhaustible collection of different types of
-        smells by detecting specific motifs in those molecules. The olfactory system is also
-        sensitive to incredibly small concentrations of molecules and can therefore detect sources
-        of volatile molecules at great distances. Our sense of smell does more than just add sensory
-        complexity to the flavor profile of a meal or allow us to enjoy the scent of a spring
-        flower. Across the animal kingdom, the olfactory system is an important sensory modality for
-        numerous sensory-guided behaviors. Below, we describe three olfaction-dependent behaviors:
-        navigation, nutrient finding, and mate selection/communication.</para>
+      <para id="para-00009">The function of the <term id="term-00005">olfactory system</term> stands in contrast to the gustatory system. While the gustatory system detects only a handful of molecules, the olfactory system can detect almost any type of volatile (e.g. air-borne) organic molecule, producing a seemingly inexhaustible collection of different types of smells by detecting specific motifs in those molecules. The olfactory system is also sensitive to incredibly small concentrations of molecules and can therefore detect sources of volatile molecules at great distances. Our sense of smell does more than just add sensory complexity to the flavor profile of a meal or allow us to enjoy the scent of a spring flower. Across the animal kingdom, the olfactory system is an important sensory modality for numerous sensory-guided behaviors. Below, we describe three olfaction-dependent behaviors: navigation, nutrient finding, and mate selection/communication.</para>
 
       <section id="sect-00006">
         <title>Navigation</title>
-        <para id="para-00010">Navigation occurs on many scales. Bacteria climb chemical gradients to
-          traverse mere fractions of an inch. Insects, like ants and honeybees, travel dozens of
-          meters to find food and nectar. And salmon return hundreds of kilometers to spawn in the
-          very same river from which they hatched. While these examples occur on vastly different
-          spatial scales, they each rely on interactions with chemical cues in the environment. It
-          has long been a mystery how salmon know to return to the exact location they hatched from
-          an egg. We now know that the local olfactory or chemical composition of a river plays an
-          important role in their migration. Fish can smell underwater by detecting waterborne
-          chemicals, much like we do for airborne odors.</para>
+        <para id="para-00010">Navigation occurs on many scales. Bacteria climb chemical gradients to traverse mere fractions of an inch. Insects, like ants and honeybees, travel dozens of meters to find food and nectar. And salmon return hundreds of kilometers to spawn in the very same river from which they hatched. While these examples occur on vastly different spatial scales, they each rely on interactions with chemical cues in the environment. It has long been a mystery how salmon know to return to the exact location they hatched from an egg. We now know that the local olfactory or chemical composition of a river plays an important role in their migration. Fish can smell underwater by detecting waterborne chemicals, much like we do for airborne odors.</para>
       </section>
       <section id="sect-00007">
         <title>Nutrient finding</title>
-        <para id="para-00011">Nutrients are found in food sources that provide animals with energy
-          and essential compounds for their growth. We discussed above the critical role of
-          gustation in helping animals to assess the nutrients in food they might ingest, but
-          olfaction is essential to locating these nutrients. A crying baby searching for its
-          mother’s milk is a familiar example of nutrient sensing that relies on olfaction. Milk is
-          especially rich in lipids (fats) and all mammals rely on it for their caloric intake early
-          in life. Because of this, it is critical that animals can locate and obtain this important
-          food source. Many mammals, like rodents, begin life without the ability to see or hear and
-          must find their way to milk in order to thrive. These animals rely on their sense of smell
-          to find their mother and her milk. Similarly, not all fats and sugars carry the same
-          nutritional content; olfaction helps babies and adults are able to distinguish between
-          them.</para>
+        <para id="para-00011">Nutrients are found in food sources that provide animals with energy and essential compounds for their growth. We discussed above the critical role of gustation in helping animals to assess the nutrients in food they might ingest, but olfaction is essential to locating these nutrients. A crying baby searching for its mother’s milk is a familiar example of nutrient sensing that relies on olfaction. Milk is especially rich in lipids (fats) and all mammals rely on it for their caloric intake early in life. Because of this, it is critical that animals can locate and obtain this important food source. Many mammals, like rodents, begin life without the ability to see or hear and must find their way to milk in order to thrive. These animals rely on their sense of smell to find their mother and her milk. Similarly, not all fats and sugars carry the same nutritional content; olfaction helps babies and adults are able to distinguish between them.</para>
       </section>
       <section id="sect-00008">
         <title>Mate selection and communication</title>
-        <para id="para-00012">The selection and identification of mates is a universal need for all
-          animals that reproduce sexually. When selecting a mate, animals must gauge both the
-          receptiveness and fitness of potential reproductive partners. These cues can be delivered
-          through numerous behavioral displays; however, olfactory cues often play an important role
-          in bringing mates together. Many signals related to reproductive behaviors are conveyed by
-          chemicals called <term id="term-00008">pheromones</term>, which are sensed using their own
-          specialized olfactory system, separate from smells associated with things like nutrients.
-          Pheromones are powerful substances that can signal sexual receptivity between animals,
-          influence physiological responses like the estrus cycle, and be used to coordinate other
-          behaviors among animals. Behavioral responses to pheromones are innate rather than
-          learned. Later in this chapter we will discuss how pheromones may even play an important
-          role in human partner selection.</para>
+        <para id="para-00012">The selection and identification of mates is a universal need for all animals that reproduce sexually. When selecting a mate, animals must gauge both the receptiveness and fitness of potential reproductive partners. These cues can be delivered through numerous behavioral displays; however, olfactory cues often play an important role in bringing mates together. Many signals related to reproductive behaviors are conveyed by chemicals called <term id="term-00008">pheromones</term>, which are sensed using their own specialized olfactory system, separate from smells associated with things like nutrients. Pheromones are powerful substances that can signal sexual receptivity between animals, influence physiological responses like the estrus cycle, and be used to coordinate other behaviors among animals. Behavioral responses to pheromones are innate rather than learned. Later in this chapter we will discuss how pheromones may even play an important role in human partner selection.</para>
       </section>
     </section>
     <section id="sect-00009">
       <title>Chemesthesis-related behaviors</title>
-      <para id="para-00013">Many of the culinary ingredients we call spices contain chemicals that
-        stimulate the somatosensory system to produce warming and cooling sensations. The technical
-        term for the chemical stimulation of the somatosensory system is <term id="term-00009">
-        chemesthesis</term>. Many plants produce chemicals that simulate thermal stimuli to alter
-        the behavior of predatory animals. However, because our brains integrate chemesthetic with
-        olfactory and gustatory signals to produce the perception of flavor, human beings cultivate
-        these plants to use as flavor enhancers. The sense of chemesthesis is essential to
-        describing the distinct culinary traditions around the world, but increasingly research
-        indicates that the sense of chemesthesis is important for monitoring parts the body for
-        growing bacteria (see <link document="m00042">Chemesthesis, Spices, and Solitary
-        Chemosensory Cells</link>).</para>
+      <para id="para-00013">Many of the culinary ingredients we call spices contain chemicals that stimulate the somatosensory system to produce warming and cooling sensations. The technical term for the chemical stimulation of the somatosensory system is <term id="term-00009"> chemesthesis</term>. Many plants produce chemicals that simulate thermal stimuli to alter the behavior of predatory animals. However, because our brains integrate chemesthetic with olfactory and gustatory signals to produce the perception of flavor, human beings cultivate these plants to use as flavor enhancers. The sense of chemesthesis is essential to describing the distinct culinary traditions around the world, but increasingly research indicates that the sense of chemesthesis is important for monitoring parts the body for growing bacteria (see <link document="m00042">Chemesthesis, Spices, and Solitary Chemosensory Cells</link>).</para>
 
       <note class="boxed-feature" id="note-00001">
         <title>The Jelly Bean Experiment: How can you tell the difference between Taste and Smell?</title> 
     
     <para
-          id="para-00014">Without training, it can be difficult to distinguish between gustatory,
-        olfactory and chemesthetic sensations. This simple experiment highlights the differences
-        between the senses of olfaction, gustation and chemesthesis discussed in this chapter, and
-        the role the olfaction plays in our perception of flavor. It requires only paper, a writing
-        utensil, jellybeans, mints, and a way to pinch your nose closed.</para>
-    <para id="para-00015"><title>
-        Materials</title>
+          id="para-00014">Without training, it can be difficult to distinguish between gustatory, olfactory and chemesthetic sensations. This simple experiment highlights the differences between the senses of olfaction, gustation and chemesthesis discussed in this chapter, and the role the olfaction plays in our perception of flavor. It requires only paper, a writing utensil, jellybeans, mints, and a way to pinch your nose closed.</para>
+    <para id="para-00015"><title> Materials</title>
     <list id="list-00002">
-            <item> Paper and writing utensil to record your results. You will likely have to record
-        your observation with one hand if you are using the other to pinch your nose, so phones and
-        keyboards are not ideal equipment.</item>
-            <item>A couple fruit-flavored jellybeans. The experiment will not work if you use
-        jellybeans flavored with licorice, mint or flavors you might describe as being “spicy.”</item>
-            <item>A few mints. The more intense the spicy flavor, the better the experiment will
-        work. Cinnamon flavored mints work particularly well.</item>
-            <item>A way to pinch your nose. The easiest way will likely be to use your non-dominant
-        hand to squeeze your nose shut just hard enough that it makes your voice increase in pitch.
-        Other options include having a friend pinch your nose closed for you or purchasing
-        specialized padded clips (like the sort made for swimmers) for comfortably holding your nose
-        closed for an extended time.</item>
+            <item> Paper and writing utensil to record your results. You will likely have to record your observation with one hand if you are using the other to pinch your nose, so phones and keyboards are not ideal equipment.</item>
+            <item>A couple fruit-flavored jellybeans. The experiment will not work if you use jellybeans flavored with licorice, mint or flavors you might describe as being “spicy.”</item>
+            <item>A few mints. The more intense the spicy flavor, the better the experiment will work. Cinnamon flavored mints work particularly well.</item>
+            <item>A way to pinch your nose. The easiest way will likely be to use your non-dominant hand to squeeze your nose shut just hard enough that it makes your voice increase in pitch. Other options include having a friend pinch your nose closed for you or purchasing specialized padded clips (like the sort made for swimmers) for comfortably holding your nose closed for an extended time.</item>
           </list></para>
-    <para id="para-00016"><title>
-        Methods:</title>
+    <para id="para-00016"><title> Methods:</title>
     <list bullet-style="none" id="list-00003">
-            <item>Step 1: Draw two lines on your paper (one down the center, the other across),
-        dividing the paper into four quadrants. Label the four quadrants “Jellybean/Pinched,”
-        “Jellybean/Open,” “Mint/Pinched,” and “Mint/Open.”</item>
+            <item>Step 1: Draw two lines on your paper (one down the center, the other across), dividing the paper into four quadrants. Label the four quadrants “Jellybean/Pinched,” “Jellybean/Open,” “Mint/Pinched,” and “Mint/Open.”</item>
           </list></para>
     <para
           id="para-00017"><title>Part 1: Gustation and Olfaction:</title>
     <list bullet-style="none"
             id="list-00004">
-            <item>Step 2: Tightly pinch your nose. While your nose is pinched you will breathe
-        through your mouth.</item>
-            <item>Step 3: Place a jellybean in your mouth on your tongue for at least 5 seconds and
-        chew it a few times.</item>
-            <item>Step 4: Write down words to describe the sensations caused by the jellybean in the
-        “Jellybean/Pinched” section of your paper. Don’t swallow the jellybean yet!</item>
-            <item>Step 5: Start chewing the jellybean, release your nose and exhale through it. Try
-        to chew the jellybean for at least 5 seconds while breathing through your nose. During this
-        time write down words to describe the sensations caused by the jellybean in the
-        “Jellybean/Open” section.</item>
-            <item>Step 6: You can finish chewing the jellybean and swallow it now if you want. If it
-        is convenient, the quality of the experiment is improved by taking a few sips of water here
-        to cleanse your palate.</item>
+            <item>Step 2: Tightly pinch your nose. While your nose is pinched you will breathe through your mouth.</item>
+            <item>Step 3: Place a jellybean in your mouth on your tongue for at least 5 seconds and chew it a few times.</item>
+            <item>Step 4: Write down words to describe the sensations caused by the jellybean in the “Jellybean/Pinched” section of your paper. Don’t swallow the jellybean yet!</item>
+            <item>Step 5: Start chewing the jellybean, release your nose and exhale through it. Try to chew the jellybean for at least 5 seconds while breathing through your nose. During this time write down words to describe the sensations caused by the jellybean in the “Jellybean/Open” section.</item>
+            <item>Step 6: You can finish chewing the jellybean and swallow it now if you want. If it is convenient, the quality of the experiment is improved by taking a few sips of water here to cleanse your palate.</item>
           </list></para>
-    <para id="para-00018"><title>Part 2:
-        Chemethesis:</title>
+    <para id="para-00018"><title>Part 2: Chemethesis:</title>
     <list bullet-style="none" id="list-00005">
-            <item>Step 7: Tightly pinch your nose again. While your nose is pinched you will breathe
-        through your mouth.</item>
-            <item>Step 8: Place a mint in your mouth on your tongue for at least 5 seconds and chew
-        it a few times.</item>
-            <item>Step 9: Write down words to describe the sensations caused by the mint in the
-        “Mint/Pinched” section of your paper. Don’t swallow the mint yet!</item>
-            <item>Step 10: Start chewing the mint, release your nose and exhale through it. Try to
-        chew the mint for at least 5 seconds while breathing through your nose. During this time
-        write down words in the “Mint/Open” section to describe the sensations caused by the mint.</item>
-            <item>Step 11: You can finish chewing the mint and swallow it now if you want. If it is
-        convenient, the quality of the experiment is improved by taking a few drinks sips of water
-        here to cleanse your palate.</item>
+            <item>Step 7: Tightly pinch your nose again. While your nose is pinched you will breathe through your mouth.</item>
+            <item>Step 8: Place a mint in your mouth on your tongue for at least 5 seconds and chew it a few times.</item>
+            <item>Step 9: Write down words to describe the sensations caused by the mint in the “Mint/Pinched” section of your paper. Don’t swallow the mint yet!</item>
+            <item>Step 10: Start chewing the mint, release your nose and exhale through it. Try to chew the mint for at least 5 seconds while breathing through your nose. During this time write down words in the “Mint/Open” section to describe the sensations caused by the mint.</item>
+            <item>Step 11: You can finish chewing the mint and swallow it now if you want. If it is convenient, the quality of the experiment is improved by taking a few drinks sips of water here to cleanse your palate.</item>
           </list></para>
-    <para id="para-00019"><title>Part
-        3: “Smell” or Orthonasal Olfaction:</title>
+    <para id="para-00019"><title>Part 3: “Smell” or Orthonasal Olfaction:</title>
     <list bullet-style="none" id="list-00006">
-            <item>Step 12: Find a jellybean of the same flavor you used in Part 1. Hold the
-        jellybean in front of your nose and sniff its odor (if you cannot smell the jellybean, try
-        mashing it between two fingers). Write down words to describe this sensation on the back of
-        your paper.</item>
-            <item>Step 13: If you did this experiment with a group of people, combine the data you
-        all have collected and discuss how the types of sensations and the words you used to
-        describe them are similar and different for each experience. What patterns do you see?</item>
+            <item>Step 12: Find a jellybean of the same flavor you used in Part 1. Hold the jellybean in front of your nose and sniff its odor (if you cannot smell the jellybean, try mashing it between two fingers). Write down words to describe this sensation on the back of your paper.</item>
+            <item>Step 13: If you did this experiment with a group of people, combine the data you all have collected and discuss how the types of sensations and the words you used to describe them are similar and different for each experience. What patterns do you see?</item>
           </list></para>
     <para
-          id="para-00020">What you will likely notice when you do this experiment is that the
-        descriptive words used to describe the “Jellybean/Pinched” experience tend to be synonymous
-        with the five basic taste qualities (e.g. Sweet, Sour, Salty, Bitter, Savory). However, once
-        your nose is released, the “Jellybean/Open” descriptors become much more diverse, perhaps
-        even identifying exactly the flavor of the jean bean. While your nose is pinched, very
-        little air is moving from your oral cavity to your nasal cavity through your pharynx, so the
-        chemicals from food cannot reach the olfactory system in the nasal cavity. However, when you
-        exhale out of your nose while chewing, chemicals from your oral cavity can easily travel
-        from your oral cavity into your nasal cavity to stimulate the olfactory system; a process
-        called <term id="term-00006">retronasal olfaction</term>.</para></note>
-      <para id="para-00021">These differences highlight that stimulation of the gustatory system is
-        only capable of producing a few very specific sensations that correspond to a few specific
-        classes of molecules; conversely the olfactory system can detect the presence of an almost
-        limitless number of different compounds and the language we use to describe those sensations
-        is similarly diverse. Additionally, you can begin to determine the different sensations
-        mediated by the gustatory and olfactory systems by comparing how similar your description of
-        sniffing the jellybean was to the other experiences. Likely, the sniffing description was
-        very similar to what was recorded for the “Jellybean/Open” experience. There are some foods,
-        however, that may produce different sensations from <term id="term-00010">orthonasal</term>
-        olfaction (e.g. sniffing) and retronasal olfaction. For example, some cheeses (e.g. parmesan
-        cheese or blue cheeses) are famously stinky when perceived by orthonasal olfaction but
-        produce a different sensation when perceived retronasally.</para>
-      <para id="para-00022">When you compare the description of the mint to the jellybean, you will
-        likely notice the addition of words like burning, cool, pungent, or painful in the
-        description of the mint. These sensations are due to chemicals in the mint stimulating the
-        free nerve endings of the trigeminal nerve—part of the somatosensory system, your sense of
-        chemesthesis.</para>
-      <para id="para-00023">The jellybean experiment is easy to do with most foods, and, by
-        practicing it, you can become better at perceiving the difference between gustation,
-        olfaction, and chemethesis. Eventually you may even be able to tell the difference without
-        pinching your nose closed!</para>
+          id="para-00020">What you will likely notice when you do this experiment is that the descriptive words used to describe the “Jellybean/Pinched” experience tend to be synonymous with the five basic taste qualities (e.g. Sweet, Sour, Salty, Bitter, Savory). However, once your nose is released, the “Jellybean/Open” descriptors become much more diverse, perhaps even identifying exactly the flavor of the jean bean. While your nose is pinched, very little air is moving from your oral cavity to your nasal cavity through your pharynx, so the chemicals from food cannot reach the olfactory system in the nasal cavity. However, when you exhale out of your nose while chewing, chemicals from your oral cavity can easily travel from your oral cavity into your nasal cavity to stimulate the olfactory system; a process called <term id="term-00006">retronasal olfaction</term>.</para></note>
+      <para id="para-00021">These differences highlight that stimulation of the gustatory system is only capable of producing a few very specific sensations that correspond to a few specific classes of molecules; conversely the olfactory system can detect the presence of an almost limitless number of different compounds and the language we use to describe those sensations is similarly diverse. Additionally, you can begin to determine the different sensations mediated by the gustatory and olfactory systems by comparing how similar your description of sniffing the jellybean was to the other experiences. Likely, the sniffing description was very similar to what was recorded for the “Jellybean/Open” experience. There are some foods, however, that may produce different sensations from <term id="term-00010">orthonasal</term> olfaction (e.g. sniffing) and retronasal olfaction. For example, some cheeses (e.g. parmesan cheese or blue cheeses) are famously stinky when perceived by orthonasal olfaction but produce a different sensation when perceived retronasally.</para>
+      <para id="para-00022">When you compare the description of the mint to the jellybean, you will likely notice the addition of words like burning, cool, pungent, or painful in the description of the mint. These sensations are due to chemicals in the mint stimulating the free nerve endings of the trigeminal nerve—part of the somatosensory system, your sense of chemesthesis.</para>
+      <para id="para-00023">The jellybean experiment is easy to do with most foods, and, by practicing it, you can become better at perceiving the difference between gustation, olfaction, and chemethesis. Eventually you may even be able to tell the difference without pinching your nose closed!</para>
     </section>
     <section class="section-summary" id="sect-00010">
       <title>Summary</title>
       <para id="para-00024"><link url="https://openstax.org/r/Neuro8Summary">Author's summary</link></para>
 
-      <para id="para-00025">All animals rely on the chemical senses for their ability to survive and
-        proliferate. Gustation alerts us to toxic or hazardous compounds in our foods, while at the
-        same time evaluating their nutritional content. Olfaction works in concert with taste to
-        help us locate and recognize food sources. Olfaction also alerts animals to the presence of
-        both predators and potential mates, increasing survival and reproductive opportunities. Our
-        sense of smell also serves to alert us to dangers in the environment like smoke from a fire.
-        Our brain integrates signals from these and other sensory systems to produce the multi-modal
-        perceptions we describe as flavor. </para>
+      <para id="para-00025">All animals rely on the chemical senses for their ability to survive and proliferate. Gustation alerts us to toxic or hazardous compounds in our foods, while at the same time evaluating their nutritional content. Olfaction works in concert with taste to help us locate and recognize food sources. Olfaction also alerts animals to the presence of both predators and potential mates, increasing survival and reproductive opportunities. Our sense of smell also serves to alert us to dangers in the environment like smoke from a fire. Our brain integrates signals from these and other sensory systems to produce the multi-modal perceptions we describe as flavor. </para>
     </section>
     <section class="key-terms" id="sect-00011">
       <title>Key Terms</title>
@@ -331,14 +127,10 @@
     <section class="references" id="sect-00012">
       <title>References</title>
       <para id="para-00026">Chaudhari, N., &amp; Roper, S. D. (2010). The cell biology of taste. <emphasis
-          effect="italics">The Journal of Cell Biology</emphasis>, <emphasis effect="italics">190</emphasis>(3),
-        285–296. https://doi.org/10.1083/jcb.201003144</para>
-      <para id="para-00027">Scholz, A. T., Horrall, R. M., Cooper, J. C., &amp; Hasler, A. D.
-        (1976). Imprinting to chemical cues: The basis for home stream selection in salmon. <emphasis
-          effect="italics">Science</emphasis>, <emphasis effect="italics">192</emphasis>(4245),
-        1247–1249. https://doi.org/10.1126/science.1273590</para>
-      <para id="para-00028">Yarmolinsky, D. A., Zuker, C. S., &amp; Ryba, N. J. (2009). Common sense
-        about taste: From mammals to insects. <emphasis effect="italics">Cell</emphasis>, <emphasis
+          effect="italics">The Journal of Cell Biology</emphasis>, <emphasis effect="italics">190</emphasis>(3), 285–296. https://doi.org/10.1083/jcb.201003144</para>
+      <para id="para-00027">Scholz, A. T., Horrall, R. M., Cooper, J. C., &amp; Hasler, A. D. (1976). Imprinting to chemical cues: The basis for home stream selection in salmon. <emphasis
+          effect="italics">Science</emphasis>, <emphasis effect="italics">192</emphasis>(4245), 1247–1249. https://doi.org/10.1126/science.1273590</para>
+      <para id="para-00028">Yarmolinsky, D. A., Zuker, C. S., &amp; Ryba, N. J. (2009). Common sense about taste: From mammals to insects. <emphasis effect="italics">Cell</emphasis>, <emphasis
           effect="italics">139</emphasis>(2), 234–244. https://doi.org/10.1016/j.cell.2009.10.001</para>
     </section>
 

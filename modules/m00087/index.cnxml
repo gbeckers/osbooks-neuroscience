@@ -9,7 +9,7 @@
 
     <figure class="splash" id="fovea">
       <media alt="A micrograph shows the layers of nerve cells in the retina. The top layer (green) is made up of cells called photoreceptors that convert light into electrical signals to relay to the brain.">
-        <image mime-type="image/jpg" src="../../media/ch6-splash.jpg"/>
+        <image mime-type="image/jpg" src="../../media/ch6-splash.jpg" />
       </media>
       <caption>Vision begins in the retina, a layered structure where photoreceptors absorb light to start a chain of activity that ends in the brain. Image Credit: Wei Li, National Eye Institute, National Institutes of Health. Public domain</caption>
     </figure>
