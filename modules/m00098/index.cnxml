@@ -23,12 +23,12 @@
     </section>
     <section id="sect-00008">
       <title>Narcolepsy</title>
-      <para id="para-00012"><term id="term-00002">Narcolepsy</term> is a sleep disorder in which people feel excessively sleepy at inopportune times throughout the day, even after adequate nocturnal sleep. People can fall asleep even while engaging in activities such as eating or driving, and the normal structure of sleep stages are altered, with an unusually rapid entry into the phase of REM sleep. <link target-id="Image-15.20" /> shows polysomnograms of someone with narcolepsy during night sleep and daytime naps where you can see this rapid REM entry along with frequent night wakenings.</para>
+      <para id="para-00012"><term id="term-00002">Narcolepsy</term> is a sleep disorder in which people feel excessively sleepy at inopportune times throughout the day, even after adequate nocturnal sleep. People can fall asleep even while engaging in activities such as eating or driving, and the normal structure of sleep stages are altered, with an unusually rapid entry into the phase of REM sleep. <link target-id="Image-15.20"/> shows polysomnograms of someone with narcolepsy during night sleep and daytime naps where you can see this rapid REM entry along with frequent night wakenings.</para>
 
       <figure id="Image-15.20">
         <title>Hypnogram of narcolepsy</title>
         <media alt="Polysomnograms of sleep stage (y-axis) versus time (x-axis). During night sleep, a patient with narcolepsy shows frequent wakings and disordered progress through the sleep stages. During day sleep (naps), a patient with narcolepsy shows rapid onset of REM.">
-          <image mime-type="image/png" src="../../media/Image-15.20_Hypnogram-of-narcolepsy.png" />
+          <image mime-type="image/png" src="../../media/Image-15.20_Hypnogram-of-narcolepsy.png"/>
         </media>
         <caption>Image credit: Hypnograms from: Rosch RE, Farquhar M, Gringras P and Pal DK (2016) Narcolepsy Following Yellow Fever Vaccination: A Case Report. Front. Neurol. 7:130. doi: 10.3389/fneur.2016.00130. CC BY</caption>
       </figure>
@@ -63,17 +63,18 @@
     </section>
     <section class="references" id="sect-00004">
       <title>References</title>
-      <para id="para-00003">Baker, F. C., De Zambotti, M., Colrain, I. M., &amp; Bei, B. (2018). Sleep problems during the menopausal transition: Prevalence, impact, and management challenges. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">10</emphasis>, 73–95.</para>
-      <para id="para-00004">Ju, Y.-E., Videnovic, A., &amp; Vaughn, B. V. (2017). Comorbid sleep disturbances in neurologic disorders. <emphasis effect="italics">Continuum (Minneap Minn)</emphasis>, <emphasis effect="italics">4</emphasis> (Sleep Neurology), 1117–1131.</para>
-      <para id="para-00005">Medic, G., Wille, M., &amp; Hemels, M. E. H. (2017). Short- and long-term health consequences of sleep disruption. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">9</emphasis>, 151–161.</para>
-      <para id="para-00006">Meyer, N., Harvey, A. G., Lockley, S. W., &amp; Dijk, D. J. (2022). Circadian rhythms and disorders of the timing of sleep. <emphasis effect="italics">Lancet</emphasis>, <emphasis effect="italics">400</emphasis>, 1061–1078.</para>
-      <para id="para-00007">Micic, G., Lovato, N., Gradisar, M., Ferguson, S. A., Burgess, H. J., &amp; Lack, L. C. (2016). The etiology of delayed sleep phase disorder. <emphasis effect="italics">Sleep Med Rev</emphasis>, <emphasis effect="italics">27</emphasis>, 29–38.</para>
+      <para id="para-00003">Baker, F. C., de Zambotti, M., Colrain, I. M., &amp; Bei, B. (2018). Sleep problems during the menopausal transition: Prevalence, impact, and management challenges. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">10</emphasis>, 73–95. https://doi.org/10.2147/NSS.S125807</para>
+      <para id="para-00004">Ju, Y. S., Videnovic, A., &amp; Vaughn, B. V. (2017). Comorbid sleep disturbances in neurologic disorders. <emphasis effect="italics">Continuum (Minneapolis, Minn.)</emphasis>, <emphasis effect="italics">23</emphasis>(4, Sleep Neurology), 1117–1131. https://doi.org/10.1212/CON.0000000000000501</para>
+      <para id="para-00005">Medic, G., Wille, M., &amp; Hemels, M. E. (2017). Short- and long-term health consequences of sleep disruption. <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">9</emphasis>, 151–161. https://doi.org/10.2147/NSS.S134864</para>
+      <para id="para-00006">Meyer, N., Harvey, A. G., Lockley, S. W., &amp; Dijk, D. J. (2022). Circadian rhythms and disorders of the timing of sleep. <emphasis effect="italics">Lancet (London, England)</emphasis>, <emphasis effect="italics">400</emphasis>(10357), 1061–1078. https://doi.org/10.1016/S0140-6736(22)00877-7</para>
+      <para id="para-00007">Micic, G., Lovato, N., Gradisar, M., Ferguson, S. A., Burgess, H. J., &amp; Lack, L. C. (2016). The etiology of delayed sleep phase disorder. <emphasis effect="italics">Sleep Medicine Reviews</emphasis>, <emphasis effect="italics">27</emphasis>, 29–38. https://doi.org/10.1016/j.smrv.2015.06.004</para>
+
     </section>
     <section class="multiple-choice" id="sect-00005">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00008"></para>
+          <para id="para-00008"/>
         </problem>
       </exercise>
     </section>
@@ -81,7 +82,7 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00009"></para>
+          <para id="para-00009"/>
         </problem>
       </exercise>
     </section>
