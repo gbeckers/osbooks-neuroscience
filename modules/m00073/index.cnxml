@@ -20,37 +20,37 @@
 
     <section id="sect-00002">
       <title>The peripheral immune system</title>
-      <para id="para-00003">The peripheral immune system can be roughly divided into two basic divisions, the <term id="term-00001">innate</term> or nonspecific immune system, and the adaptive or specific immune system (see <link target-id="Image-17.10" />).</para>
+      <para id="para-00003">The peripheral immune system can be roughly divided into two basic divisions, the <term id="term-00001">innate</term> or nonspecific immune system, and the adaptive or specific immune system (see <link target-id="Image-17.10"/>).</para>
       <figure id="Image-17.10">
         <title>Innate and adaptive immunity</title>
         <media alt="Three part diagram of the three major phases of immune response, arrange with time along the x-axis of the image. Innate immunity is diagramed as three different looking cells attacking bacteria or virus on the scale of 0-12 hours. Innate (non-specific) immune response is rapid and general. Adaptive immunity (first exposure) shows a variety of similar shaped cells with different colors as the adaptive immune cells. Adaptive immune responses develop over days and are specific to each pathogen exposure. The adaptive immune response (second exposure) has group of 5 adaptive immune cells, all the same color, attacking a single pathogen with text “I remember you!”. Adaptive immune responses are more robust for pathogens you have encountered before.">
-          <image mime-type="image/png" src="../../media/Image-17.10_Innate-and-adaptive-immunity.png" />
+          <image mime-type="image/png" src="../../media/Image-17.10_Innate-and-adaptive-immunity.png"/>
         </media>
       </figure>
 
       <para id="para-00004">The innate immune system generates responses to stimuli like <term id="term-00002">pathogens</term> (for instance, germs like bacteria or viruses). Its responses are roughly the same each time, regardless of the specific pathogen encountered. Thus, the responses of the innate immune system are non-specific. This is the first line of defense and happens fast. In contrast, the adaptive immune system ramps up more slowly and adapts over time, such that a second encounter with the same pathogen (like a virus) will generate a more vigorous response compared to the initial response. This is exactly what happens when you receive a vaccination against the “flu” (influenza virus) or against SARS-CoV2 (the virus which causes Covid-19). Most vaccines contain small, inactive pieces of a pathogen that cannot infect you, but can help teach your adaptive immune system what a pathogen looks like. Your initial immune response to the vaccine protects you against any later exposure because you generate immunological memory for that pathogen. This latter response is specific because the cells of the adaptive immune system learn precisely which pathogens they have previously encountered and respond only to that specific pathogen upon seeing it again, and not others. This selectivity for specific pieces of foreign material is critical for preventing autoimmune reactions which can occur when our immune cells mistake our normal cells for pathogens and attack them. There are important aspects of both innate and adaptive immunity for neuroscience and for behavior. Throughout this chapter we will consider many of these examples. We begin by learning some basics of these two components of the peripheral immune system.</para>
       <section id="sect-00003">
         <title>Innate immune system</title>
-        <para id="para-00005">The innate immune system consists of physical barriers of the body including the skin (epithelium) and mucosal surfaces of the gut, lungs, and other exposed areas, as well as several critical cell types: neutrophils, macrophages, and monocytes (<link target-id="Image-17.29" />).</para>
+        <para id="para-00005">The innate immune system consists of physical barriers of the body including the skin (epithelium) and mucosal surfaces of the gut, lungs, and other exposed areas, as well as several critical cell types: neutrophils, macrophages, and monocytes (<link target-id="Image-17.29"/>).</para>
         <figure id="Image-17.29">
           <title>Innate immune structures and cells</title>
           <media alt="Left is illustration of human body with decorative popouts of the skin (epithelia), oral and nasal mucosa, lung mucosa and cut mucosa. Epithelia and mucosa physically prevent pathogens from entering the body. Right is diagram showing 3 cells with different shapes, labeled neutrophils, macrophages, monocytes. Innate immune cells attack pathogens that get into the body.">
-            <image mime-type="image/png" src="../../media/Image-17.29_Innate-immune-structures-and-cells.png" />
+            <image mime-type="image/png" src="../../media/Image-17.29_Innate-immune-structures-and-cells.png"/>
           </media>
         </figure>
-        <para id="para-00006">All three types of innate immune cells respond broadly to multiple pathogens, which they can detect using a number of pattern recognition receptors on their cell surface (<link target-id="Image-17.13" />). These receptors can detect evolutionarily conserved pathogen-associated-molecular-patterns (PAMPs) present on bacteria, viruses, fungi, or other foreign invaders.</para>
+        <para id="para-00006">All three types of innate immune cells respond broadly to multiple pathogens, which they can detect using a number of pattern recognition receptors on their cell surface (<link target-id="Image-17.13"/>). These receptors can detect evolutionarily conserved pathogen-associated-molecular-patterns (PAMPs) present on bacteria, viruses, fungi, or other foreign invaders.</para>
         <figure id="Image-17.13">
           <title>Pathogen-associated molecular patterns</title>
           <media alt="Diagram of 3 cells, each with a receptor on its surface binding to a unique microbe. The receptors are identical across the 3 cells but the 3 microbes are each different. Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.">
-            <image mime-type="image/png" src="../../media/Image-17.13_Pathogen-associated-molecular-patterns.png" />
+            <image mime-type="image/png" src="../../media/Image-17.13_Pathogen-associated-molecular-patterns.png"/>
           </media>
           <caption>Pathogen associated molecular patterns (PAMPs) are structures common across classes of microbes. Innate immune cells express receptors that recognize PAMPs.</caption>
         </figure>
-        <para id="para-00007">How each of these cellular components of the innate immune system functions once they detect these PAMPs is diagrammed in <link target-id="Image-17.30" />, using the case of a penetrating skin wound that introduces some bacterial pathogens as an example. We will discuss what each cell type does in more detail below.</para>
+        <para id="para-00007">How each of these cellular components of the innate immune system functions once they detect these PAMPs is diagrammed in <link target-id="Image-17.30"/>, using the case of a penetrating skin wound that introduces some bacterial pathogens as an example. We will discuss what each cell type does in more detail below.</para>
         <figure id="Image-17.30">
           <title>Innate immune cells in action</title>
           <media alt="A cross-section of skin from the surface to underlying blood vessel with a penetrating wound through the epithelial barrier that allows entry of pathogens. Neutrophil and macrophage are both shown in the skin, engulfing (phagocytosing) pathogens. A tissue resident monocyte is shown squeezing between the cells of the blood vessel to become a tissue-resident monocyte in the skin that is also engulfing pathogens. The macrophage is also shown secreting complement proteins.">
-            <image mime-type="image/png" src="../../media/Image-17.30_Innate-immune-cells-in-action.png" />
+            <image mime-type="image/png" src="../../media/Image-17.30_Innate-immune-cells-in-action.png"/>
           </media>
         </figure>
 
@@ -62,11 +62,11 @@
 
         <para id="para-00011">Innate immune responses are rapid and stereotyped, meaning that they occur with the same time course and magnitude each time and somewhat regardless of the specific pathogen detected. One major consequence of the innate immune cell response is inflammation. Inflammation is the term we use to describe how tissues become red, swollen and hot after an injury or pathogen exposure of some kind. When inflammation happens in tissues in your body, it is also often painful (see <link document="m00006">Touch and Pain</link>).</para>
 
-        <para id="para-00012">Inflammation is quite a buzz word these days as it is implicated in many different diseases ranging from heart disease to depression to Alzheimer’s disease (<link target-id="Image-17.22" />). There is good reason for this attention, as inflammatory processes that last too long, especially within the brain, can be very harmful. It is important to remember however that inflammation is classically defined in immunology by heat, swelling, pain, and importantly, repair. Thus, inflammation is helpful when properly controlled and only becomes harmful when it fails to resolve, which is a theme that we will visit repeatedly throughout this chapter.</para>
+        <para id="para-00012">Inflammation is quite a buzz word these days as it is implicated in many different diseases ranging from heart disease to depression to Alzheimer’s disease (<link target-id="Image-17.22"/>). There is good reason for this attention, as inflammatory processes that last too long, especially within the brain, can be very harmful. It is important to remember however that inflammation is classically defined in immunology by heat, swelling, pain, and importantly, repair. Thus, inflammation is helpful when properly controlled and only becomes harmful when it fails to resolve, which is a theme that we will visit repeatedly throughout this chapter.</para>
         <figure id="Image-17.22">
           <title>Inflammation-associated diseases</title>
           <media alt="A diagram with the word “inflammation” in the middle, surrounded by pictures meant to represent: diabetes, cancer, cardiovascular, Alzheimer’s disease, pulmonary disease, arthritis, autoimmune diseases, neurological diseases.">
-            <image mime-type="image/png" src="../../media/Image-17.22_Inflammation-associated-disease.png" />
+            <image mime-type="image/png" src="../../media/Image-17.22_Inflammation-associated-disease.png"/>
           </media>
         </figure>
 
@@ -74,11 +74,11 @@
       </section>
       <section id="sect-00004">
         <title>Adaptive immune system</title>
-        <para id="para-00015">The adaptive immune system consists primarily of another class of white blood cells called <term id="term-00012">lymphocytes</term>, which consists of B cells and T cells. B cells are so-called because they are born in the bone marrow (like all blood cells). B cells make <term id="term-00013">antibodies</term> which are soluble (secreted) proteins produced in response to antigen stimulation and which make up the humoral immune response. This humoral immune response is generated within the extracellular spaces (the “humors” of the body, e.g. blood and lymph) and is important for neutralizing pathogens before they enter cells. Each antibody recognizes a single antigen, and each B cell generates a single type of antibody (<link target-id="Image-17.31" />).</para>
+        <para id="para-00015">The adaptive immune system consists primarily of another class of white blood cells called <term id="term-00012">lymphocytes</term>, which consists of B cells and T cells. B cells are so-called because they are born in the bone marrow (like all blood cells). B cells make <term id="term-00013">antibodies</term> which are soluble (secreted) proteins produced in response to antigen stimulation and which make up the humoral immune response. This humoral immune response is generated within the extracellular spaces (the “humors” of the body, e.g. blood and lymph) and is important for neutralizing pathogens before they enter cells. Each antibody recognizes a single antigen, and each B cell generates a single type of antibody (<link target-id="Image-17.31"/>).</para>
         <figure id="Image-17.31">
           <title>B cell function</title>
           <media alt="op shows a small piece of the outer membrane of three different B cells. Each cell has a different antibody on it binding to a different microbe. Bottom shows diagrams of the 3 major responses of B cells when a match occurs between antibody and antigen. 1) Secreted antibodies bind the pathogen and deliver it to macrophages. 2) More B cells are created to recognize the same epitope. 3) Memory B cells are made and retained for future use.">
-            <image mime-type="image/png" src="../../media/Image-17.31_B-cell-function.png" />
+            <image mime-type="image/png" src="../../media/Image-17.31_B-cell-function.png"/>
           </media>
         </figure>
 
@@ -86,7 +86,7 @@
 
         <para id="para-00017">What do antibodies do? Interestingly, they don’t directly kill anything. Rather, they tag (label) pathogens for recognition and removal by a macrophage. Antibodies can also bind to viruses and prevent them from entering cells, in a process called neutralization. Memory B cells are also produced during this process, which are very long-lived cells that can much more rapidly begin to replicate themselves and produce antibodies if they encounter the same antigen again. Remember vaccines? The production of memory B cells in response to vaccination is crucial to confer long-term protection.</para>
 
-        <para id="para-00018">T cells are called T cells because, while they are born in the bone marrow like all blood cells, they grow up and attend primary school in the <term id="term-00014">thymus</term>. T cells are responsible for cell-mediated immunity (which is concerned with the killing of pathogens inside of cells, see <link target-id="Image-17.36" />) and they come in several flavors:</para>
+        <para id="para-00018">T cells are called T cells because, while they are born in the bone marrow like all blood cells, they grow up and attend primary school in the <term id="term-00014">thymus</term>. T cells are responsible for cell-mediated immunity (which is concerned with the killing of pathogens inside of cells, see <link target-id="Image-17.36"/>) and they come in several flavors:</para>
 
         <list id="list-00002">
           <item>Helper T cells which “help” or amplify other immune cell activities</item>
@@ -98,17 +98,17 @@
         <figure id="Image-17.36">
           <title>B vs T cells</title>
           <media alt="Left shows a B cell with antibodies on the cell surface and secreted into the surrounding environment binding to pathogens. B cells kill pathogens in the extracellular space. Right shows a T cell with cell surface protein binding to an antigen presented on the surface of a cell infected with pathogen. T cells kill infected cells and thereby the pathogens inside them.">
-            <image mime-type="image/png" src="../../media/Image-17.36_B-vs-T-cells.png" />
+            <image mime-type="image/png" src="../../media/Image-17.36_B-vs-T-cells.png"/>
           </media>
         </figure>
 
         <para id="para-00020">T cells are called into action to attack infected cells following their activation by professional APCs like macrophages, which “present” antigen to the T cell using a molecule called the <term id="term-00015">major histocompatibility complex</term>, or MHC, also known as <term id="term-00016">human leukocyte antigen (HLA)</term> in humans. T cell attacks are very specifically targeted to only infected cells with the epitope (a small fragment of an antigen) the T cells have learned to recognize, not healthy cells and not even the APCs displaying that pathogen epitope. The MHC is critical to this selectivity. MHC comes in two forms: class I and class II. All APCs have class II, and all cells of the body have class I. Whether an epitope is displayed to a T cell using MHC class I or class II will help determine whether a T cell decides to try to kill that cell, leave it alone or learn from it.</para>
 
-        <para id="para-00021">Under healthy conditions, host cells (i.e. your own cells) use MHC I to display a tiny bit of themselves, a self-antigen, on its cell surface (step 1 of <link target-id="Image-17.32" />). This tells the T cell “I’m you! Don’t kill me!”. This presentation of a bit of “self” by MHC I is a crucial step because it prevents T cells from killing any healthy cells. MHC/HLA molecules are the reason that organ transplantation in humans is a bit tricky—you can’t just take any liver and give it to someone that needs it, unfortunately—it has to be a close match in terms of HLA type (sort of like blood type) or the receiving person’s immune cells (and antibodies) will rapidly detect and attack it, leading to organ failure. In contrast to all other cells in our body, APCs use MHC class II to package and display epitopes on their cell surface for the purpose of activating T cells (step 2 of <link target-id="Image-17.32" />). The T cell learns about the pathogen epitope that the APC displays, and it also knows not to kill the APC because it is displayed with MHC II. This again prevents the T cell from going rogue and killing things without permission. They are pretty potent cells! However, if a normal cell, say a kidney cell, gets infected with a virus, it will use MHC class I to package part of that virus into a small digestible form and wave it like a flag on its cell surface. This tells any passing T cell (with a receptor that recognizes that specific antigen) that the cell has been invaded and the T cell will then kill and remove the cell and its virus (step 3 of <link target-id="Image-17.32" />). We will learn in a subsequent section about a subset of T cells that are important for inflammatory bidirectional communication between the brain and the immune system. We will also further discuss how T cells seem to be critical for normal behavior, specifically learning and memory.</para>
+        <para id="para-00021">Under healthy conditions, host cells (i.e. your own cells) use MHC I to display a tiny bit of themselves, a self-antigen, on its cell surface (step 1 of <link target-id="Image-17.32"/>). This tells the T cell “I’m you! Don’t kill me!”. This presentation of a bit of “self” by MHC I is a crucial step because it prevents T cells from killing any healthy cells. MHC/HLA molecules are the reason that organ transplantation in humans is a bit tricky—you can’t just take any liver and give it to someone that needs it, unfortunately—it has to be a close match in terms of HLA type (sort of like blood type) or the receiving person’s immune cells (and antibodies) will rapidly detect and attack it, leading to organ failure. In contrast to all other cells in our body, APCs use MHC class II to package and display epitopes on their cell surface for the purpose of activating T cells (step 2 of <link target-id="Image-17.32"/>). The T cell learns about the pathogen epitope that the APC displays, and it also knows not to kill the APC because it is displayed with MHC II. This again prevents the T cell from going rogue and killing things without permission. They are pretty potent cells! However, if a normal cell, say a kidney cell, gets infected with a virus, it will use MHC class I to package part of that virus into a small digestible form and wave it like a flag on its cell surface. This tells any passing T cell (with a receptor that recognizes that specific antigen) that the cell has been invaded and the T cell will then kill and remove the cell and its virus (step 3 of <link target-id="Image-17.32"/>). We will learn in a subsequent section about a subset of T cells that are important for inflammatory bidirectional communication between the brain and the immune system. We will also further discuss how T cells seem to be critical for normal behavior, specifically learning and memory.</para>
         <figure id="Image-17.32">
           <title>MHC complexes and self vs pathogen recognition</title>
           <media alt="Three-part image. 1) Diagram of T cell interacting with healthy cell presenting self antigen using MCH class I on its cell surface. 2) Diagram of T cell interacting with antigen presenting cell, which displays self with MCH class I and pathogen with MCH class II. 3) Diagram of T cell interacting with infected cell displaying pathogen on its cells surface with MCH I. Steps are described in more detail in main text.">
-            <image mime-type="image/png" src="../../media/Image-17.32_MHC-complexes-and-self-versus-pathogen-recognition.png" />
+            <image mime-type="image/png" src="../../media/Image-17.32_MHC-complexes-and-self-versus-pathogen-recognition.png"/>
           </media>
         </figure>
         <para id="para-00022">Interestingly, MHC is another source of diversity building for the immune system (meaning the ability to respond to a vast number of potential antigens), as the genes that encode MHC (and HLA in humans) are some of the most diverse in the entire genome. There is fascinating literature showing that animals like mice, other mammals, birds, and even fish may choose their mates based on their detection of MHC gene polymorphisms, likely via pheromonal cues contained in urine. Specifically, animals choose mates that have MHC genes least like their own, ensuring that their offspring will inherit the largest possible diversity of genes important for building a robust immune defense. Whereas this has been shown for many species (Grob et al., 1998; Roth et al., 2014; Rymešová et al., 2017), the possibility in humans remains tantalizing but controversial (Havlicek and Roberts, 2009; Havlíček et al., 2020).</para>
@@ -119,11 +119,11 @@
 
         <para id="para-00024">The naming conventions of cytokines and chemokines are based on their chemical structure rather than their functions which is a bit unfortunate when you are trying to remember what different cytokines do! However, cytokines can be roughly divided into having pro-inflammatory (inflammation promoting) vs. anti-inflammatory (inflammation resolving) functions, although these outcomes are highly context-dependent. That is, sometimes they induce inflammation and sometimes they prevent it, and the impact often depends on the receiving cell. While acute and local inflammation/immune activation caused by the pro-inflammatory cytokines is necessary for responding to insult or injury, homeostasis and health are restored and tissue repair is elicited by regulatory anti-inflammatory processes. Cytokines released by innate immune cell response to pathogens also mediate the activation of T and B lymphocytes, which play a critical role in the adaptive immune response later in the time course of an infection.</para>
 
-        <para id="para-00025">Cytokines can induce the production of other cytokines, chemokines and inflammatory mediators, and rarely work alone, but rather in a cascade with other cytokines. You may have heard the term “cytokine storm,” which is more or less what it sounds like: when one cytokine induces the production of another, which induces another, and so on, until you have a whole storm of swirling cytokines within a given organ or tissue. <link target-id="Image-17.17" /> shows an example of the cytokine storm process as it happens following SARS-CoV2 infections in the lungs. This is one of the major causes of death with Covid-19; the cytokine storm causes excess inflammation that damages lung cells and restricts airflow. Cytokine storms can occur in multiple kinds of severe infection and are generally bad news as it can lead to organ failure or death.</para>
+        <para id="para-00025">Cytokines can induce the production of other cytokines, chemokines and inflammatory mediators, and rarely work alone, but rather in a cascade with other cytokines. You may have heard the term “cytokine storm,” which is more or less what it sounds like: when one cytokine induces the production of another, which induces another, and so on, until you have a whole storm of swirling cytokines within a given organ or tissue. <link target-id="Image-17.17"/> shows an example of the cytokine storm process as it happens following SARS-CoV2 infections in the lungs. This is one of the major causes of death with Covid-19; the cytokine storm causes excess inflammation that damages lung cells and restricts airflow. Cytokine storms can occur in multiple kinds of severe infection and are generally bad news as it can lead to organ failure or death.</para>
         <figure id="Image-17.17">
           <title>Cytokine storm</title>
           <media alt="Diagram showing human lungs with zoom-in on a single alveoli, which looks like a circular bag with blood vessel underneath it. Inside the alveoli, the following steps are diagrammed: 1. Coronavirus infects lung cells. 2. Immune cells, including macrophages, identify the virus and produce cytokines. 3. Cytokines attract more immune cells, such as white blood cells, which in turn produce more cytokines, creating a cycle of inflammation that damages the lung cells. 4. Damage can occur through the formation of fibrin. 5. Weakened blood vessels allow fluid to seep in and fill the lung cavities, leading to respiratory failure.">
-            <image mime-type="image/png" src="../../media/Image-17.17_Cytokine-storm.png" />
+            <image mime-type="image/png" src="../../media/Image-17.17_Cytokine-storm.png"/>
           </media>
         </figure>
 
@@ -134,21 +134,21 @@
       <title>History of Neuroscience: Immune privilege within the brain</title>
       <para id="para-00027">Everything we have discussed so far has focused on processes initiated by immune cells in the body. For the vast majority of history of research on the immune system and the CNS, these systems were thought to be completely separate, both physically and functionally. Thus, the brain was viewed as “privileged” i.e. separate from the impacts of the immune system. Scientists would specialize in the study of one or the other, and nary a thought would be given to the one not chosen. Even today this is somewhat the case, although it is slowly changing as new knowledge about the interconnectedness of these systems emerges. These stubborn beliefs formed for good reason. Physicians have noted for hundreds of years that tissue grafts (think organ transplants like kidneys or hearts) into the body will quickly be rejected and the tissue will die unless the immune system is powerfully suppressed—as noted above this is because any cells not possessing an MHC I complex consistent with “self” will be recognized as dangerous and quickly thrown out. But this is not the case within the brain—tissue grafts into the brain can live for a long time before they are eventually discovered and rejected (Medawar, 1948). Researchers at the time concluded that this meant the brain did not have any immune system components, and that peripheral immune components could not enter the brain. And they had several supporting observations to support that incorrect belief.</para>
 
-      <para id="para-00028">One major reason that early researchers thought the brain and immune systems did not interact is that there is a powerful barrier between the CNS and the rest of the body, called the <term id="term-00022">blood-brain-barrier (BBB)</term>, which keeps most immune cells out of the brain (<link target-id="Image-17.23" />) (see <link document="m00026">Structure and Function of the Nervous System</link>).</para>
+      <para id="para-00028">One major reason that early researchers thought the brain and immune systems did not interact is that there is a powerful barrier between the CNS and the rest of the body, called the <term id="term-00022">blood-brain-barrier (BBB)</term>, which keeps most immune cells out of the brain (<link target-id="Image-17.23"/>) (see <link document="m00026">Structure and Function of the Nervous System</link>).</para>
       <figure id="Image-17.23">
         <title>Blood-brain barrier</title>
         <media alt="A diagram of cross-section of blood vessel and blood brain barrier. T cells, macrophages and monocytes are shown trapped within the blood vessel, comprised of endothelial cells with tight junctions between then. Astrocyte endfeet wrap the endothelial cells. Microglia and neurons are shown within the brain tissue.">
-          <image mime-type="image/png" src="../../media/Image-17.23_Blood-brain-barrier.png" />
+          <image mime-type="image/png" src="../../media/Image-17.23_Blood-brain-barrier.png"/>
         </media>
         <caption>The BBB prevents immune cells and pathogens from entering the brain under most circumstances.</caption>
       </figure>
       <para id="para-00029">The BBB consists of closely joined endothelial cells, astrocytes, and other cells, which form a tight barrier between the brain and everything else. This barrier exists for good reason: the cells within the brain, namely neurons, are delicate, and once damaged, are difficult or impossible to repair. The blood can carry numerous pathogens that could damage these delicate neurons. There is also limited space within the skull, so if immune cells reacting to a pathogen entered the brain and launched a large immune response, any swelling associated with inflammation could be fatal. Most of the time, the BBB prevents the peripheral immune cells like macrophages and lymphocytes from entering the brain, thereby reducing the chance of an inflammatory event.</para>
 
-      <para id="para-00030">Though peripheral immune cells are mostly kept out of the brain, we now know that the brain is not completely without immune cells. Most prominently, it has resident immune cells: microglia. They make up ~10-15% of the cells in the brain, depending on brain region. They are so named because they have small cell bodies (relative to much larger neurons), but they are mighty in function. They have many elaborate processes that they use to continually scan and survey the brain tissue (<link target-id="Image-17.33" />). They play essential roles in brain development, homeostasis, pathogen defense, and are increasingly implicated in brain pathology as well. For example, complement proteins can “tag” certain synapses for removal by microglia. This process is a part of normal development but may also have relevance in some neurodevelopmental disorders when proper synaptic “pruning” by microglia becomes disrupted. For instance, there is interesting recent evidence linking complement proteins within the brain to the neurodevelopmental disorder schizophrenia, which has long been recognized as a disorder of excessive synaptic pruning, potentially by microglia (see <link document="m00086">Neurodevelopment</link>). We will learn much more about microglia and their functions in the brain in <link document="m00082">How Does the Brain Talk to the Immune System?</link>. In addition to microglia in the brain, there is some evidence that monocytes can cross into the brain in some circumstances, for instance in response to stressors or certain injuries, where they can contribute to behavioral changes, including anxiety. We discuss this in greater detail in subsequent sections as well.</para>
+      <para id="para-00030">Though peripheral immune cells are mostly kept out of the brain, we now know that the brain is not completely without immune cells. Most prominently, it has resident immune cells: microglia. They make up ~10-15% of the cells in the brain, depending on brain region. They are so named because they have small cell bodies (relative to much larger neurons), but they are mighty in function. They have many elaborate processes that they use to continually scan and survey the brain tissue (<link target-id="Image-17.33"/>). They play essential roles in brain development, homeostasis, pathogen defense, and are increasingly implicated in brain pathology as well. For example, complement proteins can “tag” certain synapses for removal by microglia. This process is a part of normal development but may also have relevance in some neurodevelopmental disorders when proper synaptic “pruning” by microglia becomes disrupted. For instance, there is interesting recent evidence linking complement proteins within the brain to the neurodevelopmental disorder schizophrenia, which has long been recognized as a disorder of excessive synaptic pruning, potentially by microglia (see <link document="m00086">Neurodevelopment</link>). We will learn much more about microglia and their functions in the brain in <link document="m00082">How Does the Brain Talk to the Immune System?</link>. In addition to microglia in the brain, there is some evidence that monocytes can cross into the brain in some circumstances, for instance in response to stressors or certain injuries, where they can contribute to behavioral changes, including anxiety. We discuss this in greater detail in subsequent sections as well.</para>
       <figure id="Image-17.33">
         <title>Microglial morphology</title>
         <media alt="Fluorescent image of green microglial cells, which have a small, central cell body with many branch-like processes extending out from it in all directions.">
-          <image mime-type="image/png" src="../../media/Image-17.33_Microglial-morphology.png" />
+          <image mime-type="image/png" src="../../media/Image-17.33_Microglial-morphology.png"/>
         </media>
         <caption>Microglia have elaborate processes that they use to scan the environment. Image credit: NIH Image Gallery from Bethesda, Maryland, USA - Microglia in a Healthy Adult Mouse Retina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=87951906</caption>
       </figure>
@@ -194,67 +194,68 @@
     </section>
     <section class="references" id="sect-00008">
       <title>References</title>
-      <para id="para-00034">Alves de Lima, K., Rustenhoven, J., Da Mesquita, S., Wall, M., Salvador, A. F., Smirnov, I., Martelossi Cebinelli, G., Mamuladze, T., Baker, W., Papadopoulos, Z., Lopes, M. B., Cao, W. S., Xie, X. S., Herz, J., &amp; Kipnis, J. (2020). Meningeal γδ T cells regulate anxiety-like behavior via IL-17a signaling in neurons. <emphasis effect="italics">Nature Immunology</emphasis>, <emphasis effect="italics">21</emphasis>, 1421–1429.</para>
-      <para id="para-00035">Grob, B., Knapp, L. A., Martin, R. D., &amp; Anzenberger, G. (1998). The major histocompatibility complex and mate choice: inbreeding avoidance and selection of good genes. <emphasis effect="italics">Experimental and Clinical Immunogenetics</emphasis>, <emphasis effect="italics">15</emphasis>, 119–129.</para>
-      <para id="para-00036">Hanisch, U.-K. (2002). Microglia as a source and target of cytokines. <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">40</emphasis>, 140–155.</para>
-      <para id="para-00037">Havlicek, J., &amp; Roberts, S. C. (2009). MHC-correlated mate choice in humans: a review. <emphasis effect="italics">Psychoneuroendocrinology</emphasis>, <emphasis effect="italics">34</emphasis>, 497–512.</para>
-      <para id="para-00038">Havlíček, J., Winternitz, J., &amp; Roberts, S. C. (2020). Major histocompatibility complex-associated odour preferences and human mate choice: near and far horizons. <emphasis effect="italics">Philosophical Transactions of the Royal Society B: Biological Sciences</emphasis>, <emphasis effect="italics">375</emphasis>:20190260.</para>
-      <para id="para-00039">Hopkins, S. J., &amp; Rothwell, N. J. (1995). Cytokines and the nervous system. I: Expression and recognition. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>, 83–88.</para>
-      <para id="para-00040">Iliff, J. J., Goldman, S. A., &amp; Nedergaard, M. (2015). Implications of the discovery of brain lymphatic pathways. <emphasis effect="italics">The Lancet Neurology</emphasis>, <emphasis effect="italics">14</emphasis>, 977–979.</para>
-      <para id="para-00041">Kipnis, J., Gadani, S., &amp; Derecki, N. C. (2012). Pro-cognitive properties of T cells. <emphasis effect="italics">Nature Reviews Immunology</emphasis>, <emphasis effect="italics">12</emphasis>, 663–669.</para>
-      <para id="para-00042">Lord, G. (2002). Role of leptin in immunology. <emphasis effect="italics">Nutrition Reviews</emphasis>, <emphasis effect="italics">60</emphasis>, S35–38; discussion S68–84, 85–87.</para>
-      <para id="para-00043">Louveau, A., Smirnov, I., Keyes, T. J., Eccles, J. D., Rouhani, S. J., Peske, J. D., Derecki, N. C., Castle, D., Mandell, J. W., Lee, K. S., Harris, T. H., &amp; Kipnis, J. (2015). Structural and functional features of central nervous system lymphatic vessels. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">523</emphasis>, 337–341.</para>
-      <para id="para-00044">Papayannopoulos, V. (2018). Neutrophil extracellular traps in immunity and disease. <emphasis effect="italics">Nature Reviews Immunology</emphasis>, <emphasis effect="italics">18</emphasis>, 134–147.</para>
-      <para id="para-00045">Roth, O., Sundin, J., Berglund, A., Rosenqvist, G., &amp; Wegner, K. M. (2014). Male mate choice relies on major histocompatibility complex class I in a sex-role-reversed pipefish. <emphasis effect="italics">Journal of Evolutionary Biology</emphasis>, <emphasis effect="italics">27</emphasis>, 929–938.</para>
-      <para id="para-00046">Rothwell, N. J., &amp; Hopkins, S. J. (1995). Cytokines and the nervous system II: Actions and mechanisms of action. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>, 130–136.</para>
-      <para id="para-00047">Rymešová, D., Králová, T., Promerová, M., Bryja, J., Tomášek, O., Svobodová, J., Šmilauer, P., Šálek, M., &amp; Albrecht, T. (2017). Mate choice for major histocompatibility complex complementarity in a strictly monogamous bird, the grey partridge (Perdix perdix). <emphasis effect="italics">Frontiers in Zoology</emphasis>, <emphasis effect="italics">14</emphasis>:9.</para>
+      <para id="para-00034">Alves de Lima, K., Rustenhoven, J., Da Mesquita, S., Wall, M., Salvador, A. F., Smirnov, I., Martelossi Cebinelli, G., Mamuladze, T., Baker, W., Papadopoulos, Z., Lopes, M. B., Cao, W. S., Xie, X. S., Herz, J., &amp; Kipnis, J. (2020). Meningeal γδ T cells regulate anxiety-like behavior via IL-17a signaling in neurons. <emphasis effect="italics">Nature Immunology</emphasis>, <emphasis effect="italics">21</emphasis>(11), 1421–1429. https://doi.org/10.1038/s41590-020-0776-4</para>
+      <para id="para-00035">Grob, B., Knapp, L. A., Martin, R. D., &amp; Anzenberger, G. (1998). The major histocompatibility complex and mate choice: Inbreeding avoidance and selection of good genes. <emphasis effect="italics">Experimental and Clinical Immunogenetics</emphasis>, <emphasis effect="italics">15</emphasis>(3), 119–129. https://doi.org/10.1159/000019063</para>
+      <para id="para-00036">Hanisch, U. K. (2002). Microglia as a source and target of cytokines. <emphasis effect="italics">Glia</emphasis>, <emphasis effect="italics">40</emphasis>(2), 140–155. https://doi.org/10.1002/glia.10161</para>
+      <para id="para-00037">Havlicek, J., &amp; Roberts, S. C. (2009). MHC-correlated mate choice in humans: A review. <emphasis effect="italics">Psychoneuroendocrinology</emphasis>, <emphasis effect="italics">34</emphasis>(4), 497–512. https://doi.org/10.1016/j.psyneuen.2008.10.007</para>
+      <para id="para-00038">Havlíček, J., Winternitz, J., &amp; Roberts, S. C. (2020). Major histocompatibility complex-associated odour preferences and human mate choice: Near and far horizons. <emphasis effect="italics">Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences</emphasis>, <emphasis effect="italics">375</emphasis>(1800), 20190260. https://doi.org/10.1098/rstb.2019.0260</para>
+      <para id="para-00039">Hopkins, S. J., &amp; Rothwell, N. J. (1995). Cytokines and the nervous system. I: Expression and recognition. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>(2), 83–88.</para>
+      <para id="para-00040">Iliff, J. J., Goldman, S. A., &amp; Nedergaard, M. (2015). Implications of the discovery of brain lymphatic pathways. <emphasis effect="italics">The Lancet. Neurology</emphasis>, <emphasis effect="italics">14</emphasis>(10), 977–979. https://doi.org/10.1016/S1474-4422(15)00221-5</para>
+      <para id="para-00041">Kipnis, J., Gadani, S., &amp; Derecki, N. C. (2012). Pro-cognitive properties of T cells. <emphasis effect="italics">Nature Reviews. Immunology</emphasis>, <emphasis effect="italics">12</emphasis>(9), 663–669. https://doi.org/10.1038/nri3280</para>
+      <para id="para-00042">Lord, G. (2002). Role of leptin in immunology. <emphasis effect="italics">Nutrition Reviews</emphasis>, <emphasis effect="italics">60</emphasis>(10 Pt 2), S35–87. https://doi.org/10.1301/002966402320634913</para>
+      <para id="para-00043">Louveau, A., Smirnov, I., Keyes, T. J., Eccles, J. D., Rouhani, S. J., Peske, J. D., Derecki, N. C., Castle, D., Mandell, J. W., Lee, K. S., Harris, T. H., &amp; Kipnis, J. (2015). Structural and functional features of central nervous system lymphatic vessels. <emphasis effect="italics">Nature</emphasis>, <emphasis effect="italics">523</emphasis>(7560), 337–341. https://doi.org/10.1038/nature14432</para>
+      <para id="para-00044">Papayannopoulos, V. (2018). Neutrophil extracellular traps in immunity and disease. <emphasis effect="italics">Nature Reviews. Immunology</emphasis>, <emphasis effect="italics">18</emphasis>(2), 134–147. https://doi.org/10.1038/nri.2017.105</para>
+      <para id="para-00045">Roth, O., Sundin, J., Berglund, A., Rosenqvist, G., &amp; Wegner, K. M. (2014). Male mate choice relies on major histocompatibility complex class I in a sex-role-reversed pipefish. <emphasis effect="italics">Journal of Evolutionary Biology</emphasis>, <emphasis effect="italics">27</emphasis>(5), 929–938. https://doi.org/10.1111/jeb.12365</para>
+      <para id="para-00046">Rothwell, N. J., &amp; Hopkins, S. J. (1995). Cytokines and the nervous system II: Actions and mechanisms of action. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">18</emphasis>(3), 130–136. https://doi.org/10.1016/0166-2236(95)93890-a</para>
+      <para id="para-00047">Rymešová, D., Králová, T., Promerová, M., Bryja, J., Tomášek, O., Svobodová, J., Šmilauer, P., Šálek, M., &amp; Albrecht, T. (2017). Mate choice for major histocompatibility complex complementarity in a strictly monogamous bird, the grey partridge (<emphasis effect="italics">Perdix perdix</emphasis>). <emphasis effect="italics">Frontiers in Zoology</emphasis>, <emphasis effect="italics">14</emphasis>, 9. https://doi.org/10.1186/s12983-017-0194-0</para>
+
     </section>
 
     <section class="multiple-choice" id="sect-00009">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-17-01-001" /></para>
+          <para id="para-00048"><link class="os-embed" url="#exercise/Neuro-17-01-001"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-17-01-002" /></para>
+          <para id="para-00049"><link class="os-embed" url="#exercise/Neuro-17-01-002"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-17-01-003" /></para>
+          <para id="para-00050"><link class="os-embed" url="#exercise/Neuro-17-01-003"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-17-01-004" /></para>
+          <para id="para-00051"><link class="os-embed" url="#exercise/Neuro-17-01-004"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-          <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-17-01-005" /></para>
+          <para id="para-00052"><link class="os-embed" url="#exercise/Neuro-17-01-005"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00006">
         <problem id="prob-00006">
-          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-17-01-006" /></para>
+          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-17-01-006"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00007">
         <problem id="prob-00007">
-          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-17-01-007" /></para>
+          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-17-01-007"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00008">
         <problem id="prob-00008">
-          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-17-01-008" /></para>
+          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-17-01-008"/></para>
         </problem>
       </exercise>
       <exercise id="exer-00009">
         <problem id="prob-00009">
-          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-17-01-009" /></para>
+          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-17-01-009"/></para>
         </problem>
       </exercise>
 
@@ -263,12 +264,12 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00010">
         <problem id="prob-00010">
-          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-17-01-010" /></para>
+          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-17-01-010"/></para>
         </problem>
       </exercise>
       <exercise id="exer-0009283">
         <problem id="prob-0002347">
-          <para id="para-00s356"><link class="os-embed" url="#exercise/Neuro-17-01-011" /></para>
+          <para id="para-00s356"><link class="os-embed" url="#exercise/Neuro-17-01-011"/></para>
         </problem>
       </exercise>
     </section>
