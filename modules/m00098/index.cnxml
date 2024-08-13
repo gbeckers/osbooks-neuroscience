@@ -74,18 +74,26 @@
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00008"/>
+        <para id="para-00008"><link class="os-embed" url="#exercise/Neuro-15-04-001"/></para>
         </problem>
-      </exercise>
+        </exercise>
+        <exercise id="exer-00002">
+          <problem id="prob-00002">
+          <para id="para-00009"><link class="os-embed" url="#exercise/Neuro-15-04-002"/></para>
+          </problem>
+          </exercise>
+          <exercise id="exer-00003">
+            <problem id="prob-00003">
+            <para id="para-00017"><link class="os-embed" url="#exercise/Neuro-15-04-003"/></para>
+            </problem>
+            </exercise>
+            <exercise id="exer-00004">
+              <problem id="prob-00004">
+              <para id="para-00018"><link class="os-embed" url="#exercise/Neuro-15-04-004"/></para>
+              </problem>
+              </exercise>
     </section>
-    <section class="fillin-blank" id="sect-00006">
-      <title>Fill in the Blank</title>
-      <exercise id="exer-00002">
-        <problem id="prob-00002">
-          <para id="para-00009"/>
-        </problem>
-      </exercise>
-    </section>
+
 
   </content>
 </document>
