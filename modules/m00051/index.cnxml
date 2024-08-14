@@ -14,13 +14,13 @@
         <item>Discuss how placebos might produce therapeutic effects in the absence of drug activity.</item>
       </list>
     </section>
-    <para id="para-00002"><term id="term-00001">Psychotherapeutics</term> are drugs used primarily in a clinical context to treat mental illnesses (see <link document="m00048">Emotion and Mood</link>). While these drugs on their own are not a cure, they can help to reduce symptoms or make non-pharmacological treatments, such as psychotherapy, more effective. Psychotherapeutics work through a variety of mechanisms, but in general, act to alter neurotransmitter signaling in brain circuits that underlie emotion and mood regulation. <link target-id="Image-14.18"/> shows some common psychotherapeutics in the 4 major categories we will discuss below.</para>
+    <para id="para-00002"><term id="term-00001">Psychotherapeutics</term> are drugs used primarily in a clinical context to treat mental illnesses (see <link document="m00048">Emotion and Mood</link>). While these drugs on their own are not a cure, they can help to reduce symptoms or make non-pharmacological treatments, such as psychotherapy, more effective. Psychotherapeutics work through a variety of mechanisms, but in general, act to alter neurotransmitter signaling in brain circuits that underlie emotion and mood regulation. <link target-id="Image-14.18" /> shows some common psychotherapeutics in the 4 major categories we will discuss below.</para>
     <table id="Image-14.18" summary="Pyschotherapeutics in the Anxiolytic, antidepressant, antipsychotic, and psychostimulant categories.">
       <tgroup cols="4">
-        <colspec colnum="1" colname="c1"/>
-        <colspec colnum="2" colname="c2"/>
-        <colspec colnum="3" colname="c3"/>
-        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="1" colname="c1" />
+        <colspec colnum="2" colname="c2" />
+        <colspec colnum="3" colname="c3" />
+        <colspec colnum="4" colname="c4" />
         <thead>
           <row>
             <entry>Category</entry>
@@ -32,13 +32,13 @@
         <tbody>
           <row>
             <entry>Anxiolytic</entry>
-            <entry>Alprazolam (Xanax)<newline/> Lorazepam (Ativan)</entry>
+            <entry>Alprazolam (Xanax)<newline /> Lorazepam (Ativan)</entry>
             <entry>Benzodiazepine</entry>
             <entry>Generalized anxiety disorder, post-traumatic stress disorder, panic disorder</entry>
           </row>
           <row>
             <entry morerows="1">Anti-depressant</entry>
-            <entry>Citalopram (Celexa)<newline/> Fluoxetine (Prozac)</entry>
+            <entry>Citalopram (Celexa)<newline /> Fluoxetine (Prozac)</entry>
             <entry>Selective serotonin reuptake inhibitor</entry>
             <entry morerows="1">Depression, post traumatic stress disorder, panic disorder</entry>
 
@@ -49,17 +49,17 @@
           </row>
           <row>
             <entry morerows="1">Anti-psychotic</entry>
-            <entry>Chlorpromazine (Thorazine)<newline/> Fluphenazine (Prolixin)</entry>
+            <entry>Chlorpromazine (Thorazine)<newline /> Fluphenazine (Prolixin)</entry>
             <entry>Conventional</entry>
             <entry morerows="1">Schizophrenia</entry>
           </row>
           <row>
-            <entry>Clozapine (Clozaril)<newline/> Risperidone (Risperdal)</entry>
+            <entry>Clozapine (Clozaril)<newline /> Risperidone (Risperdal)</entry>
             <entry>Atypical</entry>
           </row>
           <row>
             <entry>Psycho-stimulant</entry>
-            <entry>Methylphenidate (Ritalin)<newline/> Amphetamine (Adderall)</entry>
+            <entry>Methylphenidate (Ritalin)<newline /> Amphetamine (Adderall)</entry>
             <entry>Stimulant</entry>
             <entry>Attention-deficit/hyperactivity disorder (ADHD)</entry>
           </row>
@@ -71,14 +71,14 @@
       <title>Treatment of anxiety</title>
       <para id="para-00003">Anxiety disorders are one of the most prevalent forms of mental illness. Approximately 31% of American adults will be diagnosed with an anxiety disorder at some point in their lifetime (Harvard Medical School, 2007). Although most people experience some degree of anxiety from time to time, anxiety disorders are characterized by a constant anticipation of threat that is severe enough to disrupt daily functioning. There are several types of anxiety disorders, but they fall broadly into three main categories: generalized anxiety disorder (GAD), panic disorder, and phobia-related disorders. GAD is associated with persistent feelings of excessive dread or worry. Panic disorders are characterized by recurring panic attacks, which are sudden periods of autonomic hyperactivity (i.e. increased heart rate, sweating, shortness of breath) that can occur without any clear stimulus or trigger. Lastly, phobia-related disorders involve irrational or excessive worry about encountering a specific object or situation.</para>
 
-      <para id="para-00004"><term id="term-00002">Anxiolytics</term>, psychotherapeutic drugs used primarily to prevent or reduce anxiety symptoms, are the main pharmacological treatment currently used for treating most anxiety disorders. The most commonly prescribed anxiolytics belong to a class of drugs called <term id="term-00003">benzodiazepines (BZDs)</term>. BZDs are positive allosteric modulators that bind to GABA<sub>A</sub> receptors (a subtype of GABA receptor that is highly expressed throughout the limbic system) and increase the efficacy of GABA binding (<link document="m00050" target-id="Image-14.09"/>). These drugs are highly effective in reducing anxiety symptoms. However, BZDs may produce adverse outcomes when used with other psychoactive substances. For example, BZDs combined with opioids or alcohol, which also have sedative effects, can increase the risk of experiencing a coma or overdose.</para>
+      <para id="para-00004"><term id="term-00002">Anxiolytics</term>, psychotherapeutic drugs used primarily to prevent or reduce anxiety symptoms, are the main pharmacological treatment currently used for treating most anxiety disorders. The most commonly prescribed anxiolytics belong to a class of drugs called <term id="term-00003">benzodiazepines (BZDs)</term>. BZDs are positive allosteric modulators that bind to GABA<sub>A</sub> receptors (a subtype of GABA receptor that is highly expressed throughout the limbic system) and increase the efficacy of GABA binding (<link document="m00050" target-id="Image-14.09" />). These drugs are highly effective in reducing anxiety symptoms. However, BZDs may produce adverse outcomes when used with other psychoactive substances. For example, BZDs combined with opioids or alcohol, which also have sedative effects, can increase the risk of experiencing a coma or overdose.</para>
       <section id="sect-00014">
         <title>Neuroscience in the lab: Mechanism of action for benzodiazepines</title>
-        <para id="para-00005">Animal models have been pivotal in advancing our understanding of the specific molecular mechanisms that underlie the behavioral effects of these psychotherapeutics (and others). A critical part of this research is being able to measure an animal’s level of anxiety. The <term id="term-00004">light-dark choice test</term> is a commonly used behavioral assay in anxiety research that is based on a rodent’s innate aversion to a brightly lit area (<link target-id="Image-14.10"/>). Rodents naturally prefer to spend more time in the dark compartment, which they perceive as safer. Treatment with an anxiolytic increases time spent in the light compartment, something researchers interpret as a sign of reduced anxiety. Animals that possess a genetic mutation in the GABA receptor that prevents benzodiazepines from binding do not exhibit any changes in behavior when given an anxiolytic (Low et al., 2000). This type of finding indicates that the anxiety-reducing effects of benzodiazepines are mediated by activity at the GABA receptor.</para>
+        <para id="para-00005">Animal models have been pivotal in advancing our understanding of the specific molecular mechanisms that underlie the behavioral effects of these psychotherapeutics (and others). A critical part of this research is being able to measure an animal’s level of anxiety. The <term id="term-00004">light-dark choice test</term> is a commonly used behavioral assay in anxiety research that is based on a rodent’s innate aversion to a brightly lit area (<link target-id="Image-14.10" />). Rodents naturally prefer to spend more time in the dark compartment, which they perceive as safer. Treatment with an anxiolytic increases time spent in the light compartment, something researchers interpret as a sign of reduced anxiety. Animals that possess a genetic mutation in the GABA receptor that prevents benzodiazepines from binding do not exhibit any changes in behavior when given an anxiolytic (Low et al., 2000). This type of finding indicates that the anxiety-reducing effects of benzodiazepines are mediated by activity at the GABA receptor.</para>
         <figure id="Image-14.10">
           <title>Light-dark paradigm</title>
           <media alt="Left is an illustration of a mouse in a box where ~1/3 of it is dark and the rest is light, separated by a wall with an opening the mouse can move through. The light-dark choice test measures time in the light side of a chamber as a measure of anxiety-like behavior. Right shows 2 graphs, both with time in light side on the y-axis and anxiolytic dose on the x-axis. One graph is for wildtype mice and the other is for mutated GABA receptor. Anxiolytics increase times in the light side of the chamber, reflecting less anxiety-like behavior. Mice with non-functional GABA receptors do not respond to anxiolytics, suggesting anxiolytics activate GABA receptors.">
-            <image mime-type="image/png" src="../../media/Image-14.10_Light-dark-paradigm.png"/>
+            <image mime-type="image/png" src="../../media/Image-14.10_Light-dark-paradigm.png" />
           </media>
         </figure>
       </section>
@@ -88,11 +88,11 @@
       <para id="para-00006"><term id="term-00005">Major depressive disorder (MDD)</term>, also known as unipolar depression, is characterized by depressed mood and <term id="term-00006"> anhedonia</term>, which is a loss of interest or pleasure in normally enjoyable pursuits. These core symptoms may also be accompanied by changes in sleep, energy, appetite, and cognition. In 2020, the past year's prevalence of MDD in the U.S. was 17%, with women being almost twice as likely to be diagnosed compared to men (SAMSHA, 2022). MDD is often reoccurring; approximately 80% of people diagnosed with MDD will experience multiple depressive episodes over time. Moreover, MDD is highly comorbid, or diagnosed simultaneously, with other mental illnesses, including anxiety and substance use disorders. Collectively, these factors have led to MDD being one of the leading causes of disability worldwide.</para>
       <section id="sect-00004">
         <title>SSRIs</title>
-        <para id="para-00007">Antidepressants are psychotherapeutic drugs used to treat or prevent recurrent depressive episodes. They can also be used to treat anxiety disorders. The most frequently prescribed class of antidepressants is <term id="term-00007">selective serotonin reuptake inhibitors (SSRIs)</term>. These medications block the reuptake of serotonin into presynaptic axon terminals, resulting in increased serotonin signaling in the postsynaptic neuron (<link target-id="Image-14.11"/>).</para>
+        <para id="para-00007">Antidepressants are psychotherapeutic drugs used to treat or prevent recurrent depressive episodes. They can also be used to treat anxiety disorders. The most frequently prescribed class of antidepressants is <term id="term-00007">selective serotonin reuptake inhibitors (SSRIs)</term>. These medications block the reuptake of serotonin into presynaptic axon terminals, resulting in increased serotonin signaling in the postsynaptic neuron (<link target-id="Image-14.11" />).</para>
         <figure id="Image-14.11">
           <title>SSRI mechanism of action</title>
           <media alt="Two diagrams of serotonin synapses, one with normal function and another with drug present (SSRI). Normal: Released serotonin binds to postsynaptic receptors and is cleared by reuptake into the presynaptic terminal. With drug: Blocked reuptake increases serotonin in the synapse and postsynaptic signaling.">
-            <image mime-type="image/png" src="../../media/Image-14.11_SSRI-mechanism-of-action.png"/>
+            <image mime-type="image/png" src="../../media/Image-14.11_SSRI-mechanism-of-action.png" />
           </media>
         </figure>
         <para id="para-00008">Other molecular mechanisms likely contribute to antidepressant action since clinically significant therapeutic effects are typically not observed until 2-3 weeks after the start of treatment despite a rapid increase in serotonin availability. One potential mechanism is that SSRI-mediated elevations in serotonin levels increase hippocampal neurogenesis, which is believed to play a role in regulating mood. Chronic SSRI treatment is associated with increased neurogenesis in humans (Boldrini et al., 2009; Boldrini et al., 2013) and rodent models (Wang et al., 2008; David et al., 2009).In comparison to older types of antidepressants, such as monoamine oxidase inhibitors (MAOIs) and tricyclics, SSRIs tend to have a better safety profile and fewer adverse side effects. For this reason, SSRIs are often used as first-line medications, meaning they are the first choice for prescribing.</para>
@@ -110,18 +110,18 @@
         <title>Ketamine</title>
         <para id="para-00012">For most individuals, SSRIs are effective in attenuating symptoms or preventing relapse. However, it is estimated that SSRIs are ineffective in 10-30% of people diagnosed with MDD. Patients who do not respond to two or more different types of antidepressants are considered to have <term id="term-00010">treatment-resistant depression (TRD)</term>. In 2019, the FDA approved the use of intranasal ketamine for the treatment of TRD. Ketamine is an anesthetic regularly used in veterinary and emergency medicine. It is also used recreationally for its dissociative properties, which can induce hallucinations and feelings of detachment from one's body or environment. Ketamine’s antidepressant effects occur at sub-anesthetic doses and do not depend on its psychoactive effects. However, additional research is needed to understand how ketamine’s long-term efficacy and safety compare to first-line antidepressant treatments.</para>
 
-        <para id="para-00013">Ketamine’s therapeutic effects are thought to be mediated in part by its antagonistic activity at NMDA receptors located on the axon terminal of GABAergic interneurons which synapse onto glutamate-releasing neurons (<link target-id="Image-14.12"/>). Under normal conditions, NMDA receptor activation results in increased GABA release from the GABAergic interneuron. This in turn inhibits activity in the presynaptic glutamate-releasing neuron and prevents the stimulation of AMPA receptors on the postsynaptic cell. Ketamine blocks the activation of NMDA receptors, thus inhibiting GABA release onto the presynaptic glutamatergic neuron. Consequently, there is more glutamate release and increased activation of AMPA receptors on the postsynaptic cell.</para>
+        <para id="para-00013">Ketamine’s therapeutic effects are thought to be mediated in part by its antagonistic activity at NMDA receptors located on the axon terminal of GABAergic interneurons which synapse onto glutamate-releasing neurons (<link target-id="Image-14.12" />). Under normal conditions, NMDA receptor activation results in increased GABA release from the GABAergic interneuron. This in turn inhibits activity in the presynaptic glutamate-releasing neuron and prevents the stimulation of AMPA receptors on the postsynaptic cell. Ketamine blocks the activation of NMDA receptors, thus inhibiting GABA release onto the presynaptic glutamatergic neuron. Consequently, there is more glutamate release and increased activation of AMPA receptors on the postsynaptic cell.</para>
         <figure id="Image-14.12">
           <title>Ketamine mechanism of action</title>
           <media alt="Two diagrams of glutamatergic synapses with a GABAergic cell releasing on the glutamatergic presynaptic terminal. The GABAergic cell has an NMDA receptor on it. One diagram shows normal function and the other shows with drug present (ketamine). Normal: Active presynaptic GABA receptor signaling inhibits presynaptic glutamate release. Postsynaptic AMPA receptors remain closed. With drug: Ketamine inhibits GABA release onto the presynaptic terminal. Presynaptic glutamatergic release is disinhibited and postsynaptic AMPA signaling is activated.">
-            <image mime-type="image/png" src="../../media/Image-14.12_Ketamine-mechanism-of-action.png"/>
+            <image mime-type="image/png" src="../../media/Image-14.12_Ketamine-mechanism-of-action.png" />
           </media>
         </figure>
-        <para id="para-00014">AMPA receptor signaling is highly implicated in synaptic plasticity, which is thought to underlie the antidepressant effects of ketamine. In contrast to SSRIs, which have a therapeutic lag of multiple weeks, a single intravenous injection of ketamine has been shown to reduce depressive symptoms within 24 hours (Murrough et al., 2013) (<link target-id="Image-14.13"/>). Moreover, intranasal ketamine combined with an oral antidepressant, such as an SSRI, significantly delays relapse (Daly et al., 2019).</para>
+        <para id="para-00014">AMPA receptor signaling is highly implicated in synaptic plasticity, which is thought to underlie the antidepressant effects of ketamine. In contrast to SSRIs, which have a therapeutic lag of multiple weeks, a single intravenous injection of ketamine has been shown to reduce depressive symptoms within 24 hours (Murrough et al., 2013) (<link target-id="Image-14.13" />). Moreover, intranasal ketamine combined with an oral antidepressant, such as an SSRI, significantly delays relapse (Daly et al., 2019).</para>
         <figure id="Image-14.13">
           <title>Ketamine effects on depression</title>
           <media alt="Graph of depression rating (y-axis) versus day after ketamine treatment. The curve drops from high to low within 1 d of ketamine.">
-            <image mime-type="image/png" src="../../media/Image-14.13_Ketamine-effects-on-depression.png"/>
+            <image mime-type="image/png" src="../../media/Image-14.13_Ketamine-effects-on-depression.png" />
           </media>
           <caption>A single administration of ketamine can lead to reduced depressive symptoms within 1 day.</caption>
         </figure>
@@ -136,11 +136,11 @@
         <title>People behind the science: Dr. Helen Mayberg</title>
         <para id="para-00017">The most robust experimental design for testing the therapeutic effects of a drug in humans is a randomized, placebo-controlled study.A <term id="term-00012">placebo</term> is an inert substance designed to look identical to the experimental drug but has no active ingredients or therapeutic value. In some cases, an individual’s interaction with a healthcare provider or perception of treatment alone may be sufficient to alter responses. This is known as the <term id="term-00013">placebo effect</term>. Thus, to determine the true therapeutic value of a drug, it is necessary to discriminate what percentage of the clinical response is due to the drug versus placebo effects.</para>
 
-        <para id="para-00018">Although placebo effects have historically been considered a nuisance, they raise the question of whether an individual’s beliefs and expectations about treatment can influence neurobiological functioning, and if so, whether these mechanisms can be harnessed to enhance treatment efficacy. Dr. Helen Mayberg, Professor of Neurology, Psychiatry, and Neuroscience at Mount Sinai, explored these questions in the context of the treatment of depression. In a seminal neuroimaging study, Dr. Mayburg found a significant degree of overlap in limbic brain regions that were activated following exposure to a placebo versus an SSRI, suggesting that changes in activity in these areas facilitate therapeutic effects (Mayberg et al., 2002) (<link target-id="Image-14.20"/>). Interestingly, individuals treated with the SSRI exhibited additional activity changes in subcortical brain regions that were not seen in the placebo group. Thus, changes unique to the treatment group may underlie the actual drug response. These findings highlight the complex neurobiological and psychosocial interactions that regulate mood and behavior.</para>
+        <para id="para-00018">Although placebo effects have historically been considered a nuisance, they raise the question of whether an individual’s beliefs and expectations about treatment can influence neurobiological functioning, and if so, whether these mechanisms can be harnessed to enhance treatment efficacy. Dr. Helen Mayberg, Professor of Neurology, Psychiatry, and Neuroscience at Mount Sinai, explored these questions in the context of the treatment of depression. In a seminal neuroimaging study, Dr. Mayburg found a significant degree of overlap in limbic brain regions that were activated following exposure to a placebo versus an SSRI, suggesting that changes in activity in these areas facilitate therapeutic effects (Mayberg et al., 2002) (<link target-id="Image-14.20" />). Interestingly, individuals treated with the SSRI exhibited additional activity changes in subcortical brain regions that were not seen in the placebo group. Thus, changes unique to the treatment group may underlie the actual drug response. These findings highlight the complex neurobiological and psychosocial interactions that regulate mood and behavior.</para>
         <figure id="Image-14.20">
           <title>Placebo effect</title>
           <media alt="Left is a photo of Dr. Helen Mayberg, smiling. Right is a series of PET images of human brains. Colored areas indicate more or less activity in a variety of limbic areas which are similar in images from “active fluoxetine” as from “placebo fluoxetine” with only a few exceptions.">
-            <image mime-type="image/png" src="../../media/Image-14.20_Placebo-effect.png"/>
+            <image mime-type="image/png" src="../../media/Image-14.20_Placebo-effect.png" />
           </media>
           <caption>Image of Helen Mayberg from Heiden P, Pieczewski J and Andrade P (2022) Women in Neuromodulation: Innovative Contributions to Stereotactic and Functional Neurosurgery. Front. Hum. Neurosci. 15:756039. doi: 10.3389/fnhum.2021.756039. CC BY 4.0. PET image from: Benedetti F, Mayberg HS, Wager TD, Stohler CS, Zubieta JK. Neurobiological mechanisms of the placebo effect. J Neurosci. 2005 Nov 9;25(45):10390-402. doi: 10.1523/JNEUROSCI.3458-05.2005. PMID: 16280578; PMCID: PMC6725834. Copyright 2005 Society for Neuroscience.</caption>
         </figure>
@@ -198,26 +198,26 @@
     </section>
     <section class="references" id="sect-00011">
       <title>References</title>
-      <para id="para-00027">Bitsko, R. H., Claussen, A. H., Lichstein, J., et al. (2022). Mental health surveillance among children — United States, 2013–2019. <emphasis effect="italics">MMWR Supplements</emphasis> , <emphasis effect="italics">71</emphasis>(Suppl-2), 1–42.</para>
+      <para id="para-00027">Bitsko, R. H., Claussen, A. H., Lichstein, J., et al. (2022). Mental health surveillance among children — United States, 2013–2019. <emphasis effect="italics">MMWR Supplements</emphasis>, <emphasis effect="italics">71</emphasis>(Suppl-2), 1–42.</para>
       <para id="para-00028">Boldrini, M., Underwood, M. D., Hen, R., Rosoklija, G. B., Dwork, A. J., John Mann, J., &amp; Arango, V. (2009). Antidepressants increase neural progenitor cells in the human hippocampus. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">34</emphasis>(11), 2376–2389. https://doi.org/10.1038/npp.2009.75</para>
       <para id="para-00029">Boldrini, M., Santiago, A. N., Hen, R., Dwork, A. J., Rosoklija, G. B., Tamir, H., Arango, V., &amp; John Mann, J. (2013). Hippocampal granule neuron number and dentate gyrus volume in antidepressant-treated and untreated major depression. <emphasis effect="italics">Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</emphasis>, <emphasis effect="italics">38</emphasis>(6), 1068–1077. https://doi.org/10.1038/npp.2013.5</para>
       <para id="para-00030">Caspi, A., Sugden, K., Moffitt, T. E., Taylor, A., Craig, I. W., Harrington, H., ... &amp; Poulton, R. (2003). Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">301</emphasis>(5631), 386–389.</para>
       <para id="para-00031">Daly, E. J., Trivedi, M. H., Janik, A., Li, H., Zhang, Y., Li, X., Lane, R., Lim, P., Duca, A. R., Hough, D., Thase, M. E., Zajecka, J., Winokur, A., Divacka, I., Fagiolini, A., Cubala, W. J., Bitter, I., Blier, P., Shelton, R. C., Molero, P., … Singh, J. B. (2019). Efficacy of esketamine nasal spray plus oral antidepressant treatment for relapse prevention in patients with treatment-resistant depression: A randomized clinical trial. <emphasis effect="italics">JAMA Psychiatry</emphasis>, <emphasis effect="italics">76</emphasis>(9), 893–903. https://doi.org/10.1001/jamapsychiatry.2019.1189</para>
       <para id="para-00032">David, D. J., Samuels, B. A., Rainer, Q., Wang, J. W., Marsteller, D., Mendez, I., Drew, M., Craig, D. A., Guiard, B. P., Guilloux, J. P., Artymyshyn, R. P., Gardier, A. M., Gerald, C., Antonijevic, I. A., Leonardo, E. D., &amp; Hen, R. (2009). Neurogenesis-dependent and -independent effects of fluoxetine in an animal model of anxiety/depression. <emphasis effect="italics">Neuron</emphasis>, <emphasis effect="italics">62</emphasis>(4), 479–493. https://doi.org/10.1016/j.neuron.2009.04.017</para>
       <para id="para-00033">Gardner, D. M., Baldessarini, R. J., &amp; Waraich, P. (2005). Modern antipsychotic drugs: a critical overview. <emphasis effect="italics">CMAJ: Canadian Medical Association Journal = Journal de l'Association Médicale Canadienne</emphasis>, <emphasis effect="italics">172</emphasis>(13), 1703–1711. https://doi.org/10.1503/cmaj.1041064</para>
-      <para id="para-00034">Genro, J. P., Kieling, C., Rohde, L. A., &amp; Hutz, M. H. (2010). Attention-deficit/hyperactivity disorder and the dopaminergic hypotheses. <emphasis effect="italics">Expert Review of Neurotherapeutics</emphasis>, <emphasis effect="italics"> 10</emphasis>(4), 587–601. https://doi.org/10.1586/ern.10.17</para>
-      <para id="para-00035">Ginsberg, Y., Quintero, J., Anand, E., Casillas, M., &amp; Upadhyaya, H. P. (2014). Underdiagnosis of attention-deficit/hyperactivity disorder in adult patients: a review of the literature. <emphasis effect="italics">The Primary Care Companion for CNS Disorders</emphasis> , <emphasis effect="italics">16</emphasis>(3), PCC.13r01600. https://doi.org/10.4088/PCC.13r01600</para>
+      <para id="para-00034">Genro, J. P., Kieling, C., Rohde, L. A., &amp; Hutz, M. H. (2010). Attention-deficit/hyperactivity disorder and the dopaminergic hypotheses. <emphasis effect="italics">Expert Review of Neurotherapeutics</emphasis>, <emphasis effect="italics">10</emphasis>(4), 587–601. https://doi.org/10.1586/ern.10.17</para>
+      <para id="para-00035">Ginsberg, Y., Quintero, J., Anand, E., Casillas, M., &amp; Upadhyaya, H. P. (2014). Underdiagnosis of attention-deficit/hyperactivity disorder in adult patients: a review of the literature. <emphasis effect="italics">The Primary Care Companion for CNS Disorders</emphasis>, <emphasis effect="italics">16</emphasis>(3), PCC.13r01600. https://doi.org/10.4088/PCC.13r01600</para>
       <para id="para-00036">Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A., Richards, W. A., Richards, B. D., Cosimano, M. P., &amp; Klinedinst, M. A. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial. <emphasis effect="italics">Journal of Psychopharmacology (Oxford, England)</emphasis>, <emphasis effect="italics">30</emphasis>(12), 1181–1197. https://doi.org/10.1177/0269881116675513</para>
       <para id="para-00037">Harvard Medical School. (2007). National Comorbidity Survey (NCS). Retrieved from https://www.hcp.med.harvard.edu/ncs/index.php. Data Table 1: Lifetime prevalence DSM-IV/WMH-CIDI disorders by sex and cohort.</para>
       <para id="para-00038">Löw, K., Crestani, F., Keist, R., Benke, D., Brünig, I., Benson, J. A., Fritschy, J. M., Rülicke, T., Bluethmann, H., Möhler, H., &amp; Rudolph, U. (2000). Molecular and neuronal substrate for the selective attenuation of anxiety. <emphasis effect="italics">Science (New York, N.Y.)</emphasis>, <emphasis effect="italics">290</emphasis>(5489), 131–134. https://doi.org/10.1126/science.290.5489.131</para>
-      <para id="para-00039">Mayberg, H. S., Silva, J. A., Brannan, S. K., Tekell, J. L., Mahurin, R. K., McGinnis, S., &amp; Jerabek, P. A. (2002). The functional neuroanatomy of the placebo effect. <emphasis effect="italics">The American Journal of Psychiatry</emphasis>, <emphasis effect="italics"> 159</emphasis>(5), 728–737. https://doi.org/10.1176/appi.ajp.159.5.728</para>
+      <para id="para-00039">Mayberg, H. S., Silva, J. A., Brannan, S. K., Tekell, J. L., Mahurin, R. K., McGinnis, S., &amp; Jerabek, P. A. (2002). The functional neuroanatomy of the placebo effect. <emphasis effect="italics">The American Journal of Psychiatry</emphasis>, <emphasis effect="italics">159</emphasis>(5), 728–737. https://doi.org/10.1176/appi.ajp.159.5.728</para>
       <para id="para-00040">McGrath, J., Saha, S., Chant, D., &amp; Welham, J. (2008). Schizophrenia: a concise overview of incidence, prevalence, and mortality. <emphasis effect="italics">Epidemiologic Reviews</emphasis>, <emphasis effect="italics">30</emphasis>, 67–76. https://doi.org/10.1093/epirev/mxn001</para>
       <para id="para-00041">Miyamoto, S., Duncan, G. E., Marx, C. E., &amp; Lieberman, J. A. (2005). Treatments for schizophrenia: a critical review of pharmacology and mechanisms of action of antipsychotic drugs. <emphasis effect="italics">Molecular Psychiatry</emphasis>, <emphasis effect="italics">10</emphasis>(1), 79–104. https://doi.org/10.1038/sj.mp.4001556</para>
       <para id="para-00042">Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., &amp; Horowitz, M. A. (2023). The serotonin theory of depression: a systematic umbrella review of the evidence. <emphasis effect="italics">Molecular Psychiatry</emphasis>, <emphasis effect="italics">28</emphasis>(8), 3243–3256. https://doi.org/10.1038/s41380-022-01661-0</para>
       <para id="para-00043">Moreno, F. A., Gelenberg, A. J., Heninger, G. R., Potter, R. L., McKnight, K. M., Allen, J., Phillips, A. P., &amp; Delgado, P. L. (1999). Tryptophan depletion and depressive vulnerability. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">46</emphasis>(4), 498–505. https://doi.org/10.1016/s0006-3223(99)00095-5</para>
-      <para id="para-00044">Moreno, F. A., Heninger, G. R., McGahuey, C. A., &amp; Delgado, P. L. (2000). Tryptophan depletion and risk of depression relapse: a prospective study of tryptophan depletion as a potential predictor of depressive episodes. <emphasis effect="italics">Biological Psychiatry</emphasis> , <emphasis effect="italics">48</emphasis>(4), 327–329. https://doi.org/10.1016/s0006-3223(00)00893-3</para>
+      <para id="para-00044">Moreno, F. A., Heninger, G. R., McGahuey, C. A., &amp; Delgado, P. L. (2000). Tryptophan depletion and risk of depression relapse: a prospective study of tryptophan depletion as a potential predictor of depressive episodes. <emphasis effect="italics">Biological Psychiatry</emphasis>, <emphasis effect="italics">48</emphasis>(4), 327–329. https://doi.org/10.1016/s0006-3223(00)00893-3</para>
       <para id="para-00045">Murrough, J. W., Iosifescu, D. V., Chang, L. C., Al Jurdi, R. K., Green, C. E., Perez, A. M., Iqbal, S., Pillemer, S., Foulkes, A., Shah, A., Charney, D. S., &amp; Mathew, S. J. (2013). Antidepressant efficacy of ketamine in treatment-resistant major depression: a two-site randomized controlled trial. <emphasis effect="italics">The American Journal of Psychiatry</emphasis>, <emphasis effect="italics">170</emphasis>(10), 1134–1142. https://doi.org/10.1176/appi.ajp.2013.13030392</para>
-      <para id="para-00046">Pierre, J. M. (2005). Extrapyramidal symptoms with atypical antipsychotics : incidence, prevention and management. <emphasis effect="italics">Drug Safety</emphasis>, <emphasis effect="italics">28</emphasis>(3), 191–208. https://doi.org/10.2165/00002018-200528030-00002</para>
+      <para id="para-00046">Pierre, J. M. (2005). Extrapyramidal symptoms with atypical antipsychotics: incidence, prevention and management. <emphasis effect="italics">Drug Safety</emphasis>, <emphasis effect="italics">28</emphasis>(3), 191–208. https://doi.org/10.2165/00002018-200528030-00002</para>
       <para id="para-00047">Ringeisen, H., Edlund, M. J., Guyer, H., Geiger, P., Stambaugh, L. F., Dever, J. A., Liao, D., Carr, C. M., Peytchev, A., Reed, W., McDaniel, K., &amp; Smith, T. K. (2023). Mental and substance use disorders prevalence study: Findings report. RTI International.</para>
       <para id="para-00048">Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B., Mennenga, S. E., Belser, A., Kalliontzi, K., Babb, J., Su, Z., Corby, P., &amp; Schmidt, B. L. (2016). Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: a randomized controlled trial. <emphasis effect="italics">Journal of Psychopharmacology (Oxford, England)</emphasis>, <emphasis effect="italics">30</emphasis>(12), 1165–1180. https://doi.org/10.1177/0269881116675512</para>
       <para id="para-00049">Substance Abuse and Mental Health Services Administration (SAMHSA), Center for Behavioral Health Statistics and Quality. (2020). National Survey on Drug Use and Health 2022. Retrieved from https://datafiles.samhsa.gov/</para>
@@ -232,27 +232,27 @@
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-14-02-001"/></para>
+          <para id="para-00053"><link class="os-embed" url="#exercise/Neuro-14-02-001" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00002">
         <problem id="prob-00002">
-          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-14-02-002"/></para>
+          <para id="para-00054"><link class="os-embed" url="#exercise/Neuro-14-02-002" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00003">
         <problem id="prob-00003">
-          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-14-02-003"/></para>
+          <para id="para-00055"><link class="os-embed" url="#exercise/Neuro-14-02-003" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00004">
         <problem id="prob-00004">
-          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-14-02-004"/></para>
+          <para id="para-00056"><link class="os-embed" url="#exercise/Neuro-14-02-004" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00005">
         <problem id="prob-00005">
-          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-14-02-005"/></para>
+          <para id="para-00057"><link class="os-embed" url="#exercise/Neuro-14-02-005" /></para>
         </problem>
       </exercise>
     </section>
@@ -260,12 +260,12 @@
       <title>Fill in the Blank</title>
       <exercise id="exer-00006">
         <problem id="prob-00006">
-          <para id="para-00058"><link class="os-embed" url="#exercise/Neuro-14-02-006"/></para>
+          <para id="para-00058"><link class="os-embed" url="#exercise/Neuro-14-02-006" /></para>
         </problem>
       </exercise>
       <exercise id="exer-00007">
         <problem id="prob-00007">
-          <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-14-02-007"/></para>
+          <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-14-02-007" /></para>
         </problem>
       </exercise>
     </section>

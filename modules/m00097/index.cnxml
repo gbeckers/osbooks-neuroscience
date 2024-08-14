@@ -29,11 +29,11 @@
       <figure id="Image-15.17">
         <title>Why we sleep</title>
         <media alt="Diagrams representing 5 major answers to the question “why do we sleep?”. Shown are: restoration of physical and mental energy, reduced energy demand, protection from predators, support plasticity for learning, support of growth and development.">
-          <image mime-type="image/png" src="../../media/Image-15.17_Why-we-sleep.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.17_Why-we-sleep.png" />
         </media>
       </figure>
 
-      <para id="para-00030">One major theory of the function of sleep is that sleep performs a restorative function, without which an animal’s performance is impaired in some fashion (<link target-id="Image-15.17"/>). In humans, when we don’t sleep, we feel tired and our ability to function is decreased on both physical and mental tasks. After sleeping, we feel better. There is significant evidence in support of this function at the behavioral, physiological, and molecular levels. Sleep deprivation impairs, among other things, cognitive function, tissue repair, attention to tasks, and even increases cancer risk.</para>
+      <para id="para-00030">One major theory of the function of sleep is that sleep performs a restorative function, without which an animal’s performance is impaired in some fashion (<link target-id="Image-15.17" />). In humans, when we don’t sleep, we feel tired and our ability to function is decreased on both physical and mental tasks. After sleeping, we feel better. There is significant evidence in support of this function at the behavioral, physiological, and molecular levels. Sleep deprivation impairs, among other things, cognitive function, tissue repair, attention to tasks, and even increases cancer risk.</para>
 
       <para id="para-00031">One possible mechanism of the restorative function of sleep focuses on the neurotransmitter adenosine. Adenosine is released by neurons in response to excessive firing and metabolic exhaustion (Lovatt et al., 2012). During wakefulness, adenosine builds up in the brain, promoting sleepiness. It is then reduced during sleep. The impact of adenosine is counteracted by caffeine, giving coffee and other caffeinated beverages their ability to defer sleep onset. Caffeine has this effect by blocking action at the A2A adenosine receptor. This effect is temporary—once the caffeine wears off, a person is just as sleepy as if they had never had the caffeine.</para>
 
@@ -49,12 +49,12 @@
     </section>
     <note class="inthe-lab" id="note-00001">
       <title>How We Measure Sleep</title>
-      <para id="para-00037">The gold standard for measuring sleep is by the use of a <term id="term-00005">polysomnogram (PSG)</term>. <link target-id="Image-15.04"/> shows a photo of someone undergoing polysomnography, along with some of the typical measures collected during the session. This is typically done within a lab setting or sleep clinic. Electrodes are attached to standardized locations on the scalp to measure brain electrical activity through <term id="term-00006">electroencephalography (EEG)</term> (see <link document="m00106" target-id="">Methods: Sleep and EEG</link>). Fluctuations in voltage are measured and compared between each of the sensors. Electrical signals from the brain vary between waking and sleeping, and between the different stages of sleep. Electrodes are also used to measure movement of the eye muscles through <term id="term-00007">electrooculography</term> (<term id="term-00008">EOG</term>). This detects ocular movement during wakefulness and the different sleep stages and is used to identify <term id="term-00009">Rapid Eye Movement Sleep (REM or REM sleep)</term>. Sensors are also used to measure muscle movement through <term id="term-00010">electromyography (EMG)</term>. There are changes in muscle tone that occur as you move from wakefulness with continuous movement to REM sleep with muscle paralysis. Finally, oxygen saturation in your blood, respiratory rate, and heart rate may also be measured.</para>
+      <para id="para-00037">The gold standard for measuring sleep is by the use of a <term id="term-00005">polysomnogram (PSG)</term>. <link target-id="Image-15.04" /> shows a photo of someone undergoing polysomnography, along with some of the typical measures collected during the session. This is typically done within a lab setting or sleep clinic. Electrodes are attached to standardized locations on the scalp to measure brain electrical activity through <term id="term-00006">electroencephalography (EEG)</term> (see <link document="m00106" target-id="">Methods: Sleep and EEG</link>). Fluctuations in voltage are measured and compared between each of the sensors. Electrical signals from the brain vary between waking and sleeping, and between the different stages of sleep. Electrodes are also used to measure movement of the eye muscles through <term id="term-00007">electrooculography</term> (<term id="term-00008">EOG</term>). This detects ocular movement during wakefulness and the different sleep stages and is used to identify <term id="term-00009">Rapid Eye Movement Sleep (REM or REM sleep)</term>. Sensors are also used to measure muscle movement through <term id="term-00010">electromyography (EMG)</term>. There are changes in muscle tone that occur as you move from wakefulness with continuous movement to REM sleep with muscle paralysis. Finally, oxygen saturation in your blood, respiratory rate, and heart rate may also be measured.</para>
       
       <figure id="Image-15.04">
         <title>EEG measurement of sleep</title>
         <media alt="Photo of person lying asleep in a bed with electrodes tapes to their head, face and body with wires leading to a box on the side of the bed. Also shown are trace recordings from EEG, EOG and EMG as black horizontal lines. During wake, all traces show high frequency oscillations. During NREMS, EEG oscillations are bigger than during wake while EOG and EMG are more flat. During REMS, EEG looks similar to awake, EOG shows oscillations and EMG is flat.">
-          <image mime-type="image/png" src="../../media/Image-15.04_EEG-measurement-of-sleep.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.04_EEG-measurement-of-sleep.png" />
         </media>
         <caption>Image credit: Photo of person from: https://commons.wikimedia.org/wiki/File:Polysomnography_tester.jpg, CC BY-SA43.0. Electrode traces from Kumar,  Ramaswamy &amp; Mallick. 2013. "Local Properties of Vigilance States: EMD Analysis of EEG Signals during Sleep-Waking States of Freely Moving Rats." https://doi.org/10.1371/journal.pone.0078174. CC BY 4.0</caption>
       </figure>
@@ -64,26 +64,26 @@
     </note>
     <section id="sect-00008">
       <title>Stages of Sleep</title>
-      <para id="para-00040">There is a clear distinction between your activity levels during sleep when compared to being awake. However, getting a good night of sleep is not a uniform process where you lay immobile in bed and your brain becomes quiet. In reality, your brain and your body cycle through 4 different stages and the whole cycle can take about 90 minutes (<link target-id="Image-15.10"/>). You may experience 3-5 cycles per evening.</para>
+      <para id="para-00040">There is a clear distinction between your activity levels during sleep when compared to being awake. However, getting a good night of sleep is not a uniform process where you lay immobile in bed and your brain becomes quiet. In reality, your brain and your body cycle through 4 different stages and the whole cycle can take about 90 minutes (<link target-id="Image-15.10" />). You may experience 3-5 cycles per evening.</para>
 
       <figure id="Image-15.10">
         <title>Hypnogram</title>
         <media alt="A graphical display of sleep stages with Y-axis being stages of sleep (top to bottom: awake; dreaming/REM; NREM stage 1; NREM stage 2; NREM stage 3). X-axis is hours of sleep. A line starts at awake, hour 0 and drops to Stage 2 and 3 within an hour. The line returns to REM then back to stage 3. After 4h, no more stage 3 (also marked deep sleep) happens and there are just repeating cycles of REM or awake to stage 1 or 2.">
-          <image mime-type="image/png" src="../../media/Image-15.10_Hypnogram.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.10_Hypnogram.png" />
         </media>
       </figure>
 
-      <para id="para-00041">The stages comprising a cycle can be divided into <term id="term-00011">non-REM</term> (3 stages) and REM sleep. Non-REM sleep (also referred to as NREM sleep) is characterized by large amplitude, slow oscillations on the EEG, representing synchrony of electrical activity in the cortex (<link target-id="Image-15.04"/>). Muscle tone is reduced and movement is limited (but not eliminated).</para>
+      <para id="para-00041">The stages comprising a cycle can be divided into <term id="term-00011">non-REM</term> (3 stages) and REM sleep. Non-REM sleep (also referred to as NREM sleep) is characterized by large amplitude, slow oscillations on the EEG, representing synchrony of electrical activity in the cortex (<link target-id="Image-15.04" />). Muscle tone is reduced and movement is limited (but not eliminated).</para>
       <list id="list-00003">
         <item><term id="term-00012">Stage 1 non-REM sleep</term> is a transitional stage that occurs as one moves from wakefulness into sleep. This period lasts less than 10 minutes and is considered the lightest stage of sleep because you are easily woken up during this stage.</item>
-        <item><term id="term-00013">Stage 2 non-REM sleep</term> is where the majority of your sleeping time is spent. Your body temperature drops, your breathing rate slows, and your brain electrical patterns exhibit <term id="term-00014">sleep spindles</term> (<link target-id="Image-15.18"/>). Spindles appear on the EEG as rapid and rhythmic bursts of activity. Spindles are associated with learning capacity. This period lasts about 25 minutes.</item>
-        <item><term id="term-00015">Stage 3 non-REM sleep</term>, or <term id="term-00016">delta sleep</term>, or <term id="term-00017">slow wave sleep</term> is a deeper sleep where it may be hard to wake up even if there are loud noises or stimuli in the environment. The body's breathing rate is slowed and muscles are relaxed. In the EEG, <term id="term-00018">delta waves</term> appear which are slow frequency and high amplitude waves of electrical activity (<link target-id="Image-15.18"/>). This is the deepest stage of sleep and is the critical stage for restorative sleep as it is a time when the body clears out waste, builds bone and muscle and the immune system is strengthened. Decreases in the amount of slow wave sleep is associated with more fatigue during the day. Importantly, this stage of sleep is critical for memory consolidation.</item>
+        <item><term id="term-00013">Stage 2 non-REM sleep</term> is where the majority of your sleeping time is spent. Your body temperature drops, your breathing rate slows, and your brain electrical patterns exhibit <term id="term-00014">sleep spindles</term> (<link target-id="Image-15.18" />). Spindles appear on the EEG as rapid and rhythmic bursts of activity. Spindles are associated with learning capacity. This period lasts about 25 minutes.</item>
+        <item><term id="term-00015">Stage 3 non-REM sleep</term>, or <term id="term-00016">delta sleep</term>, or <term id="term-00017">slow wave sleep</term> is a deeper sleep where it may be hard to wake up even if there are loud noises or stimuli in the environment. The body's breathing rate is slowed and muscles are relaxed. In the EEG, <term id="term-00018">delta waves</term> appear which are slow frequency and high amplitude waves of electrical activity (<link target-id="Image-15.18" />). This is the deepest stage of sleep and is the critical stage for restorative sleep as it is a time when the body clears out waste, builds bone and muscle and the immune system is strengthened. Decreases in the amount of slow wave sleep is associated with more fatigue during the day. Importantly, this stage of sleep is critical for memory consolidation.</item>
       </list>
 
       <figure id="Image-15.18">
         <title>Sleep spindles and delta waves</title>
         <media alt="Screenshots of EEG traces showing sleep spindles and delta waves. Sleep spindles are rapid bursts in electrical activity in the brain during stage 2 NREM sleep that may be related to learning and memory. Delta waves are slow frequency, high amplitude waves evident during stage 3 NREM sleep.">
-          <image mime-type="image/png" src="../../media/Image-15.18_Sleep-spindles-and-delta-waves.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.18_Sleep-spindles-and-delta-waves.png" />
         </media>
         <caption>Image credit: Sleep spindles from EEG by MrSandman at English Wikipedia. Transferred from w to Commons by en., Public Domain, https://commons.wikimedia.org/w/index.php?curid=453178. Delta waves from EEG Public Domain, https://commons.wikimedia.org/w/index.php?curid=453193</caption>
       </figure>
@@ -96,21 +96,21 @@
     </note>
     <section id="sect-00009">
       <title>Regulating Sleep</title>
-      <para id="para-00044">When we are awake there are multiple brain areas that are actively responsible for keeping us in an awake state. However, you may not realize that when we are asleep our brains are not in an "off" state; instead, our brains remain engaged in active processes. While we sleep there are specific brain areas that are turned "on" to help regulate our sleep. During our waking period there are multiple brain areas, working together as part of the ascending arousal system, that secrete neurotransmitters which then maintain wakefulness (see <link document="m00027">Basic Neurochemistry</link> (<link target-id="Image-15.06"/>). The neurotransmitters that are secreted go to a sleep-promoting brain area to turn off its activity. This brain area, known as the ventrolateral preoptic area (VLPO, a region of the hypothalamus), communicates back to the wake-promoting system, and inhibits these structures in order to maintain a quiescent state. Thus, there is a brain area that promotes sleep, a second set of structures that promotes wakefulness, and these two systems inhibit one another. This is referred to as the <term id="term-00019">flip flop switch</term>.</para>
+      <para id="para-00044">When we are awake there are multiple brain areas that are actively responsible for keeping us in an awake state. However, you may not realize that when we are asleep our brains are not in an "off" state; instead, our brains remain engaged in active processes. While we sleep there are specific brain areas that are turned "on" to help regulate our sleep. During our waking period there are multiple brain areas, working together as part of the ascending arousal system, that secrete neurotransmitters which then maintain wakefulness (see <link document="m00027">Basic Neurochemistry</link> (<link target-id="Image-15.06" />). The neurotransmitters that are secreted go to a sleep-promoting brain area to turn off its activity. This brain area, known as the ventrolateral preoptic area (VLPO, a region of the hypothalamus), communicates back to the wake-promoting system, and inhibits these structures in order to maintain a quiescent state. Thus, there is a brain area that promotes sleep, a second set of structures that promotes wakefulness, and these two systems inhibit one another. This is referred to as the <term id="term-00019">flip flop switch</term>.</para>
 
       <figure id="Image-15.06">
         <title>Sleep circuitry</title>
         <media alt="Top is a diagram of a sagittal human brain with projections from the TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) in brainstem. Projections extend widely throughout the cortex. LDT/PPT (ACh) sends projections to the thalamus. Bottom shows a cartoon of a balance with VLPO/sleep on one side and TMN, Rn, LC and PPT/LDT with Wake on the other side. Sleep transitions are regulated by this 'flip flop switch'.">
-          <image mime-type="image/png" src="../../media/Image-15.06_Sleep-circuitry.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.06_Sleep-circuitry.png" />
         </media>
       </figure>
 
-      <para id="para-00045">To be more specific, during wakefulness, in the brainstem, the locus coeruleus (LC) secretes norepinephrine and the raphe nuclei secretes serotonin. In the hypothalamus, the tuberomammillary nuclei (TMN) secrete histamine. Additionally, in the brainstem, near the pons are two groups of cells that secrete acetylcholine. These cells are located in the lateral dorsal tegmentum (LDT) and the pontine peduncular tegmentum (PPT). Together, these wake-promoting areas send projections through the rest of the brain to help maintain wakefulness. In contrast, there is a group of cells in the VLPO of the hypothalamus which promotes sleep. As mentioned above, there is a mutual inhibition between the sleep-promoting regions of the VLPO and the wake-promoting regions of the brainstem and hypothalamus. Specifically, the VLPO is inhibited by norepinephrine and serotonin via connections from LC and raphe nuclei; this occurs during wakefulness. The cells of the VLPO send neuronal projections containing the inhibitory amino acid GABA and the inhibitory neurotransmitter galanin to the aforementioned sleep-promoting brain areas. The VLPO thus inhibits these areas and as a result maintains sleep. These connections are diagrammed in <link target-id="Image-15.22"/>.</para>
+      <para id="para-00045">To be more specific, during wakefulness, in the brainstem, the locus coeruleus (LC) secretes norepinephrine and the raphe nuclei secretes serotonin. In the hypothalamus, the tuberomammillary nuclei (TMN) secrete histamine. Additionally, in the brainstem, near the pons are two groups of cells that secrete acetylcholine. These cells are located in the lateral dorsal tegmentum (LDT) and the pontine peduncular tegmentum (PPT). Together, these wake-promoting areas send projections through the rest of the brain to help maintain wakefulness. In contrast, there is a group of cells in the VLPO of the hypothalamus which promotes sleep. As mentioned above, there is a mutual inhibition between the sleep-promoting regions of the VLPO and the wake-promoting regions of the brainstem and hypothalamus. Specifically, the VLPO is inhibited by norepinephrine and serotonin via connections from LC and raphe nuclei; this occurs during wakefulness. The cells of the VLPO send neuronal projections containing the inhibitory amino acid GABA and the inhibitory neurotransmitter galanin to the aforementioned sleep-promoting brain areas. The VLPO thus inhibits these areas and as a result maintains sleep. These connections are diagrammed in <link target-id="Image-15.22" />.</para>
 
       <figure id="Image-15.22">
         <title>Reciprocal inhibitory connections of sleep areas</title>
         <media alt="Diagram of sagittal human brain focused on brainstem/midbrain. TMN (histamine), raphe nucleus (5HT), locus coeruleus (NE) and LDT/PPT (ACh) in brainstem all have inhibitory connections on VLPO (GABA, galanin) in hypothalamus. VLPO sends inhibitory connections to all those regions.">
-          <image mime-type="image/png" src="../../media/Image-15.22_Reciprocal-inhibitory-connections-of-sleep-areas.png"/>
+          <image mime-type="image/png" src="../../media/Image-15.22_Reciprocal-inhibitory-connections-of-sleep-areas.png" />
         </media>
         <caption>Wake and sleep promoting regions inhibit each other.</caption>
       </figure>
@@ -195,47 +195,48 @@
       <para id="para-00024">Voirin, B., Scriba, M. F., Martinez-Gonzalez, D., Vyssotski, A. L., Wikelski, M., &amp; Rattenborg, N. C. (2014). Ecology and neurophysiology of sleep in two wild sloth species. <emphasis effect="italics">Sleep</emphasis>, <emphasis effect="italics">37</emphasis>(4), 753–761. https://doi.org/10.5665/sleep.3584</para>
       <para id="para-00025">Walker, M. P. (2017). <emphasis effect="italics">Why we sleep: Unlocking the power of sleep and dreams</emphasis>. First Scribner hardcover edition. New York: Scribner, an imprint of Simon &amp; Schuster, Inc.</para>
 
+
     </section>
     <section class="multiple-choice" id="sect-00005">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-        <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-15-03-001"/></para>
+          <para id="para-00026"><link class="os-embed" url="#exercise/Neuro-15-03-001" /></para>
         </problem>
-        </exercise>
-        <exercise id="exer-00002">
-          <problem id="prob-00002">
-          <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-15-03-002"/></para>
-          </problem>
-          </exercise>
-          <exercise id="exer-00003">
-            <problem id="prob-00003">
-            <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-15-03-003"/></para>
-            </problem>
-            </exercise>
-            <exercise id="exer-00004">
-              <problem id="prob-00004">
-              <para id="para-00060"><link class="os-embed" url="#exercise/Neuro-15-03-004"/></para>
-              </problem>
-              </exercise>
-              <exercise id="exer-00005">
-                <problem id="prob-00005">
-                <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-15-03-005"/></para>
-                </problem>
-                </exercise>
-                <exercise id="exer-00006">
-                  <problem id="prob-00006">
-                  <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-15-03-006"/></para>
-                  </problem>
-                  </exercise>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00027"><link class="os-embed" url="#exercise/Neuro-15-03-002" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+          <para id="para-00059"><link class="os-embed" url="#exercise/Neuro-15-03-003" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00004">
+        <problem id="prob-00004">
+          <para id="para-00060"><link class="os-embed" url="#exercise/Neuro-15-03-004" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00005">
+        <problem id="prob-00005">
+          <para id="para-00061"><link class="os-embed" url="#exercise/Neuro-15-03-005" /></para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00006">
+        <problem id="prob-00006">
+          <para id="para-00062"><link class="os-embed" url="#exercise/Neuro-15-03-006" /></para>
+        </problem>
+      </exercise>
     </section>
     <section class="fillin-blank" id="sect-00006">
       <title>Fill in the Blank</title>
       <exercise id="exer-00007">
         <problem id="prob-00007">
-        <para id="para-00063"><link class="os-embed" url="#exercise/Neuro-15-03-007"/></para>
+          <para id="para-00063"><link class="os-embed" url="#exercise/Neuro-15-03-007" /></para>
         </problem>
-        </exercise>
+      </exercise>
     </section>
 
   </content>

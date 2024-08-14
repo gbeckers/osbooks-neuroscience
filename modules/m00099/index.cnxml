@@ -57,11 +57,11 @@
 
       <section id="sect-00012">
         <title>Social Jetlag</title>
-        <para id="para-00052">As we have described in a previous section, people can exhibit chronotypes such as "night owl" or "lark". These preferences for specific times for sleep/activity can be in conflict with external timing requirements such as work and school. <term id="term-00006">Social jetlag</term> occurs when an individual fits their sleep/wake schedule to match their requirements during the week, but then they allow their internal clock to dictate their sleep/wake schedule on weekends (<link target-id="Image-15.11"/>). There is a discrepancy between the schedule of sleep during the week and weekend. For example, a college student may get up at 9 am and go to bed at midnight Sunday-Thursday. But on Friday and Saturday they may stay awake until 2 am and get up at 11 am. When Monday morning rolls around, the student would have to readjust their schedule again and wake up 2 hours sooner than they would prefer, as if they were adapting to a new time zone. This phenomena can be worse in night owl chronotypes, as they may experience difficulty falling asleep early, yet they still have to wake up early for school or work.</para>
+        <para id="para-00052">As we have described in a previous section, people can exhibit chronotypes such as "night owl" or "lark". These preferences for specific times for sleep/activity can be in conflict with external timing requirements such as work and school. <term id="term-00006">Social jetlag</term> occurs when an individual fits their sleep/wake schedule to match their requirements during the week, but then they allow their internal clock to dictate their sleep/wake schedule on weekends (<link target-id="Image-15.11" />). There is a discrepancy between the schedule of sleep during the week and weekend. For example, a college student may get up at 9 am and go to bed at midnight Sunday-Thursday. But on Friday and Saturday they may stay awake until 2 am and get up at 11 am. When Monday morning rolls around, the student would have to readjust their schedule again and wake up 2 hours sooner than they would prefer, as if they were adapting to a new time zone. This phenomena can be worse in night owl chronotypes, as they may experience difficulty falling asleep early, yet they still have to wake up early for school or work.</para>
         <figure id="Image-15.11">
           <title>Social jet lag</title>
           <media alt="Diagram representing the sleep periods of someone with social jet lag on weekdays versus weekends as grey horizontal bars that shift left or right (time on x-axis). On weekdays, sleep shifts earlier and on weekends sleep shifts later and sometimes lengthens.">
-            <image mime-type="image/png" src="../../media/Image-15.11_Social-jet-lag.png"/>
+            <image mime-type="image/png" src="../../media/Image-15.11_Social-jet-lag.png" />
           </media>
           <caption>Sleep timing varies by days of the week in humans. Image credit: Roenneberg et al., 2019, "Chronotype and social jetlag: A (self-) critical review." Biology, 8(3), 54. https://doi.org/10.3390/biology8030054. CC BY 4.0</caption>
         </figure>
@@ -137,19 +137,20 @@
       <para id="para-00034">Wagstaff, A. S., &amp; Sigstad Lie, J. A. (2011). Shift and night work and long working hours—a systematic review of safety implications. <emphasis effect="italics">Scandinavian Journal of Work, Environment &amp; Health</emphasis>, <emphasis effect="italics">37</emphasis>(3), 173–185. https://doi.org/10.5271/sjweh.3146</para>
       <para id="para-00035">Zhang, H., Dahlén, T., Khan, A., Edgren, G., &amp; Rzhetsky, A. (2020). Measurable health effects associated with the daylight saving time shift. <emphasis effect="italics">PloS Computational Biology</emphasis>, <emphasis effect="italics">16</emphasis>(6), e1007927. https://doi.org/10.1371/journal.pcbi.1007927</para>
 
+
     </section>
     <section class="multiple-choice" id="sect-00005">
       <title>Multiple Choice</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
-        <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-15-05-001"/></para>
+          <para id="para-00036"><link class="os-embed" url="#exercise/Neuro-15-05-001" /></para>
         </problem>
-        </exercise>
-        <exercise id="exer-00002">
-          <problem id="prob-00002">
-          <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-15-05-002"/></para>
-          </problem>
-          </exercise>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00037"><link class="os-embed" url="#exercise/Neuro-15-05-002" /></para>
+        </problem>
+      </exercise>
     </section>
 
 
