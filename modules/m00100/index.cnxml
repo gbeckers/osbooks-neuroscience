@@ -6,10 +6,212 @@
     <md:uuid>abeb16fd-5f68-41a9-b5ba-ff87c7778dcb</md:uuid>
   </metadata>
   <content class="preface">
-    <para id="para-00001">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus velit ut euismod tristique. Cras id dui neque. Nam ac hendrerit tellus. Duis ut magna at elit interdum scelerisque a finibus est. Curabitur vulputate odio lectus, ut semper neque ultricies ut. Nullam at eros sit amet sem commodo fermentum. Phasellus lacinia sed ex vel posuere. Aliquam congue sem nec nisl venenatis congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur vehicula purus sem, nec efficitur nisi volutpat quis.</para>
-    <section id="sect-00001">
-      <title>Lorem Ipsum</title>
-      <para id="para-00002">Integer non eleifend lectus. Quisque eleifend dui risus, at aliquam nisi laoreet non. Nam vel diam sit amet ligula vulputate tristique. Sed eu fermentum ante. Etiam aliquet lorem quam, vitae tempor nulla interdum sit amet. In eu suscipit turpis. Sed lacinia a mauris eget condimentum. Etiam cursus lorem nec eros aliquam convallis. Quisque non justo dolor. Nam pulvinar, ligula quis porta bibendum, diam est fermentum diam, egestas venenatis velit diam vel velit. Curabitur vel malesuada nunc, quis posuere ligula. Sed luctus purus nec lacus cursus cursus.Cras nec lacus id leo molestie finibus. Sed dolor ante, ultrices a luctus non, tincidunt quis ipsum. Mauris mauris est, dictum suscipit lectus at, finibus sodales justo. Suspendisse pretium nisl id velit auctor, at finibus tortor pharetra. Integer pharetra odio et lorem finibus, in imperdiet ante lacinia. Integer est justo, aliquam id gravida eget, efficitur fringilla dui. Sed nec venenatis risus. Phasellus aliquet mi id venenatis tempor. Aenean venenatis nisi non mattis maximus. Sed eu commodo sapien, nec tristique tortor. Nullam facilisis tellus tortor, quis volutpat risus consectetur ac. Suspendisse gravida id est vitae eleifend. Nulla id vehicula libero. In dapibus sed eros in venenatis. Donec pulvinar mi elit, a rutrum lacus sollicitudin consectetur.</para>
+
+    <section id="import-auto-id1164185993559">
+    <title>About OpenStax</title>
+    <para id="import-auto-id1164193596448">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to improve educational access and learning for everyone. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
     </section>
+    <section id="import-auto-id1164197039345">
+    <title>About OpenStax resources</title>
+    <section id="import-auto-id1164219050458">
+    <title>Customization</title>
+    <para id="import-auto-id1164190097117"><emphasis effect="italics">Introduction to Behavioral Neuroscience</emphasis> is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors, do not use the content for commercial purposes, and distribute the content under the same CC-BY-NC-SA license.</para>
+    <para id="eip-411">Because our books are openly licensed, you are free to use the entire book or select only the sections that are most relevant to the needs of your course. Feel free to remix the content for non-commercial use by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+    <para id="eip-570">Instructors also have the option of creating a customized version of their OpenStax book. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para></section>
+    <section id="sect-00002"><title>Art Attribution</title>
+      <para id="para-00001">In <emphasis effect="italics">Introduction to Behavioral Neuroscience</emphasis>, most art is originally created in Biorender software by a team, primarily consisting of undergraduates (see acknowledgements). The original art in this text has no attribution in the figure caption. If you reuse art from this text that does not have attribution provided, use the following attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license. Art sourced from 3rd parties contains attribution to its title, creator or rights holder, host platform, and license within the caption. The license restrictions in the attribution should follow the art when reused and/or adapted. </para>
+    </section>
+    <section id="import-auto-id8599726">
+    <title>Errata</title>
+    <para id="import-auto-id1164191106500">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. In addition, the wide range of hypotheses, data, and techniques in neuroscience change frequently, and portions of the textbook may become out of date. Since our books are web-based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past and pending errata changes on your book page on OpenStax.org.</para></section>
+    <section id="import-auto-id1164213976563">
+    <title>Format</title>
+    <para id="import-auto-id1164202603625">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print. The web view is the recommended format because it is the most accessible—including being WCAG 2.2 AA compliant—and most current. Print versions are available for individual purchase, or they may be ordered through your campus bookstore.</para></section>
+    </section>
+    <section id="import-auto-id1164193446666"><title>About <emphasis effect="italics">Introduction to Behavioral Neuroscience</emphasis></title>
+    <para id="import-auto-id1164231453381"><emphasis effect="italics">Introduction to Behavioral Neuroscience</emphasis> aligns to the topics and objectives of many introductory behavioral neuroscience courses. This type of course, which typically targets entry-level undergraduates with no presumed college-level science coursework, goes by many names, such as Behavioral Neuroscience or Biological Bases of Behavior. These courses and this resource share the goal of presenting the foundational principles of brain-behavior-environment interactions. In <emphasis effect="italics">Introduction to Behavioral Neuroscience</emphasis>, students will begin to understand how the physiology of the nervous system and the environment dictate our movements, thoughts and feelings. Students will be challenged to think about real neuroscience experiments, appreciate how neuroscience knowledge evolves over time, and consider open questions. They will also be invited to learn about the people behind the science, such as through author interview videos.
+    </para>
+    <section id="import-auto-id1164187998914">
+    <title>Pedagogical foundation</title>
+    <para id="import-auto-id1164193155767">The content of Introduction to Behavioral Neuroscience is intended to prepare students, typically undergraduates taking their first neuroscience course, with the core principles of behavioral neuroscience. At many universities, this material would be presented in the first course of a neuroscience major and would be considered a prerequisite for subsequent courses in the major. In addition, the courses targeted by this resource frequently have high enrollments from non-majors as well. The material is presented with these non-major students in mind too.</para>
+<para id="para-00002">Introduction to Behavioral Neuroscience begins with 3 chapters covering basic systems and cellular neuroanatomy, neuronal physiology, and neurochemistry. These first 3 chapters are considered requisite knowledge for all the following chapters. The subsequent chapters can be used in any order and any combination. They cover the major subfields of neuroscience, arranged in 5 units with 2-4 chapters each: evolution and development of the nervous system, sensory and motor systems, neuroendocrine systems and emotional regulation, internal regulation, and cognition. We encourage instructors to sample from this resource as little or as much as is useful for them. The Introduction to Behavioral Neuroscience Community Hub for this resource provides links to other open educational resources relevant to the type of course this resource targets, and we encourage instructors to consider sampling from these sources, as well.</para>
+<para id="para-00003">Each chapter presented here is contributed by a unique set of authors. Collectively, these 26 authors represent a diverse array of backgrounds, institutions, and areas of expertise. All primary authors are expert neuroscientists with undergraduate teaching experience. They come from 11 different states in the United States of America. They range in seniority from assistant professors to the newly emeritus. Several chapters also include graduate trainee co-authors. Authors work at large state universities, small liberal art colleges and everything in between. The variety in their backgrounds and life stories as individuals can be especially appreciated in our Meet the Author videos that accompany each chapter. The diversity of authorship is considered a key pedagogical feature of this text. When reading a textbook, students not only learn what neuroscience is, but also who neuroscientists are (and often then infer who can be a neuroscientist). Our intention is to show students that anyone with a passion for neuroscience can be a part of this exciting field.</para>
+<section id="sect-00003"><title>Key Features</title>
+    <list id="import-auto-id1164213519900" list-type="bulleted">
+    <item><emphasis effect="bold">Neuroscience in the lab:</emphasis> Highlights neuroscience experiments, including description of how the methods are executed, the data obtained and the key conclusions from that data.</item>
+    <item><emphasis effect="bold">People behind the science:</emphasis> Presents prominent neuroscientists and their major contributions to their field. Emphasis is placed on contemporary scientists who are currently active, though notable historical figures are also included.</item>
+    <item><emphasis effect="bold">Feature boxes: </emphasis> Presents material that expands on core chapter text, such as enhanced detail on a main text topic, or interesting ties to medicine or public health that extend beyond the central material.</item>
+    </list>
+    </section>
+    <section id="import-auto-id1164230572827"><title>Key teaching/learning elements</title>
+      <section id="sect-00004"><title>Learning Objectives</title><para id="para-00004">Every section within each chapter begins with a set of clear and concise learning objectives, which inform students and instructors what new knowledge and skills will be derived from that part of the text. The learning objectives can assist instructors in selecting content and can help students identify key content. Successful mastery of a section would be established by being able to demonstrate the skills described by the learning objectives. </para>
+      </section>
+      <section id="sect-00005"><title>Themes</title>
+        <para id="para-00005">Though each chapter has unique authorship, this resource is still created to be a unified whole. A major part of that unity is a core set of themes that appear throughout the chapters. These themes are cross-discipline principles that permeate all fields of neuroscience and they are named in section or subsection titles to draw attention to them.</para>
+        <list id="list-00001"><item><emphasis effect="bold">Developmental perspective.</emphasis> Development and aging are potent modulators of behavior and brain. A lifespan perspective is relevant throughout the study of neuroscience.</item>
+          <item><emphasis effect="bold">Science as a process.</emphasis> Neuroscience as a field is constantly advancing through new discovery. Many major questions remain open to investigation and old answers are frequently overturned by new advances. Major gaps in knowledge and/or recent overthrow of long-held ideas are common throughout neuroscience.</item>
+          <item><emphasis effect="bold">Sex as a biological variable.</emphasis> Sex has well established roles throughout neuroscience. While one chapter of this resource is dedicated entirely to exploring sex differences in behavior and their development, the influence of genes, hormones and the environment on male-female differences permeates all subfields. </item>
+          <item><emphasis effect="bold">Environment-brain bidirectional communication.</emphasis> Neither our nervous systems nor our environments exist in a vacuum. They are interdependent, with constant interchange between brain-behavior-environment.</item>
+          <item><emphasis effect="bold">Neuroscience across species.</emphasis> Neuroscience research relies on a synthesis of data across species to inform us of commonalities and diversity in the natural world. The chapter on comparative neuroscience addresses this topic directly and in detail, but the contribution of cross-species research is essential in all subfields.</item>
+        </list>
+    </section>
+  </section>
+    <section id="sect-00001">
+      <title>Special Characteristics</title>
+<list id="list-00002"><item><emphasis effect="bold">Meet the author videos:</emphasis> Each chapter opens with a link to a short video interview of the author(s). These interviews were organized and created by an undergraduate student, India Carter (undergraduate neuroscience major, Ohio State University), in collaboration with the Ohio State University College of Arts and Sciences Tech Studio. In the videos, a more personal view of the authors is presented, including answers to questions like “What got you interested in neuroscience?” and “What do you research now?”. They also frequently offer their advice to students interested in pursuing neuroscience.</item>
+  <item><emphasis effect="bold">Author summary videos:</emphasis> Each chapter ends with a link to a short video in which authors describe the main takeaway lesson they wish students to appreciate from their chapter. These are not detailed lists, but rather a guide to what core idea or theme authors wish students would retain. These videos were organized and created by an undergraduate student, India Carter (undergraduate neuroscience major, Ohio State University), in collaboration with the Ohio State University College of Arts and Sciences Tech Studio.</item>
+  <item><emphasis effect="bold">Methods videos:</emphasis> Throughout the main chapters, there are links to original ancillary methods video chapters. These videos are authored by faculty, as well as graduate and postdoctoral trainees. In the videos, the authors both explain and demonstrate common techniques in neuroscience. Students can therefore not just learn the idea behind techniques but see what it looks like in action.</item>
+</list>
+<section id="sect-00006"><title>Section Quizzes</title>
+<para id="para-00006">Chapter section quizzes include multiple choice and fill-in-the-blank questions. Multiple choice questions cover a range of Bloom’s taxonomy levels (remembering, understanding, and applying). Answers for even numbered questions are provided in a key at the end of the resource.</para></section></section>
+    </section></section>
+    <section id="import-auto-id1164197338004">
+    <title>About the authors</title>
+    <section id="import-auto-id1164190659104" class="sr-contrib-auth"><title>Senior Contributing Authors</title>
+      <para id="para-00007">Dr. Elizabeth D. Kirby (lead editor), The Ohio State University<newline/>
+        Dr. Kirby is an associate professor of Behavioral Neuroscience in the Department of Psychology at The Ohio State University in Columbus, OH, USA. She has taught introduction to behavioral neuroscience to undergraduates since 2017. Her research specialty is the study of adult hippocampal neural stem cells.</para>
+        
+      <para id="para-00008">Dr. Melissa J. Glenn (editor), Colby College<newline/>
+        Dr, Glenn is a professor of psychology at Colby College. She has taught introductory courses in psychology and behavioral neuroscience as well as advanced courses on selected topics in neural plasticity and behavior and the biological basis of psychological disorders. Her research focuses on sex-specific lifespan trajectories of mental health and the development and use of rat models that leverage valid analogs of human sociality, emotionality and cognition.</para>
+        
+      <para id="para-00009">Dr. Noah J. Sandstrom (editor), Williams College<newline/>
+        Dr. Sandstrom is a professor of psychology and neuroscience at Williams College in Williamstown, MA, USA. He has taught introductory courses in psychology and neuroscience as well as several advanced courses including behavioral endocrinology and neuroethics. His research examines how hormonal and environmental factors influence neural and behavioral outcomes following brain trauma.</para>
+      <para id="para-00010">Dr. Christina L. Williams (editor), Duke University<newline/>
+        Dr. Williams just became an emerita professor of Psychology &amp; Neuroscience at Duke University in Durham, NC, USA. She has taught introduction to behavior neuroscience since 1982. Her research focused on how lifestyle factors and hormonal variation impact resilience to age and disease-related memory decline. A critical part of her career has been training future scientists, including Dr. Kirby (as an undergrad), Dr. Sandstrom (as a PhD student) and Dr. Glenn (as a postdoctoral fellow).</para></section>
+   
+    <section id="sect-00007"><title>Contributing Authors (alphabetical by last name)</title>
+      <para id="para-00011">
+      S. D. Bilbo, Duke University<newline/>
+      Irina Calin-Jageman, Dominican University<newline/>
+      Robert J. Calin-Jageman, Dominican University<newline/>
+      Matt Carter, Williams College<newline/>
+      Victoria L. Castro, University of Texas El Paso<newline/>
+      Christine J. Charvet, Auburn University<newline/>
+      Natalia Duque-Wilckens, North Carolina State University<newline/>
+      Amy L. Griffin, University of Delaware<newline/>
+      Yanabah Jaques, University of California Berkeley<newline/>
+      Daniela Kaufer, University of California Berkeley<newline/>
+      MeeJung Ko, University of California Berkeley<newline/>
+      Megan M. Mahoney, University of Illinois Urbana-Champaign<newline/>
+      C. Daniel Meliza, University of Virginia<newline/>
+      Eric M. Mintz, Kent State University<newline/>
+      Sandra E. Muroy, University of California Berkeley<newline/>
+      Richard Olivo, Smith College<newline/>
+      Yuan B. Peng, University of Texas Arlington<newline/>
+      Briana E. Pinales, University of Texas El Paso<newline/>
+      Anita M. Quintana, University of Texas El Paso<newline/>
+      Shivon A. Robinson, Williams College<newline/>
+      Michael Sandstrom, Central Michigan University<newline/>
+      Cecil J. Saunders, Kean University<newline/>
+      Gary L. Wenk, The Ohio State University<newline/>
+      Cedric L. Williams, University of Virginia<newline/>
+      Kevin D. Wilson, Gettysberg College<newline/>
+      Joseph D. Zak, University of Illinois Chicago</para>
+      </section>
+      <section id="sect-00008"><title>Image creation team (from most to least number of images generated)</title>
+        <para id="para-00012">
+        Elizabeth Kirby, associate professor, The Ohio State University<newline/>
+        Nidhi Devasthali, undergraduate Neuroscience major, The Ohio State University<newline/>
+        Raina Rindani, undergraduate Biology major, The Ohio State University<newline/>
+        India Carter, undergraduate Neuroscience major, The Ohio State University<newline/>
+        Gwendolyn Sebring, undergraduate Psychology major, The Ohio State University<newline/>
+        Bryon Smith, research associate, The Ohio State University
+      </para></section>
+      <section id="sect-00009"><title>Reviewers</title><para id="para-00013"><emphasis effect="bold">Faculty reviewers (alphabetical by last name)
+      </emphasis><newline/>
+      Charlotte Barkan, Williams College<newline/>
+      Annaliese Beery, University of California Berkeley<newline/>
+      Eric Bielefeld, The Ohio State University<newline/>
+      Georgia Bishop, The Ohio State University<newline/>
+      Melissa Burns-Cusato, Centre College<newline/>
+      Clinton Cave, Middlebury College<newline/>
+      Laurence Coutellier, The Ohio State University<newline/>
+      Amanda Crocker, Middlebury College<newline/>
+      Mike Dash, Middlebury College<newline/>
+      Tobias Egner, Duke University <newline/>
+      Sherif M. Elbasiouny, Wright State University<newline/>
+      Rebecca Evans, Georgetown University<newline/>
+      Timothy A. Evans, University of Arkansas<newline/>
+      Nancy G Forger, Georgia State University<newline/>
+      Andrea N Goldstein-Piekarski, Stanford University/VA Palo Alto Health Care System<newline/>
+      Henry Hallock, Lafayette College<newline/>
+      Alexis S. Hill, College of the Holy Cross<newline/>
+      Kurt Illig, University of St. Thomas<newline/>
+      Kris M. Martens, The Ohio State University<newline/>
+      Nestor Matthews, Denison University <newline/>
+      Christina McKittrick, Drew University<newline/>
+      Ashley Nemes-Baran, Case Western Reserve University<newline/>
+      Tracie Paine, Oberlin College<newline/>
+      Vinay Parikh, Temple University<newline/>
+      Jennifer Quinn and Jacob Dowell, Miami University<newline/>
+      Raddy Ramos, New York College of Osteopathic Medicine/New York Institute of Technology<newline/>
+      Michael J. Sandstrom, Central Michigan University<newline/>
+      Ajay Satpute, Northeastern University<newline/>
+      Neil Schmitzer-Torbert, Wabash College<newline/>
+      Timothy Schoenfeld, Belmont University<newline/>
+      Sally B. Seraphin, Trinity College<newline/>
+      Robert Sikes, The Ohio State University<newline/>
+      Mark Spritzer, Middlebury College<newline/>
+      Leslie Stone-Roy, Colorado State University<newline/>
+      Kristin Supe, The Ohio State University<newline/>
+      Beth E. Wee, Tulane University<newline/>
+      Alex White, Barnard College<newline/>
+      Diana Williams, Florida State University</para>
+      <para id="para-00014"><emphasis effect="bold">Undergraduate student reviewers</emphasis><newline/>
+        Habib Akouri, The Ohio State University<newline/>
+        Jessica Areiza, Millersville University<newline/>
+        Deepti Ayyappaneni, Saint Louis University<newline/>
+        Bre Bishop, Harding University <newline/>
+        India Carter, The Ohio State University<newline/>
+        Madeline Chiang, University of Notre Dame<newline/>
+        Emma Corbett	, The Ohio State University<newline/>
+        Sedonia Davis, Tulane University<newline/>
+        Paige Galle, Williams College<newline/>
+        Grant Gattuso, Williams College<newline/>
+        Hailie Goldthorp, Tulane University<newline/>
+        Amelie Finn, Duke University<newline/>
+        Chloe Friedman, Tulane University<newline/>
+        Yuichi Fukunaga, Williams College<newline/>
+        Jenna Hersh, Colby College<newline/>
+        Alex Johansen, Davidson College<newline/>
+        Angela Kaja, Millersville University<newline/>
+        Julia Leeman, Duke University<newline/>
+        Reed Lessing, Duke University<newline/>
+        Mikaela Lipp, Duke University<newline/>
+        Talia Lurie, Tulane University<newline/>
+        Alexandra Mann, Tulane University<newline/>
+        Nathan McPherson, The Ohio State University<newline/>
+        Kofi Mensah-Arhin, The Ohio State University<newline/>
+        Tommy Montgomery, Colby College<newline/>
+        Nikhita Nanduri, Duke University<newline/>
+        Harris Naqvi, Drew University<newline/>
+        Stephany Perez-Sanchez, Duke University<newline/>
+        Adhithi Sreenivasan, Tulane University<newline/>
+        Grace Reynolds, Williams College<newline/>
+        Winna Xia, Tulane University</para>
+    </section>
+    <section id="sect-00010"><title>Additional Resources</title>
+      <section id="sect-00011"><title>Student and Instructor Resources</title>
+      <para id="para-00015">Additional resources for both students and instructors include a test bank, application questions for collaborative learning activities, and lecture slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
+      <para id="para-00016"><emphasis effect="bold">Test bank.</emphasis> A test bank with over 400 multiple-choice and fill-in-the-blank questions is available in Word format. Questions were contributed by authors, editors and the assessment development lead, Dr. Thomas Newpher (Associate Professor of the Practice, Department of Psychology and Neuroscience, Duke University). Dr. Newpher led the curation of the test bank from these multiple sources.</para>
+      <para id="para-00017"><emphasis effect="bold">Application questions for collaborative learning activities.</emphasis> The instructor test bank also includes over 40 application questions that can be used for collaborative learning activities.  These questions are written at Bloom’s higher-order levels (applying, analyzing, evaluating, and creating) and are designed to engage students in thoughtful discussions with peers and deepen student learning of course concepts. Application questions were generated by Dr. Newpher and chapter authors.</para>
+      <para id="para-00018"><emphasis effect="bold">PowerPoint lecture slides.</emphasis> The PowerPoint slides provide a beginning point for lectures for each chapter. The images from the chapters are reproduced, often broken into smaller pieces. Some helpful text and bullet points are also provided to bring the material to a near-ready-to-use format. Individual instructors can uses these lecture slides as a starting point from which they can customize to their own preferences.</para>
+      </section>
+      <section id="sect-00012"><title>Academic Integrity</title>
+<para id="para-00019">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
+<para id="para-00020">We realize that students benefit when academic integrity ground rules are established early in the course.  To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
+  <figure id="fig-00001"><media alt=""><image mime-type="jpeg" src="../../media/frogue.jpg"/></media><caption>attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license</caption></figure>
+<para id="para-00021">Visit our academic integrity slider. Click and drag icons along the continuum to align these practices with your institution and course policies.You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students.</para>
+<para id="para-00022">At OpenStax we are also developing resources supporting authentic learning experiences and assessment.  Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at https://academicintegrity.org/. 
+  </para>
+      </section>
+      <section id="sect-00013"><title>Community Hubs</title>
+        <para id="para-00023">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
+      </section>
+      <section id="sect-00014"><title>Technology partners</title>
+        <para id="para-00024">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
+      </section>
+    </section>
+  </section>
   </content>
 </document>
