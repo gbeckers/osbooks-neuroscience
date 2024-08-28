@@ -14,11 +14,22 @@
         <item>Identify how social and physical environments influence hormonal actions and lead to variations in brain development and behavior</item>
       </list>
     </section>
+    <para id="para-00012">In the previous section, we explored the biological mechanisms of sex determination, highlighting the diverse genetic and environmental factors involved across various species. We also examined how gonadal hormones drive sex differentiation in various tissues, including specific brain regions like the preoptic area of the hypothalamus in rats, which controls male copulatory behavior, and the higher vocal center in zebra finches, which is involved in male song production. However, as we discussed at the beginning of this chapter, sex differences in the brain and behavior extend far beyond those related to reproduction. For instance, there are notable sex differences in sensory perception, motivated behavior, and stress responses, which can influence the susceptibility to psychological disorders. But how do these differences arise?</para>
+    <para id="para-00013">In this section, we will investigate the mechanisms through which sex chromosome-linked genes, hormones, and the environment contribute to sex differences in the brain. This foundational understanding will prepare us for the final section, where we will delve into how sex differences in neuronal circuits and glial functions can lead to sex-biased susceptibility to psychiatric diseases.</para>
+
     <section class="section-summary" id="sect-00004">
       <title>Summary</title>
-      <para id="para-00010">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</para>
+<para id="para-00010">In this section, we explored how genes located on sex chromosomes, steroid hormones, and environmental factors contribute to sex differences in the brain. We learned that proteins encoded by sex chromosome-linked genes can directly affect the physiology of neurons and brain function. Additionally, we examined mouse models with variations in the number of X or Y chromosomes, where the function of the gonads remains intact. These models have shown that changes in the dosage of sex chromosomes can significantly contribute to sex differences in brain anatomy and function.</para>
+<para id="para-00014">Further, we explored how steroid hormones can act through both genomic and non-genomic mechanisms to influence brain function. Genomic actions involve hormones like estradiol binding to intracellular receptors, such as estrogen receptor alpha (ERα), which then act as transcription factors to regulate gene expression. This process is typically slower and results in long-lasting changes in cell function. Non-genomic actions, on the other hand, involve rapid responses initiated by hormone-receptor interactions at the cell membrane, leading to quick changes in cell signaling pathways.</para>
+<para id="para-00015">Lastly, we learned that environmental factors, including the physical and social environment, can play a significant role in contributing to brain sex differences. Importantly, we also discovered that exposure to various man-made chemicals can disrupt hormonal balance and brain development, underscoring the urgent need for comprehensive studies and stringent regulations to better understand and mitigate the impact of these environmental factors on brain development and overall health.
+</para>
     </section>
-    <section class="key-terms" id="sect-00005"><title>Key Terms</title><list display="inline" id="list-00002"><item>
+    <section class="key-terms" id="sect-00005"><title>Key Terms</title><list display="inline" id="list-00002"><item>Classical steroid hormone signaling mechanism</item>
+      <item>rapid steroid hormone signaling mechanism</item>
+      <item>environmental factors</item>
+      <item>PCBs</item>
+      <item>DNA methylation</item>
+      <item>histone modification
     </item></list></section>
     <section class="references" id="sect-00006">
       <title>References</title>
