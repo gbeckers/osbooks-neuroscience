@@ -5,6 +5,57 @@
     <md:uuid>073a5c1a-eea1-4f62-9e2a-6abbba00825a</md:uuid>
   </metadata>
   <content class="appendix">
-    <para id="para-00001"/>
+    <section id="sect-00001"><title>Explaining transmission electron microscopy</title>
+    <para id="para-00001"><media alt="placeholder">
+      <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroTEM"/></media></para>
+    </section>
+    <section id="sect-00002"><title>Explaining magnetic stimulation</title>
+      <para id="para-00002"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroMagStim"/></media></para>
+    </section>
+    <section id="sect-00003"><title>Explaining sleep studies and EEG technology</title>
+      <para id="para-00003"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroSleep_EEG"/></media></para>
+    </section>
+    <section id="sect-00004"><title>Explaining optogenetics</title>
+      <para id="para-00004"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroOptogenetics"/></media></para>
+    </section>
+    <section id="sect-00005"><title>Explaining calcium imaging</title>
+      <para id="para-00005"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/CalciumImaging"/></media></para>
+    </section>
+    <section id="sect-00006"><title>Explaining immunohistochemistry and fluorescence microscopy</title>
+      <para id="para-00006"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/ImmunoFluor"/></media></para>
+    </section>
+    <section id="sect-00007"><title>Explaining functional MRIs (fMRI)</title>
+      <para id="para-00007"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/fMRI"/></media></para>
+    </section>
+    <section id="sect-00008"><title>The science of EEGs</title>
+      <para id="para-00008"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroEEG"/></media></para>
+    </section>
+    <section id="sect-00009"><title>Explaining deep brain stimulation</title>
+      <para id="para-00009"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroDBS"/></media></para>
+    </section>
+    <section id="sect-00010"><title>Explaining chemogenetics</title>
+      <para id="para-00010"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroChemogen"/></media></para>
+    </section>
+    <section id="sect-00011"><title>Placeholder</title>
+      <para id="para-00011"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroChemogen"/></media></para>
+    </section>
+    <section id="sect-00012"><title>Placeholder</title>
+      <para id="para-00012"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroChemogen"/></media></para>
+    </section>
+    <section id="sect-00013"><title>Placeholder</title>
+      <para id="para-00013"><media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/NeuroChemogen"/></media></para>
+    </section>
   </content>
 </document>
