@@ -168,7 +168,9 @@
     </section>
     <section class="section-summary" id="sect-00018">
       <title>Summary</title>
-      <para id="para-summary"><link url="https://openstax.org/r/Neuro1Summary">Author's summary</link></para>
+      <para id="para-summary">https://openstax.org/r/Neuro1Summary <media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro1Summary" />
+      </media></para>
 
       <para id="para-00030">The basic cellular building blocks of the nervous system are neurons and glia. While sharing all features of eukaryotic cells, including membrane bound organelles and the central dogma, neurons and glia differ in some important ways that allow them to serve the functions of the nervous system. Neurons are specialized for communication via chemical and electrical signals with other cells. Glia serve in a number of support roles that are vital for neurons, including signaling. Our ability to visualize these cells and their architecture has revolutionized modern neuroscience.</para>
     </section>

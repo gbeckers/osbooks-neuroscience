@@ -87,7 +87,9 @@
     </section>
     <section class="section-summary" id="sect-00004">
       <title>Summary</title>
-      <para id="para-00017"><link url="https://openstax.org/r/Neuro2Summary">Author's summary</link></para>
+      <para id="para-00017">https://openstax.org/r/Neuro2Summary <media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro2Summary" />
+      </media></para>
       <para id="para-00018">Neurons are bilingual, using two inter-related but distinct signaling systems. Communication between neurons primarily uses the ancient language of chemical and receptor that all your cells use, though with adaptations for highly targeted and reliable communication. Grafted onto this ancient system is an electrical signaling system that transfers information within a neuron with a level of speed and precision that is relatively unique to the animal kingdom. An engineer probably wouldn’t have designed such a complex system. Instead, the hybrid nature of neural signaling reflects the piecemeal adaptation of nervous system functioning through a long evolutionary history. From this complexity emerges neural processing. The back-and-forth-and back-again transformation from chemical to electrical to chemical signaling enables neurons to synthesize, filter, and transform information in complex and fascinating ways.</para>
     </section>
     <section class="key-terms" id="sect-00005">

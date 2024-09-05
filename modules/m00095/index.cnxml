@@ -90,7 +90,12 @@
     </section>
     <section class="section-summary" id="sect-00002">
       <title>Summary</title>
-      <para id="para-00029"><link url="https://openstax.org/r/Neuro15Summary">Author's summary</link></para>
+      <para id="para-00029">https://openstax.org/r/Neuro15Summary-Ma <media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro15Summary-Ma" />
+      </media></para>
+      <para id="para-10029">https://openstax.org/r/Neuro15Summary-Mi <media alt="placeholder">
+        <iframe width="660" height="371.4" src="https://openstax.org/r/Neuro15Summary-Mi" />
+      </media></para>
 
       <para id="para-00002">Endogenous biological rhythms are found in nearly every organism on the planet. Internal clocks can help an organism anticipate changes in their environment. There are many types of biological rhythms that can range from seconds to hours to years; circadian rhythms are those that take about 24 hours to complete a cycle. We can characterize the components of a rhythm by analyzing their period, phase, amplitude, mesor and frequency. Furthermore, we can determine how an internal clock responds to the environment by constructing a phase response curve. </para>
     </section>
