@@ -202,16 +202,17 @@
         </problem>
       </exercise>
 
+
+    </section>
+
+    <section class="fillin-blank" id="sect-00002">
+      <title>Fill in the Blank</title>
       <exercise id="exer-00008">
         <problem id="prob-00008">
           <para id="para-00009"><link class="os-embed" url="#exercise/Neuro-06-02-009" /></para>
         </problem>
       </exercise>
-    </section>
-
-    <section class="fillin-blank" id="sect-00002">
-      <title>Fill in the Blank</title>
-      <exercise id="exer-00009">
+            <exercise id="exer-00009">
         <problem id="prob-00009">
           <para id="para-00010"><link class="os-embed" url="#exercise/Neuro-06-02-008" /></para>
         </problem>
