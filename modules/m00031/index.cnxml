@@ -10,7 +10,7 @@
       <media alt="Individual dots represent individual cells isolated from post-mortem motor cortex of humans (left) and marmoset monkeys (right). Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome). There are more than a dozen clusters, each with a unique color, in a cloud-like array.">
         <image mime-type="image/jpg" src="../../media/ch04-splash.jpg" />
       </media>
-      <caption>Example of single cell RNAseq from human and marmoset brains. Individual dots represent individual cells isolated from post-mortem motor cortex of humans or marmoset monkeys. Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome).</caption>
+      <caption>Example of single cell RNAseq from human and marmoset brains. Individual dots represent individual cells isolated from post-mortem motor cortex of humans or marmoset monkeys. Dots are grouped into clusters of similar cells based on their global mRNA expression (their transcriptome). Image credit: Example single cell data from Bakken et al., Evolution of cellular diversity in primary motor cortex of human, marmoset monkey and mouse. biorXiv. https://www.biorxiv.org/content/10.1101/ 2020.03.31.016972v2 CC-BY-NC-ND 4.0</caption>
     </figure>
     <note class="meet-author" id="note-00001">
       <title>Christine J. Charvet</title>

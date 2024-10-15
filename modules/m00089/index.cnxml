@@ -95,7 +95,7 @@
         <media alt="A line graph of normalized absorbance (y-axis) versus wavelength (~400-700 nm, x-axis). Curve for blue (short) cones peak at just over 400 nm. Curve for green (medium) cones peaks around 550 nm. Curve for red (long) cones peaks at just under 600 nm. Curve for rods peaks around 500 nm.">
           <image mime-type="image/png" src="../../media/Image-6.44_Absorption-spectra-of-the-four-visual-pigments-in-the-human-eye.png" />
         </media>
-        <caption>Three visual pigments in three kinds of cones underpin our trivariant color vision. Image credit: Image by OpenStax College - Anatomy &amp; Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, CC BY 4.0</caption>
+        <caption>Three visual pigments in three kinds of cones underpin our trivariant color vision. Image credit: Image by OpenStax - Anatomy &amp; Physiology, https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception, CC BY 4.0</caption>
       </figure>
 
       <para id="para-00022">Although each absorption spectrum indicates that a single pigment can catch photons in a range of wavelengths, one pigment cannot distinguish between a small number of photons at the pigment’s best wavelength and many photons at a wavelength that the pigment does not absorb well. Both stimuli could result in the same total number of photons being caught, and any photon that is caught initiates phototransduction in the same way. (<link target-id="Image-6.38" />)</para>
