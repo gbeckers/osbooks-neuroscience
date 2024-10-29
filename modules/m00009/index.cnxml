@@ -37,7 +37,7 @@
           <colspec colnum="4" colname="c4" />
           <tbody>
             <row>
-              <entry namest="c1" nameend="c4" align="center"><emphasis>Classic endogenous (see Chapter 3)</emphasis></entry>
+              <entry namest="c1" nameend="c4" align="center"><emphasis>Classic endogenous (see <link document="m00027" />)</emphasis></entry>
             </row>
             <row>
               <entry><emphasis>Family</emphasis></entry>
