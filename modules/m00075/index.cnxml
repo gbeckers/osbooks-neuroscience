@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Synapse formation and maturation</title>
+  <title>Synapse Formation and Maturation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Synapse formation and maturation</md:title>
+    <md:title>Synapse Formation and Maturation</md:title>
     <md:content-id>m00075</md:content-id>
     <md:uuid>c88c1779-acd3-4b45-8e68-a7d4dcfb709e</md:uuid>
   </metadata>
@@ -166,7 +166,7 @@
           </media>
         </figure>
 
-        <para id="para-00036">Myelin is produced by oligodendrocytes in the CNS and Schwann cells in the peripheral nervous system (see <link document="m00026">Structure and function of the nervous system</link>). Both of these are glial cells produced during gliogenesis. Myelination does not occur all at once, but rather in a progression. Generally, axons in the peripheral nervous system are myelinated first, followed by spinal cord axons and finally axons in the brain. <link target-id="Image-5.36" /> shows MRI images of the brain during the first year of life, showing rapid accumulation of myelin (pseudocolored red) in the brain. This first year is when the peak of myelination occurs in humans. A parallel in the first month of life in rodents can also be seen in the bottom panel of <link target-id="Image-5.36" />, where myelin has been stained dark in brains from rats aged postnatal day 7 to 35.</para>
+        <para id="para-00036">Myelin is produced by oligodendrocytes in the CNS and Schwann cells in the peripheral nervous system (see <link document="m00026">Structure and Function of the Nervous System</link>). Both of these are glial cells produced during gliogenesis. Myelination does not occur all at once, but rather in a progression. Generally, axons in the peripheral nervous system are myelinated first, followed by spinal cord axons and finally axons in the brain. <link target-id="Image-5.36" /> shows MRI images of the brain during the first year of life, showing rapid accumulation of myelin (pseudocolored red) in the brain. This first year is when the peak of myelination occurs in humans. A parallel in the first month of life in rodents can also be seen in the bottom panel of <link target-id="Image-5.36" />, where myelin has been stained dark in brains from rats aged postnatal day 7 to 35.</para>
         <figure id="Image-5.36">
           <title>Myelination in the developing brain</title>
           <media alt=" Top shows MRI scans of human brain from brith to 18 months. Pseuodcoloring is used to show that the increase in myelin is substantial in the first year of life in humans. Bottom shows stained rat brain sections where darkly-stained myelin becomes more and more evident from postnatal day 7 to day 35.">
