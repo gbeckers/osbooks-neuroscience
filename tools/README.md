@@ -65,6 +65,10 @@ python3 tools/build_latex.py reader/my-course.collection.xml --out build/my-cour
 cd build && xelatex chapter02.tex && xelatex chapter02.tex
 ```
 
+Page layout defaults to **A4, 10pt, 2 cm margins** (compact, to cut paper use when
+students print). Override with `--paper {a4,letter}`, `--fontsize {10,11,12}`
+(`report` supports those three only), and `--margin <length>` (e.g. `--margin 1in`).
+
 **Use xelatex or lualatex, not pdflatex** — the source has Unicode (±, –, →, Greek,
 curly quotes) that pdflatex won't handle.
 

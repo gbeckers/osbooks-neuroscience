@@ -39,9 +39,9 @@ import xml.etree.ElementTree as ET  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
-PREAMBLE = r"""\documentclass[11pt]{report}
+PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt]{report}
 \usepackage{fontspec}
-\usepackage[margin=1in]{geometry}
+\usepackage[@@PAPER@@paper,margin=@@MARGIN@@]{geometry}
 \usepackage{graphicx}
 \usepackage{tabularx}
 \usepackage{xltabular}   % longtable + X columns: wide tables break across pages
@@ -175,8 +175,13 @@ def _module_paths(nodes, ws: Workspace) -> list[Path]:
     return paths
 
 
+# report only ships 10/11/12pt base sizes; 10.5 would need a KOMA class.
+PAPER_OPTS = {"a4": "a4", "letter": "letter"}
+
+
 def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path,
-          ws: Workspace, appendix: bool = True, collection_dir: Path | None = None) -> None:
+          ws: Workspace, appendix: bool = True, collection_dir: Path | None = None,
+          paper: str = "a4", fontsize: str = "10", margin: str = "2cm") -> None:
     titles = all_module_titles(ws)
     converter = LatexConverter(module_titles=titles, included_ids=included_ids)
 
@@ -191,6 +196,9 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
     graphicspath = "".join(f"{{{d.as_posix()}/}}" for d in ws.media_dirs())
     preamble = (PREAMBLE
                 .replace("@@GRAPHICSPATH@@", graphicspath)
+                .replace("@@PAPER@@", PAPER_OPTS[paper])
+                .replace("@@FONTSIZE@@", fontsize)
+                .replace("@@MARGIN@@", margin)
                 .replace("@@TITLE@@", escape_title(title))
                 .replace("@@AUTHOR@@", escape_title(author)))
     if appendix:
@@ -216,6 +224,12 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--title", default="Course Reader")
     p.add_argument("--author", default="")
     p.add_argument("--out", default="build/reader.tex", type=Path)
+    p.add_argument("--paper", choices=sorted(PAPER_OPTS), default="a4",
+                   help="page size (default: a4; students print on A4)")
+    p.add_argument("--fontsize", choices=["10", "11", "12"], default="10",
+                   help="base font size in pt (default: 10; report supports 10/11/12 only)")
+    p.add_argument("--margin", default="2cm",
+                   help="page margin, any LaTeX length (default: 2cm)")
     p.add_argument("--no-appendix", dest="appendix", action="store_false",
                    help="omit the auto-generated provenance & attribution appendix")
     args = p.parse_args(argv)
@@ -238,7 +252,8 @@ def main(argv: list[str] | None = None) -> int:
     out = args.out if args.out.is_absolute() else REPO_ROOT / args.out
     ws = discover_workspace(REPO_ROOT)
     build(nodes, included_ids, args.title, args.author, out, ws,
-          appendix=args.appendix, collection_dir=collection_dir)
+          appendix=args.appendix, collection_dir=collection_dir,
+          paper=args.paper, fontsize=args.fontsize, margin=args.margin)
     return 0
 
 
