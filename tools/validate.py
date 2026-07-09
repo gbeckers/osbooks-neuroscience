@@ -2,8 +2,8 @@
 """Convenience wrapper so you can run the validator from the repo root:
 
     python3 tools/validate.py                                  # full book
-    python3 tools/validate.py collections/my-course.collection.xml
-    python3 tools/validate.py collections/my-course.collection.xml --orphans
+    python3 tools/validate.py reader/my-course.collection.xml
+    python3 tools/validate.py reader/my-course.collection.xml --orphans
 
 Equivalent to `python3 -m oscompile.validate ...` run from inside tools/.
 """

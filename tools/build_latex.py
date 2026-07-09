@@ -12,7 +12,7 @@ Build chapter 2 (Neurophysiology) from an explicit module list:
 
 Build everything in a collection file:
 
-    python3 tools/build_latex.py collections/my-course.collection.xml \
+    python3 tools/build_latex.py reader/my-course.collection.xml \
         --out build/my-course.tex
 
 Then compile (needs a TeX Live install with xelatex):

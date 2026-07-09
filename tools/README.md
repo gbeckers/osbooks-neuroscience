@@ -21,10 +21,10 @@ converter will build on.
 python3 tools/validate.py
 
 # A custom course subset
-python3 tools/validate.py collections/my-course.collection.xml
+python3 tools/validate.py reader/my-course.collection.xml
 
 # Also list media files no included module uses (pruning candidates)
-python3 tools/validate.py collections/my-course.collection.xml --orphans
+python3 tools/validate.py reader/my-course.collection.xml --orphans
 ```
 
 Exit code is non-zero if there are any ERRORs, so it drops into CI/Make cleanly.
@@ -53,7 +53,7 @@ python3 tools/build_latex.py \
   --out build/chapter02.tex
 
 # ...or build a whole collection file
-python3 tools/build_latex.py collections/my-course.collection.xml --out build/my-course.tex
+python3 tools/build_latex.py reader/my-course.collection.xml --out build/my-course.tex
 
 # Compile (needs TeX Live with xelatex; run twice for refs + ToC)
 cd build && xelatex chapter02.tex && xelatex chapter02.tex
@@ -92,12 +92,12 @@ narrow bold table headers.
 ## Authoring a course subset
 
 1. Copy `collections/introduction-behavioral-neuroscience.collection.xml` to a new
-   `collections/<your-course>.collection.xml`.
+   `reader/<your-course>.collection.xml`.
 2. Delete the `<col:module>` / `<col:subcollection>` entries you don't teach.
 3. For a **partial chapter**, copy `modules/mXXXXX` to a new id (e.g. `m90001`),
    delete the `<section>`s you don't use, and reference the new id.
 4. Run the validator and resolve `dangling-xref` warnings (drop the link, turn it
    into plain text, or add the referenced module back).
 
-See `collections/example-course-subset.collection.xml` for a worked example that
+See `reader/example-course-subset.collection.xml` for a worked example that
 intentionally triggers dangling-xref warnings.
