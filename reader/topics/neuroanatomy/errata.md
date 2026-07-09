@@ -9,9 +9,9 @@ Keep errata as in-place edits committed with a `errata:` prefix, e.g.
 `errata: m00012 "recieve" -> "receive"`, so the changelog is greppable:
 `git log --oneline --grep '^errata:'`.
 
-| Module | Section / figure | Change                   | Reason    | OpenStax errata ID |
-|--------|------------------|--------------------------|-----------|--------------------|
-| m00021 | Astrocytes       | "less water soluble" ->  "more water soluble" | incorrect | 27385  |
+| Module | Section / figure | Change                   | Reason                  | OpenStax errata ID |
+|--------|------------------|--------------------------|-------------------------|--------------------|
+| m00021 | Astrocytes       | "less water soluble" ->  "more water soluble" | statement was incorrect | 27385  |
 
 <!--
 Example row:
