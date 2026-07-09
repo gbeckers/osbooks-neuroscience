@@ -141,6 +141,7 @@ class LatexConverter:
         self.included_ids = included_ids or set()
         self.labels: dict[str, Label] = {}
         self.dropped: list[str] = []  # notes about interactive content dropped
+        self._numbered = True  # sections in an unnumbered chapter are unnumbered too
 
     # -- public entry point ------------------------------------------------
 
@@ -164,6 +165,10 @@ class LatexConverter:
         title_el = root.find(f"{{{CNXML_NS}}}title")
         title = self._inline(title_el) if title_el is not None else module_id
 
+        # In an unnumbered chapter (Preface, Methods) the module's own sub-sections
+        # must be unnumbered too, else they inherit the stale chapter counter
+        # (e.g. "19.17 Chemogenetics" under a \chapter* that follows chapter 19).
+        self._numbered = numbered
         content = root.find(f"{{{CNXML_NS}}}content")
         body = self._blocks(content, level=heading_level + 1) if content is not None else ""
 
@@ -238,7 +243,7 @@ class LatexConverter:
             # Present as a labelled box rather than a numbered heading.
             return ("\\begin{objectives}\n" + inner + "\n\\end{objectives}\n")
 
-        return heading(level, title) + self._blocks(el, level + 1, in_box)
+        return heading(level, title, numbered=self._numbered) + self._blocks(el, level + 1, in_box)
 
     def _list(self, el: ET.Element) -> str:
         env = "enumerate" if el.get("list-type") == "enumerated" else "itemize"

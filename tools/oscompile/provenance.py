@@ -75,7 +75,7 @@ def generate_appendix(
     parts = [heading(0, "Provenance \\& Attribution", numbered=False, label="app:provenance")]
 
     # -- Sources ----------------------------------------------------------
-    parts.append(heading(1, "Sources"))
+    parts.append(heading(1, "Sources", numbered=False))
     used = []
     seen = set()
     for mid in included_ids:
@@ -100,7 +100,7 @@ def generate_appendix(
     parts.append("\\end{itemize}")
 
     # -- Modifications ----------------------------------------------------
-    parts.append(heading(1, "Modifications to the original text"))
+    parts.append(heading(1, "Modifications to the original text", numbered=False))
     changed = _git_changed_modules(repo_root)
     if changed is None:
         parts.append("A list of corrections is unavailable because the \\texttt{upstream} "
