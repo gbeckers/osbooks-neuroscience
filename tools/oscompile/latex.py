@@ -264,6 +264,13 @@ class LatexConverter:
     }
 
     def _list(self, el: ET.Element) -> str:
+        items = el.findall(f"{{{CNXML_NS}}}item")
+        # OpenStax marks run-in lists (e.g. the Key Terms section) with
+        # display="inline"; the print book sets these comma-separated on one line
+        # instead of one bullet per line. Match that -- it reads the same and
+        # saves a lot of vertical space.
+        if el.get("display") == "inline":
+            return ", ".join(self._inline(item) for item in items) + "\n"
         if el.get("list-type") == "enumerated":
             env = "enumerate"
             # Honour number-style (biology multiple-choice options use lower-alpha),
@@ -273,9 +280,8 @@ class LatexConverter:
         else:
             env = "itemize"
             begin = "\\begin{itemize}"
-        items = ["  \\item " + self._inline(item)
-                 for item in el.findall(f"{{{CNXML_NS}}}item")]
-        return begin + "\n" + "\n".join(items) + f"\n\\end{{{env}}}\n"
+        rendered = ["  \\item " + self._inline(item) for item in items]
+        return begin + "\n" + "\n".join(rendered) + f"\n\\end{{{env}}}\n"
 
     def _figure(self, el: ET.Element) -> str:
         el_id = el.get("id", "")
