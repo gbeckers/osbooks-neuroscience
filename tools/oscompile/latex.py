@@ -55,16 +55,38 @@ def _local(tag: str) -> str:
     return tag.split("}", 1)[-1]
 
 
+_URL_RE = re.compile(r"https?://\S+")
+
+
+def _escape_plain(text: str) -> str:
+    return "".join(_SPECIALS.get(ch, ch) for ch in text)
+
+
 def escape(text: str) -> str:
-    """Escape LaTeX specials in a run of text (Unicode is left for xelatex)."""
+    """Escape LaTeX specials in a run of text (Unicode is left for xelatex).
+
+    Bare URLs (common in reference lists) are wrapped in \\url{} so they can break
+    across lines -- otherwise a long DOI is a single ~500pt-wide unbreakable box.
+    """
     if not text:
         return ""
     # Some source text is double-encoded (e.g. "&amp;amp;" survives one XML decode
     # as the literal "&amp;"); undo any leftover HTML entities before LaTeX-escaping.
     text = html.unescape(text)
-    out = []
-    for ch in text:
-        out.append(_SPECIALS.get(ch, ch))
+
+    out, last = [], 0
+    for m in _URL_RE.finditer(text):
+        url = m.group(0)
+        # Keep trailing sentence punctuation outside the \url{}.
+        trail = ""
+        while url and url[-1] in ".,;:)]}":
+            trail = url[-1] + trail
+            url = url[:-1]
+        out.append(_escape_plain(text[last:m.start()]))
+        out.append(f"\\url{{{url}}}" if url else "")
+        out.append(_escape_plain(trail))
+        last = m.end()
+    out.append(_escape_plain(text[last:]))
     return "".join(out)
 
 
@@ -270,11 +292,12 @@ class LatexConverter:
 
         # Non-floating (see _figure): tabularx isn't a float, but wrapping it in a
         # table float would break inside note boxes, so we place it inline with a
-        # manual caption above.
-        lines = ["\\par\\medskip", f"\\noindent{{\\small\\textbf{{Table {number}.}}}}\\par\\smallskip",
+        # manual caption above. \small helps wide (many-column) tables fit.
+        lines = ["\\par\\medskip\\begingroup\\small",
+                 f"\\noindent{{\\textbf{{Table {number}.}}}}\\par\\smallskip",
                  f"\\noindent\\begin{{tabularx}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
         lines += thead + tbody
-        lines += ["  \\end{tabularx}", "\\par\\medskip"]
+        lines += ["  \\end{tabularx}", "\\endgroup\\par\\medskip"]
         return "\n".join(lines) + "\n"
 
     def _note(self, el: ET.Element, level: int) -> str:

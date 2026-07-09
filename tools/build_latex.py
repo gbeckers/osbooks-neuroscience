@@ -48,12 +48,52 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \usepackage{array}
 \usepackage[most]{tcolorbox}
 \usepackage{caption}
-\usepackage{microtype}
 \usepackage{hyperref}
-\usepackage{url}
+\usepackage{xurl}   % break long URLs/DOIs anywhere (load after hyperref)
 \hypersetup{colorlinks=true, linkcolor=blue!50!black, urlcolor=blue!50!black}
+% microtype is deliberately omitted: on xelatex it only does character
+% protrusion, which chokes on the newunicodechar-active Greek letters below
+% ("Unknown slot number of character"). xurl + emergencystretch cover the
+% justification instead.
+\emergencystretch=3em  % soak up the last few unbreakable overfulls
 
-\graphicspath{{%(mediadir)s/}}
+% The main font (Latin Modern) has no text-mode Greek; map the codepoints the
+% book uses (receptor/molecule names, units) to math-mode equivalents so they
+% render instead of dropping out as "Missing character".
+\usepackage{newunicodechar}
+\newunicodechar{α}{\ensuremath{\alpha}}
+\newunicodechar{β}{\ensuremath{\beta}}
+\newunicodechar{γ}{\ensuremath{\gamma}}
+\newunicodechar{δ}{\ensuremath{\delta}}
+\newunicodechar{ε}{\ensuremath{\varepsilon}}
+\newunicodechar{ζ}{\ensuremath{\zeta}}
+\newunicodechar{η}{\ensuremath{\eta}}
+\newunicodechar{θ}{\ensuremath{\theta}}
+\newunicodechar{κ}{\ensuremath{\kappa}}
+\newunicodechar{λ}{\ensuremath{\lambda}}
+\newunicodechar{μ}{\ensuremath{\mu}}
+\newunicodechar{ν}{\ensuremath{\nu}}
+\newunicodechar{π}{\ensuremath{\pi}}
+\newunicodechar{ρ}{\ensuremath{\rho}}
+\newunicodechar{σ}{\ensuremath{\sigma}}
+\newunicodechar{τ}{\ensuremath{\tau}}
+\newunicodechar{φ}{\ensuremath{\varphi}}
+\newunicodechar{χ}{\ensuremath{\chi}}
+\newunicodechar{ψ}{\ensuremath{\psi}}
+\newunicodechar{ω}{\ensuremath{\omega}}
+\newunicodechar{Δ}{\ensuremath{\Delta}}
+\newunicodechar{Σ}{\ensuremath{\Sigma}}
+\newunicodechar{Ω}{\ensuremath{\Omega}}
+\newunicodechar{Φ}{\ensuremath{\Phi}}
+\newunicodechar{Ψ}{\ensuremath{\Psi}}
+\newunicodechar{Γ}{\ensuremath{\Gamma}}
+\newunicodechar{⋅}{\ensuremath{\cdot}}
+\newunicodechar{׳}{'}   % Hebrew geresh used as an apostrophe in a reference
+\newunicodechar{⅔}{2/3}
+\newunicodechar{⅓}{1/3}
+\newunicodechar{½}{1/2}
+
+\graphicspath{{@@MEDIADIR@@/}}
 \captionsetup{labelformat=empty}
 
 \newtcolorbox{featurebox}[1]{colback=gray!5, colframe=gray!55,
@@ -61,9 +101,9 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \newtcolorbox{objectives}{colback=blue!4, colframe=blue!45,
   title=Learning Objectives, breakable, fonttitle=\bfseries}
 
-\title{%(title)s}
-\author{%(author)s}
-\date{%(date)s}
+\title{@@TITLE@@}
+\author{@@AUTHOR@@}
+\date{\today}
 
 \begin{document}
 \maketitle
@@ -136,12 +176,10 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
     stats: Counter = Counter()
     body = _render_nodes(nodes, converter, level=0, stats=stats)
 
-    preamble = PREAMBLE % {
-        "mediadir": MEDIA_DIR.as_posix(),
-        "title": title,
-        "author": author,
-        "date": r"\today",
-    }
+    preamble = (PREAMBLE
+                .replace("@@MEDIADIR@@", MEDIA_DIR.as_posix())
+                .replace("@@TITLE@@", title)
+                .replace("@@AUTHOR@@", author))
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(preamble + body + POSTAMBLE, encoding="utf-8")
 
