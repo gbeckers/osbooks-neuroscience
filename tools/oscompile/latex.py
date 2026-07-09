@@ -203,10 +203,12 @@ class LatexConverter:
             cap_parts.append(self._inline(caption_el))
         caption = "".join(cap_parts)
 
+        # Non-floating: a float (figure env) can't sit inside a note box / tcolorbox
+        # ("Not in outer par mode"). Numbers are already baked into the caption, so
+        # we don't need the float's counter. Keeps figures in reading order too.
         return (
-            "\\begin{figure}[htbp]\n  \\centering\n" + graphic +
-            f"  \\caption*{{{caption}}}\n"
-            f"  \\label{{fig:{el_id}}}\n\\end{{figure}}\n"
+            "\\par\\medskip\n{\\centering\n" + graphic + "\\par}\n"
+            "\\smallskip\n{\\small " + caption + "}\n\\par\\medskip\n"
         )
 
     def _table(self, el: ET.Element) -> str:
@@ -232,11 +234,13 @@ class LatexConverter:
         thead = rows(tgroup.find(f"{{{CNXML_NS}}}thead"), header=True)
         tbody = rows(tgroup.find(f"{{{CNXML_NS}}}tbody"), header=False)
 
-        lines = ["\\begin{table}[htbp]", "  \\centering",
-                 f"  \\caption*{{\\textbf{{Table {number}.}}}}",
-                 f"  \\begin{{tabularx}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
+        # Non-floating (see _figure): tabularx isn't a float, but wrapping it in a
+        # table float would break inside note boxes, so we place it inline with a
+        # manual caption above.
+        lines = ["\\par\\medskip", f"\\noindent{{\\small\\textbf{{Table {number}.}}}}\\par\\smallskip",
+                 f"\\noindent\\begin{{tabularx}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
         lines += thead + tbody
-        lines += ["  \\end{tabularx}", f"  \\label{{tab:{el_id}}}", "\\end{table}"]
+        lines += ["  \\end{tabularx}", "\\par\\medskip"]
         return "\n".join(lines) + "\n"
 
     def _note(self, el: ET.Element, depth: int) -> str:
