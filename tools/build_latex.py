@@ -47,6 +47,7 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \usepackage{xltabular}   % longtable + X columns: wide tables break across pages
 \usepackage{array}
 \usepackage[most]{tcolorbox}
+\usepackage{enumitem}   % [label=...] for lettered multiple-choice options
 \usepackage{caption}
 \usepackage{hyperref}
 \usepackage{xurl}   % break long URLs/DOIs anywhere (load after hyperref)

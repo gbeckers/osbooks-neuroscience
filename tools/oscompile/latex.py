@@ -152,6 +152,7 @@ class LatexConverter:
         self.labels: dict[str, Label] = {}
         self.dropped: list[str] = []  # notes about interactive content dropped
         self._numbered = True  # sections in an unnumbered chapter are unnumbered too
+        self._exercise_n = 0   # per-module counter for rendered exercises
 
     # -- public entry point ------------------------------------------------
 
@@ -179,6 +180,7 @@ class LatexConverter:
         # must be unnumbered too, else they inherit the stale chapter counter
         # (e.g. "19.17 Chemogenetics" under a \chapter* that follows chapter 19).
         self._numbered = numbered
+        self._exercise_n = 0
         content = root.find(f"{{{CNXML_NS}}}content")
         body = self._blocks(content, level=heading_level + 1) if content is not None else ""
 
@@ -234,8 +236,7 @@ class LatexConverter:
         if tag == "note":
             return self._note(el, level)
         if tag == "exercise":
-            self.dropped.append("exercise")
-            return ""  # interactive; dropped
+            return self._exercise(el, level, in_box)
         if tag in ("quote",):
             return "\\begin{quote}\n" + self._inline(el) + "\n\\end{quote}\n"
         if tag in ("title", "metadata"):
@@ -255,12 +256,24 @@ class LatexConverter:
 
         return heading(level, title, numbered=self._numbered) + self._blocks(el, level + 1, in_box)
 
+    _NUMBER_STYLES = {
+        "lower-alpha": r"\alph*.", "upper-alpha": r"\Alph*.",
+        "lower-roman": r"\roman*.", "upper-roman": r"\Roman*.",
+    }
+
     def _list(self, el: ET.Element) -> str:
-        env = "enumerate" if el.get("list-type") == "enumerated" else "itemize"
-        items = []
-        for item in el.findall(f"{{{CNXML_NS}}}item"):
-            items.append("  \\item " + self._inline(item))
-        return f"\\begin{{{env}}}\n" + "\n".join(items) + f"\n\\end{{{env}}}\n"
+        if el.get("list-type") == "enumerated":
+            env = "enumerate"
+            # Honour number-style (biology multiple-choice options use lower-alpha),
+            # via enumitem's [label=...]; distinguishes options from question numbers.
+            label = self._NUMBER_STYLES.get(el.get("number-style", ""))
+            begin = f"\\begin{{enumerate}}[label={label}]" if label else "\\begin{enumerate}"
+        else:
+            env = "itemize"
+            begin = "\\begin{itemize}"
+        items = ["  \\item " + self._inline(item)
+                 for item in el.findall(f"{{{CNXML_NS}}}item")]
+        return begin + "\n" + "\n".join(items) + f"\n\\end{{{env}}}\n"
 
     def _figure(self, el: ET.Element) -> str:
         el_id = el.get("id", "")
@@ -336,6 +349,30 @@ class LatexConverter:
         lines += tbody
         lines += [f"  \\end{{{env}}}", "\\endgroup\\par\\medskip"]
         return "\n".join(lines) + "\n"
+
+    def _exercise(self, el: ET.Element, level: int, in_box: bool) -> str:
+        """Render an exercise with real content (problem + optional solution).
+
+        Neuroscience exercises hold only an os-embed placeholder link, so their
+        <problem> renders empty -- those are dropped. Biology's multiple-choice and
+        critical-thinking exercises have genuine text/lists and are kept, numbered
+        per module, with the answer shown in small italics beneath the question.
+        """
+        problem = el.find(f"{{{CNXML_NS}}}problem")
+        prob = self._blocks(problem, level, in_box).strip() if problem is not None else ""
+        if not prob:
+            self.dropped.append("exercise")
+            return ""
+
+        self._exercise_n += 1
+        out = [f"\\par\\smallskip\\noindent\\textbf{{{self._exercise_n}.}} {prob}"]
+        solution = el.find(f"{{{CNXML_NS}}}solution")
+        if solution is not None:
+            sol = self._blocks(solution, level, in_box).strip()
+            if sol:
+                out.append(f"\\par\\nopagebreak\\noindent{{\\small\\emph{{Answer.}} {sol}}}")
+        out.append("\\par\\smallskip")
+        return "\n".join(out)
 
     def _note(self, el: ET.Element, level: int) -> str:
         cls = el.get("class", "boxed-feature")
