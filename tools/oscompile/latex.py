@@ -120,19 +120,24 @@ def _number_from_id(el_id: str) -> str:
 
     Neuroscience ids are dot-separated after an Image/Figure/Table- prefix and may
     carry alpha suffixes we must keep distinct (Image-2.24 -> 2.24; Figure-9.X ->
-    9.X). Biology ids look like fig-ch11_02_01 -> 11.2.1. Both stay internally
-    consistent because caption and cross-reference derive from the same id.
+    9.X). Biology/Anatomy ids look like fig-ch11_02_01 -> 11.2.1 or tbl-ch12_01 ->
+    12.1. Both stay internally consistent because caption and cross-reference derive
+    from the same id.
+
+    The result is typeset verbatim (caption + "Figure N" cross-refs), so an
+    unrecognised id must not leak LaTeX specials (a bare "_" -> "Missing $").
     """
     m = re.match(r"^(?:Image|Figure|Table)-(.+)$", el_id)
     if m:  # neuroscience: keep dotted parts, preserve alpha suffixes (9.X)
         parts = m.group(1).split(".")
         return ".".join(str(int(p)) if p.isdigit() else p for p in parts)
-    m = re.match(r"^(?:fig|tab|table)-(?:ch)?(.+)$", el_id, re.IGNORECASE)
-    if m:  # biology: fig-ch11_02_01 -> join the numeric groups
+    # biology/anatomy: fig/tbl/tab/table-ch11_02_01 -> join the numeric groups.
+    m = re.match(r"^(?:fig|figure|tbl|tab|table)-(?:ch)?(.+)$", el_id, re.IGNORECASE)
+    if m:
         nums = re.findall(r"\d+", m.group(1))
         if nums:
             return ".".join(str(int(n)) for n in nums)
-    return el_id
+    return el_id.replace("_", ".")  # unknown scheme: at least keep it LaTeX-safe
 
 
 @dataclass
