@@ -89,6 +89,7 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \newunicodechar{Ψ}{\ensuremath{\Psi}}
 \newunicodechar{Γ}{\ensuremath{\Gamma}}
 \newunicodechar{⋅}{\ensuremath{\cdot}}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
 \newunicodechar{׳}{'}   % Hebrew geresh used as an apostrophe in a reference
 \newunicodechar{⅔}{2/3}
 \newunicodechar{⅓}{1/3}
@@ -175,7 +176,7 @@ def _module_paths(nodes, ws: Workspace) -> list[Path]:
 
 
 def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path,
-          ws: Workspace, appendix: bool = True) -> None:
+          ws: Workspace, appendix: bool = True, collection_dir: Path | None = None) -> None:
     titles = all_module_titles(ws)
     converter = LatexConverter(module_titles=titles, included_ids=included_ids)
 
@@ -194,7 +195,7 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
                 .replace("@@AUTHOR@@", escape_title(author)))
     if appendix:
         from oscompile.provenance import generate_appendix
-        body += "\n" + generate_appendix(ws, included_ids, titles, REPO_ROOT)
+        body += "\n" + generate_appendix(ws, included_ids, titles, REPO_ROOT, collection_dir)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(preamble + body + POSTAMBLE, encoding="utf-8")
@@ -219,6 +220,7 @@ def main(argv: list[str] | None = None) -> int:
                    help="omit the auto-generated provenance & attribution appendix")
     args = p.parse_args(argv)
 
+    collection_dir: Path | None = None
     if args.modules:
         # Ad-hoc build: group the given modules under a single chapter.
         nodes = [Unit(title=args.title, content=[ModuleRef(document=m) for m in args.modules])]
@@ -229,12 +231,14 @@ def main(argv: list[str] | None = None) -> int:
         included_ids = coll.module_ids()
         if args.title == "Course Reader":
             args.title = coll.title
+        collection_dir = Path(args.collection).resolve().parent
     else:
         p.error("provide a collection file or --modules")
 
     out = args.out if args.out.is_absolute() else REPO_ROOT / args.out
     ws = discover_workspace(REPO_ROOT)
-    build(nodes, included_ids, args.title, args.author, out, ws, appendix=args.appendix)
+    build(nodes, included_ids, args.title, args.author, out, ws,
+          appendix=args.appendix, collection_dir=collection_dir)
     return 0
 
 

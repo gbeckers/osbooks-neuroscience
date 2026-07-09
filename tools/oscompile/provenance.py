@@ -14,11 +14,49 @@ Emitted as a final unnumbered chapter and appended by build_latex.py.
 
 from __future__ import annotations
 
+import re
 import subprocess
 from pathlib import Path
 
 from .latex import heading, escape
 from .sources import Workspace
+
+# Cells that mean "nothing here" in an errata table; dropped rather than rendered.
+_EMPTY_CELL = {"", "—", "–", "-", "n/a", "none"}
+
+
+def _typeset(cell: str) -> str:
+    """Light typographic cleanup of an errata cell before LaTeX-escaping, so a
+    change reads like prose rather than source notation: collapse whitespace,
+    turn ASCII ``->`` into a real arrow, and straighten quotes into curly ones.
+    The arrow/quote codepoints pass through ``escape`` untouched (the preamble
+    maps → to \\rightarrow; Latin Modern has the curly quotes)."""
+    cell = re.sub(r"\s+", " ", cell).strip()
+    cell = cell.replace("->", "→")
+    out, open_q = [], True
+    for ch in cell:
+        if ch == '"':
+            out.append("“" if open_q else "”")
+            open_q = not open_q
+        else:
+            out.append(ch)
+    return "".join(out).replace("'", "’")
+
+
+def _format_errata_row(cells: list[str]) -> str:
+    """Render one errata table row as an itemize item. Empty cells are dropped;
+    the template's trailing OpenStax errata-id column, when a bare number, is
+    spelled out instead of left as a dangling digit string."""
+    parts = []
+    for i, raw in enumerate(cells):
+        cell = _typeset(raw)
+        if cell.lower() in _EMPTY_CELL:
+            continue
+        if i == len(cells) - 1 and re.fullmatch(r"#?\d+", cell):
+            parts.append("OpenStax erratum \\#" + cell.lstrip("#"))
+        else:
+            parts.append(escape(cell))
+    return " — ".join(parts)
 
 
 def _git_changed_modules(repo_root: Path, upstream: str = "upstream/main") -> list[str] | None:
@@ -40,29 +78,39 @@ def _git_changed_modules(repo_root: Path, upstream: str = "upstream/main") -> li
     return sorted(ids)
 
 
-def _errata_rows(repo_root: Path) -> list[list[str]]:
-    """Real (non-placeholder) rows from reader/errata.md's table, as cell lists."""
-    path = repo_root / "reader" / "errata.md"
-    if not path.exists():
-        return []
-    rows = []
-    in_comment = False
-    for line in path.read_text(encoding="utf-8").splitlines():
-        # Skip HTML comment blocks (the file ships with a commented-out example row).
-        if "<!--" in line:
-            in_comment = True
-        if in_comment:
-            if "-->" in line:
-                in_comment = False
+def _errata_rows(paths: list[Path]) -> list[list[str]]:
+    """Real (non-placeholder) rows from each errata.md table, as cell lists.
+
+    Reads several files (the top-level reader/errata.md plus the collection-local
+    one, if any) and concatenates their rows, deduplicating identical rows so a
+    note that appears in both files is only listed once.
+    """
+    rows: list[list[str]] = []
+    seen: set[tuple[str, ...]] = set()
+    for path in paths:
+        if not path.exists():
             continue
-        line = line.strip()
-        if not line.startswith("|"):
-            continue
-        cells = [c.strip() for c in line.strip("|").split("|")]
-        first = cells[0].lower()
-        if not first or first.startswith(("module", "---", ":--")) or "none yet" in first:
-            continue
-        rows.append(cells)
+        in_comment = False
+        for line in path.read_text(encoding="utf-8").splitlines():
+            # Skip HTML comment blocks (the file ships with a commented-out example row).
+            if "<!--" in line:
+                in_comment = True
+            if in_comment:
+                if "-->" in line:
+                    in_comment = False
+                continue
+            line = line.strip()
+            if not line.startswith("|"):
+                continue
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            first = cells[0].lower()
+            if not first or first.startswith(("module", "---", ":--")) or "none yet" in first:
+                continue
+            key = tuple(cells)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append(cells)
     return rows
 
 
@@ -71,6 +119,7 @@ def generate_appendix(
     included_ids: set[str],
     module_titles: dict[str, str],
     repo_root: Path,
+    collection_dir: Path | None = None,
 ) -> str:
     parts = [heading(0, "Provenance \\& Attribution", numbered=False, label="app:provenance")]
 
@@ -118,11 +167,16 @@ def generate_appendix(
                 parts.append(f"  \\item \\emph{{{escape(title)}}} (\\texttt{{{escape(mid)}}})")
             parts.append("\\end{itemize}")
 
-        rows = _errata_rows(repo_root)
+        # The top-level reader/errata.md plus, for a topic collection, the
+        # errata.md sitting next to that collection file.
+        errata_paths = [repo_root / "reader" / "errata.md"]
+        if collection_dir is not None:
+            errata_paths.append(collection_dir / "errata.md")
+        rows = _errata_rows(errata_paths)
         if rows:
             parts.append("\nDetails:\n\\begin{itemize}")
             for cells in rows:
-                parts.append("  \\item " + " — ".join(escape(c) for c in cells if c))
+                parts.append("  \\item " + _format_errata_row(cells))
             parts.append("\\end{itemize}")
 
     return "\n".join(parts) + "\n"
