@@ -172,6 +172,19 @@ class LatexConverter:
 
     # -- first pass: id -> Label ------------------------------------------
 
+    def prescan_labels(self, paths) -> None:
+        """Index figure/table ids across all modules in the build *before*
+        rendering, so a cross-reference resolves even when its target lives in a
+        later-processed module (e.g. another module in the same chapter)."""
+        for p in paths:
+            p = Path(p)
+            if p.is_dir():
+                p = p / "index.cnxml"
+            try:
+                self._index_labels(ET.parse(p).getroot())
+            except (ET.ParseError, OSError):
+                continue
+
     def _index_labels(self, root: ET.Element) -> None:
         for el in root.iter():
             tag = _local(el.tag)
@@ -185,16 +198,16 @@ class LatexConverter:
 
     # -- block-level rendering --------------------------------------------
 
-    def _blocks(self, parent: ET.Element, level: int) -> str:
+    def _blocks(self, parent: ET.Element, level: int, in_box: bool = False) -> str:
         out: list[str] = []
         for el in parent:
-            out.append(self._block(el, level))
+            out.append(self._block(el, level, in_box))
         return "\n".join(chunk for chunk in out if chunk.strip())
 
-    def _block(self, el: ET.Element, level: int) -> str:
+    def _block(self, el: ET.Element, level: int, in_box: bool = False) -> str:
         tag = _local(el.tag)
         if tag == "section":
-            return self._section(el, level)
+            return self._section(el, level, in_box)
         if tag == "para":
             return self._inline(el) + "\n"
         if tag == "list":
@@ -202,7 +215,7 @@ class LatexConverter:
         if tag == "figure":
             return self._figure(el)
         if tag == "table":
-            return self._table(el)
+            return self._table(el, in_box)
         if tag == "note":
             return self._note(el, level)
         if tag == "exercise":
@@ -215,17 +228,17 @@ class LatexConverter:
         # Fallback: try inline so we don't lose text.
         return self._inline(el)
 
-    def _section(self, el: ET.Element, level: int) -> str:
+    def _section(self, el: ET.Element, level: int, in_box: bool = False) -> str:
         title_el = el.find(f"{{{CNXML_NS}}}title")
         title = self._inline(title_el) if title_el is not None else ""
         cls = el.get("class", "")
 
         if cls == "learning-objectives":
-            inner = self._blocks(el, level + 1)
+            inner = self._blocks(el, level + 1, in_box=True)
             # Present as a labelled box rather than a numbered heading.
             return ("\\begin{objectives}\n" + inner + "\n\\end{objectives}\n")
 
-        return heading(level, title) + self._blocks(el, level + 1)
+        return heading(level, title) + self._blocks(el, level + 1, in_box)
 
     def _list(self, el: ET.Element) -> str:
         env = "enumerate" if el.get("list-type") == "enumerated" else "itemize"
@@ -262,12 +275,15 @@ class LatexConverter:
         # Non-floating: a float (figure env) can't sit inside a note box / tcolorbox
         # ("Not in outer par mode"). Numbers are already baked into the caption, so
         # we don't need the float's counter. Keeps figures in reading order too.
+        # A \hypertarget makes "Figure N" cross-references clickable without relying
+        # on LaTeX's figure counter (which would renumber and break id-based numbers).
+        anchor = f"\\hypertarget{{fig:{el_id}}}{{}}" if el_id else ""
         return (
-            "\\par\\medskip\n{\\centering\n" + graphic + "\\par}\n"
+            anchor + "\\par\\medskip\n{\\centering\n" + graphic + "\\par}\n"
             "\\smallskip\n{\\small " + caption + "}\n\\par\\medskip\n"
         )
 
-    def _table(self, el: ET.Element) -> str:
+    def _table(self, el: ET.Element, in_box: bool = False) -> str:
         el_id = el.get("id", "")
         number = self.labels.get(el_id, Label("table", _number_from_id(el_id))).number
         tgroup = el.find(f"{{{CNXML_NS}}}tgroup")
@@ -290,14 +306,20 @@ class LatexConverter:
         thead = rows(tgroup.find(f"{{{CNXML_NS}}}thead"), header=True)
         tbody = rows(tgroup.find(f"{{{CNXML_NS}}}tbody"), header=False)
 
-        # Non-floating (see _figure): tabularx isn't a float, but wrapping it in a
-        # table float would break inside note boxes, so we place it inline with a
-        # manual caption above. \small helps wide (many-column) tables fit.
-        lines = ["\\par\\medskip\\begingroup\\small",
-                 f"\\noindent{{\\textbf{{Table {number}.}}}}\\par\\smallskip",
-                 f"\\noindent\\begin{{tabularx}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
-        lines += thead + tbody
-        lines += ["  \\end{tabularx}", "\\endgroup\\par\\medskip"]
+        # xltabular (longtable + X columns) breaks across pages and repeats the
+        # header (\endhead). But longtable can't live inside a box, so inside a note
+        # or objectives box we fall back to a plain (non-breaking) tabularx.
+        # Both are non-floating; \small helps wide (many-column) tables fit.
+        env = "tabularx" if in_box else "xltabular"
+        anchor = f"\\hypertarget{{tab:{el_id}}}{{}}" if el_id else ""
+        lines = ["\\par\\medskip\\begingroup\\small" + anchor,
+                 f"{{\\textbf{{Table {number}.}}}}\\par\\smallskip",
+                 f"\\begin{{{env}}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
+        lines += thead
+        if not in_box:
+            lines.append("  \\endhead")  # repeat header on each page it spans
+        lines += tbody
+        lines += [f"  \\end{{{env}}}", "\\endgroup\\par\\medskip"]
         return "\n".join(lines) + "\n"
 
     def _note(self, el: ET.Element, level: int) -> str:
@@ -308,11 +330,13 @@ class LatexConverter:
 
         head = ": ".join(p for p in (header, title) if p)
         # Skip children we already consumed / that are interactive-only.
+        # in_box=True: contents are inside a tcolorbox, so tables must stay
+        # non-breaking (plain tabularx, not xltabular/longtable).
         inner_parts = []
         for child in el:
             if _local(child.tag) == "title":
                 continue
-            inner_parts.append(self._block(child, level + 1))
+            inner_parts.append(self._block(child, level + 1, in_box=True))
         inner = "\n".join(p for p in inner_parts if p.strip())
         if not inner.strip():
             return ""  # e.g. author-video note with only an iframe
@@ -371,20 +395,21 @@ class LatexConverter:
             return ""  # interactive exercise reference
 
         if document:
-            # Cross-module reference: render as plain text (no hyperlink in print).
+            # Cross-module reference.
+            if target and target in self.labels:  # figure/table in another module
+                return self._fig_ref(target)
             title = self.module_titles.get(document)
-            if target and target in self.labels:  # rare: cross-module figure ref
-                lab = self.labels[target]
-                return f"{lab.kind.capitalize()}~{lab.number}"
+            if title and document in self.included_ids:
+                # Clickable jump to that module's heading (label set in heading()).
+                return f"(see \\hyperref[mod:{document}]{{\\emph{{{escape(title)}}}}})"
             if title:
                 return f"(see \\emph{{{escape(title)}}})"
             return ""
 
         if target:
-            lab = self.labels.get(target)
-            if lab:
-                return f"{lab.kind.capitalize()}~{lab.number}"
-            # Non-figure internal target (section/para): use LaTeX ref if labelled.
+            if target in self.labels:
+                return self._fig_ref(target)
+            # Non-figure internal target (section/para): no counter to reference.
             return "this section"
 
         if url:  # external web link
@@ -393,6 +418,14 @@ class LatexConverter:
                 return f"{inner}\\footnote{{\\url{{{url}}}}}"
             return f"\\url{{{url}}}"
         return self._inline(el)
+
+    def _fig_ref(self, target: str) -> str:
+        """A clickable 'Figure N'/'Table N' pointing at the target's \\hypertarget.
+        Uses the id-derived number (not a LaTeX counter) so it matches the source;
+        if the target isn't in this build the link is inert but the text still shows."""
+        lab = self.labels[target]
+        prefix = "fig" if lab.kind == "figure" else "tab"
+        return f"\\hyperlink{{{prefix}:{target}}}{{{lab.kind.capitalize()}~{lab.number}}}"
 
     def _inline_media(self, el: ET.Element) -> str:
         # Inline media: an iframe (video) is dropped; an inline image is included.

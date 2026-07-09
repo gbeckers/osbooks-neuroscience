@@ -70,16 +70,24 @@ What the converter does:
   `--modules` mode the given modules are grouped under a single chapter (`--title`).
 - Figure/table **numbers come from the element id** (`Image-2.24` → "Figure 2.24"),
   not LaTeX counters, so numbering matches the source even in a subset. Empty
-  `<link target-id=.../>` refs are turned into "Figure 2.16"/"Table 2.24" text.
+  `<link target-id=.../>` refs become **clickable** "Figure 2.16"/"Table 2.24"
+  links (`\hyperlink`/`\hypertarget`, so the id-based numbers are preserved). A
+  pre-scan indexes every id first, so a reference resolves even when its target is
+  in a later module of the same chapter.
+- Cross-*module* prose links → "(see \emph{Title})", clickable to that chapter
+  when it's in the build.
+- **Tables** break across pages via `xltabular` (longtable + `X` columns), with the
+  header repeated on each page; tables inside note boxes stay non-breaking
+  (`tabularx`), since a longtable can't live in a box.
 - `note` blocks → titled boxes (Meet the Author / In the Lab / In the Wild / …).
 - `learning-objectives` → a highlighted box.
 - `sup`/`sub` (ion charges), `emphasis`, `term`, small MathML (`mfrac`, `msup`…).
 - **Drops** interactive content (`os-embed` exercises, `iframe` videos) and prints
   a summary of what was dropped.
 
-Known prototype limits (next iterations): tables use `tabularx` (no page-break —
-switch to `longtable` for long ones); cross-*chapter* links render as "(see
-\emph{Title})" plain text; missing glyphs depend on the main font (Latin Modern).
+Requires a TeX Live install with `xltabular`, `tcolorbox`, `xurl`, `newunicodechar`
+(all in `texlive-latex-extra`). Known limit: a few sub-visible overfull lines in
+narrow bold table headers.
 
 ## Authoring a course subset
 

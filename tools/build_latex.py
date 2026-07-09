@@ -45,6 +45,7 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
 \usepackage{tabularx}
+\usepackage{xltabular}   % longtable + X columns: wide tables break across pages
 \usepackage{array}
 \usepackage[most]{tcolorbox}
 \usepackage{caption}
@@ -169,9 +170,26 @@ def escape_title(text: str) -> str:
     return escape(text)
 
 
+def _module_paths(nodes) -> list[Path]:
+    """All module index.cnxml paths in the tree, in reading order."""
+    paths: list[Path] = []
+    for node in nodes:
+        if isinstance(node, Unit):
+            paths.extend(_module_paths(node.content))
+        else:  # ModuleRef
+            p = MODULES_DIR / node.document / "index.cnxml"
+            if p.exists():
+                paths.append(p)
+    return paths
+
+
 def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path) -> None:
     titles = all_module_titles()
     converter = LatexConverter(module_titles=titles, included_ids=included_ids)
+
+    # Index every figure/table id up front so cross-references resolve regardless
+    # of module order (e.g. a link to a figure in a later module of the chapter).
+    converter.prescan_labels(_module_paths(nodes))
 
     stats: Counter = Counter()
     body = _render_nodes(nodes, converter, level=0, stats=stats)
