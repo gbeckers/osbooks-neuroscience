@@ -26,6 +26,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import html
 import re
 import xml.etree.ElementTree as ET
 
@@ -58,6 +59,9 @@ def escape(text: str) -> str:
     """Escape LaTeX specials in a run of text (Unicode is left for xelatex)."""
     if not text:
         return ""
+    # Some source text is double-encoded (e.g. "&amp;amp;" survives one XML decode
+    # as the literal "&amp;"); undo any leftover HTML entities before LaTeX-escaping.
+    text = html.unescape(text)
     out = []
     for ch in text:
         out.append(_SPECIALS.get(ch, ch))
@@ -290,7 +294,9 @@ class LatexConverter:
         if tag == "sub":
             return f"\\textsubscript{{{self._inline(el)}}}"
         if tag == "newline":
-            return "\\\\\n"
+            # \newline (not \\) so it also works inside a tabularx cell, where \\
+            # would prematurely end the row and unbalance any surrounding braces.
+            return "\\newline "
         if tag == "link":
             return self._link(el)
         if tag == "media":

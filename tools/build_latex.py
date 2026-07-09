@@ -57,7 +57,7 @@ PREAMBLE = r"""\documentclass[11pt]{article}
 \captionsetup{labelformat=empty}
 
 \newtcolorbox{featurebox}[1]{colback=gray!5, colframe=gray!55,
-  title=#1, breakable, fonttitle=\bfseries}
+  title={#1}, breakable, fonttitle=\bfseries}
 \newtcolorbox{objectives}{colback=blue!4, colframe=blue!45,
   title=Learning Objectives, breakable, fonttitle=\bfseries}
 
