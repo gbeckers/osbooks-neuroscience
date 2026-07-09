@@ -26,7 +26,11 @@ cd build && xelatex x.tex && xelatex x.tex                            # twice: T
 ```
 Use **xelatex** (not pdflatex — the source has Unicode). Needs TeX Live with
 `xltabular`, `tcolorbox`, `xurl`, `enumitem`, `newunicodechar` (texlive-latex-extra).
-The full reader is ~600–970 pages / hundreds of images and takes minutes per pass;
+Page layout defaults to compact **A4 / 10pt / 2cm margins** (to save paper when
+students print); override with `--paper {a4,letter} --fontsize {10,11,12} --margin
+<len>`. `report` supports only 10/11/12pt — 10.5 would need a KOMA class.
+The full reader is ~480 pages (was ~630 before the compact layout) / hundreds of
+images and takes minutes per pass;
 run compiles in the background. If a run is killed it leaves a truncated `.toc` that
 breaks the next run ("File ended while scanning \@writefile") — delete
 `build/<name>.{aux,toc,out,log}` and recompile.
@@ -39,12 +43,19 @@ breaks the next run ("File ended while scanning \@writefile") — delete
   non-included modules render as plain text — validate lists them as `dangling-xref`.
 - **Errata**: edit the upstream module in place, commit with an `errata:` prefix;
   changes auto-appear in the provenance appendix (derived from `git diff
-  upstream/main -- modules/`), enriched by rows in `reader/errata.md`.
+  upstream/main -- modules/`), enriched by rows in `reader/errata.md` **and** an
+  `errata.md` sitting next to the collection being built (e.g.
+  `reader/topics/<topic>/errata.md`). Appendix rows are typeset (`->` → arrow,
+  straight quotes → curly, bare OpenStax id → "OpenStax erratum #N").
 - **Upstream sync**: `git fetch upstream && git merge upstream/main`, then validate.
 
 ## Current state
 - Course reader: `reader/UCSCICOG11_Cognitive_Neuroscience_I_Reader.xml` — 12
-  neuroscience chapters + the imported Evolution chapter + Methods (~629-page PDF).
+  neuroscience chapters + the imported Evolution chapter + Methods (~482-page A4 PDF
+  at the compact 10pt layout).
+- Per-class topic readers under `reader/topics/<topic>/` (a `*.collection.xml` plus
+  its own `errata.md`), e.g. `reader/topics/neuroanatomy/` — lets each class get its
+  own document. Neuroanatomy is a work in progress (more sources to be added).
 - Imported source: `sources/biology/` — *Concepts of Biology* ch. 11 (Evolution).
 - `main` is ahead of `origin/main` and unpushed (push from an interactive shell:
   `git push origin main`).
