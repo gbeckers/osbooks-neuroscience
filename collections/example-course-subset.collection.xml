@@ -1,0 +1,26 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Cognitive Neuroscience (Course Reader — EXAMPLE)</md:title>
+    <md:slug>example-course-subset</md:slug>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</md:license>
+  </col:metadata>
+  <col:content>
+    <col:module document="m00100"/>
+    <col:subcollection>
+      <md:title>Neurophysiology</md:title>
+      <col:content>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Learning and Memory</md:title>
+      <col:content>
+        <col:module document="m00061"/>
+        <col:module document="m00062"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
