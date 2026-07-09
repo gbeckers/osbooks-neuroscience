@@ -1,0 +1,33 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Cognitive Neuroscience Reader — Comparative &amp; Evolution (EXAMPLE)</md:title>
+    <md:slug>example-with-evolution</md:slug>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</md:license>
+  </col:metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Comparative Neuroscience</md:title>
+      <col:content>
+        <col:module document="m00031"/>
+        <col:module document="m00032"/>
+        <col:module document="m00033"/>
+        <col:module document="m00034"/>
+        <col:module document="m00035"/>
+        <col:module document="m00036"/>
+        <col:module document="m00037"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Evolution (from Concepts of Biology)</md:title>
+      <col:content>
+        <col:module document="bio-m45486"/>
+        <col:module document="bio-m45487"/>
+        <col:module document="bio-m45489"/>
+        <col:module document="bio-m45491"/>
+        <col:module document="bio-m45493"/>
+        <col:module document="bio-m45505"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
