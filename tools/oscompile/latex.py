@@ -114,13 +114,23 @@ def heading(level: int, title: str, numbered: bool = True, label: str | None = N
 
 
 def _number_from_id(el_id: str) -> str:
-    """'Image-2.24' -> '2.24', 'Image-2.04.2' -> '2.4.2'."""
-    stripped = re.sub(r"^(Image|Figure|Table)-", "", el_id)
-    parts = stripped.split(".")
-    norm = []
-    for p in parts:
-        norm.append(str(int(p)) if p.isdigit() else p)
-    return ".".join(norm)
+    """Derive a display number from a figure/table id.
+
+    Neuroscience ids are dot-separated after an Image/Figure/Table- prefix and may
+    carry alpha suffixes we must keep distinct (Image-2.24 -> 2.24; Figure-9.X ->
+    9.X). Biology ids look like fig-ch11_02_01 -> 11.2.1. Both stay internally
+    consistent because caption and cross-reference derive from the same id.
+    """
+    m = re.match(r"^(?:Image|Figure|Table)-(.+)$", el_id)
+    if m:  # neuroscience: keep dotted parts, preserve alpha suffixes (9.X)
+        parts = m.group(1).split(".")
+        return ".".join(str(int(p)) if p.isdigit() else p for p in parts)
+    m = re.match(r"^(?:fig|tab|table)-(?:ch)?(.+)$", el_id, re.IGNORECASE)
+    if m:  # biology: fig-ch11_02_01 -> join the numeric groups
+        nums = re.findall(r"\d+", m.group(1))
+        if nums:
+            return ".".join(str(int(n)) for n in nums)
+    return el_id
 
 
 @dataclass
@@ -371,6 +381,16 @@ class LatexConverter:
             }.get(effect, f"\\emph{{{inner}}}")
         if tag == "term":
             return f"\\textbf{{{self._inline(el)}}}"
+        if tag == "footnote":  # biology uses real footnotes for citations
+            return f"\\footnote{{{self._inline(el)}}}"
+        if tag == "definition":  # biology inline glossary: <term>..<meaning>..
+            term_el = el.find(f"{{{CNXML_NS}}}term")
+            meaning_el = el.find(f"{{{CNXML_NS}}}meaning")
+            term = self._inline(term_el) if term_el is not None else ""
+            meaning = self._inline(meaning_el) if meaning_el is not None else ""
+            return f"\\textbf{{{term}}}: {meaning}"
+        if tag == "meaning":
+            return self._inline(el)
         if tag == "sup":
             return f"\\textsuperscript{{{self._inline(el)}}}"
         if tag == "sub":

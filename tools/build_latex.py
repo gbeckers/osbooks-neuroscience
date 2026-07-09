@@ -188,8 +188,8 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
     graphicspath = "".join(f"{{{d.as_posix()}/}}" for d in ws.media_dirs())
     preamble = (PREAMBLE
                 .replace("@@GRAPHICSPATH@@", graphicspath)
-                .replace("@@TITLE@@", title)
-                .replace("@@AUTHOR@@", author))
+                .replace("@@TITLE@@", escape_title(title))
+                .replace("@@AUTHOR@@", escape_title(author)))
     if appendix:
         from oscompile.provenance import generate_appendix
         body += "\n" + generate_appendix(ws, included_ids, titles, REPO_ROOT)
