@@ -1,2 +1,4 @@
-
 /.xsd/
+/build/
+__pycache__/
+*.pyc
