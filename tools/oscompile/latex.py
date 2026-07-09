@@ -106,7 +106,9 @@ def heading(level: int, title: str, numbered: bool = True, label: str | None = N
     """
     cmd = LEVEL_CMDS.get(level if level <= 5 else 5, "paragraph")
     out = f"\\{cmd}{'' if numbered else '*'}{{{title}}}\n"
-    if not numbered and cmd in ("chapter", "section"):
+    # Add unnumbered *chapters* (Preface, Methods, appendix) to the ToC. Unnumbered
+    # sections are left out so they don't bypass tocdepth and flood a short ToC.
+    if not numbered and cmd == "chapter":
         out += f"\\addcontentsline{{toc}}{{{cmd}}}{{{title}}}\n"
     if label:
         out += f"\\label{{{label}}}\n"

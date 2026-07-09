@@ -112,6 +112,7 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 Adapted from \emph{Introduction to Behavioral Neuroscience} (OpenStax, Rice University),
 licensed CC BY-NC-SA 4.0. This derivative is shared under the same license.
 \end{center}
+\setcounter{tocdepth}{1}   % ToC lists chapters + modules, not every subsection
 \tableofcontents
 \newpage
 """
