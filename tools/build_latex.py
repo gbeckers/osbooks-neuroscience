@@ -34,11 +34,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from oscompile.collection import parse_collection, Unit, ModuleRef  # noqa: E402
 from oscompile.latex import LatexConverter, heading, CNXML_NS  # noqa: E402
+from oscompile.sources import Workspace, discover_workspace  # noqa: E402
 import xml.etree.ElementTree as ET  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-MODULES_DIR = REPO_ROOT / "modules"
-MEDIA_DIR = REPO_ROOT / "media"
 
 PREAMBLE = r"""\documentclass[11pt]{report}
 \usepackage{fontspec}
@@ -94,7 +93,7 @@ PREAMBLE = r"""\documentclass[11pt]{report}
 \newunicodechar{⅓}{1/3}
 \newunicodechar{½}{1/2}
 
-\graphicspath{{@@MEDIADIR@@/}}
+\graphicspath{@@GRAPHICSPATH@@}
 \captionsetup{labelformat=empty}
 
 \newtcolorbox{featurebox}[1]{colback=gray!5, colframe=gray!55,
@@ -119,31 +118,20 @@ licensed CC BY-NC-SA 4.0. This derivative is shared under the same license.
 POSTAMBLE = "\n\\end{document}\n"
 
 
-def module_title(module_id: str) -> str | None:
-    path = MODULES_DIR / module_id / "index.cnxml"
-    if not path.exists():
-        return None
-    try:
-        root = ET.parse(path).getroot()
-        t = root.find(f"{{{CNXML_NS}}}title")
-        if t is not None and t.text:
-            return t.text.strip()
-    except ET.ParseError:
-        return None
-    return None
-
-
-def all_module_titles() -> dict[str, str]:
+def all_module_titles(ws: Workspace) -> dict[str, str]:
     titles: dict[str, str] = {}
-    for d in MODULES_DIR.iterdir():
-        if d.is_dir() and (d / "index.cnxml").exists():
-            t = module_title(d.name)
-            if t:
-                titles[d.name] = t
+    for module_id, (_src, path) in ws.index.items():
+        try:
+            root = ET.parse(path).getroot()
+            t = root.find(f"{{{CNXML_NS}}}title")
+            if t is not None and t.text:
+                titles[module_id] = t.text.strip()
+        except ET.ParseError:
+            continue
     return titles
 
 
-def _render_nodes(nodes, converter: LatexConverter, level: int, stats: Counter) -> str:
+def _render_nodes(nodes, converter: LatexConverter, level: int, stats: Counter, ws: Workspace) -> str:
     """Walk the collection tree. A Unit becomes a heading (chapter at level 0);
     a ModuleRef is converted with its title at the current level. Standalone
     top-level modules (the Preface, Methods) are unnumbered chapters."""
@@ -151,11 +139,12 @@ def _render_nodes(nodes, converter: LatexConverter, level: int, stats: Counter) 
     for node in nodes:
         if isinstance(node, Unit):
             out.append(heading(level, escape_title(node.title)))
-            out.append(_render_nodes(node.content, converter, level + 1, stats))
+            out.append(_render_nodes(node.content, converter, level + 1, stats, ws))
         else:  # ModuleRef
-            path = MODULES_DIR / node.document / "index.cnxml"
-            if not path.exists():
-                print(f"  WARN: module {node.document} not found, skipping", file=sys.stderr)
+            path = ws.resolve(node.document)
+            if path is None:
+                print(f"  WARN: module {node.document} not found in any source, skipping",
+                      file=sys.stderr)
                 continue
             numbered = level > 0  # top-level standalone modules are unnumbered
             out.append(converter.convert_module(
@@ -170,34 +159,41 @@ def escape_title(text: str) -> str:
     return escape(text)
 
 
-def _module_paths(nodes) -> list[Path]:
-    """All module index.cnxml paths in the tree, in reading order."""
+def _module_paths(nodes, ws: Workspace) -> list[Path]:
+    """All resolved module index.cnxml paths in the tree, in reading order."""
     paths: list[Path] = []
     for node in nodes:
         if isinstance(node, Unit):
-            paths.extend(_module_paths(node.content))
+            paths.extend(_module_paths(node.content, ws))
         else:  # ModuleRef
-            p = MODULES_DIR / node.document / "index.cnxml"
-            if p.exists():
+            p = ws.resolve(node.document)
+            if p is not None:
                 paths.append(p)
     return paths
 
 
-def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path) -> None:
-    titles = all_module_titles()
+def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path,
+          ws: Workspace, appendix: bool = True) -> None:
+    titles = all_module_titles(ws)
     converter = LatexConverter(module_titles=titles, included_ids=included_ids)
 
     # Index every figure/table id up front so cross-references resolve regardless
     # of module order (e.g. a link to a figure in a later module of the chapter).
-    converter.prescan_labels(_module_paths(nodes))
+    converter.prescan_labels(_module_paths(nodes, ws))
 
     stats: Counter = Counter()
-    body = _render_nodes(nodes, converter, level=0, stats=stats)
+    body = _render_nodes(nodes, converter, level=0, stats=stats, ws=ws)
 
+    # Every source's media dir goes on the graphics path, in source order.
+    graphicspath = "".join(f"{{{d.as_posix()}/}}" for d in ws.media_dirs())
     preamble = (PREAMBLE
-                .replace("@@MEDIADIR@@", MEDIA_DIR.as_posix())
+                .replace("@@GRAPHICSPATH@@", graphicspath)
                 .replace("@@TITLE@@", title)
                 .replace("@@AUTHOR@@", author))
+    if appendix:
+        from oscompile.provenance import generate_appendix
+        body += "\n" + generate_appendix(ws, included_ids, titles, REPO_ROOT)
+
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(preamble + body + POSTAMBLE, encoding="utf-8")
 
@@ -217,6 +213,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--title", default="Course Reader")
     p.add_argument("--author", default="")
     p.add_argument("--out", default="build/reader.tex", type=Path)
+    p.add_argument("--no-appendix", dest="appendix", action="store_false",
+                   help="omit the auto-generated provenance & attribution appendix")
     args = p.parse_args(argv)
 
     if args.modules:
@@ -233,7 +231,8 @@ def main(argv: list[str] | None = None) -> int:
         p.error("provide a collection file or --modules")
 
     out = args.out if args.out.is_absolute() else REPO_ROOT / args.out
-    build(nodes, included_ids, args.title, args.author, out)
+    ws = discover_workspace(REPO_ROOT)
+    build(nodes, included_ids, args.title, args.author, out, ws, appendix=args.appendix)
     return 0
 
 

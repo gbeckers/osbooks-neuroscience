@@ -6,13 +6,16 @@ Dependency-free (Python 3 standard library only). No `pip install` needed.
 
 - `oscompile/collection.py` — parse a `*.collection.xml` table of contents into a
   tree of units (`Unit`) and module references (`ModuleRef`).
-- `oscompile/module.py` — parse one `modules/mXXXXX/index.cnxml` and index its
-  title, element ids, image references, links, and iframes.
-- `oscompile/validate.py` — cross-check a collection against modules/ and media/.
+- `oscompile/module.py` — parse one `index.cnxml` and index its title, element
+  ids, image references, links, and iframes.
+- `oscompile/sources.py` — a `Workspace` that discovers every content source (the
+  neuroscience root plus each `sources/<name>/`), resolves a module id to a file,
+  and flags id/media collisions. Both tools resolve modules through this.
+- `oscompile/validate.py` — cross-check a collection against all sources.
+- `oscompile/latex.py` — CNXML → LaTeX converter.
+- `oscompile/provenance.py` — generate the "Provenance & Attribution" appendix
+  from source metadata + `git diff upstream/main` + `reader/errata.md`.
 - `validate.py` — convenience CLI wrapper to run from the repo root.
-
-The collection/module parsers are the shared foundation the planned CNXML → LaTeX
-converter will build on.
 
 ## Validate a collection
 
@@ -31,14 +34,17 @@ Exit code is non-zero if there are any ERRORs, so it drops into CI/Make cleanly.
 
 ### What it reports
 
-- **ERROR** — will produce broken output: a listed module has no `index.cnxml`;
-  an `<image src>` isn't in `media/`; an intra-module figure link (`target-id`)
-  resolves to nothing; a cross-module link points at a module not on disk.
+- **ERROR** — will produce broken output: a listed module isn't found in **any**
+  source; an `<image src>` isn't on disk; an intra-module figure link (`target-id`)
+  resolves to nothing; a cross-module link points at a module not on disk; the same
+  id is defined in two sources (`id-collision`).
 - **WARN** — builds, but check it: a cross-module link points at a module **not in
   this collection** (`dangling-xref` — the classic "I dropped that chapter" case);
   a cross-module `target-id` is absent in the target; a module is included twice;
-  `os-embed` exercises / iframes (interactive content that can't print).
-- **INFO** — external web links; with `--orphans`, unreferenced media.
+  a media filename exists in two sources (`media-collision`); `os-embed` exercises
+  / iframes (interactive content that can't print).
+- **INFO** — external web links; with `--orphans`, unreferenced media (across all
+  sources).
 
 ## Build a LaTeX/PDF reader (prototype)
 
@@ -84,6 +90,12 @@ What the converter does:
 - `sup`/`sub` (ion charges), `emphasis`, `term`, small MathML (`mfrac`, `msup`…).
 - **Drops** interactive content (`os-embed` exercises, `iframe` videos) and prints
   a summary of what was dropped.
+- **Multi-source**: modules are resolved across the neuroscience root and every
+  `sources/<name>/` (each source's `media/` is added to `\graphicspath`).
+- **Provenance appendix** (final unnumbered chapter, on by default; `--no-appendix`
+  to omit): a "Sources & Attribution" list built from each source's license/origin,
+  and a "Modifications to the original text" list from `git diff upstream/main`,
+  enriched with any notes in `reader/errata.md`.
 
 Requires a TeX Live install with `xltabular`, `tcolorbox`, `xurl`, `newunicodechar`
 (all in `texlive-latex-extra`). Known limit: a few sub-visible overfull lines in

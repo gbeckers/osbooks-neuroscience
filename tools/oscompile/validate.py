@@ -31,6 +31,7 @@ import xml.etree.ElementTree as ET
 
 from .collection import Collection, parse_collection
 from .module import Module, parse_module
+from .sources import Workspace, discover_workspace
 
 ERROR, WARN, INFO = "ERROR", "WARN", "INFO"
 
@@ -69,22 +70,27 @@ class Report:
         return len(self.by_severity(WARN))
 
 
-def _modules_dir(repo_root: Path) -> Path:
-    return repo_root / "modules"
-
-
-def _module_path(repo_root: Path, module_id: str) -> Path:
-    return _modules_dir(repo_root) / module_id / "index.cnxml"
-
-
 def build_report(
     collection: Collection,
     repo_root: str | Path,
     check_orphans: bool = False,
+    workspace: Workspace | None = None,
 ) -> Report:
-    """Cross-check `collection` against modules/ and media/ under `repo_root`."""
+    """Cross-check `collection` against the modules/media of every content source
+    (the neuroscience upstream plus anything under sources/)."""
     repo_root = Path(repo_root)
+    ws = workspace or discover_workspace(repo_root)
     report = Report()
+
+    # Same module id defined in more than one source: resolution is ambiguous.
+    for mid, srcs in ws.collisions.items():
+        report.add(ERROR, "id-collision",
+                   f"module id defined in multiple sources: {', '.join(srcs)}",
+                   module_id=mid)
+    # Same media filename in two sources: \graphicspath picks one arbitrarily.
+    for name, srcs in ws.media_collisions().items():
+        report.add(WARN, "media-collision",
+                   f"media file '{name}' exists in multiple sources: {', '.join(srcs)}")
 
     refs = collection.module_refs()
     included_ids = collection.module_ids()
@@ -105,9 +111,9 @@ def build_report(
 
     def load(module_id: str) -> Module | None:
         if module_id not in cache:
-            p = _module_path(repo_root, module_id)
+            p = ws.resolve(module_id)
             try:
-                cache[module_id] = parse_module(p, module_id=module_id) if p.exists() else None
+                cache[module_id] = parse_module(p, module_id=module_id) if p else None
             except Exception as exc:  # malformed XML shouldn't crash the whole run
                 cache[module_id] = None
                 report.add(ERROR, "parse-error", f"failed to parse: {exc}", module_id=module_id)
@@ -118,10 +124,10 @@ def build_report(
     # Walk each included module in reading order.
     for ref in refs:
         mid, loc = ref.document, ref.location
-        path = _module_path(repo_root, mid)
-        if not path.exists():
+        path = ws.resolve(mid)
+        if path is None:
             report.add(ERROR, "missing-module",
-                       f"no such module directory modules/{mid}/index.cnxml",
+                       f"no module '{mid}' found in any source (modules/ or sources/*/modules/)",
                        module_id=mid, location=loc)
             continue
 
@@ -165,7 +171,7 @@ def build_report(
                        module_id=mid, location=loc)
 
     if check_orphans:
-        _report_orphans(report, repo_root, referenced_media)
+        _report_orphans(report, ws, referenced_media)
 
     return report
 
@@ -189,19 +195,18 @@ def _check_cross_module_link(report, link, mid, loc, included_ids, load) -> None
                    module_id=mid, location=loc)
 
 
-def _report_orphans(report, repo_root: Path, referenced: set[Path]) -> None:
-    media_dir = repo_root / "media"
-    if not media_dir.is_dir():
-        return
-    for f in sorted(media_dir.iterdir()):
-        if f.name.startswith("."):
-            continue
-        if f.is_file() and f.resolve() not in referenced:
-            report.add(INFO, "orphan-media",
-                       f"media/{f.name} is not referenced by any included module")
+def _report_orphans(report, ws: Workspace, referenced: set[Path]) -> None:
+    for media_dir in ws.media_dirs():
+        for f in sorted(media_dir.iterdir()):
+            if f.name.startswith("."):
+                continue
+            if f.is_file() and f.resolve() not in referenced:
+                rel = f.relative_to(ws.repo_root) if ws.repo_root in f.parents else f
+                report.add(INFO, "orphan-media",
+                           f"{rel} is not referenced by any included module")
 
 
-def print_report(report: Report, collection: Collection) -> None:
+def print_report(report: Report, collection: Collection, workspace: Workspace | None = None) -> None:
     order = {ERROR: 0, WARN: 1, INFO: 2}
     issues = sorted(report.issues, key=lambda i: (order[i.severity], i.category, i.module_id or ""))
 
@@ -209,7 +214,13 @@ def print_report(report: Report, collection: Collection) -> None:
     print(f"  {collection.path}")
     print(f"  modules referenced: {len(collection.module_refs())}  "
           f"(unique: {len(collection.module_ids())})")
-    print(f"  modules parsed:     {report.modules_checked}\n")
+    print(f"  modules parsed:     {report.modules_checked}")
+    if workspace:
+        print("  sources:")
+        for s in workspace.sources:
+            tag = " (upstream)" if s.is_upstream else ""
+            print(f"    - {s.name}{tag}: {len(s.module_ids())} modules")
+    print()
 
     if not issues:
         print("No issues found.\n")
@@ -240,8 +251,9 @@ def main(argv: list[str] | None = None) -> int:
         parser.error(f"collection file not found: {coll_path}")
 
     collection = parse_collection(coll_path)
-    report = build_report(collection, repo_root, check_orphans=args.orphans)
-    print_report(report, collection)
+    workspace = discover_workspace(repo_root)
+    report = build_report(collection, repo_root, check_orphans=args.orphans, workspace=workspace)
+    print_report(report, collection, workspace)
     return 1 if report.error_count else 0
 
 
