@@ -1,22 +1,17 @@
 ---
-name: OpenStax Concepts of Biology
-slug: bio
-origin: https://github.com/openstax/osbooks-biology-bundle
+name: Anatomy and Physiology
+slug: anat
+origin: https://github.com/openstax/osbooks-anatomy-physiology
 upstream_commit: 57251ca
 license: CC BY-NC-SA 4.0
 imported: 2026-07-09
 modules:
-  - bio-m45486
-  - bio-m45487
-  - bio-m45489
-  - bio-m45491
-  - bio-m45493
-  - bio-m45505
+  - anat-m46500
 ---
 
 ## Notes
 
-Chapter 11 (Evolution and the Origin of Species) of *Concepts of Biology*,
-imported to give the reader background on evolutionary mechanisms that the
-neuroscience text assumes. Module directories are prefixed `bio-` so their ids
-stay globally unique; the modules are otherwise unmodified from upstream.
+Section 12.1 (Basic Structure and Function of the Nervous System) of *Anatomy and Physiology*,
+imported to give the reader an anatomical overview of the nervous system as
+background for the neuroscience text. Module directories are prefixed `anat-` so
+their ids stay globally unique; the modules are otherwise unmodified from upstream.
