@@ -63,6 +63,11 @@ cd build && xelatex chapter02.tex && xelatex chapter02.tex
 curly quotes) that pdflatex won't handle.
 
 What the converter does:
+- **Structure** (`report` class): each collection unit → a numbered `\chapter`
+  (so Neurophysiology = Chapter 2, matching the source's figure numbering), each
+  module → a `\section`, module sub-sections → `\subsection`/`\subsubsection`.
+  Standalone top-level modules (Preface, Methods) → unnumbered chapters. In
+  `--modules` mode the given modules are grouped under a single chapter (`--title`).
 - Figure/table **numbers come from the element id** (`Image-2.24` → "Figure 2.24"),
   not LaTeX counters, so numbering matches the source even in a subset. Empty
   `<link target-id=.../>` refs are turned into "Figure 2.16"/"Table 2.24" text.

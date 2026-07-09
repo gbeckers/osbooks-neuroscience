@@ -32,15 +32,15 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from oscompile.collection import parse_collection  # noqa: E402
-from oscompile.latex import LatexConverter, CNXML_NS, MD_NS  # noqa: E402
+from oscompile.collection import parse_collection, Unit, ModuleRef  # noqa: E402
+from oscompile.latex import LatexConverter, heading, CNXML_NS  # noqa: E402
 import xml.etree.ElementTree as ET  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MODULES_DIR = REPO_ROOT / "modules"
 MEDIA_DIR = REPO_ROOT / "media"
 
-PREAMBLE = r"""\documentclass[11pt]{article}
+PREAMBLE = r"""\documentclass[11pt]{report}
 \usepackage{fontspec}
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
@@ -102,17 +102,39 @@ def all_module_titles() -> dict[str, str]:
     return titles
 
 
-def build(module_ids: list[str], title: str, author: str, out_path: Path) -> None:
-    titles = all_module_titles()
-    converter = LatexConverter(module_titles=titles, included_ids=set(module_ids))
+def _render_nodes(nodes, converter: LatexConverter, level: int, stats: Counter) -> str:
+    """Walk the collection tree. A Unit becomes a heading (chapter at level 0);
+    a ModuleRef is converted with its title at the current level. Standalone
+    top-level modules (the Preface, Methods) are unnumbered chapters."""
+    out: list[str] = []
+    for node in nodes:
+        if isinstance(node, Unit):
+            out.append(heading(level, escape_title(node.title)))
+            out.append(_render_nodes(node.content, converter, level + 1, stats))
+        else:  # ModuleRef
+            path = MODULES_DIR / node.document / "index.cnxml"
+            if not path.exists():
+                print(f"  WARN: module {node.document} not found, skipping", file=sys.stderr)
+                continue
+            numbered = level > 0  # top-level standalone modules are unnumbered
+            out.append(converter.convert_module(
+                path, node.document, heading_level=level, numbered=numbered))
+            stats["modules"] += 1
+    return "\n".join(chunk for chunk in out if chunk.strip())
 
-    fragments = []
-    for mid in module_ids:
-        path = MODULES_DIR / mid / "index.cnxml"
-        if not path.exists():
-            print(f"  WARN: module {mid} not found, skipping", file=sys.stderr)
-            continue
-        fragments.append(converter.convert_module(path, mid))
+
+def escape_title(text: str) -> str:
+    # Unit titles are plain strings from the collection metadata.
+    from oscompile.latex import escape
+    return escape(text)
+
+
+def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path) -> None:
+    titles = all_module_titles()
+    converter = LatexConverter(module_titles=titles, included_ids=included_ids)
+
+    stats: Counter = Counter()
+    body = _render_nodes(nodes, converter, level=0, stats=stats)
 
     preamble = PREAMBLE % {
         "mediadir": MEDIA_DIR.as_posix(),
@@ -121,11 +143,11 @@ def build(module_ids: list[str], title: str, author: str, out_path: Path) -> Non
         "date": r"\today",
     }
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(preamble + "\n".join(fragments) + POSTAMBLE, encoding="utf-8")
+    out_path.write_text(preamble + body + POSTAMBLE, encoding="utf-8")
 
     dropped = Counter(converter.dropped)
     print(f"Wrote {out_path}")
-    print(f"  modules: {len(fragments)}   figures/tables labelled: {len(converter.labels)}")
+    print(f"  modules: {stats['modules']}   figures/tables labelled: {len(converter.labels)}")
     if dropped:
         summary = ", ".join(f"{n}x {k}" for k, n in dropped.items())
         print(f"  dropped interactive content: {summary}")
@@ -135,24 +157,27 @@ def build(module_ids: list[str], title: str, author: str, out_path: Path) -> Non
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(description="Build a LaTeX reader from CNXML modules.")
     p.add_argument("collection", nargs="?", help="a *.collection.xml to build in full")
-    p.add_argument("--modules", nargs="+", help="explicit module ids (overrides collection)")
+    p.add_argument("--modules", nargs="+", help="explicit module ids (wrapped in one chapter)")
     p.add_argument("--title", default="Course Reader")
     p.add_argument("--author", default="")
     p.add_argument("--out", default="build/reader.tex", type=Path)
     args = p.parse_args(argv)
 
     if args.modules:
-        module_ids = args.modules
+        # Ad-hoc build: group the given modules under a single chapter.
+        nodes = [Unit(title=args.title, content=[ModuleRef(document=m) for m in args.modules])]
+        included_ids = set(args.modules)
     elif args.collection:
         coll = parse_collection(args.collection)
-        module_ids = [ref.document for ref in coll.module_refs()]
+        nodes = coll.content
+        included_ids = coll.module_ids()
         if args.title == "Course Reader":
             args.title = coll.title
     else:
         p.error("provide a collection file or --modules")
 
     out = args.out if args.out.is_absolute() else REPO_ROOT / args.out
-    build(module_ids, args.title, args.author, out)
+    build(nodes, included_ids, args.title, args.author, out)
     return 0
 
 

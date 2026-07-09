@@ -68,6 +68,29 @@ def escape(text: str) -> str:
     return "".join(out)
 
 
+# Absolute heading levels -> LaTeX sectioning commands (report class).
+# 0 = chapter (a unit), 1 = section (a module), then subsections within a module.
+LEVEL_CMDS = {
+    0: "chapter", 1: "section", 2: "subsection",
+    3: "subsubsection", 4: "paragraph", 5: "subparagraph",
+}
+
+
+def heading(level: int, title: str, numbered: bool = True, label: str | None = None) -> str:
+    """A LaTeX sectioning command at an absolute level.
+
+    Unnumbered headings (used for the standalone Preface / Methods chapters) are
+    still added to the table of contents.
+    """
+    cmd = LEVEL_CMDS.get(level if level <= 5 else 5, "paragraph")
+    out = f"\\{cmd}{'' if numbered else '*'}{{{title}}}\n"
+    if not numbered and cmd in ("chapter", "section"):
+        out += f"\\addcontentsline{{toc}}{{{cmd}}}{{{title}}}\n"
+    if label:
+        out += f"\\label{{{label}}}\n"
+    return out
+
+
 def _number_from_id(el_id: str) -> str:
     """'Image-2.24' -> '2.24', 'Image-2.04.2' -> '2.4.2'."""
     stripped = re.sub(r"^(Image|Figure|Table)-", "", el_id)
@@ -99,7 +122,16 @@ class LatexConverter:
 
     # -- public entry point ------------------------------------------------
 
-    def convert_module(self, path: str | Path, module_id: str) -> str:
+    def convert_module(
+        self,
+        path: str | Path,
+        module_id: str,
+        heading_level: int = 1,
+        numbered: bool = True,
+    ) -> str:
+        """Convert a module. `heading_level` is the absolute level of the module's
+        own title (1 = section, i.e. a module inside a unit-chapter); its internal
+        sections are rendered one level deeper."""
         path = Path(path)
         if path.is_dir():
             path = path / "index.cnxml"
@@ -111,10 +143,10 @@ class LatexConverter:
         title = self._inline(title_el) if title_el is not None else module_id
 
         content = root.find(f"{{{CNXML_NS}}}content")
-        body = self._blocks(content, depth=0) if content is not None else ""
+        body = self._blocks(content, level=heading_level + 1) if content is not None else ""
 
-        # A module is a section of the printed chapter.
-        return f"\\section{{{title}}}\n\\label{{mod:{module_id}}}\n\n{body}\n"
+        head = heading(heading_level, title, numbered, label=f"mod:{module_id}")
+        return f"{head}\n{body}\n"
 
     # -- first pass: id -> Label ------------------------------------------
 
@@ -131,16 +163,16 @@ class LatexConverter:
 
     # -- block-level rendering --------------------------------------------
 
-    def _blocks(self, parent: ET.Element, depth: int) -> str:
+    def _blocks(self, parent: ET.Element, level: int) -> str:
         out: list[str] = []
         for el in parent:
-            out.append(self._block(el, depth))
+            out.append(self._block(el, level))
         return "\n".join(chunk for chunk in out if chunk.strip())
 
-    def _block(self, el: ET.Element, depth: int) -> str:
+    def _block(self, el: ET.Element, level: int) -> str:
         tag = _local(el.tag)
         if tag == "section":
-            return self._section(el, depth)
+            return self._section(el, level)
         if tag == "para":
             return self._inline(el) + "\n"
         if tag == "list":
@@ -150,7 +182,7 @@ class LatexConverter:
         if tag == "table":
             return self._table(el)
         if tag == "note":
-            return self._note(el, depth)
+            return self._note(el, level)
         if tag == "exercise":
             self.dropped.append("exercise")
             return ""  # interactive; dropped
@@ -161,19 +193,17 @@ class LatexConverter:
         # Fallback: try inline so we don't lose text.
         return self._inline(el)
 
-    def _section(self, el: ET.Element, depth: int) -> str:
+    def _section(self, el: ET.Element, level: int) -> str:
         title_el = el.find(f"{{{CNXML_NS}}}title")
         title = self._inline(title_el) if title_el is not None else ""
         cls = el.get("class", "")
 
         if cls == "learning-objectives":
-            inner = self._blocks(el, depth + 1)
-            # Strip the auto-added heading; present as a labelled box.
+            inner = self._blocks(el, level + 1)
+            # Present as a labelled box rather than a numbered heading.
             return ("\\begin{objectives}\n" + inner + "\n\\end{objectives}\n")
 
-        cmd = {0: "subsection", 1: "subsubsection"}.get(depth, "paragraph")
-        head = f"\\{cmd}{{{title}}}\n"
-        return head + self._blocks(el, depth + 1)
+        return heading(level, title) + self._blocks(el, level + 1)
 
     def _list(self, el: ET.Element) -> str:
         env = "enumerate" if el.get("list-type") == "enumerated" else "itemize"
@@ -247,7 +277,7 @@ class LatexConverter:
         lines += ["  \\end{tabularx}", "\\par\\medskip"]
         return "\n".join(lines) + "\n"
 
-    def _note(self, el: ET.Element, depth: int) -> str:
+    def _note(self, el: ET.Element, level: int) -> str:
         cls = el.get("class", "boxed-feature")
         header = NOTE_LABELS.get(cls, "")
         title_el = el.find(f"{{{CNXML_NS}}}title")
@@ -259,7 +289,7 @@ class LatexConverter:
         for child in el:
             if _local(child.tag) == "title":
                 continue
-            inner_parts.append(self._block(child, depth + 1))
+            inner_parts.append(self._block(child, level + 1))
         inner = "\n".join(p for p in inner_parts if p.strip())
         if not inner.strip():
             return ""  # e.g. author-video note with only an iframe
