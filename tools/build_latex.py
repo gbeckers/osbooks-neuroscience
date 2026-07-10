@@ -228,8 +228,8 @@ def main(argv: list[str] | None = None) -> int:
                    help="page size (default: a4; students print on A4)")
     p.add_argument("--fontsize", choices=["10", "11", "12"], default="10",
                    help="base font size in pt (default: 10; report supports 10/11/12 only)")
-    p.add_argument("--margin", default="2cm",
-                   help="page margin, any LaTeX length (default: 2cm)")
+    p.add_argument("--margin", default="1in",
+                   help="page margin, any LaTeX length (default: 1in)")
     p.add_argument("--no-appendix", dest="appendix", action="store_false",
                    help="omit the auto-generated provenance & attribution appendix")
     args = p.parse_args(argv)
