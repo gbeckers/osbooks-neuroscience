@@ -108,6 +108,16 @@ _MATH_FUNCS = frozenset(
 )
 
 
+def _is_prose_mtext(el: ET.Element) -> bool:
+    """True for a multi-word <m:mtext> connective (e.g. "is equivalent to") -- a
+    phrase, not a single symbol/word/function name. Used to decide where OpenStax
+    breaks a display equation onto two lines."""
+    # Words may be joined by regular or non-breaking (U+00A0) spaces; both are
+    # whitespace to str.isspace(), so any internal space means a multi-word phrase.
+    text = (el.text or "").strip()
+    return any(ch.isspace() for ch in text) and text not in _MATH_FUNCS
+
+
 # Absolute heading levels -> LaTeX sectioning commands (report class).
 # 0 = chapter (a unit), 1 = section (a module), then subsections within a module.
 LEVEL_CMDS = {
@@ -533,6 +543,17 @@ class LatexConverter:
             # inline "$...$"; give it its own display block so the alignment shows.
             if el.find(f".//{{{MATHML_NS}}}mtable") is not None:
                 return f"\\[{inner}\\]"
+            # A display equation with an embedded prose connective ("y = log(x)
+            # is equivalent to 10^y = x") is broken at that phrase in the OpenStax
+            # book: the words end one line, the next expression starts a new one.
+            # Reproduce it with a broken display (\\ after the phrase).
+            if any(_is_prose_mtext(m) for m in el.iter(f"{{{MATHML_NS}}}mtext")):
+                self._math_linebreak = True
+                broken = self._mathml(el).strip()
+                self._math_linebreak = False
+                while broken.endswith("\\"):   # no dangling row after a trailing phrase
+                    broken = broken[:-1].rstrip()
+                return f"\\[\\begin{{gathered}}\n{broken}\n\\end{{gathered}}\\]"
             return f"${inner}$"
         if tag in ("title", "caption", "entry", "item", "para"):
             return self._inline(el)
@@ -619,7 +640,12 @@ class LatexConverter:
             # anything else is prose, kept upright via \text{} (amsmath), spaces and all.
             if text.strip() in _MATH_FUNCS:
                 return f"\\{text.strip()} "
-            return f"\\text{{{_escape_plain(text)}}}"
+            rendered = f"\\text{{{_escape_plain(text)}}}"
+            # In a broken display equation, a prose connective ends its line so the
+            # following expression drops to the next (see the math handler).
+            if getattr(self, "_math_linebreak", False) and _is_prose_mtext(el):
+                return f"{rendered} \\\\\n"
+            return rendered
         if tag == "mspace":
             return "\\;"
         if tag == "mfrac" and len(kids) == 2:
