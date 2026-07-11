@@ -1,17 +1,17 @@
 ---
-name: Anatomy and Physiology
-slug: anat
-origin: https://github.com/openstax/osbooks-anatomy-physiology
-upstream_commit: 57251ca
+name: College Algebra 2e
+slug: alg
+origin: https://github.com/openstax/osbooks-college-algebra-bundle
+upstream_commit: 789b540
 license: CC BY-NC-SA 4.0
-imported: 2026-07-09
+imported: 2026-07-10
 modules:
-  - anat-m46500
+  - alg-m49363
 ---
 
 ## Notes
 
-Section 12.1 (Basic Structure and Function of the Nervous System) of *Anatomy and Physiology*,
-imported to give the reader an anatomical overview of the nervous system as
-background for the neuroscience text. Module directories are prefixed `anat-` so
-their ids stay globally unique; the modules are otherwise unmodified from upstream.
+Section 6.3 (Logarithmic Functions) of *College Algebra 2e*, imported to give the 
+readers who don't know how logarithms work the chance to fix this. Module directories 
+are prefixed `alg-` so their ids stay globally unique; the modules are otherwise 
+unmodified from upstream.
