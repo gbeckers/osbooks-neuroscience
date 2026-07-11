@@ -253,6 +253,8 @@ class LatexConverter:
             return self._table(el, in_box)
         if tag == "note":
             return self._note(el, level)
+        if tag == "example":
+            return self._example(el, level, in_box)
         if tag == "exercise":
             return self._exercise(el, level, in_box)
         if tag in ("quote",):
@@ -415,6 +417,35 @@ class LatexConverter:
                 out.append(f"\\par\\nopagebreak\\noindent{{\\small\\emph{{Answer.}} {sol}}}")
         out.append("\\par\\smallskip")
         return "\n".join(out)
+
+    def _example(self, el: ET.Element, level: int, in_box: bool) -> str:
+        """A worked <example>: render as a box (like the Try It notes) titled from
+        the problem's <title>. The web version hides the solution behind a
+        [Show/Hide Solution] toggle; a static PDF can't do that, so -- this being a
+        printed, non-exam background reader -- we just show the worked solution.
+
+        Examples in this book always wrap a single <exercise> (problem + solution);
+        rendered directly here rather than via _exercise() so they are not swept
+        into the running exercise numbering or labelled "Answer.".
+        """
+        problem = el.find(f".//{{{CNXML_NS}}}problem")
+        solution = el.find(f".//{{{CNXML_NS}}}solution")
+        title_el = problem.find(f"{{{CNXML_NS}}}title") if problem is not None else None
+        title = self._inline(title_el) if title_el is not None else ""
+        head = ": ".join(p for p in ("Example", title) if p)
+
+        parts = []
+        if problem is not None:
+            # _blocks skips the <title> (handled above) and renders the rest.
+            parts.append(self._blocks(problem, level + 1, in_box=True).strip())
+        if solution is not None:
+            sol = self._blocks(solution, level + 1, in_box=True).strip()
+            if sol:
+                parts.append("\\par\\smallskip\\noindent\\textbf{Solution.}\\par\n" + sol)
+        inner = "\n".join(p for p in parts if p.strip())
+        if not inner.strip():
+            return ""
+        return f"\\begin{{featurebox}}{{{head}}}\n" + inner + "\n\\end{featurebox}\n"
 
     def _note(self, el: ET.Element, level: int) -> str:
         cls = el.get("class", "boxed-feature")
