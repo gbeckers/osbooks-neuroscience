@@ -62,6 +62,15 @@ def _escape_plain(text: str) -> str:
     return "".join(_SPECIALS.get(ch, ch) for ch in text)
 
 
+def url_arg(url: str) -> str:
+    r"""A URL made safe as the argument of \url{}. On its own \url handles a bare
+    "#", but when the \url sits inside another macro's braces (e.g. a reference
+    footnote) the "#" is read as a parameter token -> hyperref "Illegal parameter
+    number in \Hy@tempa". Escaping it to \# renders identically and survives both
+    contexts."""
+    return url.replace("#", r"\#")
+
+
 def escape(text: str) -> str:
     """Escape LaTeX specials in a run of text (Unicode is left for xelatex).
 
@@ -83,7 +92,7 @@ def escape(text: str) -> str:
             trail = url[-1] + trail
             url = url[:-1]
         out.append(_escape_plain(text[last:m.start()]))
-        out.append(f"\\url{{{url}}}" if url else "")
+        out.append(f"\\url{{{url_arg(url)}}}" if url else "")
         out.append(_escape_plain(trail))
         last = m.end()
     out.append(_escape_plain(text[last:]))
@@ -454,7 +463,11 @@ class LatexConverter:
         if tag == "media":
             return self._inline_media(el)
         if tag == "math":  # MathML (m:math)
-            return f"${self._mathml(el)}$"
+            inner = self._mathml(el)
+            # An empty <m:math/> would emit "$$", which TeX reads as a display-math
+            # delimiter and mismatches against the next real "$...$" ("Display math
+            # should end with $$"). Drop it instead.
+            return f"${inner}$" if inner.strip() else ""
         if tag in ("title", "caption", "entry", "item", "para"):
             return self._inline(el)
         return self._inline(el)  # unknown inline: keep its text
@@ -490,8 +503,8 @@ class LatexConverter:
         if url:  # external web link
             inner = self._inline(el)
             if inner:
-                return f"{inner}\\footnote{{\\url{{{url}}}}}"
-            return f"\\url{{{url}}}"
+                return f"{inner}\\footnote{{\\url{{{url_arg(url)}}}}}"
+            return f"\\url{{{url_arg(url)}}}"
         return self._inline(el)
 
     def _fig_ref(self, target: str) -> str:

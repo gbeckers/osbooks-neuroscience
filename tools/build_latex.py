@@ -90,10 +90,26 @@ PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt]{report}
 \newunicodechar{Γ}{\ensuremath{\Gamma}}
 \newunicodechar{⋅}{\ensuremath{\cdot}}
 \newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{⇔}{\ensuremath{\Leftrightarrow}}
+\newunicodechar{−}{\ensuremath{-}}   % U+2212 MINUS SIGN (not the ASCII hyphen)
+\newunicodechar{≠}{\ensuremath{\neq}}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{∞}{\ensuremath{\infty}}
 \newunicodechar{׳}{'}   % Hebrew geresh used as an apostrophe in a reference
 \newunicodechar{⅔}{2/3}
 \newunicodechar{⅓}{1/3}
 \newunicodechar{½}{1/2}
+% Circled letters (U+24D0-) label exercise sub-parts in the algebra source; no
+% text font carries them, so draw the circle ourselves. Font-independent.
+\newcommand{\circledlabel}[1]{\textcircled{\scriptsize #1}}
+\newunicodechar{ⓐ}{\circledlabel{a}}
+\newunicodechar{ⓑ}{\circledlabel{b}}
+\newunicodechar{ⓒ}{\circledlabel{c}}
+\newunicodechar{ⓓ}{\circledlabel{d}}
+\newunicodechar{ⓔ}{\circledlabel{e}}
+\newunicodechar{ⓕ}{\circledlabel{f}}
+\newunicodechar{ⓖ}{\circledlabel{g}}
+\newunicodechar{ⓗ}{\circledlabel{h}}
 
 \graphicspath{@@GRAPHICSPATH@@}
 \captionsetup{labelformat=empty}
