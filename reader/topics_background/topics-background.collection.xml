@@ -18,5 +18,14 @@
         <col:module document="alg-adapt-m49363"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Evolution</md:title>
+      <col:content>
+        <col:module document="bio-m45486"/>
+        <col:module document="bio-adapt-m45487"/>
+        <col:module document="bio-adapt-m45489"/>
+        <col:module document="bio-adapt-m45493"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>

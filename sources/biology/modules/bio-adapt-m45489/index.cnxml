@@ -48,61 +48,7 @@
 <section id="fs-idp81741344" class="summary">
 <title>Section Summary</title><para id="fs-idp110686464">There are four factors that can change the allele frequencies of a population. Natural selection works by selecting for alleles that confer beneficial traits or behaviors, while selecting against those for deleterious qualities. Mutations introduce new alleles into a population. Genetic drift stems from the chance occurrence that some individuals have more offspring than others and results in changes in allele frequencies that are random in direction. When individuals leave or join the population, allele frequencies can change as a result of gene flow.</para>
 </section>
-<section id="fs-idm70039600" class="visual-exercise">
-<title>Art Connections</title>
-<exercise id="fs-idp91665504">
-<problem id="fs-idm46767968">
-<para id="fs-idp114687152"><link target-id="fig-ch11_02_01"/> Do you think genetic drift would happen more quickly on an island or on the mainland?</para>
-</problem>
-<solution id="fs-idm204581024">
-<label/>
-<para id="fs-idm153841232"><link target-id="fig-ch11_02_01"/> Genetic drift is likely to occur more rapidly on an island, where smaller populations are expected to occur.</para>
-</solution>
-</exercise>
-</section>
-<section id="fs-idm130496032" class="multiple-choice">
-<title>Multiple Choice</title>
-<exercise id="fs-idm24893808">
-<problem id="fs-idp82307072"><para id="fs-idp82307200">Galápagos medium ground finches are found on Santa Cruz and San Cristóbal islands, which are separated by about 100 km of ocean. Occasionally, individuals from either island fly to the other island to stay. This can alter the allele frequencies of the population through which of the following mechanisms?</para>
-<list id="fs-idm132345040" list-type="enumerated" number-style="lower-alpha">
-<item>natural selection</item>
-<item>genetic drift</item>
-<item>gene flow</item>
-<item>mutation</item>
-</list>
-</problem>
-<solution id="fs-idm131579056">
-<label/>
-<para id="fs-idm102104928">C</para>
-</solution>
-</exercise>
-<exercise id="fs-idp131960624">
-<problem id="fs-idm6582368"><para id="fs-idm27030688">In which of the following pairs do both evolutionary processes introduce new genetic variation into a population?</para>
-<list id="fs-idm134706816" list-type="enumerated" number-style="lower-alpha">
-<item>natural selection and genetic drift</item>
-<item>mutation and gene flow</item>
-<item>natural selection and gene flow</item>
-<item>gene flow and genetic drift</item>
-</list>
-</problem>
-<solution id="fs-idp68319552">
-<label/>
-<para id="fs-idm12126288">B</para>
-</solution>
-</exercise>
-</section>
-<section id="fs-idm113419440" class="critical-thinking">
-<title>Free Response</title>
-<exercise id="fs-idm145648656">
-<problem id="fs-idm96945888">
-<para id="fs-idm32516688">Describe natural selection and give an example of natural selection at work in a population.</para>
-</problem>
-<solution id="fs-idp19896688">
-<label/>
-<para id="fs-idm61550464">The theory of natural selection stems from the observation that some individuals in a population survive longer and have more offspring than others, thus passing on more of their genes to the next generation. For example, a big, powerful male gorilla is much more likely than a smaller, weaker gorilla to become the population’s silverback, the pack’s leader who mates far more than the other males of the group. The pack leader will, therefore, father more offspring, who share half of his genes, and are thus likely to also grow bigger and stronger like their father. Over time, the genes for bigger size will increase in frequency in the population, and the population will, as a result, grow larger on average.</para>
-</solution>
-</exercise>
-</section>
+
  </content>
 <glossary>
 <definition id="fs-idm16697888"><term>bottleneck effect</term> <meaning id="fs-idp11327696">the magnification of genetic drift as a result of natural events or catastrophes</meaning></definition>

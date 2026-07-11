@@ -61,64 +61,7 @@
 <section id="fs-idm50984544" class="summary">
 <title>Section Summary</title><para id="fs-idm178622976">Speciation occurs along two main pathways: geographic separation (allopatric speciation) and through mechanisms that occur within a shared habitat (sympatric speciation). Both pathways force reproductive isolation between populations. Sympatric speciation can occur through errors in meiosis that form gametes with extra chromosomes, called polyploidy. Autopolyploidy occurs within a single species, whereas allopolyploidy occurs because of a mating between closely related species. Once the populations are isolated, evolutionary divergence can take place leading to the evolution of reproductive isolating traits that prevent interbreeding should the two populations come together again. The reduced viability of hybrid offspring after a period of isolation is expected to select for stronger inherent isolating mechanisms.</para>
 </section>
-<section id="fs-idm180229328" class="multiple-choice">
-<title>Multiple Choice</title>
-<exercise id="fs-idm189571824">
-<problem id="fs-idm330516560"><para id="fs-idm330516432">Which situation would most likely lead to allopatric speciation?</para>
-<list id="fs-idm231506848" list-type="enumerated" number-style="lower-alpha"><item>A flood causes the formation of a new lake.</item>
-<item>A storm causes several large trees to fall down.</item>
-<item>A mutation causes a new trait to develop.</item>
-<item>An injury causes an organism to seek out a new food source.</item>
-</list></problem>
-<solution id="fs-idm216970560">
-<label/>
-<para id="fs-idm158646048">A</para>
-</solution>
-</exercise>
-<exercise id="fs-idm65666576">
-<problem id="fs-idm77802848"><para id="fs-idm74053168">What is the main difference between dispersal and vicariance?</para>
-<list id="fs-idp9685744" list-type="enumerated" number-style="lower-alpha">
-<item>One leads to allopatric speciation, whereas the other leads to sympatric speciation.</item>
-<item>One involves the movement of the organism, whereas the other involves a change in the environment.</item>
-<item>One depends on a genetic mutation occurring, whereas the other does not.</item>
-<item>One involves closely related organisms, whereas the other involves only individuals of the same species.</item>
-</list>
-</problem>
-<solution id="fs-idm301055984">
-<label/>
-<para id="fs-idm38388752">B</para>
-</solution>
-</exercise>
-<exercise id="fs-idm47994480">
-<problem id="fs-idm105939392"><para id="fs-idm400648768">Which variable increases the likelihood of allopatric speciation taking place more quickly?</para>
-<list id="fs-idm251368944" list-type="enumerated" number-style="lower-alpha">
-<item>lower rate of mutation</item>
-<item>longer distance between divided groups</item>
-<item>increased instances of hybrid formation</item>
-<item>equivalent numbers of individuals in each population</item>
-</list>
-</problem>
-<solution id="fs-idm140517936">
-<label/>
-<para id="fs-idm327425920">B</para>
-</solution>
-</exercise>
-</section>
-<section id="fs-idm260808096" class="critical-thinking">
-<title>Free Response</title>
-<exercise id="fs-idm184697776">
-<problem id="fs-idm173335072"><para id="fs-idm189646080">Why do island chains provide ideal conditions for adaptive radiation to occur?</para></problem>
-<solution id="fs-idm54735440"><label/>
-<para id="fs-idm178455056">Organisms of one species can arrive to an island together and then disperse throughout the chain, each settling into different niches, exploiting different food resources and, evolving independently with little gene flow between different islands.</para>
-</solution>
-</exercise>
-<exercise id="fs-idm98052064">
-<problem id="fs-idm139229504"><para id="fs-idm92132640">Two species of fish had recently undergone sympatric speciation. The males of each species had a different coloring through which females could identify and choose a partner from her own species. After some time, pollution made the lake so cloudy it was hard for females to distinguish colors. What might take place in this situation?</para></problem>
-<solution id="fs-idm170960048"><label/>
-<para id="fs-idm288680704">It is likely the two species would start to reproduce with each other if hybridization is still possible. Depending on the viability of their offspring, they may fuse back into one species.</para>
-</solution>
-</exercise>
-</section>
+
  </content>
 <glossary>
 <definition id="fs-idm190796928"><term>adaptive radiation</term> <meaning id="fs-idp2308848">a speciation when one species radiates out to form several other species</meaning></definition>

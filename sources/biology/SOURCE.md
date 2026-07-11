@@ -7,10 +7,10 @@ license: CC BY-NC-SA 4.0
 imported: 2026-07-09
 modules:
   - bio-m45486
-  - bio-m45487
-  - bio-m45489
+  - bio-adapt-m45487
+  - bio-adapts-m45489
   - bio-m45491
-  - bio-m45493
+  - bio-adaptm45493
   - bio-m45505
 ---
 
