@@ -5,8 +5,8 @@
 ## Sources:
 
 - https://github.com/openstax/osbooks-neuroscience/tree/main (2026-07-09; commit 6164a76)
-  - included modules m00026, m00021alt, m00022, m00023, m00024
-  - m00021alt is based on m00021, but excludes section on histology techniques
+  - included modules m00026, neuro-adap-m00021, m00022, m00023, m00024
+  - neuro-adap-m00021 is based on m00021, but excludes section on histology techniques
 
 ## 
 

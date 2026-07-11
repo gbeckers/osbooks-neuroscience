@@ -247,6 +247,8 @@ class LatexConverter:
             return self._list(el)
         if tag == "figure":
             return self._figure(el)
+        if tag == "media":
+            return self._block_media(el)
         if tag == "table":
             return self._table(el, in_box)
         if tag == "note":
@@ -297,6 +299,29 @@ class LatexConverter:
         rendered = ["  \\item " + self._inline(item) for item in items]
         return begin + "\n" + "\n".join(rendered) + f"\n\\end{{{env}}}\n"
 
+    def _graphic(self, img: ET.Element | None) -> str:
+        """A centered \\includegraphics for a CNXML <image>, or "" if absent.
+        Path is relative to the module dir; the driver sets \\graphicspath."""
+        if img is None or not img.get("src"):
+            return ""
+        src = Path(img.get("src")).name
+        return (f"  \\includegraphics[width=\\linewidth,"
+                f"height=0.5\\textheight,keepaspectratio]{{{src}}}\n")
+
+    def _block_media(self, el: ET.Element) -> str:
+        """A block-level <media> that is NOT wrapped in a <figure> -- an
+        explanatory diagram with no number/caption (the algebra module uses these
+        for its arrow diagrams and blank plot grids). Without this the element
+        falls through to inline rendering, where <image> has no handler and the
+        picture is silently dropped. Center it like a figure; drop video iframes."""
+        if el.find(f"{{{CNXML_NS}}}iframe") is not None:
+            self.dropped.append("iframe")
+            return ""
+        graphic = self._graphic(el.find(f".//{{{CNXML_NS}}}image"))
+        if not graphic:
+            return ""
+        return "\\par\\medskip\n{\\centering\n" + graphic + "\\par}\n\\medskip\n"
+
     def _figure(self, el: ET.Element) -> str:
         el_id = el.get("id", "")
         number = self.labels.get(el_id, Label("figure", _number_from_id(el_id))).number
@@ -306,12 +331,7 @@ class LatexConverter:
         caption_el = el.find(f"{{{CNXML_NS}}}caption")
 
         img = el.find(f".//{{{CNXML_NS}}}image")
-        graphic = ""
-        if img is not None and img.get("src"):
-            # Path is relative to the module dir; the driver sets \graphicspath.
-            src = Path(img.get("src")).name
-            graphic = (f"  \\includegraphics[width=\\linewidth,"
-                       f"height=0.5\\textheight,keepaspectratio]{{{src}}}\n")
+        graphic = self._graphic(img)
 
         cap_parts = []
         if is_numbered:

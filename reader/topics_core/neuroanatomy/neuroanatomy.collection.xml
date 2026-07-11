@@ -10,12 +10,13 @@
       <md:title>Structure and Function of the Nervous System: Cells and Anatomy</md:title>
       <col:content>
         <col:module document="m00026"/>
-        <col:module document="m00021alt"/>
+        <col:module document="neuro-adap-m00021"/>
         <col:module document="anat-m46500"/>
         <col:module document="m00022"/>
         <col:module document="m00023"/>
         <col:module document="m00024"/>
         <col:module document="m00025"/>
+        <col:module document="alg-m49363"/>
       </col:content>
     </col:subcollection>
   </col:content>
