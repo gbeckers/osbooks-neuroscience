@@ -203,7 +203,10 @@ class LatexConverter:
         sections are rendered one level deeper."""
         path = Path(path)
         if path.is_dir():
-            path = path / "index.cnxml"
+            cnxml = path / "index.cnxml"
+            path = cnxml if cnxml.exists() else path / "index.tex"
+        if path.suffix == ".tex":
+            return self._convert_tex_module(path, module_id, heading_level, numbered)
         root = ET.parse(path).getroot()
 
         self._index_labels(root)
@@ -220,6 +223,25 @@ class LatexConverter:
         body = self._blocks(content, level=heading_level + 1) if content is not None else ""
 
         head = heading(heading_level, title, numbered, label=f"mod:{module_id}")
+        return f"{head}\n{body}\n"
+
+    def _convert_tex_module(
+        self, path: Path, module_id: str, heading_level: int, numbered: bool
+    ) -> str:
+        """A course-authored section written as raw LaTeX (see sources/README.md).
+        An optional first-line `% title: ...` comment gives the section title; the
+        rest of the file is injected verbatim. The builder -- not the author --
+        emits the heading, so the section's level and numbering match the OpenStax
+        modules around it."""
+        lines = path.read_text(encoding="utf-8").splitlines()
+        title = module_id
+        if lines and lines[0].lstrip().startswith("%"):
+            comment = lines[0].lstrip()[1:].strip()
+            if comment.lower().startswith("title:"):
+                title = comment[len("title:"):].strip()
+                lines = lines[1:]
+        body = "\n".join(lines).strip()
+        head = heading(heading_level, escape(title), numbered, label=f"mod:{module_id}")
         return f"{head}\n{body}\n"
 
     # -- first pass: id -> Label ------------------------------------------

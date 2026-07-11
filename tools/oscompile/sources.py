@@ -21,6 +21,17 @@ from pathlib import Path
 from .collection import parse_collection
 
 
+def module_file(module_dir: Path) -> Path | None:
+    """The source file inside a module directory: an OpenStax `index.cnxml`, or a
+    course-authored `index.tex` (raw LaTeX injected verbatim -- see
+    sources/README.md). CNXML wins if, somehow, both are present."""
+    for name in ("index.cnxml", "index.tex"):
+        f = module_dir / name
+        if f.exists():
+            return f
+    return None
+
+
 @dataclass
 class Source:
     """One content origin: the upstream neuroscience book, or a sources/<name> dir."""
@@ -40,7 +51,7 @@ class Source:
             return []
         return sorted(
             d.name for d in self.modules_dir.iterdir()
-            if d.is_dir() and (d / "index.cnxml").exists()
+            if d.is_dir() and module_file(d) is not None
         )
 
 
@@ -164,7 +175,9 @@ def discover_workspace(repo_root: str | Path) -> Workspace:
     collisions: dict[str, list[str]] = {}
     for src in sources:
         for mid in src.module_ids():
-            path = src.modules_dir / mid / "index.cnxml"
+            path = module_file(src.modules_dir / mid)
+            if path is None:
+                continue
             if mid in index:
                 collisions.setdefault(mid, [index[mid][0].name]).append(src.name)
             else:

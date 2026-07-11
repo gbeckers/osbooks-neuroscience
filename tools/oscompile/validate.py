@@ -112,11 +112,15 @@ def build_report(
     def load(module_id: str) -> Module | None:
         if module_id not in cache:
             p = ws.resolve(module_id)
-            try:
-                cache[module_id] = parse_module(p, module_id=module_id) if p else None
-            except Exception as exc:  # malformed XML shouldn't crash the whole run
+            if p is not None and p.suffix == ".tex":
+                # Course-authored raw-LaTeX section: no CNXML to validate.
                 cache[module_id] = None
-                report.add(ERROR, "parse-error", f"failed to parse: {exc}", module_id=module_id)
+            else:
+                try:
+                    cache[module_id] = parse_module(p, module_id=module_id) if p else None
+                except Exception as exc:  # malformed XML shouldn't crash the whole run
+                    cache[module_id] = None
+                    report.add(ERROR, "parse-error", f"failed to parse: {exc}", module_id=module_id)
         return cache[module_id]
 
     referenced_media: set[Path] = set()

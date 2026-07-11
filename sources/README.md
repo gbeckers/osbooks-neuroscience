@@ -31,6 +31,38 @@ The prefix makes every id globally unique *and* advertises its origin. The cours
 collection in `reader/` then just references the unique id
 (`<col:module document="evo-m00012"/>`).
 
+## Authored LaTeX sections (`index.tex`)
+
+OpenStax modules are CNXML, but CNXML is awkward to write by hand. For **your own**
+short sections, a module directory may instead hold an **`index.tex`** — raw LaTeX
+that the builder injects verbatim. (A directory with both files uses the CNXML.)
+
+```
+sources/authored/modules/authored-ions/index.tex
+```
+
+```latex
+% title: Ions
+An atom is normally electrically neutral…
+\subsection{Cations and anions}
+When an atom loses an electron…
+\begin{itemize}
+  \item Sodium (Na$^{+}$)…
+\end{itemize}
+```
+
+- The optional first-line `% title: …` comment sets the section title. The
+  **builder** emits the heading (`\section{…}` and a `\label{mod:<id>}`) at the
+  right level, so numbering matches the OpenStax modules around it — write only the
+  body, starting at `\subsection` for any internal structure.
+- Everything else is plain LaTeX; the reader preamble already loads `amsmath`,
+  `graphicx`, `enumitem`, `hyperref`, etc. Use `$…$` for math.
+- Reference the id from a reader collection like any module
+  (`<col:module document="authored-ions"/>`). `validate.py` skips CNXML checks for
+  `.tex` modules (no image/xref validation — you manage those yourself).
+
+See `sources/authored/` for a working example.
+
 ## SOURCE.md
 
 Every source directory needs a `SOURCE.md` (copy `SOURCE.template.md`). It pins
