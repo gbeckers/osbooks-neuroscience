@@ -13,10 +13,10 @@
 ## Build and compile document
 
 ```sh
-python3 tools/validate.py reader/topics/neuroanatomy/neuroanatomy.collection.xml
-python3 tools/build_latex.py reader/topics/neuroanatomy/neuroanatomy.collection.xml \
+python3 tools/validate.py reader/topics_core/neuroanatomy/neuroanatomy.collection.xml
+python3 tools/build_latex.py reader/topics_core/neuroanatomy/neuroanatomy.collection.xml \
 --margin="1in" \
---out build/topics/neuroanatomy/neuroanatomy.tex
-cd build/topics/neuroanatomy && xelatex neuroanatomy.tex && xelatex neuroanatomy.tex
-
+--out build/topics_core/neuroanatomy/neuroanatomy.tex
+cd build/topics_core/neuroanatomy && xelatex neuroanatomy.tex && xelatex neuroanatomy.tex
+cd ../..
 ```

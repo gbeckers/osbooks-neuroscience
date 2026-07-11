@@ -10,12 +10,19 @@
       <md:title>Chemistry</md:title>
       <col:content>
         <col:module document="anat-adapt-m45998"/>
+        <col:module document="authored-ions"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Math</md:title>
       <col:content>
         <col:module document="alg-adapt-m49363"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cell Biology</md:title>
+      <col:content>
+        <col:module document="neuro-adap-m00021a"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
