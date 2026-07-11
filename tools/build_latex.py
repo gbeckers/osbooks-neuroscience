@@ -43,6 +43,7 @@ PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt]{report}
 \usepackage{fontspec}
 \usepackage[@@PAPER@@paper,margin=@@MARGIN@@]{geometry}
 \usepackage{graphicx}
+\usepackage{amsmath}   % \text{...} for MathML <m:mtext> (words inside equations)
 \usepackage{tabularx}
 \usepackage{xltabular}   % longtable + X columns: wide tables break across pages
 \usepackage{array}

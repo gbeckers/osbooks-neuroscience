@@ -99,6 +99,15 @@ def escape(text: str) -> str:
     return "".join(out)
 
 
+# MathML <mi>/<mtext> identifiers that are standard functions: render as the
+# upright LaTeX operator (\log) instead of italic juxtaposed letters ("l o g").
+_MATH_FUNCS = frozenset(
+    "sin cos tan cot sec csc sinh cosh tanh coth arcsin arccos arctan "
+    "log ln lg exp lim limsup liminf max min sup inf det gcd hom ker "
+    "deg dim arg Pr".split()
+)
+
+
 # Absolute heading levels -> LaTeX sectioning commands (report class).
 # 0 = chapter (a unit), 1 = section (a module), then subsections within a module.
 LEVEL_CMDS = {
@@ -518,7 +527,13 @@ class LatexConverter:
             # An empty <m:math/> would emit "$$", which TeX reads as a display-math
             # delimiter and mismatches against the next real "$...$" ("Display math
             # should end with $$"). Drop it instead.
-            return f"${inner}$" if inner.strip() else ""
+            if not inner.strip():
+                return ""
+            # A multi-line derivation (<m:mtable> -> \begin{aligned}) can't sit in
+            # inline "$...$"; give it its own display block so the alignment shows.
+            if el.find(f".//{{{MATHML_NS}}}mtable") is not None:
+                return f"\\[{inner}\\]"
+            return f"${inner}$"
         if tag in ("title", "caption", "entry", "item", "para"):
             return self._inline(el)
         return self._inline(el)  # unknown inline: keep its text
@@ -584,7 +599,29 @@ class LatexConverter:
         if tag in ("math", "mrow"):
             return "".join(self._mathml(k) for k in kids)
         if tag in ("mi", "mn", "mo"):
-            return (el.text or "").strip()
+            text = el.text or ""
+            # An identifier that is really a function name (log, ln, sin, ...) must
+            # be upright with proper spacing -- \log, not an italic "l o g".
+            if tag == "mi" and text.strip() in _MATH_FUNCS:
+                return f"\\{text.strip()} "
+            # A whitespace-only operator (e.g. <m:mo> </m:mo>) is intentional
+            # spacing between atoms; stripping it to "" glues neighbours together
+            # ("and"+"x" -> "andx"). Keep it as a math space.
+            return text.strip() or ("\\ " if text else "")
+        if tag == "mtext":
+            # A run of words *inside* an equation (e.g. "is equivalent to", "and").
+            # Without this it falls through to the join-children branch, which
+            # returns "" for a text-only node -> the words silently vanish.
+            text = el.text or ""
+            if not text.strip():
+                return ""
+            # A lone function name gets the upright operator (matches <mi>log</mi>);
+            # anything else is prose, kept upright via \text{} (amsmath), spaces and all.
+            if text.strip() in _MATH_FUNCS:
+                return f"\\{text.strip()} "
+            return f"\\text{{{_escape_plain(text)}}}"
+        if tag == "mspace":
+            return "\\;"
         if tag == "mfrac" and len(kids) == 2:
             return f"\\frac{{{self._mathml(kids[0])}}}{{{self._mathml(kids[1])}}}"
         if tag == "msup" and len(kids) == 2:
@@ -593,4 +630,20 @@ class LatexConverter:
             return f"{{{self._mathml(kids[0])}}}_{{{self._mathml(kids[1])}}}"
         if tag == "msqrt":
             return f"\\sqrt{{{''.join(self._mathml(k) for k in kids)}}}"
+        if tag == "mtable":
+            # A grid of aligned equations (worked derivations). Map to amsmath's
+            # aligned: cells joined by "&", rows by "\\". Alignment points land on
+            # the "&" the source puts before each "=", so steps line up as in print.
+            rows = [self._mathml(r) for r in kids if _local(r.tag) == "mtr"]
+            body = " \\\\\n".join(r for r in rows if r.strip())
+            return f"\\begin{{aligned}}\n{body}\n\\end{{aligned}}" if body else ""
+        if tag == "mtr":  # one row: its <mtd> cells, tab-separated
+            return " & ".join(self._mathml(c) for c in kids if _local(c.tag) == "mtd")
+        if tag == "mtd":  # one cell
+            cell = "".join(self._mathml(k) for k in kids)
+            # A trailing prose "reason" column (\text{...}) sits flush against the
+            # equation; give it breathing room so it reads as a side note.
+            if cell.lstrip().startswith("\\text"):
+                return f"\\qquad {cell.lstrip()}"
+            return cell
         return "".join(self._mathml(k) for k in kids)
