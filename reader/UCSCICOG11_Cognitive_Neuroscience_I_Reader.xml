@@ -10,7 +10,7 @@
       <md:title>Structure and Function of the Nervous System: Cells and Anatomy</md:title>
       <col:content>
         <col:module document="m00026"/>
-        <col:module document="m00021"/>
+        <col:module document="neuro-adap-m00021b"/>
         <col:module document="m00022"/>
         <col:module document="m00023"/>
         <col:module document="m00024"/>
@@ -35,39 +35,6 @@
         <col:module document="m00028"/>
         <col:module document="m00029"/>
         <col:module document="m00030"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Comparative Neuroscience</md:title>
-      <col:content>
-        <col:module document="m00031"/>
-        <col:module document="m00032"/>
-        <col:module document="m00033"/>
-        <col:module document="m00034"/>
-        <col:module document="m00035"/>
-        <col:module document="m00036"/>
-        <col:module document="m00037"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Evolution (from Concepts of Biology)</md:title>
-      <col:content>
-        <col:module document="bio-m45486"/>
-        <col:module document="bio-m45487"/>
-        <col:module document="bio-m45489"/>
-        <col:module document="bio-m45491"/>
-        <col:module document="bio-m45493"/>
-        <col:module document="bio-m45505"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
-      <md:title>Neurodevelopment</md:title>
-      <col:content>
-        <col:module document="m00086"/>
-        <col:module document="m00085"/>
-        <col:module document="m00074"/>
-        <col:module document="m00075"/>
-        <col:module document="m00076"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>

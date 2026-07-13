@@ -27,8 +27,9 @@ git fetch upstream && git merge upstream/main
 python3 tools/validate.py reader/cogneuro.collection.xml
 
 # 3. Build the PDF
-python3 tools/build_latex.py reader/cogneuro.collection.xml --out build/cogneuro.tex
-cd build && xelatex cogneuro.tex && xelatex cogneuro.tex
+python3 tools/build_latex.py reader/UCSCICOG11_Cognitive_Neuroscience_I_Reader.xml --out build/UCSCICOG11_Cognitive_Neuroscience_I_Reader.tex
+cd build && xelatex UCSCICOG11_Cognitive_Neuroscience_I_Reader.tex && xelatex UCSCICOG11_Cognitive_Neuroscience_I_Reader.tex
+cd ..
 ```
 
 ## Authoring the collection

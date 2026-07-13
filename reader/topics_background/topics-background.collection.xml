@@ -6,7 +6,8 @@
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</md:license>
   </col:metadata>
   <col:content>
-     <col:subcollection>
+    <col:module document="authored-intro-primer"/>
+    <col:subcollection>
       <md:title>Cell Biology</md:title>
       <col:content>
         <col:module document="neuro-adap-m00021a"/>
