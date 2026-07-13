@@ -39,9 +39,10 @@ import xml.etree.ElementTree as ET  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
-PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt]{report}
+PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt@@CLASSOPTS@@]{@@CLASS@@}
 \usepackage{fontspec}
 \usepackage[@@PAPER@@paper,margin=@@MARGIN@@]{geometry}
+@@TWOCOLUMN@@
 \usepackage{graphicx}
 \usepackage{amsmath}   % \text{...} for MathML <m:mtext> (words inside equations)
 \usepackage{tabularx}
@@ -198,9 +199,11 @@ PAPER_OPTS = {"a4": "a4", "letter": "letter"}
 
 def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path,
           ws: Workspace, appendix: bool = True, collection_dir: Path | None = None,
-          paper: str = "a4", fontsize: str = "10", margin: str = "2cm") -> None:
+          paper: str = "a4", fontsize: str = "9", margin: str = "1.5cm",
+          two_column: bool = True) -> None:
     titles = all_module_titles(ws)
-    converter = LatexConverter(module_titles=titles, included_ids=included_ids)
+    converter = LatexConverter(module_titles=titles, included_ids=included_ids,
+                               two_column=two_column)
 
     # Index every figure/table id up front so cross-references resolve regardless
     # of module order (e.g. a link to a figure in a later module of the chapter).
@@ -211,10 +214,21 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
 
     # Every source's media dir goes on the graphics path, in source order.
     graphicspath = "".join(f"{{{d.as_posix()}/}}" for d in ws.media_dirs())
+    # report ships only 10/11/12pt; 8/9pt (for narrow two-column lines) needs the
+    # extsizes drop-in extreport. twocolumn is a class option; cuted gives wide
+    # tables a full-width band via \begin{strip} (see LatexConverter._table).
+    klass = "report" if fontsize in {"10", "11", "12"} else "extreport"
+    class_opts = ",twocolumn" if two_column else ""
+    twocol_pkgs = (
+        "\\usepackage{cuted}   % \\begin{strip}: full-page-width bands in 2 columns\n"
+        "\\setlength{\\columnsep}{16pt}\n" if two_column else "")
     preamble = (PREAMBLE
                 .replace("@@GRAPHICSPATH@@", graphicspath)
                 .replace("@@PAPER@@", PAPER_OPTS[paper])
                 .replace("@@FONTSIZE@@", fontsize)
+                .replace("@@CLASS@@", klass)
+                .replace("@@CLASSOPTS@@", class_opts)
+                .replace("@@TWOCOLUMN@@", twocol_pkgs)
                 .replace("@@MARGIN@@", margin)
                 .replace("@@TITLE@@", escape_title(title))
                 .replace("@@AUTHOR@@", escape_title(author)))
@@ -243,10 +257,14 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--out", default="build/reader.tex", type=Path)
     p.add_argument("--paper", choices=sorted(PAPER_OPTS), default="a4",
                    help="page size (default: a4; students print on A4)")
-    p.add_argument("--fontsize", choices=["10", "11", "12"], default="10",
-                   help="base font size in pt (default: 10; report supports 10/11/12 only)")
-    p.add_argument("--margin", default="1in",
-                   help="page margin, any LaTeX length (default: 1in)")
+    p.add_argument("--fontsize", choices=["8", "9", "10", "11", "12"], default="9",
+                   help="base font size in pt (default: 9, to suit two-column's narrow "
+                        "lines; 8/9 switch report->extreport)")
+    p.add_argument("--onecolumn", dest="twocolumn", action="store_false",
+                   help="single-column layout; the default is two-column (narrower "
+                        "lines -> smaller font -> ~half the pages / print cost)")
+    p.add_argument("--margin", default="1.5cm",
+                   help="page margin, any LaTeX length (default: 1.5cm)")
     p.add_argument("--no-appendix", dest="appendix", action="store_false",
                    help="omit the auto-generated provenance & attribution appendix")
     args = p.parse_args(argv)
@@ -270,7 +288,8 @@ def main(argv: list[str] | None = None) -> int:
     ws = discover_workspace(REPO_ROOT)
     build(nodes, included_ids, args.title, args.author, out, ws,
           appendix=args.appendix, collection_dir=collection_dir,
-          paper=args.paper, fontsize=args.fontsize, margin=args.margin)
+          paper=args.paper, fontsize=args.fontsize, margin=args.margin,
+          two_column=args.twocolumn)
     return 0
 
 

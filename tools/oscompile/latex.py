@@ -179,11 +179,16 @@ class LatexConverter:
         self,
         module_titles: dict[str, str] | None = None,
         included_ids: set[str] | None = None,
+        two_column: bool = False,
     ):
         # Titles of modules on disk, for rendering cross-module link text.
         self.module_titles = module_titles or {}
         # Module ids in the current build (unused refs still render as text).
         self.included_ids = included_ids or set()
+        # Two-column layout: longtable is illegal in twocolumn mode, so every
+        # table becomes a non-breaking tabularx, and wide ones break out to full
+        # page width via cuted's \begin{strip}. See _table().
+        self.two_column = two_column
         self.labels: dict[str, Label] = {}
         self.dropped: list[str] = []  # notes about interactive content dropped
         self._numbered = True  # sections in an unnumbered chapter are unnumbered too
@@ -410,7 +415,8 @@ class LatexConverter:
                 return []
             out = []
             for row in section.findall(f"{{{CNXML_NS}}}row"):
-                cells = [self._inline(e) for e in row.findall(f"{{{CNXML_NS}}}entry")]
+                entries = row.findall(f"{{{CNXML_NS}}}entry")
+                cells = [self._inline(e) if header else self._cell(e) for e in entries]
                 if header:
                     cells = ["\\textbf{" + c + "}" for c in cells]
                 out.append("  " + " & ".join(cells) + " \\\\ \\hline")
@@ -423,17 +429,30 @@ class LatexConverter:
         # header (\endhead). But longtable can't live inside a box, so inside a note
         # or objectives box we fall back to a plain (non-breaking) tabularx.
         # Both are non-floating; \small helps wide (many-column) tables fit.
-        env = "tabularx" if in_box else "xltabular"
+        #
+        # Two-column layout: longtable is illegal in twocolumn mode, so every table
+        # becomes a non-breaking tabularx. A wide (>=5 col) table would be unreadable
+        # crushed into one ~8cm column, so it breaks out to full page width via
+        # cuted's \begin{strip} (a non-floating full-width band); \linewidth inside
+        # the strip is the full text width, not the column width. A table whose cells
+        # hold diagrams (e.g. Table 2.21's channel sketches) breaks out too, at any
+        # column count -- an image squeezed into a half-column cell is illegible.
+        has_image = el.find(f".//{{{CNXML_NS}}}image") is not None
+        wide = self.two_column and not in_box and (ncols >= 5 or has_image)
+        env = "xltabular" if (not in_box and not self.two_column) else "tabularx"
         anchor = f"\\hypertarget{{tab:{el_id}}}{{}}" if el_id else ""
         lines = ["\\par\\medskip\\begingroup\\small" + anchor,
                  f"{{\\textbf{{Table {number}.}}}}\\par\\smallskip",
                  f"\\begin{{{env}}}{{\\linewidth}}{{{colspec}}}", "  \\hline"]
         lines += thead
-        if not in_box:
+        if env == "xltabular":
             lines.append("  \\endhead")  # repeat header on each page it spans
         lines += tbody
         lines += [f"  \\end{{{env}}}", "\\endgroup\\par\\medskip"]
-        return "\n".join(lines) + "\n"
+        body = "\n".join(lines) + "\n"
+        if wide:
+            body = "\\begin{strip}\n" + body + "\\end{strip}\n"
+        return body
 
     def _exercise(self, el: ET.Element, level: int, in_box: bool) -> str:
         """Render an exercise with real content (problem + optional solution).
@@ -509,6 +528,17 @@ class LatexConverter:
         return (f"\\begin{{featurebox}}{{{head}}}\n" + inner + "\n\\end{featurebox}\n")
 
     # -- inline rendering --------------------------------------------------
+
+    def _cell(self, entry: ET.Element) -> str:
+        """A table body cell. A cell that is *only* a diagram (an <image> with no
+        accompanying text, e.g. the channel sketches in Table 2.21) renders at the
+        cell width instead of the inline 1em icon size, so it stays legible; a cell
+        that mixes text and an image falls through to normal inline rendering."""
+        img = entry.find(f".//{{{CNXML_NS}}}image")
+        if img is not None and img.get("src") and not "".join(entry.itertext()).strip():
+            src = Path(img.get("src")).name
+            return f"\\includegraphics[width=\\linewidth,height=0.25\\textheight,keepaspectratio]{{{src}}}"
+        return self._inline(entry)
 
     def _inline(self, el: ET.Element | None) -> str:
         if el is None:

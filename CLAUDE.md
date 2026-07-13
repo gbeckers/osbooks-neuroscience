@@ -25,12 +25,20 @@ python3 tools/build_latex.py reader/<course>.collection.xml --title "…" --out 
 cd build && xelatex x.tex && xelatex x.tex                            # twice: ToC/refs
 ```
 Use **xelatex** (not pdflatex — the source has Unicode). Needs TeX Live with
-`xltabular`, `tcolorbox`, `xurl`, `enumitem`, `newunicodechar` (texlive-latex-extra).
-Page layout defaults to compact **A4 / 10pt / 2cm margins** (to save paper when
-students print); override with `--paper {a4,letter} --fontsize {10,11,12} --margin
-<len>`. `report` supports only 10/11/12pt — 10.5 would need a KOMA class.
-The full reader is ~480 pages (was ~630 before the compact layout) / hundreds of
-images and takes minutes per pass;
+`xltabular`, `tcolorbox`, `xurl`, `enumitem`, `newunicodechar`, plus `extsizes`
+(8/9pt `extreport`) and `cuted` (full-width `strip`) for the two-column layout —
+all in texlive-latex-extra.
+Page layout defaults to compact **two-column A4 / 9pt / 1.5cm margins** (halves the
+page count vs. the old single-column 10pt, to cut color-print cost when students
+print). Two-column narrows lines so a smaller font stays readable; figures and
+boxes reflow into a column automatically (they're emitted at `\linewidth`), and
+tables become non-breaking `tabularx` — a `longtable` is illegal in twocolumn mode.
+Wide (≥5-col) **or** image-bearing tables would be crushed in a ~8cm column, so they
+break out to full page width via `cuted`'s `\begin{strip}`. Override with `--paper
+{a4,letter} --fontsize {8,9,10,11,12} --margin <len>`, or `--onecolumn` for the old
+single-column layout. `report` (single-column) supports only 10/11/12pt; 8/9pt
+switches to `extreport`. The full reader is ~215 pages (was ~412 single-column) /
+hundreds of images and takes minutes per pass;
 run compiles in the background. If a run is killed it leaves a truncated `.toc` that
 breaks the next run ("File ended while scanning \@writefile") — delete
 `build/<name>.{aux,toc,out,log}` and recompile.
@@ -50,9 +58,9 @@ breaks the next run ("File ended while scanning \@writefile") — delete
 - **Upstream sync**: `git fetch upstream && git merge upstream/main`, then validate.
 
 ## Current state
-- Course reader: `reader/UCSCICOG11_Cognitive_Neuroscience_I_Reader.xml` — 12
-  neuroscience chapters + the imported Evolution chapter + Methods (~482-page A4 PDF
-  at the compact 10pt layout).
+- Course reader: `reader/UCSCICOG11_Cognitive_Neuroscience_I_Reader.xml` — 10
+  neuroscience chapters + Methods (~215-page A4 PDF at the default two-column 9pt
+  layout; was ~412 single-column).
 - Per-class topic readers under `reader/topics/<topic>/` (a `*.collection.xml` plus
   its own `errata.md`), e.g. `reader/topics/neuroanatomy/` — lets each class get its
   own document. Neuroanatomy is a work in progress (more sources to be added).
