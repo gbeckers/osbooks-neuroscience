@@ -45,6 +45,17 @@ PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt@@CLASSOPTS@@]{@@CLASS@@}
 @@TWOCOLUMN@@
 \usepackage{graphicx}
 \usepackage{amsmath}   % \text{...} for MathML <m:mtext> (words inside equations)
+% Libertinus for the text: a humanist serif that stays solid at small sizes on
+% screen (this reader is read on screen as much as printed), unlike Computer
+% Modern's thin strokes. We set only the *text* fonts here, deliberately NOT the
+% math font: unicode-math (which Libertinus Math needs) makes Unicode Greek
+% math-active and so breaks this book's pervasive inline *text* Greek (alpha/beta
+% receptors) -- it renders text alpha via the math-plane glyph the text font
+% lacks. Instead math stays Computer Modern and the \newunicodechar maps below
+% route each Greek letter to the text glyph in text and the math command in math.
+\setmainfont{Libertinus Serif}
+\setsansfont{Libertinus Sans}
+\setmonofont{Libertinus Mono}
 \usepackage{tabularx}
 \usepackage{xltabular}   % longtable + X columns: wide tables break across pages
 \usepackage{array}
@@ -55,41 +66,45 @@ PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt@@CLASSOPTS@@]{@@CLASS@@}
 \usepackage{xurl}   % break long URLs/DOIs anywhere (load after hyperref)
 \hypersetup{colorlinks=true, linkcolor=blue!50!black, urlcolor=blue!50!black}
 % microtype is deliberately omitted: on xelatex it only does character
-% protrusion, which chokes on the newunicodechar-active Greek letters below
+% protrusion, which chokes on the newunicodechar-active symbols below
 % ("Unknown slot number of character"). xurl + emergencystretch cover the
 % justification instead.
 \emergencystretch=3em  % soak up the last few unbreakable overfulls
 
-% The main font (Latin Modern) has no text-mode Greek; map the codepoints the
-% book uses (receptor/molecule names, units) to math-mode equivalents so they
-% render instead of dropping out as "Missing character".
+% Greek is context-sensitive: in text (receptor/molecule names, units) it renders
+% as the upright Libertinus glyph, which the text font carries -- \char"XXXX pulls
+% the codepoint from the current (Libertinus) font, so it follows bold/italic. In
+% math (equations from MathML) it renders as the Computer Modern math command,
+% since math stays CM. \relax terminates the hex constant so a following digit
+% (e.g. the 7 in "alpha7") isn't swallowed into it.
 \usepackage{newunicodechar}
-\newunicodechar{α}{\ensuremath{\alpha}}
-\newunicodechar{β}{\ensuremath{\beta}}
-\newunicodechar{γ}{\ensuremath{\gamma}}
-\newunicodechar{δ}{\ensuremath{\delta}}
-\newunicodechar{ε}{\ensuremath{\varepsilon}}
-\newunicodechar{ζ}{\ensuremath{\zeta}}
-\newunicodechar{η}{\ensuremath{\eta}}
-\newunicodechar{θ}{\ensuremath{\theta}}
-\newunicodechar{κ}{\ensuremath{\kappa}}
-\newunicodechar{λ}{\ensuremath{\lambda}}
-\newunicodechar{μ}{\ensuremath{\mu}}
-\newunicodechar{ν}{\ensuremath{\nu}}
-\newunicodechar{π}{\ensuremath{\pi}}
-\newunicodechar{ρ}{\ensuremath{\rho}}
-\newunicodechar{σ}{\ensuremath{\sigma}}
-\newunicodechar{τ}{\ensuremath{\tau}}
-\newunicodechar{φ}{\ensuremath{\varphi}}
-\newunicodechar{χ}{\ensuremath{\chi}}
-\newunicodechar{ψ}{\ensuremath{\psi}}
-\newunicodechar{ω}{\ensuremath{\omega}}
-\newunicodechar{Δ}{\ensuremath{\Delta}}
-\newunicodechar{Σ}{\ensuremath{\Sigma}}
-\newunicodechar{Ω}{\ensuremath{\Omega}}
-\newunicodechar{Φ}{\ensuremath{\Phi}}
-\newunicodechar{Ψ}{\ensuremath{\Psi}}
-\newunicodechar{Γ}{\ensuremath{\Gamma}}
+\newcommand{\tg}[2]{\ifmmode#1\else\char"#2\relax\fi}   % text glyph / math command
+\newunicodechar{α}{\tg{\alpha}{03B1}}
+\newunicodechar{β}{\tg{\beta}{03B2}}
+\newunicodechar{γ}{\tg{\gamma}{03B3}}
+\newunicodechar{δ}{\tg{\delta}{03B4}}
+\newunicodechar{ε}{\tg{\varepsilon}{03B5}}
+\newunicodechar{ζ}{\tg{\zeta}{03B6}}
+\newunicodechar{η}{\tg{\eta}{03B7}}
+\newunicodechar{θ}{\tg{\theta}{03B8}}
+\newunicodechar{κ}{\tg{\kappa}{03BA}}
+\newunicodechar{λ}{\tg{\lambda}{03BB}}
+\newunicodechar{μ}{\tg{\mu}{03BC}}
+\newunicodechar{ν}{\tg{\nu}{03BD}}
+\newunicodechar{π}{\tg{\pi}{03C0}}
+\newunicodechar{ρ}{\tg{\rho}{03C1}}
+\newunicodechar{σ}{\tg{\sigma}{03C3}}
+\newunicodechar{τ}{\tg{\tau}{03C4}}
+\newunicodechar{φ}{\tg{\varphi}{03C6}}
+\newunicodechar{χ}{\tg{\chi}{03C7}}
+\newunicodechar{ψ}{\tg{\psi}{03C8}}
+\newunicodechar{ω}{\tg{\omega}{03C9}}
+\newunicodechar{Δ}{\tg{\Delta}{0394}}
+\newunicodechar{Σ}{\tg{\Sigma}{03A3}}
+\newunicodechar{Ω}{\tg{\Omega}{03A9}}
+\newunicodechar{Φ}{\tg{\Phi}{03A6}}
+\newunicodechar{Ψ}{\tg{\Psi}{03A8}}
+\newunicodechar{Γ}{\tg{\Gamma}{0393}}
 \newunicodechar{⋅}{\ensuremath{\cdot}}
 \newunicodechar{→}{\ensuremath{\rightarrow}}
 \newunicodechar{⇔}{\ensuremath{\Leftrightarrow}}

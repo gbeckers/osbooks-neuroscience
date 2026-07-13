@@ -27,7 +27,14 @@ cd build && xelatex x.tex && xelatex x.tex                            # twice: T
 Use **xelatex** (not pdflatex — the source has Unicode). Needs TeX Live with
 `xltabular`, `tcolorbox`, `xurl`, `enumitem`, `newunicodechar`, plus `extsizes`
 (8/9pt `extreport`) and `cuted` (full-width `strip`) for the two-column layout —
-all in texlive-latex-extra.
+all in texlive-latex-extra. Body text is **Libertinus** (Serif/Sans/Mono) — a
+humanist OpenType serif that stays legible on screen at 9pt where Computer
+Modern's thin strokes thin out; it must be installed as a **system font** (xelatex
+finds it by name via fontspec). Math stays Computer Modern: `unicode-math` +
+Libertinus Math would make Unicode Greek math-active and break the book's
+pervasive *inline text* Greek (α/β receptors), so instead each Greek codepoint is
+mapped (in `newunicodechar`) to the Libertinus text glyph in text and the CM math
+command in equations.
 Page layout defaults to compact **two-column A4 / 9pt / 1.5cm margins** (halves the
 page count vs. the old single-column 10pt, to cut color-print cost when students
 print). Two-column narrows lines so a smaller font stays readable; figures and
