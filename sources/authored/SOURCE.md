@@ -16,7 +16,7 @@ book. Unlike the imported sources, these are authored in **raw LaTeX**
 hand. The builder injects the file verbatim under an auto-generated section
 heading; see `sources/README.md` ("Authored LaTeX sections") for the format.
 
-- `authored-intro-primer`- *Introduction primer* - an introduction to the primer 
+- `authored-intro-preface`- *Preface primer* - an Preface to the primer 
   document on background topics.
 - `authored-ions` - *Ions* - a short primer on ions, intracellular/extracellular
   ion distributions, and the origin of bioelectricity. Placed after the imported
