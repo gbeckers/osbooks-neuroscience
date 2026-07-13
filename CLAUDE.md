@@ -62,6 +62,19 @@ breaks the next run ("File ended while scanning \@writefile") — delete
   `errata.md` sitting next to the collection being built (e.g.
   `reader/topics/<topic>/errata.md`). Appendix rows are typeset (`->` → arrow,
   straight quotes → curly, bare OpenStax id → "OpenStax erratum #N").
+- **Content patches** (course *customization*, distinct from errata *corrections*):
+  omit/replace parts of a module without touching `modules/`, so upstream still
+  merges cleanly. Declarative overlays live in `patches/` dirs as
+  `<module_id>.patch.yaml` (or `_all.patch.yaml`, applied to every module) with
+  three directives — `delete` (drop the innermost block containing a unique text
+  fragment), `drop-sections` (remove whole `<section>`s by heading; lenient),
+  `replace` (`find`→`with` literal swap). Anchors are **text fragments, not line
+  numbers**; `delete`/`replace` must match exactly once or the build errors, so an
+  upstream rewording fails loudly instead of mis-applying. Two scopes are merged at
+  build time: shared `reader/patches/` (every reader) + the collection's own
+  `patches/`. Engine: `tools/oscompile/patches.py` (stdlib-only mini-YAML parser),
+  applied in `LatexConverter.convert_module` after parse. Prefer a patch over a
+  hand-forked copy under `sources/`.
 - **Upstream sync**: `git fetch upstream && git merge upstream/main`, then validate.
 
 ## Current state
@@ -72,6 +85,10 @@ breaks the next run ("File ended while scanning \@writefile") — delete
   its own `errata.md`), e.g. `reader/topics/neuroanatomy/` — lets each class get its
   own document. Neuroanatomy is a work in progress (more sources to be added).
 - Imported source: `sources/biology/` — *Concepts of Biology* ch. 11 (Evolution).
+- Content-patch de-fork: `m00021`'s section cuts now live in
+  `reader/patches/m00021.patch.yaml` (shared by both the main and neuroanatomy
+  readers) instead of a hand-forked `sources/neuroscience_adapt/modules/neuro-adap-m00021b`
+  copy, which was removed. `neuro-adap-m00021a` remains (unused by current readers).
 - `main` is ahead of `origin/main` and unpushed (push from an interactive shell:
   `git push origin main`).
 

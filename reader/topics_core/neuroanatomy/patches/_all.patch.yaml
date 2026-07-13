@@ -1,0 +1,9 @@
+# Applies to EVERY module in this reader (file stem `_all`).
+#
+# The neuroscience source ships "Multiple Choice" and "Fill in the Blank"
+# sections whose questions are interactive os-embed widgets. In a static PDF the
+# questions render empty, leaving a bare heading. Drop the whole section wherever
+# it appears. `drop-sections` is lenient: modules without these sections are fine.
+drop-sections:
+  - Multiple Choice
+  - Fill in the Blank

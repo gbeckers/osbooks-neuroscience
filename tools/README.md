@@ -12,6 +12,11 @@ Dependency-free (Python 3 standard library only). No `pip install` needed.
   neuroscience root plus each `sources/<name>/`), resolves a module id to a file,
   and flags id/media collisions. Both tools resolve modules through this.
 - `oscompile/validate.py` — cross-check a collection against all sources.
+- `oscompile/patches.py` — declarative content patches: apply `delete` /
+  `drop-sections` / `replace` overlays (from `reader/patches/` + a collection's own
+  `patches/`) to a module's parsed tree so `modules/` stays pristine. Anchored by
+  unique text fragment; a stale anchor fails loudly. Both the builder and the
+  validator run modules through it.
 - `oscompile/latex.py` — CNXML → LaTeX converter.
 - `oscompile/provenance.py` — generate the "Provenance & Attribution" appendix
   from source metadata + `git diff upstream/main` + `reader/errata.md`.
@@ -45,6 +50,11 @@ Exit code is non-zero if there are any ERRORs, so it drops into CI/Make cleanly.
   / iframes (interactive content that can't print).
 - **INFO** — external web links; with `--orphans`, unreferenced media (across all
   sources).
+
+Validation is **patch-aware**: each module is checked *after* its patches are
+applied (`reader/patches/` + the collection's `patches/`), so counts reflect the
+built document (dropped sections' `os-embed`/`iframe` no longer warn) and a patch
+whose anchor no longer matches is reported as a `patch-error` ERROR.
 
 ## Build a LaTeX/PDF reader (prototype)
 

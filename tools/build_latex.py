@@ -218,8 +218,16 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
           paper: str = "a4", fontsize: str = "9", margin: str = "1.5cm",
           two_column: bool = True) -> None:
     titles = all_module_titles(ws)
+    from oscompile.patches import load_patchset
+    # Shared repo-level patches (reader/patches/) apply to every reader; the
+    # collection's own patches/ dir adds reader-specific edits on top. For the main
+    # reader, whose collection dir *is* reader/, the two coincide and are deduped.
+    patch_dirs = [REPO_ROOT / "reader" / "patches"]
+    if collection_dir is not None:
+        patch_dirs.append(Path(collection_dir) / "patches")
+    patchset = load_patchset(patch_dirs)
     converter = LatexConverter(module_titles=titles, included_ids=included_ids,
-                               two_column=two_column)
+                               two_column=two_column, patchset=patchset)
 
     # Index every figure/table id up front so cross-references resolve regardless
     # of module order (e.g. a link to a figure in a later module of the chapter).
@@ -258,6 +266,14 @@ def build(nodes, included_ids: set[str], title: str, author: str, out_path: Path
     dropped = Counter(converter.dropped)
     print(f"Wrote {out_path}")
     print(f"  modules: {stats['modules']}   figures/tables labelled: {len(converter.labels)}")
+    has_global = any(patchset.global_directives.get(k) for k in patchset.global_directives)
+    if has_global or patchset.per_module:
+        parts = []
+        if has_global:
+            parts.append("_all (every module)")
+        if patchset.per_module:
+            parts.append(", ".join(sorted(patchset.per_module)))
+        print(f"  patches applied: {'; '.join(parts)}")
     if dropped:
         summary = ", ".join(f"{n}x {k}" for k, n in dropped.items())
         print(f"  dropped interactive content: {summary}")

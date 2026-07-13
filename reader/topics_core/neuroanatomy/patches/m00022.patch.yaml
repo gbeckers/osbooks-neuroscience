@@ -1,0 +1,23 @@
+# Course customizations for m00022 "Organization of the Nervous System".
+# The upstream module in modules/m00022/ stays untouched; these edits are applied
+# to its parsed tree at build time. Anchors are unique text fragments -- if
+# OpenStax rewords one, the build fails loudly naming this file and the fragment.
+
+# Remove the innermost block (here: a whole <para>) containing this fragment.
+delete:
+  - |
+    Nerve cords can be arranged in a ladder-like conformation
+
+# Remove a whole subsection by its <title>. This section's figure (Image-1.27) is
+# referenced only from within the section itself, so dropping it leaves no
+# dangling cross-reference.
+drop-sections:
+  - Animal symmetry
+
+# Swap one run of literal text. `find` must occur exactly once. Prose goes in a
+# `|` block scalar so colons/quotes don't clash with YAML.
+replace:
+  - find: |
+      similar to the great lakes: independent bodies of water but connected by rivers (aqueduct)
+    with: |
+      similar to a chain of connected lakes joined by short channels

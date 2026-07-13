@@ -180,11 +180,15 @@ class LatexConverter:
         module_titles: dict[str, str] | None = None,
         included_ids: set[str] | None = None,
         two_column: bool = False,
+        patchset=None,
     ):
         # Titles of modules on disk, for rendering cross-module link text.
         self.module_titles = module_titles or {}
         # Module ids in the current build (unused refs still render as text).
         self.included_ids = included_ids or set()
+        # Declarative content patches applied to each module's parsed tree before
+        # rendering (keeps modules/ pristine for upstream sync). See patches.py.
+        self.patchset = patchset
         # Two-column layout: longtable is illegal in twocolumn mode, so every
         # table becomes a non-breaking tabularx, and wide ones break out to full
         # page width via cuted's \begin{strip}. See _table().
@@ -213,6 +217,10 @@ class LatexConverter:
         if path.suffix == ".tex":
             return self._convert_tex_module(path, module_id, heading_level, numbered)
         root = ET.parse(path).getroot()
+
+        if self.patchset is not None:
+            from .patches import apply_patches
+            apply_patches(root, module_id, self.patchset)
 
         self._index_labels(root)
 

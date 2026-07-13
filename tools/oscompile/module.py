@@ -77,8 +77,15 @@ def _local(tag: str) -> str:
     return tag.split("}", 1)[-1]
 
 
-def parse_module(path: str | Path, module_id: str | None = None) -> Module:
-    """Parse a module's index.cnxml. `path` may be the dir or the index.cnxml file."""
+def parse_module(path: str | Path, module_id: str | None = None,
+                 patchset=None) -> Module:
+    """Parse a module's index.cnxml. `path` may be the dir or the index.cnxml file.
+
+    If `patchset` is given, its patches are applied to the parsed tree *before* the
+    ids/images/links/iframes are indexed, so the validator sees exactly what the
+    build will render (dropped sections' exercises no longer count, and links into
+    removed content are flagged). A stale patch anchor raises PatchError (from
+    oscompile.patches), which the validator surfaces as an error."""
     path = Path(path)
     if path.is_dir():
         path = path / "index.cnxml"
@@ -93,6 +100,10 @@ def parse_module(path: str | Path, module_id: str | None = None) -> Module:
     if module_id is None:
         cid = root.find(f".//{{{MD_NS}}}content-id")
         module_id = (cid.text or "").strip() if cid is not None else module_dir.name
+
+    if patchset is not None:
+        from .patches import apply_patches
+        apply_patches(root, module_id, patchset)
 
     module = Module(module_id=module_id, title=title, path=path)
 

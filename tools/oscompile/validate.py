@@ -8,6 +8,8 @@ reference that will break in your custom reader:
             * an <image src> points at a file that isn't in media/
             * an intra-module figure link (target-id) resolves to no such id
             * a cross-module link points at a module that doesn't exist on disk
+            * a content patch's anchor no longer matches (would fail the build) --
+              only when a patchset is supplied; see build_report(patchset=...)
 
   WARN   -- will build, but the result is probably not what you want:
             * a cross-module link points at a module NOT in this collection
@@ -31,6 +33,7 @@ import xml.etree.ElementTree as ET
 
 from .collection import Collection, parse_collection
 from .module import Module, parse_module
+from .patches import PatchError, load_patchset
 from .sources import Workspace, discover_workspace
 
 ERROR, WARN, INFO = "ERROR", "WARN", "INFO"
@@ -75,9 +78,14 @@ def build_report(
     repo_root: str | Path,
     check_orphans: bool = False,
     workspace: Workspace | None = None,
+    patchset=None,
 ) -> Report:
     """Cross-check `collection` against the modules/media of every content source
-    (the neuroscience upstream plus anything under sources/)."""
+    (the neuroscience upstream plus anything under sources/).
+
+    If `patchset` is given (see oscompile.patches), each module is validated *after*
+    its patches are applied, so the report reflects the document the build actually
+    produces -- and a patch whose anchor no longer matches is reported as an error."""
     repo_root = Path(repo_root)
     ws = workspace or discover_workspace(repo_root)
     report = Report()
@@ -112,12 +120,21 @@ def build_report(
     def load(module_id: str) -> Module | None:
         if module_id not in cache:
             p = ws.resolve(module_id)
-            if p is not None and p.suffix == ".tex":
-                # Course-authored raw-LaTeX section: no CNXML to validate.
+            if p is None or p.suffix == ".tex":
+                # Missing, or a course-authored raw-LaTeX section: no CNXML to validate.
                 cache[module_id] = None
             else:
                 try:
-                    cache[module_id] = parse_module(p, module_id=module_id) if p else None
+                    cache[module_id] = parse_module(p, module_id=module_id, patchset=patchset)
+                except PatchError as exc:
+                    # A patch anchor no longer matches -- this would fail the build.
+                    # Report it, then fall back to the unpatched module so the rest
+                    # of the module's references still get validated.
+                    report.add(ERROR, "patch-error", str(exc), module_id=module_id)
+                    try:
+                        cache[module_id] = parse_module(p, module_id=module_id)
+                    except Exception:
+                        cache[module_id] = None
                 except Exception as exc:  # malformed XML shouldn't crash the whole run
                     cache[module_id] = None
                     report.add(ERROR, "parse-error", f"failed to parse: {exc}", module_id=module_id)
@@ -256,7 +273,12 @@ def main(argv: list[str] | None = None) -> int:
 
     collection = parse_collection(coll_path)
     workspace = discover_workspace(repo_root)
-    report = build_report(collection, repo_root, check_orphans=args.orphans, workspace=workspace)
+    # Shared repo-level patches + the collection's own, same as build_latex.py, so
+    # validation reflects the patched document that will actually be built.
+    patchset = load_patchset([repo_root / "reader" / "patches",
+                              coll_path.resolve().parent / "patches"])
+    report = build_report(collection, repo_root, check_orphans=args.orphans,
+                          workspace=workspace, patchset=patchset)
     print_report(report, collection, workspace)
     return 1 if report.error_count else 0
 

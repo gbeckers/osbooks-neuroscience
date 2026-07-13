@@ -1,0 +1,23 @@
+# SHARED patch (reader/patches/): applies to every reader that includes m00021.
+#
+# De-fork of the former neuro-adap-m00021b: express the cuts as a patch on the
+# pristine upstream m00021 "Building a Nervous System", so modules/m00021 stays
+# untouched and syncs cleanly. This reproduces exactly the sections that the
+# hand-maintained copy removed:
+#   * the cell-biology preamble before "Neurons" (central dogma / organelles), and
+#   * the histology / visualization techniques after "Schwann Cells".
+# Every figure referenced by these passages lives inside the dropped sections, so
+# no cross-reference is left dangling.
+drop-sections:
+  # -- cell-biology preamble (before "Neurons") --
+  - Brain cells are eukaryotic cells
+  - "Introduction to the central dogma: cell identity is determined by gene expression"
+  - "Organelles: carry out functions of cells"
+  # -- histology / visualization techniques (after "Schwann Cells") --
+  - "History of Neuroscience: Visualizing Brain Cells: from Cajal to Brainbow"
+  - "Chemical Stains: Focus on the Golgi Stain"
+  - Immunofluorescence
+  - GFP Labeling/Brainbow
+  # untitled wrapper section grouping the "Counting Neurons" lab note + species
+  # figure; matched by the note's heading (the section has no title of its own).
+  - Counting Neurons
