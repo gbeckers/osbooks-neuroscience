@@ -56,6 +56,7 @@ PREAMBLE = r"""\documentclass[@@FONTSIZE@@pt@@CLASSOPTS@@]{@@CLASS@@}
 \setmainfont{Libertinus Serif}
 \setsansfont{Libertinus Sans}
 \setmonofont{Libertinus Mono}
+\usepackage{microtype}
 \usepackage{tabularx}
 \usepackage{xltabular}   % longtable + X columns: wide tables break across pages
 \usepackage{array}
